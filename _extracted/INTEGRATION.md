@@ -1,10 +1,101 @@
 # Integration plan: lift cal.com booking → Ultron
 
 **For**: the next Claude Code session (or human engineer) wiring this up.
-**Audience assumption**: you've read `README.md` already and have access to
-both the cal.com repo (for reference) and the Ultron repo (where you'll be
-writing). You don't need to read every cal.com file — this doc cites the
-exact lines where assumptions came from.
+
+---
+
+## 0. Session Zero — read this first
+
+### Where this extraction lives
+- **Repo**: `nexitynetwork/cal.com`
+- **Branch**: `claude/inspect-repo-dYEon`
+- **Path**: `_extracted/`
+
+The extraction is a self-contained folder. Clone the branch read-only or
+inspect via the GitHub UI:
+```bash
+git clone --depth=1 --branch claude/inspect-repo-dYEon \
+  https://github.com/NexityNetwork/cal.com.git /tmp/calcom-extraction
+cd /tmp/calcom-extraction/_extracted
+```
+
+You'll do your actual writing in the **Ultron** repo
+(`nexitynetwork/ultron`). This folder is your reference + paste source.
+
+### Access preflight checklist
+
+Before writing any code, confirm you can reach all of these. If something
+is missing, ask the user before starting:
+
+| Need | What it's for | How to verify |
+|---|---|---|
+| Ultron repo write access | All implementation | `git clone` + push to a feature branch |
+| Supabase project (Ultron, id `rvugghuawrgdigabochq`, eu-north-1) | DB migrations, RLS testing | Open in Supabase dashboard, run `select 1` |
+| Supabase service-role key | Booking creation as admin client | Env var `SUPABASE_SERVICE_ROLE_KEY` in Ultron's `.env.local` |
+| Composio API key | Calendar event creation/lookup | Env var `COMPOSIO_API_KEY`. Test with `curl -H "x-api-key: $KEY" https://backend.composio.dev/api/v3/connected_accounts` |
+| Cloudflare account (id `9329dd27959dfe8804ff27e1d5d50b29`) | Deploy `ultron-bookings` worker | `wrangler whoami` |
+| Resend / email provider creds | Confirmation + reminder emails | Same provider Ultron uses for `src/lib/email/share-notifications.ts` |
+| `WEBHOOK_SECRET` | Shared between Next.js app + CF worker | Existing var on Ultron — extend usage |
+
+### First 30 minutes (recommended order)
+
+1. **Read this doc end-to-end.** ~10 min.
+2. **Skim `_extracted/README.md` and `_extracted/share-as-booking/README.md`.** ~5 min.
+3. **Open `_extracted/types/booking.ts`** to internalize the type vocabulary the rest of the docs use. ~5 min.
+4. **Read sections 1–3 of this doc** (what Ultron has, what's provided, build order). ~10 min.
+5. **Run the sanity check below** before writing real code. ~5 min.
+
+### Sanity check — verify the algorithms work in 30 seconds
+
+Save this as a scratch file in Ultron (`scripts/test-slot-finder.ts`) and
+run with `tsx`:
+
+```ts
+// Paste types/booking.ts and algorithms/*.ts contents OR symlink
+// _extracted/algorithms/ into Ultron's src/lib/booking/ first.
+
+import { findAvailableSlots } from "./src/lib/booking/slot-finder";
+
+const result = findAvailableSlots({
+  rangeStart: "2026-06-01T00:00:00Z",
+  rangeEnd:   "2026-06-02T00:00:00Z",
+  bookerTimezone: "America/Los_Angeles",
+  schedule: {
+    timezone: "Europe/Bucharest",
+    workingHours: [
+      { days: [1,2,3,4,5], startMinute: 9*60, endMinute: 17*60 }
+    ],
+    overrides: [],
+  },
+  busyTimes: [
+    { start: "2026-06-01T10:00:00Z", end: "2026-06-01T11:00:00Z" }
+  ],
+  eventType: {
+    id: "test", slug: "30min", title: "Test", userId: "test",
+    durationMinutes: 30,
+    minimumBookingNotice: 0,
+    periodType: "UNLIMITED",
+    requiresConfirmation: false,
+    locationType: "google_meet",
+    hidden: false,
+  }
+});
+
+console.log(`Found ${result.slots.length} slots`);
+console.log(result.slots.slice(0, 5));
+```
+
+Expected: 14-16 slots (Bucharest 9-17 = UTC 06-14 in summer, minus the
+busy hour 10:00-11:00 UTC, in 30-minute increments). If you see roughly
+this, the algorithms work.
+
+### Cross-references you might need to open
+
+- Cal.com source files the algorithms were extracted from (header comments
+  in each `algorithms/*.ts` cite the exact paths). Don't read these unless
+  debugging.
+- Ultron source files cited in section 1 below — those are the integration
+  points in your codebase.
 
 ---
 
