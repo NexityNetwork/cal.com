@@ -1,0 +1,33 @@
+name = "ultron-bookings"
+main = "src/index.ts"
+compatibility_date = "2026-05-01"
+compatibility_flags = ["nodejs_compat"]
+
+# Worker + Workflow bound together. The fetch handler accepts
+# POST /schedule-reminder calls from the Next.js app; the Workflow runs
+# per-booking and durably sleeps between reminder steps.
+
+[[workflows]]
+name = "booking-reminder"
+binding = "BOOKING_REMINDER"
+class_name = "BookingReminderWorkflow"
+
+# Two scheduled crons:
+#   - every 5 minutes: refresh Composio busy-time cache (optional, only if
+#     you decide caching is worth the bandwidth)
+#   - daily at 03:00 UTC: shared_links retention sweep
+[triggers]
+crons = [
+  "*/5 * * * *",
+  "0 3 * * *",
+]
+
+[vars]
+ULTRON_BASE_URL = "https://app.51ultron.com"
+SUPABASE_URL    = "https://rvugghuawrgdigabochq.supabase.co"
+
+# Secrets (set with `wrangler secret put`):
+#   SUPABASE_SERVICE_ROLE_KEY
+#   COMPOSIO_API_KEY
+#   RESEND_API_KEY
+#   WEBHOOK_SECRET
