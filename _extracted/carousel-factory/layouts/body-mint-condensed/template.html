@@ -1,29 +1,17 @@
 <!DOCTYPE html>
 <html><head><meta charset="utf-8">
-<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@300;500;700;800;900&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style>
 *{margin:0;padding:0;box-sizing:border-box}
-html,body{width:1080px;height:1350px;overflow:hidden;background:#d1f5d8;font-family:"Inter",sans-serif;color:#1f3a30;-webkit-font-smoothing:antialiased}
-.author{position:absolute;top:60px;left:80px;display:flex;align-items:center;gap:16px}
-.avatar{width:54px;height:54px;border-radius:50%;background:linear-gradient(135deg,{{avatarBg1}},{{avatarBg2}});display:flex;align-items:center;justify-content:center;font-size:20px;font-weight:700;color:#fff;border:2px solid #2dad6b;flex-shrink:0}
-.author-info .name{font-size:20px;font-weight:700;color:#1f3a30;line-height:1.2}
-.author-info .handle{font-size:16px;font-weight:500;color:#5a7a6e;line-height:1.2}
-.num-row{position:absolute;top:200px;left:80px;display:flex;align-items:baseline;gap:18px}
-.num{font-family:"Barlow Condensed",sans-serif;font-weight:800;font-size:140px;line-height:1;color:#2dad6b}
-.num-label{font-size:24px;font-weight:600;color:#5a7a6e;letter-spacing:0.08em;text-transform:uppercase}
-.title{position:absolute;top:400px;left:80px;right:80px;font-family:"Barlow Condensed",sans-serif;font-weight:800;font-size:88px;line-height:0.95;letter-spacing:-1.5px;color:#1f3a30}
-.body{position:absolute;top:640px;left:80px;right:80px;font-size:30px;font-weight:400;line-height:1.55;color:#3a5a4e;max-width:920px}
-.callout{position:absolute;bottom:200px;left:80px;right:80px;padding:28px 32px;background:#fff;border-radius:18px;border:2px solid #2dad6b;font-size:24px;font-weight:500;line-height:1.4;color:#1f3a30}
-.callout .lbl{display:block;font-size:18px;font-weight:700;color:#2dad6b;letter-spacing:0.08em;text-transform:uppercase;margin-bottom:8px}
-.bottom{position:absolute;bottom:60px;left:80px;right:80px;display:flex;justify-content:space-between;align-items:center}
-.page-pill{padding:12px 24px;background:#2dad6b;color:#fff;border-radius:50px;font-size:18px;font-weight:600}
-.swipe-pill{padding:12px 28px;background:#2dad6b;color:#fff;border-radius:50px;font-size:18px;font-weight:600}
+html,body{width:1080px;height:1350px;overflow:hidden;background:#f1f1f1;font-family:"Inter",sans-serif;color:#37474f;-webkit-font-smoothing:antialiased}
+.body{position:absolute;top:230px;left:100px;right:100px;font-family:"Inter",sans-serif;font-size:88px;font-weight:500;line-height:1.05;letter-spacing:-2px;color:#37474f}
+.bottom{position:absolute;bottom:64px;left:60px;right:60px;display:flex;justify-content:space-between;align-items:center}
+.pill{padding:14px 32px;background:#37474f;color:#f1f1f1;border-radius:50px;font-size:18px;font-weight:400;display:inline-flex;align-items:center;gap:10px}
 </style></head>
 <body>
-<div class="author"><div class="avatar">{{authorInitials}}</div><div class="author-info"><div class="name">{{authorName}}</div><div class="handle">{{handle}}</div></div></div>
-<div class="num-row"><div class="num">{{number}}</div><div class="num-label">{{numberLabel}}</div></div>
-<div class="title">{{title}}</div>
-<div class="body">{{body}}</div>
-<div class="callout"><span class="lbl">{{calloutLabel}}</span>{{calloutBody}}</div>
-<div class="bottom"><div class="page-pill">{{pageOf}}</div><div class="swipe-pill">Swipe ⟶</div></div>
+<div class="body">{{bodyLine1}}<br>{{bodyLine2}}<br>{{bodyLine3}}<br>{{bodyLine4}}<br>{{bodyLine5}}</div>
+<div class="bottom">
+  <div class="pill">{{pageOf}}</div>
+  <div class="pill">Swipe ⓘ</div>
+</div>
 </body></html>

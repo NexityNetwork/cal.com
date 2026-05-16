@@ -1,6 +1,6 @@
 {
   "id": "mint-cold-outreach",
-  "brand": "Revenue Craft",
+  "brand": "Outbound Pro",
   "brief": "The ultimate guide to cold outreach in 2026 — 6 frameworks that book meetings.",
   "theme": "mint-condensed",
   "slides": [
@@ -9,131 +9,92 @@
       "slots": {
         "titleLine1": "The Ultimate",
         "titleLine2": "Guide to",
-        "titleAccent": "Cold Outreach",
-        "authorInitials": "RC",
-        "authorName": "Revenue Craft",
-        "handle": "@revenue_craft",
-        "avatarBg1": "#a7f3d0",
-        "avatarBg2": "#10b981",
+        "titleBold": "OUTREACH",
+        "authorInitials": "AB",
+        "authorName": "Alex Blake",
+        "handle": "@alexblake",
+        "avatarBg1": "#37474f",
+        "avatarBg2": "#78909c",
         "pageOf": "01 - 08"
       }
     },
     {
       "layoutId": "body-mint-condensed",
       "slots": {
-        "authorInitials": "RC",
-        "authorName": "Revenue Craft",
-        "handle": "@revenue_craft",
-        "avatarBg1": "#a7f3d0",
-        "avatarBg2": "#10b981",
-        "pageOf": "02 - 08",
-        "number": "01",
-        "numberLabel": "FRAMEWORK",
-        "title": "Signal-Based Targeting",
-        "body": "Stop blasting lists. Monitor job changes, funding rounds, and hiring spikes to identify prospects actively entering a buying window. Timing beats volume every time.",
-        "calloutLabel": "WHY IT WORKS",
-        "calloutBody": "Buyers ignore generic pitches but respond to outreach tied to recent, relevant events in their world."
+        "bodyLine1": "Research the person",
+        "bodyLine2": "before writing",
+        "bodyLine3": "a single word",
+        "bodyLine4": "so your hook",
+        "bodyLine5": "feels deeply personal",
+        "pageOf": "02 - 08"
       }
     },
     {
       "layoutId": "body-mint-condensed",
       "slots": {
-        "authorInitials": "RC",
-        "authorName": "Revenue Craft",
-        "handle": "@revenue_craft",
-        "avatarBg1": "#a7f3d0",
-        "avatarBg2": "#10b981",
-        "pageOf": "03 - 08",
-        "number": "02",
-        "numberLabel": "FRAMEWORK",
-        "title": "Problem Agitation Hook",
-        "body": "Lead with a painful, specific problem your prospect faces daily. Amplify the cost of inaction in one sentence, then offer a concrete way to eliminate it.",
-        "calloutLabel": "WHY IT WORKS",
-        "calloutBody": "Pain creates urgency because articulating their frustration better than they can instantly earns the reply."
+        "bodyLine1": "Lead with a",
+        "bodyLine2": "pain point",
+        "bodyLine3": "they already know",
+        "bodyLine4": "but rarely admit",
+        "bodyLine5": "to anyone else",
+        "pageOf": "03 - 08"
       }
     },
     {
       "layoutId": "body-mint-condensed",
       "slots": {
-        "authorInitials": "RC",
-        "authorName": "Revenue Craft",
-        "handle": "@revenue_craft",
-        "avatarBg1": "#a7f3d0",
-        "avatarBg2": "#10b981",
-        "pageOf": "04 - 08",
-        "number": "03",
-        "numberLabel": "FRAMEWORK",
-        "title": "Value-First Exchange",
-        "body": "Send a teardown, benchmark, or mini-audit before asking for anything. Prove expertise in the first three lines so the meeting feels like a natural next step.",
-        "calloutLabel": "WHY IT WORKS",
-        "calloutBody": "Reciprocity is hardwired, so a genuine insight builds trust faster than any product pitch ever will."
+        "bodyLine1": "Drop one sentence",
+        "bodyLine2": "about a similar",
+        "bodyLine3": "company you helped",
+        "bodyLine4": "and instantly earn",
+        "bodyLine5": "more of their trust",
+        "pageOf": "04 - 08"
       }
     },
     {
       "layoutId": "body-mint-condensed",
       "slots": {
-        "authorInitials": "RC",
-        "authorName": "Revenue Craft",
-        "handle": "@revenue_craft",
-        "avatarBg1": "#a7f3d0",
-        "avatarBg2": "#10b981",
-        "pageOf": "05 - 08",
-        "number": "04",
-        "numberLabel": "FRAMEWORK",
-        "title": "The 3R Method",
-        "body": "Open with Relevance, offer a clear Reward for responding, and keep the Request under seven words. If they cannot forward it, rewrite it.",
-        "calloutLabel": "WHY IT WORKS",
-        "calloutBody": "Busy buyers scan and forward, so a tight 3R structure respects their time and reduces friction to zero."
+        "bodyLine1": "Keep your entire",
+        "bodyLine2": "message under",
+        "bodyLine3": "eighty words",
+        "bodyLine4": "so busy people",
+        "bodyLine5": "actually read it",
+        "pageOf": "05 - 08"
       }
     },
     {
       "layoutId": "body-mint-condensed",
       "slots": {
-        "authorInitials": "RC",
-        "authorName": "Revenue Craft",
-        "handle": "@revenue_craft",
-        "avatarBg1": "#a7f3d0",
-        "avatarBg2": "#10b981",
-        "pageOf": "06 - 08",
-        "number": "05",
-        "numberLabel": "FRAMEWORK",
-        "title": "Pattern Interrupt Opener",
-        "body": "Ditch the flattery and fake personalization. Start with a contrarian take, a surprising stat, or a one-line story that breaks their scroll pattern instantly.",
-        "calloutLabel": "WHY IT WORKS",
-        "calloutBody": "Novelty captures attention, and once their brain pauses to process, you have three seconds to make your pitch stick."
+        "bodyLine1": "Ask one specific",
+        "bodyLine2": "yes or no",
+        "bodyLine3": "question at the",
+        "bodyLine4": "end to make",
+        "bodyLine5": "replying effortless",
+        "pageOf": "06 - 08"
       }
     },
     {
       "layoutId": "body-mint-condensed",
       "slots": {
-        "authorInitials": "RC",
-        "authorName": "Revenue Craft",
-        "handle": "@revenue_craft",
-        "avatarBg1": "#a7f3d0",
-        "avatarBg2": "#10b981",
-        "pageOf": "07 - 08",
-        "number": "06",
-        "numberLabel": "FRAMEWORK",
-        "title": "Peer Proof Anchor",
-        "body": "Name a similar company, title, and tangible outcome in the first line. Prospects need to see themselves in your success stories before they agree to a call.",
-        "calloutLabel": "WHY IT WORKS",
-        "calloutBody": "Social proof reduces perceived risk, and a relevant peer example answers 'Why me?' and 'Why now?' in seconds."
+        "bodyLine1": "Follow up four",
+        "bodyLine2": "times over",
+        "bodyLine3": "two weeks",
+        "bodyLine4": "because most replies",
+        "bodyLine5": "come after three",
+        "pageOf": "07 - 08"
       }
     },
     {
       "layoutId": "cta-mint-condensed",
       "slots": {
-        "authorInitials": "RC",
-        "authorName": "Revenue Craft",
-        "handle": "@revenue_craft",
-        "avatarBg1": "#a7f3d0",
-        "avatarBg2": "#10b981",
+        "authorInitials": "AB",
+        "authorName": "Alex Blake",
+        "handle": "@alexblake",
+        "avatarBg1": "#37474f",
+        "avatarBg2": "#78909c",
         "pageOf": "08 - 08",
-        "eyebrow": "YOUR MOVE",
-        "headlineLine1": "Start Booking",
-        "headlineAccent": "More Meetings",
-        "body": "Pick one framework and test it this week. The best outreach strategy is the one you actually ship.",
-        "buttonLabel": "Grab the Full Playbook"
+        "tagline": "Strategic outreach systems that turn cold leads into booked meetings.",
+        "ctaQuestion": "Ready to book more meetings ?"
       }
     }
   ]

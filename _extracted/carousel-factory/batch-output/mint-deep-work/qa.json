@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/mint-deep-work/slide-01.png",
-      "bytes": 65086,
+      "bytes": 62965,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -19,7 +19,7 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/mint-deep-work/slide-02.png",
-      "bytes": 85778,
+      "bytes": 62805,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -35,7 +35,7 @@
     {
       "index": 2,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/mint-deep-work/slide-03.png",
-      "bytes": 76878,
+      "bytes": 62774,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -51,7 +51,7 @@
     {
       "index": 3,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/mint-deep-work/slide-04.png",
-      "bytes": 81416,
+      "bytes": 58051,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -67,7 +67,7 @@
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/mint-deep-work/slide-05.png",
-      "bytes": 79162,
+      "bytes": 52436,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -83,7 +83,7 @@
     {
       "index": 5,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/mint-deep-work/slide-06.png",
-      "bytes": 81571,
+      "bytes": 59470,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -99,7 +99,7 @@
     {
       "index": 6,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/mint-deep-work/slide-07.png",
-      "bytes": 78792,
+      "bytes": 54006,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -115,7 +115,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/mint-deep-work/slide-08.png",
-      "bytes": 83671,
+      "bytes": 51748,
       "qa": {
         "verdict": "pass",
         "checks": {

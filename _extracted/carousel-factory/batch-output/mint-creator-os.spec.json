@@ -1,6 +1,6 @@
 {
   "id": "mint-creator-os",
-  "brand": "Alex Chen",
+  "brand": "Creator OS",
   "brief": "The ultimate guide to a creator OS — 6 systems running my newsletter business.",
   "theme": "mint-condensed",
   "slides": [
@@ -9,131 +9,92 @@
       "slots": {
         "titleLine1": "The Ultimate",
         "titleLine2": "Guide to",
-        "titleAccent": "Creator OS",
+        "titleBold": "SYSTEMS",
         "authorInitials": "AC",
-        "authorName": "Alex Chen",
-        "handle": "@alexchen",
-        "avatarBg1": "#064e3b",
-        "avatarBg2": "#6ee7b7",
+        "authorName": "Alex Carter",
+        "handle": "@alexcarter",
+        "avatarBg1": "#37474f",
+        "avatarBg2": "#78909c",
         "pageOf": "01 - 08"
       }
     },
     {
       "layoutId": "body-mint-condensed",
       "slots": {
-        "authorInitials": "AC",
-        "authorName": "Alex Chen",
-        "handle": "@alexchen",
-        "avatarBg1": "#064e3b",
-        "avatarBg2": "#6ee7b7",
-        "pageOf": "02 - 08",
-        "number": "01",
-        "numberLabel": "SYSTEM",
-        "title": "Idea Capture Machine",
-        "body": "Great newsletters start with a relentless capture habit. I save every spark into a single inbox to kill blank-page panic. This fuels a perpetual pipeline I can tap anytime.",
-        "calloutLabel": "WHY IT WORKS",
-        "calloutBody": "It turns random inspiration into a curated database you own."
+        "bodyLine1": "Ideas come from",
+        "bodyLine2": "curated inputs",
+        "bodyLine3": "processed through",
+        "bodyLine4": "a weekly",
+        "bodyLine5": "writing ritual",
+        "pageOf": "02 - 08"
       }
     },
     {
       "layoutId": "body-mint-condensed",
       "slots": {
-        "authorInitials": "AC",
-        "authorName": "Alex Chen",
-        "handle": "@alexchen",
-        "avatarBg1": "#064e3b",
-        "avatarBg2": "#6ee7b7",
-        "pageOf": "03 - 08",
-        "number": "02",
-        "numberLabel": "SYSTEM",
-        "title": "Weekly Writing Ritual",
-        "body": "I write at the same time every Monday and Thursday. A fixed calendar block trains my brain to enter flow state faster. Consistency beats intensity when you are building audience trust.",
-        "calloutLabel": "THE PAYOFF",
-        "calloutBody": "Regular output creates a predictable rhythm readers rely on."
+        "bodyLine1": "Every post gets",
+        "bodyLine2": "scheduled across",
+        "bodyLine3": "multiple channels",
+        "bodyLine4": "with one",
+        "bodyLine5": "publish button",
+        "pageOf": "03 - 08"
       }
     },
     {
       "layoutId": "body-mint-condensed",
       "slots": {
-        "authorInitials": "AC",
-        "authorName": "Alex Chen",
-        "handle": "@alexchen",
-        "avatarBg1": "#064e3b",
-        "avatarBg2": "#6ee7b7",
-        "pageOf": "04 - 08",
-        "number": "03",
-        "numberLabel": "SYSTEM",
-        "title": "Distribution Flywheel",
-        "body": "One newsletter becomes ten pieces of micro-content automatically. I repurpose key insights into threads, carousels, and short posts. Each platform drives subscribers back to the main list.",
-        "calloutLabel": "THE LEVER",
-        "calloutBody": "You multiply reach without multiplying your workload."
+        "bodyLine1": "Traffic is a",
+        "bodyLine2": "byproduct of",
+        "bodyLine3": "genuinely helping",
+        "bodyLine4": "people every",
+        "bodyLine5": "single day",
+        "pageOf": "04 - 08"
       }
     },
     {
       "layoutId": "body-mint-condensed",
       "slots": {
-        "authorInitials": "AC",
-        "authorName": "Alex Chen",
-        "handle": "@alexchen",
-        "avatarBg1": "#064e3b",
-        "avatarBg2": "#6ee7b7",
-        "pageOf": "05 - 08",
-        "number": "04",
-        "numberLabel": "SYSTEM",
-        "title": "Revenue Stack",
-        "body": "Monetization is not an afterthought; it is a design choice. I layer sponsorships, digital products, and premium tiers strategically. Each revenue stream supports the others for stable growth.",
-        "calloutLabel": "THE OUTCOME",
-        "calloutBody": "Diversified income removes the pressure of a single paycheck."
+        "bodyLine1": "Reader replies spark",
+        "bodyLine2": "ideas for",
+        "bodyLine3": "the next",
+        "bodyLine4": "issue and",
+        "bodyLine5": "build trust",
+        "pageOf": "05 - 08"
       }
     },
     {
       "layoutId": "body-mint-condensed",
       "slots": {
-        "authorInitials": "AC",
-        "authorName": "Alex Chen",
-        "handle": "@alexchen",
-        "avatarBg1": "#064e3b",
-        "avatarBg2": "#6ee7b7",
-        "pageOf": "06 - 08",
-        "number": "05",
-        "numberLabel": "SYSTEM",
-        "title": "Engagement Loop",
-        "body": "I reply to every meaningful comment within the first hour. This signals to algorithms that my content sparks conversation. Loyal readers become advocates who share the newsletter organically.",
-        "calloutLabel": "THE EFFECT",
-        "calloutBody": "High early engagement unlocks exponential organic reach."
+        "bodyLine1": "Revenue is built",
+        "bodyLine2": "on trust",
+        "bodyLine3": "scaled through",
+        "bodyLine4": "simple digital",
+        "bodyLine5": "product offers",
+        "pageOf": "06 - 08"
       }
     },
     {
       "layoutId": "body-mint-condensed",
       "slots": {
-        "authorInitials": "AC",
-        "authorName": "Alex Chen",
-        "handle": "@alexchen",
-        "avatarBg1": "#064e3b",
-        "avatarBg2": "#6ee7b7",
-        "pageOf": "07 - 08",
-        "number": "06",
-        "numberLabel": "SYSTEM",
-        "title": "Analytics Dashboard",
-        "body": "I track open rates, click rates, and reply sentiment weekly. Data reveals what topics resonate and what falls flat. Insights guide the next month’s editorial calendar with precision.",
-        "calloutLabel": "THE EDGE",
-        "calloutBody": "You stop guessing and start doubling down on winners."
+        "bodyLine1": "Automate the boring",
+        "bodyLine2": "parts so",
+        "bodyLine3": "you can",
+        "bodyLine4": "focus on",
+        "bodyLine5": "creating value",
+        "pageOf": "07 - 08"
       }
     },
     {
       "layoutId": "cta-mint-condensed",
       "slots": {
         "authorInitials": "AC",
-        "authorName": "Alex Chen",
-        "handle": "@alexchen",
-        "avatarBg1": "#064e3b",
-        "avatarBg2": "#6ee7b7",
+        "authorName": "Alex Carter",
+        "handle": "@alexcarter",
+        "avatarBg1": "#37474f",
+        "avatarBg2": "#78909c",
         "pageOf": "08 - 08",
-        "eyebrow": "YOUR MOVE",
-        "headlineLine1": "Build Your",
-        "headlineAccent": "Creator OS",
-        "body": "Steal these six systems and adapt them to your niche today. Your newsletter business runs on rails when the OS is solid.",
-        "buttonLabel": "Build Your OS Today"
+        "tagline": "Building creator systems that run while you sleep.",
+        "ctaQuestion": "Ready to build your OS?"
       }
     }
   ]

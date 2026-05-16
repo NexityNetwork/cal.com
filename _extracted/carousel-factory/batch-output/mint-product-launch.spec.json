@@ -9,131 +9,92 @@
       "slots": {
         "titleLine1": "The Ultimate",
         "titleLine2": "Guide to",
-        "titleAccent": "Product Launches",
-        "authorInitials": "MK",
-        "authorName": "Morgan K.",
-        "handle": "@morgank",
-        "avatarBg1": "#a7f3d0",
-        "avatarBg2": "#34d399",
+        "titleBold": "LAUNCHES",
+        "authorInitials": "AR",
+        "authorName": "Alex Rivera",
+        "handle": "@arivera",
+        "avatarBg1": "#37474F",
+        "avatarBg2": "#90A4AE",
         "pageOf": "01 - 08"
       }
     },
     {
       "layoutId": "body-mint-condensed",
       "slots": {
-        "authorInitials": "MK",
-        "authorName": "Morgan K.",
-        "handle": "@morgank",
-        "avatarBg1": "#a7f3d0",
-        "avatarBg2": "#34d399",
-        "pageOf": "02 - 08",
-        "number": "01",
-        "numberLabel": "CHANNEL",
-        "title": "Owned Audience First",
-        "body": "Your email list is the only platform you truly control. Segment early access and VIP tiers to build anticipation before the public reveal.",
-        "calloutLabel": "WHY IT WORKS",
-        "calloutBody": "Direct reach avoids algorithm limits and converts forty percent higher than social."
+        "bodyLine1": "Your email list",
+        "bodyLine2": "is the only",
+        "bodyLine3": "audience you",
+        "bodyLine4": "truly own",
+        "bodyLine5": "for launches",
+        "pageOf": "02 - 08"
       }
     },
     {
       "layoutId": "body-mint-condensed",
       "slots": {
-        "authorInitials": "MK",
-        "authorName": "Morgan K.",
-        "handle": "@morgank",
-        "avatarBg1": "#a7f3d0",
-        "avatarBg2": "#34d399",
-        "pageOf": "03 - 08",
-        "number": "02",
-        "numberLabel": "CHANNEL",
-        "title": "Native Storytelling",
-        "body": "Tease the problem your product solves using behind-the-scenes clips and countdown stickers. Platform-native content feels authentic, not salesy.",
-        "calloutLabel": "THE HOOK",
-        "calloutBody": "Stories and reels trigger curiosity loops that drive pre-launch waitlists."
+        "bodyLine1": "Organic social reach",
+        "bodyLine2": "builds anticipation",
+        "bodyLine3": "before you",
+        "bodyLine4": "ever spend",
+        "bodyLine5": "a dollar",
+        "pageOf": "03 - 08"
       }
     },
     {
       "layoutId": "body-mint-condensed",
       "slots": {
-        "authorInitials": "MK",
-        "authorName": "Morgan K.",
-        "handle": "@morgank",
-        "avatarBg1": "#a7f3d0",
-        "avatarBg2": "#34d399",
-        "pageOf": "04 - 08",
-        "number": "03",
-        "numberLabel": "CHANNEL",
-        "title": "Precision Retargeting",
-        "body": "Run warm traffic to landing pages two weeks before launch. Retarget engaged visitors with social proof and scarcity-driven creative.",
-        "calloutLabel": "THE EDGE",
-        "calloutBody": "Paid spend amplifies momentum only after organic interest is validated."
+        "bodyLine1": "Trusted voices amplify",
+        "bodyLine2": "your message",
+        "bodyLine3": "faster than",
+        "bodyLine4": "any brand",
+        "bodyLine5": "channel can",
+        "pageOf": "04 - 08"
       }
     },
     {
       "layoutId": "body-mint-condensed",
       "slots": {
-        "authorInitials": "MK",
-        "authorName": "Morgan K.",
-        "handle": "@morgank",
-        "avatarBg1": "#a7f3d0",
-        "avatarBg2": "#34d399",
-        "pageOf": "05 - 08",
-        "number": "04",
-        "numberLabel": "CHANNEL",
-        "title": "Borrowed Trust",
-        "body": "Partner with niche creators who already speak to your ideal buyer. Whitelisted creator ads outperform branded creative by threefold.",
-        "calloutLabel": "TRUST LEVER",
-        "calloutBody": "Audiences trust peer recommendations over polished corporate messaging."
+        "bodyLine1": "Paid acquisition scales",
+        "bodyLine2": "your launch",
+        "bodyLine3": "to exact",
+        "bodyLine4": "target audiences",
+        "bodyLine5": "in hours",
+        "pageOf": "05 - 08"
       }
     },
     {
       "layoutId": "body-mint-condensed",
       "slots": {
-        "authorInitials": "MK",
-        "authorName": "Morgan K.",
-        "handle": "@morgank",
-        "avatarBg1": "#a7f3d0",
-        "avatarBg2": "#34d399",
-        "pageOf": "06 - 08",
-        "number": "05",
-        "numberLabel": "CHANNEL",
-        "title": "Searchable Momentum",
-        "body": "Publish comparison guides and use-case articles targeting high-intent keywords. Evergreen content captures demand long after launch day ends.",
-        "calloutLabel": "LONG GAME",
-        "calloutBody": "SEO compounds over time, reducing your customer acquisition cost."
+        "bodyLine1": "SEO rich content",
+        "bodyLine2": "continues bringing",
+        "bodyLine3": "qualified visitors",
+        "bodyLine4": "months after",
+        "bodyLine5": "launch day",
+        "pageOf": "06 - 08"
       }
     },
     {
       "layoutId": "body-mint-condensed",
       "slots": {
-        "authorInitials": "MK",
-        "authorName": "Morgan K.",
-        "handle": "@morgank",
-        "avatarBg1": "#a7f3d0",
-        "avatarBg2": "#34d399",
-        "pageOf": "07 - 08",
-        "number": "06",
-        "numberLabel": "CHANNEL",
-        "title": "Exclusive Access",
-        "body": "Launch inside Slack groups, Discord servers, and niche forums where your power users already gather. Early adopters become vocal advocates.",
-        "calloutLabel": "MULTIPLIER",
-        "calloutBody": "Community-driven launches generate the highest word-of-mouth velocity."
+        "bodyLine1": "Launching in niche",
+        "bodyLine2": "communities builds",
+        "bodyLine3": "instant feedback",
+        "bodyLine4": "and real",
+        "bodyLine5": "user momentum",
+        "pageOf": "07 - 08"
       }
     },
     {
       "layoutId": "cta-mint-condensed",
       "slots": {
-        "authorInitials": "MK",
-        "authorName": "Morgan K.",
-        "handle": "@morgank",
-        "avatarBg1": "#a7f3d0",
-        "avatarBg2": "#34d399",
+        "authorInitials": "AR",
+        "authorName": "Alex Rivera",
+        "handle": "@arivera",
+        "avatarBg1": "#37474F",
+        "avatarBg2": "#90A4AE",
         "pageOf": "08 - 08",
-        "eyebrow": "YOUR MOVE",
-        "headlineLine1": "Launch With",
-        "headlineAccent": "Real Impact",
-        "body": "Pick two channels from this guide and map them to your next launch calendar. Start building momentum today, not tomorrow.",
-        "buttonLabel": "Build Your Launch Plan"
+        "tagline": "Strategic design that turns every product launch into market momentum.",
+        "ctaQuestion": "Ready to launch smarter ?"
       }
     }
   ]

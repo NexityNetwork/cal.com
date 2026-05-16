@@ -1,6 +1,6 @@
 {
   "id": "mint-deep-work",
-  "brand": "Avery Lane",
+  "brand": "Jordan Doe",
   "brief": "The ultimate guide to deep work — 6 protocols that quadrupled my output.",
   "theme": "mint-condensed",
   "slides": [
@@ -9,131 +9,92 @@
       "slots": {
         "titleLine1": "The Ultimate",
         "titleLine2": "Guide to",
-        "titleAccent": "Deep Work",
-        "authorInitials": "AL",
-        "authorName": "Avery Lane",
-        "handle": "@averylane",
-        "avatarBg1": "#a7f3d0",
-        "avatarBg2": "#34d399",
+        "titleBold": "DEEPWORK",
+        "authorInitials": "JD",
+        "authorName": "Jordan Doe",
+        "handle": "@jordandoe",
+        "avatarBg1": "#37474f",
+        "avatarBg2": "#e2ffed",
         "pageOf": "01 - 08"
       }
     },
     {
       "layoutId": "body-mint-condensed",
       "slots": {
-        "authorInitials": "AL",
-        "authorName": "Avery Lane",
-        "handle": "@averylane",
-        "avatarBg1": "#a7f3d0",
-        "avatarBg2": "#34d399",
-        "pageOf": "02 - 08",
-        "number": "01",
-        "numberLabel": "PROTOCOL",
-        "title": "Calendar Your Cognition",
-        "body": "Treat deep work like an immovable meeting. Block 90-minute windows on your calendar and defend them against all intrusions.",
-        "calloutLabel": "WHY IT WORKS",
-        "calloutBody": "Pre-commitment removes decision fatigue and signals priority to others."
+        "bodyLine1": "Schedule your",
+        "bodyLine2": "deep work",
+        "bodyLine3": "blocks first",
+        "bodyLine4": "before any",
+        "bodyLine5": "meetings start",
+        "pageOf": "02 - 08"
       }
     },
     {
       "layoutId": "body-mint-condensed",
       "slots": {
-        "authorInitials": "AL",
-        "authorName": "Avery Lane",
-        "handle": "@averylane",
-        "avatarBg1": "#a7f3d0",
-        "avatarBg2": "#34d399",
-        "pageOf": "03 - 08",
-        "number": "02",
-        "numberLabel": "PROTOCOL",
-        "title": "Eliminate Distractions",
-        "body": "Turn off notifications, close irrelevant tabs, and put your phone in another room. Create a vacuum where attention can thrive.",
-        "calloutLabel": "WHY IT WORKS",
-        "calloutBody": "Attention residue from interruptions can cost you twenty minutes of focus."
+        "bodyLine1": "Use the",
+        "bodyLine2": "same desk",
+        "bodyLine3": "same headphones",
+        "bodyLine4": "same playlist",
+        "bodyLine5": "every day",
+        "pageOf": "03 - 08"
       }
     },
     {
       "layoutId": "body-mint-condensed",
       "slots": {
-        "authorInitials": "AL",
-        "authorName": "Avery Lane",
-        "handle": "@averylane",
-        "avatarBg1": "#a7f3d0",
-        "avatarBg2": "#34d399",
-        "pageOf": "04 - 08",
-        "number": "03",
-        "numberLabel": "PROTOCOL",
-        "title": "Prime Your Environment",
-        "body": "Use a consistent pre-work ritual to cue your brain. Same beverage, same seat, same soundtrack—trigger flow on demand.",
-        "calloutLabel": "WHY IT WORKS",
-        "calloutBody": "Classical conditioning builds a neurological shortcut into focused states."
+        "bodyLine1": "Keep your",
+        "bodyLine2": "phone in",
+        "bodyLine3": "another room",
+        "bodyLine4": "during every",
+        "bodyLine5": "focused session",
+        "pageOf": "04 - 08"
       }
     },
     {
       "layoutId": "body-mint-condensed",
       "slots": {
-        "authorInitials": "AL",
-        "authorName": "Avery Lane",
-        "handle": "@averylane",
-        "avatarBg1": "#a7f3d0",
-        "avatarBg2": "#34d399",
-        "pageOf": "05 - 08",
-        "number": "04",
-        "numberLabel": "PROTOCOL",
-        "title": "Sprint, Then Rest",
-        "body": "Work in undistracted bursts of fifty minutes followed by ten-minute breaks. Intensity plus recovery beats marathon sessions.",
-        "calloutLabel": "WHY IT WORKS",
-        "calloutBody": "Ultradian rhythms demand oscillation; rest restores glucose and willpower."
+        "bodyLine1": "Start with",
+        "bodyLine2": "the same",
+        "bodyLine3": "five minute",
+        "bodyLine4": "warmup routine",
+        "bodyLine5": "without fail",
+        "pageOf": "05 - 08"
       }
     },
     {
       "layoutId": "body-mint-condensed",
       "slots": {
-        "authorInitials": "AL",
-        "authorName": "Avery Lane",
-        "handle": "@averylane",
-        "avatarBg1": "#a7f3d0",
-        "avatarBg2": "#34d399",
-        "pageOf": "06 - 08",
-        "number": "05",
-        "numberLabel": "PROTOCOL",
-        "title": "Quarantine Contexts",
-        "body": "Batch shallow tasks into isolated windows. Never let email or admin bleed into your deep work sanctuary.",
-        "calloutLabel": "WHY IT WORKS",
-        "calloutBody": "Context switching is the silent killer of cognitive performance."
+        "bodyLine1": "Match hard",
+        "bodyLine2": "cognitive tasks",
+        "bodyLine3": "to your",
+        "bodyLine4": "peak energy",
+        "bodyLine5": "morning hours",
+        "pageOf": "06 - 08"
       }
     },
     {
       "layoutId": "body-mint-condensed",
       "slots": {
-        "authorInitials": "AL",
-        "authorName": "Avery Lane",
-        "handle": "@averylane",
-        "avatarBg1": "#a7f3d0",
-        "avatarBg2": "#34d399",
-        "pageOf": "07 - 08",
-        "number": "06",
-        "numberLabel": "PROTOCOL",
-        "title": "Close The Loop",
-        "body": "End each day with a shutdown ritual. Review open loops, schedule tomorrow, and mentally clock out completely.",
-        "calloutLabel": "WHY IT WORKS",
-        "calloutBody": "A clean shutdown prevents rumination and protects evening recovery."
+        "bodyLine1": "End each",
+        "bodyLine2": "work day",
+        "bodyLine3": "with a",
+        "bodyLine4": "shutdown ritual",
+        "bodyLine5": "to disconnect",
+        "pageOf": "07 - 08"
       }
     },
     {
       "layoutId": "cta-mint-condensed",
       "slots": {
-        "authorInitials": "AL",
-        "authorName": "Avery Lane",
-        "handle": "@averylane",
-        "avatarBg1": "#a7f3d0",
-        "avatarBg2": "#34d399",
+        "authorInitials": "JD",
+        "authorName": "Jordan Doe",
+        "handle": "@jordandoe",
+        "avatarBg1": "#37474f",
+        "avatarBg2": "#e2ffed",
         "pageOf": "08 - 08",
-        "eyebrow": "YOUR MOVE",
-        "headlineLine1": "Start Your First",
-        "headlineAccent": "Deep Block",
-        "body": "Pick one protocol and test it tomorrow. Momentum beats perfection when you are rebuilding your focus.",
-        "buttonLabel": "Save This Guide"
+        "tagline": "Helping creatives build focused workflows that scale.",
+        "ctaQuestion": "Want to master deep work ?"
       }
     }
   ]
