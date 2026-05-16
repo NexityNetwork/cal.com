@@ -1,0 +1,125 @@
+{
+  "id": "bad-good-great-pricing",
+  "brand": "Monet",
+  "brief": "Bad vs Good vs Great pricing — 6 patterns that separate $99 from $9,900 offers.",
+  "theme": "grid-italic",
+  "slides": [
+    {
+      "layoutId": "cover-grid-italic",
+      "slots": {
+        "topic": "Premium Pricing",
+        "preLine": "What always separates",
+        "word1": "BAD",
+        "word2": "Good",
+        "word3": "Great",
+        "authorInitials": "VM",
+        "authorName": "Vera Monet",
+        "authorRole": "Pricing Strategist",
+        "handle": "@veramonet"
+      }
+    },
+    {
+      "layoutId": "body-grid-italic",
+      "slots": {
+        "number": "1",
+        "preLabel": "Pattern One",
+        "titleMain": "Price the Result",
+        "titleAccent": "never hours",
+        "titleUnderline": "value first",
+        "body": "Bad freelancers charge by the hour, punishing efficiency. Good creators sell fixed projects. Great consultants price against the revenue or cost savings they generate.",
+        "note": "If your client wins big, you win big. Tie your fee to their upside.",
+        "authorInitials": "VM",
+        "authorName": "Vera Monet",
+        "pageOf": "2 / 8"
+      }
+    },
+    {
+      "layoutId": "body-grid-italic",
+      "slots": {
+        "number": "2",
+        "preLabel": "Pattern Two",
+        "titleMain": "Reverse the Risk",
+        "titleAccent": "bold promise",
+        "titleUnderline": "guaranteed results",
+        "body": "Bad offers say 'no refunds.' Good ones include a 30-day guarantee. Great deals offer conditional assurances that only trigger if milestones are missed.",
+        "note": "A strong guarantee signals confidence and filters serious buyers.",
+        "authorInitials": "VM",
+        "authorName": "Vera Monet",
+        "pageOf": "3 / 8"
+      }
+    },
+    {
+      "layoutId": "body-grid-italic",
+      "slots": {
+        "number": "3",
+        "preLabel": "Pattern Three",
+        "titleMain": "Own the Niche",
+        "titleAccent": "authority sells",
+        "titleUnderline": "specific expertise",
+        "body": "Bad agencies serve everyone. Good shops focus on one industry. Great firms define an entirely new category where they are the only logical choice.",
+        "note": "Specialization removes price comparison. You become the benchmark.",
+        "authorInitials": "VM",
+        "authorName": "Vera Monet",
+        "pageOf": "4 / 8"
+      }
+    },
+    {
+      "layoutId": "body-grid-italic",
+      "slots": {
+        "number": "4",
+        "preLabel": "Pattern Four",
+        "titleMain": "Show Real Proof",
+        "titleAccent": "numbers win",
+        "titleUnderline": "documented roi",
+        "body": "Bad proposals rely on vague promises. Good sellers share testimonials. Great leaders present case studies with exact metrics, timelines, and client names.",
+        "note": "Specific proof justifies specific prices. Vague claims attract haggling.",
+        "authorInitials": "VM",
+        "authorName": "Vera Monet",
+        "pageOf": "5 / 8"
+      }
+    },
+    {
+      "layoutId": "body-grid-italic",
+      "slots": {
+        "number": "5",
+        "preLabel": "Pattern Five",
+        "titleMain": "Curate the Offer",
+        "titleAccent": "less choice",
+        "titleUnderline": "premium tier",
+        "body": "Bad menus list ten options. Good sellers use three tiers. Great advisors design one bespoke package that feels irreplaceable and scarce.",
+        "note": "Scarcity and customization support premium positioning better than discounts.",
+        "authorInitials": "VM",
+        "authorName": "Vera Monet",
+        "pageOf": "6 / 8"
+      }
+    },
+    {
+      "layoutId": "body-grid-italic",
+      "slots": {
+        "number": "6",
+        "preLabel": "Pattern Six",
+        "titleMain": "Filter With",
+        "titleAccent": "paid audits",
+        "titleUnderline": "before proposals",
+        "body": "Bad sellers take any call. Good consultants use a qualification form. Great experts charge for a diagnostic audit that converts into the main engagement.",
+        "note": "A paid discovery call proves budget exists and establishes your expertise.",
+        "authorInitials": "VM",
+        "authorName": "Vera Monet",
+        "pageOf": "7 / 8"
+      }
+    },
+    {
+      "layoutId": "cta-grid-italic",
+      "slots": {
+        "eyebrow": "Now the only question is",
+        "headlineMain": "Which one",
+        "headlineAccent": "to change first",
+        "body": "Pick one tactic and implement it this week. Small shifts in positioning create massive jumps in profit.",
+        "buttonLabel": "Save this post",
+        "authorInitials": "VM",
+        "authorName": "Vera Monet",
+        "handle": "@veramonet"
+      }
+    }
+  ]
+}
