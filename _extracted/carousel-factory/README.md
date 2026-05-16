@@ -94,19 +94,39 @@ carousel-factory/
     integration.md              ← how to plug into existing marketing-swarm
 ```
 
-## Models — all on Cloudflare Workers AI, all open-source
+## Models — open-source where possible, EU-safe everywhere
 
-| Role | Model | License | Why |
-|---|---|---|---|
-| Planner | `@cf/moonshotai/kimi-k2.6` | Open-source (Modified MIT) | Best content quality, runs directly on Workers AI |
-| Fallback planner | `@cf/openai/gpt-oss-120b` | **Open-source (Apache 2.0)** — OpenAI's first open-weight model since GPT-2 | 120B params; use if Kimi falls short on nuance |
-| Pre-QA vision | `@cf/meta/llama-3.2-11b-vision-instruct` | Open-source (Llama 3 Community License) | Vision-capable, scores rendered PNGs against a written rubric |
-| Human-tier QA | Claude Code session (Claude in this session) | — | Invoked by user when a batch needs nuanced review; reads PNGs directly |
-| Final approval | Human via review page | — | Stars + rejects feed the loop |
+| Role | Model | License | EU-safe | Why |
+|---|---|---|---|---|
+| Planner | `@cf/moonshotai/kimi-k2.6` | Open-source (Modified MIT) | ✅ | Best content quality, runs on Workers AI |
+| Fallback planner | `@cf/openai/gpt-oss-120b` | **Open-source (Apache 2.0)** | ✅ | OpenAI's first open-weight model since GPT-2; 120B params |
+| Spec validator | `@cf/moonshotai/kimi-k2.6` | Open-source | ✅ | Text-only structural checks before render |
+| **Visual QA** | **`pixtral-12b-2409` via Mistral API** | **Open weights (Apache 2.0), EU-native provider** | ✅ | French (Paris) company; no Llama-style EU multimodal carve-out |
+| Visual QA (premium) | `pixtral-large-latest` via Mistral API | Open weights, EU-native | ✅ | Larger model for nuanced critique; same API call |
+| Human-tier QA | Claude Code session (this session) | — | ✅ | Sample-review per batch via Read tool |
+| Final approval | Human via review page | — | — | Stars + rejects feed the loop |
 
-**No proprietary closed-source models** in the loop. Cost stays inside the
-Cloudflare bill — no Anthropic API, no OpenAI API, no third-party LLM
-gateways. Sonnet and other closed-source models are explicitly avoided.
+### Why not Workers AI vision
+
+We tested every vision option on Workers AI:
+
+- `@cf/meta/llama-3.2-11b-vision-instruct` — Llama 3.2 Community License excludes
+  EU for multimodal. **Not usable.**
+- `@cf/meta/llama-4-scout-17b-16e-instruct` — Llama 4 license has the same EU
+  multimodal carve-out. **Not usable.**
+- `@cf/google/gemma-3-12b-it` — multimodal in the underlying weights, but the
+  Workers AI binding only exposes text input today (tested — model hallucinated
+  random content when sent an image). **Not plumbed.**
+- `@cf/llava-hf/llava-1.5-7b-hf` — only Image-to-Text option; tested with a
+  rendered slide and it hallucinated a "person" in the Notion slide and ignored
+  the yes/no rubric format. **Too weak for structured QA.**
+
+Mistral Pixtral is the smallest reliable EU-safe vision model that can grade
+designs against a rubric. Cost is small (~$2 per 100-carousel batch with
+pixtral-12b). It's the right call.
+
+**No closed-source models in the loop.** Sonnet is explicitly excluded.
+Cost goes either to CF (text + render) or to Mistral (vision QA only).
 
 ## Status
 
