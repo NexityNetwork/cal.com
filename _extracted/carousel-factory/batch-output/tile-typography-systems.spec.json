@@ -1,0 +1,117 @@
+{
+  "id": "tile-typography-systems",
+  "brand": "UseVisuals",
+  "brief": "6 typography systems for SaaS — pairings, hierarchies, and license costs.",
+  "theme": "design-tile",
+  "slides": [
+    {
+      "layoutId": "cover-design-tile",
+      "slots": {
+        "number": "01",
+        "handle": "@usevisuals",
+        "titleLine1": "Stop Using Default",
+        "titleLine2": "Fonts in SaaS",
+        "badColor": "#000000",
+        "badLabel": "#000000",
+        "goodColor": "#0f172a",
+        "goodLabel": "#0F172A"
+      }
+    },
+    {
+      "layoutId": "body-design-tile",
+      "slots": {
+        "number": "02",
+        "handle": "@usevisuals",
+        "titleLine1": "Inter With Playfair Display",
+        "titleAccent": "Classic Pair",
+        "attr1": "Clean",
+        "attr2": "Editorial",
+        "attr3": "Scalable",
+        "attr4": "Legible",
+        "body": "Sans-serif UI body meets editorial serif headlines. Both free on Google Fonts with open licenses."
+      }
+    },
+    {
+      "layoutId": "body-design-tile",
+      "slots": {
+        "number": "03",
+        "handle": "@usevisuals",
+        "titleLine1": "Geist Sans And Geist Mono",
+        "titleAccent": "Modern Tech",
+        "attr1": "Minimal",
+        "attr2": "Technical",
+        "attr3": "Native",
+        "attr4": "Free",
+        "body": "Vercel's own family blends interface and code. Completely free for unlimited commercial use."
+      }
+    },
+    {
+      "layoutId": "body-design-tile",
+      "slots": {
+        "number": "04",
+        "handle": "@usevisuals",
+        "titleLine1": "Satoshi Plus General Sans",
+        "titleAccent": "Premium Swiss",
+        "attr1": "Minimal",
+        "attr2": "Neutral",
+        "attr3": "Bold",
+        "attr4": "Paid",
+        "body": "Indian Type Foundry delivers startup aesthetics. Budget two hundred dollars for full web packages."
+      }
+    },
+    {
+      "layoutId": "body-design-tile",
+      "slots": {
+        "number": "05",
+        "handle": "@usevisuals",
+        "titleLine1": "DM Sans With Source Serif",
+        "titleAccent": "Open Source",
+        "attr1": "Academic",
+        "attr2": "Readable",
+        "attr3": "Data Ready",
+        "attr4": "Free",
+        "body": "Google Fonts pairing excels in dense dashboards. Zero licensing cost with extensive language support."
+      }
+    },
+    {
+      "layoutId": "body-design-tile",
+      "slots": {
+        "number": "06",
+        "handle": "@usevisuals",
+        "titleLine1": "Plus Jakarta Space Grotesk",
+        "titleAccent": "Startup Vibe",
+        "attr1": "Friendly",
+        "attr2": "Geometric",
+        "attr3": "Trendy",
+        "attr4": "Low Cost",
+        "body": "Contemporary geometry builds playful SaaS brands. Web licenses often cost under thirty dollars."
+      }
+    },
+    {
+      "layoutId": "body-design-tile",
+      "slots": {
+        "number": "07",
+        "handle": "@usevisuals",
+        "titleLine1": "Helvetica Now With Roboto Mono",
+        "titleAccent": "Enterprise Grade",
+        "attr1": "Corporate",
+        "attr2": "Proven",
+        "attr3": "Global",
+        "attr4": "Premium",
+        "body": "The gold standard for Fortune layouts. Helvetica Now starts near three hundred per style."
+      }
+    },
+    {
+      "layoutId": "cta-design-tile",
+      "slots": {
+        "number": "08",
+        "handle": "@usevisuals",
+        "eyebrow": "ADOPT THESE",
+        "headlineLine1": "Typography Systems",
+        "headlineLine2": "That Actually Scale",
+        "body": "Build clear hierarchy, cut license fees, and ship faster with type that works.",
+        "buttonLabel": "Save This Guide"
+      }
+    }
+  ]
+}
