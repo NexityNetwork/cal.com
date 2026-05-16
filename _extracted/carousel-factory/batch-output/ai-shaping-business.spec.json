@@ -1,111 +1,111 @@
 {
   "id": "ai-shaping-business",
-  "brand": "Alex Morgan",
+  "brand": "Nora Kline",
   "brief": "How AI is shaping future business — 6 ways every founder should know.",
   "theme": "linkedin-pro",
   "slides": [
     {
       "layoutId": "cover-linkedin-pro",
       "slots": {
-        "author": "Alex Morgan",
-        "badgeText": "SAVE THIS POST",
+        "author": "Nora Kline",
+        "badgeText": "LINKEDIN CAROUSEL POST",
         "pageNumber": "1",
-        "accentColor": "#0a66c2",
-        "headline": "AI Is Reshaping Business Forever",
+        "accentColor": "#4f3df5",
+        "headline": "6 Ways AI Will Reshape Business",
         "heroSymbol": "AI",
-        "heroBg": "#0a66c2",
-        "heroBg2": "#3b82f6",
-        "body": "Artificial intelligence is no longer optional for modern founders. Here are six powerful shifts you must leverage to stay ahead."
+        "heroBg": "#2e1065",
+        "heroBg2": "#4f3df5",
+        "body": "AI is becoming the backbone of modern business. Founders who adapt fast will build the next decade's market leaders."
       }
     },
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Alex Morgan",
+        "author": "Nora Kline",
         "badgeText": "SAVE THIS POST",
         "pageNumber": "2",
-        "accentColor": "#0a66c2",
-        "title": "Automate Repetitive Operations",
-        "body": "AI agents handle invoicing, support, and scheduling without burnout. Founders reclaim hours to focus on strategy and growth.",
+        "accentColor": "#4f3df5",
+        "title": "Hyper-Personalize At Scale",
+        "body": "AI analyzes behavior in real time to deliver tailored content and offers that boost conversions without adding headcount.",
         "heroSymbol": "01",
-        "heroBg": "#0a66c2",
-        "heroBg2": "#3b82f6",
-        "labelText": "SAVE THIS POST"
+        "heroBg": "#2e1065",
+        "heroBg2": "#4f3df5",
+        "labelText": "FOUNDER ESSENTIALS"
       }
     },
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Alex Morgan",
+        "author": "Nora Kline",
         "badgeText": "SAVE THIS POST",
         "pageNumber": "3",
-        "accentColor": "#0a66c2",
-        "title": "Personalize Every Customer Journey",
-        "body": "Machine learning tailors recommendations and messaging in real time. This boosts conversion rates and builds lasting loyalty.",
+        "accentColor": "#4f3df5",
+        "title": "Predict Market Shifts Early",
+        "body": "Machine learning models forecast demand changes and supply risks, giving founders data-driven confidence before competitors react.",
         "heroSymbol": "02",
-        "heroBg": "#0a66c2",
-        "heroBg2": "#3b82f6",
-        "labelText": "SAVE THIS POST"
+        "heroBg": "#2e1065",
+        "heroBg2": "#4f3df5",
+        "labelText": "FOUNDER ESSENTIALS"
       }
     },
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Alex Morgan",
+        "author": "Nora Kline",
         "badgeText": "SAVE THIS POST",
         "pageNumber": "4",
-        "accentColor": "#0a66c2",
-        "title": "Predict Market Trends Early",
-        "body": "Predictive analytics spot demand shifts before competitors react. Founders can allocate capital smarter and reduce wasted spend.",
+        "accentColor": "#4f3df5",
+        "title": "Automate Core Operations",
+        "body": "Intelligent workflows cut costs and errors in finance, HR, and logistics so teams can focus on strategy.",
         "heroSymbol": "03",
-        "heroBg": "#0a66c2",
-        "heroBg2": "#3b82f6",
-        "labelText": "SAVE THIS POST"
+        "heroBg": "#2e1065",
+        "heroBg2": "#4f3df5",
+        "labelText": "FOUNDER ESSENTIALS"
       }
     },
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Alex Morgan",
+        "author": "Nora Kline",
         "badgeText": "SAVE THIS POST",
         "pageNumber": "5",
-        "accentColor": "#0a66c2",
-        "title": "Scale Content and Creative",
-        "body": "Generative AI drafts copy, designs, and video scripts in minutes. Small teams now produce at enterprise-level velocity daily.",
+        "accentColor": "#4f3df5",
+        "title": "Speed Up Product Development",
+        "body": "Generative AI prototypes designs, code, and copy in minutes, shrinking iteration cycles from weeks to days.",
         "heroSymbol": "04",
-        "heroBg": "#0a66c2",
-        "heroBg2": "#3b82f6",
-        "labelText": "SAVE THIS POST"
+        "heroBg": "#2e1065",
+        "heroBg2": "#4f3df5",
+        "labelText": "FOUNDER ESSENTIALS"
       }
     },
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Alex Morgan",
+        "author": "Nora Kline",
         "badgeText": "SAVE THIS POST",
         "pageNumber": "6",
-        "accentColor": "#0a66c2",
-        "title": "Accelerate Smart Decision Making",
-        "body": "Decision intelligence tools surface insights from messy data instantly. Leaders move from gut feelings to confident, evidence-based choices.",
+        "accentColor": "#4f3df5",
+        "title": "Hire Smarter And Faster",
+        "body": "AI screens candidates and predicts cultural fit, reducing bias and time-to-hire while surfacing hidden talent pools.",
         "heroSymbol": "05",
-        "heroBg": "#0a66c2",
-        "heroBg2": "#3b82f6",
-        "labelText": "SAVE THIS POST"
+        "heroBg": "#2e1065",
+        "heroBg2": "#4f3df5",
+        "labelText": "FOUNDER ESSENTIALS"
       }
     },
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Alex Morgan",
+        "author": "Nora Kline",
         "badgeText": "SAVE THIS POST",
         "pageNumber": "7",
-        "accentColor": "#0a66c2",
-        "title": "Build Future-Ready Teams",
-        "body": "AI augments talent rather than replacing it entirely. Founders must reskill teams to manage machines and unlock creativity.",
+        "accentColor": "#4f3df5",
+        "title": "Strengthen Security And Trust",
+        "body": "Real-time anomaly detection protects revenue and customer data, turning cybersecurity from a cost center into a growth enabler.",
         "heroSymbol": "06",
-        "heroBg": "#0a66c2",
-        "heroBg2": "#3b82f6",
-        "labelText": "SAVE THIS POST"
+        "heroBg": "#2e1065",
+        "heroBg2": "#4f3df5",
+        "labelText": "FOUNDER ESSENTIALS"
       }
     }
   ]

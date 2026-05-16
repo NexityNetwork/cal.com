@@ -1,84 +1,84 @@
 {
   "id": "matcha-why",
-  "brand": "ZEN LEAF",
+  "brand": "ZEN RITUAL",
   "brief": "Why matcha — the green tea that's more than a trend. Lifestyle brand carousel.",
   "theme": "dark-green-serif",
   "slides": [
     {
       "layoutId": "cover-dark-green-serif",
       "slots": {
-        "brand": "ZEN LEAF",
+        "brand": "ZEN RITUAL",
         "pageOf": "01 OF 07",
-        "headline": "Why Matcha?",
-        "subtitle": "The green tea that's more than just a trend.",
-        "stickerText": "FOR YOU",
-        "handle": "@zenleaf"
+        "headline": "Why Choose Matcha?",
+        "subtitle": "The green tea that fuels calm energy and focus.",
+        "stickerText": "SIP BACK",
+        "handle": "@zenritual"
       }
     },
     {
       "layoutId": "body-dark-green-serif",
       "slots": {
-        "brand": "ZEN LEAF",
+        "brand": "ZEN RITUAL",
         "pageOf": "02 OF 07",
         "number": "01",
-        "title": "Sustained Energy Daily",
-        "body": "No jitters, no crash. Matcha delivers calm alertness thanks to L-theanine and caffeine working in sync. It's your morning ritual, upgraded.",
-        "handle": "@zenleaf"
+        "title": "Calm, Clean Energy",
+        "body": "Matcha delivers caffeine slowly thanks to L-theanine. No jitters, no crash—just steady focus. It’s the difference between a spark and a slow burn.",
+        "handle": "@zenritual"
       }
     },
     {
       "layoutId": "body-dark-green-serif",
       "slots": {
-        "brand": "ZEN LEAF",
+        "brand": "ZEN RITUAL",
         "pageOf": "03 OF 07",
         "number": "02",
         "title": "Loaded With Antioxidants",
-        "body": "One cup packs more catechins than regular green tea. It fights free radicals and supports glowing skin from the inside out.",
-        "handle": "@zenleaf"
+        "body": "One cup packs more catechins than regular green tea. You drink the whole leaf, not just the brew. That means more nutrients in every sip.",
+        "handle": "@zenritual"
       }
     },
     {
       "layoutId": "body-dark-green-serif",
       "slots": {
-        "brand": "ZEN LEAF",
+        "brand": "ZEN RITUAL",
         "pageOf": "04 OF 07",
         "number": "03",
-        "title": "Boosts Focus Naturally",
-        "body": "Swap the espresso for something smoother. Matcha sharpens concentration without the anxiety, keeping you in flow all afternoon.",
-        "handle": "@zenleaf"
+        "title": "A Daily Mindful Ritual",
+        "body": "Whisking matcha slows you down for a moment. The routine becomes a meditation you can taste. Small rituals build better days.",
+        "handle": "@zenritual"
       }
     },
     {
       "layoutId": "body-dark-green-serif",
       "slots": {
-        "brand": "ZEN LEAF",
+        "brand": "ZEN RITUAL",
         "pageOf": "05 OF 07",
         "number": "04",
-        "title": "A Ritual Worth Savoring",
-        "body": "The whisk, the water, the moment. Preparing matcha slows you down and turns a simple drink into mindful self-care.",
-        "handle": "@zenleaf"
+        "title": "Boosts Your Metabolism",
+        "body": "EGCG helps your body burn calories naturally. It supports fat oxidation without stressing your system. Think of it as green fuel.",
+        "handle": "@zenritual"
       }
     },
     {
       "layoutId": "body-dark-green-serif",
       "slots": {
-        "brand": "ZEN LEAF",
+        "brand": "ZEN RITUAL",
         "pageOf": "06 OF 07",
         "number": "05",
-        "title": "Versatile In Every Recipe",
-        "body": "Lattes, smoothies, baked goods, you name it. Its earthy, creamy flavor elevates everyday treats without overwhelming them.",
-        "handle": "@zenleaf"
+        "title": "Glow From Within",
+        "body": "Chlorophyll and antioxidants fight daily inflammation. Your skin reflects what you feed it. Clearer complexion, one cup at a time.",
+        "handle": "@zenritual"
       }
     },
     {
       "layoutId": "body-dark-green-serif",
       "slots": {
-        "brand": "ZEN LEAF",
+        "brand": "ZEN RITUAL",
         "pageOf": "07 OF 07",
         "number": "06",
-        "title": "Join The Green Wave",
-        "body": "This isn't a fad; it's a lifestyle. One daily bowl connects you to centuries of tradition and modern wellness.",
-        "handle": "@zenleaf"
+        "title": "Sustainable By Nature",
+        "body": "Shade-grown leaves require less water and space. One plant delivers multiple harvests per year. Good for you, better for the planet.",
+        "handle": "@zenritual"
       }
     }
   ]

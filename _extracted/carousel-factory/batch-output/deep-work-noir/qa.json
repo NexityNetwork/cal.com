@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/deep-work-noir/slide-01.png",
-      "bytes": 170199,
+      "bytes": 166613,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -23,7 +23,7 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/deep-work-noir/slide-02.png",
-      "bytes": 256825,
+      "bytes": 242006,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -43,7 +43,7 @@
     {
       "index": 2,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/deep-work-noir/slide-03.png",
-      "bytes": 247730,
+      "bytes": 247355,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -63,7 +63,7 @@
     {
       "index": 3,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/deep-work-noir/slide-04.png",
-      "bytes": 251923,
+      "bytes": 241745,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -83,7 +83,7 @@
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/deep-work-noir/slide-05.png",
-      "bytes": 250707,
+      "bytes": 249266,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -103,7 +103,7 @@
     {
       "index": 5,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/deep-work-noir/slide-06.png",
-      "bytes": 246383,
+      "bytes": 247575,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -123,7 +123,7 @@
     {
       "index": 6,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/deep-work-noir/slide-07.png",
-      "bytes": 260210,
+      "bytes": 252868,
       "qa": {
         "verdict": "fail",
         "checks": {

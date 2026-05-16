@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/craft-vs-hustle/slide-01.png",
-      "bytes": 170812,
+      "bytes": 146849,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -23,7 +23,7 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/craft-vs-hustle/slide-02.png",
-      "bytes": 242702,
+      "bytes": 245908,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -43,7 +43,7 @@
     {
       "index": 2,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/craft-vs-hustle/slide-03.png",
-      "bytes": 246489,
+      "bytes": 242775,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -63,7 +63,7 @@
     {
       "index": 3,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/craft-vs-hustle/slide-04.png",
-      "bytes": 249767,
+      "bytes": 240152,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -83,7 +83,7 @@
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/craft-vs-hustle/slide-05.png",
-      "bytes": 251202,
+      "bytes": 245539,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -103,7 +103,7 @@
     {
       "index": 5,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/craft-vs-hustle/slide-06.png",
-      "bytes": 248482,
+      "bytes": 249220,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -123,7 +123,7 @@
     {
       "index": 6,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/craft-vs-hustle/slide-07.png",
-      "bytes": 249483,
+      "bytes": 242694,
       "qa": {
         "verdict": "fail",
         "checks": {

@@ -1,84 +1,84 @@
 {
   "id": "sleep-rituals",
-  "brand": "NIGHTWELL",
+  "brand": "THE SLEEP EDIT",
   "brief": "The 5-step sleep ritual that fixed my insomnia.",
   "theme": "dark-green-serif",
   "slides": [
     {
       "layoutId": "cover-dark-green-serif",
       "slots": {
-        "brand": "NIGHTWELL",
+        "brand": "THE SLEEP EDIT",
         "pageOf": "01 OF 07",
-        "headline": "The Sleep Fix?",
-        "subtitle": "The evening routine that finally worked.",
+        "headline": "Can't Fall Asleep?",
+        "subtitle": "Here is the simple nightly routine that actually fixed my insomnia.",
         "stickerText": "TRY THIS",
-        "handle": "@nightwell"
+        "handle": "@thesleepedit"
       }
     },
     {
       "layoutId": "body-dark-green-serif",
       "slots": {
-        "brand": "NIGHTWELL",
+        "brand": "THE SLEEP EDIT",
         "pageOf": "02 OF 07",
         "number": "01",
-        "title": "Cut Caffeine Early",
-        "body": "Stop caffeine after 2 PM. It lingers in your system longer than you think, blocking adenosine.",
-        "handle": "@nightwell"
+        "title": "Kill the Blue Light",
+        "body": "Cut blue light 60 min before bed. Swap screens for a paperback or stretch. Your melatonin will thank you.",
+        "handle": "@thesleepedit"
       }
     },
     {
       "layoutId": "body-dark-green-serif",
       "slots": {
-        "brand": "NIGHTWELL",
+        "brand": "THE SLEEP EDIT",
         "pageOf": "03 OF 07",
         "number": "02",
-        "title": "Digital Sunset Rule",
-        "body": "No screens one hour before bed. Blue light suppresses melatonin and keeps your brain wired.",
-        "handle": "@nightwell"
+        "title": "Cool Down Your Room",
+        "body": "Drop your thermostat to 65–68°F. A cooler core temperature signals your brain that it is time to shut down.",
+        "handle": "@thesleepedit"
       }
     },
     {
       "layoutId": "body-dark-green-serif",
       "slots": {
-        "brand": "NIGHTWELL",
+        "brand": "THE SLEEP EDIT",
         "pageOf": "04 OF 07",
         "number": "03",
-        "title": "Cool Your Room Down",
-        "body": "Set thermostat to 65 degrees. A cooler core tells your body it's time to hibernate.",
-        "handle": "@nightwell"
+        "title": "Set a Caffeine Curfew",
+        "body": "No coffee or pre-workout after 2 p.m. Caffeine has a half-life of 5–6 hours and hides in decaf too.",
+        "handle": "@thesleepedit"
       }
     },
     {
       "layoutId": "body-dark-green-serif",
       "slots": {
-        "brand": "NIGHTWELL",
+        "brand": "THE SLEEP EDIT",
         "pageOf": "05 OF 07",
         "number": "04",
-        "title": "Try Box Breathing",
-        "body": "Inhale four counts, hold, exhale, hold. Repeat ten times to shift into parasympathetic mode.",
-        "handle": "@nightwell"
+        "title": "Breathe to Unwind",
+        "body": "Do 4-7-8 breathing or a quick body scan. It downshifts your sympathetic drive in about two minutes flat.",
+        "handle": "@thesleepedit"
       }
     },
     {
       "layoutId": "body-dark-green-serif",
       "slots": {
-        "brand": "NIGHTWELL",
+        "brand": "THE SLEEP EDIT",
         "pageOf": "06 OF 07",
         "number": "05",
-        "title": "Same Time Daily",
-        "body": "Wake up at the same time every day. Consistency anchors your circadian rhythm better than anything.",
-        "handle": "@nightwell"
+        "title": "Keep the Same Wake Time",
+        "body": "Wake up at the same time every single day. Yes, even on Sunday. Anchoring your circadian rhythm makes falling asleep effortless.",
+        "handle": "@thesleepedit"
       }
     },
     {
       "layoutId": "body-dark-green-serif",
       "slots": {
-        "brand": "NIGHTWELL",
+        "brand": "THE SLEEP EDIT",
         "pageOf": "07 OF 07",
         "number": "06",
-        "title": "Wake Up Rested",
-        "body": "Stack these five steps for one week. Your brain will relearn how to fall asleep fast.",
-        "handle": "@nightwell"
+        "title": "Sleep Through the Night",
+        "body": "I started sleeping through the night in under two weeks. Pick one step tonight and build from there. Sweet dreams.",
+        "handle": "@thesleepedit"
       }
     }
   ]

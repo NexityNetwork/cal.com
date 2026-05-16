@@ -1,111 +1,111 @@
 {
   "id": "remote-work",
-  "brand": "Morgan Chen",
+  "brand": "Maya Patel",
   "brief": "The 6 habits of the highest-performing remote teams in 2026.",
   "theme": "linkedin-pro",
   "slides": [
     {
       "layoutId": "cover-linkedin-pro",
       "slots": {
-        "author": "Morgan Chen",
+        "author": "Maya Patel",
         "badgeText": "LINKEDIN CAROUSEL POST",
         "pageNumber": "1",
         "accentColor": "#4f3df5",
-        "headline": "6 Habits of Elite Remote Teams",
+        "headline": "The 6 Remote Team Habits for 2026",
         "heroSymbol": "✦",
-        "heroBg": "#4f3df5",
-        "heroBg2": "#8b5cf6",
-        "body": "The highest-performing remote teams in 2026 share six powerful habits. Steal their playbook to build a faster, happier, more resilient team."
+        "heroBg": "#2e1065",
+        "heroBg2": "#4f3df5",
+        "body": "Remote work is evolving fast. Here are six proven habits the highest-performing teams will master in 2026 to drive results and retention."
       }
     },
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Morgan Chen",
+        "author": "Maya Patel",
         "badgeText": "SAVE THIS POST",
+        "accentColor": "#4f3df5",
         "pageNumber": "2",
-        "accentColor": "#4f3df5",
-        "title": "Prioritize Async by Default",
-        "body": "Replace endless Zoom calls with structured written updates. Top teams default to Loom and docs before scheduling a meeting.",
+        "title": "Default to Async First",
+        "body": "Top teams cancel half their meetings. They replace real-time chatter with documented decisions, letting people contribute across time zones without burnout.",
         "heroSymbol": "✉",
-        "heroBg": "#4f3df5",
-        "heroBg2": "#8b5cf6",
-        "labelText": "THE 2026 PLAYBOOK"
+        "heroBg": "#2e1065",
+        "heroBg2": "#4f3df5",
+        "labelText": "HIGH-PERFORMING TEAMS"
       }
     },
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Morgan Chen",
+        "author": "Maya Patel",
         "badgeText": "SAVE THIS POST",
+        "accentColor": "#4f3df5",
         "pageNumber": "3",
-        "accentColor": "#4f3df5",
-        "title": "Sacred Deep Work Blocks",
-        "body": "Calendar-free mornings are non-negotiable for elite performers. Protecting focus time drives higher quality output in fewer hours.",
-        "heroSymbol": "⏱",
-        "heroBg": "#4f3df5",
-        "heroBg2": "#8b5cf6",
-        "labelText": "THE 2026 PLAYBOOK"
+        "title": "Protect Deep Work Blocks",
+        "body": "The best remote cultures defend focus time. They use shared calendars to create uninterrupted windows where complex work actually gets done.",
+        "heroSymbol": "◐",
+        "heroBg": "#2e1065",
+        "heroBg2": "#4f3df5",
+        "labelText": "HIGH-PERFORMING TEAMS"
       }
     },
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Morgan Chen",
+        "author": "Maya Patel",
         "badgeText": "SAVE THIS POST",
+        "accentColor": "#4f3df5",
         "pageNumber": "4",
-        "accentColor": "#4f3df5",
-        "title": "Write It Down First",
-        "body": "Decisions live in shared docs, not private DMs. A searchable knowledge base prevents repeated questions and speeds onboarding.",
-        "heroSymbol": "☰",
-        "heroBg": "#4f3df5",
-        "heroBg2": "#8b5cf6",
-        "labelText": "THE 2026 PLAYBOOK"
+        "title": "Measure Outcomes, Not Hours",
+        "body": "In 2026, presence is not productivity. High-performing teams set clear impact metrics and give people full autonomy over how they deliver.",
+        "heroSymbol": "◎",
+        "heroBg": "#2e1065",
+        "heroBg2": "#4f3df5",
+        "labelText": "HIGH-PERFORMING TEAMS"
       }
     },
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Morgan Chen",
+        "author": "Maya Patel",
         "badgeText": "SAVE THIS POST",
+        "accentColor": "#4f3df5",
         "pageNumber": "5",
-        "accentColor": "#4f3df5",
-        "title": "Outcomes Over Hours",
-        "body": "The best teams measure results, not time online. Clear KPIs give people autonomy to work when they are most effective.",
-        "heroSymbol": "%",
-        "heroBg": "#4f3df5",
-        "heroBg2": "#8b5cf6",
-        "labelText": "THE 2026 PLAYBOOK"
+        "title": "Make Safety a Daily Habit",
+        "body": "Top teams normalize saying 'I don't know' and 'I disagree.' Leaders model vulnerability, turning mistakes into shared learning instead of blame.",
+        "heroSymbol": "♥",
+        "heroBg": "#2e1065",
+        "heroBg2": "#4f3df5",
+        "labelText": "HIGH-PERFORMING TEAMS"
       }
     },
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Morgan Chen",
+        "author": "Maya Patel",
         "badgeText": "SAVE THIS POST",
+        "accentColor": "#4f3df5",
         "pageNumber": "6",
-        "accentColor": "#4f3df5",
-        "title": "Intentional Human Connection",
-        "body": "High trust comes from curated virtual rituals, not forced fun. Brief, purposeful social moments strengthen bonds across time zones.",
-        "heroSymbol": "♡",
-        "heroBg": "#4f3df5",
-        "heroBg2": "#8b5cf6",
-        "labelText": "THE 2026 PLAYBOOK"
+        "title": "Connect Beyond Work Tasks",
+        "body": "High performers fight isolation with intention. They design lightweight rituals like weekly wins and virtual coffees that rebuild office camaraderie.",
+        "heroSymbol": "∞",
+        "heroBg": "#2e1065",
+        "heroBg2": "#4f3df5",
+        "labelText": "HIGH-PERFORMING TEAMS"
       }
     },
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Morgan Chen",
+        "author": "Maya Patel",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "7",
         "accentColor": "#4f3df5",
-        "title": "AI-First Daily Workflows",
-        "body": "Top performers automate note-taking, scheduling, and reporting. They leverage AI agents to handle noise so humans can create.",
+        "pageNumber": "7",
+        "title": "Automate Routine Work with AI",
+        "body": "The highest-performing teams treat AI as a teammate. They offload reporting, scheduling, and drafting so humans can focus on strategy.",
         "heroSymbol": "AI",
-        "heroBg": "#4f3df5",
-        "heroBg2": "#8b5cf6",
-        "labelText": "THE 2026 PLAYBOOK"
+        "heroBg": "#2e1065",
+        "heroBg2": "#4f3df5",
+        "labelText": "HIGH-PERFORMING TEAMS"
       }
     }
   ]

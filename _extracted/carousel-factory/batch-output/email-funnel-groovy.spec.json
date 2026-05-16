@@ -1,0 +1,70 @@
+{
+  "id": "email-funnel-groovy",
+  "brand": "Growth Groove",
+  "brief": "How to build an email funnel that converts at 9%.",
+  "theme": "retro-groovy",
+  "slides": [
+    {
+      "layoutId": "cover-retro-groovy",
+      "slots": {
+        "title": "Build emails that convert",
+        "ctaText": "How to hit 9% conversions",
+        "handle": "@growthgroove"
+      }
+    },
+    {
+      "layoutId": "body-retro-groovy",
+      "slots": {
+        "number": "01",
+        "title": "PICK ONE PROBLEM",
+        "body": "Stop trying to solve everything at once. Pick a painful problem and build a lead magnet that promises a quick win. Specificity sells.",
+        "handle": "@growthgroove"
+      }
+    },
+    {
+      "layoutId": "body-retro-groovy",
+      "slots": {
+        "number": "02",
+        "title": "NAIL THE WELCOME",
+        "body": "Your first email sets the vibe. Share your story, set expectations, and give them a tiny win. Make it impossible to ignore.",
+        "handle": "@growthgroove"
+      }
+    },
+    {
+      "layoutId": "body-retro-groovy",
+      "slots": {
+        "number": "03",
+        "title": "SEGMENT YOUR LIST",
+        "body": "Not everyone wants the same thing. Tag subscribers based on clicks and interests. Send the right offer to the right inbox.",
+        "handle": "@growthgroove"
+      }
+    },
+    {
+      "layoutId": "body-retro-groovy",
+      "slots": {
+        "number": "04",
+        "title": "LEAD WITH VALUE",
+        "body": "Sell only after you have earned trust. Share quick tips, stories, and case studies for free. Be the expert they remember.",
+        "handle": "@growthgroove"
+      }
+    },
+    {
+      "layoutId": "body-retro-groovy",
+      "slots": {
+        "number": "05",
+        "title": "PITCH WITH CONFIDENCE",
+        "body": "When it is time to sell, do not apologize. State the transformation, add urgency, and keep the CTA crystal clear. One click only.",
+        "handle": "@growthgroove"
+      }
+    },
+    {
+      "layoutId": "body-retro-groovy",
+      "slots": {
+        "number": "06",
+        "title": "TEST AND OPTIMIZE",
+        "body": "Open rates matter, but revenue matters more. Test subject lines, send times, and offers weekly. Small tweaks create big jumps.",
+        "handle": "@growthgroove"
+      }
+    }
+  ]
+}

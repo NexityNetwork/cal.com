@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/burnout/slide-01.png",
-      "bytes": 175387,
+      "bytes": 180623,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -23,7 +23,7 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/burnout/slide-02.png",
-      "bytes": 247700,
+      "bytes": 236956,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -43,7 +43,7 @@
     {
       "index": 2,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/burnout/slide-03.png",
-      "bytes": 240454,
+      "bytes": 239501,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -63,7 +63,7 @@
     {
       "index": 3,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/burnout/slide-04.png",
-      "bytes": 237653,
+      "bytes": 241028,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -83,7 +83,7 @@
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/burnout/slide-05.png",
-      "bytes": 242658,
+      "bytes": 236774,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -103,7 +103,7 @@
     {
       "index": 5,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/burnout/slide-06.png",
-      "bytes": 234329,
+      "bytes": 240909,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -123,7 +123,7 @@
     {
       "index": 6,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/burnout/slide-07.png",
-      "bytes": 240055,
+      "bytes": 241618,
       "qa": {
         "verdict": "fail",
         "checks": {

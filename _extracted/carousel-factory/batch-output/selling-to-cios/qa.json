@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/selling-to-cios/slide-01.png",
-      "bytes": 269985,
+      "bytes": 255274,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -23,7 +23,7 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/selling-to-cios/slide-02.png",
-      "bytes": 194388,
+      "bytes": 225779,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -45,7 +45,7 @@
             "x": 110,
             "y": 470,
             "w": 860,
-            "h": 87
+            "h": 131
           }
         }
       }
@@ -53,7 +53,7 @@
     {
       "index": 2,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/selling-to-cios/slide-03.png",
-      "bytes": 194800,
+      "bytes": 226990,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -75,7 +75,7 @@
             "x": 110,
             "y": 470,
             "w": 860,
-            "h": 87
+            "h": 131
           }
         }
       }
@@ -83,7 +83,7 @@
     {
       "index": 3,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/selling-to-cios/slide-04.png",
-      "bytes": 192891,
+      "bytes": 226415,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -113,7 +113,7 @@
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/selling-to-cios/slide-05.png",
-      "bytes": 193340,
+      "bytes": 226892,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -143,7 +143,7 @@
     {
       "index": 5,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/selling-to-cios/slide-06.png",
-      "bytes": 201077,
+      "bytes": 231335,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -165,7 +165,7 @@
             "x": 110,
             "y": 470,
             "w": 860,
-            "h": 87
+            "h": 131
           }
         }
       }
@@ -173,7 +173,7 @@
     {
       "index": 6,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/selling-to-cios/slide-07.png",
-      "bytes": 191485,
+      "bytes": 224953,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -195,7 +195,7 @@
             "x": 110,
             "y": 470,
             "w": 860,
-            "h": 87
+            "h": 131
           }
         }
       }
@@ -205,9 +205,9 @@
     "verdict": "needs-review",
     "issues": [
       "slides 2 and 3 have nearly identical composition (sim=1.00)",
-      "slides 3 and 4 have nearly identical composition (sim=0.96)",
+      "slides 3 and 4 have nearly identical composition (sim=1.00)",
       "slides 4 and 5 have nearly identical composition (sim=1.00)",
-      "slides 5 and 6 have nearly identical composition (sim=0.96)",
+      "slides 5 and 6 have nearly identical composition (sim=1.00)",
       "slides 6 and 7 have nearly identical composition (sim=1.00)"
     ],
     "adjacencyChecks": [
@@ -230,7 +230,7 @@
           3,
           4
         ],
-        "similarity": 0.9637860082304527
+        "similarity": 1
       },
       {
         "between": [
@@ -244,7 +244,7 @@
           5,
           6
         ],
-        "similarity": 0.9637860082304527
+        "similarity": 1
       },
       {
         "between": [

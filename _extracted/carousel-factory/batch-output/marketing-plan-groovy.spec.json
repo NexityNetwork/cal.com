@@ -1,0 +1,70 @@
+{
+  "id": "marketing-plan-groovy",
+  "brand": "ClickFlow",
+  "brief": "A 6-step digital marketing plan that transforms clicks into customers.",
+  "theme": "retro-groovy",
+  "slides": [
+    {
+      "layoutId": "cover-retro-groovy",
+      "slots": {
+        "title": "Clicks to customers",
+        "ctaText": "Transforming clicks into customers",
+        "handle": "@clickflow"
+      }
+    },
+    {
+      "layoutId": "body-retro-groovy",
+      "slots": {
+        "number": "01",
+        "title": "Know Your Audience",
+        "body": "Figure out who actually wants your stuff. Dig into demographics, pain points, and where they hang out online. The better you know them, the cheaper your ads become.",
+        "handle": "@clickflow"
+      }
+    },
+    {
+      "layoutId": "body-retro-groovy",
+      "slots": {
+        "number": "02",
+        "title": "Craft Bold Offers",
+        "body": "Stop selling features and start selling outcomes. Package your product as the no-brainer solution to their biggest headache. Make saying yes feel easy.",
+        "handle": "@clickflow"
+      }
+    },
+    {
+      "layoutId": "body-retro-groovy",
+      "slots": {
+        "number": "03",
+        "title": "Optimize Landing Pages",
+        "body": "Your page has one job: convert. Strip away distractions, speed up load times, and write copy that feels like a conversation. One clear CTA wins every time.",
+        "handle": "@clickflow"
+      }
+    },
+    {
+      "layoutId": "body-retro-groovy",
+      "slots": {
+        "number": "04",
+        "title": "Nurture With Email",
+        "body": "Not everyone buys on day one. Set up a welcome sequence that builds trust and delivers value. Show up in their inbox like a helpful friend.",
+        "handle": "@clickflow"
+      }
+    },
+    {
+      "layoutId": "body-retro-groovy",
+      "slots": {
+        "number": "05",
+        "title": "Retarget Lost Clicks",
+        "body": "Most visitors won't convert immediately. Run reminder ads that speak to exactly what they viewed. A gentle nudge often closes the deal.",
+        "handle": "@clickflow"
+      }
+    },
+    {
+      "layoutId": "body-retro-groovy",
+      "slots": {
+        "number": "06",
+        "title": "Analyze And Scale",
+        "body": "Watch your data like a hawk. Double down on what works and kill what doesn't. Scaling smart beats spending big every single time.",
+        "handle": "@clickflow"
+      }
+    }
+  ]
+}

@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/matcha-why/slide-01.png",
-      "bytes": 147340,
+      "bytes": 160601,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -23,7 +23,7 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/matcha-why/slide-02.png",
-      "bytes": 74485,
+      "bytes": 71150,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -53,7 +53,7 @@
     {
       "index": 2,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/matcha-why/slide-03.png",
-      "bytes": 75470,
+      "bytes": 77184,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -83,7 +83,7 @@
     {
       "index": 3,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/matcha-why/slide-04.png",
-      "bytes": 72256,
+      "bytes": 70271,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -113,7 +113,7 @@
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/matcha-why/slide-05.png",
-      "bytes": 73685,
+      "bytes": 75763,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -143,7 +143,7 @@
     {
       "index": 5,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/matcha-why/slide-06.png",
-      "bytes": 72855,
+      "bytes": 68200,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -173,7 +173,7 @@
     {
       "index": 6,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/matcha-why/slide-07.png",
-      "bytes": 66261,
+      "bytes": 75347,
       "qa": {
         "verdict": "fail",
         "checks": {

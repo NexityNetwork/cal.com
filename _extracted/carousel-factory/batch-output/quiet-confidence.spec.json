@@ -1,97 +1,97 @@
 {
   "id": "quiet-confidence",
-  "brand": "THE QUIET",
+  "brand": "UNPOSTED",
   "brief": "The 5 marks of quiet confidence — from people who don't post.",
   "theme": "noir-yellow",
   "slides": [
     {
       "layoutId": "cover-noir-yellow",
       "slots": {
-        "brand": "THE QUIET",
+        "brand": "UNPOSTED",
         "scriptPrefix": "The",
-        "displayLine1": "5 MARKS OF",
-        "displayLine2": "QUIET",
+        "displayLine1": "5 MARKS",
+        "displayLine2": "OF QUIET",
         "displayLine3": "CONFIDENCE",
-        "scriptTagline": "from people who never need to prove it",
-        "handle": "@thequiet",
+        "scriptTagline": "from people who do not post",
+        "handle": "@unposted",
         "slideId": "Slide 01"
       }
     },
     {
       "layoutId": "body-noir-yellow",
       "slots": {
-        "brand": "THE QUIET",
+        "brand": "UNPOSTED",
         "scriptPrefix": "Focus",
-        "displayLine1": "THEY DON'T",
-        "displayLine2": "POST THEIR",
-        "displayLine3": "POWER",
-        "body": "Quiet confidence shows up in behavior, not broadcasts. Here are five unmistakable signs you've seen but never scrolled past.",
-        "handle": "@thequiet",
+        "displayLine1": "THEY LIVE",
+        "displayLine2": "OFF THE",
+        "displayLine3": "ALGORITHM",
+        "body": "Quiet confidence is not performed. It is built in private, away from feeds and notifications. Here are five signs you are already there.",
+        "handle": "@unposted",
         "slideId": "Slide 02"
       }
     },
     {
       "layoutId": "body-noir-yellow",
       "slots": {
-        "brand": "THE QUIET",
-        "scriptPrefix": "Focus",
-        "displayLine1": "THEY LISTEN",
-        "displayLine2": "MORE THAN",
-        "displayLine3": "THEY SPEAK",
-        "body": "In rooms full of noise, they stay still. Their silence isn't empty; it's evidence of self-assurance.",
-        "handle": "@thequiet",
+        "brand": "UNPOSTED",
+        "scriptPrefix": "Try",
+        "displayLine1": "LISTEN FIRST",
+        "displayLine2": "SPEAK LATER",
+        "displayLine3": "IF EVER",
+        "body": "They observe the room before adding noise. Their words carry weight because they are rare, not rehearsed for an audience.",
+        "handle": "@unposted",
         "slideId": "Slide 03"
       }
     },
     {
       "layoutId": "body-noir-yellow",
       "slots": {
-        "brand": "THE QUIET",
-        "scriptPrefix": "Try",
-        "displayLine1": "NO NEED FOR",
-        "displayLine2": "THE LAST",
-        "displayLine3": "WORD",
-        "body": "They argue to clarify, not to win. Ego doesn't drive the conversation; understanding does.",
-        "handle": "@thequiet",
+        "brand": "UNPOSTED",
+        "scriptPrefix": "Begin",
+        "displayLine1": "NO NEED",
+        "displayLine2": "FOR THE",
+        "displayLine3": "APPLAUSE",
+        "body": "They do not chase likes to feel real. Their sense of worth is calibrated internally, not by a notification count.",
+        "handle": "@unposted",
         "slideId": "Slide 04"
       }
     },
     {
       "layoutId": "body-noir-yellow",
       "slots": {
-        "brand": "THE QUIET",
-        "scriptPrefix": "Begin",
-        "displayLine1": "SLOW MOVES",
-        "displayLine2": "UNDER",
-        "displayLine3": "PRESSURE",
-        "body": "When chaos rises, their pace stays deliberate. Urgency is a trap they refuse to enter.",
-        "handle": "@thequiet",
+        "brand": "UNPOSTED",
+        "scriptPrefix": "Focus",
+        "displayLine1": "DEEP WORK",
+        "displayLine2": "ZERO NOISE",
+        "displayLine3": "FULL PRESENCE",
+        "body": "Their best hours are invisible. While others document the process, they are too absorbed in the craft to stop for a caption.",
+        "handle": "@unposted",
         "slideId": "Slide 05"
       }
     },
     {
       "layoutId": "body-noir-yellow",
       "slots": {
-        "brand": "THE QUIET",
-        "scriptPrefix": "Focus",
-        "displayLine1": "PRIVATE",
-        "displayLine2": "VICTORIES",
-        "displayLine3": "ONLY",
-        "body": "Wins are felt deeply, not documented. Their satisfaction never depends on a like count.",
-        "handle": "@thequiet",
+        "brand": "UNPOSTED",
+        "scriptPrefix": "Try",
+        "displayLine1": "SILENCE IS",
+        "displayLine2": "THE LOUDEST",
+        "displayLine3": "BOUNDARY",
+        "body": "They do not announce every plan or pivot. Protection of their energy looks like absence, but it is actually strategy.",
+        "handle": "@unposted",
         "slideId": "Slide 06"
       }
     },
     {
       "layoutId": "body-noir-yellow",
       "slots": {
-        "brand": "THE QUIET",
-        "scriptPrefix": "Try",
-        "displayLine1": "SUBSTANCE",
+        "brand": "UNPOSTED",
+        "scriptPrefix": "Begin",
+        "displayLine1": "QUALITY",
         "displayLine2": "OVER",
-        "displayLine3": "STATUS",
-        "body": "Titles and trends don't impress them. They build what matters while others perform for cameras.",
-        "handle": "@thequiet",
+        "displayLine3": "PERFORMANCE",
+        "body": "They choose depth in real life over performance online. Connection is private, trust is earned, and confidence needs no hashtag.",
+        "handle": "@unposted",
         "slideId": "Slide 07"
       }
     }

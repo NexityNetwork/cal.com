@@ -1,0 +1,69 @@
+{
+  "id": "mindset-shifts-bold",
+  "brand": "DREW MARLOWE",
+  "brief": "6 mindset shifts that changed everything for me at 30.",
+  "theme": "bold-split",
+  "slides": [
+    {
+      "layoutId": "cover-bold-split",
+      "slots": {
+        "title": "MINDSET SHIFTS THAT CHANGED EVERYTHING AT THIRTY",
+        "handle": "@drewmarlowe"
+      }
+    },
+    {
+      "layoutId": "body-bold-split",
+      "slots": {
+        "number": "01",
+        "title": "FAILURE IS FEEDBACK",
+        "body": "Every stumble became a lesson once I stopped taking it personally. Now I treat mistakes as market research for my life.",
+        "handle": "@drewmarlowe"
+      }
+    },
+    {
+      "layoutId": "body-bold-split",
+      "slots": {
+        "number": "02",
+        "title": "PERFECTION KILLS PROGRESS",
+        "body": "I used to polish projects until the opportunity vanished. Shipping messy work taught me that momentum beats perfection every time.",
+        "handle": "@drewmarlowe"
+      }
+    },
+    {
+      "layoutId": "body-bold-split",
+      "slots": {
+        "number": "03",
+        "title": "BOUNDARIES BUILD FREEDOM",
+        "body": "Saying no used to terrify me. Once I honored my time, the right people and projects showed up without resentment.",
+        "handle": "@drewmarlowe"
+      }
+    },
+    {
+      "layoutId": "body-bold-split",
+      "slots": {
+        "number": "04",
+        "title": "WORTH COMES FIRST",
+        "body": "Chasing money from a place of scarcity only created more lack. I started charging what I deserved and abundance followed.",
+        "handle": "@drewmarlowe"
+      }
+    },
+    {
+      "layoutId": "body-bold-split",
+      "slots": {
+        "number": "05",
+        "title": "REST IS STRATEGIC",
+        "body": "Burnout was my default mode until my body forced a pause. Scheduled recovery now produces my clearest thinking and best ideas.",
+        "handle": "@drewmarlowe"
+      }
+    },
+    {
+      "layoutId": "body-bold-split",
+      "slots": {
+        "number": "06",
+        "title": "YOUR PAST ISN'T PERMANENT",
+        "body": "I carried old stories like a badge of honor. Rewriting my narrative at thirty gave me permission to become someone new.",
+        "handle": "@drewmarlowe"
+      }
+    }
+  ]
+}

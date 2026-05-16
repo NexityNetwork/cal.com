@@ -1,97 +1,97 @@
 {
   "id": "burnout",
-  "brand": "The Midnight Edit",
+  "brand": "THE SLOW BURN",
   "brief": "How to boost productivity without burnout. Editorial, lit-mag tone.",
   "theme": "noir-yellow",
   "slides": [
     {
       "layoutId": "cover-noir-yellow",
       "slots": {
-        "brand": "The Midnight Edit",
+        "brand": "THE SLOW BURN",
         "scriptPrefix": "How",
-        "displayLine1": "TO WORK",
-        "displayLine2": "WITHOUT",
-        "displayLine3": "BURNING OUT",
-        "scriptTagline": "An editor’s note on surviving your own ambition",
-        "handle": "@themidnightedit",
+        "displayLine1": "BOOST",
+        "displayLine2": "PRODUCTIVITY",
+        "displayLine3": "WITHOUT BURNOUT",
+        "scriptTagline": "A field guide to working smarter, not harder.",
+        "handle": "@theslowburn",
         "slideId": "Slide 01"
       }
     },
     {
       "layoutId": "body-noir-yellow",
       "slots": {
-        "brand": "The Midnight Edit",
+        "brand": "THE SLOW BURN",
         "scriptPrefix": "Focus",
-        "displayLine1": "ON THE",
-        "displayLine2": "DEEP WORK",
-        "displayLine3": "NOT THE CHAOS",
-        "body": "Burnout feeds on the illusion of constant motion. Choose the task that demands your full mind, and let the inbox wait.",
-        "handle": "@themidnightedit",
+        "displayLine1": "THE MYTH",
+        "displayLine2": "OF HUSTLE",
+        "displayLine3": "CULTURE",
+        "body": "Rest is not the opposite of productivity; it is its prerequisite. You cannot pour from a cup that is already empty.",
+        "handle": "@theslowburn",
         "slideId": "Slide 02"
       }
     },
     {
       "layoutId": "body-noir-yellow",
       "slots": {
-        "brand": "The Midnight Edit",
+        "brand": "THE SLOW BURN",
         "scriptPrefix": "Try",
-        "displayLine1": "RUTHLESS",
-        "displayLine2": "SCHEDULE",
-        "displayLine3": "BLOCKING",
-        "body": "Treat your calendar like a short story: every scene must earn its place. If the meeting lacks a plot, delete it.",
-        "handle": "@themidnightedit",
+        "displayLine1": "DEEP WORK",
+        "displayLine2": "BLOCKS",
+        "displayLine3": "ONLY",
+        "body": "Protect two untouchable hours for the work that matters. Let the shallow tasks wait outside the door.",
+        "handle": "@theslowburn",
         "slideId": "Slide 03"
       }
     },
     {
       "layoutId": "body-noir-yellow",
       "slots": {
-        "brand": "The Midnight Edit",
+        "brand": "THE SLOW BURN",
         "scriptPrefix": "Begin",
-        "displayLine1": "WITH A",
-        "displayLine2": "SINGLE",
-        "displayLine3": "SENTENCE",
-        "body": "The blank page is less frightening than the thought of finishing the whole novel. Write one true line, then stop.",
-        "handle": "@themidnightedit",
+        "displayLine1": "MASTER THE",
+        "displayLine2": "ART OF",
+        "displayLine3": "REFUSAL",
+        "body": "Every yes is a silent no to something else. Choose your obligations with the precision of a poet.",
+        "handle": "@theslowburn",
         "slideId": "Slide 04"
       }
     },
     {
       "layoutId": "body-noir-yellow",
       "slots": {
-        "brand": "The Midnight Edit",
+        "brand": "THE SLOW BURN",
         "scriptPrefix": "Focus",
-        "displayLine1": "REST AS",
-        "displayLine2": "CRAFT",
-        "displayLine3": "NOT REWARD",
-        "body": "Sleep is not the epilogue; it is the editing bay where the day gets cut into sense. Guard it fiercely.",
-        "handle": "@themidnightedit",
+        "displayLine1": "LET YOUR",
+        "displayLine2": "MIND",
+        "displayLine3": "WANDER",
+        "body": "Boredom fertilizes the mind. Step away from the screen and let the subconscious do its quiet stitching.",
+        "handle": "@theslowburn",
         "slideId": "Slide 05"
       }
     },
     {
       "layoutId": "body-noir-yellow",
       "slots": {
-        "brand": "The Midnight Edit",
+        "brand": "THE SLOW BURN",
         "scriptPrefix": "Try",
-        "displayLine1": "THE TWO",
-        "displayLine2": "MINUTE",
-        "displayLine3": "THRESHOLD",
-        "body": "If it takes less time than brewing a cup of black coffee, do it now. Procrastination is a thief in noir.",
-        "handle": "@themidnightedit",
+        "displayLine1": "ENERGY OVER",
+        "displayLine2": "HOURS",
+        "displayLine3": "LOGGED",
+        "body": "Track your natural rhythms. Do the difficult work when your light is brightest, and rest without guilt.",
+        "handle": "@theslowburn",
         "slideId": "Slide 06"
       }
     },
     {
       "layoutId": "body-noir-yellow",
       "slots": {
-        "brand": "The Midnight Edit",
+        "brand": "THE SLOW BURN",
         "scriptPrefix": "Begin",
-        "displayLine1": "ENDING",
-        "displayLine2": "AT THE",
-        "displayLine3": "RIGHT TIME",
-        "body": "Productivity is measured not by the chapters you write, but by knowing when to close the book. Walk away cleanly.",
-        "handle": "@themidnightedit",
+        "displayLine1": "THE SHUTDOWN",
+        "displayLine2": "RITUAL",
+        "displayLine3": "NOW",
+        "body": "Close the laptop at a civilized hour. The best ideas often arrive after the workday officially ends.",
+        "handle": "@theslowburn",
         "slideId": "Slide 07"
       }
     }

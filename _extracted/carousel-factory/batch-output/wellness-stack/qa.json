@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/wellness-stack/slide-01.png",
-      "bytes": 167004,
+      "bytes": 174262,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -23,7 +23,7 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/wellness-stack/slide-02.png",
-      "bytes": 74868,
+      "bytes": 77848,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -53,7 +53,7 @@
     {
       "index": 2,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/wellness-stack/slide-03.png",
-      "bytes": 73110,
+      "bytes": 80461,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -75,7 +75,7 @@
             "x": 80,
             "y": 820,
             "w": 920,
-            "h": 140
+            "h": 186
           }
         }
       }
@@ -83,7 +83,7 @@
     {
       "index": 3,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/wellness-stack/slide-04.png",
-      "bytes": 74795,
+      "bytes": 80382,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -105,7 +105,7 @@
             "x": 80,
             "y": 820,
             "w": 920,
-            "h": 140
+            "h": 186
           }
         }
       }
@@ -113,7 +113,7 @@
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/wellness-stack/slide-05.png",
-      "bytes": 76492,
+      "bytes": 70971,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -143,7 +143,7 @@
     {
       "index": 5,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/wellness-stack/slide-06.png",
-      "bytes": 72214,
+      "bytes": 69877,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -173,7 +173,7 @@
     {
       "index": 6,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/wellness-stack/slide-07.png",
-      "bytes": 76279,
+      "bytes": 71866,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -204,9 +204,9 @@
   "carouselQa": {
     "verdict": "needs-review",
     "issues": [
-      "slides 2 and 3 have nearly identical composition (sim=0.96)",
+      "slides 2 and 3 have nearly identical composition (sim=1.00)",
       "slides 3 and 4 have nearly identical composition (sim=1.00)",
-      "slides 4 and 5 have nearly identical composition (sim=1.00)",
+      "slides 4 and 5 have nearly identical composition (sim=0.96)",
       "slides 5 and 6 have nearly identical composition (sim=1.00)",
       "slides 6 and 7 have nearly identical composition (sim=1.00)"
     ],
@@ -223,7 +223,7 @@
           2,
           3
         ],
-        "similarity": 0.9621399176954732
+        "similarity": 1
       },
       {
         "between": [
@@ -237,7 +237,7 @@
           4,
           5
         ],
-        "similarity": 1
+        "similarity": 0.9621399176954732
       },
       {
         "between": [

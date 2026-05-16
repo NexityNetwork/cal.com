@@ -1,6 +1,6 @@
 {
   "id": "shipping-fast-stack",
-  "brand": "SoloStack",
+  "brand": "Solo Stack",
   "brief": "7 tools that turn one engineer into a team. Names, urls, why each matters.",
   "theme": "ember-dark",
   "slides": [
@@ -8,69 +8,69 @@
       "layoutId": "cover-display-cta",
       "slots": {
         "pageNumber": "01",
-        "headlineLine1": "Stack like a team",
-        "headlineLine2": "With these tools",
-        "accentSuffix": "!"
+        "headlineLine1": "One Engineer",
+        "headlineLine2": "One Whole Team",
+        "accentSuffix": "."
       }
     },
     {
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "02",
-        "title": "1. GitHub, the codebase",
-        "body": "Host code, review PRs, and automate CI/CD so you ship like a full engineering team.",
-        "iconSlug": "github",
-        "iconColor": "#FFFFFF"
+        "title": "2. Vercel, the platform engineer",
+        "body": "Vercel ships every commit to a global edge network (vercel.com). It handles CI/CD, previews, and scaling so you skip hiring a DevOps engineer.",
+        "iconSlug": "vercel",
+        "iconColor": "#ffffff"
       }
     },
     {
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "03",
-        "title": "2. Vercel, the deployer",
-        "body": "Preview every push and deploy globally in seconds without waiting on an ops teammate.",
-        "iconSlug": "vercel",
-        "iconColor": "#FFFFFF"
+        "title": "3. Supabase, the backend engineer",
+        "body": "Supabase gives you Postgres, auth, and edge functions in one platform (supabase.com). It replaces a backend team and scales without ops overhead.",
+        "iconSlug": "supabase",
+        "iconColor": "#3ecf8e"
       }
     },
     {
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "04",
-        "title": "3. Linear, the planner",
-        "body": "Plan sprints, track bugs, and prioritize tasks with the speed of a dedicated product manager.",
-        "iconSlug": "linear",
-        "iconColor": "#FF9F43"
+        "title": "4. GitHub, the code reviewer",
+        "body": "GitHub hosts code, runs CI checks, and manages pull requests with built-in review (github.com). It acts as your entire engineering workflow layer.",
+        "iconSlug": "github",
+        "iconColor": "#ffffff"
       }
     },
     {
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "05",
-        "title": "4. Figma, the designer",
-        "body": "Draft UI, prototype flows, and hand off specs without hiring a visual designer.",
-        "iconSlug": "figma",
-        "iconColor": "#FF7F50"
+        "title": "5. Linear, the project manager",
+        "body": "Linear turns bugs and features into a clean roadmap with automatic cycles (linear.app). It replaces a product manager keeping the ship on track.",
+        "iconSlug": "linear",
+        "iconColor": "#5e6ad2"
       }
     },
     {
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "06",
-        "title": "5. Supabase, the backend",
-        "body": "Spin up Postgres, auth, and APIs in minutes to skip hiring a platform engineer.",
-        "iconSlug": "supabase",
-        "iconColor": "#2ECC71"
+        "title": "6. Stripe, the billing engineer",
+        "body": "Stripe handles subscriptions, invoicing, and tax compliance out of the box (stripe.com). It replaces a finance engineer building billing from scratch.",
+        "iconSlug": "stripe",
+        "iconColor": "#635bff"
       }
     },
     {
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "07",
-        "title": "6. Slack, the HQ",
-        "body": "Centralize alerts, client messages, and daily standups so nothing slips through the cracks.",
-        "iconSlug": "slack",
-        "iconColor": "#FF6B6B"
+        "title": "7. Zapier, the integrations engineer",
+        "body": "Zapier connects your stack and automates workflows across 5,000+ apps (zapier.com). It replaces an integrations engineer writing endless glue code.",
+        "iconSlug": "zapier",
+        "iconColor": "#ff4a00"
       }
     }
   ]

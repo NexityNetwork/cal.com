@@ -1,24 +1,24 @@
 {
   "id": "reading-list",
-  "brand": "The Founder's Shelf",
+  "brand": "Quiet Leader",
   "brief": "6 books that quietly changed how I run a company. Why each one mattered.",
   "theme": "beige-paper",
   "slides": [
     {
       "layoutId": "cover-beige-serif",
       "slots": {
-        "brand": "The Founder's Shelf",
-        "headline": "Six Books That Quietly Changed How I Lead",
+        "brand": "Quiet Leader",
+        "headline": "Six Books That Quietly Changed How I Run a Company",
         "slideCountHero": "6"
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "The Founder's Shelf",
+        "brand": "Quiet Leader",
         "number": "01",
-        "title": "The Effective Executive",
-        "body": "Drucker taught me that effectiveness is a practice, not a personality. I stopped glorifying busywork and started protecting deep-thinking time for the team. It reshaped our entire operating rhythm.",
+        "title": "Output Over Activity",
+        "body": "Grove taught me to judge managerial work by output, not hours spent. I stopped counting busywork and started tracking team outcomes. Meetings shrank; decisions accelerated. It remains the clearest framework for operational leverage.",
         "handle": "@x",
         "domain": "x.com"
       }
@@ -26,10 +26,10 @@
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "The Founder's Shelf",
+        "brand": "Quiet Leader",
         "number": "02",
-        "title": "High Output Management",
-        "body": "Grove showed me that a manager's output is the output of their team. I began measuring my impact by the multipliers I enabled, not tasks I completed. That shift alone changed every hiring decision.",
+        "title": "Time Is Scarcest",
+        "body": "Drucker forced me to audit where my hours actually go. I began blocking deep-work windows and delegating everything else. The result was fewer decisions made by fatigue and more made by design.",
         "handle": "@x",
         "domain": "x.com"
       }
@@ -37,10 +37,10 @@
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "The Founder's Shelf",
+        "brand": "Quiet Leader",
         "number": "03",
-        "title": "Turn the Ship Around",
-        "body": "Marquet's leader-leader model replaced my instinct to command with a habit of delegating intent. Crew members became owners, and our decision speed tripled without sacrificing clarity. Trust became our competitive advantage.",
+        "title": "See The System",
+        "body": "Meadows showed me that every policy creates feedback loops I cannot ignore. I stopped blaming individuals for structural failures. Now I map incentives before I announce new rules, which prevents half the resistance I used to fight.",
         "handle": "@x",
         "domain": "x.com"
       }
@@ -48,10 +48,10 @@
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "The Founder's Shelf",
+        "brand": "Quiet Leader",
         "number": "04",
-        "title": "Thinking in Bets",
-        "body": "Duke taught me to separate decision quality from outcome luck. We now review process, not just results, which calmed our blame culture and sped up honest post-mortems. Clarity replaced hindsight bias.",
+        "title": "Push Authority Down",
+        "body": "Marquet proved that intent-based leadership outperforms top-down control. I stopped giving orders and started asking my team to brief me on their decisions. Ownership soared; bottlenecks vanished because clarity replaced permission.",
         "handle": "@x",
         "domain": "x.com"
       }
@@ -59,10 +59,10 @@
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "The Founder's Shelf",
+        "brand": "Quiet Leader",
         "number": "05",
-        "title": "Radical Candor",
-        "body": "Scott gave me language for caring personally while challenging directly. I stopped avoiding hard conversations, and my team finally got the feedback they needed to grow. Silence is not kindness.",
+        "title": "Choose Great Over Big",
+        "body": "Burlingham introduced me to companies that prioritized excellence over endless scale. I redefined our north star around craftsmanship and customer depth. Growth still happens, but only after culture and quality are already locked in.",
         "handle": "@x",
         "domain": "x.com"
       }
@@ -70,10 +70,10 @@
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "The Founder's Shelf",
+        "brand": "Quiet Leader",
         "number": "06",
-        "title": "The Infinite Game",
-        "body": "Sinek reminded me that no business truly wins; it only stays in play. I moved from beating competitors to outlasting them through purpose and resilient culture. The goal is continuity, not conquest.",
+        "title": "Grow People First",
+        "body": "Kegan and Lahey convinced me that a company is only as strong as its weakest growth habit. I began building feedback rituals that expose blind spots instead of hiding them. Developing people is developing the business.",
         "handle": "@x",
         "domain": "x.com"
       }

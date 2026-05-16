@@ -1,81 +1,81 @@
 {
   "id": "saying-no",
-  "brand": "Sarah Chen",
+  "brand": "Founder Fuel",
   "brief": "5 lessons on saying no — from a founder who used to say yes to everything.",
   "theme": "beige-paper",
   "slides": [
     {
       "layoutId": "cover-beige-serif",
       "slots": {
-        "brand": "Sarah Chen",
-        "headline": "How a yes-founder learned to say no without guilt",
+        "brand": "Founder Fuel",
+        "headline": "Six Lessons on Saying No Without Burning Bridges",
         "slideCountHero": "6"
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "Sarah Chen",
+        "brand": "Founder Fuel",
         "number": "01",
-        "title": "The pause button",
-        "body": "Before committing, take twenty-four hours. Urgency is usually someone else’s priority, not yours. A brief pause protects your calendar and your sanity.",
-        "handle": "@sarahchen",
-        "domain": "sarahchen.com"
+        "title": "Pause Before Promising",
+        "body": "Every request feels urgent when you are building. Sleep on small asks before committing. A delayed yes saves more trust than a rushed no.",
+        "handle": "@founderfuel",
+        "domain": "founderfuel.com"
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "Sarah Chen",
+        "brand": "Founder Fuel",
         "number": "02",
-        "title": "Your calendar is sacred",
-        "body": "Block deep-work hours before saying yes to any meeting. Every accepted invite steals energy from your most important work. Guard your time like a product roadmap.",
-        "handle": "@sarahchen",
-        "domain": "sarahchen.com"
+        "title": "Your No Is Enough",
+        "body": "You do not owe anyone a lengthy excuse. A kind, direct decline respects both parties' time. Clarity prevents the slow ghosting that damages relationships.",
+        "handle": "@founderfuel",
+        "domain": "founderfuel.com"
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "Sarah Chen",
+        "brand": "Founder Fuel",
         "number": "03",
-        "title": "No is a sentence",
-        "body": "You do not owe anyone a lengthy explanation. A kind but firm no respects both parties more than a resentful yes. Practice saying it out loud.",
-        "handle": "@sarahchen",
-        "domain": "sarahchen.com"
+        "title": "Protect Your Calendar First",
+        "body": "Block your deep-work hours before others claim them. Treat your own priorities as immovable meetings. If it is not on your calendar, it does not exist.",
+        "handle": "@founderfuel",
+        "domain": "founderfuel.com"
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "Sarah Chen",
+        "brand": "Founder Fuel",
         "number": "04",
-        "title": "Opportunity cost is real",
-        "body": "Every yes to a mediocre opportunity is a no to your best work. Measure requests against your north-star metric. If it doesn’t align, decline gracefully.",
-        "handle": "@sarahchen",
-        "domain": "sarahchen.com"
+        "title": "Refer, Don't Just Reject",
+        "body": "When you cannot help, offer an alternative. A short introduction or resource keeps the connection warm. Generosity and boundaries can coexist beautifully.",
+        "handle": "@founderfuel",
+        "domain": "founderfuel.com"
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "Sarah Chen",
+        "brand": "Founder Fuel",
         "number": "05",
-        "title": "Boundaries build trust",
-        "body": "Clear boundaries make you predictable and reliable. Teams perform better when they know what to expect. Stop apologizing for limits that protect output.",
-        "handle": "@sarahchen",
-        "domain": "sarahchen.com"
+        "title": "Saying Yes Costs Focus",
+        "body": "Each yes to a distraction is a no to your team. Measure opportunity cost in hours and energy. Protect the few things that truly move the needle.",
+        "handle": "@founderfuel",
+        "domain": "founderfuel.com"
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "Sarah Chen",
+        "brand": "Founder Fuel",
         "number": "06",
-        "title": "Start small today",
-        "body": "Pick one boundary this week and enforce it. Small wins create the muscle memory for bigger no’s. Your future self will thank you.",
-        "handle": "@sarahchen",
-        "domain": "sarahchen.com"
+        "title": "Practice Makes Boundaries Easier",
+        "body": "Start with low-stakes requests to build the muscle. Confidence grows every time you choose focus over people-pleasing. Your future self will thank you.",
+        "handle": "@founderfuel",
+        "domain": "founderfuel.com"
       }
     }
   ]

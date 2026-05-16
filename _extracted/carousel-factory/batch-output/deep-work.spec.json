@@ -1,13 +1,13 @@
 {
   "id": "deep-work",
-  "brand": "DeepWork",
+  "brand": "FocusCraft",
   "brief": "How to protect 4 hours of deep work in a calendar full of meetings.",
   "theme": "beige-paper",
   "slides": [
     {
       "layoutId": "cover-beige-serif",
       "slots": {
-        "brand": "DeepWork",
+        "brand": "FocusCraft",
         "headline": "How to Protect Four Hours of Deep Work Daily",
         "slideCountHero": "6"
       }
@@ -15,10 +15,10 @@
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "DeepWork",
+        "brand": "FocusCraft",
         "number": "01",
         "title": "Audit Your Calendar",
-        "body": "Scan your week for low-priority meetings that steal focus. Cancel or delegate anything that doesn't require your direct input. Reclaiming these slots is the first step toward protected deep work.",
+        "body": "Review your current schedule and identify low-value meetings. Cancel or delegate anything that doesn't require your expertise. Reclaiming this time is the first step toward focused work.",
         "handle": "@x",
         "domain": "x.com"
       }
@@ -26,10 +26,10 @@
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "DeepWork",
+        "brand": "FocusCraft",
         "number": "02",
         "title": "Block Deep Work",
-        "body": "Treat your deep-work block like an immovable client meeting. Place it on your calendar at the same time each day. Consistency trains colleagues to respect your focus hours.",
+        "body": "Schedule a recurring four-hour daily block as a non-negotiable appointment. Treat this commitment with the same respect as any client meeting. Protecting this window trains others to honor your focus.",
         "handle": "@x",
         "domain": "x.com"
       }
@@ -37,10 +37,10 @@
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "DeepWork",
+        "brand": "FocusCraft",
         "number": "03",
-        "title": "Set Clear Boundaries",
-        "body": "Share your focus hours with your team so expectations are clear. Turn on do-not-disturb and close email during these blocks. Boundaries only work when you enforce them visibly.",
+        "title": "Defend Your Mornings",
+        "body": "Reserve your peak cognitive hours for demanding tasks before noon. Meetings drain mental energy, so push collaborative calls to afternoons. This rhythm maximizes output when your mind is sharpest.",
         "handle": "@x",
         "domain": "x.com"
       }
@@ -48,10 +48,10 @@
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "DeepWork",
+        "brand": "FocusCraft",
         "number": "04",
-        "title": "Batch Meetings Together",
-        "body": "Cluster calls into one or two afternoons rather than scattering them. Batching preserves longer uninterrupted stretches for demanding projects. Your brain switches gears less often, saving mental energy.",
+        "title": "Set Clear Boundaries",
+        "body": "Communicate your focus hours to teammates and update your status. Use calendar titles like Deep Work to signal unavailability clearly. Boundaries only work when they are visible and consistent.",
         "handle": "@x",
         "domain": "x.com"
       }
@@ -59,10 +59,10 @@
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "DeepWork",
+        "brand": "FocusCraft",
         "number": "05",
-        "title": "Default to Async",
-        "body": "Replace status meetings with brief written updates or recorded videos. Async communication keeps everyone informed without real-time disruption. Reserve live meetings for decisions that genuinely require discussion.",
+        "title": "Batch Meetings Together",
+        "body": "Cluster calls into one or two dedicated days to preserve focus blocks. Context switching between deep work and meetings destroys productivity. A fragmented calendar guarantees shallow work wins.",
         "handle": "@x",
         "domain": "x.com"
       }
@@ -70,10 +70,10 @@
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "DeepWork",
+        "brand": "FocusCraft",
         "number": "06",
-        "title": "Protect Your Energy",
-        "body": "Schedule deep work during your peak cognitive hours, usually mornings. Avoid back-to-back meetings before your focus block. Guarding this time is how you produce your best work.",
+        "title": "Review Weekly Ritual",
+        "body": "Spend fifteen minutes each Friday auditing next week's schedule. Look for intrusions and shift meetings before they erode your deep work. Consistent reviews turn protection into a lasting habit.",
         "handle": "@x",
         "domain": "x.com"
       }

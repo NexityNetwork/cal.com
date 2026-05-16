@@ -1,84 +1,84 @@
 {
   "id": "morning-walk",
-  "brand": "GROUNDWORK",
+  "brand": "GROUND TRUTH",
   "brief": "Why a 20-minute morning walk beat my $400 wearable.",
   "theme": "dark-green-serif",
   "slides": [
     {
       "layoutId": "cover-dark-green-serif",
       "slots": {
-        "brand": "GROUNDWORK",
+        "brand": "GROUND TRUTH",
         "pageOf": "01 OF 07",
-        "headline": "Why My Walk Won",
-        "subtitle": "How a free morning habit outperformed expensive metrics.",
-        "stickerText": "FREE FIX",
-        "handle": "@groundwork"
+        "headline": "Why Walks Beat Wearables?",
+        "subtitle": "I ditched the data and found something better outside.",
+        "stickerText": "FOR YOU",
+        "handle": "@groundtruth"
       }
     },
     {
       "layoutId": "body-dark-green-serif",
       "slots": {
-        "brand": "GROUNDWORK",
+        "brand": "GROUND TRUTH",
         "pageOf": "02 OF 07",
         "number": "01",
-        "title": "The $400 Promise",
-        "body": "I bought the latest tracker hoping for a health revolution. It counted steps, stress, and sleep with clinical precision. The app dashboard looked like mission control. I waited for the magic to happen.",
-        "handle": "@groundwork"
+        "title": "The Wearable Trap",
+        "body": "I chased sleep scores and recovery percentages for months. The $400 band promised optimization but delivered anxiety. More data didn't mean more health. It just meant more notifications.",
+        "handle": "@groundtruth"
       }
     },
     {
       "layoutId": "body-dark-green-serif",
       "slots": {
-        "brand": "GROUNDWORK",
+        "brand": "GROUND TRUTH",
         "pageOf": "03 OF 07",
         "number": "02",
-        "title": "Too Much Data",
-        "body": "Instead of clarity, I got anxiety about my recovery score. I spent more time checking charts than actually moving my body. The wearable became another screen demanding my attention. My health felt like a stock market report.",
-        "handle": "@groundwork"
+        "title": "The Twenty-Minute Experiment",
+        "body": "I swapped the morning scroll for a walk around the block. No GPS, no heart rate zones, just pavement and daylight. Twenty minutes felt almost too simple to work.",
+        "handle": "@groundtruth"
       }
     },
     {
       "layoutId": "body-dark-green-serif",
       "slots": {
-        "brand": "GROUNDWORK",
+        "brand": "GROUND TRUTH",
         "pageOf": "04 OF 07",
         "number": "03",
-        "title": "The Simple Test",
-        "body": "I parked the watch and laced up my shoes at dawn. Twenty minutes. No metrics, no heart rate zones, just pavement and breath. It felt suspiciously like freedom. I decided to give it thirty days.",
-        "handle": "@groundwork"
+        "title": "What Actually Changed",
+        "body": "My energy spiked before coffee. My mind felt quieter without a dashboard telling me I failed. Turns out, sunlight and movement are the oldest biohackers around.",
+        "handle": "@groundtruth"
       }
     },
     {
       "layoutId": "body-dark-green-serif",
       "slots": {
-        "brand": "GROUNDWORK",
+        "brand": "GROUND TRUTH",
         "pageOf": "05 OF 07",
         "number": "04",
-        "title": "My Body Changed",
-        "body": "My sleep deepened without a gadget reminding me I failed. Energy lasted through the afternoon slump without caffeine. My knees stopped complaining. The doctor shrugged and said whatever I was doing worked.",
-        "handle": "@groundwork"
+        "title": "The Real Cost Breakdown",
+        "body": "The wearable cost four hundred dollars and required daily charging. The walk required shoes I already owned. One demanded attention; the other gave it back.",
+        "handle": "@groundtruth"
       }
     },
     {
       "layoutId": "body-dark-green-serif",
       "slots": {
-        "brand": "GROUNDWORK",
+        "brand": "GROUND TRUTH",
         "pageOf": "06 OF 07",
         "number": "05",
-        "title": "My Mind Cleared",
-        "body": "Morning light became my meditation before the emails invaded. I noticed birds, weather, and my own thoughts again. The walk created a boundary the wearable never could. Sanity does not require a charging cable.",
-        "handle": "@groundwork"
+        "title": "Consistency Beats Intensity",
+        "body": "I missed the wearable when I forgot to charge it. I never missed a walk because the battery died. Simple rituals stick when the barrier to entry is just a front door.",
+        "handle": "@groundtruth"
       }
     },
     {
       "layoutId": "body-dark-green-serif",
       "slots": {
-        "brand": "GROUNDWORK",
+        "brand": "GROUND TRUTH",
         "pageOf": "07 OF 07",
         "number": "06",
-        "title": "Simple Always Wins",
-        "body": "The wearable is not evil, but it is optional. The walk costs nothing and demands no firmware updates. If you want to feel better, start with shoes. Data is useless without consistent action.",
-        "handle": "@groundwork"
+        "title": "Start With A Walk",
+        "body": "You don't need another gadget to validate your health. You need twenty minutes of fresh air and a loop around your neighborhood. Sometimes the best tech is no tech at all.",
+        "handle": "@groundtruth"
       }
     }
   ]

@@ -1,0 +1,70 @@
+{
+  "id": "tiktok-growth-groovy",
+  "brand": "ViralVault",
+  "brief": "5 unhinged TikTok hooks that 10x'd our growth.",
+  "theme": "retro-groovy",
+  "slides": [
+    {
+      "layoutId": "cover-retro-groovy",
+      "slots": {
+        "title": "Unhinged TikTok hook secrets",
+        "ctaText": "Five unhinged hooks that 10xed growth",
+        "handle": "@viralvault"
+      }
+    },
+    {
+      "layoutId": "body-retro-groovy",
+      "slots": {
+        "number": "01",
+        "title": "You Just Wasted $10K",
+        "body": "Lead with a painful scenario they can't scroll past. The cringe hits harder than any polished sales pitch ever could.",
+        "handle": "@viralvault"
+      }
+    },
+    {
+      "layoutId": "body-retro-groovy",
+      "slots": {
+        "number": "02",
+        "title": "Filter Ended My Career",
+        "body": "Absurd visual hooks stop the thumb. People NEED to know what happened next, and chaos always converts better than boring.",
+        "handle": "@viralvault"
+      }
+    },
+    {
+      "layoutId": "body-retro-groovy",
+      "slots": {
+        "number": "03",
+        "title": "Accidentally Built A Cult",
+        "body": "Weird flexes spark instant curiosity. Own the unhinged energy and watch your comment section explode with engagement overnight.",
+        "handle": "@viralvault"
+      }
+    },
+    {
+      "layoutId": "body-retro-groovy",
+      "slots": {
+        "number": "04",
+        "title": "CEO Is A Hamster",
+        "body": "Personifying nonsense builds instant lore. If it sounds fake but wildly entertaining, they'll follow just to see the plot.",
+        "handle": "@viralvault"
+      }
+    },
+    {
+      "layoutId": "body-retro-groovy",
+      "slots": {
+        "number": "05",
+        "title": "Stop Using This Sound",
+        "body": "Contrarian takes trigger rage-watches. Rage equals retention, and retention is the only metric that actually matters for reach.",
+        "handle": "@viralvault"
+      }
+    },
+    {
+      "layoutId": "body-retro-groovy",
+      "slots": {
+        "number": "06",
+        "title": "Steal These Hook Formulas",
+        "body": "Save this post and test one hook today. Your next viral video is literally one unhinged sentence away from blowing up.",
+        "handle": "@viralvault"
+      }
+    }
+  ]
+}

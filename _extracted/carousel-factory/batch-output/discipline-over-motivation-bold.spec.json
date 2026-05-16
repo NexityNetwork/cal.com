@@ -1,0 +1,69 @@
+{
+  "id": "discipline-over-motivation-bold",
+  "brand": "Daily Drive",
+  "brief": "Why discipline always beats motivation — 6 examples.",
+  "theme": "bold-split",
+  "slides": [
+    {
+      "layoutId": "cover-bold-split",
+      "slots": {
+        "title": "WHY DISCIPLINE ALWAYS BEATS MOTIVATION EVERY DAY",
+        "handle": "@dailydrive"
+      }
+    },
+    {
+      "layoutId": "body-bold-split",
+      "slots": {
+        "number": "01",
+        "title": "MOTIVATION FADES DISCIPLINE STAYS",
+        "body": "Motivation spikes and crashes like a sugar high. Discipline is the boring habit that keeps you working when excitement disappears.",
+        "handle": "@dailydrive"
+      }
+    },
+    {
+      "layoutId": "body-bold-split",
+      "slots": {
+        "number": "02",
+        "title": "PROS SHOW UP DAILY",
+        "body": "Professional writers do not wait for muse. They sit down at the same time and let discipline carry the blank page.",
+        "handle": "@dailydrive"
+      }
+    },
+    {
+      "layoutId": "body-bold-split",
+      "slots": {
+        "number": "03",
+        "title": "ATHLETES TRAIN IN BAD WEATHER",
+        "body": "Champions do not check their feelings before practice. They run drills in rain because discipline, not hype, wins medals.",
+        "handle": "@dailydrive"
+      }
+    },
+    {
+      "layoutId": "body-bold-split",
+      "slots": {
+        "number": "04",
+        "title": "CONSISTENCY BEATS LAST MINUTE CRAMMING",
+        "body": "Cramming relies on panic-fueled motivation that evaporates quickly. Daily review builds knowledge through disciplined repetition you actually remember.",
+        "handle": "@dailydrive"
+      }
+    },
+    {
+      "layoutId": "body-bold-split",
+      "slots": {
+        "number": "05",
+        "title": "BUILD SYSTEMS NOT EXCITEMENT",
+        "body": "Starting a business feels thrilling until the grind arrives. Disciplined founders create boring systems that outlast every emotional drop.",
+        "handle": "@dailydrive"
+      }
+    },
+    {
+      "layoutId": "body-bold-split",
+      "slots": {
+        "number": "06",
+        "title": "MASTER THE BORING FUNDAMENTALS",
+        "body": "Inspiration produces one great piece. Discipline produces a hundred by showing up to practice scales, drafts, and edits relentlessly.",
+        "handle": "@dailydrive"
+      }
+    }
+  ]
+}

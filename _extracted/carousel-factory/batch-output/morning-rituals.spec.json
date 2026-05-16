@@ -1,81 +1,81 @@
 {
   "id": "morning-rituals",
-  "brand": "FounderNotes",
+  "brand": "Founder Notes",
   "brief": "5 morning rituals that changed how I run my business.",
   "theme": "beige-paper",
   "slides": [
     {
       "layoutId": "cover-beige-serif",
       "slots": {
-        "brand": "FounderNotes",
-        "headline": "Morning Rituals That Changed How I Run My Business",
+        "brand": "Founder Notes",
+        "headline": "Five Morning Rituals That Changed My Business",
         "slideCountHero": "6"
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "FounderNotes",
+        "brand": "Founder Notes",
         "number": "01",
-        "title": "No Phone Rule",
-        "body": "I keep my phone off until 9 AM. This protects my first hour for deep thinking. Clarity compounds faster than notifications.",
-        "handle": "@foundernotes",
-        "domain": "foundernotes.com"
+        "title": "No Phone Zone",
+        "body": "I don't touch my phone for the first sixty minutes. It protects my focus and lets me set the day's agenda instead of reacting to everyone else's. That single boundary changed my energy completely.",
+        "handle": "@notes",
+        "domain": "notes.com"
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "FounderNotes",
+        "brand": "Founder Notes",
         "number": "02",
-        "title": "Cold Water Reset",
-        "body": "A two-minute cold shower shocks my nervous system awake. It trains my mind to embrace discomfort early. Decisions feel lighter all day.",
-        "handle": "@foundernotes",
-        "domain": "foundernotes.com"
+        "title": "Move Before Email",
+        "body": "A twenty-minute walk or stretch clears mental fog. Movement boosts decision-making stamina before I sit down to lead. I show up sharper and far less reactive.",
+        "handle": "@notes",
+        "domain": "notes.com"
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "FounderNotes",
+        "brand": "Founder Notes",
         "number": "03",
-        "title": "Single Priority Block",
-        "body": "I calendar one three-hour block for my hardest task. No meetings, no Slack, just focused execution. Everything else waits patiently.",
-        "handle": "@foundernotes",
-        "domain": "foundernotes.com"
+        "title": "One Deep Block",
+        "body": "I dedicate ninety minutes to my hardest priority before meetings begin. Protecting this slot means my most important work actually gets done. Everything else fits around it.",
+        "handle": "@notes",
+        "domain": "notes.com"
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "FounderNotes",
+        "brand": "Founder Notes",
         "number": "04",
-        "title": "Movement Before Email",
-        "body": "Twenty minutes of stretching or walking clears mental cobwebs. Physical momentum creates psychological momentum. I arrive at my desk ready.",
-        "handle": "@foundernotes",
-        "domain": "foundernotes.com"
+        "title": "Journal Three Lines",
+        "body": "Three lines of reflection reveal patterns I would otherwise miss. It takes two minutes but prevents costly repeated mistakes. Clarity is a competitive advantage.",
+        "handle": "@notes",
+        "domain": "notes.com"
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "FounderNotes",
+        "brand": "Founder Notes",
         "number": "05",
-        "title": "Journal One Truth",
-        "body": "I write three lines on what actually matters today. This cuts through the noise of urgent requests. Intention replaces reactivity.",
-        "handle": "@foundernotes",
-        "domain": "foundernotes.com"
+        "title": "Protein First",
+        "body": "A high-protein breakfast stabilizes my blood sugar and mood. No mid-morning crash means consistent judgment through back-to-back calls. Food is focus fuel.",
+        "handle": "@notes",
+        "domain": "notes.com"
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "FounderNotes",
+        "brand": "Founder Notes",
         "number": "06",
-        "title": "Tea And Presence",
-        "body": "I brew loose-leaf tea and breathe for five minutes. The ritual signals my brain that work begins. Calm is my first profit.",
-        "handle": "@foundernotes",
-        "domain": "foundernotes.com"
+        "title": "Pick One Today",
+        "body": "You don't need all six to see results. Choose the ritual that feels easiest and practice it for one week. Small mornings build empires.",
+        "handle": "@notes",
+        "domain": "notes.com"
       }
     }
   ]

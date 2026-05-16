@@ -1,0 +1,80 @@
+{
+  "id": "skincare-myths-beauty",
+  "brand": "VOSS AESTHETICS",
+  "brief": "5 skincare myths a board-certified specialist wants you to stop believing.",
+  "theme": "minimal-beauty",
+  "slides": [
+    {
+      "layoutId": "cover-minimal-beauty",
+      "slots": {
+        "handle": "@reallygreatsite",
+        "author": "Olivia Voss",
+        "role": "BOARD-CERTIFIED DERMATOLOGIST",
+        "titleLine1": "FIVE",
+        "titleLine2": "SKINCARE",
+        "titleLine3": "MYTHS",
+        "subtitle": "THE TRUTH BEHIND EVERYDAY BEAUTY LIES"
+      }
+    },
+    {
+      "layoutId": "body-minimal-beauty",
+      "slots": {
+        "handle": "@reallygreatsite",
+        "author": "Olivia Voss",
+        "number": "INTRO",
+        "title": "THE REAL SCIENCE",
+        "body": "There is more misinformation online than ever. Let us separate fact from fiction so you can protect your skin barrier and invest wisely."
+      }
+    },
+    {
+      "layoutId": "body-minimal-beauty",
+      "slots": {
+        "handle": "@reallygreatsite",
+        "author": "Olivia Voss",
+        "number": "MYTH 01",
+        "title": "NATURAL IS SAFER",
+        "body": "Poison ivy is natural, yet highly irritating. Many synthetic ingredients are clinically proven to be gentler and more effective than raw botanicals."
+      }
+    },
+    {
+      "layoutId": "body-minimal-beauty",
+      "slots": {
+        "handle": "@reallygreatsite",
+        "author": "Olivia Voss",
+        "number": "MYTH 02",
+        "title": "CLOUDS BLOCK RAYS",
+        "body": "Up to 80 percent of UV rays pass through clouds. Daily broad-spectrum protection is essential regardless of the weather forecast."
+      }
+    },
+    {
+      "layoutId": "body-minimal-beauty",
+      "slots": {
+        "handle": "@reallygreatsite",
+        "author": "Olivia Voss",
+        "number": "MYTH 03",
+        "title": "OILY SKIN NEEDS NOTHING",
+        "body": "Skipping moisturizer triggers rebound oil production. A lightweight, non-comedogenic hydrator balances sebum and strengthens your barrier over time."
+      }
+    },
+    {
+      "layoutId": "body-minimal-beauty",
+      "slots": {
+        "handle": "@reallygreatsite",
+        "author": "Olivia Voss",
+        "number": "MYTH 04",
+        "title": "PORES OPEN AND CLOSE",
+        "body": "Pores are not muscles; they lack the ability to open or shut. Steam merely softens debris, while cold water only causes temporary constriction."
+      }
+    },
+    {
+      "layoutId": "body-minimal-beauty",
+      "slots": {
+        "handle": "@reallygreatsite",
+        "author": "Olivia Voss",
+        "number": "MYTH 05",
+        "title": "RESULTS COME OVERNIGHT",
+        "body": "Real change happens at the cellular level. Consistent use of proven actives like retinoids and peptides yields visible improvement after several weeks."
+      }
+    }
+  ]
+}

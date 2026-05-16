@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/saas-pricing/slide-01.png",
-      "bytes": 251632,
+      "bytes": 240074,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -23,7 +23,7 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/saas-pricing/slide-02.png",
-      "bytes": 230371,
+      "bytes": 216811,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -53,7 +53,7 @@
     {
       "index": 2,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/saas-pricing/slide-03.png",
-      "bytes": 226347,
+      "bytes": 206283,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -83,7 +83,7 @@
     {
       "index": 3,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/saas-pricing/slide-04.png",
-      "bytes": 222821,
+      "bytes": 206516,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -113,7 +113,7 @@
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/saas-pricing/slide-05.png",
-      "bytes": 221118,
+      "bytes": 205548,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -143,7 +143,7 @@
     {
       "index": 5,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/saas-pricing/slide-06.png",
-      "bytes": 223971,
+      "bytes": 215817,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -173,7 +173,7 @@
     {
       "index": 6,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/saas-pricing/slide-07.png",
-      "bytes": 227627,
+      "bytes": 207134,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -195,7 +195,7 @@
             "x": 110,
             "y": 470,
             "w": 860,
-            "h": 131
+            "h": 87
           }
         }
       }
@@ -208,7 +208,7 @@
       "slides 3 and 4 have nearly identical composition (sim=1.00)",
       "slides 4 and 5 have nearly identical composition (sim=1.00)",
       "slides 5 and 6 have nearly identical composition (sim=1.00)",
-      "slides 6 and 7 have nearly identical composition (sim=1.00)"
+      "slides 6 and 7 have nearly identical composition (sim=0.96)"
     ],
     "adjacencyChecks": [
       {
@@ -251,7 +251,7 @@
           6,
           7
         ],
-        "similarity": 1
+        "similarity": 0.9637860082304527
       }
     ]
   }

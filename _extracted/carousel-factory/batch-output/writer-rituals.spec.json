@@ -1,97 +1,97 @@
 {
   "id": "writer-rituals",
-  "brand": "SHIPPED",
+  "brand": "BOOKCRAFT",
   "brief": "The morning routines of 6 writers who shipped a book in 12 months.",
   "theme": "noir-yellow",
   "slides": [
     {
       "layoutId": "cover-noir-yellow",
       "slots": {
-        "brand": "SHIPPED",
+        "brand": "BOOKCRAFT",
         "scriptPrefix": "The",
-        "displayLine1": "MORNING",
-        "displayLine2": "ROUTINES",
-        "displayLine3": "OF WRITERS",
-        "scriptTagline": "6 authors who finished a book in one year",
-        "handle": "@shipped",
+        "displayLine1": "6 WRITERS",
+        "displayLine2": "12 MONTHS",
+        "displayLine3": "1 BOOK EACH",
+        "scriptTagline": "Morning rituals that finish manuscripts before noon.",
+        "handle": "@bookcraft",
         "slideId": "Slide 01"
       }
     },
     {
       "layoutId": "body-noir-yellow",
       "slots": {
-        "brand": "SHIPPED",
-        "scriptPrefix": "Begin",
-        "displayLine1": "5 AM",
-        "displayLine2": "BLACK COFFEE",
+        "brand": "BOOKCRAFT",
+        "scriptPrefix": "Focus",
+        "displayLine1": "5 AM CLUB",
+        "displayLine2": "DARK COFFEE",
         "displayLine3": "500 WORDS",
-        "body": "She rises before the sun and brews dark coffee. By seven, her daily word count is already done. The rest of the day belongs to her job.",
-        "handle": "@shipped",
+        "body": "She rose at five, brewed black coffee, and wrote until seven. No phone, no news, just words. By breakfast, the hardest chapter was drafted.",
+        "handle": "@bookcraft",
         "slideId": "Slide 02"
       }
     },
     {
       "layoutId": "body-noir-yellow",
       "slots": {
-        "brand": "SHIPPED",
-        "scriptPrefix": "Focus",
-        "displayLine1": "IGNORE DAWN",
-        "displayLine2": "NIGHT OIL",
-        "displayLine3": "MIDNIGHT INK",
-        "body": "He writes when the world goes quiet and dark. Mornings are for rest, not paragraphs or pages. His deadline respects the night owl.",
-        "handle": "@shipped",
+        "brand": "BOOKCRAFT",
+        "scriptPrefix": "Try",
+        "displayLine1": "SILENT WALK",
+        "displayLine2": "LONGHAND FIRST",
+        "displayLine3": "TYPE BY TEN",
+        "body": "He walked two miles without headphones to clear the noise. Then he filled three notebook pages before touching the keyboard. The draft always came smoother after.",
+        "handle": "@bookcraft",
         "slideId": "Slide 03"
       }
     },
     {
       "layoutId": "body-noir-yellow",
       "slots": {
-        "brand": "SHIPPED",
-        "scriptPrefix": "Try",
-        "displayLine1": "LONG WALK",
-        "displayLine2": "NO PHONE",
-        "displayLine3": "PEN AFTER",
-        "body": "She wanders the neighborhood for an hour without technology. Thoughts untangle with every step on the pavement. Back home, the chapter writes itself.",
-        "handle": "@shipped",
+        "brand": "BOOKCRAFT",
+        "scriptPrefix": "Begin",
+        "displayLine1": "NO ALARMS",
+        "displayLine2": "WAKE NATURALLY",
+        "displayLine3": "WRITE AT NINE",
+        "body": "She let sunlight wake her instead of a blaring clock. After tea and toast, she wrote for ninety minutes without editing. Consistency beat intensity every single time.",
+        "handle": "@bookcraft",
         "slideId": "Slide 04"
       }
     },
     {
       "layoutId": "body-noir-yellow",
       "slots": {
-        "brand": "SHIPPED",
-        "scriptPrefix": "Begin",
-        "displayLine1": "SAME CHAIR",
-        "displayLine2": "GREEN TEA",
-        "displayLine3": "TWO HOURS",
-        "body": "He sits in the same chair at the same time daily. No music, no notifications, just silence and green tea. Consistency outlasts inspiration.",
-        "handle": "@shipped",
+        "brand": "BOOKCRAFT",
+        "scriptPrefix": "Focus",
+        "displayLine1": "SAME MUG",
+        "displayLine2": "SAME CHAIR",
+        "displayLine3": "SAME WORD COUNT",
+        "body": "He eliminated every decision that did not serve the page. Same corner, same pen, same two hours. The ritual carved a path through resistance.",
+        "handle": "@bookcraft",
         "slideId": "Slide 05"
       }
     },
     {
       "layoutId": "body-noir-yellow",
       "slots": {
-        "brand": "SHIPPED",
-        "scriptPrefix": "Focus",
-        "displayLine1": "POMODORO",
-        "displayLine2": "SHORT BURST",
-        "displayLine3": "SHIP DAILY",
-        "body": "She writes in twenty-five minute sprints with strict breaks. Four cycles before breakfast yield more than all-day marathons. Small wins compound fast.",
-        "handle": "@shipped",
+        "brand": "BOOKCRAFT",
+        "scriptPrefix": "Try",
+        "displayLine1": "RUN FIRST",
+        "displayLine2": "COLD SHOWER",
+        "displayLine3": "DEEP WORK",
+        "body": "She ran three miles to outpace doubt and anxiety. A cold shower snapped her mind awake. By eight she was deep in the manuscript.",
+        "handle": "@bookcraft",
         "slideId": "Slide 06"
       }
     },
     {
       "layoutId": "body-noir-yellow",
       "slots": {
-        "brand": "SHIPPED",
-        "scriptPrefix": "Try",
-        "displayLine1": "SCHOOL DROP",
-        "displayLine2": "PARK BENCH",
-        "displayLine3": "STOLEN TIME",
-        "body": "He drafts paragraphs in the carpool line and park. Mornings are chaos, but fifteen stolen minutes add up. A finished book demands no perfection.",
-        "handle": "@shipped",
+        "brand": "BOOKCRAFT",
+        "scriptPrefix": "Begin",
+        "displayLine1": "READ ONE PAGE",
+        "displayLine2": "WRITE THREE MORE",
+        "displayLine3": "SHIP BY LUNCH",
+        "body": "He read a single poem to tune his ear. Then he wrote three pages without looking back. Momentum carried him through the rest of the day.",
+        "handle": "@bookcraft",
         "slideId": "Slide 07"
       }
     }

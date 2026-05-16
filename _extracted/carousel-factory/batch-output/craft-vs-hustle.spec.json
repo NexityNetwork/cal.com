@@ -9,10 +9,10 @@
       "slots": {
         "brand": "ATELIER",
         "scriptPrefix": "The",
-        "displayLine1": "6 THINGS",
-        "displayLine2": "MAKERS KNOW",
-        "displayLine3": "HUSTLERS DON'T",
-        "scriptTagline": "Slow hands build what speed forgets.",
+        "displayLine1": "CRAFT",
+        "displayLine2": "OVER",
+        "displayLine3": "HUSTLE",
+        "scriptTagline": "Six quiet truths the hustle never learned",
         "handle": "@atelier",
         "slideId": "Slide 01"
       }
@@ -23,9 +23,9 @@
         "brand": "ATELIER",
         "scriptPrefix": "Begin",
         "displayLine1": "REST IS",
-        "displayLine2": "PART OF",
-        "displayLine3": "THE CRAFT",
-        "body": "Hustlers glorify exhaustion. Makers know that recovery fuels clarity and sharpens the work. Rest is not a reward; it is a requirement.",
+        "displayLine2": "THE WORK",
+        "displayLine3": "TOO",
+        "body": "Hustlers wear exhaustion like a badge. Makers know recovery is where ideas incubate and quality is born. Rest is not the opposite of craft; it is part of it.",
         "handle": "@atelier",
         "slideId": "Slide 02"
       }
@@ -34,11 +34,11 @@
       "layoutId": "body-noir-yellow",
       "slots": {
         "brand": "ATELIER",
-        "scriptPrefix": "Try",
-        "displayLine1": "ITERATE IN",
-        "displayLine2": "PRIVATE",
-        "displayLine3": "NOT FOR LIKES",
-        "body": "Hustlers broadcast every move. Makers build in silence, letting drafts stay messy until the idea is truly ready. The process is sacred, not content.",
+        "scriptPrefix": "Focus",
+        "displayLine1": "LIMITS",
+        "displayLine2": "CREATE",
+        "displayLine3": "CLARITY",
+        "body": "Hustlers chase endless options and scale before structure. Makers impose constraints to sharpen vision and deepen the work. Less becomes the lever for more.",
         "handle": "@atelier",
         "slideId": "Slide 03"
       }
@@ -47,11 +47,11 @@
       "layoutId": "body-noir-yellow",
       "slots": {
         "brand": "ATELIER",
-        "scriptPrefix": "Focus",
-        "displayLine1": "DEPTH BEATS",
-        "displayLine2": "BREADTH",
-        "displayLine3": "EVERY TIME",
-        "body": "One masterful piece outlives a hundred rushed posts. Makers chase mastery in a single direction while hustlers scatter for reach. Choose the narrow path.",
+        "scriptPrefix": "Try",
+        "displayLine1": "LET THE",
+        "displayLine2": "WORK",
+        "displayLine3": "SPEAK",
+        "body": "Hustlers broadcast before they build. Makers trust that substance creates its own signal. One finished piece outweighs a thousand empty announcements.",
         "handle": "@atelier",
         "slideId": "Slide 04"
       }
@@ -60,11 +60,11 @@
       "layoutId": "body-noir-yellow",
       "slots": {
         "brand": "ATELIER",
-        "scriptPrefix": "Try",
-        "displayLine1": "TOOLS ARE",
-        "displayLine2": "SECONDARY",
-        "displayLine3": "TO TOUCH",
-        "body": "Hustlers chase the latest gear. Makers know that constraint breeds invention and a practiced hand outperforms any plugin. Skill is the only software.",
+        "scriptPrefix": "Focus",
+        "displayLine1": "SLOW DOWN",
+        "displayLine2": "TO GO",
+        "displayLine3": "DEEP",
+        "body": "Speed is the hustler's metric. Makers move deliberately, knowing that depth compounds while velocity fades. The slow path builds what lasts.",
         "handle": "@atelier",
         "slideId": "Slide 05"
       }
@@ -74,10 +74,10 @@
       "slots": {
         "brand": "ATELIER",
         "scriptPrefix": "Begin",
-        "displayLine1": "SAY NO",
-        "displayLine2": "TO SCALE",
-        "displayLine3": "FOR A WHILE",
-        "body": "Growth is not the only metric. Makers protect the integrity of the work, even if it means staying small. Quality creates its own gravity.",
+        "displayLine1": "GUARD YOUR",
+        "displayLine2": "ATTENTION",
+        "displayLine3": "FEROCIOUSLY",
+        "body": "Hustlers say yes to every demand. Makers protect their focus because every yes to distraction is a no to the craft.",
         "handle": "@atelier",
         "slideId": "Slide 06"
       }
@@ -86,11 +86,11 @@
       "layoutId": "body-noir-yellow",
       "slots": {
         "brand": "ATELIER",
-        "scriptPrefix": "Focus",
+        "scriptPrefix": "Try",
         "displayLine1": "BUILD FOR",
-        "displayLine2": "LEGACY",
-        "displayLine3": "NOT METRICS",
-        "body": "Hustlers live for the dashboard. Makers build for the archive, knowing that timeless work speaks louder than trending noise. Let the numbers fade.",
+        "displayLine2": "LASTING",
+        "displayLine3": "LEGACY",
+        "body": "Hustlers optimize for vanity numbers. Makers measure by endurance, creating work that outlives algorithms and trends. Legacy is the only metric.",
         "handle": "@atelier",
         "slideId": "Slide 07"
       }

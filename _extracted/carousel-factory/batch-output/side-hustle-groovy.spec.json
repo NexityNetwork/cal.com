@@ -1,0 +1,70 @@
+{
+  "id": "side-hustle-groovy",
+  "brand": "HustleHub",
+  "brief": "The 5 side hustles printing money in 2026 — fun edition.",
+  "theme": "retro-groovy",
+  "slides": [
+    {
+      "layoutId": "cover-retro-groovy",
+      "slots": {
+        "title": "Side hustles 2026",
+        "ctaText": "Turning your passion into profit",
+        "handle": "@hustlehub"
+      }
+    },
+    {
+      "layoutId": "body-retro-groovy",
+      "slots": {
+        "number": "01",
+        "title": "The Gig Boom",
+        "body": "Remote work is dead; micro-brands are exploding. Everyone wants a piece of the creator economy. These five gigs are weird, wild, and weirdly profitable.",
+        "handle": "@hustlehub"
+      }
+    },
+    {
+      "layoutId": "body-retro-groovy",
+      "slots": {
+        "number": "02",
+        "title": "AI Meme Broker",
+        "body": "Brands are desperate for viral content but too corporate to be funny. You prompt, they post, you invoice. It is basically printing internet gold.",
+        "handle": "@hustlehub"
+      }
+    },
+    {
+      "layoutId": "body-retro-groovy",
+      "slots": {
+        "number": "03",
+        "title": "Nostalgia Curator",
+        "body": "Gen Alpha wants Y2K flip phones and digicams. You source deadstock from thrift bins, clean them up, and sell the aesthetic on Depop for triple.",
+        "handle": "@hustlehub"
+      }
+    },
+    {
+      "layoutId": "body-retro-groovy",
+      "slots": {
+        "number": "04",
+        "title": "Pet Voice Actor",
+        "body": "Voice apps need sass, not robots. If you can bark, meow, or narrate a cat's inner monologue in a sassy tone, studios are hiring.",
+        "handle": "@hustlehub"
+      }
+    },
+    {
+      "layoutId": "body-retro-groovy",
+      "slots": {
+        "number": "05",
+        "title": "Dream Interpreter",
+        "body": "Sleep tracking is huge, but people want meaning, not data. Decode weird dreams over DMs and sell premium moon-phase subscriptions. Easy money.",
+        "handle": "@hustlehub"
+      }
+    },
+    {
+      "layoutId": "body-retro-groovy",
+      "slots": {
+        "number": "06",
+        "title": "Micro Party Host",
+        "body": "Lonely remote workers crave IRL connection. You organize tiny themed gatherings, sell tickets on TikTok, and keep the vibes immaculate. Profit.",
+        "handle": "@hustlehub"
+      }
+    }
+  ]
+}

@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/slow-business/slide-01.png",
-      "bytes": 159369,
+      "bytes": 173651,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -23,7 +23,7 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/slow-business/slide-02.png",
-      "bytes": 246123,
+      "bytes": 249143,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -43,7 +43,7 @@
     {
       "index": 2,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/slow-business/slide-03.png",
-      "bytes": 250629,
+      "bytes": 246644,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -63,7 +63,7 @@
     {
       "index": 3,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/slow-business/slide-04.png",
-      "bytes": 249028,
+      "bytes": 258737,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -83,7 +83,7 @@
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/slow-business/slide-05.png",
-      "bytes": 248339,
+      "bytes": 243670,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -103,7 +103,7 @@
     {
       "index": 5,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/slow-business/slide-06.png",
-      "bytes": 238592,
+      "bytes": 254377,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -123,7 +123,7 @@
     {
       "index": 6,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/slow-business/slide-07.png",
-      "bytes": 246274,
+      "bytes": 259225,
       "qa": {
         "verdict": "fail",
         "checks": {

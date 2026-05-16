@@ -1,84 +1,84 @@
 {
   "id": "kitchen-tools",
-  "brand": "MINIMALIST TABLE",
+  "brand": "MINIMALIST COOK",
   "brief": "6 kitchen tools that replaced 30 — minimalist home cook edition.",
   "theme": "dark-green-serif",
   "slides": [
     {
       "layoutId": "cover-dark-green-serif",
       "slots": {
-        "brand": "MINIMALIST TABLE",
+        "brand": "MINIMALIST COOK",
         "pageOf": "01 OF 07",
-        "headline": "Too Many Tools?",
-        "subtitle": "Six swaps that cleared my counters and my head.",
-        "stickerText": "CLEAN SPACE",
-        "handle": "@minimalisttable"
+        "headline": "Can One Tool Replace Ten?",
+        "subtitle": "Six essentials that cleared my counters for good.",
+        "stickerText": "MINI GUIDE",
+        "handle": "@minimalistcook"
       }
     },
     {
       "layoutId": "body-dark-green-serif",
       "slots": {
-        "brand": "MINIMALIST TABLE",
+        "brand": "MINIMALIST COOK",
         "pageOf": "02 OF 07",
         "number": "01",
-        "title": "One Chef's Knife",
-        "body": "A single sharp blade handles slicing, dicing, mincing, and even peeling. Ditch the block, scissors, and gadgets. One knife, zero clutter.",
-        "handle": "@minimalisttable"
+        "title": "One Serious Chef's Knife",
+        "body": "Stop collecting single-purpose blades. A sharp chef's knife trims, slices, and breaks down everything from herbs to whole chickens.",
+        "handle": "@minimalistcook"
       }
     },
     {
       "layoutId": "body-dark-green-serif",
       "slots": {
-        "brand": "MINIMALIST TABLE",
+        "brand": "MINIMALIST COOK",
         "pageOf": "03 OF 07",
         "number": "02",
-        "title": "Cast Iron Skillet",
-        "body": "Sear, bake, roast, and grill in one pan. It replaces nonstick, grill pans, and roasting dishes. Oven-safe and built to last.",
-        "handle": "@minimalisttable"
+        "title": "Cast-Iron Skillet Workhorse",
+        "body": "Sear steaks, bake cornbread, and roast vegetables in the same pan. It replaces non-stick skillets, sheet trays, and griddles easily.",
+        "handle": "@minimalistcook"
       }
     },
     {
       "layoutId": "body-dark-green-serif",
       "slots": {
-        "brand": "MINIMALIST TABLE",
+        "brand": "MINIMALIST COOK",
         "pageOf": "04 OF 07",
         "number": "03",
-        "title": "Heavy Dutch Oven",
-        "body": "Braise stews, bake bread, cook rice, and slow-cook meals. One pot takes over for the slow cooker, rice maker, and stockpot.",
-        "handle": "@minimalisttable"
+        "title": "Heavy Enameled Dutch Oven",
+        "body": "Simmer soups, braise meat, bake bread, and fry without splatter. One pot covers slow-cooking, roasting, and boiling duties perfectly.",
+        "handle": "@minimalistcook"
       }
     },
     {
       "layoutId": "body-dark-green-serif",
       "slots": {
-        "brand": "MINIMALIST TABLE",
+        "brand": "MINIMALIST COOK",
         "pageOf": "05 OF 07",
         "number": "04",
-        "title": "Box Grater Only",
-        "body": "Zest citrus, shred cheese, slice veggies, and mince garlic. No need for separate zesters, presses, or mandolines. Four sides, endless jobs.",
-        "handle": "@minimalisttable"
+        "title": "Microplane Zester Grater",
+        "body": "Grate parmesan, zest citrus, mince garlic, and shave nutmeg with ease. It replaces four bulky gadgets and one box grater.",
+        "handle": "@minimalistcook"
       }
     },
     {
       "layoutId": "body-dark-green-serif",
       "slots": {
-        "brand": "MINIMALIST TABLE",
+        "brand": "MINIMALIST COOK",
         "pageOf": "06 OF 07",
         "number": "05",
-        "title": "One Immersion Blender",
-        "body": "Blend soups, whip cream, chop herbs, and froth milk directly in the pot. It replaces the blender, processor, and whisk.",
-        "handle": "@minimalisttable"
+        "title": "Immersion Blender Stick",
+        "body": "Puree soup directly in the pot, whip cream, and blend smoothies in one jar. No bulky base or multiple attachments needed.",
+        "handle": "@minimalistcook"
       }
     },
     {
       "layoutId": "body-dark-green-serif",
       "slots": {
-        "brand": "MINIMALIST TABLE",
+        "brand": "MINIMALIST COOK",
         "pageOf": "07 OF 07",
         "number": "06",
-        "title": "Half Sheet Pan",
-        "body": "Roast proteins, bake cookies, crisp pizza, and catch drips. One rimmed pan covers roasting pans, baking trays, and pizza stones.",
-        "handle": "@minimalisttable"
+        "title": "Digital Kitchen Scale",
+        "body": "Weigh flour, coffee, and portions directly into one bowl. It eliminates stacks of measuring cups and spoons instantly.",
+        "handle": "@minimalistcook"
       }
     }
   ]

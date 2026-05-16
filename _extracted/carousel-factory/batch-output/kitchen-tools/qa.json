@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/kitchen-tools/slide-01.png",
-      "bytes": 154934,
+      "bytes": 164448,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -23,7 +23,7 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/kitchen-tools/slide-02.png",
-      "bytes": 69886,
+      "bytes": 76988,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -53,7 +53,7 @@
     {
       "index": 2,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/kitchen-tools/slide-03.png",
-      "bytes": 69223,
+      "bytes": 79532,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -83,7 +83,7 @@
     {
       "index": 3,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/kitchen-tools/slide-04.png",
-      "bytes": 72599,
+      "bytes": 82734,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -113,7 +113,7 @@
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/kitchen-tools/slide-05.png",
-      "bytes": 73116,
+      "bytes": 78869,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -143,7 +143,7 @@
     {
       "index": 5,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/kitchen-tools/slide-06.png",
-      "bytes": 70262,
+      "bytes": 71779,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -173,7 +173,7 @@
     {
       "index": 6,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/kitchen-tools/slide-07.png",
-      "bytes": 68605,
+      "bytes": 75315,
       "qa": {
         "verdict": "fail",
         "checks": {
