@@ -1,0 +1,79 @@
+{
+  "id": "boundaries-bold",
+  "brand": "Clarity",
+  "brief": "How to set boundaries without losing the people you love.",
+  "theme": "bold-split",
+  "slides": [
+    {
+      "layoutId": "cover-bold-split",
+      "slots": {
+        "title": "SET LIMITS WITHOUT LOSING WHO YOU LOVE",
+        "handle": "@clarity"
+      }
+    },
+    {
+      "layoutId": "body-bold-split",
+      "slots": {
+        "number": "01",
+        "title": "STOP OVER-EXPLAINING YOUR NO",
+        "body": "You don't owe anyone a dissertation. A clear, kind no is complete. Protect your peace without the guilt spiral.",
+        "handle": "@clarity"
+      }
+    },
+    {
+      "layoutId": "body-bold-split",
+      "slots": {
+        "number": "02",
+        "title": "GUILT IS NOT DANGER",
+        "body": "Feeling bad doesn't mean you're doing wrong. It means you're recalibrating. Let the discomfort pass without reversing your boundary.",
+        "handle": "@clarity"
+      }
+    },
+    {
+      "layoutId": "body-bold-split",
+      "slots": {
+        "number": "03",
+        "title": "STATE YOUR LIMIT CALMLY",
+        "body": "Focus on what you need, not their reaction. I need space is a full sentence. Their feelings are theirs to manage.",
+        "handle": "@clarity"
+      }
+    },
+    {
+      "layoutId": "body-bold-split",
+      "slots": {
+        "number": "04",
+        "title": "REPEAT WITHOUT RE-NEGOTIATING",
+        "body": "Consistency turns a request into an expectation. If you waiver, you train people to push. Hold the line with quiet confidence.",
+        "handle": "@clarity"
+      }
+    },
+    {
+      "layoutId": "body-bold-split",
+      "slots": {
+        "number": "05",
+        "title": "BOUNDARIES ARE A LOVE LANGUAGE",
+        "body": "Honest limits create safer connections. Pretending you're fine breeds resentment. Real closeness happens when both people are honest.",
+        "handle": "@clarity"
+      }
+    },
+    {
+      "layoutId": "body-bold-split",
+      "slots": {
+        "number": "06",
+        "title": "THE RIGHT ONES WILL STAY",
+        "body": "People who value you will adjust. Those who leave were already asking too much. You don't lose real love by honoring yourself.",
+        "handle": "@clarity"
+      }
+    },
+    {
+      "layoutId": "cta-bold-split",
+      "slots": {
+        "eyebrow": "YOUR MOVE",
+        "headline": "DRAW YOUR LINE TODAY",
+        "body": "Pick one boundary this week. The people who love you will respect it.",
+        "buttonLabel": "SET YOUR LIMIT",
+        "handle": "@clarity"
+      }
+    }
+  ]
+}

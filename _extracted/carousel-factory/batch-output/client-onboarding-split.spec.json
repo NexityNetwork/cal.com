@@ -1,0 +1,87 @@
+{
+  "id": "client-onboarding-split",
+  "brand": "SCALE STUDIO",
+  "brief": "The 6-step client onboarding flow that cut churn by 40%.",
+  "theme": "photo-split",
+  "slides": [
+    {
+      "layoutId": "cover-photo-split",
+      "slots": {
+        "brand": "SCALE STUDIO",
+        "headline": "The onboarding flow that cut client churn by 40%",
+        "swipeNote": "Swipe to see the 6 steps to zero churn"
+      }
+    },
+    {
+      "layoutId": "body-photo-split",
+      "slots": {
+        "brand": "SCALE STUDIO",
+        "number": "01",
+        "eyebrow": "ONBOARDING STEP",
+        "title": "Send the pre-work questionnaire",
+        "body": "Before the kickoff, send a short questionnaire to clarify goals, stakeholders, and existing pain points. It transforms the first call from awkward small talk into a working session."
+      }
+    },
+    {
+      "layoutId": "body-photo-split",
+      "slots": {
+        "brand": "SCALE STUDIO",
+        "number": "02",
+        "eyebrow": "ONBOARDING STEP",
+        "title": "Run a ruthless kickoff call",
+        "body": "Use the first meeting to confirm success metrics, timelines, and communication rhythms. Leave with a shared document everyone has actually read."
+      }
+    },
+    {
+      "layoutId": "body-photo-split",
+      "slots": {
+        "brand": "SCALE STUDIO",
+        "number": "03",
+        "eyebrow": "ONBOARDING STEP",
+        "title": "Deliver a quick win first",
+        "body": "Identify one high-impact, low-effort improvement you can ship within the first ten days. Early momentum builds trust faster than any roadmap."
+      }
+    },
+    {
+      "layoutId": "body-photo-split",
+      "slots": {
+        "brand": "SCALE STUDIO",
+        "number": "04",
+        "eyebrow": "ONBOARDING STEP",
+        "title": "Set up a shared dashboard",
+        "body": "Give clients real-time visibility into progress with a simple project dashboard. Transparency replaces anxious check-in emails before they ever start."
+      }
+    },
+    {
+      "layoutId": "body-photo-split",
+      "slots": {
+        "brand": "SCALE STUDIO",
+        "number": "05",
+        "eyebrow": "ONBOARDING STEP",
+        "title": "Schedule proactive check-in rituals",
+        "body": "Book recurring 15-minute pulse calls instead of waiting for problems to surface. Consistency signals that you are invested in their outcomes."
+      }
+    },
+    {
+      "layoutId": "body-photo-split",
+      "slots": {
+        "brand": "SCALE STUDIO",
+        "number": "06",
+        "eyebrow": "ONBOARDING STEP",
+        "title": "Launch a 30-day review cycle",
+        "body": "At the one-month mark, review wins, blockers, and next quarter's priorities. Turning feedback into action is how relationships last."
+      }
+    },
+    {
+      "layoutId": "cta-photo-split",
+      "slots": {
+        "brand": "SCALE STUDIO",
+        "quote": "Retention starts on day one",
+        "eyebrow": "YOUR MOVE",
+        "headline": "Build a churn-proof onboarding flow",
+        "buttonLabel": "Save this post",
+        "author": "By Maya Ortiz"
+      }
+    }
+  ]
+}

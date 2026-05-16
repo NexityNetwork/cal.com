@@ -1,0 +1,87 @@
+{
+  "id": "rebrand-mistakes-split",
+  "brand": "VANTAGE",
+  "brief": "6 rebrand mistakes that cost startups their best customers.",
+  "theme": "photo-split",
+  "slides": [
+    {
+      "layoutId": "cover-photo-split",
+      "slots": {
+        "brand": "VANTAGE",
+        "headline": "Six rebrand mistakes that kill customer loyalty",
+        "swipeNote": "Swipe to see all six costly mistakes"
+      }
+    },
+    {
+      "layoutId": "body-photo-split",
+      "slots": {
+        "brand": "VANTAGE",
+        "number": "01",
+        "eyebrow": "MISTAKE ONE",
+        "title": "Chasing trends over truth",
+        "body": "Startups often mimic competitors to look relevant, but borrowed aesthetics signal insecurity. Customers sense the disconnect and lose trust fast."
+      }
+    },
+    {
+      "layoutId": "body-photo-split",
+      "slots": {
+        "brand": "VANTAGE",
+        "number": "02",
+        "eyebrow": "MISTAKE TWO",
+        "title": "Ignoring your loyal fans",
+        "body": "A rebrand built only for new audiences alienates the community that built you. Exclusion feels like betrayal to early believers."
+      }
+    },
+    {
+      "layoutId": "body-photo-split",
+      "slots": {
+        "brand": "VANTAGE",
+        "number": "03",
+        "eyebrow": "MISTAKE THREE",
+        "title": "Overcomplicating the visual system",
+        "body": "Abstract logos and clever gradients look impressive in decks but confuse users at checkout. Clarity always beats cleverness."
+      }
+    },
+    {
+      "layoutId": "body-photo-split",
+      "slots": {
+        "brand": "VANTAGE",
+        "number": "04",
+        "eyebrow": "MISTAKE FOUR",
+        "title": "Inconsistent rollout across channels",
+        "body": "When your app, site, and emails look like different companies, trust crumbles. A rebrand is only as strong as its execution."
+      }
+    },
+    {
+      "layoutId": "body-photo-split",
+      "slots": {
+        "brand": "VANTAGE",
+        "number": "05",
+        "eyebrow": "MISTAKE FIVE",
+        "title": "Erasing hard-won search equity",
+        "body": "Changing your name and URLs without a migration plan destroys organic traffic. Visibility lost overnight can take years to rebuild."
+      }
+    },
+    {
+      "layoutId": "body-photo-split",
+      "slots": {
+        "brand": "VANTAGE",
+        "number": "06",
+        "eyebrow": "MISTAKE SIX",
+        "title": "Rebranding without internal buy-in",
+        "body": "If your team cannot articulate the new story, neither can your customers. Culture must change before the logo does."
+      }
+    },
+    {
+      "layoutId": "cta-photo-split",
+      "slots": {
+        "brand": "VANTAGE",
+        "quote": "Your brand is a promise, not a paint job",
+        "eyebrow": "READY?",
+        "headline": "Build a rebrand that keeps customers",
+        "buttonLabel": "Save this post",
+        "author": "By the Vantage team"
+      }
+    }
+  ]
+}

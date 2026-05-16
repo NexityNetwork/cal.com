@@ -1,0 +1,95 @@
+{
+  "id": "first-1k-month-pill",
+  "brand": "Alex Cole",
+  "brief": "How I made my first $1K/month online — the unsexy version.",
+  "theme": "condensed-pill",
+  "slides": [
+    {
+      "layoutId": "cover-condensed-pill",
+      "slots": {
+        "brand": "Alex Cole",
+        "preLine": "How I",
+        "pillText": "MADE 1K",
+        "postLine": "online the boring unsexy way",
+        "author": "Alex Cole"
+      }
+    },
+    {
+      "layoutId": "body-condensed-pill",
+      "slots": {
+        "brand": "Alex Cole",
+        "number": "01",
+        "numberLabel": "Step",
+        "title": "START HERE",
+        "body": "I stopped chasing trends and sold a skill I already had. No new courses, no waiting.",
+        "author": "Alex Cole"
+      }
+    },
+    {
+      "layoutId": "body-condensed-pill",
+      "slots": {
+        "brand": "Alex Cole",
+        "number": "02",
+        "numberLabel": "Step",
+        "title": "PRICED LOW",
+        "body": "I charged $50 for work I now bill $500 for. Those first clients built my proof.",
+        "author": "Alex Cole"
+      }
+    },
+    {
+      "layoutId": "body-condensed-pill",
+      "slots": {
+        "brand": "Alex Cole",
+        "number": "03",
+        "numberLabel": "Step",
+        "title": "STAYED SIMPLE",
+        "body": "One landing page, one Calendly link, one Stripe checkout. Complexity kills momentum early on.",
+        "author": "Alex Cole"
+      }
+    },
+    {
+      "layoutId": "body-condensed-pill",
+      "slots": {
+        "brand": "Alex Cole",
+        "number": "04",
+        "numberLabel": "Step",
+        "title": "DID OUTREACH",
+        "body": "I sent ten personalized messages every single morning for sixty days. Most were ignored. Some weren't.",
+        "author": "Alex Cole"
+      }
+    },
+    {
+      "layoutId": "body-condensed-pill",
+      "slots": {
+        "brand": "Alex Cole",
+        "number": "05",
+        "numberLabel": "Step",
+        "title": "OVER DELIVERED",
+        "body": "I treated every tiny project like a $5K retainer. Referrals followed faster than any ad ever could.",
+        "author": "Alex Cole"
+      }
+    },
+    {
+      "layoutId": "body-condensed-pill",
+      "slots": {
+        "brand": "Alex Cole",
+        "number": "06",
+        "numberLabel": "Step",
+        "title": "RAISED RATES",
+        "body": "Every two clients I raised my rate by $50. By client twelve, I had crossed $1K monthly.",
+        "author": "Alex Cole"
+      }
+    },
+    {
+      "layoutId": "cta-condensed-pill",
+      "slots": {
+        "brand": "Alex Cole",
+        "eyebrow": "YOUR TURN",
+        "headline": "START",
+        "body": "Pick the skill you already have. Price it low, reach out daily, and deliver like it's gold.",
+        "buttonLabel": "Save this guide",
+        "author": "Alex Cole"
+      }
+    }
+  ]
+}

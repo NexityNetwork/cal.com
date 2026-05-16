@@ -1,0 +1,87 @@
+{
+  "id": "content-strategy-split",
+  "brand": "Verge",
+  "brief": "The content strategy that took a B2B brand from 0 to 1M views/year.",
+  "theme": "photo-split",
+  "slides": [
+    {
+      "layoutId": "cover-photo-split",
+      "slots": {
+        "brand": "Verge",
+        "headline": "How we turned content into one million views",
+        "swipeNote": "Swipe to see the 6 steps we used"
+      }
+    },
+    {
+      "layoutId": "body-photo-split",
+      "slots": {
+        "brand": "Verge",
+        "number": "01",
+        "eyebrow": "STEP ONE",
+        "title": "Audit before you create",
+        "body": "We mapped every existing asset against search intent and buyer pain points. Most B2B brands skip this and wonder why reach stalls."
+      }
+    },
+    {
+      "layoutId": "body-photo-split",
+      "slots": {
+        "brand": "Verge",
+        "number": "02",
+        "eyebrow": "STEP TWO",
+        "title": "Own one niche first",
+        "body": "Broad thought leadership sounds impressive but earns crickets. We picked a single vertical and owned its conversation for six months."
+      }
+    },
+    {
+      "layoutId": "body-photo-split",
+      "slots": {
+        "brand": "Verge",
+        "number": "03",
+        "eyebrow": "STEP THREE",
+        "title": "Build repeatable formats",
+        "body": "Random posts burn teams out. We designed three recurring series that readers recognized instantly, cutting production time by half."
+      }
+    },
+    {
+      "layoutId": "body-photo-split",
+      "slots": {
+        "brand": "Verge",
+        "number": "04",
+        "eyebrow": "STEP FOUR",
+        "title": "Distribute like a publisher",
+        "body": "One great post is worthless if nobody sees it. We built a channel playbook that pushed every story to four owned platforms."
+      }
+    },
+    {
+      "layoutId": "body-photo-split",
+      "slots": {
+        "brand": "Verge",
+        "number": "05",
+        "eyebrow": "STEP FIVE",
+        "title": "Activate your insiders",
+        "body": "Your team is your largest untapped audience. We armed executives and sales with hook-first copy they could share in one click."
+      }
+    },
+    {
+      "layoutId": "body-photo-split",
+      "slots": {
+        "brand": "Verge",
+        "number": "06",
+        "eyebrow": "STEP SIX",
+        "title": "Close the feedback loop",
+        "body": "Views are vanity if they don’t drive pipeline. We tracked engaged reading time and used it to refine the next month’s calendar."
+      }
+    },
+    {
+      "layoutId": "cta-photo-split",
+      "slots": {
+        "brand": "Verge",
+        "quote": "Build the system, then scale the story",
+        "eyebrow": "YOUR MOVE",
+        "headline": "Start building your content engine",
+        "buttonLabel": "Save this post",
+        "author": "Maya Chen"
+      }
+    }
+  ]
+}

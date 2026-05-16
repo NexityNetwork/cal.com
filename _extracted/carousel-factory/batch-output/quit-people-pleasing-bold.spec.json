@@ -1,0 +1,79 @@
+{
+  "id": "quit-people-pleasing-bold",
+  "brand": "SELF SHIFT",
+  "brief": "5 signs you're a people pleaser and how to stop today.",
+  "theme": "bold-split",
+  "slides": [
+    {
+      "layoutId": "cover-bold-split",
+      "slots": {
+        "title": "PEOPLE PLEASER SIGNS AND HOW TO STOP",
+        "handle": "@selfshift"
+      }
+    },
+    {
+      "layoutId": "body-bold-split",
+      "slots": {
+        "number": "01",
+        "title": "SORRY IS YOUR DEFAULT WORD",
+        "body": "You say sorry for things that are not your fault. This erodes your confidence and teaches others to overlook your boundaries. Catch yourself and pause before apologizing.",
+        "handle": "@selfshift"
+      }
+    },
+    {
+      "layoutId": "body-bold-split",
+      "slots": {
+        "number": "02",
+        "title": "YOU CANNOT SAY NO",
+        "body": "You agree to plans you hate and take on work you cannot handle. Every yes to them is a no to yourself. Practice declining small requests first.",
+        "handle": "@selfshift"
+      }
+    },
+    {
+      "layoutId": "body-bold-split",
+      "slots": {
+        "number": "03",
+        "title": "YOU CRAVE OUTSIDE APPROVAL",
+        "body": "Your mood depends on whether others praise your work. You overcommit just to hear that you are enough. Start validating your own effort internally first.",
+        "handle": "@selfshift"
+      }
+    },
+    {
+      "layoutId": "body-bold-split",
+      "slots": {
+        "number": "04",
+        "title": "YOU AVOID ALL CONFLICT",
+        "body": "You stay silent when boundaries are crossed to keep the peace. This builds resentment and sends the message that your needs do not matter. Speak up calmly and early.",
+        "handle": "@selfshift"
+      }
+    },
+    {
+      "layoutId": "body-bold-split",
+      "slots": {
+        "number": "05",
+        "title": "YOU FEEL GUILTY RESTING",
+        "body": "You force productivity because downtime feels selfish or lazy. Real self-care is not earned; it is required for sustainable performance. Schedule rest like a non-negotiable meeting.",
+        "handle": "@selfshift"
+      }
+    },
+    {
+      "layoutId": "body-bold-split",
+      "slots": {
+        "number": "06",
+        "title": "DRAW THE LINE TODAY",
+        "body": "Stopping starts with one honest no and a clear boundary. Your needs are not negotiable. Choose yourself first, even if your voice shakes.",
+        "handle": "@selfshift"
+      }
+    },
+    {
+      "layoutId": "cta-bold-split",
+      "slots": {
+        "eyebrow": "YOUR MOVE",
+        "headline": "STOP PLEASING START LIVING",
+        "body": "Choose boundaries over approval starting right now.",
+        "buttonLabel": "START NOW",
+        "handle": "@selfshift"
+      }
+    }
+  ]
+}

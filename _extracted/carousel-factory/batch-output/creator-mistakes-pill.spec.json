@@ -1,0 +1,95 @@
+{
+  "id": "creator-mistakes-pill",
+  "brand": "Alex Chen",
+  "brief": "6 creator mistakes that cost me 2 years and $40K.",
+  "theme": "condensed-pill",
+  "slides": [
+    {
+      "layoutId": "cover-condensed-pill",
+      "slots": {
+        "brand": "Alex Chen",
+        "preLine": "The 6",
+        "pillText": "COSTLY MISTAKES",
+        "postLine": "that cost 2 years & $40K",
+        "author": "Alex Chen"
+      }
+    },
+    {
+      "layoutId": "body-condensed-pill",
+      "slots": {
+        "brand": "Alex Chen",
+        "number": "01",
+        "numberLabel": "Mistake No.",
+        "title": "PERFECTION",
+        "body": "I spent six months rewriting posts that never shipped. Done beats perfect when you’re starting from zero.",
+        "author": "Alex Chen"
+      }
+    },
+    {
+      "layoutId": "body-condensed-pill",
+      "slots": {
+        "brand": "Alex Chen",
+        "number": "02",
+        "numberLabel": "Mistake No.",
+        "title": "TREND CHASING",
+        "body": "I jumped on every viral format until my audience had no clue what I stood for. Niche down, then scale up.",
+        "author": "Alex Chen"
+      }
+    },
+    {
+      "layoutId": "body-condensed-pill",
+      "slots": {
+        "brand": "Alex Chen",
+        "number": "03",
+        "numberLabel": "Mistake No.",
+        "title": "NO LIST",
+        "body": "I built a hundred-thousand-follower audience on platforms I didn’t own. One algorithm change wiped out half my reach overnight.",
+        "author": "Alex Chen"
+      }
+    },
+    {
+      "layoutId": "body-condensed-pill",
+      "slots": {
+        "brand": "Alex Chen",
+        "number": "04",
+        "numberLabel": "Mistake No.",
+        "title": "UNDERCHARGING",
+        "body": "I traded hours for dollars at rates that kept me broke. Raising prices actually attracted better clients and freed my calendar.",
+        "author": "Alex Chen"
+      }
+    },
+    {
+      "layoutId": "body-condensed-pill",
+      "slots": {
+        "brand": "Alex Chen",
+        "number": "05",
+        "numberLabel": "Mistake No.",
+        "title": "NO SYSTEMS",
+        "body": "I refused to hire help until I burned out. Systems and delegation multiplied my output more than extra hustle ever could.",
+        "author": "Alex Chen"
+      }
+    },
+    {
+      "layoutId": "body-condensed-pill",
+      "slots": {
+        "brand": "Alex Chen",
+        "number": "06",
+        "numberLabel": "Mistake No.",
+        "title": "IGNORING DATA",
+        "body": "I posted blindly and hoped something would stick. Looking at metrics once a week turned guessing into a real growth strategy.",
+        "author": "Alex Chen"
+      }
+    },
+    {
+      "layoutId": "cta-condensed-pill",
+      "slots": {
+        "brand": "Alex Chen",
+        "eyebrow": "YOUR TURN",
+        "headline": "BUILD SMART",
+        "body": "Steal my playbook and skip the expensive lessons. Your next two years can look very different.",
+        "buttonLabel": "Save this carousel",
+        "author": "Alex Chen"
+      }
+    }
+  ]
+}

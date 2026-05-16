@@ -1,0 +1,87 @@
+{
+  "id": "brand-positioning-split",
+  "brand": "HOOK",
+  "brief": "How to position a brand so customers can't ignore you — 6 lessons.",
+  "theme": "photo-split",
+  "slides": [
+    {
+      "layoutId": "cover-photo-split",
+      "slots": {
+        "brand": "HOOK",
+        "headline": "How to position a brand nobody can ignore",
+        "swipeNote": "Swipe to see the 6 lessons in positioning"
+      }
+    },
+    {
+      "layoutId": "body-photo-split",
+      "slots": {
+        "brand": "HOOK",
+        "number": "01",
+        "eyebrow": "HARD TRUTH",
+        "title": "Pick one hill to die on",
+        "body": "Clarity beats cleverness. The brands that win own one unmistakable idea in the customer's mind. If you stand for everything, you stand for nothing."
+      }
+    },
+    {
+      "layoutId": "body-photo-split",
+      "slots": {
+        "brand": "HOOK",
+        "number": "02",
+        "eyebrow": "HARD TRUTH",
+        "title": "Niche down until it hurts",
+        "body": "Mass appeal is a myth. Speak directly to the smallest viable audience and watch them rally around you. Specificity creates loyalty."
+      }
+    },
+    {
+      "layoutId": "body-photo-split",
+      "slots": {
+        "brand": "HOOK",
+        "number": "03",
+        "eyebrow": "HARD TRUTH",
+        "title": "Polarize to magnetize your people",
+        "body": "Safe brands are invisible. Take a stand that repels some to deeply attract others. Strong opinions drive word of mouth."
+      }
+    },
+    {
+      "layoutId": "body-photo-split",
+      "slots": {
+        "brand": "HOOK",
+        "number": "04",
+        "eyebrow": "HARD TRUTH",
+        "title": "Show proof, not just promise",
+        "body": "Claims without evidence dissolve trust. Share real results, stories, and specifics that make your promise feel inevitable. Proof sells."
+      }
+    },
+    {
+      "layoutId": "body-photo-split",
+      "slots": {
+        "brand": "HOOK",
+        "number": "05",
+        "eyebrow": "HARD TRUTH",
+        "title": "Anchor against a common enemy",
+        "body": "Define what you fight against. Contrast sharpens your value and gives customers a reason to choose you. Context matters."
+      }
+    },
+    {
+      "layoutId": "body-photo-split",
+      "slots": {
+        "brand": "HOOK",
+        "number": "06",
+        "eyebrow": "HARD TRUTH",
+        "title": "Make the customer the hero",
+        "body": "Your brand is the guide, not the hero. Frame your customer as the protagonist and your product as their weapon."
+      }
+    },
+    {
+      "layoutId": "cta-photo-split",
+      "slots": {
+        "brand": "HOOK",
+        "quote": "Be so specific they can't ignore you",
+        "eyebrow": "YOUR MOVE",
+        "headline": "Start building your unignorable brand today",
+        "buttonLabel": "Save this post",
+        "author": "By HOOK"
+      }
+    }
+  ]
+}

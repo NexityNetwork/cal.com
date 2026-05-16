@@ -1,0 +1,87 @@
+{
+  "id": "agency-pricing-split",
+  "brand": "NORTH",
+  "brief": "How we 3x'd our agency pricing without losing a single client.",
+  "theme": "photo-split",
+  "slides": [
+    {
+      "layoutId": "cover-photo-split",
+      "slots": {
+        "brand": "NORTH",
+        "headline": "How we 3x'd our agency pricing without losing clients",
+        "swipeNote": "Swipe through to learn our exact framework."
+      }
+    },
+    {
+      "layoutId": "body-photo-split",
+      "slots": {
+        "brand": "NORTH",
+        "number": "01",
+        "eyebrow": "MINDSET SHIFT",
+        "title": "Stop selling your hours",
+        "body": "We stopped tracking time and started pricing based on the business impact we created. When clients see ROI, your rate becomes irrelevant."
+      }
+    },
+    {
+      "layoutId": "body-photo-split",
+      "slots": {
+        "brand": "NORTH",
+        "number": "02",
+        "eyebrow": "VALUE FIRST",
+        "title": "Sell outcomes, not deliverables",
+        "body": "We rewrote every proposal to lead with revenue growth, not task lists. Nobody pays a premium for pixels; they pay for profit."
+      }
+    },
+    {
+      "layoutId": "body-photo-split",
+      "slots": {
+        "brand": "NORTH",
+        "number": "03",
+        "eyebrow": "OFFER DESIGN",
+        "title": "Anchor high, then tier",
+        "body": "We built three tiers and made the middle option feel like a steal. The top tier anchors the value and reframes the entire conversation."
+      }
+    },
+    {
+      "layoutId": "body-photo-split",
+      "slots": {
+        "brand": "NORTH",
+        "number": "04",
+        "eyebrow": "CLIENT BRIDGE",
+        "title": "Grandfather clients with care",
+        "body": "We gave loyal clients a six-month ramp to new rates. A gradual transition protects relationships and signals that the increase is permanent."
+      }
+    },
+    {
+      "layoutId": "body-photo-split",
+      "slots": {
+        "brand": "NORTH",
+        "number": "05",
+        "eyebrow": "PROOF POINT",
+        "title": "Let case studies justify it",
+        "body": "We published wins that proved the new price was already delivering. Social proof removes the risk for prospects on the fence."
+      }
+    },
+    {
+      "layoutId": "body-photo-split",
+      "slots": {
+        "brand": "NORTH",
+        "number": "06",
+        "eyebrow": "THE ASK",
+        "title": "Confidence closes the pricing gap",
+        "body": "We stopped apologizing for the proposal and owned the number. If you don't believe you're worth it, neither will they."
+      }
+    },
+    {
+      "layoutId": "cta-photo-split",
+      "slots": {
+        "brand": "NORTH",
+        "quote": "Raise the price. Keep the client.",
+        "eyebrow": "YOUR MOVE",
+        "headline": "It's time to raise your rates",
+        "buttonLabel": "Save this post",
+        "author": "Alex Turner"
+      }
+    }
+  ]
+}

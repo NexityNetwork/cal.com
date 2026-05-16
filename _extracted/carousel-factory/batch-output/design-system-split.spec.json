@@ -1,0 +1,86 @@
+{
+  "id": "design-system-split",
+  "brand": "SYSTEM STUDIO",
+  "brief": "Why every brand needs a design system in 2026 — and how to build one.",
+  "theme": "photo-split",
+  "slides": [
+    {
+      "layoutId": "cover-photo-split",
+      "slots": {
+        "brand": "SYSTEM STUDIO",
+        "headline": "Why every brand needs a design system in 2026",
+        "swipeNote": "Swipe through six steps to build yours now"
+      }
+    },
+    {
+      "layoutId": "body-photo-split",
+      "slots": {
+        "brand": "SYSTEM STUDIO",
+        "number": "01",
+        "eyebrow": "CORE STEP",
+        "title": "Audit your existing brand assets first",
+        "body": "Start by inventorying every logo, color, font, and component across your channels. Most brands already own 60 percent of what they need. Map the gaps before you build."
+      }
+    },
+    {
+      "layoutId": "body-photo-split",
+      "slots": {
+        "brand": "SYSTEM STUDIO",
+        "number": "02",
+        "eyebrow": "CORE STEP",
+        "title": "Define tokens for colors and type",
+        "body": "Tokens are the single source of truth for spacing, color, and typography. They turn subjective choices into scalable code. Lock them early to prevent drift."
+      }
+    },
+    {
+      "layoutId": "body-photo-split",
+      "slots": {
+        "brand": "SYSTEM STUDIO",
+        "number": "03",
+        "eyebrow": "CORE STEP",
+        "title": "Build reusable components in Figma",
+        "body": "Components save hours of rework and keep every screen consistent. Design atoms, molecules, and organisms that flex across breakpoints. Reuse, don’t recreate."
+      }
+    },
+    {
+      "layoutId": "body-photo-split",
+      "slots": {
+        "brand": "SYSTEM STUDIO",
+        "number": "04",
+        "eyebrow": "CORE STEP",
+        "title": "Write docs that your team will use",
+        "body": "A system without guidance is just a dusty folder. Record usage rules, accessibility standards, and do’s and don’ts. Good docs turn users into champions."
+      }
+    },
+    {
+      "layoutId": "body-photo-split",
+      "slots": {
+        "brand": "SYSTEM STUDIO",
+        "number": "05",
+        "eyebrow": "CORE STEP",
+        "title": "Train teams to adopt the system",
+        "body": "Launch workshops that show designers and developers how to contribute. Adoption lives or dies by internal advocacy. Make the system easier than starting from scratch."
+      }
+    },
+    {
+      "layoutId": "body-photo-split",
+      "slots": {
+        "brand": "SYSTEM STUDIO",
+        "number": "06",
+        "eyebrow": "CORE STEP",
+        "title": "Iterate based on real product needs",
+        "body": "Treat your system as a living product, not a one-time project. Schedule quarterly reviews and gather feedback. Evolution beats perfection every time."
+      }
+    },
+    {
+      "layoutId": "cta-photo-split",
+      "slots": {
+        "brand": "SYSTEM STUDIO",
+        "quote": "Consistency is the fastest way to scale",
+        "eyebrow": "YOUR MOVE",
+        "headline": "Start building your design system today",
+        "buttonLabel": "Save this post"
+      }
+    }
+  ]
+}

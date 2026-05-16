@@ -1,0 +1,87 @@
+{
+  "id": "7-lies-marketing-split",
+  "brand": "VANTAGE",
+  "brief": "7 lies you still believe about digital marketing in 2026.",
+  "theme": "photo-split",
+  "slides": [
+    {
+      "layoutId": "cover-photo-split",
+      "slots": {
+        "brand": "VANTAGE",
+        "headline": "Seven lies you still believe about digital marketing",
+        "swipeNote": "Swipe to see the 7 lies brands still believe"
+      }
+    },
+    {
+      "layoutId": "body-photo-split",
+      "slots": {
+        "brand": "VANTAGE",
+        "number": "01",
+        "eyebrow": "LIE NUMBER",
+        "title": "More followers equals more revenue",
+        "body": "A massive audience means nothing if engagement is low. Focus on community value instead of vanity metrics."
+      }
+    },
+    {
+      "layoutId": "body-photo-split",
+      "slots": {
+        "brand": "VANTAGE",
+        "number": "02",
+        "eyebrow": "LIE NUMBER",
+        "title": "SEO died because of AI search",
+        "body": "Generative AI has changed search behavior, not eliminated it. Optimized content still drives qualified organic traffic daily."
+      }
+    },
+    {
+      "layoutId": "body-photo-split",
+      "slots": {
+        "brand": "VANTAGE",
+        "number": "03",
+        "eyebrow": "LIE NUMBER",
+        "title": "You must post content every day",
+        "body": "Consistency matters more than overwhelming frequency. Three thoughtful posts a week outperform daily noise every time."
+      }
+    },
+    {
+      "layoutId": "body-photo-split",
+      "slots": {
+        "brand": "VANTAGE",
+        "number": "04",
+        "eyebrow": "LIE NUMBER",
+        "title": "Only paid ads can scale brands",
+        "body": "Organic storytelling builds trust that paid media cannot buy. Smart brands balance both for sustainable long-term growth."
+      }
+    },
+    {
+      "layoutId": "body-photo-split",
+      "slots": {
+        "brand": "VANTAGE",
+        "number": "05",
+        "eyebrow": "LIE NUMBER",
+        "title": "TikTok is just for Gen Z",
+        "body": "User demographics are broadening rapidly across every age group. Your ideal customer is already scrolling right now."
+      }
+    },
+    {
+      "layoutId": "body-photo-split",
+      "slots": {
+        "brand": "VANTAGE",
+        "number": "06",
+        "eyebrow": "LIE NUMBER",
+        "title": "Data alone reveals the full truth",
+        "body": "Numbers show what happened, but not always why. Human intuition and creativity still drive breakthrough marketing campaigns."
+      }
+    },
+    {
+      "layoutId": "cta-photo-split",
+      "slots": {
+        "brand": "VANTAGE",
+        "quote": "The best strategy is the truth",
+        "eyebrow": "YOUR MOVE",
+        "headline": "Ready to rethink your marketing plan",
+        "buttonLabel": "Save this post",
+        "author": "The VANTAGE Team"
+      }
+    }
+  ]
+}
