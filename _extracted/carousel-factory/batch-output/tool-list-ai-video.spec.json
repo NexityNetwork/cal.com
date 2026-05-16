@@ -1,0 +1,170 @@
+{
+  "id": "tool-list-ai-video",
+  "brand": "Alex Vance",
+  "brief": "The 5 AI video tools that replaced my $5K/mo video agency — full breakdown.",
+  "theme": "tool-list",
+  "slides": [
+    {
+      "layoutId": "cover-tool-list",
+      "slots": {
+        "pageOf": "1 / 8",
+        "authorInitials": "AV",
+        "authorName": "Alex Vance",
+        "handle": "@alexvance",
+        "avatarBg1": "#ff5a28",
+        "avatarBg2": "#0f0f0f",
+        "eyebrow": "5 TOOLS YOU NEED",
+        "headlineLine1": "I REPLACED MY",
+        "headlineAccent": "$5K VIDEO AGENCY",
+        "tool1Glyph": "R",
+        "tool2Glyph": "H",
+        "tool3Glyph": "O",
+        "tool4Glyph": "E",
+        "tool5Glyph": "C"
+      }
+    },
+    {
+      "layoutId": "body-tool-list",
+      "slots": {
+        "pageOf": "2 / 8",
+        "authorInitials": "AV",
+        "authorName": "Alex Vance",
+        "handle": "@alexvance",
+        "avatarBg1": "#ff5a28",
+        "avatarBg2": "#0f0f0f",
+        "number": "01",
+        "toolGlyph": "R",
+        "toolCategory": "GENERATION",
+        "toolName": "Runway",
+        "toolTagline": "AI video generation and editing suite",
+        "body": "Runway creates cinematic shots from text prompts and edits with motion brush. It handles the heavy lifting of visual effects without a production crew.",
+        "feat1Key": "PRICE",
+        "feat1Val": "$15/mo",
+        "feat2Key": "BEST FOR",
+        "feat2Val": "B-roll & effects"
+      }
+    },
+    {
+      "layoutId": "body-tool-list",
+      "slots": {
+        "pageOf": "3 / 8",
+        "authorInitials": "AV",
+        "authorName": "Alex Vance",
+        "handle": "@alexvance",
+        "avatarBg1": "#ff5a28",
+        "avatarBg2": "#0f0f0f",
+        "number": "02",
+        "toolGlyph": "H",
+        "toolCategory": "AVATARS",
+        "toolName": "HeyGen",
+        "toolTagline": "AI spokesperson videos in minutes",
+        "body": "HeyGen turns scripts into professional talking-head videos with realistic avatars. No studio, no camera, just upload your script and pick a presenter.",
+        "feat1Key": "PRICE",
+        "feat1Val": "$24/mo",
+        "feat2Key": "BEST FOR",
+        "feat2Val": "Sales & explainers"
+      }
+    },
+    {
+      "layoutId": "body-tool-list",
+      "slots": {
+        "pageOf": "4 / 8",
+        "authorInitials": "AV",
+        "authorName": "Alex Vance",
+        "handle": "@alexvance",
+        "avatarBg1": "#ff5a28",
+        "avatarBg2": "#0f0f0f",
+        "number": "03",
+        "toolGlyph": "O",
+        "toolCategory": "REPURPOSING",
+        "toolName": "OpusClip",
+        "toolTagline": "Long videos into viral shorts",
+        "body": "OpusClip automatically finds the best moments in long-form content and reframes them into vertical shorts with captions and AI b-roll.",
+        "feat1Key": "PRICE",
+        "feat1Val": "$15/mo",
+        "feat2Key": "BEST FOR",
+        "feat2Val": "Social clips"
+      }
+    },
+    {
+      "layoutId": "body-tool-list",
+      "slots": {
+        "pageOf": "5 / 8",
+        "authorInitials": "AV",
+        "authorName": "Alex Vance",
+        "handle": "@alexvance",
+        "avatarBg1": "#ff5a28",
+        "avatarBg2": "#0f0f0f",
+        "number": "04",
+        "toolGlyph": "E",
+        "toolCategory": "VOICEOVER",
+        "toolName": "ElevenLabs",
+        "toolTagline": "Lifelike AI voice generation",
+        "body": "ElevenLabs produces studio-quality narration in any style or language. It eliminated my need for voice actors and expensive recording sessions.",
+        "feat1Key": "PRICE",
+        "feat1Val": "$5/mo",
+        "feat2Key": "BEST FOR",
+        "feat2Val": "Narration & dub"
+      }
+    },
+    {
+      "layoutId": "body-tool-list",
+      "slots": {
+        "pageOf": "6 / 8",
+        "authorInitials": "AV",
+        "authorName": "Alex Vance",
+        "handle": "@alexvance",
+        "avatarBg1": "#ff5a28",
+        "avatarBg2": "#0f0f0f",
+        "number": "05",
+        "toolGlyph": "C",
+        "toolCategory": "EDITING",
+        "toolName": "CapCut",
+        "toolTagline": "All-in-one editor with AI tools",
+        "body": "CapCut’s AI removes backgrounds, generates captions, and auto-edits footage. It replaced my final cut pro workflow for a fraction of the cost.",
+        "feat1Key": "PRICE",
+        "feat1Val": "Free / $8/mo",
+        "feat2Key": "BEST FOR",
+        "feat2Val": "Fast editing"
+      }
+    },
+    {
+      "layoutId": "body-tool-list",
+      "slots": {
+        "pageOf": "7 / 8",
+        "authorInitials": "AV",
+        "authorName": "Alex Vance",
+        "handle": "@alexvance",
+        "avatarBg1": "#ff5a28",
+        "avatarBg2": "#0f0f0f",
+        "number": "06",
+        "toolGlyph": "★",
+        "toolCategory": "WORKFLOW",
+        "toolName": "The Full Stack",
+        "toolTagline": "Your new agency replacement",
+        "body": "Combine these tools to handle scripting, voice, footage, editing, and publishing. Total monthly cost is under $100 versus $5,000 outsourced.",
+        "feat1Key": "TOTAL COST",
+        "feat1Val": "~$67/mo",
+        "feat2Key": "OUTPUT",
+        "feat2Val": "Unlimited scale"
+      }
+    },
+    {
+      "layoutId": "cta-tool-list",
+      "slots": {
+        "pageOf": "8 / 8",
+        "authorInitials": "AV",
+        "authorName": "Alex Vance",
+        "handle": "@alexvance",
+        "avatarBg1": "#ff5a28",
+        "avatarBg2": "#0f0f0f",
+        "eyebrow": "PICK YOUR STACK",
+        "headlineLine1": "BUILD YOUR",
+        "headlineAccent": "AI VIDEO ENGINE",
+        "body": "Start with one tool this week. Upgrade your content workflow without the agency price tag.",
+        "buttonLabel": "SAVE THIS LIST",
+        "secondaryLabel": "FOLLOW FOR MORE"
+      }
+    }
+  ]
+}
