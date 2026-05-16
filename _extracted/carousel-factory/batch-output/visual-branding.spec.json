@@ -1,0 +1,119 @@
+{
+  "id": "visual-branding",
+  "brand": "STUDIO VOLT",
+  "brief": "5 visual branding mistakes killing your first impression on social media.",
+  "theme": "coral-mag",
+  "slides": [
+    {
+      "layoutId": "cover-coral-mag",
+      "slots": {
+        "brand": "STUDIO VOLT",
+        "issueLabel": "CAROUSEL POST",
+        "issueTag": "DEEP DIVE",
+        "headWord1": "THE",
+        "headWord2": "VISUAL",
+        "headWord3": "MISTAKES",
+        "subEyebrow": "VISUAL BRANDING",
+        "subtitle": "Five visual branding mistakes killing your first impression.",
+        "handle": "@studiovolt"
+      }
+    },
+    {
+      "layoutId": "body-coral-mag",
+      "slots": {
+        "brand": "STUDIO VOLT",
+        "pageLabel": "P.02",
+        "number": "01",
+        "eyebrow": "THE SETUP",
+        "titleWord1": "FIRST",
+        "titleWord2": "IMPRESSIONS",
+        "titleWord3": "COUNT",
+        "body": "You have three seconds to stop the scroll. If your visuals look scattered, prospects assume your business is too. Consistency is not a luxury—it is leverage.",
+        "handle": "@studiovolt"
+      }
+    },
+    {
+      "layoutId": "body-coral-mag",
+      "slots": {
+        "brand": "STUDIO VOLT",
+        "pageLabel": "P.03",
+        "number": "02",
+        "eyebrow": "MISTAKE 01",
+        "titleWord1": "RANDOM",
+        "titleWord2": "COLORS",
+        "titleWord3": "EVERYWHERE",
+        "body": "Using every trending shade destroys recognition. A scattered palette signals amateur work and confuses your audience instantly. Pick three core colors and lock them in.",
+        "handle": "@studiovolt"
+      }
+    },
+    {
+      "layoutId": "body-coral-mag",
+      "slots": {
+        "brand": "STUDIO VOLT",
+        "pageLabel": "P.04",
+        "number": "03",
+        "eyebrow": "MISTAKE 02",
+        "titleWord1": "MIXED",
+        "titleWord2": "FONTS",
+        "titleWord3": "CHAOS",
+        "body": "Jumping between serif, script, and sans looks chaotic. Too many typefaces fracture your identity and dilute credibility. Choose one hero font and one readable body font.",
+        "handle": "@studiovolt"
+      }
+    },
+    {
+      "layoutId": "body-coral-mag",
+      "slots": {
+        "brand": "STUDIO VOLT",
+        "pageLabel": "P.05",
+        "number": "04",
+        "eyebrow": "MISTAKE 03",
+        "titleWord1": "LOW",
+        "titleWord2": "QUALITY",
+        "titleWord3": "ASSETS",
+        "body": "Blurry stock photos and pixelated graphics scream neglect. Poor image quality undermines trust before a single word is read. Invest in sharp, original photography or curated visuals.",
+        "handle": "@studiovolt"
+      }
+    },
+    {
+      "layoutId": "body-coral-mag",
+      "slots": {
+        "brand": "STUDIO VOLT",
+        "pageLabel": "P.06",
+        "number": "05",
+        "eyebrow": "MISTAKE 04",
+        "titleWord1": "NO",
+        "titleWord2": "GRID",
+        "titleWord3": "SYSTEM",
+        "body": "Layouts that float without structure feel accidental. Misaligned elements create visual noise and fatigue the viewer. Build on a consistent grid to guide the eye with confidence.",
+        "handle": "@studiovolt"
+      }
+    },
+    {
+      "layoutId": "body-coral-mag",
+      "slots": {
+        "brand": "STUDIO VOLT",
+        "pageLabel": "P.07",
+        "number": "06",
+        "eyebrow": "MISTAKE 05",
+        "titleWord1": "COPYING",
+        "titleWord2": "TRENDS",
+        "titleWord3": "BLINDLY",
+        "body": "Mimicking viral aesthetics makes you invisible in a sea of sameness. Trends expire, but strategy endures. Anchor your visuals to brand values, not temporary hype.",
+        "handle": "@studiovolt"
+      }
+    },
+    {
+      "layoutId": "cta-coral-mag",
+      "slots": {
+        "brand": "STUDIO VOLT",
+        "pageOf": "P.08",
+        "tag": "YOUR MOVE",
+        "headWord1": "SAVE",
+        "headWord2": "THIS",
+        "body": "Audit your profile today and fix these mistakes before your next post. Your brand will thank you.",
+        "buttonLabel": "Follow for more",
+        "handle": "@studiovolt"
+      }
+    }
+  ]
+}

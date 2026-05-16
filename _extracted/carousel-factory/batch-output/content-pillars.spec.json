@@ -1,118 +1,118 @@
 {
   "id": "content-pillars",
-  "brand": "STUDIO NXT",
+  "brand": "THE EDIT",
   "brief": "How to build 5 content pillars that never run dry — the editorial approach.",
   "theme": "coral-mag",
   "slides": [
     {
       "layoutId": "cover-coral-mag",
       "slots": {
-        "brand": "STUDIO NXT",
-        "issueLabel": "ISSUE 01",
+        "brand": "THE EDIT",
+        "issueLabel": "CAROUSEL POST",
         "issueTag": "DEEP DIVE",
         "headWord1": "THE",
-        "headWord2": "5 PILLARS",
-        "headWord3": "SYSTEM",
+        "headWord2": "PILLAR",
+        "headWord3": "METHOD",
         "subEyebrow": "CONTENT STRATEGY",
-        "subtitle": "Build an editorial engine that produces endless high-value content without creative burnout.",
-        "handle": "@studionxt"
+        "subtitle": "Build five editorial content pillars that never run dry.",
+        "handle": "@theedit"
       }
     },
     {
       "layoutId": "body-coral-mag",
       "slots": {
-        "brand": "STUDIO NXT",
+        "brand": "THE EDIT",
         "pageLabel": "P.02",
         "number": "01",
-        "eyebrow": "THE SHIFT",
-        "titleWord1": "STOP CHASING",
-        "titleWord2": "TRENDS",
-        "titleWord3": "FOREVER",
-        "body": "Most creators burn out because they treat every post as a blank slate. The editorial approach treats content like a publication — predictable, repeatable, and scalable.",
-        "handle": "@studionxt"
+        "eyebrow": "THE LIE",
+        "titleWord1": "POSTING",
+        "titleWord2": "RANDOM",
+        "titleWord3": "WORKS",
+        "body": "Most brands burn out chasing trends instead of building a system. An editorial mindset turns scattered ideas into an endless engine.",
+        "handle": "@theedit"
       }
     },
     {
       "layoutId": "body-coral-mag",
       "slots": {
-        "brand": "STUDIO NXT",
+        "brand": "THE EDIT",
         "pageLabel": "P.03",
         "number": "02",
-        "eyebrow": "PILLAR ONE",
-        "titleWord1": "MAP YOUR",
-        "titleWord2": "AUDIENCE",
-        "titleWord3": "QUESTIONS",
-        "body": "Build pillars around the 10-15 questions your audience asks on repeat. Interview customers, read comments, and mine Reddit. Their curiosity becomes your content calendar.",
-        "handle": "@studionxt"
+        "eyebrow": "PILLAR 01",
+        "titleWord1": "MINE YOUR",
+        "titleWord2": "EXPERTISE",
+        "titleWord3": "FIRST",
+        "body": "Document what you already know. Your process, frameworks, and hard-won lessons are a goldmine of repeatable content themes.",
+        "handle": "@theedit"
       }
     },
     {
       "layoutId": "body-coral-mag",
       "slots": {
-        "brand": "STUDIO NXT",
+        "brand": "THE EDIT",
         "pageLabel": "P.04",
         "number": "03",
-        "eyebrow": "PILLAR TWO",
-        "titleWord1": "DOCUMENT YOUR",
-        "titleWord2": "PROCESS",
-        "titleWord3": "WEEKLY",
-        "body": "Turn your workflow into content. Share how you write, design, decide, or ship. Process content is endlessly renewable because your work never stops evolving.",
-        "handle": "@studionxt"
+        "eyebrow": "PILLAR 02",
+        "titleWord1": "MAP THEIR",
+        "titleWord2": "PAIN",
+        "titleWord3": "POINTS",
+        "body": "Turn customer questions into categories. Every objection, goal, and fear becomes a dedicated pillar with infinite angles.",
+        "handle": "@theedit"
       }
     },
     {
       "layoutId": "body-coral-mag",
       "slots": {
-        "brand": "STUDIO NXT",
+        "brand": "THE EDIT",
         "pageLabel": "P.05",
         "number": "04",
-        "eyebrow": "PILLAR THREE",
-        "titleWord1": "CURATE AND",
-        "titleWord2": "CONTRAST",
-        "titleWord3": "INDUSTRY TAKES",
-        "body": "You do not need original research every day. Collect bold opinions, add your contrarian angle, and become the filter your audience trusts to make sense of the noise.",
-        "handle": "@studionxt"
+        "eyebrow": "PILLAR 03",
+        "titleWord1": "BUILD",
+        "titleWord2": "CONTENT",
+        "titleWord3": "BUCKETS",
+        "body": "Assign formats to each pillar. Carousels, memes, case studies, and reels keep the same topic feeling fresh daily.",
+        "handle": "@theedit"
       }
     },
     {
       "layoutId": "body-coral-mag",
       "slots": {
-        "brand": "STUDIO NXT",
+        "brand": "THE EDIT",
         "pageLabel": "P.06",
         "number": "05",
-        "eyebrow": "PILLAR FOUR",
-        "titleWord1": "REPURPOSE YOUR",
-        "titleWord2": "GREATEST",
-        "titleWord3": "HITS",
-        "body": "Your best post from six months ago is new to someone today. Slice carousels into threads. Expand tweets into articles. One strong idea can fuel ten formats.",
-        "handle": "@studionxt"
+        "eyebrow": "PILLAR 04",
+        "titleWord1": "STEAL FROM",
+        "titleWord2": "EDITORIAL",
+        "titleWord3": "CALENDARS",
+        "body": "Newsrooms plan by season and slot. Map your pillars to a recurring calendar so you never start from zero.",
+        "handle": "@theedit"
       }
     },
     {
       "layoutId": "body-coral-mag",
       "slots": {
-        "brand": "STUDIO NXT",
+        "brand": "THE EDIT",
         "pageLabel": "P.07",
         "number": "06",
-        "eyebrow": "PILLAR FIVE",
-        "titleWord1": "BET ON",
-        "titleWord2": "EVERGREEN",
-        "titleWord3": "PRINCIPLES",
-        "body": "Trends expire in days. Principles last for years. Write about mental models, timeless frameworks, and universal truths that stay relevant no matter the algorithm.",
-        "handle": "@studionxt"
+        "eyebrow": "PILLAR 05",
+        "titleWord1": "REPURPOSE",
+        "titleWord2": "EVERYTHING",
+        "titleWord3": "WEEKLY",
+        "body": "One long-form asset becomes ten posts. Slice pillars into quotes, stories, and stat cards to multiply reach effortlessly.",
+        "handle": "@theedit"
       }
     },
     {
       "layoutId": "cta-coral-mag",
       "slots": {
-        "brand": "STUDIO NXT",
-        "pageOf": "07 / 07",
+        "brand": "THE EDIT",
+        "pageOf": "08/08",
         "tag": "YOUR MOVE",
         "headWord1": "SAVE",
         "headWord2": "THIS",
-        "body": "Build your five pillars this week. Your future content calendar will thank you.",
+        "body": "Build your editorial system today and stop guessing what to post next week.",
         "buttonLabel": "Follow for more",
-        "handle": "@studionxt"
+        "handle": "@theedit"
       }
     }
   ]

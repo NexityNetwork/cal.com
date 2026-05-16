@@ -1,0 +1,116 @@
+{
+  "id": "self-compassion",
+  "brand": "Maya Bennett",
+  "brief": "5 self-compassion practices that replaced toxic positivity for good.",
+  "theme": "pastel-soft",
+  "slides": [
+    {
+      "layoutId": "cover-pastel-soft",
+      "slots": {
+        "authorInitials": "MB",
+        "authorName": "Maya Bennett",
+        "handle": "@mayabennett",
+        "tagBlue": "Self Growth",
+        "tagPink": "Mindset",
+        "titleLine1": "Replace",
+        "titleLine2": "toxic positivity",
+        "titleLine3": "for good",
+        "subtitle": "5 self-compassion practices to help you honor real feelings and build lasting inner peace.",
+        "ctaLabel": "Read below",
+        "slideCount": "8"
+      }
+    },
+    {
+      "layoutId": "body-pastel-soft",
+      "slots": {
+        "authorName": "Maya Bennett",
+        "pageOf": "2 / 8",
+        "number": "1",
+        "numberLabel": "Insight",
+        "titleMain": "Toxic positivity",
+        "titleItalic": "hurts",
+        "body": "Pushing pain aside with 'good vibes only' invalidates your experience and deepens shame. Real healing starts with honest acceptance.",
+        "handle": "@mayabennett"
+      }
+    },
+    {
+      "layoutId": "body-pastel-soft",
+      "slots": {
+        "authorName": "Maya Bennett",
+        "pageOf": "3 / 8",
+        "number": "2",
+        "numberLabel": "Practice",
+        "titleMain": "Validate your",
+        "titleItalic": "feelings",
+        "body": "Instead of numbing sadness, name it gently. Saying 'this is hard' gives your emotions the space they need to soften naturally.",
+        "handle": "@mayabennett"
+      }
+    },
+    {
+      "layoutId": "body-pastel-soft",
+      "slots": {
+        "authorName": "Maya Bennett",
+        "pageOf": "4 / 8",
+        "number": "3",
+        "numberLabel": "Practice",
+        "titleMain": "Talk like a",
+        "titleItalic": "friend",
+        "body": "Would you shame a loved one for struggling? Offer yourself the same kindness. Your inner voice deserves compassion, not criticism.",
+        "handle": "@mayabennett"
+      }
+    },
+    {
+      "layoutId": "body-pastel-soft",
+      "slots": {
+        "authorName": "Maya Bennett",
+        "pageOf": "5 / 8",
+        "number": "4",
+        "numberLabel": "Practice",
+        "titleMain": "Rest without",
+        "titleItalic": "guilt",
+        "body": "Productivity is not a measure of worth. Giving yourself permission to pause is a radical act of self-compassion and care.",
+        "handle": "@mayabennett"
+      }
+    },
+    {
+      "layoutId": "body-pastel-soft",
+      "slots": {
+        "authorName": "Maya Bennett",
+        "pageOf": "6 / 8",
+        "number": "5",
+        "numberLabel": "Practice",
+        "titleMain": "Embrace being",
+        "titleItalic": "human",
+        "body": "Perfection is an impossible standard. Allowing yourself to make mistakes reduces anxiety and builds resilience through every messy moment.",
+        "handle": "@mayabennett"
+      }
+    },
+    {
+      "layoutId": "body-pastel-soft",
+      "slots": {
+        "authorName": "Maya Bennett",
+        "pageOf": "7 / 8",
+        "number": "6",
+        "numberLabel": "Practice",
+        "titleMain": "Honor your",
+        "titleItalic": "truth",
+        "body": "It is okay to say 'I am not okay right now.' Setting boundaries with forced optimism protects your energy and restores authenticity.",
+        "handle": "@mayabennett"
+      }
+    },
+    {
+      "layoutId": "cta-pastel-soft",
+      "slots": {
+        "authorName": "Maya Bennett",
+        "pageOf": "8 / 8",
+        "eyebrow": "YOUR TURN",
+        "headlineMain": "Choose one",
+        "headlineItalic": "today",
+        "body": "Pick the practice that resonates most and try it gently. You are worthy of the same compassion you give others.",
+        "buttonLabel": "Save this",
+        "secondaryLabel": "Share with a friend",
+        "handle": "@mayabennett"
+      }
+    }
+  ]
+}

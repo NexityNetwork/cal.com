@@ -1,0 +1,116 @@
+{
+  "id": "anxiety-toolkit",
+  "brand": "Sara Lin",
+  "brief": "6 evidence-based tools a therapist uses to quiet anxiety in under 5 minutes.",
+  "theme": "pastel-soft",
+  "slides": [
+    {
+      "layoutId": "cover-pastel-soft",
+      "slots": {
+        "authorInitials": "SL",
+        "authorName": "Sara Lin",
+        "handle": "@saralin.therapy",
+        "tagBlue": "Self Growth",
+        "tagPink": "Anxiety Relief",
+        "titleLine1": "How to",
+        "titleLine2": "actually",
+        "titleLine3": "calm down",
+        "subtitle": "Six therapist-backed techniques you can use anywhere to feel better in under five minutes.",
+        "ctaLabel": "Read below",
+        "slideCount": "8"
+      }
+    },
+    {
+      "layoutId": "body-pastel-soft",
+      "slots": {
+        "authorName": "Sara Lin",
+        "pageOf": "2 / 8",
+        "number": "1",
+        "numberLabel": "Tool",
+        "titleMain": "Box Breathing",
+        "titleItalic": "slowly",
+        "body": "Inhale for four counts, hold, then exhale for four. Repeat four times to reset your nervous system instantly.",
+        "handle": "@saralin.therapy"
+      }
+    },
+    {
+      "layoutId": "body-pastel-soft",
+      "slots": {
+        "authorName": "Sara Lin",
+        "pageOf": "3 / 8",
+        "number": "2",
+        "numberLabel": "Tool",
+        "titleMain": "Grounding Senses",
+        "titleItalic": "fully",
+        "body": "List five things you see, four you feel, three you hear, two you smell, and one you taste. This gentle anchor brings you back to now.",
+        "handle": "@saralin.therapy"
+      }
+    },
+    {
+      "layoutId": "body-pastel-soft",
+      "slots": {
+        "authorName": "Sara Lin",
+        "pageOf": "4 / 8",
+        "number": "3",
+        "numberLabel": "Tool",
+        "titleMain": "Cold Water",
+        "titleItalic": "reset",
+        "body": "Splash cold water on your face or hold an ice cube. This activates the dive reflex and rapidly slows a racing heart.",
+        "handle": "@saralin.therapy"
+      }
+    },
+    {
+      "layoutId": "body-pastel-soft",
+      "slots": {
+        "authorName": "Sara Lin",
+        "pageOf": "5 / 8",
+        "number": "4",
+        "numberLabel": "Tool",
+        "titleMain": "Muscle Release",
+        "titleItalic": "softly",
+        "body": "Tense each muscle group for five seconds, then release. Moving from toes to shoulders melts physical stress you didn't know you held.",
+        "handle": "@saralin.therapy"
+      }
+    },
+    {
+      "layoutId": "body-pastel-soft",
+      "slots": {
+        "authorName": "Sara Lin",
+        "pageOf": "6 / 8",
+        "number": "5",
+        "numberLabel": "Tool",
+        "titleMain": "Name It",
+        "titleItalic": "quietly",
+        "body": "Simply say 'I am feeling anxious' out loud. Labeling emotions reduces amygdala activity and gives your brain a sense of control.",
+        "handle": "@saralin.therapy"
+      }
+    },
+    {
+      "layoutId": "body-pastel-soft",
+      "slots": {
+        "authorName": "Sara Lin",
+        "pageOf": "7 / 8",
+        "number": "6",
+        "numberLabel": "Tool",
+        "titleMain": "Physiological Sigh",
+        "titleItalic": "deeply",
+        "body": "Take a double inhale through your nose, then exhale slowly through your mouth. Two cycles are enough to deflate stress fast.",
+        "handle": "@saralin.therapy"
+      }
+    },
+    {
+      "layoutId": "cta-pastel-soft",
+      "slots": {
+        "authorName": "Sara Lin",
+        "pageOf": "8 / 8",
+        "eyebrow": "YOUR TURN",
+        "headlineMain": "Save these",
+        "headlineItalic": "tools",
+        "body": "Which technique will you try first? Save this carousel for the moments you need quick, gentle relief.",
+        "buttonLabel": "Save this",
+        "secondaryLabel": "Share with a friend",
+        "handle": "@saralin.therapy"
+      }
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "id": "attachment-styles",
+  "brand": "Ava Lane",
+  "brief": "The 4 attachment styles explained — and how to heal yours with daily practice.",
+  "theme": "pastel-soft",
+  "slides": [
+    {
+      "layoutId": "cover-pastel-soft",
+      "slots": {
+        "authorInitials": "AL",
+        "authorName": "Ava Lane",
+        "handle": "@avalane",
+        "tagBlue": "Attachment",
+        "tagPink": "Healing",
+        "titleLine1": "The 4",
+        "titleLine2": "attachment",
+        "titleLine3": "styles",
+        "subtitle": "Understand your patterns and heal with simple daily practices that rebuild security.",
+        "ctaLabel": "Read below",
+        "slideCount": "8"
+      }
+    },
+    {
+      "layoutId": "body-pastel-soft",
+      "slots": {
+        "authorName": "Ava Lane",
+        "pageOf": "2 / 8",
+        "number": "1",
+        "numberLabel": "Style",
+        "titleMain": "Secure",
+        "titleItalic": "attachment",
+        "body": "You feel safe in closeness and can express needs openly. It's the foundation of healthy, balanced relationships.",
+        "handle": "@avalane"
+      }
+    },
+    {
+      "layoutId": "body-pastel-soft",
+      "slots": {
+        "authorName": "Ava Lane",
+        "pageOf": "3 / 8",
+        "number": "2",
+        "numberLabel": "Style",
+        "titleMain": "Anxious",
+        "titleItalic": "attachment",
+        "body": "You crave connection but fear abandonment. Small distances feel like rejection, leaving you caught in worry.",
+        "handle": "@avalane"
+      }
+    },
+    {
+      "layoutId": "body-pastel-soft",
+      "slots": {
+        "authorName": "Ava Lane",
+        "pageOf": "4 / 8",
+        "number": "3",
+        "numberLabel": "Style",
+        "titleMain": "Avoidant",
+        "titleItalic": "attachment",
+        "body": "Independence feels safer than intimacy. You may withdraw when others get too close, guarding your inner world.",
+        "handle": "@avalane"
+      }
+    },
+    {
+      "layoutId": "body-pastel-soft",
+      "slots": {
+        "authorName": "Ava Lane",
+        "pageOf": "5 / 8",
+        "number": "4",
+        "numberLabel": "Style",
+        "titleMain": "Disorganized",
+        "titleItalic": "attachment",
+        "body": "You want love yet feel unsafe receiving it. This push-pull often stems from early unpredictable caregiving experiences.",
+        "handle": "@avalane"
+      }
+    },
+    {
+      "layoutId": "body-pastel-soft",
+      "slots": {
+        "authorName": "Ava Lane",
+        "pageOf": "6 / 8",
+        "number": "5",
+        "numberLabel": "Insight",
+        "titleMain": "Find your",
+        "titleItalic": "pattern",
+        "body": "Notice how you react when conflict or distance arises. Your body and emotions reveal your attachment truth.",
+        "handle": "@avalane"
+      }
+    },
+    {
+      "layoutId": "body-pastel-soft",
+      "slots": {
+        "authorName": "Ava Lane",
+        "pageOf": "7 / 8",
+        "number": "6",
+        "numberLabel": "Practice",
+        "titleMain": "Heal",
+        "titleItalic": "gently",
+        "body": "Name your feeling, breathe, then choose one small act of connection. Security grows through consistent, kind daily repetition.",
+        "handle": "@avalane"
+      }
+    },
+    {
+      "layoutId": "cta-pastel-soft",
+      "slots": {
+        "authorName": "Ava Lane",
+        "pageOf": "8 / 8",
+        "eyebrow": "YOUR TURN",
+        "headlineMain": "Start your",
+        "headlineItalic": "healing",
+        "body": "Save these slides and practice one small shift today. You deserve secure, loving connections.",
+        "buttonLabel": "Save this",
+        "secondaryLabel": "Share with a friend",
+        "handle": "@avalane"
+      }
+    }
+  ]
+}
