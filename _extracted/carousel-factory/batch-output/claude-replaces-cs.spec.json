@@ -1,0 +1,149 @@
+{
+  "id": "claude-replaces-cs",
+  "brand": "FounderOS",
+  "brief": "I replaced our $120K customer-support tier with 3 Claude agents — full breakdown.",
+  "theme": "claude-target",
+  "slides": [
+    {
+      "layoutId": "cover-claude-target",
+      "slots": {
+        "topLine1": "I replaced our",
+        "topLine2": "$120K Support Tier",
+        "topLine3": "with 3 Agents",
+        "brickLine1": "CLAUDE",
+        "brickLine2": "CREW",
+        "subLine": "Here's the complete",
+        "subAccent": "exact system,",
+        "subTail": "step by step",
+        "note": "full breakdown inside"
+      }
+    },
+    {
+      "layoutId": "body-claude-target",
+      "slots": {
+        "titleMain": "Support was",
+        "titleAccent": "bleeding cash",
+        "titleTail": "every month",
+        "step1Title": "Map your current support spend",
+        "step1Sub": "Audit salaries, tickets, and software costs.",
+        "step2Title": "Identify repetitive tier-1 queries",
+        "step2Sub": "Tag the FAQs eating 80% of agent hours.",
+        "step3Title": "Set your automation budget",
+        "step3Sub": "Pick tools that cost under $500 per month.",
+        "tool1": "SHEETS",
+        "tool2": "ZENDESK",
+        "tool3": "NOTION",
+        "tool4": "COSTLY",
+        "progressPct": 14
+      }
+    },
+    {
+      "layoutId": "body-claude-target",
+      "slots": {
+        "titleMain": "Agent One",
+        "titleAccent": "tickets",
+        "titleTail": "instantly",
+        "step1Title": "Connect inbox to Claude via API",
+        "step1Sub": "Route incoming emails to your first agent.",
+        "step2Title": "Train it on your help docs",
+        "step2Sub": "Feed it past tickets and knowledge base.",
+        "step3Title": "Auto-tag urgency and intent",
+        "step3Sub": "Let it sort issues before humans see them.",
+        "tool1": "MAKE",
+        "tool2": "ZAPIER",
+        "tool3": "OPENAI",
+        "tool4": "GMAIL",
+        "progressPct": 28
+      }
+    },
+    {
+      "layoutId": "body-claude-target",
+      "slots": {
+        "titleMain": "Agent Two",
+        "titleAccent": "solves",
+        "titleTail": "common issues",
+        "step1Title": "Build a draft-reply workflow",
+        "step1Sub": "Generate responses for tier-1 questions.",
+        "step2Title": "Add human approval checkpoints",
+        "step2Sub": "Review drafts before they reach customers.",
+        "step3Title": "Escalate complex issues fast",
+        "step3Sub": "Route hard tickets to senior staff only.",
+        "tool1": "SLACK",
+        "tool2": "CLAY",
+        "tool3": "HUBSPOT",
+        "tool4": "INTERCOM",
+        "progressPct": 42
+      }
+    },
+    {
+      "layoutId": "body-claude-target",
+      "slots": {
+        "titleMain": "Agent Three",
+        "titleAccent": "closes",
+        "titleTail": "the loop",
+        "step1Title": "Follow up after every resolution",
+        "step1Sub": "Send CSAT surveys automatically.",
+        "step2Title": "Summarize feedback into themes",
+        "step2Sub": "Spot product bugs from support trends.",
+        "step3Title": "Update docs based on new questions",
+        "step3Sub": "Keep knowledge base fresh without effort.",
+        "tool1": "TYPEFORM",
+        "tool2": "NOTION",
+        "tool3": "CLAY",
+        "tool4": "SLACK",
+        "progressPct": 57
+      }
+    },
+    {
+      "layoutId": "body-claude-target",
+      "slots": {
+        "titleMain": "Full stack",
+        "titleAccent": "costs",
+        "titleTail": "under $2K",
+        "step1Title": "Replace Zendesk with lightweight CRM",
+        "step1Sub": "Use modern tools with open API access.",
+        "step2Title": "Run Claude on API not chat",
+        "step2Sub": "Automate prompts with Make or n8n.",
+        "step3Title": "Monitor cost per ticket weekly",
+        "step3Sub": "Track savings against old salary burn.",
+        "tool1": "N8N",
+        "tool2": "VERCEL",
+        "tool3": "RAILWAY",
+        "tool4": "OPENAI",
+        "progressPct": 71
+      }
+    },
+    {
+      "layoutId": "body-claude-target",
+      "slots": {
+        "titleMain": "Three agents",
+        "titleAccent": "handle",
+        "titleTail": "90% volume",
+        "step1Title": "Measure first response time daily",
+        "step1Sub": "Watch it drop from hours to seconds.",
+        "step2Title": "Keep one human for escalations",
+        "step2Sub": "Senior staff handles edge cases only.",
+        "step3Title": "Reinvest savings into growth",
+        "step3Sub": "Put $120K into product or marketing.",
+        "tool1": "SLACK",
+        "tool2": "HUBSPOT",
+        "tool3": "SHEETS",
+        "tool4": "DB",
+        "progressPct": 86
+      }
+    },
+    {
+      "layoutId": "cta-claude-target",
+      "slots": {
+        "eyebrow": "READY TO BUILD",
+        "headlineMain": "Deploy your own",
+        "headlineAccent": "Claude Crew",
+        "body": "Get the exact prompts, stack, and workflow I used to cut support costs by 95%.",
+        "targetLine1": "FREE",
+        "targetLine2": "PLAYBOOK",
+        "buttonLine": "Comment 'CREW' for the playbook",
+        "handle": "@founderos"
+      }
+    }
+  ]
+}
