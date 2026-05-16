@@ -1,0 +1,170 @@
+{
+  "id": "tool-list-claude-stack",
+  "brand": "Alex Chen",
+  "brief": "The 5 Claude-powered tools I use every day to ship like a 10-person team.",
+  "theme": "tool-list",
+  "slides": [
+    {
+      "layoutId": "cover-tool-list",
+      "slots": {
+        "pageOf": "1 / 8",
+        "authorInitials": "AC",
+        "authorName": "Alex Chen",
+        "handle": "@alexchen",
+        "avatarBg1": "#ff5a28",
+        "avatarBg2": "#1a1a1a",
+        "eyebrow": "5 CLAUDE TOOLS",
+        "headlineLine1": "SHIP LIKE A",
+        "headlineAccent": "10 PERSON TEAM",
+        "tool1Glyph": "Cu",
+        "tool2Glyph": "Rp",
+        "tool3Glyph": "No",
+        "tool4Glyph": "Px",
+        "tool5Glyph": "Ra"
+      }
+    },
+    {
+      "layoutId": "body-tool-list",
+      "slots": {
+        "pageOf": "2 / 8",
+        "authorInitials": "AC",
+        "authorName": "Alex Chen",
+        "handle": "@alexchen",
+        "avatarBg1": "#ff5a28",
+        "avatarBg2": "#1a1a1a",
+        "number": "01",
+        "toolGlyph": "Cu",
+        "toolCategory": "CODING",
+        "toolName": "Cursor",
+        "toolTagline": "AI editor that writes and refactors code",
+        "body": "Cursor is VS Code with Claude built in. I describe features in plain English and it generates production-ready code, debugs errors, and explains legacy files instantly.",
+        "feat1Key": "PRICE",
+        "feat1Val": "Free / $20 mo",
+        "feat2Key": "BEST FOR",
+        "feat2Val": "Builders & devs"
+      }
+    },
+    {
+      "layoutId": "body-tool-list",
+      "slots": {
+        "pageOf": "3 / 8",
+        "authorInitials": "AC",
+        "authorName": "Alex Chen",
+        "handle": "@alexchen",
+        "avatarBg1": "#ff5a28",
+        "avatarBg2": "#1a1a1a",
+        "number": "02",
+        "toolGlyph": "Rp",
+        "toolCategory": "DEPLOY",
+        "toolName": "Replit Agent",
+        "toolTagline": "Full-stack apps from a single prompt",
+        "body": "Replit's Agent mode uses Claude to scaffold apps, install dependencies, and deploy live. I go from idea to URL in minutes without touching config.",
+        "feat1Key": "PRICE",
+        "feat1Val": "Free / $7 mo",
+        "feat2Key": "BEST FOR",
+        "feat2Val": "Rapid prototypes"
+      }
+    },
+    {
+      "layoutId": "body-tool-list",
+      "slots": {
+        "pageOf": "4 / 8",
+        "authorInitials": "AC",
+        "authorName": "Alex Chen",
+        "handle": "@alexchen",
+        "avatarBg1": "#ff5a28",
+        "avatarBg2": "#1a1a1a",
+        "number": "03",
+        "toolGlyph": "No",
+        "toolCategory": "DOCS",
+        "toolName": "Notion AI",
+        "toolTagline": "Wiki, notes, and docs that write themselves",
+        "body": "Notion AI runs on Claude to summarize meeting notes, draft specs, and fill databases. It turns messy brainstorms into structured project docs automatically.",
+        "feat1Key": "PRICE",
+        "feat1Val": "Free / $10 mo",
+        "feat2Key": "BEST FOR",
+        "feat2Val": "Team knowledge"
+      }
+    },
+    {
+      "layoutId": "body-tool-list",
+      "slots": {
+        "pageOf": "5 / 8",
+        "authorInitials": "AC",
+        "authorName": "Alex Chen",
+        "handle": "@alexchen",
+        "avatarBg1": "#ff5a28",
+        "avatarBg2": "#1a1a1a",
+        "number": "04",
+        "toolGlyph": "Px",
+        "toolCategory": "RESEARCH",
+        "toolName": "Perplexity",
+        "toolTagline": "Answer engine with cited sources",
+        "body": "Perplexity Pro taps Claude for deep research, pulling live sources and synthesizing answers. I use it to validate ideas, find libraries, and stay ahead of trends.",
+        "feat1Key": "PRICE",
+        "feat1Val": "Free / $20 mo",
+        "feat2Key": "BEST FOR",
+        "feat2Val": "Market research"
+      }
+    },
+    {
+      "layoutId": "body-tool-list",
+      "slots": {
+        "pageOf": "6 / 8",
+        "authorInitials": "AC",
+        "authorName": "Alex Chen",
+        "handle": "@alexchen",
+        "avatarBg1": "#ff5a28",
+        "avatarBg2": "#1a1a1a",
+        "number": "05",
+        "toolGlyph": "Ra",
+        "toolCategory": "PRODUCTIVITY",
+        "toolName": "Raycast AI",
+        "toolTagline": "AI commands at your fingertips",
+        "body": "Raycast lets me call Claude from anywhere on macOS to rewrite emails, explain code snippets, or generate copy without breaking flow or opening a browser.",
+        "feat1Key": "PRICE",
+        "feat1Val": "Free / $8 mo",
+        "feat2Key": "BEST FOR",
+        "feat2Val": "Speed demons"
+      }
+    },
+    {
+      "layoutId": "body-tool-list",
+      "slots": {
+        "pageOf": "7 / 8",
+        "authorInitials": "AC",
+        "authorName": "Alex Chen",
+        "handle": "@alexchen",
+        "avatarBg1": "#ff5a28",
+        "avatarBg2": "#1a1a1a",
+        "number": "06",
+        "toolGlyph": "★",
+        "toolCategory": "STACK",
+        "toolName": "The Workflow",
+        "toolTagline": "Chain them together for max output",
+        "body": "Research with Perplexity, plan in Notion, build in Cursor, deploy on Replit, and automate with Raycast. The result is a one-person execution machine.",
+        "feat1Key": "OUTPUT",
+        "feat1Val": "10x velocity",
+        "feat2Key": "HEADCOUNT",
+        "feat2Val": "Just you"
+      }
+    },
+    {
+      "layoutId": "cta-tool-list",
+      "slots": {
+        "pageOf": "8 / 8",
+        "authorInitials": "AC",
+        "authorName": "Alex Chen",
+        "handle": "@alexchen",
+        "avatarBg1": "#ff5a28",
+        "avatarBg2": "#1a1a1a",
+        "eyebrow": "PICK YOUR STACK",
+        "headlineLine1": "BUILD YOUR",
+        "headlineAccent": "DREAM STACK",
+        "body": "Start with one tool, add the rest, and ship faster than teams twice your size. The AI multiplier is real.",
+        "buttonLabel": "SAVE THIS LIST",
+        "secondaryLabel": "FOLLOW FOR MORE"
+      }
+    }
+  ]
+}
