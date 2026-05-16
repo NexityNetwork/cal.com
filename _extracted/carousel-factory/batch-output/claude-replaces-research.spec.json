@@ -1,0 +1,149 @@
+{
+  "id": "claude-replaces-research",
+  "brand": "Claude Research Analyst",
+  "brief": "I built a Claude Code research analyst that beat my $8K/mo consultant. Here's how.",
+  "theme": "claude-target",
+  "slides": [
+    {
+      "layoutId": "cover-claude-target",
+      "slots": {
+        "topLine1": "I replaced my",
+        "topLine2": "$8K/mo Consultant",
+        "topLine3": "with Claude Code",
+        "brickLine1": "CLAUDE",
+        "brickLine2": "CODE",
+        "subLine": "Here's the",
+        "subAccent": "exact system,",
+        "subTail": "step by step",
+        "note": "free guide included"
+      }
+    },
+    {
+      "layoutId": "body-claude-target",
+      "slots": {
+        "titleMain": "Why I fired my",
+        "titleAccent": "$8K/mo",
+        "titleTail": "consultant",
+        "step1Title": "Slow turnaround on basic research tasks",
+        "step1Sub": "Waited three days for templated market maps.",
+        "step2Title": "Scattered data across too many tools",
+        "step2Sub": "Stacked five subscriptions with messy handoffs.",
+        "step3Title": "Generic output without real strategic insight",
+        "step3Sub": "Received surface-level briefs I could Google.",
+        "tool1": "GOOGLE",
+        "tool2": "CRUNCHBASE",
+        "tool3": "LINKEDIN",
+        "tool4": "EXCEL",
+        "progressPct": 14
+      }
+    },
+    {
+      "layoutId": "body-claude-target",
+      "slots": {
+        "titleMain": "Claude Code builds your",
+        "titleAccent": "research analyst",
+        "titleTail": "from scratch",
+        "step1Title": "Install Claude Code inside your terminal",
+        "step1Sub": "One command turns your IDE into an agent.",
+        "step2Title": "Connect OpenRouter for flexible models",
+        "step2Sub": "Switch between top LLMs without rewriting code.",
+        "step3Title": "Load a custom research prompt template",
+        "step3Sub": "Teach Claude your format and scoring criteria.",
+        "tool1": "CLAUDE",
+        "tool2": "OPENROUTER",
+        "tool3": "VSCODE",
+        "tool4": "GITHUB",
+        "progressPct": 29
+      }
+    },
+    {
+      "layoutId": "body-claude-target",
+      "slots": {
+        "titleMain": "Automated data",
+        "titleAccent": "collection",
+        "titleTail": "pipeline",
+        "step1Title": "Pull target accounts from Apollo lists",
+        "step1Sub": "Export enriched leads directly into the workspace.",
+        "step2Title": "Verify contacts with Hunter in real time",
+        "step2Sub": "Append valid emails and reduce bounce rates.",
+        "step3Title": "Structure raw data into markdown tables",
+        "step3Sub": "Turn messy CSVs into readable research assets.",
+        "tool1": "APOLLO",
+        "tool2": "HUNTER",
+        "tool3": "MAKE",
+        "tool4": "AIRTABLE",
+        "progressPct": 43
+      }
+    },
+    {
+      "layoutId": "body-claude-target",
+      "slots": {
+        "titleMain": "Analysis that",
+        "titleAccent": "thinks",
+        "titleTail": "like a partner",
+        "step1Title": "Run multi-step reasoning on market signals",
+        "step1Sub": "Connect news events to revenue and hiring trends.",
+        "step2Title": "Cross-reference funding with headcount data",
+        "step2Sub": "Spot budget windows before competitors do.",
+        "step3Title": "Flag buying intent from public job posts",
+        "step3Sub": "Identify pain points based on open roles.",
+        "tool1": "PERPLEXITY",
+        "tool2": "CRUNCHBASE",
+        "tool3": "LINKEDIN",
+        "tool4": "CLAUDE",
+        "progressPct": 57
+      }
+    },
+    {
+      "layoutId": "body-claude-target",
+      "slots": {
+        "titleMain": "Board-ready reports",
+        "titleAccent": "on demand",
+        "titleTail": "every morning",
+        "step1Title": "Generate executive summaries with takeaways",
+        "step1Sub": "Distill ten sources into one clear narrative.",
+        "step2Title": "Export formatted briefs to Notion or Slack",
+        "step2Sub": "Share insights where your team already works.",
+        "step3Title": "Schedule daily runs with one cron job",
+        "step3Sub": "Wake up to fresh research without lifting a finger.",
+        "tool1": "NOTION",
+        "tool2": "SLACK",
+        "tool3": "PYTHON",
+        "tool4": "GITHUB",
+        "progressPct": 71
+      }
+    },
+    {
+      "layoutId": "body-claude-target",
+      "slots": {
+        "titleMain": "Results that beat the",
+        "titleAccent": "$8K/mo",
+        "titleTail": "consultant",
+        "step1Title": "Cut research turnaround from days to minutes",
+        "step1Sub": "Deliver strategic briefs before your coffee cools.",
+        "step2Title": "Eliminated billable hours and scope creep",
+        "step2Sub": "Fixed cost replaces unpredictable monthly invoices.",
+        "step3Title": "Scaled output without adding any headcount",
+        "step3Sub": "One analyst now covers ten times the scope.",
+        "tool1": "CLAUDE",
+        "tool2": "OPENROUTER",
+        "tool3": "APOLLO",
+        "tool4": "MAKE",
+        "progressPct": 86
+      }
+    },
+    {
+      "layoutId": "cta-claude-target",
+      "slots": {
+        "eyebrow": "READY TO BUILD",
+        "headlineMain": "Steal my research analyst",
+        "headlineAccent": "setup free",
+        "body": "I put the exact prompts, tool stack, and Claude Code config into a free guide. Grab it below.",
+        "targetLine1": "FREE",
+        "targetLine2": "GUIDE",
+        "buttonLine": "Comment 'SHIP' for the guide",
+        "handle": "@yourhandle"
+      }
+    }
+  ]
+}
