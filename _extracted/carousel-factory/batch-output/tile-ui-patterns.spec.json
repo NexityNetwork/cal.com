@@ -1,0 +1,180 @@
+{
+  "id": "tile-ui-patterns",
+  "brand": "Sofia Marin",
+  "brief": "6 UI patterns separating premium apps from amateur ones — side-by-side analysis.",
+  "theme": "design-tile",
+  "slides": [
+    {
+      "layoutId": "cover-design-tile",
+      "slots": {
+        "pageOf": "1 / 8",
+        "authorInitials": "SM",
+        "authorName": "Sofia Marin",
+        "handle": "@sofiamarindesign",
+        "avatarBg1": "#3A5EEF",
+        "avatarBg2": "#FF5A28",
+        "eyebrow": "UI PATTERNS",
+        "titleLine1": "Premium vs Amateur",
+        "tile1Color": "#1A1A1A",
+        "tile2Color": "#3A5EEF",
+        "tile3Color": "#FF5A28",
+        "tile4Color": "#2DAD6B",
+        "tile5Color": "#F5B540",
+        "tile6Color": "#6C5CE7",
+        "tile1Label": "Space",
+        "tile2Label": "Type",
+        "tile3Label": "Color",
+        "tile4Label": "Motion",
+        "tile5Label": "Density",
+        "tile6Label": "States",
+        "tile1Glyph": "◆",
+        "tile2Glyph": "●",
+        "tile3Glyph": "▲",
+        "tile4Glyph": "■",
+        "tile5Glyph": "✦",
+        "tile6Glyph": "◐"
+      }
+    },
+    {
+      "layoutId": "body-design-tile",
+      "slots": {
+        "pageOf": "2 / 8",
+        "authorInitials": "SM",
+        "authorName": "Sofia Marin",
+        "handle": "@sofiamarindesign",
+        "avatarBg1": "#3A5EEF",
+        "avatarBg2": "#FF5A28",
+        "themeColor": "#3A5EEF",
+        "number": "01",
+        "numberLabel": "SPACING",
+        "titleMain": "Negative Space",
+        "titleAccent": "Matters",
+        "body": "Amateur apps cram elements together. Premium apps use generous, rhythmic padding to let content breathe and guide focus effortlessly.",
+        "heroKey": "GRID BASELINE",
+        "heroValue": "4pt or 8pt system",
+        "heroGlyph": "◆"
+      }
+    },
+    {
+      "layoutId": "body-design-tile",
+      "slots": {
+        "pageOf": "3 / 8",
+        "authorInitials": "SM",
+        "authorName": "Sofia Marin",
+        "handle": "@sofiamarindesign",
+        "avatarBg1": "#3A5EEF",
+        "avatarBg2": "#FF5A28",
+        "themeColor": "#FF5A28",
+        "number": "02",
+        "numberLabel": "TYPE SCALE",
+        "titleMain": "Clear Hierarchy",
+        "titleAccent": "Wins",
+        "body": "Random font sizes look chaotic. Premium products limit styles to 4–6 sizes with deliberate weight contrast for instant scannability.",
+        "heroKey": "SCALE LIMIT",
+        "heroValue": "Max six sizes",
+        "heroGlyph": "●"
+      }
+    },
+    {
+      "layoutId": "body-design-tile",
+      "slots": {
+        "pageOf": "4 / 8",
+        "authorInitials": "SM",
+        "authorName": "Sofia Marin",
+        "handle": "@sofiamarindesign",
+        "avatarBg1": "#3A5EEF",
+        "avatarBg2": "#FF5A28",
+        "themeColor": "#2DAD6B",
+        "number": "03",
+        "numberLabel": "PALETTE",
+        "titleMain": "Restrained Color",
+        "titleAccent": "System",
+        "body": "Amateur interfaces use rainbow palettes. Premium apps commit to one dominant hue with a single accent and neutral grays.",
+        "heroKey": "COLOR RATIO",
+        "heroValue": "60 / 30 / 10 rule",
+        "heroGlyph": "▲"
+      }
+    },
+    {
+      "layoutId": "body-design-tile",
+      "slots": {
+        "pageOf": "5 / 8",
+        "authorInitials": "SM",
+        "authorName": "Sofia Marin",
+        "handle": "@sofiamarindesign",
+        "avatarBg1": "#3A5EEF",
+        "avatarBg2": "#FF5A28",
+        "themeColor": "#F5B540",
+        "number": "04",
+        "numberLabel": "MOTION",
+        "titleMain": "Purposeful Motion",
+        "titleAccent": "Details",
+        "body": "Excessive animation feels cheap. Premium software uses subtle easing and short durations to confirm actions without distracting.",
+        "heroKey": "DURATION",
+        "heroValue": "Under 300 ms",
+        "heroGlyph": "■"
+      }
+    },
+    {
+      "layoutId": "body-design-tile",
+      "slots": {
+        "pageOf": "6 / 8",
+        "authorInitials": "SM",
+        "authorName": "Sofia Marin",
+        "handle": "@sofiamarindesign",
+        "avatarBg1": "#3A5EEF",
+        "avatarBg2": "#FF5A28",
+        "themeColor": "#1A1A1A",
+        "number": "05",
+        "numberLabel": "DENSITY",
+        "titleMain": "Information Density",
+        "titleAccent": "Control",
+        "body": "Cluttered dashboards overwhelm users. Premium interfaces group related data, use progressive disclosure, and respect cognitive load.",
+        "heroKey": "PROXIMITY",
+        "heroValue": "Group related items",
+        "heroGlyph": "✦"
+      }
+    },
+    {
+      "layoutId": "body-design-tile",
+      "slots": {
+        "pageOf": "7 / 8",
+        "authorInitials": "SM",
+        "authorName": "Sofia Marin",
+        "handle": "@sofiamarindesign",
+        "avatarBg1": "#3A5EEF",
+        "avatarBg2": "#FF5A28",
+        "themeColor": "#6C5CE7",
+        "number": "06",
+        "numberLabel": "STATES",
+        "titleMain": "System Status",
+        "titleAccent": "Visibility",
+        "body": "Amateur apps leave users guessing. Premium designs communicate loading, success, and errors with clear visual state changes.",
+        "heroKey": "VISUAL FEEDBACK",
+        "heroValue": "Every action confirmed",
+        "heroGlyph": "◐"
+      }
+    },
+    {
+      "layoutId": "cta-design-tile",
+      "slots": {
+        "pageOf": "8 / 8",
+        "authorInitials": "SM",
+        "authorName": "Sofia Marin",
+        "handle": "@sofiamarindesign",
+        "avatarBg1": "#3A5EEF",
+        "avatarBg2": "#FF5A28",
+        "themeColor": "#3A5EEF",
+        "swatch1": "#3A5EEF",
+        "swatch2": "#FF5A28",
+        "swatch3": "#2DAD6B",
+        "swatch4": "#F5B540",
+        "eyebrow": "YOUR TURN",
+        "headlineLine1": "Audit Your UI",
+        "headlineAccent": "Like a Pro",
+        "body": "Save this checklist and review your current app against these six patterns today.",
+        "buttonLabel": "Start Your Audit Now"
+      }
+    }
+  ]
+}

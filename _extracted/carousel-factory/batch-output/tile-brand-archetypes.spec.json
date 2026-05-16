@@ -1,0 +1,180 @@
+{
+  "id": "tile-brand-archetypes",
+  "brand": "Archetype Lab",
+  "brief": "The 6 brand archetypes — pick yours and 90% of design decisions get easier.",
+  "theme": "design-tile",
+  "slides": [
+    {
+      "layoutId": "cover-design-tile",
+      "slots": {
+        "pageOf": "1 / 8",
+        "authorInitials": "JD",
+        "authorName": "Jordan Doe",
+        "handle": "@jordandoe",
+        "avatarBg1": "#3a5eef",
+        "avatarBg2": "#ff5a28",
+        "eyebrow": "BRAND ARCHETYPES",
+        "titleLine1": "Pick Your Archetype",
+        "tile1Color": "#f5b540",
+        "tile2Color": "#3a5eef",
+        "tile3Color": "#ff5a28",
+        "tile4Color": "#c4541f",
+        "tile5Color": "#2dad6b",
+        "tile6Color": "#1a1a1a",
+        "tile1Label": "Innocent",
+        "tile2Label": "Sage",
+        "tile3Label": "Rebel",
+        "tile4Label": "Hero",
+        "tile5Label": "Explorer",
+        "tile6Label": "Magician",
+        "tile1Glyph": "☀",
+        "tile2Glyph": "◆",
+        "tile3Glyph": "⚡",
+        "tile4Glyph": "★",
+        "tile5Glyph": "▲",
+        "tile6Glyph": "✦"
+      }
+    },
+    {
+      "layoutId": "body-design-tile",
+      "slots": {
+        "pageOf": "2 / 8",
+        "authorInitials": "JD",
+        "authorName": "Jordan Doe",
+        "handle": "@jordandoe",
+        "avatarBg1": "#3a5eef",
+        "avatarBg2": "#ff5a28",
+        "themeColor": "#f5b540",
+        "number": "01",
+        "numberLabel": "INNOCENT",
+        "titleMain": "Keep It Simple",
+        "titleAccent": "Pure Light",
+        "body": "Innocent brands promise paradise through honesty and optimism. Use soft shapes, minimal copy, and warm sunshine palettes.",
+        "heroKey": "CORE TRAIT",
+        "heroValue": "Optimism honesty simplicity",
+        "heroGlyph": "☀"
+      }
+    },
+    {
+      "layoutId": "body-design-tile",
+      "slots": {
+        "pageOf": "3 / 8",
+        "authorInitials": "JD",
+        "authorName": "Jordan Doe",
+        "handle": "@jordandoe",
+        "avatarBg1": "#3a5eef",
+        "avatarBg2": "#ff5a28",
+        "themeColor": "#3a5eef",
+        "number": "02",
+        "numberLabel": "SAGE",
+        "titleMain": "Seek The Truth",
+        "titleAccent": "Data Driven",
+        "body": "Sage brands use data and expertise to guide decisions. Favor clean typography, neutral space, and deep trust blues.",
+        "heroKey": "CORE TRAIT",
+        "heroValue": "Wisdom expertise clarity",
+        "heroGlyph": "◆"
+      }
+    },
+    {
+      "layoutId": "body-design-tile",
+      "slots": {
+        "pageOf": "4 / 8",
+        "authorInitials": "JD",
+        "authorName": "Jordan Doe",
+        "handle": "@jordandoe",
+        "avatarBg1": "#3a5eef",
+        "avatarBg2": "#ff5a28",
+        "themeColor": "#ff5a28",
+        "number": "03",
+        "numberLabel": "REBEL",
+        "titleMain": "Disrupt The Norm",
+        "titleAccent": "Break Rules",
+        "body": "Rebel archetypes challenge conventions and spark revolution. Deploy bold angles, high contrast, and fiery disruptive reds.",
+        "heroKey": "CORE TRAIT",
+        "heroValue": "Liberation revolution edge",
+        "heroGlyph": "⚡"
+      }
+    },
+    {
+      "layoutId": "body-design-tile",
+      "slots": {
+        "pageOf": "5 / 8",
+        "authorInitials": "JD",
+        "authorName": "Jordan Doe",
+        "handle": "@jordandoe",
+        "avatarBg1": "#3a5eef",
+        "avatarBg2": "#ff5a28",
+        "themeColor": "#c4541f",
+        "number": "04",
+        "numberLabel": "HERO",
+        "titleMain": "Rise To Glory",
+        "titleAccent": "Work Hard",
+        "body": "Hero brands inspire mastery through courage and discipline. Choose strong sans-serifs, athletic geometry, and brave earth tones.",
+        "heroKey": "CORE TRAIT",
+        "heroValue": "Courage discipline honor",
+        "heroGlyph": "★"
+      }
+    },
+    {
+      "layoutId": "body-design-tile",
+      "slots": {
+        "pageOf": "6 / 8",
+        "authorInitials": "JD",
+        "authorName": "Jordan Doe",
+        "handle": "@jordandoe",
+        "avatarBg1": "#3a5eef",
+        "avatarBg2": "#ff5a28",
+        "themeColor": "#2dad6b",
+        "number": "05",
+        "numberLabel": "EXPLORER",
+        "titleMain": "Find Your Path",
+        "titleAccent": "Stay Curious",
+        "body": "Explorer brands crave freedom and authentic discovery. Embrace organic textures, wide layouts, and rich nature greens.",
+        "heroKey": "CORE TRAIT",
+        "heroValue": "Freedom discovery wanderlust",
+        "heroGlyph": "▲"
+      }
+    },
+    {
+      "layoutId": "body-design-tile",
+      "slots": {
+        "pageOf": "7 / 8",
+        "authorInitials": "JD",
+        "authorName": "Jordan Doe",
+        "handle": "@jordandoe",
+        "avatarBg1": "#3a5eef",
+        "avatarBg2": "#ff5a28",
+        "themeColor": "#1a1a1a",
+        "number": "06",
+        "numberLabel": "MAGICIAN",
+        "titleMain": "Dreams To Reality",
+        "titleAccent": "Make Magic",
+        "body": "Magician brands transform reality and inspire awe. Use dark mode, fluid gradients, and mystical purple-black accents.",
+        "heroKey": "CORE TRAIT",
+        "heroValue": "Transformation vision wonder",
+        "heroGlyph": "✦"
+      }
+    },
+    {
+      "layoutId": "cta-design-tile",
+      "slots": {
+        "pageOf": "8 / 8",
+        "authorInitials": "JD",
+        "authorName": "Jordan Doe",
+        "handle": "@jordandoe",
+        "avatarBg1": "#3a5eef",
+        "avatarBg2": "#ff5a28",
+        "themeColor": "#3a5eef",
+        "swatch1": "#f5b540",
+        "swatch2": "#ff5a28",
+        "swatch3": "#2dad6b",
+        "swatch4": "#1a1a1a",
+        "eyebrow": "YOUR PALETTE",
+        "headlineLine1": "Pick One Now",
+        "headlineAccent": "Archetype Locked",
+        "body": "Stop second-guessing every decision. Choose your archetype and build a brand that feels completely inevitable.",
+        "buttonLabel": "Save This Carousel"
+      }
+    }
+  ]
+}
