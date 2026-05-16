@@ -1,0 +1,88 @@
+{
+  "id": "founder-mistakes",
+  "brand": "FounderLog",
+  "brief": "8 mistakes I made as a first-time founder that cost me $250K.",
+  "theme": "ember-dark",
+  "slides": [
+    {
+      "layoutId": "cover-display-cta",
+      "slots": {
+        "pageNumber": "01",
+        "headlineLine1": "8 Founder Mistakes",
+        "headlineLine2": "Cost Me $250K",
+        "accentSuffix": "!"
+      }
+    },
+    {
+      "layoutId": "body-icon-centered",
+      "slots": {
+        "pageNumber": "02",
+        "title": "1. Hiring, the silent killer",
+        "body": "I built a six-person team before validating a single dollar of demand. Salaries consumed eighteen months of runway in under nine. Validate first.",
+        "iconSlug": "slack",
+        "iconColor": "#F2555A"
+      }
+    },
+    {
+      "layoutId": "body-icon-centered",
+      "slots": {
+        "pageNumber": "03",
+        "title": "2. Burn, the ignored math",
+        "body": "I spent forty thousand on ads without calculating CAC or LTV. Top-line growth masked the fact that we lost money on every sale.",
+        "iconSlug": "stripe",
+        "iconColor": "#635BFF"
+      }
+    },
+    {
+      "layoutId": "body-icon-centered",
+      "slots": {
+        "pageNumber": "04",
+        "title": "3. Code, the vanity trap",
+        "body": "We spent six months perfecting features no user asked for. Launch delays killed momentum and wasted developer hours we could never recover. Ship lean.",
+        "iconSlug": "vercel",
+        "iconColor": "#FFFFFF"
+      }
+    },
+    {
+      "layoutId": "body-icon-centered",
+      "slots": {
+        "pageNumber": "05",
+        "title": "4. Ego, the blindfold",
+        "body": "I skipped customer calls, assuming I understood the pain points. At launch, the product solved problems our target market did not actually have.",
+        "iconSlug": "discord",
+        "iconColor": "#5865F2"
+      }
+    },
+    {
+      "layoutId": "body-icon-centered",
+      "slots": {
+        "pageNumber": "06",
+        "title": "5. Books, the unread signal",
+        "body": "I commingled accounts and ignored monthly burn. By the time I reviewed the books, eighty thousand had vanished into untracked tools and subscriptions.",
+        "iconSlug": "notion",
+        "iconColor": "#FFFFFF"
+      }
+    },
+    {
+      "layoutId": "body-icon-centered",
+      "slots": {
+        "pageNumber": "07",
+        "title": "6. Scope, the focus killer",
+        "body": "I chased three verticals at once for quick revenue. Each pilot demanded custom work that diluted our roadmap until we served no one well.",
+        "iconSlug": "loom",
+        "iconColor": "#625DF5"
+      }
+    },
+    {
+      "layoutId": "cta-display-cta",
+      "slots": {
+        "pageNumber": "08",
+        "eyebrow": "YOUR MOVE",
+        "headline": "Avoid My $250K Mistakes",
+        "subline": "Save this post and audit your startup before you scale. Protect your runway.",
+        "buttonLabel": "Save this post",
+        "handle": "@founderlog"
+      }
+    }
+  ]
+}

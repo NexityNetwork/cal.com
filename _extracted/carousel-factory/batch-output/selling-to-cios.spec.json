@@ -1,0 +1,127 @@
+{
+  "id": "selling-to-cios",
+  "brand": "Jordan Vale",
+  "brief": "5 things that actually close enterprise deals — from a 7-figure sales leader.",
+  "theme": "linkedin-pro",
+  "slides": [
+    {
+      "layoutId": "cover-linkedin-pro",
+      "slots": {
+        "author": "Jordan Vale",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "1",
+        "accentColor": "#0a66c2",
+        "headline": "5 Things That Actually Close Enterprise Deals",
+        "heroSymbol": "🎯",
+        "heroBg": "#0a66c2",
+        "heroBg2": "#004182",
+        "body": "I’ve closed $10M+ in SaaS contracts. These five levers separate top performers from everyone else."
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Jordan Vale",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "2",
+        "accentColor": "#0a66c2",
+        "title": "Stop Pitching, Start Diagnosing",
+        "body": "Most reps lead with features. Top reps lead with curiosity. The best discovery call beats the best demo every time.",
+        "heroSymbol": "🔍",
+        "heroBg": "#0a66c2",
+        "heroBg2": "#004182",
+        "labelText": "CLOSE BIGGER DEALS"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Jordan Vale",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "3",
+        "accentColor": "#0a66c2",
+        "title": "Map The Power Map",
+        "body": "Know every stakeholder, their KPIs, and their personal win. If you don't know who can kill the deal, you haven't started.",
+        "heroSymbol": "🗺️",
+        "heroBg": "#0a66c2",
+        "heroBg2": "#004182",
+        "labelText": "CLOSE BIGGER DEALS"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Jordan Vale",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "4",
+        "accentColor": "#0a66c2",
+        "title": "Quantify The Cost of Inaction",
+        "body": "Build a business case with numbers the CFO trusts. ROI isn't a slide; it's the only thing that gets contracts signed.",
+        "heroSymbol": "📊",
+        "heroBg": "#0a66c2",
+        "heroBg2": "#004182",
+        "labelText": "CLOSE BIGGER DEALS"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Jordan Vale",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "5",
+        "accentColor": "#0a66c2",
+        "title": "Co-Create The Evaluation Plan",
+        "body": "Never leave the process to chance. Define milestones, mutual commitments, and what 'yes' looks like before the proposal ever goes out.",
+        "heroSymbol": "🤝",
+        "heroBg": "#0a66c2",
+        "heroBg2": "#004182",
+        "labelText": "CLOSE BIGGER DEALS"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Jordan Vale",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "6",
+        "accentColor": "#0a66c2",
+        "title": "Sell Outcomes, Not Features",
+        "body": "Buyers don't need more tools. They need a guaranteed outcome. Make your contract the lowest-risk option on their table.",
+        "heroSymbol": "🏆",
+        "heroBg": "#0a66c2",
+        "heroBg2": "#004182",
+        "labelText": "CLOSE BIGGER DEALS"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Jordan Vale",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "7",
+        "accentColor": "#0a66c2",
+        "title": "Secure The Internal Champion",
+        "body": "A deal without a champion is just a quote. Equip someone inside to sell for you when you're not in the room.",
+        "heroSymbol": "🛡️",
+        "heroBg": "#0a66c2",
+        "heroBg2": "#004182",
+        "labelText": "CLOSE BIGGER DEALS"
+      }
+    },
+    {
+      "layoutId": "cta-linkedin-pro",
+      "slots": {
+        "author": "Jordan Vale",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "8",
+        "accentColor": "#0a66c2",
+        "eyebrow": "YOUR TURN?",
+        "headline": "Which Lever Will You Pull First?",
+        "body": "Drop your best closing tactic in the comments. I'd love to hear what's working for you right now.",
+        "buttonLabel": "Follow for more",
+        "secondaryLabel": "Repost",
+        "handle": "@jordanvale"
+      }
+    }
+  ]
+}

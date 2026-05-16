@@ -1,0 +1,111 @@
+{
+  "id": "burnout",
+  "brand": "THE AMBER REVIEW",
+  "brief": "How to boost productivity without burnout. Editorial, lit-mag tone.",
+  "theme": "noir-yellow",
+  "slides": [
+    {
+      "layoutId": "cover-noir-yellow",
+      "slots": {
+        "brand": "THE AMBER REVIEW",
+        "scriptPrefix": "Consider",
+        "displayLine1": "THE ART",
+        "displayLine2": "OF SUSTAINED",
+        "displayLine3": "OUTPUT",
+        "scriptTagline": "How to get more done without losing your light.",
+        "handle": "@theamberreview",
+        "slideId": "Slide 01"
+      }
+    },
+    {
+      "layoutId": "body-noir-yellow",
+      "slots": {
+        "brand": "THE AMBER REVIEW",
+        "scriptPrefix": "Begin",
+        "displayLine1": "EMBRACE",
+        "displayLine2": "THE",
+        "displayLine3": "PAUSE",
+        "body": "Rest is not the opposite of labor. It is its silent partner. A blank page carries as much weight as the text.",
+        "handle": "@theamberreview",
+        "slideId": "Slide 02"
+      }
+    },
+    {
+      "layoutId": "body-noir-yellow",
+      "slots": {
+        "brand": "THE AMBER REVIEW",
+        "scriptPrefix": "Then",
+        "displayLine1": "PROTECT",
+        "displayLine2": "YOUR",
+        "displayLine3": "MORNINGS",
+        "body": "The first hour belongs to you alone. Guard it like a final draft. Deep work dies at the altar of notifications.",
+        "handle": "@theamberreview",
+        "slideId": "Slide 03"
+      }
+    },
+    {
+      "layoutId": "body-noir-yellow",
+      "slots": {
+        "brand": "THE AMBER REVIEW",
+        "scriptPrefix": "Remember",
+        "displayLine1": "DEPTH",
+        "displayLine2": "OVER",
+        "displayLine3": "VOLUME",
+        "body": "One true sentence outweighs a dozen hollow paragraphs. Measure output by resonance, not by word count alone.",
+        "handle": "@theamberreview",
+        "slideId": "Slide 04"
+      }
+    },
+    {
+      "layoutId": "body-noir-yellow",
+      "slots": {
+        "brand": "THE AMBER REVIEW",
+        "scriptPrefix": "Beware",
+        "displayLine1": "THE",
+        "displayLine2": "CULT OF",
+        "displayLine3": "BUSY",
+        "body": "Busyness is a cheap imitation of purpose. If your calendar is full, your mind is likely empty. Choose stillness.",
+        "handle": "@theamberreview",
+        "slideId": "Slide 05"
+      }
+    },
+    {
+      "layoutId": "body-noir-yellow",
+      "slots": {
+        "brand": "THE AMBER REVIEW",
+        "scriptPrefix": "Notice",
+        "displayLine1": "INSPIRATION",
+        "displayLine2": "IS NOT",
+        "displayLine3": "INFINITE",
+        "body": "Inspiration is not infinite. When the well runs dry, stop digging. Walk away before the page turns bitter.",
+        "handle": "@theamberreview",
+        "slideId": "Slide 06"
+      }
+    },
+    {
+      "layoutId": "body-noir-yellow",
+      "slots": {
+        "brand": "THE AMBER REVIEW",
+        "scriptPrefix": "Finally",
+        "displayLine1": "PRODUCTIVITY",
+        "displayLine2": "IS A LONG",
+        "displayLine3": "GAME",
+        "body": "Sustainability beats speed every time. The best careers are marathons written one careful page at a time.",
+        "handle": "@theamberreview",
+        "slideId": "Slide 07"
+      }
+    },
+    {
+      "layoutId": "cta-noir-yellow",
+      "slots": {
+        "brand": "THE AMBER REVIEW",
+        "scriptPrefix": "Begin",
+        "headline": "KEEP THE PEN MOVING",
+        "scriptTagline": "Your best work is waiting for you.",
+        "buttonLabel": "Start Today",
+        "handle": "@theamberreview",
+        "slideId": "Slide 08"
+      }
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "claude-code-stack",
+  "brand": "SoloStack",
+  "brief": "The Claude Code stack a one-person founder uses to ship like a 10-person team.",
+  "theme": "ember-dark",
+  "slides": [
+    {
+      "layoutId": "cover-display-cta",
+      "slots": {
+        "pageNumber": "01",
+        "headlineLine1": "Claude Code Stack",
+        "headlineLine2": "For Solo Founders",
+        "accentSuffix": "."
+      }
+    },
+    {
+      "layoutId": "body-icon-centered",
+      "slots": {
+        "pageNumber": "02",
+        "title": "1. Claude Code, the engineer",
+        "body": "Handles full-stack coding, debugging, and refactors. You describe features; it writes production-ready code across your entire codebase.",
+        "iconSlug": "anthropic",
+        "iconColor": "#D97757"
+      }
+    },
+    {
+      "layoutId": "body-icon-centered",
+      "slots": {
+        "pageNumber": "03",
+        "title": "2. Figma, the designer",
+        "body": "Design, prototype, and export assets without a design team. Component libraries keep your UI consistent and ship-ready.",
+        "iconSlug": "figma",
+        "iconColor": "#F24E1E"
+      }
+    },
+    {
+      "layoutId": "body-icon-centered",
+      "slots": {
+        "pageNumber": "04",
+        "title": "3. Next.js, the foundation",
+        "body": "Full-stack React framework with SSR and API routes. One codebase handles frontend, backend, and edge functions without separate teams.",
+        "iconSlug": "nextdotjs",
+        "iconColor": "#FFFFFF"
+      }
+    },
+    {
+      "layoutId": "body-icon-centered",
+      "slots": {
+        "pageNumber": "05",
+        "title": "4. Supabase, the backend",
+        "body": "Postgres database, auth, and storage without backend engineers. Row-level security replaces weeks of API development.",
+        "iconSlug": "supabase",
+        "iconColor": "#3ECF8E"
+      }
+    },
+    {
+      "layoutId": "body-icon-centered",
+      "slots": {
+        "pageNumber": "06",
+        "title": "5. Vercel, the pipeline",
+        "body": "Zero-config deployments with preview branches and analytics. Push to Git and your site ships globally in seconds.",
+        "iconSlug": "vercel",
+        "iconColor": "#FFFFFF"
+      }
+    },
+    {
+      "layoutId": "body-icon-centered",
+      "slots": {
+        "pageNumber": "07",
+        "title": "6. Stripe, the revenue",
+        "body": "Payments, billing, and invoicing infrastructure pre-built. Integrate once and start collecting revenue immediately.",
+        "iconSlug": "stripe",
+        "iconColor": "#635BFF"
+      }
+    },
+    {
+      "layoutId": "cta-display-cta",
+      "slots": {
+        "pageNumber": "08",
+        "eyebrow": "READY?",
+        "headline": "Start Shipping Tonight",
+        "subline": "One-person teams can outpace startups. Save this stack and ship your next feature today.",
+        "buttonLabel": "Save this post",
+        "handle": "@soloship"
+      }
+    }
+  ]
+}

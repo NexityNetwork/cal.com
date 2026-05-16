@@ -1,0 +1,93 @@
+{
+  "id": "saying-no",
+  "brand": "Founder Mode",
+  "brief": "5 lessons on saying no — from a founder who used to say yes to everything.",
+  "theme": "beige-paper",
+  "slides": [
+    {
+      "layoutId": "cover-beige-serif",
+      "slots": {
+        "brand": "Founder Mode",
+        "headline": "Six Boundary Lessons From a Founder Who Said Yes to All",
+        "slideCountHero": "6"
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "Founder Mode",
+        "number": "01",
+        "title": "The Yes Trap",
+        "body": "Early in my journey, I believed every opportunity was a door I had to walk through. Saying yes felt safe, generous, and ambitious. Over time, it diluted my focus and drained my energy until my calendar owned me.",
+        "handle": "@foundermode",
+        "domain": "foundermode.com"
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "Founder Mode",
+        "number": "02",
+        "title": "Pause Before Promising",
+        "body": "The urge to answer immediately often comes from people-pleasing, not clarity. I now default to a twenty-four-hour buffer for any non-trivial request. That single pause protects my priorities and preserves relationships.",
+        "handle": "@foundermode",
+        "domain": "foundermode.com"
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "Founder Mode",
+        "number": "03",
+        "title": "No Is Complete",
+        "body": "You do not owe anyone a dissertation on why you are unavailable. A kind but firm decline respects both parties far more than a reluctant yes. Boundaries are not betrayals.",
+        "handle": "@foundermode",
+        "domain": "foundermode.com"
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "Founder Mode",
+        "number": "04",
+        "title": "Protect Core Hours",
+        "body": "I blocked my mornings for deep work and labeled them non-negotiable. When requests collide with those blocks, the answer is automatically no unless catastrophe strikes. Your calendar should reflect your values.",
+        "handle": "@foundermode",
+        "domain": "foundermode.com"
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "Founder Mode",
+        "number": "05",
+        "title": "Delegate the Yes",
+        "body": "Not every opportunity needs your personal touch to be valuable. I began asking whether someone else on my team could handle the request with equal care. Saying no personally can still mean yes collectively.",
+        "handle": "@foundermode",
+        "domain": "foundermode.com"
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "Founder Mode",
+        "number": "06",
+        "title": "Measure Opportunity Cost",
+        "body": "Every yes is an invisible no to something else you care about. Before committing, I ask what trade-off I am willing to make. If the cost is my health or focus, the answer is clear.",
+        "handle": "@foundermode",
+        "domain": "foundermode.com"
+      }
+    },
+    {
+      "layoutId": "cta-beige-serif",
+      "slots": {
+        "brand": "Founder Mode",
+        "eyebrow": "YOUR TURN",
+        "headline": "Reclaim Your Calendar Now",
+        "body": "Start small and pick one request to decline this week. Your future self will thank you as your focus returns.",
+        "buttonLabel": "SET BOUNDARIES",
+        "handle": "@foundermode"
+      }
+    }
+  ]
+}

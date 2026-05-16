@@ -1,0 +1,219 @@
+{
+  "slides": [
+    {
+      "index": 0,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/reading-list/slide-01.png",
+      "bytes": 104378,
+      "qa": {
+        "verdict": "fail",
+        "checks": {
+          "has_frame": false,
+          "no_unfilled_slots": true,
+          "has_page_badge": false
+        },
+        "issues": [
+          "missing .frame container"
+        ]
+      },
+      "fingerprint": {
+        "layout": "unknown",
+        "elements": {}
+      }
+    },
+    {
+      "index": 1,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/reading-list/slide-02.png",
+      "bytes": 345266,
+      "qa": {
+        "verdict": "fail",
+        "checks": {
+          "has_frame": false,
+          "no_unfilled_slots": true,
+          "has_page_badge": false
+        },
+        "issues": [
+          "missing .frame container"
+        ]
+      },
+      "fingerprint": {
+        "layout": "unknown",
+        "elements": {}
+      }
+    },
+    {
+      "index": 2,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/reading-list/slide-03.png",
+      "bytes": 340081,
+      "qa": {
+        "verdict": "fail",
+        "checks": {
+          "has_frame": false,
+          "no_unfilled_slots": true,
+          "has_page_badge": false
+        },
+        "issues": [
+          "missing .frame container"
+        ]
+      },
+      "fingerprint": {
+        "layout": "unknown",
+        "elements": {}
+      }
+    },
+    {
+      "index": 3,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/reading-list/slide-04.png",
+      "bytes": 346685,
+      "qa": {
+        "verdict": "fail",
+        "checks": {
+          "has_frame": false,
+          "no_unfilled_slots": true,
+          "has_page_badge": false
+        },
+        "issues": [
+          "missing .frame container"
+        ]
+      },
+      "fingerprint": {
+        "layout": "unknown",
+        "elements": {}
+      }
+    },
+    {
+      "index": 4,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/reading-list/slide-05.png",
+      "bytes": 345433,
+      "qa": {
+        "verdict": "fail",
+        "checks": {
+          "has_frame": false,
+          "no_unfilled_slots": true,
+          "has_page_badge": false
+        },
+        "issues": [
+          "missing .frame container"
+        ]
+      },
+      "fingerprint": {
+        "layout": "unknown",
+        "elements": {}
+      }
+    },
+    {
+      "index": 5,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/reading-list/slide-06.png",
+      "bytes": 336472,
+      "qa": {
+        "verdict": "fail",
+        "checks": {
+          "has_frame": false,
+          "no_unfilled_slots": true,
+          "has_page_badge": false
+        },
+        "issues": [
+          "missing .frame container"
+        ]
+      },
+      "fingerprint": {
+        "layout": "unknown",
+        "elements": {}
+      }
+    },
+    {
+      "index": 6,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/reading-list/slide-07.png",
+      "bytes": 336265,
+      "qa": {
+        "verdict": "fail",
+        "checks": {
+          "has_frame": false,
+          "no_unfilled_slots": true,
+          "has_page_badge": false
+        },
+        "issues": [
+          "missing .frame container"
+        ]
+      },
+      "fingerprint": {
+        "layout": "unknown",
+        "elements": {}
+      }
+    },
+    {
+      "index": 7,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/reading-list/slide-08.png",
+      "bytes": 65182,
+      "qa": {
+        "verdict": "fail",
+        "checks": {
+          "has_frame": false,
+          "no_unfilled_slots": true,
+          "has_page_badge": false
+        },
+        "issues": [
+          "missing .frame container"
+        ]
+      },
+      "fingerprint": {
+        "layout": "unknown",
+        "elements": {}
+      }
+    }
+  ],
+  "carouselQa": {
+    "verdict": "pass",
+    "issues": [],
+    "adjacencyChecks": [
+      {
+        "between": [
+          1,
+          2
+        ],
+        "similarity": 0
+      },
+      {
+        "between": [
+          2,
+          3
+        ],
+        "similarity": 0
+      },
+      {
+        "between": [
+          3,
+          4
+        ],
+        "similarity": 0
+      },
+      {
+        "between": [
+          4,
+          5
+        ],
+        "similarity": 0
+      },
+      {
+        "between": [
+          5,
+          6
+        ],
+        "similarity": 0
+      },
+      {
+        "between": [
+          6,
+          7
+        ],
+        "similarity": 0
+      },
+      {
+        "between": [
+          7,
+          8
+        ],
+        "similarity": 0
+      }
+    ]
+  }
+}

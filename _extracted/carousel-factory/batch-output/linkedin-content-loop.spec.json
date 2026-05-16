@@ -1,0 +1,127 @@
+{
+  "id": "linkedin-content-loop",
+  "brand": "Jordan Lee",
+  "brief": "The LinkedIn content loop that built a 50K following in 6 months.",
+  "theme": "linkedin-pro",
+  "slides": [
+    {
+      "layoutId": "cover-linkedin-pro",
+      "slots": {
+        "author": "Jordan Lee",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "1",
+        "accentColor": "#4f3df5",
+        "headline": "The Content Loop Behind 50K Followers",
+        "heroSymbol": "50",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#8b5cf6",
+        "body": "This repeatable system turned one idea into twelve posts weekly. No burnout. Just compounding growth."
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Jordan Lee",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "2",
+        "accentColor": "#4f3df5",
+        "title": "Start With One Core Idea",
+        "body": "Every post begins with a single problem your audience faces daily. Solve it simply.",
+        "heroSymbol": "1",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#8b5cf6",
+        "labelText": "THE LINKEDIN LOOP"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Jordan Lee",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "3",
+        "accentColor": "#4f3df5",
+        "title": "Break It Into Micro-Insights",
+        "body": "Turn that idea into five bite-sized tips. Each tip becomes its own slide.",
+        "heroSymbol": "5",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#8b5cf6",
+        "labelText": "THE LINKEDIN LOOP"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Jordan Lee",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "4",
+        "accentColor": "#4f3df5",
+        "title": "Hook Them in Three Seconds",
+        "body": "Your first slide must stop the scroll. Use a bold claim or a counterintuitive truth.",
+        "heroSymbol": "3",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#8b5cf6",
+        "labelText": "THE LINKEDIN LOOP"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Jordan Lee",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "5",
+        "accentColor": "#4f3df5",
+        "title": "Design for Mobile Reading",
+        "body": "Big font. White space. One idea per slide. If they squint, they scroll past.",
+        "heroSymbol": "Aa",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#8b5cf6",
+        "labelText": "THE LINKEDIN LOOP"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Jordan Lee",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "6",
+        "accentColor": "#4f3df5",
+        "title": "Recycle Top Performers Monthly",
+        "body": "Double down on what worked. Repurpose your best carousel into a post, poll, or comment.",
+        "heroSymbol": "↻",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#8b5cf6",
+        "labelText": "THE LINKEDIN LOOP"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Jordan Lee",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "7",
+        "accentColor": "#4f3df5",
+        "title": "Close With a Clear CTA",
+        "body": "Tell readers exactly what to do next. Follow, comment, or save for later reference.",
+        "heroSymbol": "→",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#8b5cf6",
+        "labelText": "THE LINKEDIN LOOP"
+      }
+    },
+    {
+      "layoutId": "cta-linkedin-pro",
+      "slots": {
+        "author": "Jordan Lee",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "8",
+        "accentColor": "#4f3df5",
+        "eyebrow": "YOUR TURN?",
+        "headline": "Ready to Build Your Loop?",
+        "body": "Save this carousel and start your first loop today. Consistency beats perfection.",
+        "buttonLabel": "Follow for More",
+        "secondaryLabel": "Share",
+        "handle": "@jordanlee"
+      }
+    }
+  ]
+}

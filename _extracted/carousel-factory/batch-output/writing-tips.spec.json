@@ -1,0 +1,93 @@
+{
+  "id": "writing-tips",
+  "brand": "Typewise",
+  "brief": "6 writing tips for founders who hate writing.",
+  "theme": "beige-paper",
+  "slides": [
+    {
+      "layoutId": "cover-beige-serif",
+      "slots": {
+        "brand": "Typewise",
+        "headline": "Six Writing Tips for Founders Who Truly Hate Writing",
+        "slideCountHero": "6"
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "Typewise",
+        "number": "01",
+        "title": "Talk, Don't Type",
+        "body": "Record your thoughts as a voice memo, then transcribe them. Speaking naturally unlocks ideas faster than staring at a blank page. Edit the transcript into clean copy.",
+        "handle": "@typewise",
+        "domain": "typewise.com"
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "Typewise",
+        "number": "02",
+        "title": "One Messy Draft",
+        "body": "Give yourself permission to write badly on the first pass. Perfectionism kills momentum before a single sentence is finished. You can polish raw ideas, but you cannot edit an empty screen.",
+        "handle": "@typewise",
+        "domain": "typewise.com"
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "Typewise",
+        "number": "03",
+        "title": "Use Simple Structure",
+        "body": "Start with the problem, present your solution, then add proof. This three-part framework removes guesswork from every landing page or email. Clarity beats cleverness when you are selling trust.",
+        "handle": "@typewise",
+        "domain": "typewise.com"
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "Typewise",
+        "number": "04",
+        "title": "Set a Timer",
+        "body": "Limit writing sprints to fifteen minutes to silence your inner critic. A tight deadline forces decisions and prevents endless rewriting. You will be surprised how much usable copy appears under pressure.",
+        "handle": "@typewise",
+        "domain": "typewise.com"
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "Typewise",
+        "number": "05",
+        "title": "Copy Your Customers",
+        "body": "Pull phrases from customer reviews, sales calls, and support tickets. Your audience already describes the problem in words that convert. Borrow their language instead of inventing jargon from scratch.",
+        "handle": "@typewise",
+        "domain": "typewise.com"
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "Typewise",
+        "number": "06",
+        "title": "Hire an Editor",
+        "body": "You do not need to be the final polish. Get the ideas down, then hand them to an editor. Great founders delegate refinement so they can keep building.",
+        "handle": "@typewise",
+        "domain": "typewise.com"
+      }
+    },
+    {
+      "layoutId": "cta-beige-serif",
+      "slots": {
+        "brand": "Typewise",
+        "eyebrow": "START WRITING",
+        "headline": "Turn Thoughts Into Copy",
+        "body": "Apply these tips today and watch your content finally get finished. Your message matters more than perfect prose.",
+        "buttonLabel": "GRAB THE GUIDE",
+        "handle": "@typewise"
+      }
+    }
+  ]
+}

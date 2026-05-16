@@ -1,0 +1,127 @@
+{
+  "id": "remote-work",
+  "brand": "Maya Torres",
+  "brief": "The 6 habits of the highest-performing remote teams in 2026.",
+  "theme": "linkedin-pro",
+  "slides": [
+    {
+      "layoutId": "cover-linkedin-pro",
+      "slots": {
+        "author": "Maya Torres",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "1",
+        "accentColor": "#4f3df5",
+        "headline": "6 Habits of Elite Remote Teams in 2026",
+        "heroSymbol": "⚡",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#8b5cf6",
+        "body": "Remote work has evolved. Here are the six habits top teams use to stay ahead this year."
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Maya Torres",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "2",
+        "accentColor": "#4f3df5",
+        "title": "Async-First Documentation",
+        "body": "Every decision lives in a doc. No one hunts through DMs for context ever again.",
+        "heroSymbol": "📝",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#8b5cf6",
+        "labelText": "HIGH-PERFORMING REMOTE TEAMS"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Maya Torres",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "3",
+        "accentColor": "#4f3df5",
+        "title": "Deep Focus Blocks",
+        "body": "Top teams block three-hour chunks for deep work. Meetings never break the flow state.",
+        "heroSymbol": "🎯",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#8b5cf6",
+        "labelText": "HIGH-PERFORMING REMOTE TEAMS"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Maya Torres",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "4",
+        "accentColor": "#4f3df5",
+        "title": "Outcome-Based Goals",
+        "body": "They ditch hours tracked for output measured. Results matter more than online status.",
+        "heroSymbol": "🏆",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#8b5cf6",
+        "labelText": "HIGH-PERFORMING REMOTE TEAMS"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Maya Torres",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "5",
+        "accentColor": "#4f3df5",
+        "title": "Intentional Connection Rituals",
+        "body": "From virtual coffees to celebration channels, they design culture instead of leaving it to chance.",
+        "heroSymbol": "🤝",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#8b5cf6",
+        "labelText": "HIGH-PERFORMING REMOTE TEAMS"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Maya Torres",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "6",
+        "accentColor": "#4f3df5",
+        "title": "Radical Transparency",
+        "body": "Dashboards are open by default. Everyone sees metrics, roadmaps, and blockers in real time.",
+        "heroSymbol": "🔍",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#8b5cf6",
+        "labelText": "HIGH-PERFORMING REMOTE TEAMS"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Maya Torres",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "7",
+        "accentColor": "#4f3df5",
+        "title": "Async Video Updates",
+        "body": "They replace status meetings with short Looms. Information travels faster across every timezone.",
+        "heroSymbol": "🎥",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#8b5cf6",
+        "labelText": "HIGH-PERFORMING REMOTE TEAMS"
+      }
+    },
+    {
+      "layoutId": "cta-linkedin-pro",
+      "slots": {
+        "author": "Maya Torres",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "8",
+        "accentColor": "#4f3df5",
+        "eyebrow": "YOUR TURN?",
+        "headline": "Which Habit Will You Start First?",
+        "body": "Drop a comment below and share this with your remote team.",
+        "buttonLabel": "Follow for more",
+        "secondaryLabel": "Repost",
+        "handle": "@mayatorres"
+      }
+    }
+  ]
+}

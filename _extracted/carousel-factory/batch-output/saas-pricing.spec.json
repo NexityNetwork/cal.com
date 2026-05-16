@@ -1,0 +1,127 @@
+{
+  "id": "saas-pricing",
+  "brand": "Jordan Lee",
+  "brief": "5 SaaS pricing models that print money in 2026. Tactical breakdown.",
+  "theme": "linkedin-pro",
+  "slides": [
+    {
+      "layoutId": "cover-linkedin-pro",
+      "slots": {
+        "author": "Jordan Lee",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "1",
+        "accentColor": "#4f3df5",
+        "headline": "5 Pricing Models That Print Money in 2026",
+        "heroSymbol": "$$",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#8b5cf6",
+        "body": "Tactical breakdown of the revenue engines powering next year's fastest-growing software companies. Pick the right model to scale."
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Jordan Lee",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "2",
+        "accentColor": "#4f3df5",
+        "title": "Why Pricing Matters Now",
+        "body": "Your pricing strategy is your most powerful growth lever. Small tweaks can unlock massive revenue without adding headcount.",
+        "heroSymbol": "⚡",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#8b5cf6",
+        "labelText": "PRINT MONEY IN 2026"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Jordan Lee",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "3",
+        "accentColor": "#4f3df5",
+        "title": "Usage-Based Billing Model",
+        "body": "Charge by API calls, storage, or seats used. Revenue climbs automatically as your customers grow and succeed.",
+        "heroSymbol": "⚖",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#8b5cf6",
+        "labelText": "PRINT MONEY IN 2026"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Jordan Lee",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "4",
+        "accentColor": "#4f3df5",
+        "title": "Tiered Plan Strategy",
+        "body": "Three clear options anchor value and nudge upgrades. Most buyers pick the middle tier, lifting average deal size.",
+        "heroSymbol": "▲",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#8b5cf6",
+        "labelText": "PRINT MONEY IN 2026"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Jordan Lee",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "5",
+        "accentColor": "#4f3df5",
+        "title": "Modular Feature Pricing",
+        "body": "Break core features from premium power-ups. Let users customize their stack while you capture more expansion revenue.",
+        "heroSymbol": "+",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#8b5cf6",
+        "labelText": "PRINT MONEY IN 2026"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Jordan Lee",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "6",
+        "accentColor": "#4f3df5",
+        "title": "Freemium to Premium",
+        "body": "Free tiers drive rapid user adoption. Monetize later with usage limits, advanced features, and enterprise-grade support tiers.",
+        "heroSymbol": "🎁",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#8b5cf6",
+        "labelText": "PRINT MONEY IN 2026"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Jordan Lee",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "7",
+        "accentColor": "#4f3df5",
+        "title": "Outcome-Based Pricing Model",
+        "body": "Align fees to customer ROI or savings. It reduces churn and justifies premium rates that traditional models cannot.",
+        "heroSymbol": "🔗",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#8b5cf6",
+        "labelText": "PRINT MONEY IN 2026"
+      }
+    },
+    {
+      "layoutId": "cta-linkedin-pro",
+      "slots": {
+        "author": "Jordan Lee",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "8",
+        "accentColor": "#4f3df5",
+        "eyebrow": "YOUR TURN?",
+        "headline": "Which Model Fits You?",
+        "body": "Drop your current pricing strategy in the comments. I will reply with one tweak to boost revenue.",
+        "buttonLabel": "Follow for More",
+        "secondaryLabel": "Repost",
+        "handle": "@jordanlee"
+      }
+    }
+  ]
+}

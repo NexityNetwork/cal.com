@@ -1,0 +1,93 @@
+{
+  "id": "reading-list",
+  "brand": "Founder Notes",
+  "brief": "6 books that quietly changed how I run a company. Why each one mattered.",
+  "theme": "beige-paper",
+  "slides": [
+    {
+      "layoutId": "cover-beige-serif",
+      "slots": {
+        "brand": "Founder Notes",
+        "headline": "Six Books That Quietly Changed How I Lead a Company",
+        "slideCountHero": "6"
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "Founder Notes",
+        "number": "01",
+        "title": "Effectiveness First",
+        "body": "Drucker taught me that doing things right is less important than doing the right things. I stopped glorifying busywork and started measuring contribution. Now my calendar reflects priorities, not just presence.",
+        "handle": "@x",
+        "domain": "x.com"
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "Founder Notes",
+        "number": "02",
+        "title": "Output Over Activity",
+        "body": "Grove turned management into a production process. I learned to identify leverage points and measure real output rather than hours spent. Meetings became forums for decisions, not rituals.",
+        "handle": "@x",
+        "domain": "x.com"
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "Founder Notes",
+        "number": "03",
+        "title": "Embrace The Struggle",
+        "body": "Horowitz made peace with the messy middle. I stopped searching for perfect playbooks and started building muscle for the moments when there are no good answers. Resilience became an operating system.",
+        "handle": "@x",
+        "domain": "x.com"
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "Founder Notes",
+        "number": "04",
+        "title": "Push Authority Down",
+        "body": "Marquet proved that leaders should push authority to information, not the other way around. I replaced top-down approval with intent-based leadership. My team moves faster and owns outcomes instead of tasks.",
+        "handle": "@x",
+        "domain": "x.com"
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "Founder Notes",
+        "number": "05",
+        "title": "Think In Probabilities",
+        "body": "Duke taught me to separate decision quality from outcome luck. I now review process over results and reward calibrated thinking even when bets lose. Clarity replaced hindsight bias.",
+        "handle": "@x",
+        "domain": "x.com"
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "Founder Notes",
+        "number": "06",
+        "title": "Find The Constraint",
+        "body": "Goldratt revealed that every system has one bottleneck. I stopped optimizing every department and started protecting the constraint. Flow improved and firefighting became rare.",
+        "handle": "@x",
+        "domain": "x.com"
+      }
+    },
+    {
+      "layoutId": "cta-beige-serif",
+      "slots": {
+        "brand": "Founder Notes",
+        "eyebrow": "YOUR TURN NOW",
+        "headline": "What Book Changed You?",
+        "body": "Share the one book that reshaped how you lead. I am always hunting for the next quiet game-changer.",
+        "buttonLabel": "SHARE YOUR PICK",
+        "handle": "@x"
+      }
+    }
+  ]
+}
