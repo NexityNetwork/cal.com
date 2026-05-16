@@ -1,0 +1,143 @@
+{
+  "id": "typo-fonts-pairing",
+  "brand": "TypeKit",
+  "brief": "Stop pairing fonts wrong — 6 rules typographers use to make any combo work.",
+  "theme": "typo-sample",
+  "slides": [
+    {
+      "layoutId": "cover-typo-sample",
+      "slots": {
+        "pageOf": "1 / 8",
+        "authorInitials": "TK",
+        "authorName": "TypeKit",
+        "handle": "@typekit",
+        "avatarBg1": "#d65f3e",
+        "avatarBg2": "#f7f2ea",
+        "specimen1": "Aa",
+        "specimen2": "Bb",
+        "titleLine1": "The Ultimate Guide to",
+        "titleItalic": "Perfect Pairs",
+        "body": "Stop pairing fonts wrong — 6 rules typographers use to make any combo work."
+      }
+    },
+    {
+      "layoutId": "body-typo-sample",
+      "slots": {
+        "pageOf": "2 / 8",
+        "authorInitials": "TK",
+        "authorName": "TypeKit",
+        "handle": "@typekit",
+        "avatarBg1": "#d65f3e",
+        "avatarBg2": "#f7f2ea",
+        "number": "01",
+        "numberLabel": "RULE 01",
+        "title": "Contrast with Purpose",
+        "titleItalic": "Not Chaos",
+        "body": "Pair fonts that differ in weight or structure, but share a similar mood. Random contrast creates visual noise, not harmony.",
+        "quote": "Difference should clarify, not compete."
+      }
+    },
+    {
+      "layoutId": "body-typo-sample",
+      "slots": {
+        "pageOf": "3 / 8",
+        "authorInitials": "TK",
+        "authorName": "TypeKit",
+        "handle": "@typekit",
+        "avatarBg1": "#d65f3e",
+        "avatarBg2": "#f7f2ea",
+        "number": "02",
+        "numberLabel": "RULE 02",
+        "title": "Limit Your Font",
+        "titleItalic": "Families",
+        "body": "Use two typefaces maximum for any layout. A third font is only justified when you need a distinct accent for data or code.",
+        "quote": "Restraint is the mark of a pro."
+      }
+    },
+    {
+      "layoutId": "body-typo-sample",
+      "slots": {
+        "pageOf": "4 / 8",
+        "authorInitials": "TK",
+        "authorName": "TypeKit",
+        "handle": "@typekit",
+        "avatarBg1": "#d65f3e",
+        "avatarBg2": "#f7f2ea",
+        "number": "03",
+        "numberLabel": "RULE 03",
+        "title": "Match the Mood",
+        "titleItalic": "Exactly",
+        "body": "A playful script clashes with a stern slab serif. Check the era and tone of both fonts before you commit to the marriage.",
+        "quote": "Tone is invisible but deafening."
+      }
+    },
+    {
+      "layoutId": "body-typo-sample",
+      "slots": {
+        "pageOf": "5 / 8",
+        "authorInitials": "TK",
+        "authorName": "TypeKit",
+        "handle": "@typekit",
+        "avatarBg1": "#d65f3e",
+        "avatarBg2": "#f7f2ea",
+        "number": "04",
+        "numberLabel": "RULE 04",
+        "title": "Give Every Font",
+        "titleItalic": "One Job",
+        "body": "Assign clear roles to each typeface. Let one command attention as the display face while the other serves quiet duty for reading body copy.",
+        "quote": "Hierarchy lives in division of labor."
+      }
+    },
+    {
+      "layoutId": "body-typo-sample",
+      "slots": {
+        "pageOf": "6 / 8",
+        "authorInitials": "TK",
+        "authorName": "TypeKit",
+        "handle": "@typekit",
+        "avatarBg1": "#d65f3e",
+        "avatarBg2": "#f7f2ea",
+        "number": "05",
+        "numberLabel": "RULE 05",
+        "title": "Check Your Lowercase",
+        "titleItalic": "Heights",
+        "body": "If lowercase letters sit at wildly different heights, your text will feel bumpy. Align the x-height for seamless pairing across sizes.",
+        "quote": "The baseline is a promise."
+      }
+    },
+    {
+      "layoutId": "body-typo-sample",
+      "slots": {
+        "pageOf": "7 / 8",
+        "authorInitials": "TK",
+        "authorName": "TypeKit",
+        "handle": "@typekit",
+        "avatarBg1": "#d65f3e",
+        "avatarBg2": "#f7f2ea",
+        "number": "06",
+        "numberLabel": "RULE 06",
+        "title": "Test at Every",
+        "titleItalic": "Size",
+        "body": "A pairing that sings at poster scale may crumble in captions. Scale your test from thumbnail to billboard before shipping the final file.",
+        "quote": "Context is the final critic."
+      }
+    },
+    {
+      "layoutId": "cta-typo-sample",
+      "slots": {
+        "pageOf": "8 / 8",
+        "authorInitials": "TK",
+        "authorName": "TypeKit",
+        "handle": "@typekit",
+        "avatarBg1": "#d65f3e",
+        "avatarBg2": "#f7f2ea",
+        "eyebrow": "YOUR TURN",
+        "headlineLine1": "Start Pairing",
+        "headlineItalic": "Like a Pro",
+        "body": "Save this carousel and apply one rule to your next design project today.",
+        "buttonLabel": "Follow for More",
+        "secondaryLabel": "for your feed"
+      }
+    }
+  ]
+}

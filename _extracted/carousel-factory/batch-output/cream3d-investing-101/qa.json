@@ -1,0 +1,187 @@
+{
+  "slides": [
+    {
+      "index": 0,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/cream3d-investing-101/slide-01.png",
+      "bytes": 185011,
+      "qa": {
+        "verdict": "pass",
+        "checks": {
+          "no_unfilled_slots": true
+        },
+        "issues": []
+      },
+      "fingerprint": {
+        "layout": "unknown",
+        "elements": {}
+      }
+    },
+    {
+      "index": 1,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/cream3d-investing-101/slide-02.png",
+      "bytes": 171000,
+      "qa": {
+        "verdict": "pass",
+        "checks": {
+          "no_unfilled_slots": true
+        },
+        "issues": []
+      },
+      "fingerprint": {
+        "layout": "unknown",
+        "elements": {}
+      }
+    },
+    {
+      "index": 2,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/cream3d-investing-101/slide-03.png",
+      "bytes": 168444,
+      "qa": {
+        "verdict": "pass",
+        "checks": {
+          "no_unfilled_slots": true
+        },
+        "issues": []
+      },
+      "fingerprint": {
+        "layout": "unknown",
+        "elements": {}
+      }
+    },
+    {
+      "index": 3,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/cream3d-investing-101/slide-04.png",
+      "bytes": 164994,
+      "qa": {
+        "verdict": "pass",
+        "checks": {
+          "no_unfilled_slots": true
+        },
+        "issues": []
+      },
+      "fingerprint": {
+        "layout": "unknown",
+        "elements": {}
+      }
+    },
+    {
+      "index": 4,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/cream3d-investing-101/slide-05.png",
+      "bytes": 167041,
+      "qa": {
+        "verdict": "pass",
+        "checks": {
+          "no_unfilled_slots": true
+        },
+        "issues": []
+      },
+      "fingerprint": {
+        "layout": "unknown",
+        "elements": {}
+      }
+    },
+    {
+      "index": 5,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/cream3d-investing-101/slide-06.png",
+      "bytes": 170920,
+      "qa": {
+        "verdict": "pass",
+        "checks": {
+          "no_unfilled_slots": true
+        },
+        "issues": []
+      },
+      "fingerprint": {
+        "layout": "unknown",
+        "elements": {}
+      }
+    },
+    {
+      "index": 6,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/cream3d-investing-101/slide-07.png",
+      "bytes": 166884,
+      "qa": {
+        "verdict": "pass",
+        "checks": {
+          "no_unfilled_slots": true
+        },
+        "issues": []
+      },
+      "fingerprint": {
+        "layout": "unknown",
+        "elements": {}
+      }
+    },
+    {
+      "index": 7,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/cream3d-investing-101/slide-08.png",
+      "bytes": 135227,
+      "qa": {
+        "verdict": "pass",
+        "checks": {
+          "no_unfilled_slots": true
+        },
+        "issues": []
+      },
+      "fingerprint": {
+        "layout": "unknown",
+        "elements": {}
+      }
+    }
+  ],
+  "carouselQa": {
+    "verdict": "pass",
+    "issues": [],
+    "adjacencyChecks": [
+      {
+        "between": [
+          1,
+          2
+        ],
+        "similarity": 0
+      },
+      {
+        "between": [
+          2,
+          3
+        ],
+        "similarity": 0
+      },
+      {
+        "between": [
+          3,
+          4
+        ],
+        "similarity": 0
+      },
+      {
+        "between": [
+          4,
+          5
+        ],
+        "similarity": 0
+      },
+      {
+        "between": [
+          5,
+          6
+        ],
+        "similarity": 0
+      },
+      {
+        "between": [
+          6,
+          7
+        ],
+        "similarity": 0
+      },
+      {
+        "between": [
+          7,
+          8
+        ],
+        "similarity": 0
+      }
+    ]
+  }
+}

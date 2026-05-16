@@ -1,0 +1,140 @@
+{
+  "id": "cream3d-investing-101",
+  "brand": "Creator Capital",
+  "brief": "Investing 101 for creators — 6 boring habits that built my $500K portfolio.",
+  "theme": "cream-3d",
+  "slides": [
+    {
+      "layoutId": "cover-cream-3d",
+      "slots": {
+        "pageOf": "1 / 8",
+        "authorInitials": "JL",
+        "authorName": "Jordan Lee",
+        "handle": "@jordanmoney",
+        "avatarBg1": "#c4541f",
+        "avatarBg2": "#f0ebe1",
+        "titleLine1": "6 Boring Habits",
+        "titleAccent": "Worth $500K",
+        "badgeText": "Read in 5 minutes"
+      }
+    },
+    {
+      "layoutId": "body-cream-3d",
+      "slots": {
+        "pageOf": "2 / 8",
+        "authorInitials": "JL",
+        "authorName": "Jordan Lee",
+        "handle": "@jordanmoney",
+        "avatarBg1": "#c4541f",
+        "avatarBg2": "#f0ebe1",
+        "numberLabel": "HABIT 01",
+        "title": "Automate Every Dollar",
+        "body": "Set automatic transfers to your brokerage on payday. You can't spend what you never see. Consistency beats timing.",
+        "tipLabel": "PRO TIP",
+        "tipBody": "Start with just 10% of every payment you receive.",
+        "shapeLabel": "Auto-pilot wealth"
+      }
+    },
+    {
+      "layoutId": "body-cream-3d",
+      "slots": {
+        "pageOf": "3 / 8",
+        "authorInitials": "JL",
+        "authorName": "Jordan Lee",
+        "handle": "@jordanmoney",
+        "avatarBg1": "#c4541f",
+        "avatarBg2": "#f0ebe1",
+        "numberLabel": "HABIT 02",
+        "title": "Buy Index Funds Only",
+        "body": "Stop picking individual stocks. Low-cost index funds match the market and erase emotional trading mistakes instantly.",
+        "tipLabel": "PRO TIP",
+        "tipBody": "Vanguard and Fidelity offer expense ratios under 0.05%.",
+        "shapeLabel": "Market growth"
+      }
+    },
+    {
+      "layoutId": "body-cream-3d",
+      "slots": {
+        "pageOf": "4 / 8",
+        "authorInitials": "JL",
+        "authorName": "Jordan Lee",
+        "handle": "@jordanmoney",
+        "avatarBg1": "#c4541f",
+        "avatarBg2": "#f0ebe1",
+        "numberLabel": "HABIT 03",
+        "title": "Ignore Financial Noise",
+        "body": "Unsubscribe from market hype channels. News cycles sell fear, not returns. Your portfolio grows in silence.",
+        "tipLabel": "PRO TIP",
+        "tipBody": "Check your investments only once per quarter.",
+        "shapeLabel": "Quiet compounding"
+      }
+    },
+    {
+      "layoutId": "body-cream-3d",
+      "slots": {
+        "pageOf": "5 / 8",
+        "authorInitials": "JL",
+        "authorName": "Jordan Lee",
+        "handle": "@jordanmoney",
+        "avatarBg1": "#c4541f",
+        "avatarBg2": "#f0ebe1",
+        "numberLabel": "HABIT 04",
+        "title": "Build a Cash Cushion",
+        "body": "Creators have irregular income. Keep twelve months of expenses saved before you invest aggressively.",
+        "tipLabel": "PRO TIP",
+        "tipBody": "Park emergency cash in a high-yield savings account.",
+        "shapeLabel": "Safety buffer"
+      }
+    },
+    {
+      "layoutId": "body-cream-3d",
+      "slots": {
+        "pageOf": "6 / 8",
+        "authorInitials": "JL",
+        "authorName": "Jordan Lee",
+        "handle": "@jordanmoney",
+        "avatarBg1": "#c4541f",
+        "avatarBg2": "#f0ebe1",
+        "numberLabel": "HABIT 05",
+        "title": "Max Tax Advantaged Accounts",
+        "body": "Open a SEP-IRA or Solo 401k. Every dollar you shelter from taxes compounds faster over decades.",
+        "tipLabel": "PRO TIP",
+        "tipBody": "Contributions can reduce your taxable income significantly.",
+        "shapeLabel": "Tax shield"
+      }
+    },
+    {
+      "layoutId": "body-cream-3d",
+      "slots": {
+        "pageOf": "7 / 8",
+        "authorInitials": "JL",
+        "authorName": "Jordan Lee",
+        "handle": "@jordanmoney",
+        "avatarBg1": "#c4541f",
+        "avatarBg2": "#f0ebe1",
+        "numberLabel": "HABIT 06",
+        "title": "Reinvest All Dividends",
+        "body": "Turn on DRIP for every holding. Those small payments snowball into massive ownership over twenty years.",
+        "tipLabel": "PRO TIP",
+        "tipBody": "Dividend reinvestment is the hidden engine of wealth.",
+        "shapeLabel": "Dividend snowball"
+      }
+    },
+    {
+      "layoutId": "cta-cream-3d",
+      "slots": {
+        "pageOf": "8 / 8",
+        "authorInitials": "JL",
+        "authorName": "Jordan Lee",
+        "handle": "@jordanmoney",
+        "avatarBg1": "#c4541f",
+        "avatarBg2": "#f0ebe1",
+        "eyebrow": "YOUR MOVE",
+        "headlineLine1": "Start Small",
+        "headlineAccent": "Start Today",
+        "body": "You don't need thousands to begin. Pick one habit and execute it this week.",
+        "buttonLabel": "Follow for More"
+      }
+    }
+  ]
+}
