@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;0,900;1,400;1,500&family=Pinyon+Script&display=swap" rel="stylesheet">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html, body {
+    width: 1080px; height: 1350px; overflow: hidden;
+    background: #0e0e0e;
+    font-family: "Playfair Display", serif;
+    color: #f4d24c;
+    -webkit-font-smoothing: antialiased;
+  }
+  /* Subtle radial vignette so the slide doesn't feel flat */
+  body::before {
+    content: "";
+    position: absolute; inset: 0;
+    background: radial-gradient(ellipse at center, transparent 30%, rgba(0,0,0,0.55) 100%);
+    pointer-events: none;
+  }
+
+  .brand {
+    position: absolute; top: 64px; left: 64px;
+    font-family: "Playfair Display", serif;
+    font-size: 30px; font-weight: 500;
+    color: #f4d24c;
+  }
+  .pagination-dots {
+    position: absolute; top: 76px; right: 64px;
+    display: flex; gap: 14px;
+  }
+  .pagination-dots span {
+    width: 14px; height: 14px; border-radius: 50%; background: #f4d24c;
+  }
+
+  /* Display headline stack */
+  .script-prefix {
+    position: absolute; top: 320px; left: 90px;
+    font-family: "Pinyon Script", cursive;
+    font-size: 160px; line-height: 0.9;
+    color: #f4d24c;
+    transform: rotate(-2deg);
+    z-index: 2;
+  }
+  .display-line {
+    font-family: "Playfair Display", serif;
+    font-size: 130px; font-weight: 700;
+    line-height: 0.92; letter-spacing: -0.005em;
+    color: #f4d24c;
+    text-transform: uppercase;
+  }
+  .display-stack {
+    position: absolute; top: 380px; left: 64px; right: 64px;
+  }
+  .display-line:nth-child(1) { padding-left: 380px; }
+
+  /* Script tagline near bottom */
+  .script-tagline {
+    position: absolute; bottom: 270px; left: 64px; right: 64px;
+    font-family: "Pinyon Script", cursive;
+    font-size: 56px; line-height: 1;
+    color: #f4d24c;
+    transform: rotate(-1.5deg);
+    text-align: center;
+  }
+
+  /* Bottom footer */
+  .footer {
+    position: absolute; bottom: 70px; left: 64px; right: 64px;
+    display: flex; align-items: center; justify-content: space-between;
+    border-top: 1px solid #f4d24c;
+    padding-top: 30px;
+  }
+  .footer .handle {
+    font-family: "Playfair Display", serif;
+    font-size: 26px; font-weight: 500; color: #f4d24c;
+  }
+  .footer .slide-id {
+    font-family: "Playfair Display", serif;
+    font-size: 26px; font-weight: 500; color: #f4d24c;
+  }
+  .footer .arrow {
+    position: absolute; right: 0; top: -94px;
+    width: 70px; height: 70px; border-radius: 50%;
+    border: 1.5px solid #f4d24c;
+    display: flex; align-items: center; justify-content: center;
+    color: #f4d24c; font-size: 26px;
+  }
+</style>
+</head>
+<body>
+  <div class="brand">{{brand}}</div>
+  <div class="pagination-dots">
+    <span></span><span></span><span></span><span></span><span></span>
+  </div>
+
+  <div class="script-prefix">{{scriptPrefix}}</div>
+  <div class="display-stack">
+    <div class="display-line">{{displayLine1}}</div>
+    <div class="display-line">{{displayLine2}}</div>
+    <div class="display-line">{{displayLine3}}</div>
+  </div>
+
+  <div class="script-tagline">{{scriptTagline}}</div>
+
+  <div class="footer">
+    <div class="handle">{{handle}}</div>
+    <div class="arrow">→</div>
+    <div class="slide-id">{{slideId}}</div>
+  </div>
+</body>
+</html>

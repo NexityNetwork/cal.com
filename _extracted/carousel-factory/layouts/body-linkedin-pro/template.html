@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;800;900&display=swap" rel="stylesheet">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html, body {
+    width: 1080px; height: 1350px; overflow: hidden;
+    background: #fcfcfc;
+    font-family: "Inter", system-ui, sans-serif;
+    color: #0a0a0a;
+    background-image:
+      linear-gradient(to right, #ededed 1px, transparent 1px),
+      linear-gradient(to bottom, #ededed 1px, transparent 1px);
+    background-size: 90px 90px;
+    -webkit-font-smoothing: antialiased;
+  }
+  .top-bar {
+    position: absolute; top: 56px; left: 56px; right: 56px;
+    display: flex; align-items: center; justify-content: space-between;
+  }
+  .author { display: flex; align-items: center; gap: 14px; }
+  .author .avatar {
+    width: 56px; height: 56px; border-radius: 50%;
+    background: #d4d4d4 url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 56 56'><circle cx='28' cy='22' r='10' fill='%23999'/><ellipse cx='28' cy='52' rx='18' ry='14' fill='%23999'/></svg>") center/cover;
+  }
+  .author .name { font-size: 24px; font-weight: 700; letter-spacing: -0.01em; }
+  .badge {
+    background: #0a0a0a; color: #ffffff;
+    padding: 13px 30px; border-radius: 40px;
+    font-size: 16px; font-weight: 700; letter-spacing: 0.06em;
+  }
+  .page-num {
+    width: 56px; height: 56px; border-radius: 50%;
+    background: {{accentColor}};
+    color: #ffffff; font-size: 22px; font-weight: 700;
+    display: flex; align-items: center; justify-content: center;
+  }
+
+  /* Title centered */
+  .title {
+    position: absolute; top: 230px; left: 56px; right: 56px;
+    text-align: center;
+    font-size: 88px; font-weight: 900;
+    line-height: 1.05; letter-spacing: -2.2px;
+  }
+  .body-text {
+    position: absolute; top: 470px; left: 110px; right: 110px;
+    text-align: center;
+    font-size: 30px; font-weight: 500;
+    line-height: 1.45; color: #2a2a2a;
+  }
+
+  /* Image card */
+  .hero-card {
+    position: absolute; top: 700px; left: 56px; right: 56px; height: 460px;
+    border-radius: 28px;
+    background: linear-gradient(135deg, {{heroBg}} 0%, {{heroBg2}} 100%);
+    display: flex; align-items: center; justify-content: center;
+    overflow: hidden;
+    box-shadow: 0 8px 24px rgba(0,0,0,0.06);
+  }
+  .hero-card .icon-overlay {
+    width: 200px; height: 200px;
+    background: rgba(255,255,255,0.18);
+    border-radius: 32px;
+    display: flex; align-items: center; justify-content: center;
+    color: rgba(255,255,255,0.92);
+    font-size: 100px; font-weight: 900;
+    backdrop-filter: blur(4px);
+  }
+
+  /* Bottom label pill */
+  .label-pill {
+    position: absolute; bottom: 70px; left: 56px; right: 56px;
+    height: 64px; border-radius: 32px;
+    background: {{accentColor}};
+    display: flex; align-items: center; justify-content: center;
+    color: #ffffff;
+    font-size: 22px; font-weight: 700; letter-spacing: 0.02em;
+    gap: 22px;
+  }
+  .label-pill .star { font-size: 18px; opacity: 0.9; }
+</style>
+</head>
+<body>
+  <div class="top-bar">
+    <div class="author">
+      <div class="avatar"></div>
+      <div class="name">{{author}}</div>
+    </div>
+    <div class="badge">{{badgeText}}</div>
+    <div class="page-num">{{pageNumber}}</div>
+  </div>
+
+  <div class="title">{{title}}</div>
+  <div class="body-text">{{body}}</div>
+
+  <div class="hero-card">
+    <div class="icon-overlay">{{heroSymbol}}</div>
+  </div>
+
+  <div class="label-pill">
+    <span>{{labelText}}</span>
+    <span class="star">✦</span>
+    <span>{{labelText}}</span>
+  </div>
+</body>
+</html>

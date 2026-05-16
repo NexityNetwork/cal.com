@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;0,900;1,400;1,500&family=Pinyon+Script&display=swap" rel="stylesheet">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html, body {
+    width: 1080px; height: 1350px; overflow: hidden;
+    background: #0e0e0e;
+    font-family: "Playfair Display", serif;
+    color: #f4d24c;
+    -webkit-font-smoothing: antialiased;
+  }
+  body::before {
+    content: "";
+    position: absolute; inset: 0;
+    background: radial-gradient(ellipse at center, transparent 30%, rgba(0,0,0,0.55) 100%);
+    pointer-events: none;
+  }
+
+  .brand {
+    position: absolute; top: 64px; left: 64px;
+    font-family: "Playfair Display", serif;
+    font-size: 30px; font-weight: 500; color: #f4d24c;
+  }
+  .pagination-dots {
+    position: absolute; top: 76px; right: 64px;
+    display: flex; gap: 14px;
+  }
+  .pagination-dots span { width: 14px; height: 14px; border-radius: 50%; background: #f4d24c; }
+
+  /* Left column: script prefix + display headline */
+  .script-prefix {
+    position: absolute; top: 220px; left: 64px;
+    font-family: "Pinyon Script", cursive;
+    font-size: 110px; line-height: 0.9; color: #f4d24c;
+    transform: rotate(-2deg);
+    z-index: 2;
+  }
+  .display-stack {
+    position: absolute; top: 320px; left: 64px; width: 560px;
+  }
+  .display-line {
+    font-family: "Playfair Display", serif;
+    font-size: 92px; font-weight: 700;
+    line-height: 0.94;
+    color: #f4d24c;
+    text-transform: uppercase;
+  }
+
+  /* Right column — round photo placeholder */
+  .photo-circle {
+    position: absolute; top: 260px; right: 64px;
+    width: 380px; height: 380px; border-radius: 50%;
+    background: linear-gradient(135deg, #3b2f1f 0%, #1f1810 100%);
+    border: 1.5px solid #f4d24c;
+    overflow: hidden;
+  }
+  .photo-circle::after {
+    content: "";
+    position: absolute; inset: 24px; border-radius: 50%;
+    background: radial-gradient(circle at 30% 30%, rgba(244,210,76,0.18), transparent 60%);
+  }
+  /* Dots under photo */
+  .dots-row {
+    position: absolute; top: 700px; left: 64px;
+    display: flex; gap: 12px;
+  }
+  .dots-row span { width: 14px; height: 14px; border-radius: 50%; background: #f4d24c; }
+
+  /* Body paragraph */
+  .body {
+    position: absolute; top: 1010px; left: 64px; right: 240px;
+    font-family: "Playfair Display", serif;
+    font-size: 30px; font-weight: 400;
+    line-height: 1.35; color: #f4d24c;
+  }
+
+  /* Bottom row */
+  .footer {
+    position: absolute; bottom: 60px; left: 64px; right: 64px;
+    display: flex; align-items: center; justify-content: space-between;
+    border-top: 1px solid #f4d24c;
+    padding-top: 26px;
+  }
+  .footer .handle, .footer .slide-id {
+    font-family: "Playfair Display", serif;
+    font-size: 26px; font-weight: 500; color: #f4d24c;
+  }
+  .footer .arrow {
+    position: absolute; right: 0; top: -92px;
+    width: 70px; height: 70px; border-radius: 50%;
+    border: 1.5px solid #f4d24c;
+    display: flex; align-items: center; justify-content: center;
+    color: #f4d24c; font-size: 26px;
+  }
+</style>
+</head>
+<body>
+  <div class="brand">{{brand}}</div>
+  <div class="pagination-dots">
+    <span></span><span></span><span></span><span></span><span></span>
+  </div>
+
+  <div class="script-prefix">{{scriptPrefix}}</div>
+  <div class="display-stack">
+    <div class="display-line">{{displayLine1}}</div>
+    <div class="display-line">{{displayLine2}}</div>
+    <div class="display-line">{{displayLine3}}</div>
+  </div>
+
+  <div class="photo-circle"></div>
+  <div class="dots-row">
+    <span></span><span></span><span></span><span></span><span></span>
+  </div>
+
+  <div class="body">{{body}}</div>
+
+  <div class="footer">
+    <div class="handle">{{handle}}</div>
+    <div class="arrow">→</div>
+    <div class="slide-id">{{slideId}}</div>
+  </div>
+</body>
+</html>
