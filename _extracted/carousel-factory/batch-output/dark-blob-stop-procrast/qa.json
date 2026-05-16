@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/dark-blob-stop-procrast/slide-01.png",
-      "bytes": 222420,
+      "bytes": 106649,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -19,7 +19,7 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/dark-blob-stop-procrast/slide-02.png",
-      "bytes": 146225,
+      "bytes": 97707,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -35,7 +35,7 @@
     {
       "index": 2,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/dark-blob-stop-procrast/slide-03.png",
-      "bytes": 137274,
+      "bytes": 87618,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -51,7 +51,7 @@
     {
       "index": 3,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/dark-blob-stop-procrast/slide-04.png",
-      "bytes": 138576,
+      "bytes": 93888,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -67,7 +67,7 @@
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/dark-blob-stop-procrast/slide-05.png",
-      "bytes": 141327,
+      "bytes": 88366,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -83,7 +83,7 @@
     {
       "index": 5,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/dark-blob-stop-procrast/slide-06.png",
-      "bytes": 145021,
+      "bytes": 91581,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -99,7 +99,7 @@
     {
       "index": 6,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/dark-blob-stop-procrast/slide-07.png",
-      "bytes": 153939,
+      "bytes": 92483,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -115,7 +115,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/dark-blob-stop-procrast/slide-08.png",
-      "bytes": 202896,
+      "bytes": 188614,
       "qa": {
         "verdict": "pass",
         "checks": {

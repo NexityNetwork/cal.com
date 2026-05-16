@@ -1,151 +1,117 @@
 {
   "id": "dark-blob-saas-killers",
-  "brand": "Jesse Cole",
+  "brand": "Solo Foundr",
   "brief": "6 SaaS-killing AI products you can ship as a solo founder in a weekend.",
   "theme": "dark-blob",
   "slides": [
     {
       "layoutId": "cover-dark-blob",
       "slots": {
-        "blobColor1": "#8b5cf6",
-        "blobColor2": "#ec4899",
-        "eyebrow": "solo founder guide…",
-        "headlineLine1": "6 AI products",
-        "headlineLine2": "that kill SaaS",
-        "headlineLine3": "in one weekend",
-        "authorInitials": "JC",
-        "authorName": "Jesse Cole",
-        "handle": "@jessecole",
-        "avatarBg1": "#06b6d4",
-        "avatarBg2": "#3b82f6"
+        "subline": "ship this weekend…",
+        "titleLine1": "SaaS-killing AI",
+        "titleLine2": "products you can",
+        "titleLine3": "build and ship",
+        "authorInitials": "RS",
+        "authorName": "Riya Sharma",
+        "handle": "@riyasharma",
+        "avatarBg1": "#FF2D55",
+        "avatarBg2": "#4A00E0"
       }
     },
     {
       "layoutId": "body-dark-blob",
       "slots": {
-        "blobColor1": "#8b5cf6",
-        "blobColor2": "#ec4899",
-        "accentColor": "#22d3ee",
-        "authorInitials": "JC",
-        "authorName": "Jesse Cole",
-        "handle": "@jessecole",
-        "avatarBg1": "#06b6d4",
-        "avatarBg2": "#3b82f6",
-        "pageOf": "02 / 08",
-        "number": "01",
-        "title": "AI Customer Support Agent",
-        "body": "Build a chatbot that reads your docs and resolves tickets instantly. It plugs into any site via a single script tag and costs pennies to run.",
-        "takeaway": "Replace Zendesk with a weekend build."
+        "subline": "support agent bot…",
+        "titleLine1": "Replace your",
+        "titleLine2": "entire support",
+        "titleLine3": "team tonight",
+        "authorInitials": "RS",
+        "authorName": "Riya Sharma",
+        "handle": "@riyasharma",
+        "avatarBg1": "#FF2D55",
+        "avatarBg2": "#4A00E0"
       }
     },
     {
       "layoutId": "body-dark-blob",
       "slots": {
-        "blobColor1": "#8b5cf6",
-        "blobColor2": "#ec4899",
-        "accentColor": "#22d3ee",
-        "authorInitials": "JC",
-        "authorName": "Jesse Cole",
-        "handle": "@jessecole",
-        "avatarBg1": "#06b6d4",
-        "avatarBg2": "#3b82f6",
-        "pageOf": "03 / 08",
-        "number": "02",
-        "title": "AI Content Repurposing Engine",
-        "body": "Drop a YouTube URL and auto-generate LinkedIn posts, tweets, and blog drafts. Creators pay monthly for unlimited rewrites.",
-        "takeaway": "Kill the content calendar chaos."
+        "subline": "content engine build…",
+        "titleLine1": "Generate blogs",
+        "titleLine2": "and social",
+        "titleLine3": "content automatically",
+        "authorInitials": "RS",
+        "authorName": "Riya Sharma",
+        "handle": "@riyasharma",
+        "avatarBg1": "#FF2D55",
+        "avatarBg2": "#4A00E0"
       }
     },
     {
       "layoutId": "body-dark-blob",
       "slots": {
-        "blobColor1": "#8b5cf6",
-        "blobColor2": "#ec4899",
-        "accentColor": "#22d3ee",
-        "authorInitials": "JC",
-        "authorName": "Jesse Cole",
-        "handle": "@jessecole",
-        "avatarBg1": "#06b6d4",
-        "avatarBg2": "#3b82f6",
-        "pageOf": "04 / 08",
-        "number": "03",
-        "title": "Smart Contract Review Bot",
-        "body": "Upload NDAs or leases and highlight risky clauses in seconds. Lawyers charge hundreds per hour; you charge a flat monthly fee.",
-        "takeaway": "Legal SaaS is ripe for disruption."
+        "subline": "meeting notes tool…",
+        "titleLine1": "Transcribe calls",
+        "titleLine2": "and extract",
+        "titleLine3": "action items",
+        "authorInitials": "RS",
+        "authorName": "Riya Sharma",
+        "handle": "@riyasharma",
+        "avatarBg1": "#FF2D55",
+        "avatarBg2": "#4A00E0"
       }
     },
     {
       "layoutId": "body-dark-blob",
       "slots": {
-        "blobColor1": "#8b5cf6",
-        "blobColor2": "#ec4899",
-        "accentColor": "#22d3ee",
-        "authorInitials": "JC",
-        "authorName": "Jesse Cole",
-        "handle": "@jessecole",
-        "avatarBg1": "#06b6d4",
-        "avatarBg2": "#3b82f6",
-        "pageOf": "05 / 08",
-        "number": "04",
-        "title": "AI Outreach Personalizer",
-        "body": "Scrape a prospect's website and write tailored cold emails at scale. Sales teams ditch bloated sequencing tools for your lightweight API.",
-        "takeaway": "Outreach tools are officially obsolete."
+        "subline": "code review helper…",
+        "titleLine1": "Review pull",
+        "titleLine2": "requests with",
+        "titleLine3": "AI precision",
+        "authorInitials": "RS",
+        "authorName": "Riya Sharma",
+        "handle": "@riyasharma",
+        "avatarBg1": "#FF2D55",
+        "avatarBg2": "#4A00E0"
       }
     },
     {
       "layoutId": "body-dark-blob",
       "slots": {
-        "blobColor1": "#8b5cf6",
-        "blobColor2": "#ec4899",
-        "accentColor": "#22d3ee",
-        "authorInitials": "JC",
-        "authorName": "Jesse Cole",
-        "handle": "@jessecole",
-        "avatarBg1": "#06b6d4",
-        "avatarBg2": "#3b82f6",
-        "pageOf": "06 / 08",
-        "number": "05",
-        "title": "Plain English Analytics Chat",
-        "body": "Let founders ask plain-English questions about their metrics. Connects to Stripe and Google Analytics in under an hour with LangChain.",
-        "takeaway": "BI dashboards are too slow."
+        "subline": "inbox assistant app…",
+        "titleLine1": "Write and",
+        "titleLine2": "reply to email",
+        "titleLine3": "in seconds",
+        "authorInitials": "RS",
+        "authorName": "Riya Sharma",
+        "handle": "@riyasharma",
+        "avatarBg1": "#FF2D55",
+        "avatarBg2": "#4A00E0"
       }
     },
     {
       "layoutId": "body-dark-blob",
       "slots": {
-        "blobColor1": "#8b5cf6",
-        "blobColor2": "#ec4899",
-        "accentColor": "#22d3ee",
-        "authorInitials": "JC",
-        "authorName": "Jesse Cole",
-        "handle": "@jessecole",
-        "avatarBg1": "#06b6d4",
-        "avatarBg2": "#3b82f6",
-        "pageOf": "07 / 08",
-        "number": "06",
-        "title": "AI Meeting Notes Copilot",
-        "body": "Join calls, transcribe dialogue, and extract action items automatically. Indie hackers will pay for privacy-first note-taking they control.",
-        "takeaway": "Own your meeting data again."
+        "subline": "analytics parser idea…",
+        "titleLine1": "Turn messy",
+        "titleLine2": "data into",
+        "titleLine3": "clear insights",
+        "authorInitials": "RS",
+        "authorName": "Riya Sharma",
+        "handle": "@riyasharma",
+        "avatarBg1": "#FF2D55",
+        "avatarBg2": "#4A00E0"
       }
     },
     {
       "layoutId": "cta-dark-blob",
       "slots": {
-        "blobColor1": "#8b5cf6",
-        "blobColor2": "#ec4899",
-        "accentColor": "#22d3ee",
-        "authorInitials": "JC",
-        "authorName": "Jesse Cole",
-        "handle": "@jessecole",
-        "avatarBg1": "#06b6d4",
-        "avatarBg2": "#3b82f6",
-        "pageOf": "08 / 08",
-        "eyebrow": "YOUR TURN",
-        "headlineLine1": "Pick one idea",
-        "headlineLine2": "Start building tonight",
-        "body": "Which product are you shipping this weekend? Save this carousel and go build your AI cash flow.",
-        "buttonLabel": "Save this post",
-        "secondaryLabel": "Follow @jessecole"
+        "headline": "Ship It",
+        "subline": "Follow @riyasharma for weekly AI builds",
+        "authorInitials": "RS",
+        "authorName": "Riya Sharma",
+        "handle": "@riyasharma",
+        "avatarBg1": "#FF2D55",
+        "avatarBg2": "#4A00E0"
       }
     }
   ]

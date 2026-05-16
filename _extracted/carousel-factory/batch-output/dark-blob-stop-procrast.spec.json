@@ -1,151 +1,117 @@
 {
   "id": "dark-blob-stop-procrast",
-  "brand": "Kiran Sharma",
+  "brand": "Juno Hale",
   "brief": "Stop procrastinating on the project that actually matters — 6 systems that compound.",
   "theme": "dark-blob",
   "slides": [
     {
       "layoutId": "cover-dark-blob",
       "slots": {
-        "blobColor1": "#00f0ff",
-        "blobColor2": "#7c3aed",
-        "eyebrow": "the project that matters most",
-        "headlineLine1": "Stop delaying",
-        "headlineLine2": "the project",
-        "headlineLine3": "that matters",
-        "authorInitials": "KS",
-        "authorName": "Kiran Sharma",
-        "handle": "@kiranbuilds",
-        "avatarBg1": "#00f0ff",
-        "avatarBg2": "#7c3aed"
+        "subline": "your project awaits…",
+        "titleLine1": "stop putting",
+        "titleLine2": "off what",
+        "titleLine3": "matters most",
+        "authorInitials": "JH",
+        "authorName": "Juno Hale",
+        "handle": "@junohale",
+        "avatarBg1": "#FF3864",
+        "avatarBg2": "#7209B7"
       }
     },
     {
       "layoutId": "body-dark-blob",
       "slots": {
-        "blobColor1": "#00f0ff",
-        "blobColor2": "#7c3aed",
-        "accentColor": "#00f0ff",
-        "authorInitials": "KS",
-        "authorName": "Kiran Sharma",
-        "handle": "@kiranbuilds",
-        "avatarBg1": "#00f0ff",
-        "avatarBg2": "#7c3aed",
-        "pageOf": "02 / 08",
-        "number": "01",
-        "title": "Time-block your deep work",
-        "body": "Protect two hours daily for your most important project. Consistency beats intensity when the clock is your ally.",
-        "takeaway": "Calendar invites protect your focus."
+        "subline": "system one…",
+        "titleLine1": "calendar blocks",
+        "titleLine2": "for deep",
+        "titleLine3": "focused work",
+        "authorInitials": "JH",
+        "authorName": "Juno Hale",
+        "handle": "@junohale",
+        "avatarBg1": "#FF3864",
+        "avatarBg2": "#7209B7"
       }
     },
     {
       "layoutId": "body-dark-blob",
       "slots": {
-        "blobColor1": "#00f0ff",
-        "blobColor2": "#7c3aed",
-        "accentColor": "#00f0ff",
-        "authorInitials": "KS",
-        "authorName": "Kiran Sharma",
-        "handle": "@kiranbuilds",
-        "avatarBg1": "#00f0ff",
-        "avatarBg2": "#7c3aed",
-        "pageOf": "03 / 08",
-        "number": "02",
-        "title": "Shrink the first step",
-        "body": "Overwhelm lives in big goals. Write one sentence, save one file, or make one call to trigger momentum.",
-        "takeaway": "Action kills anxiety in sixty seconds."
+        "subline": "system two…",
+        "titleLine1": "start before",
+        "titleLine2": "you feel",
+        "titleLine3": "fully ready",
+        "authorInitials": "JH",
+        "authorName": "Juno Hale",
+        "handle": "@junohale",
+        "avatarBg1": "#FF3864",
+        "avatarBg2": "#7209B7"
       }
     },
     {
       "layoutId": "body-dark-blob",
       "slots": {
-        "blobColor1": "#00f0ff",
-        "blobColor2": "#7c3aed",
-        "accentColor": "#00f0ff",
-        "authorInitials": "KS",
-        "authorName": "Kiran Sharma",
-        "handle": "@kiranbuilds",
-        "avatarBg1": "#00f0ff",
-        "avatarBg2": "#7c3aed",
-        "pageOf": "04 / 08",
-        "number": "03",
-        "title": "Build a shutdown ritual",
-        "body": "End each session by noting your next micro-task. Your future self will start faster with a clear target.",
-        "takeaway": "Clarity today fuels speed tomorrow."
+        "subline": "system three…",
+        "titleLine1": "design your",
+        "titleLine2": "environment for",
+        "titleLine3": "total focus",
+        "authorInitials": "JH",
+        "authorName": "Juno Hale",
+        "handle": "@junohale",
+        "avatarBg1": "#FF3864",
+        "avatarBg2": "#7209B7"
       }
     },
     {
       "layoutId": "body-dark-blob",
       "slots": {
-        "blobColor1": "#00f0ff",
-        "blobColor2": "#7c3aed",
-        "accentColor": "#00f0ff",
-        "authorInitials": "KS",
-        "authorName": "Kiran Sharma",
-        "handle": "@kiranbuilds",
-        "avatarBg1": "#00f0ff",
-        "avatarBg2": "#7c3aed",
-        "pageOf": "05 / 08",
-        "number": "04",
-        "title": "Track streaks not speed",
-        "body": "A weekly checkmark matters more than daily word count. Momentum compounds when you refuse to break the chain.",
-        "takeaway": "Don't break the chain."
+        "subline": "system four…",
+        "titleLine1": "build a",
+        "titleLine2": "feedback loop",
+        "titleLine3": "with peers",
+        "authorInitials": "JH",
+        "authorName": "Juno Hale",
+        "handle": "@junohale",
+        "avatarBg1": "#FF3864",
+        "avatarBg2": "#7209B7"
       }
     },
     {
       "layoutId": "body-dark-blob",
       "slots": {
-        "blobColor1": "#00f0ff",
-        "blobColor2": "#7c3aed",
-        "accentColor": "#00f0ff",
-        "authorInitials": "KS",
-        "authorName": "Kiran Sharma",
-        "handle": "@kiranbuilds",
-        "avatarBg1": "#00f0ff",
-        "avatarBg2": "#7c3aed",
-        "pageOf": "06 / 08",
-        "number": "05",
-        "title": "Automate the friction away",
-        "body": "Remove ten clicks between you and the work. Templates, presets, and bookmarks turn resistance into a downhill sprint.",
-        "takeaway": "Friction is the enemy of flow."
+        "subline": "system five…",
+        "titleLine1": "track every",
+        "titleLine2": "tiny step",
+        "titleLine3": "of progress",
+        "authorInitials": "JH",
+        "authorName": "Juno Hale",
+        "handle": "@junohale",
+        "avatarBg1": "#FF3864",
+        "avatarBg2": "#7209B7"
       }
     },
     {
       "layoutId": "body-dark-blob",
       "slots": {
-        "blobColor1": "#00f0ff",
-        "blobColor2": "#7c3aed",
-        "accentColor": "#00f0ff",
-        "authorInitials": "KS",
-        "authorName": "Kiran Sharma",
-        "handle": "@kiranbuilds",
-        "avatarBg1": "#00f0ff",
-        "avatarBg2": "#7c3aed",
-        "pageOf": "07 / 08",
-        "number": "06",
-        "title": "Accountability compounds silently",
-        "body": "Share weekly progress with one trusted peer. The mild social pressure transforms invisible goals into non-negotiable commitments.",
-        "takeaway": "One witness changes everything."
+        "subline": "system six…",
+        "titleLine1": "let small",
+        "titleLine2": "wins compound",
+        "titleLine3": "every week",
+        "authorInitials": "JH",
+        "authorName": "Juno Hale",
+        "handle": "@junohale",
+        "avatarBg1": "#FF3864",
+        "avatarBg2": "#7209B7"
       }
     },
     {
       "layoutId": "cta-dark-blob",
       "slots": {
-        "blobColor1": "#00f0ff",
-        "blobColor2": "#7c3aed",
-        "accentColor": "#00f0ff",
-        "authorInitials": "KS",
-        "authorName": "Kiran Sharma",
-        "handle": "@kiranbuilds",
-        "avatarBg1": "#00f0ff",
-        "avatarBg2": "#7c3aed",
-        "pageOf": "08 / 08",
-        "eyebrow": "YOUR TURN",
-        "headlineLine1": "Pick one",
-        "headlineLine2": "system today",
-        "body": "Start with the smallest shift and let compound interest do the heavy lifting for you.",
-        "buttonLabel": "Save this post",
-        "secondaryLabel": "Follow @kiranbuilds"
+        "headline": "Start Today",
+        "subline": "Follow @junohale for focus systems",
+        "authorInitials": "JH",
+        "authorName": "Juno Hale",
+        "handle": "@junohale",
+        "avatarBg1": "#FF3864",
+        "avatarBg2": "#7209B7"
       }
     }
   ]

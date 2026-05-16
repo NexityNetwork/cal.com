@@ -1,151 +1,117 @@
 {
   "id": "dark-blob-niche-down",
-  "brand": "Derek Chen",
+  "brand": "Sofia Marin",
   "brief": "How niching down took me from $2K to $40K/mo — 6 lessons from the pivot.",
   "theme": "dark-blob",
   "slides": [
     {
       "layoutId": "cover-dark-blob",
       "slots": {
-        "blobColor1": "#ff2e63",
-        "blobColor2": "#5e17eb",
-        "eyebrow": "niching down changed everything…",
-        "headlineLine1": "$2K to",
-        "headlineLine2": "$40K per",
-        "headlineLine3": "month guide",
-        "authorInitials": "DC",
-        "authorName": "Derek Chen",
-        "handle": "@derekchengrowth",
-        "avatarBg1": "#ff9500",
-        "avatarBg2": "#b35900"
+        "subline": "from 2k to 40k…",
+        "titleLine1": "How niching",
+        "titleLine2": "down scaled",
+        "titleLine3": "my income",
+        "authorInitials": "SM",
+        "authorName": "Sofia Marin",
+        "handle": "@sofiamarin",
+        "avatarBg1": "#FF512F",
+        "avatarBg2": "#7B2D8E"
       }
     },
     {
       "layoutId": "body-dark-blob",
       "slots": {
-        "blobColor1": "#ff2e63",
-        "blobColor2": "#5e17eb",
-        "accentColor": "#ff2e63",
-        "authorInitials": "DC",
-        "authorName": "Derek Chen",
-        "handle": "@derekchengrowth",
-        "avatarBg1": "#ff9500",
-        "avatarBg2": "#b35900",
-        "pageOf": "02 / 08",
-        "number": "01",
-        "title": "Stop selling to everyone",
-        "body": "When I served twelve different industries, my message was noise. The moment I targeted B2B SaaS founders, conversions tripled in thirty days.",
-        "takeaway": "Specificity is the fastest growth lever."
+        "subline": "lesson one: stop generalizing",
+        "titleLine1": "Say no",
+        "titleLine2": "to bad",
+        "titleLine3": "fit clients",
+        "authorInitials": "SM",
+        "authorName": "Sofia Marin",
+        "handle": "@sofiamarin",
+        "avatarBg1": "#FF512F",
+        "avatarBg2": "#7B2D8E"
       }
     },
     {
       "layoutId": "body-dark-blob",
       "slots": {
-        "blobColor1": "#ff2e63",
-        "blobColor2": "#5e17eb",
-        "accentColor": "#ff2e63",
-        "authorInitials": "DC",
-        "authorName": "Derek Chen",
-        "handle": "@derekchengrowth",
-        "avatarBg1": "#ff9500",
-        "avatarBg2": "#b35900",
-        "pageOf": "03 / 08",
-        "number": "02",
-        "title": "Raise your prices immediately",
-        "body": "Generalists compete on price. Specialists command premium fees. I 10x'd my rate once I owned one clear outcome for one clear persona.",
-        "takeaway": "Niche authority lets you charge more."
+        "subline": "lesson two: raise rates",
+        "titleLine1": "10x your",
+        "titleLine2": "pricing once",
+        "titleLine3": "you specialize",
+        "authorInitials": "SM",
+        "authorName": "Sofia Marin",
+        "handle": "@sofiamarin",
+        "avatarBg1": "#FF512F",
+        "avatarBg2": "#7B2D8E"
       }
     },
     {
       "layoutId": "body-dark-blob",
       "slots": {
-        "blobColor1": "#ff2e63",
-        "blobColor2": "#5e17eb",
-        "accentColor": "#ff2e63",
-        "authorInitials": "DC",
-        "authorName": "Derek Chen",
-        "handle": "@derekchengrowth",
-        "avatarBg1": "#ff9500",
-        "avatarBg2": "#b35900",
-        "pageOf": "04 / 08",
-        "number": "03",
-        "title": "Build a repeatable system",
-        "body": "Niching gave me the same problems to solve again and again. That repetition became productized services with margins I never had before.",
-        "takeaway": "Repetition creates scalable profit."
+        "subline": "lesson three: productize fast",
+        "titleLine1": "Productize your",
+        "titleLine2": "service into",
+        "titleLine3": "systems fast",
+        "authorInitials": "SM",
+        "authorName": "Sofia Marin",
+        "handle": "@sofiamarin",
+        "avatarBg1": "#FF512F",
+        "avatarBg2": "#7B2D8E"
       }
     },
     {
       "layoutId": "body-dark-blob",
       "slots": {
-        "blobColor1": "#ff2e63",
-        "blobColor2": "#5e17eb",
-        "accentColor": "#ff2e63",
-        "authorInitials": "DC",
-        "authorName": "Derek Chen",
-        "handle": "@derekchengrowth",
-        "avatarBg1": "#ff9500",
-        "avatarBg2": "#b35900",
-        "pageOf": "05 / 08",
-        "number": "04",
-        "title": "Attract better referrals",
-        "body": "Clients could finally describe me in one sentence. Word-of-mouth became precise, and inbound leads started closing themselves.",
-        "takeaway": "Clarity makes you referable."
+        "subline": "lesson four: clear messaging",
+        "titleLine1": "Marketing gets",
+        "titleLine2": "clearer and",
+        "titleLine3": "costs less",
+        "authorInitials": "SM",
+        "authorName": "Sofia Marin",
+        "handle": "@sofiamarin",
+        "avatarBg1": "#FF512F",
+        "avatarBg2": "#7B2D8E"
       }
     },
     {
       "layoutId": "body-dark-blob",
       "slots": {
-        "blobColor1": "#ff2e63",
-        "blobColor2": "#5e17eb",
-        "accentColor": "#ff2e63",
-        "authorInitials": "DC",
-        "authorName": "Derek Chen",
-        "handle": "@derekchengrowth",
-        "avatarBg1": "#ff9500",
-        "avatarBg2": "#b35900",
-        "pageOf": "06 / 08",
-        "number": "05",
-        "title": "Cut your marketing costs",
-        "body": "One avatar means one channel and one message. I stopped wasting budget on broad campaigns and saw ROI jump within two weeks.",
-        "takeaway": "Focus shrinks spend and spikes returns."
+        "subline": "lesson five: own authority",
+        "titleLine1": "Become known",
+        "titleLine2": "as the",
+        "titleLine3": "niche expert",
+        "authorInitials": "SM",
+        "authorName": "Sofia Marin",
+        "handle": "@sofiamarin",
+        "avatarBg1": "#FF512F",
+        "avatarBg2": "#7B2D8E"
       }
     },
     {
       "layoutId": "body-dark-blob",
       "slots": {
-        "blobColor1": "#ff2e63",
-        "blobColor2": "#5e17eb",
-        "accentColor": "#ff2e63",
-        "authorInitials": "DC",
-        "authorName": "Derek Chen",
-        "handle": "@derekchengrowth",
-        "avatarBg1": "#ff9500",
-        "avatarBg2": "#b35900",
-        "pageOf": "07 / 08",
-        "number": "06",
-        "title": "Own a category, not a skill",
-        "body": "Skills get commoditized. Categories create moats. I repositioned from copywriter to SaaS onboarding specialist and became the obvious choice.",
-        "takeaway": "Category ownership beats general talent."
+        "subline": "lesson six: protect focus",
+        "titleLine1": "Protect your",
+        "titleLine2": "time and",
+        "titleLine3": "energy daily",
+        "authorInitials": "SM",
+        "authorName": "Sofia Marin",
+        "handle": "@sofiamarin",
+        "avatarBg1": "#FF512F",
+        "avatarBg2": "#7B2D8E"
       }
     },
     {
       "layoutId": "cta-dark-blob",
       "slots": {
-        "blobColor1": "#ff2e63",
-        "blobColor2": "#5e17eb",
-        "accentColor": "#ff2e63",
-        "authorInitials": "DC",
-        "authorName": "Derek Chen",
-        "handle": "@derekchengrowth",
-        "avatarBg1": "#ff9500",
-        "avatarBg2": "#b35900",
-        "pageOf": "08 / 08",
-        "eyebrow": "YOUR TURN",
-        "headlineLine1": "Pick your niche",
-        "headlineLine2": "and scale fast",
-        "body": "Which lesson will you act on first? Save this carousel and start your pivot today.",
-        "buttonLabel": "Save this post",
-        "secondaryLabel": "Follow @derekchengrowth"
+        "headline": "Niche down",
+        "subline": "Follow @sofiamarin for weekly growth tips",
+        "authorInitials": "SM",
+        "authorName": "Sofia Marin",
+        "handle": "@sofiamarin",
+        "avatarBg1": "#FF512F",
+        "avatarBg2": "#7B2D8E"
       }
     }
   ]

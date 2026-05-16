@@ -1,24 +1,30 @@
 <!DOCTYPE html>
 <html><head><meta charset="utf-8">
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 <style>
 *{margin:0;padding:0;box-sizing:border-box}
-html,body{width:1080px;height:1350px;overflow:hidden;background:#0a0a0a;font-family:"Inter",sans-serif;color:#fff;-webkit-font-smoothing:antialiased}
-.blob{position:absolute;top:-50px;right:-100px;width:680px;height:680px;border-radius:50%;background:radial-gradient(circle at 40% 35%,{{blobColor1}} 0%,{{blobColor2}} 38%,transparent 70%);filter:blur(60px);opacity:0.95}
-.eyebrow{position:absolute;top:240px;left:80px;font-size:26px;font-weight:500;color:rgba(255,255,255,0.55)}
-.headline{position:absolute;top:280px;left:80px;right:80px;font-size:104px;font-weight:800;line-height:1.05;letter-spacing:-2.5px;color:#fff;max-width:880px}
-.author{position:absolute;bottom:280px;left:80px;display:flex;align-items:center;gap:18px}
-.avatar{width:60px;height:60px;border-radius:50%;background:linear-gradient(135deg,{{avatarBg1}},{{avatarBg2}});display:flex;align-items:center;justify-content:center;font-size:22px;font-weight:700;color:#fff;flex-shrink:0;overflow:hidden}
-.author-info .name{font-size:22px;font-weight:700;color:#fff;line-height:1.2}
-.author-info .handle{font-size:18px;font-weight:500;color:rgba(255,255,255,0.5);line-height:1.2}
-.nav{position:absolute;bottom:80px;right:80px;display:flex;align-items:center;gap:14px}
-.nav .back{width:54px;height:54px;border-radius:50%;background:rgba(255,255,255,0.08);display:flex;align-items:center;justify-content:center;color:rgba(255,255,255,0.4);font-size:20px}
-.nav .fwd{width:54px;height:54px;border-radius:50%;background:#fff;display:flex;align-items:center;justify-content:center;color:#0a0a0a;font-size:22px;font-weight:700}
+html,body{width:1080px;height:1350px;overflow:hidden;background:#131313;font-family:"Inter",sans-serif;color:#e8ecf3;-webkit-font-smoothing:antialiased}
+.blob-red{position:absolute;top:186px;right:-319px;width:638px;height:352px;background:radial-gradient(ellipse at center,#e5014c 0%,rgba(229,1,76,0.5) 40%,transparent 70%);filter:blur(60px);opacity:0.9}
+.blob-purple{position:absolute;top:412px;right:-318px;width:471px;height:212px;background:radial-gradient(ellipse at center,#36059d 0%,rgba(54,5,157,0.5) 40%,transparent 70%);filter:blur(60px);opacity:0.85}
+.subline{position:absolute;top:403px;left:87px;font-family:"Inter",sans-serif;font-size:33px;font-weight:500;color:#f4f4f4;letter-spacing:-0.5px}
+.title{position:absolute;top:459px;left:87px;right:87px;font-family:"Inter",sans-serif;font-size:100px;font-weight:600;color:#e8ecf3;line-height:1.05;letter-spacing:-2.5px}
+.author{position:absolute;top:871px;left:87px;display:flex;align-items:center;gap:22px}
+.avatar{width:80px;height:80px;border-radius:50%;background:linear-gradient(135deg,{{avatarBg1}},{{avatarBg2}});display:flex;align-items:center;justify-content:center;font-size:28px;font-weight:700;color:#fff;flex-shrink:0;overflow:hidden}
+.author-info .name{font-size:22px;font-weight:600;color:#ffffff;line-height:1.2;letter-spacing:-0.2px}
+.author-info .handle{font-size:20px;font-weight:600;color:#d1d1d1;line-height:1.2;letter-spacing:-0.2px}
+.nav{position:absolute;bottom:108px;right:87px;display:flex;align-items:center;gap:14px}
+.nav .back{width:54px;height:54px;border-radius:50%;display:flex;align-items:center;justify-content:center;color:#ffffff;font-size:18px}
+.nav .back svg{width:18px;height:18px}
+.nav .fwd{width:54px;height:54px;border-radius:50%;background:#ffffff;display:flex;align-items:center;justify-content:center;color:#131313;font-size:20px}
 </style></head>
 <body>
-<div class="blob"></div>
-<div class="eyebrow">{{eyebrow}}</div>
-<div class="headline">{{headlineLine1}}<br>{{headlineLine2}}<br>{{headlineLine3}}</div>
-<div class="author"><div class="avatar">{{authorInitials}}</div><div class="author-info"><div class="name">{{authorName}}</div><div class="handle">{{handle}}</div></div></div>
+<div class="blob-red"></div>
+<div class="blob-purple"></div>
+<div class="subline">{{subline}}</div>
+<div class="title">{{titleLine1}}<br>{{titleLine2}}<br>{{titleLine3}}</div>
+<div class="author">
+  <div class="avatar">{{authorInitials}}</div>
+  <div class="author-info"><div class="name">{{authorName}}</div><div class="handle">{{handle}}</div></div>
+</div>
 <div class="nav"><div class="back">←</div><div class="fwd">→</div></div>
 </body></html>

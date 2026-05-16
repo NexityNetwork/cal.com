@@ -1,151 +1,117 @@
 {
   "id": "dark-blob-ai-myth",
-  "brand": "Founder Forward",
+  "brand": "Founder Lab",
   "brief": "5 myths about AI replacing your job that founders need to stop believing.",
   "theme": "dark-blob",
   "slides": [
     {
       "layoutId": "cover-dark-blob",
       "slots": {
-        "blobColor1": "#ff3d7f",
-        "blobColor2": "#5b2bf5",
-        "eyebrow": "ai job fears…",
-        "headlineLine1": "Stop believing",
-        "headlineLine2": "these five AI",
-        "headlineLine3": "job myths now",
-        "authorInitials": "PN",
-        "authorName": "Priya Nair",
-        "handle": "@priyanair",
-        "avatarBg1": "#06b6d4",
-        "avatarBg2": "#3b82f6"
+        "subline": "ai job replacement myths…",
+        "titleLine1": "Five myths",
+        "titleLine2": "founders must",
+        "titleLine3": "stop believing",
+        "authorInitials": "RM",
+        "authorName": "Rohan Mehta",
+        "handle": "@rohanmehta",
+        "avatarBg1": "#FF2E63",
+        "avatarBg2": "#2E003E"
       }
     },
     {
       "layoutId": "body-dark-blob",
       "slots": {
-        "blobColor1": "#ff3d7f",
-        "blobColor2": "#5b2bf5",
-        "accentColor": "#ff3d7f",
-        "authorInitials": "PN",
-        "authorName": "Priya Nair",
-        "handle": "@priyanair",
-        "avatarBg1": "#06b6d4",
-        "avatarBg2": "#3b82f6",
-        "pageOf": "02 / 08",
-        "number": "01",
-        "title": "AI replaces every job overnight",
-        "body": "Founders panic that algorithms will make their team obsolete by next quarter. The reality is adoption curves are slow and uneven across industries.",
-        "takeaway": "Automation is a marathon, not a sprint."
+        "subline": "the truth hurts…",
+        "titleLine1": "Fear kills more",
+        "titleLine2": "startups than",
+        "titleLine3": "AI ever will",
+        "authorInitials": "RM",
+        "authorName": "Rohan Mehta",
+        "handle": "@rohanmehta",
+        "avatarBg1": "#FF2E63",
+        "avatarBg2": "#2E003E"
       }
     },
     {
       "layoutId": "body-dark-blob",
       "slots": {
-        "blobColor1": "#ff3d7f",
-        "blobColor2": "#5b2bf5",
-        "accentColor": "#ff3d7f",
-        "authorInitials": "PN",
-        "authorName": "Priya Nair",
-        "handle": "@priyanair",
-        "avatarBg1": "#06b6d4",
-        "avatarBg2": "#3b82f6",
-        "pageOf": "03 / 08",
-        "number": "02",
-        "title": "Only tech roles are AI-safe",
-        "body": "Many believe soft skills and creative judgment are easily replicated. In truth, empathy and strategic vision remain incredibly hard to automate.",
-        "takeaway": "Human judgment is the real moat."
+        "subline": "myth number one…",
+        "titleLine1": "AI replaces",
+        "titleLine2": "your entire",
+        "titleLine3": "team overnight",
+        "authorInitials": "RM",
+        "authorName": "Rohan Mehta",
+        "handle": "@rohanmehta",
+        "avatarBg1": "#FF2E63",
+        "avatarBg2": "#2E003E"
       }
     },
     {
       "layoutId": "body-dark-blob",
       "slots": {
-        "blobColor1": "#ff3d7f",
-        "blobColor2": "#5b2bf5",
-        "accentColor": "#ff3d7f",
-        "authorInitials": "PN",
-        "authorName": "Priya Nair",
-        "handle": "@priyanair",
-        "avatarBg1": "#06b6d4",
-        "avatarBg2": "#3b82f6",
-        "pageOf": "04 / 08",
-        "number": "03",
-        "title": "You must force AI into everything",
-        "body": "Forcing AI into processes that don't need it wastes time and capital. Smart founders automate the boring stuff, not the brand-building stuff.",
-        "takeaway": "Deploy AI with intent, not FOMO."
+        "subline": "myth number two…",
+        "titleLine1": "Human judgment",
+        "titleLine2": "is now",
+        "titleLine3": "totally obsolete",
+        "authorInitials": "RM",
+        "authorName": "Rohan Mehta",
+        "handle": "@rohanmehta",
+        "avatarBg1": "#FF2E63",
+        "avatarBg2": "#2E003E"
       }
     },
     {
       "layoutId": "body-dark-blob",
       "slots": {
-        "blobColor1": "#ff3d7f",
-        "blobColor2": "#5b2bf5",
-        "accentColor": "#ff3d7f",
-        "authorInitials": "PN",
-        "authorName": "Priya Nair",
-        "handle": "@priyanair",
-        "avatarBg1": "#06b6d4",
-        "avatarBg2": "#3b82f6",
-        "pageOf": "05 / 08",
-        "number": "04",
-        "title": "AI lets you run tiny teams",
-        "body": "Some think tools replace headcount one-for-one. Actually, augmented teams often scale faster because output per person skyrockets.",
-        "takeaway": "AI amplifies people, it doesn't erase them."
+        "subline": "myth number three…",
+        "titleLine1": "Fire your team",
+        "titleLine2": "to save",
+        "titleLine3": "on overhead",
+        "authorInitials": "RM",
+        "authorName": "Rohan Mehta",
+        "handle": "@rohanmehta",
+        "avatarBg1": "#FF2E63",
+        "avatarBg2": "#2E003E"
       }
     },
     {
       "layoutId": "body-dark-blob",
       "slots": {
-        "blobColor1": "#ff3d7f",
-        "blobColor2": "#5b2bf5",
-        "accentColor": "#ff3d7f",
-        "authorInitials": "PN",
-        "authorName": "Priya Nair",
-        "handle": "@priyanair",
-        "avatarBg1": "#06b6d4",
-        "avatarBg2": "#3b82f6",
-        "pageOf": "06 / 08",
-        "number": "05",
-        "title": "Ignoring AI kills your startup fast",
-        "body": "Hype cycles make delay feel fatal. While awareness matters, thoughtful integration beats rushed gimmicks every single time.",
-        "takeaway": "Speed without strategy is just noise."
+        "subline": "myth number four…",
+        "titleLine1": "AI needs no",
+        "titleLine2": "human oversight",
+        "titleLine3": "at all",
+        "authorInitials": "RM",
+        "authorName": "Rohan Mehta",
+        "handle": "@rohanmehta",
+        "avatarBg1": "#FF2E63",
+        "avatarBg2": "#2E003E"
       }
     },
     {
       "layoutId": "body-dark-blob",
       "slots": {
-        "blobColor1": "#ff3d7f",
-        "blobColor2": "#5b2bf5",
-        "accentColor": "#ff3d7f",
-        "authorInitials": "PN",
-        "authorName": "Priya Nair",
-        "handle": "@priyanair",
-        "avatarBg1": "#06b6d4",
-        "avatarBg2": "#3b82f6",
-        "pageOf": "07 / 08",
-        "number": "06",
-        "title": "The real risk is doing nothing",
-        "body": "AI won't steal your job, but a founder using AI might outpace you. The gap grows between those who experiment and those who wait.",
-        "takeaway": "Start small, start now, stay human."
+        "subline": "myth number five…",
+        "titleLine1": "Wait to adopt",
+        "titleLine2": "and you",
+        "titleLine3": "are finished",
+        "authorInitials": "RM",
+        "authorName": "Rohan Mehta",
+        "handle": "@rohanmehta",
+        "avatarBg1": "#FF2E63",
+        "avatarBg2": "#2E003E"
       }
     },
     {
       "layoutId": "cta-dark-blob",
       "slots": {
-        "blobColor1": "#ff3d7f",
-        "blobColor2": "#5b2bf5",
-        "accentColor": "#ff3d7f",
-        "authorInitials": "PN",
-        "authorName": "Priya Nair",
-        "handle": "@priyanair",
-        "avatarBg1": "#06b6d4",
-        "avatarBg2": "#3b82f6",
-        "pageOf": "08 / 08",
-        "eyebrow": "YOUR TURN",
-        "headlineLine1": "Which myth",
-        "headlineLine2": "trapped you most?",
-        "body": "Drop a comment and tag a founder who needs to see this reality check today.",
-        "buttonLabel": "Save this post",
-        "secondaryLabel": "Follow @priyanair"
+        "headline": "Build smarter",
+        "subline": "Follow @rohanmehta for weekly founder strategy tips",
+        "authorInitials": "RM",
+        "authorName": "Rohan Mehta",
+        "handle": "@rohanmehta",
+        "avatarBg1": "#FF2E63",
+        "avatarBg2": "#2E003E"
       }
     }
   ]
