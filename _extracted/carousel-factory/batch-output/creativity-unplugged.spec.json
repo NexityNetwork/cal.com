@@ -1,0 +1,113 @@
+{
+  "id": "creativity-unplugged",
+  "brand": "The Slow Studio",
+  "brief": "6 ways analog routines unlocked more creativity than any productivity app.",
+  "theme": "terracotta",
+  "slides": [
+    {
+      "layoutId": "cover-terracotta",
+      "slots": {
+        "eyebrow": "CREATIVE WORK",
+        "titleLine1": "Analog",
+        "titleLine2": "Rituals,",
+        "titleLine3": "True Focus",
+        "subtitle": "Six timeless offline habits that outperformed every productivity app and restored my creative edge in a distracted world.",
+        "ctaLabel": "Read below",
+        "handle": "@theslowstudio",
+        "author": "The Slow Studio",
+        "slideCount": "6"
+      }
+    },
+    {
+      "layoutId": "body-terracotta",
+      "slots": {
+        "author": "The Slow Studio",
+        "pageOf": "1/6",
+        "number": "01",
+        "numberLabel": "Ritual",
+        "titleMain": "Write Morning",
+        "titleItalic": "Pages Daily",
+        "body": "Three pages of longhand stream-of-consciousness clear mental clutter before screens hijack your attention. It trains your mind to recognize patterns and ideas that apps simply cannot surface.",
+        "handle": "@theslowstudio"
+      }
+    },
+    {
+      "layoutId": "body-terracotta",
+      "slots": {
+        "author": "The Slow Studio",
+        "pageOf": "2/6",
+        "number": "02",
+        "numberLabel": "Practice",
+        "titleMain": "Map the Week",
+        "titleItalic": "With Pen",
+        "body": "A paper planner forces slower, more intentional scheduling than digital calendars allow. The tactile act of writing anchors priorities in memory far deeper than clicking ever could.",
+        "handle": "@theslowstudio"
+      }
+    },
+    {
+      "layoutId": "body-terracotta",
+      "slots": {
+        "author": "The Slow Studio",
+        "pageOf": "3/6",
+        "number": "03",
+        "numberLabel": "Habit",
+        "titleMain": "Read Deeply",
+        "titleItalic": "Offline",
+        "body": "Physical books eliminate notification fragments and restore the sustained attention creativity demands. Thirty minutes of analog reading rewires your brain for depth over distraction.",
+        "handle": "@theslowstudio"
+      }
+    },
+    {
+      "layoutId": "body-terracotta",
+      "slots": {
+        "author": "The Slow Studio",
+        "pageOf": "4/6",
+        "number": "04",
+        "numberLabel": "Truth",
+        "titleMain": "Walk Without",
+        "titleItalic": "Your Phone",
+        "body": "Uninterrupted walks let the default mode network stitch together insights that productivity apps interrupt. The best ideas rarely arrive during a sprint; they emerge in quiet motion.",
+        "handle": "@theslowstudio"
+      }
+    },
+    {
+      "layoutId": "body-terracotta",
+      "slots": {
+        "author": "The Slow Studio",
+        "pageOf": "5/6",
+        "number": "05",
+        "numberLabel": "Method",
+        "titleMain": "One Analog",
+        "titleItalic": "Timer",
+        "body": "A physical kitchen timer removes the temptation to check digital notifications between intervals. Protecting one task at a time rebuilds the focus required for original work.",
+        "handle": "@theslowstudio"
+      }
+    },
+    {
+      "layoutId": "body-terracotta",
+      "slots": {
+        "author": "The Slow Studio",
+        "pageOf": "6/6",
+        "number": "06",
+        "numberLabel": "Boundary",
+        "titleMain": "Create an",
+        "titleItalic": "Analog Evening",
+        "body": "Closing laptops at sunset and reaching for conversation or craft lets the subconscious process the day. True creativity requires rest that no optimization tool can manufacture.",
+        "handle": "@theslowstudio"
+      }
+    },
+    {
+      "layoutId": "cta-terracotta",
+      "slots": {
+        "author": "The Slow Studio",
+        "pageOf": "8/8",
+        "eyebrow": "YOUR TURN",
+        "headlineMain": "Pick One",
+        "headlineItalic": "analog habit",
+        "body": "Start tonight and reclaim the headspace your best ideas have been waiting for.",
+        "buttonLabel": "Save this post",
+        "handle": "@theslowstudio"
+      }
+    }
+  ]
+}
