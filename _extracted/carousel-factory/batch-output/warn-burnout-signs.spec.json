@@ -1,134 +1,104 @@
 {
   "id": "warn-burnout-signs",
-  "brand": "FounderFuel",
+  "brand": "UseVisuals",
   "brief": "5 burnout warning signs every founder ignores until it's too late.",
   "theme": "black-warning",
   "slides": [
     {
       "layoutId": "cover-black-warning",
       "slots": {
-        "warningLabel": "STOP IGNORING",
-        "headlineLine1": "These Burnout",
-        "headlineLine2": "Signs In Your",
-        "headlineAccent": "Founder Life",
-        "body": "You are not just tired. Ignoring these red flags will cost you your health and your company.",
-        "authorInitials": "MV",
-        "authorName": "Morgan Vale",
-        "handle": "@morganvale",
-        "avatarBg1": "#2f3542",
-        "avatarBg2": "#57606f"
+        "number": "01",
+        "handle": "@usevisuals",
+        "eyebrow": "FOUNDER WARNING",
+        "titleLine1": "Founders Ignore These",
+        "titleAccent": "Burnout Signs",
+        "body": "Burnout doesn't announce itself. It builds quietly until your performance and health collapse without warning.",
+        "ctaLabel": "Swipe to see them"
       }
     },
     {
       "layoutId": "body-black-warning",
       "slots": {
-        "pageOf": "1 / 6",
-        "number": "1",
-        "titleLine1": "The Grind",
-        "titleAccent": "Isn't Noble",
-        "body": "Founders wear exhaustion like a badge until their body forces a hard stop. These five signs appear long before the crash.",
-        "quote": "Burnout is not success; it's a collapse.",
-        "authorInitials": "MV",
-        "authorName": "Morgan Vale",
-        "handle": "@morganvale",
-        "avatarBg1": "#2f3542",
-        "avatarBg2": "#57606f"
+        "number": "02",
+        "handle": "@usevisuals",
+        "title": "The Crash Is Silent",
+        "body": "High performers ignore exhaustion until the cost becomes irreversible. Founders pride themselves on grinding through the warning signals.",
+        "calloutLabel": "KEY INSIGHT",
+        "calloutBody": "Recovery takes ten times longer than prevention, so watch for the early signals daily.",
+        "pageOf": "Slide 02"
       }
     },
     {
       "layoutId": "body-black-warning",
       "slots": {
-        "pageOf": "2 / 6",
-        "number": "2",
-        "titleLine1": "Sunday Night",
-        "titleAccent": "Dread Returns",
-        "body": "You used to love the mission. Now every morning feels like a battle you have already lost before starting.",
-        "quote": "Dreading Monday is your first red flag.",
-        "authorInitials": "MV",
-        "authorName": "Morgan Vale",
-        "handle": "@morganvale",
-        "avatarBg1": "#2f3542",
-        "avatarBg2": "#57606f"
+        "number": "03",
+        "handle": "@usevisuals",
+        "title": "Sleep Stops Refreshing You",
+        "body": "You log eight hours but wake up foggy and drained. Rest feels like a pause, not recovery.",
+        "calloutLabel": "DO THIS",
+        "calloutBody": "Schedule one full recovery day weekly with zero meetings or investor calls.",
+        "pageOf": "Slide 03"
       }
     },
     {
       "layoutId": "body-black-warning",
       "slots": {
-        "pageOf": "3 / 6",
-        "number": "3",
-        "titleLine1": "Cynicism Creeps",
-        "titleAccent": "In Quietly",
-        "body": "Your team annoys you. Customers feel like burdens. When empathy vanishes, leadership becomes impossible and isolation takes over completely.",
-        "quote": "When everyone irritates you, check yourself first.",
-        "authorInitials": "MV",
-        "authorName": "Morgan Vale",
-        "handle": "@morganvale",
-        "avatarBg1": "#2f3542",
-        "avatarBg2": "#57606f"
+        "number": "04",
+        "handle": "@usevisuals",
+        "title": "Your Mission Feels Pointless",
+        "body": "Projects that once excited you now feel like meaningless chores. Cynicism replaces the passion that built your startup.",
+        "calloutLabel": "DO THIS",
+        "calloutBody": "Reconnect with your original customer story to remember why you started.",
+        "pageOf": "Slide 04"
       }
     },
     {
       "layoutId": "body-black-warning",
       "slots": {
-        "pageOf": "4 / 6",
-        "number": "4",
-        "titleLine1": "Decision Paralysis",
-        "titleAccent": "Hits Hard",
-        "body": "Simple choices drain you for hours. Creativity vanishes. You stare at emails unable to respond, yet you blame your tools.",
-        "quote": "Brain fog is your nervous system screaming.",
-        "authorInitials": "MV",
-        "authorName": "Morgan Vale",
-        "handle": "@morganvale",
-        "avatarBg1": "#2f3542",
-        "avatarBg2": "#57606f"
+        "number": "05",
+        "handle": "@usevisuals",
+        "title": "Simple Decisions Paralyze You",
+        "body": "You stare at emails for hours unable to hit send. Cognitive fatigue masks itself as procrastination and self-doubt.",
+        "calloutLabel": "DO THIS",
+        "calloutBody": "Batch decisions into morning blocks before willpower reserves deplete completely.",
+        "pageOf": "Slide 05"
       }
     },
     {
       "layoutId": "body-black-warning",
       "slots": {
-        "pageOf": "5 / 6",
-        "number": "5",
-        "titleLine1": "Body Keeps",
-        "titleAccent": "The Score",
-        "body": "You trade gym sessions for Slack replies and sleep for spreadsheets. Your body remembers everything and always collects its debt.",
-        "quote": "You cannot scale a business on fumes.",
-        "authorInitials": "MV",
-        "authorName": "Morgan Vale",
-        "handle": "@morganvale",
-        "avatarBg1": "#2f3542",
-        "avatarBg2": "#57606f"
+        "number": "06",
+        "handle": "@usevisuals",
+        "title": "You Isolate Without Realizing",
+        "body": "You skip investor updates and dodge cofounder dinners entirely. Withdrawal feels like focus but it is actually self-preservation gone wrong.",
+        "calloutLabel": "DO THIS",
+        "calloutBody": "Book one honest conversation with a peer or mentor before Friday ends.",
+        "pageOf": "Slide 06"
       }
     },
     {
       "layoutId": "body-black-warning",
       "slots": {
-        "pageOf": "6 / 6",
-        "number": "6",
-        "titleLine1": "Joy Feels",
-        "titleAccent": "Like Fiction",
-        "body": "Nothing recharges you anymore. Friends become strangers. If hobbies feel like chores, your tank has been empty for months.",
-        "quote": "Losing joy is the final warning bell.",
-        "authorInitials": "MV",
-        "authorName": "Morgan Vale",
-        "handle": "@morganvale",
-        "avatarBg1": "#2f3542",
-        "avatarBg2": "#57606f"
+        "number": "07",
+        "handle": "@usevisuals",
+        "title": "Your Body Sends Signals",
+        "body": "Headaches, gut issues, and tension appear every single morning. Stress stored in the body eventually demands to be addressed.",
+        "calloutLabel": "DO THIS",
+        "calloutBody": "Get a blood panel and commit to thirty minutes of movement daily.",
+        "pageOf": "Slide 07"
       }
     },
     {
       "layoutId": "cta-black-warning",
       "slots": {
-        "pageOf": "7 / 7",
-        "eyebrow": "LAST WARNING",
+        "number": "08",
+        "handle": "@usevisuals",
+        "eyebrow": "YOUR MOVE",
         "headlineLine1": "Protect Your",
         "headlineAccent": "Energy First",
-        "body": "Your startup cannot survive if its founder is running on empty. Rest is a strategy, not a weakness to hide.",
-        "buttonLabel": "Save before you crash",
-        "authorInitials": "MV",
-        "authorName": "Morgan Vale",
-        "handle": "@morganvale",
-        "avatarBg1": "#2f3542",
-        "avatarBg2": "#57606f"
+        "body": "Burnout is a systems failure, not a personal one. Build recovery into your operating rhythm before the crash.",
+        "buttonLabel": "Save This Checklist",
+        "pageOf": "Slide 08"
       }
     }
   ]
