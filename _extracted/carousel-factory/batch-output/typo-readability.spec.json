@@ -1,142 +1,83 @@
 {
   "id": "typo-readability",
-  "brand": "Klein Studio",
+  "brand": "usevisuals",
   "brief": "5 readability rules every designer breaks — and what to do instead in 2026.",
   "theme": "typo-sample",
   "slides": [
     {
       "layoutId": "cover-typo-sample",
       "slots": {
-        "pageOf": "1 / 8",
-        "authorInitials": "TK",
-        "authorName": "Tobias Klein",
-        "handle": "@tobiasklein",
-        "avatarBg1": "#d65f3e",
-        "avatarBg2": "#f7f2ea",
-        "specimen1": "Aa",
-        "specimen2": "Gg",
-        "titleLine1": "The Ultimate Guide to",
-        "titleItalic": "Readable Type",
-        "body": "Five broken rules and modern fixes every interface designer needs for 2026."
-      }
-    },
-    {
-      "layoutId": "body-typo-sample",
-      "slots": {
-        "pageOf": "2 / 8",
-        "authorInitials": "TK",
-        "authorName": "Tobias Klein",
-        "handle": "@tobiasklein",
-        "avatarBg1": "#d65f3e",
-        "avatarBg2": "#f7f2ea",
-        "number": "00",
-        "numberLabel": "THE BRIEF",
-        "title": "Readability Is Not",
-        "titleItalic": "Optional",
-        "body": "Every year designers sacrifice clarity for aesthetics. In 2026, the rules have evolved—here are the five mistakes still breaking interfaces everywhere.",
-        "quote": "Legibility is the price of admission."
-      }
-    },
-    {
-      "layoutId": "body-typo-sample",
-      "slots": {
-        "pageOf": "3 / 8",
-        "authorInitials": "TK",
-        "authorName": "Tobias Klein",
-        "handle": "@tobiasklein",
-        "avatarBg1": "#d65f3e",
-        "avatarBg2": "#f7f2ea",
-        "number": "01",
-        "numberLabel": "RULE 01",
-        "title": "Kill the Ultra",
-        "titleItalic": "Thin Weights",
-        "body": "Hairline fonts dissolve on OLED screens and in sunlight. Modern displays reward substance, so set body text no lighter than 400 regular.",
-        "quote": "If you can't read it in daylight, it doesn't exist."
-      }
-    },
-    {
-      "layoutId": "body-typo-sample",
-      "slots": {
-        "pageOf": "4 / 8",
-        "authorInitials": "TK",
-        "authorName": "Tobias Klein",
-        "handle": "@tobiasklein",
-        "avatarBg1": "#d65f3e",
-        "avatarBg2": "#f7f2ea",
         "number": "02",
-        "numberLabel": "RULE 02",
-        "title": "Gray Text Is",
-        "titleItalic": "A Silent Killer",
-        "body": "Low-contrast grey feels elegant until users squint. Aim for a minimum contrast ratio of 4.5:1—elegance should never compete with accessibility.",
-        "quote": "Subtlety is not an excuse for invisibility."
+        "handle": "@usevisuals",
+        "fontFamily": "Inter",
+        "description": "Inter is the definitive neo-grotesque screen font. Engineered for maximum legibility, it is the go-to choice for interface designers obsessed with clarity."
       }
     },
     {
       "layoutId": "body-typo-sample",
       "slots": {
-        "pageOf": "5 / 8",
-        "authorInitials": "TK",
-        "authorName": "Tobias Klein",
-        "handle": "@tobiasklein",
-        "avatarBg1": "#d65f3e",
-        "avatarBg2": "#f7f2ea",
         "number": "03",
-        "numberLabel": "RULE 03",
-        "title": "Centered Body Copy",
-        "titleItalic": "Wastes Energy",
-        "body": "Center-aligned paragraphs create ragged eye movements and fatigue. Keep headlines centered, but let body copy breathe along a strong left edge.",
-        "quote": "Alignment creates invisible reading rails."
+        "handle": "@usevisuals",
+        "fontFamily": "Cormorant Garamond",
+        "description": "Cormorant Garamond is a dramatic, high-contrast serif family inspired by classic Garamonds. It excels in editorial layouts where generous line length lets its forms breathe."
       }
     },
     {
       "layoutId": "body-typo-sample",
       "slots": {
-        "pageOf": "6 / 8",
-        "authorInitials": "TK",
-        "authorName": "Tobias Klein",
-        "handle": "@tobiasklein",
-        "avatarBg1": "#d65f3e",
-        "avatarBg2": "#f7f2ea",
         "number": "04",
-        "numberLabel": "RULE 04",
-        "title": "Tight Line Height",
-        "titleItalic": "Chokes Comprehension",
-        "body": "A line-height of 1.2 belongs in print, not pixels. For screens, give your type room—1.5 to 1.7 lets ascenders and descenders sing without collision.",
-        "quote": "White space is a cognitive lubricant."
+        "handle": "@usevisuals",
+        "fontFamily": "Space Grotesk",
+        "description": "Space Grotesk is a proportional sans-serif evolved from Space Mono. Its geometric frame and open apertures keep text crisp even in low-contrast palettes."
       }
     },
     {
       "layoutId": "body-typo-sample",
       "slots": {
-        "pageOf": "7 / 8",
-        "authorInitials": "TK",
-        "authorName": "Tobias Klein",
-        "handle": "@tobiasklein",
-        "avatarBg1": "#d65f3e",
-        "avatarBg2": "#f7f2ea",
         "number": "05",
-        "numberLabel": "RULE 05",
-        "title": "Paragraphs Need Real",
-        "titleItalic": "Visual Space",
-        "body": "Indentation is old school; modern interfaces need clear paragraph spacing. Add breathing room between blocks instead of forcing indent traditions.",
-        "quote": "Space between beats indentation within."
+        "handle": "@usevisuals",
+        "fontFamily": "Fraunces",
+        "description": "Fraunces is a variable serif with 'wonky' axes and soft serifs. Its dramatic weight range lets you build loud hierarchy without shouting."
+      }
+    },
+    {
+      "layoutId": "body-typo-sample",
+      "slots": {
+        "number": "06",
+        "handle": "@usevisuals",
+        "fontFamily": "Montserrat",
+        "description": "Montserrat is a geometric sans inspired by Buenos Aires signage. Its tall x-height demands generous leading to prevent dense, suffocating blocks."
+      }
+    },
+    {
+      "layoutId": "body-typo-sample",
+      "slots": {
+        "number": "07",
+        "handle": "@usevisuals",
+        "fontFamily": "Instrument Serif",
+        "description": "Instrument Serif is a refined transitional face with sharp details. Its narrow proportions reveal rivers and gaps when forced into careless justified settings."
+      }
+    },
+    {
+      "layoutId": "body-typo-sample",
+      "slots": {
+        "number": "08",
+        "handle": "@usevisuals",
+        "fontFamily": "DM Sans",
+        "description": "DM Sans is a low-contrast neo-grotesque optimized for small screens. Its robust letterforms make it the ideal workhorse for accessible UI in 2026."
       }
     },
     {
       "layoutId": "cta-typo-sample",
       "slots": {
-        "pageOf": "8 / 8",
-        "authorInitials": "TK",
-        "authorName": "Tobias Klein",
-        "handle": "@tobiasklein",
-        "avatarBg1": "#d65f3e",
-        "avatarBg2": "#f7f2ea",
-        "eyebrow": "YOUR MOVE",
-        "headlineLine1": "Design With",
-        "headlineItalic": "Real Intent",
-        "body": "Bookmark this carousel and audit your next project against these five rules before breakfast.",
-        "buttonLabel": "Save This Checklist",
-        "secondaryLabel": "for your next build"
+        "number": "09",
+        "handle": "@usevisuals",
+        "fontFamily": "Geist",
+        "headlineLine1": "Fix your",
+        "headlineLine2": "type now",
+        "body": "Stop breaking these five rules and ship readable interfaces that actually convert in 2026.",
+        "buttonLabel": "Save this guide",
+        "pageOf": "8 / 8"
       }
     }
   ]
