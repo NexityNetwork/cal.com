@@ -35,32 +35,30 @@ const stillPending = [];
 
 for (const entry of pending) {
   if (entry.decision === "keep" || entry.decision === "extract") {
-    // Create per-project directory under marketing-swarm-layouts
+    // Single source of truth: slide WebPs live in nexitynetwork/ultron-scrapers.
+    // We write only meta + an upstream reference here. No duplication.
     const targetDir = resolve(LAYOUTS_OUT, `behance--${entry.projectId}`);
-    await mkdir(join(targetDir, "pngs"), { recursive: true });
+    await mkdir(targetDir, { recursive: true });
 
-    // Copy each slide PNG (the scraped WebPs are pixel-correct 1080×1350)
-    for (const localPath of entry.slidePaths) {
-      const src = resolve(DATA, localPath);
-      const filename = basename(localPath).replace(/\.webp$/, ".webp");
-      const dst = join(targetDir, "pngs", filename);
-      await cp(src, dst);
-    }
-
-    // Write meta.json — same shape as the existing scraped--* dirs
     const meta = {
       type: "scraped-reference",
       source: `Behance @${entry.designerHandle} (${entry.designerName})`,
       sourceUrl: entry.projectUrl,
-      slideCount: entry.slideCount,
       title: entry.projectName,
-      theme: entry.theme,
-      brandFitForUltron: ["none", "low", "medium", "high"][entry.brandFit] || "unknown",
+      theme: entry.theme,                  // descriptive only
+      slideCount: entry.slideCount,
       appreciations: entry.appreciations,
       views: entry.views,
       discoveryQuery: entry.discoveryQuery,
       humanNotes: entry.layoutNotes ?? null,
+      decisionReason: entry.decisionReason ?? null,
       promotedAt: new Date().toISOString(),
+      // Upstream paths in the scrapers repo (do not duplicate locally)
+      upstream: {
+        repo: "nexitynetwork/ultron-scrapers",
+        branch: "claude/apify-actors-ingestion-texer",
+        slidePaths: entry.slidePaths.map((p) => `data/behance-carousels/${p}`),
+      },
     };
     await writeFile(join(targetDir, "meta.json"), JSON.stringify(meta, null, 2));
 

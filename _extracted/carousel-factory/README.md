@@ -18,6 +18,19 @@ This factory inverts the problem: **layouts are pre-built templates**, the
 LLM only fills slots. Quality is bounded by template curation, not LLM
 creativity.
 
+## Aesthetic diversity is the goal
+
+The factory is **NOT** locked to one brand aesthetic. The layout library
+should hold dark + ember, light + paper, neon + glass, brutalist + black,
+editorial + serif, photo-bg, illustration, and every other serious carousel
+style. A brief comes with a vibe; the planner picks layouts matching that
+vibe. The rubric judges *execution of the chosen vibe*, not match to a
+single brand.
+
+If 100 generated carousels all came out dark + orange, that's a bug — the
+generator collapsed to one aesthetic. The reference library must reflect
+variety to prevent that.
+
 ## Architecture
 
 ```

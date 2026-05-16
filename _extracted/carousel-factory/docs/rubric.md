@@ -1,45 +1,59 @@
-# Carousel QA Rubric
+# Carousel QA Rubric — brand-agnostic, design-quality first
 
-The exact criteria a slide is judged against. Used by Mistral Pixtral for
-automated vision QA AND by the Claude Code reviewer (me) for nuanced
-batch review. Same rubric, two judges, results compared.
+The carousel factory produces **variety**. The library should reflect every
+serious carousel aesthetic — dark, light, paper, neon, bold-color, editorial,
+brutalist, glass, etc. There is **no single "Ultron brand" the rubric
+validates against**.
+
+Per-carousel theme is chosen by the *generator* (brief + requested vibe),
+not by the *judge*. The judge asks: "is this design well-executed?"
 
 ## Per-slide pass/fail checks
 
 Each is a binary yes/no. Slide passes only if ALL are yes.
 
-### Structural
-1. **Has all expected content** — title visible, body visible (if layout requires), icon/graphic visible (if layout requires).
+### Structural (theme-agnostic)
+1. **Has all expected content** — title visible, body visible (if layout requires), graphic visible (if layout requires).
 2. **No broken slots** — no empty grey rectangles, no `{{placeholder}}` strings, no missing-icon fallback boxes.
 3. **No text overflow** — no clipped letters at edges, no text overlapping other text.
 4. **Text legibility** — body text ≥28px equivalent, sufficient contrast against background.
 
-### Brand
-5. **Theme adherence** — for dark theme: bg ≈ #0a0a0a, accent ≈ #ff5e1a. No off-palette colors leaking in (unless brand-icon-required, e.g. green Supabase).
-6. **Accent restraint** — accent color covers ≤10% of slide area, applied to 1-3 elements maximum.
+### Aesthetic execution (theme-agnostic)
+5. **Color discipline** — slide uses 1-3 hues plus neutrals. Not a rainbow. The chosen palette is consistent across the carousel.
+6. **Accent restraint** — whatever accent color the design uses appears on 1-3 elements at most, not as wallpaper.
 
-### Anti-AI-tell
-7. **No radial gradient blobs in corners** (the #1 AI tell).
-8. **No ghost text wallpaper** behind content as default decoration.
-9. **No symmetric vertical stacking** as the slide's only composition (eyebrow + title + body all centered).
-10. **No decorative bubbles/circles/triangles** with no concept tie to the content.
+### Anti-AI-tell (theme-agnostic; these are universal slop indicators)
+7. **No radial gradient blobs in corners.**
+8. **No giant ghost-text wallpaper** behind content as default decoration.
+9. **No purely symmetric centered stacking** as the slide's only composition.
+10. **No decorative shapes** (circles, triangles, sparkles) with no concept tie to the content.
 
-### Composition
-11. **Clear visual hierarchy** — one dominant element + supporting elements, not 5 equal-weight elements competing.
-12. **Negative space is intentional** — empty areas read as breathing room, not as "missing content".
+### Composition (theme-agnostic)
+11. **Clear visual hierarchy** — one dominant element + supporting elements.
+12. **Negative space is intentional** — empty areas read as breathing room, not as "I forgot to put content here".
 
-## Per-carousel checks (whole-carousel review)
+## Per-carousel checks
 
 13. **Adjacency variety** — no two adjacent slides with the same composition.
-14. **Pacing** — at least one "breathing slide" (number, stats, quote, big-statement) between two information-dense slides.
+14. **Pacing** — at least one "breathing slide" between two information-dense slides.
 15. **Hook and CTA stand out** — slide 1 and last slide are the most visually distinct.
-16. **Tone consistency** — all slides feel like the same brand, not 8 different designers.
+16. **Tone consistency** — all slides feel like the same brand/aesthetic family, not 8 different designers.
+
+## What is explicitly NOT in the rubric
+
+- ❌ "Slide must be dark themed"
+- ❌ "Slide must use orange accent"
+- ❌ "Slide must match Ultron's brand"
+- ❌ Any single-aesthetic constraint
+
+The library should hold dark + ember carousels, light + paper carousels,
+neon + glass carousels, brutalist + black carousels, editorial + serif
+carousels, etc. The generator picks a vibe per brief; the judge rates
+that vibe's execution.
 
 ## Scoring (1-10 scale)
 
-After yes/no checks, an overall score:
-
-- **10**: indistinguishable from a top designer's Behance carousel project
+- **10**: indistinguishable from a top designer's Behance Project of the Day
 - **9**: would post this without changes
 - **8**: would post after one minor tweak
 - **7**: would post after 2-3 tweaks
@@ -48,19 +62,18 @@ After yes/no checks, an overall score:
 
 ## Output format (machine-readable)
 
-The QA model returns this JSON shape for every slide:
-
 ```json
 {
   "slide_index": 2,
   "overall_score": 8,
-  "verdict": "pass",                    // pass | tweak | scrap
+  "verdict": "pass",
+  "detected_aesthetic": "dark-editorial",
   "checks": {
     "has_all_content": true,
     "no_broken_slots": true,
     "no_text_overflow": true,
     "text_legible": true,
-    "theme_adherence": true,
+    "color_discipline": true,
     "accent_restraint": true,
     "no_radial_gradient_blobs": true,
     "no_ghost_text": true,
@@ -69,50 +82,20 @@ The QA model returns this JSON shape for every slide:
     "clear_hierarchy": true,
     "intentional_negative_space": true
   },
-  "issues": [
-    "Body text wraps to 4 lines, exceeding the 3-line guideline",
-    "Notion logo could be 10% larger to match other tool-stack slides"
-  ],
-  "strengths": [
-    "Title-to-body spacing is clean",
-    "Icon circle stroke weight is appropriate"
-  ]
+  "issues": ["..."],
+  "strengths": ["..."]
 }
 ```
 
-For a carousel-level review (after all slides):
-
-```json
-{
-  "carousel_id": "...",
-  "overall_score": 7,
-  "verdict": "tweak",
-  "adjacency_check": "pass",
-  "pacing_check": "tweak — slides 5-7 are all info-dense, need a breather",
-  "hook_distinct": "pass",
-  "tone_consistent": "pass",
-  "summary": "Solid execution overall. The middle stretch lacks visual rhythm — insert a quote or big-statement slide at position 6."
-}
-```
+`detected_aesthetic` is metadata only — it does NOT affect the score.
+A "dark-ember-minimal" 9/10 and a "light-paper-editorial" 9/10 are equally
+valid. The library benefits from both.
 
 ## How this rubric is used
 
-1. **Stage 1 — Spec validator** (text-only, runs on Workers AI Kimi K2.6):
-   - Catches checks #1-4 (structural) by inspecting the spec before render
-   - Catches #5-6 (brand) by inspecting slot values
-   - Catches #13-16 (per-carousel) by analyzing the slide sequence
-   - No image input needed
+1. **Spec validator** (text-only, runs on Workers AI Kimi K2.6) — catches checks #1-4 + #13-16 from the spec, before render.
+2. **Visual QA** — the Claude Code session (me) sample-reviews per batch using this rubric.
+3. **Human approval** — you star / reject per carousel; stars feed Vectorize as positive exemplars *of whatever aesthetic was generated*; rejects feed planner anti-examples.
 
-2. **Stage 2 — Visual QA** (Mistral Pixtral via Mistral API or CF AI Gateway):
-   - Catches all checks 1-16 on rendered PNG
-   - Returns structured JSON per above
-
-3. **Stage 3 — Claude Code review** (me, this session):
-   - Samples 10-20% of batch
-   - Reviews against same rubric
-   - Compared with Pixtral's verdicts — agreement = trust automation, disagreement = recalibrate rubric
-
-4. **Stage 4 — Human approval** (you, via review page):
-   - Star/reject final decision
-   - Stars feed into Vectorize as positive exemplars
-   - Rejects feed into planner prompt as anti-examples for next batch
+No automated vision model is currently part of the loop (Workers AI vision
+options were tested and rejected — see README "Why not Workers AI vision").

@@ -67,7 +67,9 @@ function hardReject(project, slides) {
   return reasons;
 }
 
-/** Color theme classification from cover's dominant RGB. */
+/** Color theme classification from cover's dominant RGB.
+ * DESCRIPTIVE only — this is for organizing the library by visual variety,
+ * not for ranking. A dark carousel is not "better" than a light one. */
 function classifyTheme(rgb) {
   if (!rgb) return "unknown";
   const { r, g, b } = rgb;
@@ -84,16 +86,14 @@ function classifyTheme(rgb) {
   return "mid";
 }
 
-/** Estimate brand-fit for Ultron (dark + orange). 0-3 scale. */
-function brandFitScore(theme, rgb) {
-  if (!rgb) return 1;
-  // Ultron palette: dark bg + ember orange accent (~#ff5e1a → r=255, g=94, b=26)
-  const isDark = theme === "dark" || theme === "dark-muted";
-  const isOrangeFamily = rgb.r > rgb.g && rgb.g > rgb.b && rgb.r - rgb.b > 60;
-  if (isDark && isOrangeFamily) return 3;
-  if (isDark) return 2;
-  if (theme === "mid" || theme === "light-muted") return 1;
-  return 0;
+/** Bucket appreciations into a quality tier — Behance community signal.
+ * 100+ floor was already applied upstream by the scraper. */
+function appreciationTier(n) {
+  if (n >= 2000) return "viral";
+  if (n >= 1000) return "popular";
+  if (n >= 500) return "strong";
+  if (n >= 200) return "decent";
+  return "baseline";
 }
 
 // ─── Process projects ──────────────────────────────────────────────────────
@@ -118,7 +118,7 @@ for (const [projectId, slides] of byProject.entries()) {
 
   const cover = slides[0];
   const theme = classifyTheme(cover.colorRgb);
-  const brandFit = brandFitScore(theme, cover.colorRgb);
+  const tier = appreciationTier(project.appreciations);
 
   queued.push({
     projectId,
@@ -129,21 +129,23 @@ for (const [projectId, slides] of byProject.entries()) {
     appreciations: project.appreciations,
     views: project.views,
     slideCount: slides.length,
-    theme,
-    brandFit,
+    theme,           // descriptive: dark / light / colorful / etc.
+    tier,            // Behance community signal: viral / popular / strong / decent / baseline
     coverColor: cover.colorRgb,
     discoveryQuery: project.discoveryQuery,
     discoveryTimeWindow: project.discoveryTimeWindow,
     coverPath: cover.localPath,
     slidePaths: slides.map((s) => s.localPath),
-    decision: null, // to be filled by human review
+    decision: null,        // to be filled by human review
     decisionReason: null,
     layoutNotes: null,
   });
 }
 
-// Sort queued by brandFit DESC, appreciations DESC — most promising first
-queued.sort((a, b) => (b.brandFit - a.brandFit) || (b.appreciations - a.appreciations));
+// Sort by appreciations DESC — let the Behance community signal drive priority.
+// Theme is INFORMATION not preference; the library wants variety, not a single
+// aesthetic. The human reviewer judges design quality on visual merit.
+queued.sort((a, b) => b.appreciations - a.appreciations);
 
 await writeFile(resolve(DATA, "rejected.json"), JSON.stringify(rejected, null, 2));
 await writeFile(resolve(DATA, "pending-review.json"), JSON.stringify(queued, null, 2));
@@ -151,16 +153,16 @@ await writeFile(resolve(DATA, "pending-review.json"), JSON.stringify(queued, nul
 console.log(`✓ rejected ${rejected.length}  →  data/rejected.json`);
 console.log(`✓ pending ${queued.length}  →  data/pending-review.json`);
 console.log("");
-console.log("Theme breakdown:");
+console.log("Theme distribution (descriptive — variety is the goal):");
 const themes = new Map();
 for (const q of queued) themes.set(q.theme, (themes.get(q.theme) || 0) + 1);
 for (const [t, n] of [...themes.entries()].sort((a, b) => b[1] - a[1])) {
   console.log(`  ${t}: ${n}`);
 }
 console.log("");
-console.log("Brand-fit breakdown (Ultron dark+ember):");
-const fits = new Map();
-for (const q of queued) fits.set(q.brandFit, (fits.get(q.brandFit) || 0) + 1);
-for (const [f, n] of [...fits.entries()].sort((a, b) => b[0] - a[0])) {
-  console.log(`  ${f === 3 ? "high" : f === 2 ? "med" : f === 1 ? "low" : "none"} (${f}): ${n}`);
+console.log("Appreciation tier distribution:");
+const tiers = new Map();
+for (const q of queued) tiers.set(q.tier, (tiers.get(q.tier) || 0) + 1);
+for (const t of ["viral", "popular", "strong", "decent", "baseline"]) {
+  if (tiers.has(t)) console.log(`  ${t}: ${tiers.get(t)}`);
 }
