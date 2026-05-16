@@ -1,92 +1,92 @@
 {
   "id": "morning-rituals",
-  "brand": "Maren Wells",
+  "brand": "Nora Ellis",
   "brief": "5 morning rituals that changed how I run my business.",
   "theme": "beige-paper",
   "slides": [
     {
       "layoutId": "cover-beige-serif",
       "slots": {
-        "brand": "Maren Wells",
-        "headline": "Morning Rituals That Completely Changed My Business",
+        "brand": "Nora Ellis",
+        "headline": "The morning rituals that changed how I run my business",
         "slideCountHero": "6"
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "Maren Wells",
+        "brand": "Nora Ellis",
         "number": "01",
-        "title": "Delay The Inbox",
-        "body": "I do not open email for the first ninety minutes of my day. That window is reserved for deep work that moves the business forward. Protecting this time changed my output completely.",
-        "handle": "@marenwells",
-        "domain": "marenwells.com"
+        "title": "Phone-Free Mornings",
+        "body": "I leave my phone in airplane mode until nine. Those first hours belong to my thoughts, not notifications. The clarity compounds faster than you expect.",
+        "handle": "@noraellis",
+        "domain": "x.com"
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "Maren Wells",
+        "brand": "Nora Ellis",
         "number": "02",
-        "title": "Move With Purpose",
-        "body": "A twenty-minute walk without podcasts or calls clears mental clutter. Movement boosts decision-making stamina before I even reach my desk. It is the cheapest performance enhancer I know.",
-        "handle": "@marenwells",
-        "domain": "marenwells.com"
+        "title": "Move Before Email",
+        "body": "Twenty minutes of stretching or walking resets my nervous system. Exercise before screens prevents reactive mode all day. I make better decisions by ten.",
+        "handle": "@noraellis",
+        "domain": "x.com"
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "Maren Wells",
+        "brand": "Nora Ellis",
         "number": "03",
-        "title": "One Priority Only",
-        "body": "I write down the single most important outcome for the day. Everything else is a bonus, not a requirement. This prevents the busywork that used to drain my afternoons.",
-        "handle": "@marenwells",
-        "domain": "marenwells.com"
+        "title": "Single Priority Block",
+        "body": "I calendar ninety minutes for my hardest task first. Protecting deep work early means progress even if the day unravels. Everything else waits.",
+        "handle": "@noraellis",
+        "domain": "x.com"
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "Maren Wells",
+        "brand": "Nora Ellis",
         "number": "04",
-        "title": "Fuel The Machine",
-        "body": "A high-protein breakfast stabilizes my energy and mood through long meetings. I used to skip it and crash by noon. Now I treat the first meal as a non-negotiable strategy.",
-        "handle": "@marenwells",
-        "domain": "marenwells.com"
+        "title": "Silent Journaling",
+        "body": "Three pages of unfiltered handwriting clears mental clutter. It surfaces anxieties before they become fires. The practice takes twelve minutes and saves hours.",
+        "handle": "@noraellis",
+        "domain": "x.com"
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "Maren Wells",
+        "brand": "Nora Ellis",
         "number": "05",
-        "title": "Preview The Day",
-        "body": "I scan my calendar and prepare mentally for every conversation. Knowing what is coming reduces anxiety and sharpens my presence. Five minutes of preview saves hours of repair.",
-        "handle": "@marenwells",
-        "domain": "marenwells.com"
+        "title": "Protein First",
+        "body": "A savory breakfast stabilizes blood sugar and mood. I avoid the mid-morning crash that used to derail meetings. Fuel determines focus.",
+        "handle": "@noraellis",
+        "domain": "x.com"
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "Maren Wells",
+        "brand": "Nora Ellis",
         "number": "06",
-        "title": "Stack Them Small",
-        "body": "You do not need every ritual tomorrow. Start with one and anchor it to coffee or your alarm. Consistency beats intensity when building a sustainable morning system.",
-        "handle": "@marenwells",
-        "domain": "marenwells.com"
+        "title": "Cold Water Reset",
+        "body": "I finish my shower with sixty seconds of cold water. The shock dissolves residual sleep and builds resilience. It is the fastest mindset shift available.",
+        "handle": "@noraellis",
+        "domain": "x.com"
       }
     },
     {
       "layoutId": "cta-beige-serif",
       "slots": {
-        "brand": "Maren Wells",
-        "eyebrow": "GET THE GUIDE",
-        "headline": "Steal My Morning Template",
-        "body": "I put these rituals into a free 7-day checklist. Grab it and build mornings that actually serve your business.",
-        "buttonLabel": "GRAB THE CHECKLIST",
-        "handle": "@marenwells"
+        "brand": "Nora Ellis",
+        "eyebrow": "YOUR TURN",
+        "headline": "Build your morning system",
+        "body": "Steal the exact checklist I use before nine. Small shifts create outsized results.",
+        "buttonLabel": "GET THE CHECKLIST",
+        "handle": "@noraellis"
       }
     }
   ]

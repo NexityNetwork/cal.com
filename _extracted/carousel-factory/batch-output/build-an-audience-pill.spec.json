@@ -1,0 +1,95 @@
+{
+  "id": "build-an-audience-pill",
+  "brand": "Nora Cole",
+  "brief": "How to build an audience of 10K real fans in 90 days.",
+  "theme": "condensed-pill",
+  "slides": [
+    {
+      "layoutId": "cover-condensed-pill",
+      "slots": {
+        "brand": "Nora Cole",
+        "preLine": "How to",
+        "pillText": "BUILD",
+        "postLine": "10K fans in 90 days",
+        "author": "Nora Cole"
+      }
+    },
+    {
+      "layoutId": "body-condensed-pill",
+      "slots": {
+        "brand": "Nora Cole",
+        "number": "01",
+        "numberLabel": "Step",
+        "title": "PICK NICHE",
+        "body": "Stop trying to please everyone. Choose one specific problem you can solve better than anyone else and own it completely.",
+        "author": "Nora Cole"
+      }
+    },
+    {
+      "layoutId": "body-condensed-pill",
+      "slots": {
+        "brand": "Nora Cole",
+        "number": "02",
+        "numberLabel": "Step",
+        "title": "CONTENT PILLARS",
+        "body": "Create three repeatable themes that prove your expertise. Consistency beats virality when you are still unknown.",
+        "author": "Nora Cole"
+      }
+    },
+    {
+      "layoutId": "body-condensed-pill",
+      "slots": {
+        "brand": "Nora Cole",
+        "number": "03",
+        "numberLabel": "Step",
+        "title": "POST DAILY",
+        "body": "Show up every single day for ninety days. Visibility compounds when your audience knows exactly when to expect you.",
+        "author": "Nora Cole"
+      }
+    },
+    {
+      "layoutId": "body-condensed-pill",
+      "slots": {
+        "brand": "Nora Cole",
+        "number": "04",
+        "numberLabel": "Step",
+        "title": "ENGAGE BACK",
+        "body": "Reply to every comment and DMs within the first hour. Conversations signal the algorithm to push your work further.",
+        "author": "Nora Cole"
+      }
+    },
+    {
+      "layoutId": "body-condensed-pill",
+      "slots": {
+        "brand": "Nora Cole",
+        "number": "05",
+        "numberLabel": "Step",
+        "title": "GIVE VALUE",
+        "body": "Share actionable insights freely without holding back. Generosity builds trust faster than any growth hack ever will.",
+        "author": "Nora Cole"
+      }
+    },
+    {
+      "layoutId": "body-condensed-pill",
+      "slots": {
+        "brand": "Nora Cole",
+        "number": "06",
+        "numberLabel": "Step",
+        "title": "COLLABORATE",
+        "body": "Partner with creators who share your audience. One introduction to their community can shortcut months of solo growth.",
+        "author": "Nora Cole"
+      }
+    },
+    {
+      "layoutId": "cta-condensed-pill",
+      "slots": {
+        "brand": "Nora Cole",
+        "eyebrow": "YOUR TURN",
+        "headline": "BUILD IT",
+        "body": "You already have everything you need. Open your notes and plan your first thirty days today.",
+        "buttonLabel": "Save this post",
+        "author": "Nora Cole"
+      }
+    }
+  ]
+}

@@ -1,109 +1,112 @@
 {
   "id": "quiet-confidence",
-  "brand": "THE QUIET EDIT",
+  "brand": "UNPOSTED",
   "brief": "The 5 marks of quiet confidence — from people who don't post.",
   "theme": "noir-yellow",
   "slides": [
     {
       "layoutId": "cover-noir-yellow",
       "slots": {
-        "brand": "THE QUIET EDIT",
-        "scriptPrefix": "Introducing",
-        "displayLine1": "THE 5 MARKS",
-        "displayLine2": "OF QUIET",
+        "brand": "UNPOSTED",
+        "scriptPrefix": "Five",
+        "displayLine1": "MARKS OF",
+        "displayLine2": "QUIET",
         "displayLine3": "CONFIDENCE",
-        "scriptTagline": "from people who never post online",
-        "handle": "@thequietedit",
+        "scriptTagline": "from people who never show up in your feed",
+        "handle": "@unpostd",
         "slideId": "Slide 01"
       }
     },
     {
       "layoutId": "body-noir-yellow",
       "slots": {
-        "brand": "THE QUIET EDIT",
-        "scriptPrefix": "Note",
-        "displayLine1": "A WORD",
-        "displayLine2": "ON THE",
-        "displayLine3": "UNSEEN",
-        "body": "The loudest voices rarely own the room. Confidence without an audience is the rarest kind. These five marks reveal who already possesses it.",
-        "handle": "@thequietedit",
+        "brand": "UNPOSTED",
+        "scriptPrefix": "They",
+        "displayLine1": "MOVE IN",
+        "displayLine2": "SILENCE",
+        "displayLine3": "NOT CHAOS",
+        "body": "The loudest voices rarely own the room. Quiet confidence shows up in subtle signals most scroll right past. Here are five marks of people building a life offline.",
+        "handle": "@unpostd",
         "slideId": "Slide 02"
       }
     },
     {
       "layoutId": "body-noir-yellow",
       "slots": {
-        "brand": "THE QUIET EDIT",
-        "scriptPrefix": "First",
-        "displayLine1": "SILENT",
-        "displayLine2": "BUILDING",
-        "displayLine3": "IN PRIVATE",
-        "body": "They work without announcements, deadlines, or public accountability. Progress is documented in notebooks, not notifications. The foundation sets long before the reveal.",
-        "handle": "@thequietedit",
+        "brand": "UNPOSTED",
+        "scriptPrefix": "Mark",
+        "displayLine1": "THEY LISTEN",
+        "displayLine2": "MORE THAN",
+        "displayLine3": "THEY SPEAK",
+        "body": "They ask questions without performing curiosity. In a room full of noise, their silence reads as power, not absence.",
+        "handle": "@unpostd",
         "slideId": "Slide 03"
       }
     },
     {
       "layoutId": "body-noir-yellow",
       "slots": {
-        "brand": "THE QUIET EDIT",
-        "scriptPrefix": "Second",
-        "displayLine1": "NO EXTERNAL",
-        "displayLine2": "VALIDATION",
-        "displayLine3": "REQUIRED",
-        "body": "Likes cannot inflate what is already full. They measure success by internal standards, not algorithmic approval. Their compass is self-calibrated and steady.",
-        "handle": "@thequietedit",
+        "brand": "UNPOSTED",
+        "scriptPrefix": "Two",
+        "displayLine1": "NO POST",
+        "displayLine2": "NEEDED FOR",
+        "displayLine3": "VALIDATION",
+        "body": "They don't chase likes to feel real. Their sense of worth is internal, steady, and completely independent of applause.",
+        "handle": "@unpostd",
         "slideId": "Slide 04"
       }
     },
     {
       "layoutId": "body-noir-yellow",
       "slots": {
-        "brand": "THE QUIET EDIT",
-        "scriptPrefix": "Third",
-        "displayLine1": "THEY LISTEN",
-        "displayLine2": "MORE THAN",
-        "displayLine3": "THEY SPEAK",
-        "body": "Quiet confidence listens to understand, not to respond. They ask precise questions and absorb the answers. Power gathers information before it ever commands.",
-        "handle": "@thequietedit",
+        "brand": "UNPOSTED",
+        "scriptPrefix": "Three",
+        "displayLine1": "INTENTIONAL",
+        "displayLine2": "MOVES OVER",
+        "displayLine3": "URGENT NOISE",
+        "body": "They act with purpose rather than reacting to trends. Every yes is deliberate; every no is a boundary protected.",
+        "handle": "@unpostd",
         "slideId": "Slide 05"
       }
     },
     {
       "layoutId": "body-noir-yellow",
       "slots": {
-        "brand": "THE QUIET EDIT",
-        "scriptPrefix": "Fourth",
-        "displayLine1": "ACTION WITHOUT",
-        "displayLine2": "CROWDSOURCED",
-        "displayLine3": "PERMISSION",
-        "body": "They do not poll the room before deciding. Intuition is trusted over consensus. Speed and solitude replace committee and noise every single time.",
-        "handle": "@thequietedit",
+        "brand": "UNPOSTED",
+        "scriptPrefix": "Four",
+        "displayLine1": "THEY OWN",
+        "displayLine2": "WHAT THEY",
+        "displayLine3": "DON'T KNOW",
+        "body": "Confidence isn't knowing everything. They admit gaps without ego, which makes their expertise feel grounded and human.",
+        "handle": "@unpostd",
         "slideId": "Slide 06"
       }
     },
     {
       "layoutId": "body-noir-yellow",
       "slots": {
-        "brand": "THE QUIET EDIT",
-        "scriptPrefix": "Fifth",
-        "displayLine1": "RESULTS MAKE",
-        "displayLine2": "ALL THE",
-        "displayLine3": "NOISE NEEDED",
-        "body": "The outcome arrives before the announcement ever could. They let legacy speak instead of stories. Proof is always louder than promised volume.",
-        "handle": "@thequietedit",
+        "brand": "UNPOSTED",
+        "scriptPrefix": "Five",
+        "displayLine1": "RESULTS TALK",
+        "displayLine2": "THEY NEVER",
+        "displayLine3": "BRAG FIRST",
+        "body": "They let outcomes make the introduction. While others announce, they deliver—and let the work echo longer than words.",
+        "handle": "@unpostd",
         "slideId": "Slide 07"
       }
     },
     {
       "layoutId": "cta-noir-yellow",
       "slots": {
-        "brand": "THE QUIET EDIT",
-        "scriptPrefix": "Today",
-        "headline": "BUILD BEFORE YOU SPEAK",
-        "scriptTagline": "let the work outlast the noise",
-        "buttonLabel": "Keep Building",
-        "handle": "@thequietedit",
+        "brand": "UNPOSTED",
+        "scriptPrefix": "Begin",
+        "displayLine1": "OWN YOUR",
+        "displayLine2": "QUIET",
+        "displayLine3": "POWER",
+        "headline": "OWN YOUR QUIET POWER",
+        "scriptTagline": "The best proof is living it quietly.",
+        "buttonLabel": "SAVE FOR LATER",
+        "handle": "@unpostd",
         "slideId": "Slide 08"
       }
     }

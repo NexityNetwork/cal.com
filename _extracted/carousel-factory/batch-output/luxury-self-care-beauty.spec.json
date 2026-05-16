@@ -1,91 +1,91 @@
 {
   "id": "luxury-self-care-beauty",
-  "brand": "AURELIA",
+  "brand": "LUMEN",
   "brief": "6 luxurious self-care rituals that cost less than a coffee.",
   "theme": "minimal-beauty",
   "slides": [
     {
       "layoutId": "cover-minimal-beauty",
       "slots": {
-        "handle": "@aurelia",
-        "author": "ELENA VOSS",
-        "role": "WELLNESS EDITOR",
+        "handle": "@amaralin",
+        "author": "AMARA LIN",
+        "role": "SKIN SPECIALIST",
         "titleLine1": "LUXURY FOR",
         "titleLine2": "LESS THAN",
-        "titleLine3": "A LATTE",
-        "subtitle": "SIX RITUALS THAT COST LESS THAN COFFEE"
+        "titleLine3": "A COFFEE",
+        "subtitle": "SIX RITUALS TO ELEVATE YOUR DAILY ROUTINE"
       }
     },
     {
       "layoutId": "body-minimal-beauty",
       "slots": {
-        "handle": "@aurelia",
-        "author": "ELENA VOSS",
+        "handle": "@amaralin",
+        "author": "AMARA LIN",
         "number": "STEP 01",
-        "title": "ICE GLOBE FACIAL",
-        "body": "Glide a chilled jade roller or ice globes across clean skin for two minutes. The cold instantly depuffs, tightens pores, and awakens your natural radiance without any expense."
+        "title": "FACIAL MASSAGE",
+        "body": "Use clean fingertips to gently sweep from the center of your face outward along jaw and cheekbones. This simple ritual drains tension, reduces puffiness, and restores a lifted, luminous glow in under five minutes."
       }
     },
     {
       "layoutId": "body-minimal-beauty",
       "slots": {
-        "handle": "@aurelia",
-        "author": "ELENA VOSS",
+        "handle": "@amaralin",
+        "author": "AMARA LIN",
         "number": "STEP 02",
-        "title": "SCALP OIL MASSAGE",
-        "body": "Warm a few drops of coconut or argan oil between your palms. Massage into your scalp with slow, deliberate circles to release tension and encourage shine."
+        "title": "AROMA STEAM",
+        "body": "Drape a warm, herb-infused towel over your face and breathe slowly for three minutes. The gentle heat opens pores, softens skin, and calms the mind without spending a single extra penny."
       }
     },
     {
       "layoutId": "body-minimal-beauty",
       "slots": {
-        "handle": "@aurelia",
-        "author": "ELENA VOSS",
+        "handle": "@amaralin",
+        "author": "AMARA LIN",
         "number": "STEP 03",
-        "title": "DRY BODY BRUSHING",
-        "body": "Before your morning shower, sweep a natural bristle brush upward from your feet. This gentle exfoliation boosts circulation and leaves skin impossibly soft."
+        "title": "SCALP RITUAL",
+        "body": "Warm a teaspoon of coconut or olive oil between your palms and massage into your scalp with slow, circular motions. This nourishes roots, stimulates circulation, and invites a deep sense of calm before bed."
       }
     },
     {
       "layoutId": "body-minimal-beauty",
       "slots": {
-        "handle": "@aurelia",
-        "author": "ELENA VOSS",
+        "handle": "@amaralin",
+        "author": "AMARA LIN",
         "number": "STEP 04",
-        "title": "HERBAL FACIAL STEAM",
-        "body": "Pour hot water over a handful of dried chamomile or lavender in a wide bowl. Drape a towel over your head and breathe deeply for five minutes of pure calm."
+        "title": "BODY POLISH",
+        "body": "Blend one tablespoon of sugar with a drizzle of honey or body oil to create a sumptuous scrub. Massage over damp skin in gentle circles to reveal silky softness and a healthy, radiant glow."
       }
     },
     {
       "layoutId": "body-minimal-beauty",
       "slots": {
-        "handle": "@aurelia",
-        "author": "ELENA VOSS",
+        "handle": "@amaralin",
+        "author": "AMARA LIN",
         "number": "STEP 05",
-        "title": "EPSOM FOOT SOAK",
-        "body": "Fill a basin with warm water and a cup of Epsom salts. Add a few drops of essential oil while you unwind with a book."
+        "title": "FOOT SOAK",
+        "body": "Fill a basin with warm water and a handful of Epsom salts or fresh herbs. Soak for ten minutes while the minerals ease tired muscles and leave your feet feeling pampered and light."
       }
     },
     {
       "layoutId": "body-minimal-beauty",
       "slots": {
-        "handle": "@aurelia",
-        "author": "ELENA VOSS",
+        "handle": "@amaralin",
+        "author": "AMARA LIN",
         "number": "STEP 06",
-        "title": "STEAM SHOWER RITUAL",
-        "body": "Place a few drops of eucalyptus oil on your shower floor before turning on the water. The rising steam creates a private spa sanctuary at home."
+        "title": "EYE COMPRESS",
+        "body": "Chill two chamomile tea bags or cucumber slices, then place them over closed eyes for five minutes. The coolness soothes delicate skin, diminishes puffiness, and delivers a spa-worthy refresh to your gaze."
       }
     },
     {
       "layoutId": "cta-minimal-beauty",
       "slots": {
-        "handle": "@aurelia",
-        "author": "ELENA VOSS",
-        "role": "WELLNESS EDITOR",
+        "handle": "@amaralin",
+        "author": "AMARA LIN",
+        "role": "SKIN SPECIALIST",
         "eyebrow": "YOUR RITUAL",
         "headline": "START TODAY",
-        "body": "Pick one ritual for your evening wind-down and notice how luxury feels within reach.",
-        "buttonLabel": "FOLLOW"
+        "body": "Choose one ritual tonight and notice how your skin and spirit respond.",
+        "buttonLabel": "BOOK A CONSULT"
       }
     }
   ]

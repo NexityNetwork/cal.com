@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/brand-launch-groovy/slide-01.png",
-      "bytes": 70379,
+      "bytes": 66451,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -23,7 +23,7 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/brand-launch-groovy/slide-02.png",
-      "bytes": 69420,
+      "bytes": 88028,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -43,7 +43,7 @@
     {
       "index": 2,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/brand-launch-groovy/slide-03.png",
-      "bytes": 67186,
+      "bytes": 81098,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -63,7 +63,7 @@
     {
       "index": 3,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/brand-launch-groovy/slide-04.png",
-      "bytes": 70856,
+      "bytes": 75510,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -83,7 +83,7 @@
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/brand-launch-groovy/slide-05.png",
-      "bytes": 70566,
+      "bytes": 79239,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -103,7 +103,7 @@
     {
       "index": 5,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/brand-launch-groovy/slide-06.png",
-      "bytes": 77147,
+      "bytes": 73897,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -123,7 +123,7 @@
     {
       "index": 6,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/brand-launch-groovy/slide-07.png",
-      "bytes": 62723,
+      "bytes": 67584,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -143,7 +143,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/brand-launch-groovy/slide-08.png",
-      "bytes": 77532,
+      "bytes": 79918,
       "qa": {
         "verdict": "fail",
         "checks": {

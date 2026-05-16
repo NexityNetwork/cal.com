@@ -1,126 +1,126 @@
 {
   "id": "remote-work",
-  "brand": "Maya Torres",
+  "brand": "Maya Ortiz",
   "brief": "The 6 habits of the highest-performing remote teams in 2026.",
   "theme": "linkedin-pro",
   "slides": [
     {
       "layoutId": "cover-linkedin-pro",
       "slots": {
-        "author": "Maya Torres",
+        "author": "Maya Ortiz",
         "badgeText": "LINKEDIN CAROUSEL POST",
         "pageNumber": "1",
         "accentColor": "#4f3df5",
-        "headline": "6 Habits of Elite Remote Teams in 2026",
+        "headline": "6 Habits of Top Remote Teams in 2026",
         "heroSymbol": "⚡",
-        "heroBg": "#4f3df5",
-        "heroBg2": "#8b5cf6",
-        "body": "Remote work has evolved. Here are the six habits top teams use to stay ahead this year."
+        "heroBg": "#312e81",
+        "heroBg2": "#4f3df5",
+        "body": "Remote work has evolved. Here are the six habits driving elite team performance next year."
       }
     },
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Maya Torres",
+        "author": "Maya Ortiz",
         "badgeText": "SAVE THIS POST",
         "pageNumber": "2",
         "accentColor": "#4f3df5",
-        "title": "Async-First Documentation",
-        "body": "Every decision lives in a doc. No one hunts through DMs for context ever again.",
-        "heroSymbol": "📝",
-        "heroBg": "#4f3df5",
-        "heroBg2": "#8b5cf6",
-        "labelText": "HIGH-PERFORMING REMOTE TEAMS"
+        "title": "Default to Async Updates",
+        "body": "Replace endless video calls with thoughtful written updates. It respects time zones and deep work.",
+        "heroSymbol": "✍️",
+        "heroBg": "#312e81",
+        "heroBg2": "#4f3df5",
+        "labelText": "HIGH PERFORMANCE"
       }
     },
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Maya Torres",
+        "author": "Maya Ortiz",
         "badgeText": "SAVE THIS POST",
         "pageNumber": "3",
         "accentColor": "#4f3df5",
-        "title": "Deep Focus Blocks",
-        "body": "Top teams block three-hour chunks for deep work. Meetings never break the flow state.",
+        "title": "Sacred Deep Work Blocks",
+        "body": "Top teams schedule protected focus hours. No Slack, no meetings—just high-leverage output.",
         "heroSymbol": "🎯",
-        "heroBg": "#4f3df5",
-        "heroBg2": "#8b5cf6",
-        "labelText": "HIGH-PERFORMING REMOTE TEAMS"
+        "heroBg": "#312e81",
+        "heroBg2": "#4f3df5",
+        "labelText": "HIGH PERFORMANCE"
       }
     },
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Maya Torres",
+        "author": "Maya Ortiz",
         "badgeText": "SAVE THIS POST",
         "pageNumber": "4",
         "accentColor": "#4f3df5",
-        "title": "Outcome-Based Goals",
-        "body": "They ditch hours tracked for output measured. Results matter more than online status.",
-        "heroSymbol": "🏆",
-        "heroBg": "#4f3df5",
-        "heroBg2": "#8b5cf6",
-        "labelText": "HIGH-PERFORMING REMOTE TEAMS"
+        "title": "Automate With AI Agents",
+        "body": "Elite teams delegate repetitive tasks to AI agents, freeing humans for strategy and creativity.",
+        "heroSymbol": "🤖",
+        "heroBg": "#312e81",
+        "heroBg2": "#4f3df5",
+        "labelText": "HIGH PERFORMANCE"
       }
     },
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Maya Torres",
+        "author": "Maya Ortiz",
         "badgeText": "SAVE THIS POST",
         "pageNumber": "5",
         "accentColor": "#4f3df5",
-        "title": "Intentional Connection Rituals",
-        "body": "From virtual coffees to celebration channels, they design culture instead of leaving it to chance.",
-        "heroSymbol": "🤝",
-        "heroBg": "#4f3df5",
-        "heroBg2": "#8b5cf6",
-        "labelText": "HIGH-PERFORMING REMOTE TEAMS"
+        "title": "Focus On Outcomes Only",
+        "body": "Ditch hours-tracked metrics. High performers define clear results and trust their people to deliver.",
+        "heroSymbol": "🏆",
+        "heroBg": "#312e81",
+        "heroBg2": "#4f3df5",
+        "labelText": "HIGH PERFORMANCE"
       }
     },
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Maya Torres",
+        "author": "Maya Ortiz",
         "badgeText": "SAVE THIS POST",
         "pageNumber": "6",
         "accentColor": "#4f3df5",
-        "title": "Radical Transparency",
-        "body": "Dashboards are open by default. Everyone sees metrics, roadmaps, and blockers in real time.",
-        "heroSymbol": "🔍",
-        "heroBg": "#4f3df5",
-        "heroBg2": "#8b5cf6",
-        "labelText": "HIGH-PERFORMING REMOTE TEAMS"
+        "title": "Intentional Virtual Connection",
+        "body": "The best remote cultures build belonging through curated social rituals, not forced fun.",
+        "heroSymbol": "🤝",
+        "heroBg": "#312e81",
+        "heroBg2": "#4f3df5",
+        "labelText": "HIGH PERFORMANCE"
       }
     },
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Maya Torres",
+        "author": "Maya Ortiz",
         "badgeText": "SAVE THIS POST",
         "pageNumber": "7",
         "accentColor": "#4f3df5",
-        "title": "Async Video Updates",
-        "body": "They replace status meetings with short Looms. Information travels faster across every timezone.",
-        "heroSymbol": "🎥",
-        "heroBg": "#4f3df5",
-        "heroBg2": "#8b5cf6",
-        "labelText": "HIGH-PERFORMING REMOTE TEAMS"
+        "title": "Radical Documentation & Transparency",
+        "body": "Decisions, docs, and context live in open systems so anyone can contribute from anywhere.",
+        "heroSymbol": "📖",
+        "heroBg": "#312e81",
+        "heroBg2": "#4f3df5",
+        "labelText": "HIGH PERFORMANCE"
       }
     },
     {
       "layoutId": "cta-linkedin-pro",
       "slots": {
-        "author": "Maya Torres",
+        "author": "Maya Ortiz",
         "badgeText": "SAVE THIS POST",
         "pageNumber": "8",
         "accentColor": "#4f3df5",
         "eyebrow": "YOUR TURN?",
-        "headline": "Which Habit Will You Start First?",
+        "headline": "Which Habit Will You Start?",
         "body": "Drop a comment below and share this with your remote team.",
-        "buttonLabel": "Follow for more",
+        "buttonLabel": "Follow for More",
         "secondaryLabel": "Repost",
-        "handle": "@mayatorres"
+        "handle": "@mayaortiz"
       }
     }
   ]

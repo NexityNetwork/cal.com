@@ -1,6 +1,6 @@
 {
   "id": "founder-mistakes",
-  "brand": "FounderLog",
+  "brand": "First Check",
   "brief": "8 mistakes I made as a first-time founder that cost me $250K.",
   "theme": "ember-dark",
   "slides": [
@@ -17,60 +17,60 @@
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "02",
-        "title": "1. Hiring, the silent killer",
-        "body": "I built a six-person team before validating a single dollar of demand. Salaries consumed eighteen months of runway in under nine. Validate first.",
-        "iconSlug": "slack",
-        "iconColor": "#F2555A"
+        "title": "1. Hiring, the mistake",
+        "body": "I hired five senior engineers before finding product-market fit. The burn rate crushed our runway in eleven months.",
+        "iconSlug": "github",
+        "iconColor": "#F59E0B"
       }
     },
     {
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "03",
-        "title": "2. Burn, the ignored math",
-        "body": "I spent forty thousand on ads without calculating CAC or LTV. Top-line growth masked the fact that we lost money on every sale.",
-        "iconSlug": "stripe",
-        "iconColor": "#635BFF"
+        "title": "2. Building, the trap",
+        "body": "We spent eight months rebuilding the app for a 'v2.0' launch. Users never asked for half the features.",
+        "iconSlug": "react",
+        "iconColor": "#F59E0B"
       }
     },
     {
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "04",
-        "title": "3. Code, the vanity trap",
-        "body": "We spent six months perfecting features no user asked for. Launch delays killed momentum and wasted developer hours we could never recover. Ship lean.",
-        "iconSlug": "vercel",
-        "iconColor": "#FFFFFF"
+        "title": "3. Economics, the blindspot",
+        "body": "I focused on top-line revenue while our CAC was 3x LTV. We were growing ourselves bankrupt.",
+        "iconSlug": "stripe",
+        "iconColor": "#F59E0B"
       }
     },
     {
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "05",
-        "title": "4. Ego, the blindfold",
-        "body": "I skipped customer calls, assuming I understood the pain points. At launch, the product solved problems our target market did not actually have.",
-        "iconSlug": "discord",
-        "iconColor": "#5865F2"
+        "title": "4. Deals, the trap",
+        "body": "One enterprise client demanded bespoke features that broke our roadmap. We became an expensive dev shop.",
+        "iconSlug": "zoom",
+        "iconColor": "#F59E0B"
       }
     },
     {
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "06",
-        "title": "5. Books, the unread signal",
-        "body": "I commingled accounts and ignored monthly burn. By the time I reviewed the books, eighty thousand had vanished into untracked tools and subscriptions.",
+        "title": "5. Control, the bottleneck",
+        "body": "I micromanaged every pixel and email instead of trusting my team. Decisions bottlenecked and velocity died.",
         "iconSlug": "notion",
-        "iconColor": "#FFFFFF"
+        "iconColor": "#F59E0B"
       }
     },
     {
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "07",
-        "title": "6. Scope, the focus killer",
-        "body": "I chased three verticals at once for quick revenue. Each pilot demanded custom work that diluted our roadmap until we served no one well.",
-        "iconSlug": "loom",
-        "iconColor": "#625DF5"
+        "title": "6. Equity, the giveaway",
+        "body": "I gave away 40 percent equity in our pre-seed for $150K. Future rounds diluted me into irrelevance.",
+        "iconSlug": "googlemeet",
+        "iconColor": "#F59E0B"
       }
     },
     {
@@ -78,10 +78,10 @@
       "slots": {
         "pageNumber": "08",
         "eyebrow": "YOUR MOVE",
-        "headline": "Avoid My $250K Mistakes",
-        "subline": "Save this post and audit your startup before you scale. Protect your runway.",
-        "buttonLabel": "Save this post",
-        "handle": "@founderlog"
+        "headline": "Don't Repeat My Errors",
+        "subline": "Follow for weekly teardowns on building without burning cash.",
+        "buttonLabel": "Follow for more",
+        "handle": "@firstcheck"
       }
     }
   ]

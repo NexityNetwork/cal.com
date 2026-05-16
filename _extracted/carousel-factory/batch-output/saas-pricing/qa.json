@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/saas-pricing/slide-01.png",
-      "bytes": 238222,
+      "bytes": 287475,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -23,7 +23,7 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/saas-pricing/slide-02.png",
-      "bytes": 210619,
+      "bytes": 260288,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -53,7 +53,7 @@
     {
       "index": 2,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/saas-pricing/slide-03.png",
-      "bytes": 210783,
+      "bytes": 258010,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -83,7 +83,7 @@
     {
       "index": 3,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/saas-pricing/slide-04.png",
-      "bytes": 202150,
+      "bytes": 257379,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -113,7 +113,7 @@
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/saas-pricing/slide-05.png",
-      "bytes": 201885,
+      "bytes": 260457,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -143,7 +143,7 @@
     {
       "index": 5,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/saas-pricing/slide-06.png",
-      "bytes": 206802,
+      "bytes": 261690,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -173,7 +173,7 @@
     {
       "index": 6,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/saas-pricing/slide-07.png",
-      "bytes": 214996,
+      "bytes": 257890,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -203,7 +203,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/saas-pricing/slide-08.png",
-      "bytes": 64130,
+      "bytes": 71638,
       "qa": {
         "verdict": "fail",
         "checks": {

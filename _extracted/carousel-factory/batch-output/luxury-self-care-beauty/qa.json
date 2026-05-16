@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/luxury-self-care-beauty/slide-01.png",
-      "bytes": 66680,
+      "bytes": 73146,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -23,7 +23,7 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/luxury-self-care-beauty/slide-02.png",
-      "bytes": 69047,
+      "bytes": 78428,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -43,7 +43,7 @@
     {
       "index": 2,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/luxury-self-care-beauty/slide-03.png",
-      "bytes": 76711,
+      "bytes": 74344,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -63,7 +63,7 @@
     {
       "index": 3,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/luxury-self-care-beauty/slide-04.png",
-      "bytes": 72905,
+      "bytes": 72247,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -83,7 +83,7 @@
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/luxury-self-care-beauty/slide-05.png",
-      "bytes": 69492,
+      "bytes": 70778,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -103,7 +103,7 @@
     {
       "index": 5,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/luxury-self-care-beauty/slide-06.png",
-      "bytes": 63799,
+      "bytes": 65453,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -123,7 +123,7 @@
     {
       "index": 6,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/luxury-self-care-beauty/slide-07.png",
-      "bytes": 74465,
+      "bytes": 75855,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -143,7 +143,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/luxury-self-care-beauty/slide-08.png",
-      "bytes": 62367,
+      "bytes": 60451,
       "qa": {
         "verdict": "fail",
         "checks": {

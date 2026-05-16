@@ -1,78 +1,78 @@
 {
   "id": "kill-self-doubt-bold",
-  "brand": "MINDSET DOJO",
+  "brand": "FORGE MINDSET",
   "brief": "5 ways to kill self-doubt before it kills you.",
   "theme": "bold-split",
   "slides": [
     {
       "layoutId": "cover-bold-split",
       "slots": {
-        "title": "SELF-DOUBT IS KILLING YOU FIGHT BACK NOW",
-        "handle": "@themindsetdojo"
+        "title": "SELF-DOUBT IS A LIAR. SILENCE IT NOW",
+        "handle": "@forgemindset"
       }
     },
     {
       "layoutId": "body-bold-split",
       "slots": {
         "number": "01",
-        "title": "NAME THE INNER CRITIC NOW",
-        "body": "Self-doubt thrives in anonymity. Give it a ridiculous name and watch its power dissolve instantly.",
-        "handle": "@themindsetdojo"
+        "title": "NAME THE INNER CRITIC",
+        "body": "Self-doubt thrives in anonymity. Give your negative voice a ridiculous name and watch its power dissolve into comedy.",
+        "handle": "@forgemindset"
       }
     },
     {
       "layoutId": "body-bold-split",
       "slots": {
         "number": "02",
-        "title": "MOVE BEFORE YOU FEEL READY",
-        "body": "Confidence follows action, not the other way around. Take one imperfect step today and let momentum rebuild your belief.",
-        "handle": "@themindsetdojo"
+        "title": "ACT BEFORE YOU FEEL READY",
+        "body": "Confidence follows action, not the other way around. Take one small step today and let momentum build your courage.",
+        "handle": "@forgemindset"
       }
     },
     {
       "layoutId": "body-bold-split",
       "slots": {
         "number": "03",
-        "title": "STACK PROOF YOU ARE CAPABLE",
-        "body": "Your brain deletes wins to protect you from risk. Write down three past victories and read them when fear speaks.",
-        "handle": "@themindsetdojo"
+        "title": "TRACK PROOF OF WINS",
+        "body": "Your brain forgets success to focus on fear. Keep a running list of past victories to silence the noise.",
+        "handle": "@forgemindset"
       }
     },
     {
       "layoutId": "body-bold-split",
       "slots": {
         "number": "04",
-        "title": "CUT WHAT FEEDS YOUR FEAR",
-        "body": "Audit who and what you consume daily. If it amplifies your anxiety, mute it without apology or second thought.",
-        "handle": "@themindsetdojo"
+        "title": "LIMIT COMPARISON TRAPS",
+        "body": "Scrolling highlight reels feeds insecurity. Unfollow accounts that trigger doubt and reclaim your own definition of progress.",
+        "handle": "@forgemindset"
       }
     },
     {
       "layoutId": "body-bold-split",
       "slots": {
         "number": "05",
-        "title": "PLAY OUT THE WORST CASE",
-        "body": "Ask yourself what truly happens if you fail. Usually the cost is embarrassment, not death, and that is survivable.",
-        "handle": "@themindsetdojo"
+        "title": "TALK BACK TO FEAR",
+        "body": "Challenge every doubtful thought with evidence. Speaking your counter-argument aloud disrupts the loop and rewires your mindset fast.",
+        "handle": "@forgemindset"
       }
     },
     {
       "layoutId": "body-bold-split",
       "slots": {
         "number": "06",
-        "title": "USE THE THIRD PERSON TRICK",
-        "body": "Using your name instead of I creates distance. This simple language shift reduces emotional intensity and restores logical control.",
-        "handle": "@themindsetdojo"
+        "title": "EMBRACE DISCOMFORT DAILY",
+        "body": "Growth lives outside your comfort zone. Do one thing that scares you every day and watch doubt starve.",
+        "handle": "@forgemindset"
       }
     },
     {
       "layoutId": "cta-bold-split",
       "slots": {
         "eyebrow": "YOUR MOVE",
-        "headline": "START WITH ONE TODAY",
-        "body": "Save this post and pick one tactic to use before noon. Your future self is waiting.",
-        "buttonLabel": "SAVE THIS",
-        "handle": "@themindsetdojo"
+        "headline": "DOUBT IS A LIAR",
+        "body": "Pick one tactic and use it today. Your future self is waiting.",
+        "buttonLabel": "START NOW",
+        "handle": "@forgemindset"
       }
     }
   ]

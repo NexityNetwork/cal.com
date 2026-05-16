@@ -1,109 +1,109 @@
 {
   "id": "deep-work-noir",
-  "brand": "STILLPOINT",
+  "brand": "THE DAILY PAGE",
   "brief": "The 5 quiet rituals of writers who do their best work.",
   "theme": "noir-yellow",
   "slides": [
     {
       "layoutId": "cover-noir-yellow",
       "slots": {
-        "brand": "STILLPOINT",
+        "brand": "THE DAILY PAGE",
         "scriptPrefix": "Discover",
-        "displayLine1": "THE 5 QUIET",
-        "displayLine2": "RITUALS OF",
-        "displayLine3": "GREAT WRITERS",
-        "scriptTagline": "Small habits that shape sentences worth reading.",
-        "handle": "@stillpoint.write",
+        "displayLine1": "THE 5",
+        "displayLine2": "QUIET RITUALS",
+        "displayLine3": "OF GREAT WRITERS",
+        "scriptTagline": "Small habits that lead to extraordinary pages.",
+        "handle": "@thedailypage",
         "slideId": "Slide 01"
       }
     },
     {
       "layoutId": "body-noir-yellow",
       "slots": {
-        "brand": "STILLPOINT",
-        "scriptPrefix": "First",
-        "displayLine1": "GREAT WORK",
-        "displayLine2": "BEGINS IN",
-        "displayLine3": "SILENCE",
-        "body": "The best writing rarely arrives in chaos. It emerges from small, deliberate acts repeated daily. These five rituals create the stillness where voice sharpens.",
-        "handle": "@stillpoint.write",
+        "brand": "THE DAILY PAGE",
+        "scriptPrefix": "Before",
+        "displayLine1": "BEFORE THE",
+        "displayLine2": "FIRST SENTENCE",
+        "displayLine3": "COMES STILLNESS",
+        "body": "Great writing rarely begins with brilliance. It begins with a quiet, repeatable act that signals the mind to create.",
+        "handle": "@thedailypage",
         "slideId": "Slide 02"
       }
     },
     {
       "layoutId": "body-noir-yellow",
       "slots": {
-        "brand": "STILLPOINT",
+        "brand": "THE DAILY PAGE",
         "scriptPrefix": "Ritual",
-        "displayLine1": "EMPTY THE",
-        "displayLine2": "MIND FIRST",
-        "displayLine3": "EVERY MORNING",
-        "body": "Before editing, dump three pages of unfiltered thought. This clears mental clutter and reveals patterns hiding beneath performance. Raw pages always precede polished prose.",
-        "handle": "@stillpoint.write",
+        "displayLine1": "WRITE BEFORE",
+        "displayLine2": "THE WORLD",
+        "displayLine3": "WAKES UP",
+        "body": "The early page holds no judgment. Capture thoughts while the inner critic is still asleep.",
+        "handle": "@thedailypage",
         "slideId": "Slide 03"
       }
     },
     {
       "layoutId": "body-noir-yellow",
       "slots": {
-        "brand": "STILLPOINT",
+        "brand": "THE DAILY PAGE",
         "scriptPrefix": "Ritual",
-        "displayLine1": "MOVE BEFORE",
-        "displayLine2": "YOU TRY",
-        "displayLine3": "TO SPEAK",
-        "body": "A twenty-minute walk untangles narrative knots faster than staring. Motion stirs the subconscious where metaphors live. Return to the desk with blood and language flowing.",
-        "handle": "@stillpoint.write",
+        "displayLine1": "WALK IN",
+        "displayLine2": "SILENCE",
+        "displayLine3": "DAILY",
+        "body": "Movement untangles plot knots better than staring at a cursor. Let your feet finish the sentences your fingers cannot.",
+        "handle": "@thedailypage",
         "slideId": "Slide 04"
       }
     },
     {
       "layoutId": "body-noir-yellow",
       "slots": {
-        "brand": "STILLPOINT",
+        "brand": "THE DAILY PAGE",
         "scriptPrefix": "Ritual",
-        "displayLine1": "READ WHAT",
-        "displayLine2": "MOVES YOU",
-        "displayLine3": "OUT LOUD",
-        "body": "Read one page of masterful work before typing. Let rhythm and cadence enter your fingers through your ears. Good taste is built by daily listening.",
-        "handle": "@stillpoint.write",
+        "displayLine1": "READ ONE",
+        "displayLine2": "PERFECT",
+        "displayLine3": "PARAGRAPH",
+        "body": "Read a page of something beautiful before you write. It tunes your ear to rhythm and raises your standard.",
+        "handle": "@thedailypage",
         "slideId": "Slide 05"
       }
     },
     {
       "layoutId": "body-noir-yellow",
       "slots": {
-        "brand": "STILLPOINT",
+        "brand": "THE DAILY PAGE",
         "scriptPrefix": "Ritual",
-        "displayLine1": "SAME HOUR",
-        "displayLine2": "SAME DESK",
-        "displayLine3": "SAME SIGNAL",
-        "body": "Consistency trains the brain to drop into flow on command. A single candle, a specific chair, a timed session. Ritual becomes the doorway into deep work.",
-        "handle": "@stillpoint.write",
+        "displayLine1": "RETURN TO",
+        "displayLine2": "THE SAME",
+        "displayLine3": "EMPTY CHAIR",
+        "body": "Consistency trains the brain to switch into creative mode. The ritual becomes the doorway into the work.",
+        "handle": "@thedailypage",
         "slideId": "Slide 06"
       }
     },
     {
       "layoutId": "body-noir-yellow",
       "slots": {
-        "brand": "STILLPOINT",
+        "brand": "THE DAILY PAGE",
         "scriptPrefix": "Ritual",
-        "displayLine1": "LEAVE IT",
-        "displayLine2": "UNFINISHED",
-        "displayLine3": "ON PURPOSE",
-        "body": "Hemingway left the last sentence unfinished to guarantee momentum tomorrow. Never drain the well completely. Always know exactly where you will begin again.",
-        "handle": "@stillpoint.write",
+        "displayLine1": "STOP WHEN",
+        "displayLine2": "YOU KNOW",
+        "displayLine3": "WHAT COMES NEXT",
+        "body": "Leave a little water in the well. Tomorrow's momentum depends on today's restraint.",
+        "handle": "@thedailypage",
         "slideId": "Slide 07"
       }
     },
     {
       "layoutId": "cta-noir-yellow",
       "slots": {
-        "brand": "STILLPOINT",
+        "brand": "THE DAILY PAGE",
         "scriptPrefix": "Begin",
-        "headline": "YOUR RITUAL STARTS NOW",
-        "scriptTagline": "Build a practice that outlasts your mood.",
-        "buttonLabel": "Start Today",
-        "handle": "@stillpoint.write",
+        "headline": "YOUR QUIET RITUAL TODAY",
+        "scriptTagline": "One quiet habit changes everything you write.",
+        "buttonLabel": "BEGIN YOUR RITUAL",
+        "handle": "@thedailypage",
         "slideId": "Slide 08"
       }
     }

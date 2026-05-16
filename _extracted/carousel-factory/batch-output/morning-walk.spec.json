@@ -1,96 +1,95 @@
 {
   "id": "morning-walk",
-  "brand": "THE DAILY STEP",
+  "brand": "THE DAILY DOSE",
   "brief": "Why a 20-minute morning walk beat my $400 wearable.",
   "theme": "dark-green-serif",
   "slides": [
     {
       "layoutId": "cover-dark-green-serif",
       "slots": {
-        "brand": "THE DAILY STEP",
+        "brand": "THE DAILY DOSE",
         "pageOf": "01 OF 08",
-        "headline": "Why a 20-Minute Walk Won",
-        "subtitle": "I ditched my $400 wearable for something way simpler.",
-        "stickerText": "THE TRUTH",
-        "handle": "@thedailystep"
+        "headline": "Why My Morning Walk Won?",
+        "subtitle": "The simple habit that outperformed four hundred dollars of tech.",
+        "stickerText": "TRUTH BOMB",
+        "handle": "@thedailydose"
       }
     },
     {
       "layoutId": "body-dark-green-serif",
       "slots": {
-        "brand": "THE DAILY STEP",
+        "brand": "THE DAILY DOSE",
         "pageOf": "02 OF 08",
         "number": "01",
-        "title": "I Was Data Rich",
-        "body": "I slept with a ring, showered with a watch, and woke up to recovery scores. I had more metrics than a NASA launch. But I still felt exhausted, anxious, and weirdly competitive with my own heart rate.",
-        "handle": "@thedailystep"
+        "title": "I Bought The Hype",
+        "body": "I dropped four hundred dollars on a wearable that promised perfect recovery scores and elite sleep staging. I woke up staring at graphs instead of the sunrise. The data was endless; the calm was not.",
+        "handle": "@thedailydose"
       }
     },
     {
       "layoutId": "body-dark-green-serif",
       "slots": {
-        "brand": "THE DAILY STEP",
+        "brand": "THE DAILY DOSE",
         "pageOf": "03 OF 08",
         "number": "02",
-        "title": "I Tried Walking Blind",
-        "body": "I left the wearable on the dresser and walked out the door for twenty minutes. No GPS, no cadence alerts, no buzz when my heart rate hit zone three. Just me, the sidewalk, and the morning light.",
-        "handle": "@thedailystep"
+        "title": "The Twenty-Minute Experiment",
+        "body": "I swapped the wrist tech for a barefoot loop around the block each morning. No metrics, no notifications, just birds and bad coffee. By day five, my resting heart rate settled and my head felt quieter.",
+        "handle": "@thedailydose"
       }
     },
     {
       "layoutId": "body-dark-green-serif",
       "slots": {
-        "brand": "THE DAILY STEP",
+        "brand": "THE DAILY DOSE",
         "pageOf": "04 OF 08",
         "number": "03",
-        "title": "My Head Cleared Fast",
-        "body": "By day three, the mental static started to fade. I wasn't checking a screen to validate the effort. I was simply moving, breathing, and letting my thoughts untangle without a grade at the end.",
-        "handle": "@thedailystep"
+        "title": "What The Research Says",
+        "body": "Studies show light morning movement lowers cortisol and stabilizes glucose better than evening exercise. Sunlight anchors your circadian rhythm. A wearable tells you that you slept poorly; a walk actually fixes it.",
+        "handle": "@thedailydose"
       }
     },
     {
       "layoutId": "body-dark-green-serif",
       "slots": {
-        "brand": "THE DAILY STEP",
+        "brand": "THE DAILY DOSE",
         "pageOf": "05 OF 08",
         "number": "04",
-        "title": "I Actually Slept Deeper",
-        "body": "Ironically, my sleep improved the moment I stopped obsessing over sleep scores. The walk regulated my cortisol better than any readiness metric ever had. I fell asleep faster and woke up without an alarm scolding me.",
-        "handle": "@thedailystep"
+        "title": "The Real Cost Comparison",
+        "body": "Four hundred dollars buys roughly two years of daily twenty-minute walks. The device depreciates; the habit compounds. One drains a battery, the other charges your nervous system.",
+        "handle": "@thedailydose"
       }
     },
     {
       "layoutId": "body-dark-green-serif",
       "slots": {
-        "brand": "THE DAILY STEP",
+        "brand": "THE DAILY DOSE",
         "pageOf": "06 OF 08",
         "number": "05",
-        "title": "Freedom Costs Zero",
-        "body": "The wearable cost four hundred dollars and demanded daily charging. The walk cost zero and only asked that I show up in sneakers. One created anxiety. The other quietly erased it.",
-        "handle": "@thedailystep"
+        "title": "When Tech Actually Helps",
+        "body": "I am not anti-gadget. Metrics work when they motivate, not when they rule your mood. But if the wearable becomes another screen to dread, the walk wins every time.",
+        "handle": "@thedailydose"
       }
     },
     {
       "layoutId": "body-dark-green-serif",
       "slots": {
-        "brand": "THE DAILY STEP",
+        "brand": "THE DAILY DOSE",
         "pageOf": "07 OF 08",
         "number": "06",
-        "title": "Movement Beats Metrics",
-        "body": "You don't need a dashboard to tell you that fresh air works. The best fitness tool is the one you never have to charge. Sometimes the oldest technology is the smartest investment.",
-        "handle": "@thedailystep"
+        "title": "Start Tomorrow Morning",
+        "body": "Leave the charger on the nightstand. Lace up, step out, and stay out for twenty minutes. The best health tracker has always been your own two feet.",
+        "handle": "@thedailydose"
       }
     },
     {
       "layoutId": "cta-dark-green-serif",
       "slots": {
-        "brand": "THE DAILY STEP",
-        "pageOf": "08 OF 08",
-        "eyebrow": "YOUR TURN",
-        "headline": "Take the Twenty-Minute Test",
-        "body": "Leave the watch at home. Walk for twenty minutes and notice how you feel before coffee and notifications.",
+        "brand": "THE DAILY DOSE",
+        "eyebrow": "JOIN US",
+        "headline": "Walk With Us Daily",
+        "body": "Get one simple, science-backed walking tip every morning. No noise, no notifications.",
         "buttonLabel": "START WALKING",
-        "handle": "@thedailystep"
+        "handle": "@thedailydose"
       }
     }
   ]

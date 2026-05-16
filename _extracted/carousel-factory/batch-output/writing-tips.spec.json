@@ -1,92 +1,92 @@
 {
   "id": "writing-tips",
-  "brand": "Typewise",
+  "brand": "FirstDraft",
   "brief": "6 writing tips for founders who hate writing.",
   "theme": "beige-paper",
   "slides": [
     {
       "layoutId": "cover-beige-serif",
       "slots": {
-        "brand": "Typewise",
-        "headline": "Six Writing Tips for Founders Who Truly Hate Writing",
+        "brand": "FirstDraft",
+        "headline": "Six Writing Tips for Founders Who Absolutely Hate Writing",
         "slideCountHero": "6"
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "Typewise",
+        "brand": "FirstDraft",
         "number": "01",
-        "title": "Talk, Don't Type",
-        "body": "Record your thoughts as a voice memo, then transcribe them. Speaking naturally unlocks ideas faster than staring at a blank page. Edit the transcript into clean copy.",
-        "handle": "@typewise",
-        "domain": "typewise.com"
+        "title": "Talk It Out",
+        "body": "Record your thoughts as voice notes and let AI transcribe them. Speaking naturally beats staring at a blank page. Edit the transcript into clean copy in minutes.",
+        "handle": "@firstdraft",
+        "domain": "firstdraft.com"
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "Typewise",
+        "brand": "FirstDraft",
         "number": "02",
-        "title": "One Messy Draft",
-        "body": "Give yourself permission to write badly on the first pass. Perfectionism kills momentum before a single sentence is finished. You can polish raw ideas, but you cannot edit an empty screen.",
-        "handle": "@typewise",
-        "domain": "typewise.com"
+        "title": "Bullet Your Ideas",
+        "body": "Start with a messy list of bullet points instead of full sentences. Each bullet is one idea. Rearrange them until they flow, then add transitions.",
+        "handle": "@firstdraft",
+        "domain": "firstdraft.com"
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "Typewise",
+        "brand": "FirstDraft",
         "number": "03",
-        "title": "Use Simple Structure",
-        "body": "Start with the problem, present your solution, then add proof. This three-part framework removes guesswork from every landing page or email. Clarity beats cleverness when you are selling trust.",
-        "handle": "@typewise",
-        "domain": "typewise.com"
+        "title": "Write to One",
+        "body": "Picture one specific customer or investor reading your words. Writing for a crowd creates corporate fluff. A single reader forces clarity and tone.",
+        "handle": "@firstdraft",
+        "domain": "firstdraft.com"
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "Typewise",
+        "brand": "FirstDraft",
         "number": "04",
-        "title": "Set a Timer",
-        "body": "Limit writing sprints to fifteen minutes to silence your inner critic. A tight deadline forces decisions and prevents endless rewriting. You will be surprised how much usable copy appears under pressure.",
-        "handle": "@typewise",
-        "domain": "typewise.com"
+        "title": "Use a Timer",
+        "body": "Give yourself fifteen minutes and permission to write garbage. A deadline kills perfectionism. You can always edit bad words, but not a blank page.",
+        "handle": "@firstdraft",
+        "domain": "firstdraft.com"
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "Typewise",
+        "brand": "FirstDraft",
         "number": "05",
-        "title": "Copy Your Customers",
-        "body": "Pull phrases from customer reviews, sales calls, and support tickets. Your audience already describes the problem in words that convert. Borrow their language instead of inventing jargon from scratch.",
-        "handle": "@typewise",
-        "domain": "typewise.com"
+        "title": "State the Point",
+        "body": "Decide your one-sentence takeaway before you begin. Knowing the destination keeps you from wandering. Build everything backward from that final line.",
+        "handle": "@firstdraft",
+        "domain": "firstdraft.com"
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "Typewise",
+        "brand": "FirstDraft",
         "number": "06",
-        "title": "Hire an Editor",
-        "body": "You do not need to be the final polish. Get the ideas down, then hand them to an editor. Great founders delegate refinement so they can keep building.",
-        "handle": "@typewise",
-        "domain": "typewise.com"
+        "title": "Separate Drafts",
+        "body": "Never edit while you write. Turn off the red pen and dump every thought onto the page. Polish comes only after the idea exists.",
+        "handle": "@firstdraft",
+        "domain": "firstdraft.com"
       }
     },
     {
       "layoutId": "cta-beige-serif",
       "slots": {
-        "brand": "Typewise",
-        "eyebrow": "START WRITING",
-        "headline": "Turn Thoughts Into Copy",
-        "body": "Apply these tips today and watch your content finally get finished. Your message matters more than perfect prose.",
-        "buttonLabel": "GRAB THE GUIDE",
-        "handle": "@typewise"
+        "brand": "FirstDraft",
+        "eyebrow": "START WRITING TODAY",
+        "headline": "Make Writing Your Secret Weapon",
+        "body": "Writing is a muscle, not a talent. Start messy, publish anyway, and watch your clarity compound weekly.",
+        "buttonLabel": "SAVE THIS POST",
+        "handle": "@firstdraft"
       }
     }
   ]

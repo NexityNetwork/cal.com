@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/linkedin-content-loop/slide-01.png",
-      "bytes": 234456,
+      "bytes": 249270,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -23,7 +23,7 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/linkedin-content-loop/slide-02.png",
-      "bytes": 195942,
+      "bytes": 224023,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -45,7 +45,7 @@
             "x": 110,
             "y": 470,
             "w": 860,
-            "h": 87
+            "h": 131
           }
         }
       }
@@ -53,7 +53,7 @@
     {
       "index": 2,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/linkedin-content-loop/slide-03.png",
-      "bytes": 189865,
+      "bytes": 224822,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -75,7 +75,7 @@
             "x": 110,
             "y": 470,
             "w": 860,
-            "h": 87
+            "h": 131
           }
         }
       }
@@ -83,7 +83,7 @@
     {
       "index": 3,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/linkedin-content-loop/slide-04.png",
-      "bytes": 190386,
+      "bytes": 228602,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -105,7 +105,7 @@
             "x": 110,
             "y": 470,
             "w": 860,
-            "h": 87
+            "h": 131
           }
         }
       }
@@ -113,7 +113,7 @@
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/linkedin-content-loop/slide-05.png",
-      "bytes": 197274,
+      "bytes": 225891,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -135,7 +135,7 @@
             "x": 110,
             "y": 470,
             "w": 860,
-            "h": 87
+            "h": 131
           }
         }
       }
@@ -143,7 +143,7 @@
     {
       "index": 5,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/linkedin-content-loop/slide-06.png",
-      "bytes": 199589,
+      "bytes": 222224,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -165,7 +165,7 @@
             "x": 110,
             "y": 470,
             "w": 860,
-            "h": 87
+            "h": 131
           }
         }
       }
@@ -173,7 +173,7 @@
     {
       "index": 6,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/linkedin-content-loop/slide-07.png",
-      "bytes": 189769,
+      "bytes": 227593,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -195,7 +195,7 @@
             "x": 110,
             "y": 470,
             "w": 860,
-            "h": 87
+            "h": 131
           }
         }
       }
@@ -203,7 +203,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/linkedin-content-loop/slide-08.png",
-      "bytes": 67461,
+      "bytes": 68328,
       "qa": {
         "verdict": "fail",
         "checks": {

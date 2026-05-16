@@ -7,8 +7,8 @@
     {
       "layoutId": "cover-retro-groovy",
       "slots": {
-        "title": "Launch your brand fast",
-        "ctaText": "Your no-BS 7-day playbook",
+        "title": "Launch your brand",
+        "ctaText": "The no-BS playbook for busy founders",
         "handle": "@launchlab"
       }
     },
@@ -16,8 +16,8 @@
       "layoutId": "body-retro-groovy",
       "slots": {
         "number": "01",
-        "title": "Audit Your Niche",
-        "body": "Spend one hour mapping competitors and spotting the gap your brand can own. Don't overthink it—just find the white space.",
+        "title": "Lock Your Strategy",
+        "body": "Pick a niche, name your vibe, and know exactly who you're talking to. No fancy deck needed—just a one-pager with your mission, audience, and edge. Done is better than perfect here.",
         "handle": "@launchlab"
       }
     },
@@ -25,8 +25,8 @@
       "layoutId": "body-retro-groovy",
       "slots": {
         "number": "02",
-        "title": "Pick Your Vibe",
-        "body": "Lock in your name, colors, and fonts in one afternoon. Use a simple mood board so everything feels cohesive, not chaotic.",
+        "title": "Design Your Identity",
+        "body": "Skip the 20-page guideline. Build a scrappy logo, pick two fonts, and lock in three brand colors. Use Canva or Figma templates so you don't get stuck in revision hell.",
         "handle": "@launchlab"
       }
     },
@@ -34,8 +34,8 @@
       "layoutId": "body-retro-groovy",
       "slots": {
         "number": "03",
-        "title": "Build Your Home Base",
-        "body": "Set up a one-page website with a clear offer and email capture. Keep the copy punchy and the load time fast.",
+        "title": "Build Your Homebase",
+        "body": "You need one killer landing page, not a ten-page website. Write punchy copy, add a waitlist or buy button, and make sure it looks fire on mobile.",
         "handle": "@launchlab"
       }
     },
@@ -43,8 +43,8 @@
       "layoutId": "body-retro-groovy",
       "slots": {
         "number": "04",
-        "title": "Create Core Content",
-        "body": "Batch your launch posts, stories, and emails in a single day. Focus on the problem you solve, not just features.",
+        "title": "Batch Your Content",
+        "body": "Film seven short videos or carousels in one afternoon. Repurpose every clip across Reels, TikTok, and LinkedIn. Consistency beats quality when you're starting from zero.",
         "handle": "@launchlab"
       }
     },
@@ -52,8 +52,8 @@
       "layoutId": "body-retro-groovy",
       "slots": {
         "number": "05",
-        "title": "Set Up Systems",
-        "body": "Automate your onboarding, payments, and calendar before you go live. A smooth backend saves you from launch-day panic.",
+        "title": "Soft Launch Now",
+        "body": "Don't wait for perfection. Post, email your list, and tell everyone you know. Real feedback beats imaginary tweaks every single time.",
         "handle": "@launchlab"
       }
     },
@@ -61,18 +61,18 @@
       "layoutId": "body-retro-groovy",
       "slots": {
         "number": "06",
-        "title": "Go Live Loud",
-        "body": "Hit publish and tell everyone why you started. Momentum beats perfection, so ship it and iterate as you grow.",
+        "title": "Iterate in Public",
+        "body": "Fix the logo later. Tweak the copy tonight. Launching is a loop, not a line—keep shipping while people are actually watching.",
         "handle": "@launchlab"
       }
     },
     {
       "layoutId": "cta-retro-groovy",
       "slots": {
-        "eyebrow": "OVER TO YOU",
-        "headline": "Launch Your Brand This Week",
-        "body": "Grab the full 7-day checklist and start building today. No fluff, just action.",
-        "buttonLabel": "Grab the checklist",
+        "eyebrow": "FINAL TAKE",
+        "headline": "Launch Before You're Ready",
+        "body": "Grab the free 7-day checklist and build your brand this week. No fluff, just action.",
+        "buttonLabel": "Get the Checklist",
         "handle": "@launchlab"
       }
     }

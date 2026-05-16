@@ -8,104 +8,104 @@
       "layoutId": "cover-linkedin-pro",
       "slots": {
         "author": "Maya Patel",
-        "badgeText": "SAVE THIS POST",
+        "badgeText": "LINKEDIN CAROUSEL POST",
         "pageNumber": "1",
-        "accentColor": "#10b981",
-        "headline": "Hiring Engineers in 2026: Beyond Code Tests",
+        "accentColor": "#4f3df5",
+        "headline": "We Don't Do Coding Tests Anymore",
         "heroSymbol": "⚡",
-        "heroBg": "#064e3b",
-        "heroBg2": "#10b981",
-        "body": "Coding tests are fading. The best teams now screen for judgment, communication, and adaptability. Here is what actually matters."
+        "heroBg": "#4f3df5",
+        "heroBg2": "#06b6d4",
+        "body": "The best technical interview is a conversation, not an exam. Here is what we actually look for in 2026."
       }
     },
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
         "author": "Maya Patel",
-        "badgeText": "LINKEDIN CAROUSEL POST",
+        "badgeText": "SAVE THIS POST",
         "pageNumber": "2",
-        "accentColor": "#10b981",
-        "title": "Systems Thinking Wins",
-        "body": "We care more about how you architect trade-offs than how fast you write loops. Can you simplify complexity?",
-        "heroSymbol": "🧠",
-        "heroBg": "#064e3b",
-        "heroBg2": "#10b981",
-        "labelText": "THE 2026 PLAYBOOK."
+        "accentColor": "#4f3df5",
+        "title": "System Design Over Syntax",
+        "body": "We ask candidates to architect a feature, not memorize algorithms. Clean trade-offs beat clever code.",
+        "heroSymbol": "🏗",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#06b6d4",
+        "labelText": "HIRE DIFFERENTLY"
       }
     },
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
         "author": "Maya Patel",
-        "badgeText": "LINKEDIN CAROUSEL POST",
+        "badgeText": "SAVE THIS POST",
         "pageNumber": "3",
-        "accentColor": "#10b981",
-        "title": "Prioritise Relentless Curiosity",
-        "body": "The half-life of skills is shrinking. We hire people who ask better questions and learn publicly, not those who memorise syntax.",
-        "heroSymbol": "🔍",
-        "heroBg": "#064e3b",
-        "heroBg2": "#10b981",
-        "labelText": "THE 2026 PLAYBOOK."
-      }
-    },
-    {
-      "layoutId": "body-linkedin-pro",
-      "slots": {
-        "author": "Maya Patel",
-        "badgeText": "LINKEDIN CAROUSEL POST",
-        "pageNumber": "4",
-        "accentColor": "#10b981",
-        "title": "Communication Is Architecture",
-        "body": "If you cannot explain the why, you cannot scale the what. Great engineers write and speak with radical clarity.",
+        "accentColor": "#4f3df5",
+        "title": "Communication Is a Feature",
+        "body": "Engineers who write clear docs and explain trade-offs ship faster. We test this in every interview.",
         "heroSymbol": "💬",
-        "heroBg": "#064e3b",
-        "heroBg2": "#10b981",
-        "labelText": "THE 2026 PLAYBOOK."
+        "heroBg": "#4f3df5",
+        "heroBg2": "#06b6d4",
+        "labelText": "HIRE DIFFERENTLY"
       }
     },
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
         "author": "Maya Patel",
-        "badgeText": "LINKEDIN CAROUSEL POST",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "4",
+        "accentColor": "#4f3df5",
+        "title": "AI Fluency Matters Most",
+        "body": "We don't ban ChatGPT. We watch how candidates prompt, verify, and refine AI-generated output.",
+        "heroSymbol": "🤖",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#06b6d4",
+        "labelText": "HIRE DIFFERENTLY"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Maya Patel",
+        "badgeText": "SAVE THIS POST",
         "pageNumber": "5",
-        "accentColor": "#10b981",
-        "title": "Practice Extreme Ownership",
-        "body": "We look for builders who debug culture, not just code. You own the blast radius and the follow-through.",
-        "heroSymbol": "⚓",
-        "heroBg": "#064e3b",
-        "heroBg2": "#10b981",
-        "labelText": "THE 2026 PLAYBOOK."
+        "accentColor": "#4f3df5",
+        "title": "Own the Problem End-to-End",
+        "body": "We look for curiosity about the 'why' behind the ticket. Ownership beats task completion every time.",
+        "heroSymbol": "🎯",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#06b6d4",
+        "labelText": "HIRE DIFFERENTLY"
       }
     },
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
         "author": "Maya Patel",
-        "badgeText": "LINKEDIN CAROUSEL POST",
+        "badgeText": "SAVE THIS POST",
         "pageNumber": "6",
-        "accentColor": "#10b981",
-        "title": "Embrace Rapid Adaptability",
-        "body": "Roadmaps change weekly. We value engineers who pivot with evidence, not panic, and turn ambiguity into momentum.",
-        "heroSymbol": "🚀",
-        "heroBg": "#064e3b",
-        "heroBg2": "#10b981",
-        "labelText": "THE 2026 PLAYBOOK."
+        "accentColor": "#4f3df5",
+        "title": "Learn in Public",
+        "body": "Tech stacks expire. We hire engineers who show proof of learning from failure and feedback loops.",
+        "heroSymbol": "📈",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#06b6d4",
+        "labelText": "HIRE DIFFERENTLY"
       }
     },
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
         "author": "Maya Patel",
-        "badgeText": "LINKEDIN CAROUSEL POST",
+        "badgeText": "SAVE THIS POST",
         "pageNumber": "7",
-        "accentColor": "#10b981",
-        "title": "Build Team-First Mindsets",
-        "body": "The hardest problems are solved by diverse minds. We screen for empathy, feedback, and shared credit.",
-        "heroSymbol": "🤝",
-        "heroBg": "#064e3b",
-        "heroBg2": "#10b981",
-        "labelText": "THE 2026 PLAYBOOK."
+        "accentColor": "#4f3df5",
+        "title": "Culture Add, Not Fit",
+        "body": "We want diverse perspectives that challenge us. Hiring clones kills innovation and team resilience.",
+        "heroSymbol": "🌱",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#06b6d4",
+        "labelText": "HIRE DIFFERENTLY"
       }
     },
     {
@@ -114,11 +114,11 @@
         "author": "Maya Patel",
         "badgeText": "SAVE THIS POST",
         "pageNumber": "8",
-        "accentColor": "#10b981",
+        "accentColor": "#4f3df5",
         "eyebrow": "YOUR TURN?",
-        "headline": "Which Trait Matters Most?",
-        "body": "Share the one quality you prioritise when hiring engineers in 2026. I will read every comment.",
-        "buttonLabel": "Comment below",
+        "headline": "What Are You Looking For?",
+        "body": "Drop one trait you value most when building your engineering team in 2026.",
+        "buttonLabel": "Follow for More",
         "secondaryLabel": "Repost",
         "handle": "@mayapatel"
       }

@@ -1,6 +1,6 @@
 {
   "id": "ai-replaces-saas",
-  "brand": "AgentStack",
+  "brand": "NXT STACK",
   "brief": "5 SaaS categories AI agents are killing in 2026 — and what to build instead.",
   "theme": "ember-dark",
   "slides": [
@@ -8,63 +8,63 @@
       "layoutId": "cover-display-cta",
       "slots": {
         "pageNumber": "01",
-        "headlineLine1": "AI kills SaaS",
-        "headlineLine2": "Build what survives",
-        "accentSuffix": "."
+        "headlineLine1": "5 SaaS Categories",
+        "headlineLine2": "Agents Will Kill",
+        "accentSuffix": "!"
       }
     },
     {
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "02",
-        "title": "1. CRM, the dying database",
-        "body": "Static contact lists are dead. Build an AI relationship agent that updates itself, schedules follow-ups, and drafts context-aware emails without manual entry.",
-        "iconSlug": "airtable"
+        "title": "0. The Shift, the signal",
+        "body": "AI agents are replacing single-purpose SaaS tools with autonomous workflows. Founders building point solutions will face extinction by 2026.",
+        "iconSlug": "anthropic"
       }
     },
     {
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "03",
-        "title": "2. Task boards, the stale tracker",
-        "body": "Kanban cards don't execute code. Ship an agentic project layer that assigns tasks, predicts blockers, and autonomously resolves dependencies across teams.",
-        "iconSlug": "linear"
+        "title": "1. CRM, the casualty",
+        "body": "Manual data entry and static pipelines die when agents auto-log every interaction. Build an AI-native relationship operating system instead.",
+        "iconSlug": "airtable"
       }
     },
     {
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "04",
-        "title": "3. Chatbots, the scripted gatekeeper",
-        "body": "FAQ trees frustrate users. Replace them with autonomous support engineers that debug issues, trigger refunds, and rewrite docs using live product context.",
-        "iconSlug": "discord"
+        "title": "2. Support, the obsolete",
+        "body": "Rule-based chatbots and ticket queues collapse against agents that resolve issues end-to-end. Build autonomous resolution infrastructure instead.",
+        "iconSlug": "slack"
       }
     },
     {
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "05",
-        "title": "4. Dashboards, the passive report",
-        "body": "Charts don't close deals. Sell narrative intelligence agents that query metrics, draft board summaries, and recommend pricing changes in plain English.",
-        "iconSlug": "zapier"
+        "title": "3. Scheduling, the victim",
+        "body": "Link-sharing schedulers fail when agents negotiate times across time zones and priorities. Build an executive agent with context-aware autonomy.",
+        "iconSlug": "calendly"
       }
     },
     {
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "06",
-        "title": "5. Expense tools, the manual inbox",
-        "body": "Receipt chasing wastes hours. Launch finance agents that audit subscriptions, negotiate vendor bills, and forecast burn from unstructured Slack threads.",
-        "iconSlug": "stripe"
+        "title": "4. Research, the replaced",
+        "body": "Dashboards requiring human interpretation lose to agents that deliver answers and actions. Build agentic insight generators with source verification.",
+        "iconSlug": "langchain"
       }
     },
     {
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "07",
-        "title": "6. Infrastructure, the real moat",
-        "body": "Don't rebuild another SaaS UI. Build the memory layer, agent router, and trust framework that lets every company spawn its own vertical AI workforce.",
-        "iconSlug": "supabase"
+        "title": "5. Projects, the dead",
+        "body": "Static task boards rot when agents autonomously plan, delegate, and ship software. Build self-organizing execution systems with memory.",
+        "iconSlug": "linear"
       }
     },
     {
@@ -72,10 +72,10 @@
       "slots": {
         "pageNumber": "08",
         "eyebrow": "YOUR MOVE",
-        "headline": "Build the agent layer.",
-        "subline": "SaaS is becoming invisible. The winners in 2026 sell outcomes, not seats.",
-        "buttonLabel": "DM 'stack'",
-        "handle": "@agentstack"
+        "headline": "Build the Agent Layer",
+        "subline": "Stop building tools AI will swallow. Start building the autonomous infrastructure that replaces them.",
+        "buttonLabel": "Save this post",
+        "handle": "@nxtstack"
       }
     }
   ]

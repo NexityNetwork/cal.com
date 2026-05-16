@@ -1,92 +1,92 @@
 {
   "id": "reading-list",
-  "brand": "Founder Notes",
+  "brand": "Quiet Ops",
   "brief": "6 books that quietly changed how I run a company. Why each one mattered.",
   "theme": "beige-paper",
   "slides": [
     {
       "layoutId": "cover-beige-serif",
       "slots": {
-        "brand": "Founder Notes",
-        "headline": "Six Books That Quietly Changed How I Lead a Company",
+        "brand": "Quiet Ops",
+        "headline": "Six books that quietly changed how I run a company",
         "slideCountHero": "6"
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "Founder Notes",
+        "brand": "Quiet Ops",
         "number": "01",
-        "title": "Effectiveness First",
-        "body": "Drucker taught me that doing things right is less important than doing the right things. I stopped glorifying busywork and started measuring contribution. Now my calendar reflects priorities, not just presence.",
-        "handle": "@x",
-        "domain": "x.com"
+        "title": "Know Your Time",
+        "body": "Drucker taught me that effectiveness is a discipline, not a personality. Tracking time ruthlessly revealed where my attention actually went. It changed every hiring and meeting decision.",
+        "handle": "@quietops",
+        "domain": "quietops.com"
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "Founder Notes",
+        "brand": "Quiet Ops",
         "number": "02",
-        "title": "Output Over Activity",
-        "body": "Grove turned management into a production process. I learned to identify leverage points and measure real output rather than hours spent. Meetings became forums for decisions, not rituals.",
-        "handle": "@x",
-        "domain": "x.com"
+        "title": "Intent, Not Permission",
+        "body": "Marquet’s leader-leader model replaced my instinct to approve every move. Pushing authority to the information created a faster, more engaged team.",
+        "handle": "@quietops",
+        "domain": "quietops.com"
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "Founder Notes",
+        "brand": "Quiet Ops",
         "number": "03",
-        "title": "Embrace The Struggle",
-        "body": "Horowitz made peace with the messy middle. I stopped searching for perfect playbooks and started building muscle for the moments when there are no good answers. Resilience became an operating system.",
-        "handle": "@x",
-        "domain": "x.com"
+        "title": "Measure Output",
+        "body": "Grove reframed management as a production process. Focusing on output, not activity, forced me to build systems that scale without my daily presence.",
+        "handle": "@quietops",
+        "domain": "quietops.com"
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "Founder Notes",
+        "brand": "Quiet Ops",
         "number": "04",
-        "title": "Push Authority Down",
-        "body": "Marquet proved that leaders should push authority to information, not the other way around. I replaced top-down approval with intent-based leadership. My team moves faster and owns outcomes instead of tasks.",
-        "handle": "@x",
-        "domain": "x.com"
+        "title": "Embrace The Struggle",
+        "body": "Horowitz made peace with the loneliness of leadership. His lens on peacetime versus wartime CEOs prepared me to adapt culture when survival is at stake.",
+        "handle": "@quietops",
+        "domain": "quietops.com"
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "Founder Notes",
+        "brand": "Quiet Ops",
         "number": "05",
-        "title": "Think In Probabilities",
-        "body": "Duke taught me to separate decision quality from outcome luck. I now review process over results and reward calibrated thinking even when bets lose. Clarity replaced hindsight bias.",
-        "handle": "@x",
-        "domain": "x.com"
+        "title": "Lead With Vulnerability",
+        "body": "Brown’s research on shame and courage rewired how I give feedback. Creating psychological safety turned out to be the highest-leverage investment in performance.",
+        "handle": "@quietops",
+        "domain": "quietops.com"
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "Founder Notes",
+        "brand": "Quiet Ops",
         "number": "06",
-        "title": "Find The Constraint",
-        "body": "Goldratt revealed that every system has one bottleneck. I stopped optimizing every department and started protecting the constraint. Flow improved and firefighting became rare.",
-        "handle": "@x",
-        "domain": "x.com"
+        "title": "See The System",
+        "body": "Meadows shifted my focus from isolated fixes to feedback loops. Understanding delays and bottlenecks helped me stop solving the same problem twice.",
+        "handle": "@quietops",
+        "domain": "quietops.com"
       }
     },
     {
       "layoutId": "cta-beige-serif",
       "slots": {
-        "brand": "Founder Notes",
-        "eyebrow": "YOUR TURN NOW",
-        "headline": "What Book Changed You?",
-        "body": "Share the one book that reshaped how you lead. I am always hunting for the next quiet game-changer.",
-        "buttonLabel": "SHARE YOUR PICK",
-        "handle": "@x"
+        "brand": "Quiet Ops",
+        "eyebrow": "READING ROUNDUP",
+        "headline": "Build Your Leadership Library",
+        "body": "Reply with the title that shaped how you lead. I am always hunting for the next quiet revolution.",
+        "buttonLabel": "SAVE THIS LIST",
+        "handle": "@quietops"
       }
     }
   ]

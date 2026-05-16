@@ -1,0 +1,95 @@
+{
+  "id": "quit-the-9-to-5-pill",
+  "brand": "ALEX CHEN",
+  "brief": "Why I quit my 9-to-5 — and what I'd do differently if I started over.",
+  "theme": "condensed-pill",
+  "slides": [
+    {
+      "layoutId": "cover-condensed-pill",
+      "slots": {
+        "brand": "ALEX CHEN",
+        "preLine": "Why I",
+        "pillText": "QUIT",
+        "postLine": "my 9-to-5 job",
+        "author": "Alex Chen"
+      }
+    },
+    {
+      "layoutId": "body-condensed-pill",
+      "slots": {
+        "brand": "ALEX CHEN",
+        "number": "01",
+        "numberLabel": "Catalyst",
+        "title": "SNAP POINT",
+        "body": "I ignored burnout for six months until a Tuesday panic attack in a parking lot rewrote my priorities overnight.",
+        "author": "Alex Chen"
+      }
+    },
+    {
+      "layoutId": "body-condensed-pill",
+      "slots": {
+        "brand": "ALEX CHEN",
+        "number": "02",
+        "numberLabel": "Mistake",
+        "title": "NO PLAN",
+        "body": "I handed in my notice with no savings runway and no client pipeline, trading one stress for a deeper, quieter dread.",
+        "author": "Alex Chen"
+      }
+    },
+    {
+      "layoutId": "body-condensed-pill",
+      "slots": {
+        "brand": "ALEX CHEN",
+        "number": "03",
+        "numberLabel": "Pivot",
+        "title": "SKILL FIRST",
+        "body": "If I started over, I would monetize one proven skill before quitting, letting the side income validate the leap.",
+        "author": "Alex Chen"
+      }
+    },
+    {
+      "layoutId": "body-condensed-pill",
+      "slots": {
+        "brand": "ALEX CHEN",
+        "number": "04",
+        "numberLabel": "Buffer",
+        "title": "SAVE FIRST",
+        "body": "Three months of expenses is the minimum; six buys you the calm to say no to bad clients and worse projects.",
+        "author": "Alex Chen"
+      }
+    },
+    {
+      "layoutId": "body-condensed-pill",
+      "slots": {
+        "brand": "ALEX CHEN",
+        "number": "05",
+        "numberLabel": "Network",
+        "title": "TALK EARLY",
+        "body": "I wish I had told trusted peers about my exit three months sooner; opportunities arrive faster when people know you're leaving.",
+        "author": "Alex Chen"
+      }
+    },
+    {
+      "layoutId": "body-condensed-pill",
+      "slots": {
+        "brand": "ALEX CHEN",
+        "number": "06",
+        "numberLabel": "Reality",
+        "title": "WORTH IT",
+        "body": "The first year was harder than the job, yet reclaiming my mornings, mind, and margin made every risk feel inevitable.",
+        "author": "Alex Chen"
+      }
+    },
+    {
+      "layoutId": "cta-condensed-pill",
+      "slots": {
+        "brand": "ALEX CHEN",
+        "eyebrow": "YOUR TURN",
+        "headline": "GO",
+        "body": "Quit the dream of quitting blindly; build the runway first, then leap with your eyes wide open.",
+        "buttonLabel": "Save this post",
+        "author": "Alex Chen"
+      }
+    }
+  ]
+}

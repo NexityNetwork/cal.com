@@ -1,92 +1,92 @@
 {
   "id": "productivity-tips",
-  "brand": "STUDIO FLOW",
+  "brand": "STUDIO COE",
   "brief": "6 productivity tips from a designer who built a 7-figure studio.",
   "theme": "beige-paper",
   "slides": [
     {
       "layoutId": "cover-beige-serif",
       "slots": {
-        "brand": "STUDIO FLOW",
-        "headline": "Six productivity habits that scaled my studio to seven figures.",
+        "brand": "STUDIO COE",
+        "headline": "Six Productivity Habits That Scaled My Design Studio to Seven Figures",
         "slideCountHero": "6"
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "STUDIO FLOW",
+        "brand": "STUDIO COE",
         "number": "01",
-        "title": "Time-block deep work",
-        "body": "Protect three-hour windows for design without Slack or email. Your best creative output demands uninterrupted focus. Treat these blocks as non-negotiable client meetings.",
-        "handle": "@designlead",
-        "domain": "designlead.com"
+        "title": "Block Deep Work",
+        "body": "Protect three uninterrupted hours every morning for your most complex creative tasks. Email and Slack can wait until after lunch. This single shift doubled my output without adding hours.",
+        "handle": "@studiocoe",
+        "domain": "studiocoe.com"
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "STUDIO FLOW",
+        "brand": "STUDIO COE",
         "number": "02",
-        "title": "Build design systems",
-        "body": "Reusable components cut delivery time in half immediately. Start with type, color, and spacing rules every project shares. Consistency is a profit multiplier.",
-        "handle": "@designlead",
-        "domain": "designlead.com"
+        "title": "Batch Admin Tasks",
+        "body": "Group all meetings, invoicing, and emails into two dedicated afternoons per week. Context switching kills creative momentum faster than any deadline. Batching keeps your mind in design mode longer.",
+        "handle": "@studiocoe",
+        "domain": "studiocoe.com"
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "STUDIO FLOW",
+        "brand": "STUDIO COE",
         "number": "03",
-        "title": "Automate onboarding early",
-        "body": "Use templates for contracts, briefs, and welcome emails. Automation removes repetitive admin so you can bill for creativity, not inbox management.",
-        "handle": "@designlead",
-        "domain": "designlead.com"
+        "title": "Template Your Workflow",
+        "body": "Build reusable templates for proposals, contracts, and brand presentations. You are not being lazy; you are buying back future hours. Standardization is the secret weapon of every scalable studio.",
+        "handle": "@studiocoe",
+        "domain": "studiocoe.com"
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "STUDIO FLOW",
+        "brand": "STUDIO COE",
         "number": "04",
-        "title": "Kill scope creep fast",
-        "body": "Define deliverables in writing before any work begins. When requests drift, quote a change order same-day. Boundaries protect margins and sanity.",
-        "handle": "@designlead",
-        "domain": "designlead.com"
+        "title": "Filter Client Intake",
+        "body": "Not every project deserves your calendar. Create a short qualification checklist to screen leads before the first call. Saying no to the wrong work creates space for the right revenue.",
+        "handle": "@studiocoe",
+        "domain": "studiocoe.com"
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "STUDIO FLOW",
+        "brand": "STUDIO COE",
         "number": "05",
-        "title": "Batch admin tasks",
-        "body": "Group invoicing, emails, and updates into one afternoon. Switching contexts kills momentum; batching keeps the rest of your week free for making.",
-        "handle": "@designlead",
-        "domain": "designlead.com"
+        "title": "Hire Before Ready",
+        "body": "Bring on support the moment you can afford it, not when you are drowning. A part-time assistant or junior designer preserves your energy for high-value strategy. Growth stalls when the founder becomes the bottleneck.",
+        "handle": "@studiocoe",
+        "domain": "studiocoe.com"
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "STUDIO FLOW",
+        "brand": "STUDIO COE",
         "number": "06",
-        "title": "Protect your mornings",
-        "body": "Tackle your hardest creative work before noon. Willpower depletes as the day progresses, so guard early hours like they are billable gold.",
-        "handle": "@designlead",
-        "domain": "designlead.com"
+        "title": "Manage Your Energy",
+        "body": "Productivity is not about hours; it is about focused energy. Track your peak performance windows and schedule creative work accordingly. Rest is a business strategy, not a reward.",
+        "handle": "@studiocoe",
+        "domain": "studiocoe.com"
       }
     },
     {
       "layoutId": "cta-beige-serif",
       "slots": {
-        "brand": "STUDIO FLOW",
-        "eyebrow": "READY TO SCALE",
-        "headline": "Build a studio that runs itself.",
-        "body": "Steal the exact templates and systems I used to grow. Your creative business deserves better margins.",
-        "buttonLabel": "GET THE TEMPLATES",
-        "handle": "@designlead"
+        "brand": "STUDIO COE",
+        "eyebrow": "SCALE YOUR STUDIO",
+        "headline": "Productivity Is Your Profit Engine",
+        "body": "Download our free studio playbook and start reclaiming hours for the work that actually moves the needle.",
+        "buttonLabel": "GET THE PLAYBOOK",
+        "handle": "@studiocoe"
       }
     }
   ]

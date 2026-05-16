@@ -1,90 +1,90 @@
 {
   "id": "glow-skin-beauty",
-  "brand": "LUMIÈRE",
+  "brand": "LUMIERE",
   "brief": "How to have a perfect glow skin — 5 steps from a dermatologist.",
   "theme": "minimal-beauty",
   "slides": [
     {
       "layoutId": "cover-minimal-beauty",
       "slots": {
-        "handle": "@lumiere.skin",
-        "author": "DR. ELENA VOSS",
+        "handle": "@drsarahchen",
+        "author": "Dr. Sarah Chen",
         "role": "BOARD-CERTIFIED DERMATOLOGIST",
-        "titleLine1": "THE ART",
-        "titleLine2": "OF GLOWING",
-        "titleLine3": "SKIN",
-        "subtitle": "A DERMATOLOGIST'S RITUAL FOR RADIANT SKIN"
+        "titleLine1": "THE GLOW",
+        "titleLine2": "SKIN GUIDE",
+        "titleLine3": "FIVE STEPS",
+        "subtitle": "EXPERT PROTOCOL FOR LUMINOUS HEALTHY SKIN"
       }
     },
     {
       "layoutId": "body-minimal-beauty",
       "slots": {
-        "handle": "@lumiere.skin",
-        "author": "DR. ELENA VOSS",
-        "number": "01 / 06",
-        "title": "CLEANSE & PURIFY",
-        "body": "Start with a gentle, pH-balanced cleanser to remove impurities without stripping your skin's natural moisture barrier. This prepares your complexion to absorb every active ingredient that follows."
+        "handle": "@drsarahchen",
+        "author": "Dr. Sarah Chen",
+        "number": "STEP 01",
+        "title": "GENTLE CLEANSE",
+        "body": "Start every morning and evening with a mild, pH-balanced cleanser. This removes impurities without stripping your skin's natural moisture barrier."
       }
     },
     {
       "layoutId": "body-minimal-beauty",
       "slots": {
-        "handle": "@lumiere.skin",
-        "author": "DR. ELENA VOSS",
-        "number": "02 / 06",
+        "handle": "@drsarahchen",
+        "author": "Dr. Sarah Chen",
+        "number": "STEP 02",
         "title": "EXFOLIATE WEEKLY",
-        "body": "Use a mild chemical exfoliant once or twice a week to dissolve dead cells and reveal a smoother, more luminous texture. Avoid harsh scrubs that can cause micro-tears and irritation."
+        "body": "Use a chemical exfoliant with AHAs or BHAs two to three times per week. Smooth, refined texture allows your natural radiance to surface."
       }
     },
     {
       "layoutId": "body-minimal-beauty",
       "slots": {
-        "handle": "@lumiere.skin",
-        "author": "DR. ELENA VOSS",
-        "number": "03 / 06",
+        "handle": "@drsarahchen",
+        "author": "Dr. Sarah Chen",
+        "number": "STEP 03",
         "title": "HYDRATE DEEPLY",
-        "body": "Layer a hyaluronic acid serum followed by a ceramide-rich moisturizer to lock in plumping hydration. Well-hydrated skin reflects light beautifully and feels supple throughout the day."
+        "body": "Apply a hyaluronic acid serum to damp skin immediately after cleansing. Locking in water plumps the complexion and creates that dewy, lit-from-within finish."
       }
     },
     {
       "layoutId": "body-minimal-beauty",
       "slots": {
-        "handle": "@lumiere.skin",
-        "author": "DR. ELENA VOSS",
-        "number": "04 / 06",
-        "title": "TREAT & REPAIR",
-        "body": "Apply a vitamin C serum each morning to brighten and shield against environmental stressors. At night, consider retinol to support cell turnover and collagen production over time."
+        "handle": "@drsarahchen",
+        "author": "Dr. Sarah Chen",
+        "number": "STEP 04",
+        "title": "SEAL WITH MOISTURE",
+        "body": "Choose a ceramide-rich moisturizer to repair and strengthen your lipid barrier. Healthy, resilient skin reflects light beautifully and feels supple all day."
       }
     },
     {
       "layoutId": "body-minimal-beauty",
       "slots": {
-        "handle": "@lumiere.skin",
-        "author": "DR. ELENA VOSS",
-        "number": "05 / 06",
-        "title": "SHIELD WITH SPF",
-        "body": "Daily broad-spectrum sunscreen is the ultimate anti-aging and glow-preserving step. UV damage dulls the complexion, so protection keeps your radiance intact year-round."
+        "handle": "@drsarahchen",
+        "author": "Dr. Sarah Chen",
+        "number": "STEP 05",
+        "title": "PROTECT DAILY",
+        "body": "Broad-spectrum SPF thirty or higher is the final and most crucial step. Consistent sun protection prevents dullness, dark spots, and premature aging."
       }
     },
     {
       "layoutId": "body-minimal-beauty",
       "slots": {
-        "handle": "@lumiere.skin",
-        "author": "DR. ELENA VOSS",
-        "number": "06 / 06",
-        "title": "REST & RESET",
-        "body": "Prioritize seven to nine hours of quality sleep to allow your skin to regenerate. Stress management and clean pillowcases also support a calm, clear complexion."
+        "handle": "@drsarahchen",
+        "author": "Dr. Sarah Chen",
+        "number": "PRO TIP",
+        "title": "BE CONSISTENT",
+        "body": "Results reveal themselves through patience and daily devotion. Follow this ritual for at least four weeks to reveal your most luminous skin."
       }
     },
     {
       "layoutId": "cta-minimal-beauty",
       "slots": {
-        "handle": "@lumiere.skin",
-        "author": "DR. ELENA VOSS",
+        "handle": "@drsarahchen",
+        "author": "Dr. Sarah Chen",
         "role": "BOARD-CERTIFIED DERMATOLOGIST",
         "eyebrow": "YOUR RITUAL",
         "headline": "START TODAY",
-        "body": "Begin your personalized glow journey with expert guidance and medical-grade formulas designed for your unique skin.",
+        "body": "Book your personalized consultation and begin your journey to radiant, healthy skin.",
         "buttonLabel": "BOOK A CONSULT"
       }
     }

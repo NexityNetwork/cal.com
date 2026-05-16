@@ -1,92 +1,92 @@
 {
   "id": "saying-no",
-  "brand": "Founder Mode",
+  "brand": "The Founder Memo",
   "brief": "5 lessons on saying no — from a founder who used to say yes to everything.",
   "theme": "beige-paper",
   "slides": [
     {
       "layoutId": "cover-beige-serif",
       "slots": {
-        "brand": "Founder Mode",
-        "headline": "Six Boundary Lessons From a Founder Who Said Yes to All",
-        "slideCountHero": "6"
+        "brand": "The Founder Memo",
+        "headline": "Five Lessons on Saying No From a Founder Who Said Yes",
+        "slideCountHero": "5"
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "Founder Mode",
+        "brand": "The Founder Memo",
         "number": "01",
-        "title": "The Yes Trap",
-        "body": "Early in my journey, I believed every opportunity was a door I had to walk through. Saying yes felt safe, generous, and ambitious. Over time, it diluted my focus and drained my energy until my calendar owned me.",
-        "handle": "@foundermode",
-        "domain": "foundermode.com"
+        "title": "Know Your One Thing",
+        "body": "Saying yes to everything scatters your energy. The best founders protect their core priority above all else. If a request doesn't serve that mission, it is an automatic no. Clarity makes the decision effortless.",
+        "handle": "@foundermemo",
+        "domain": "foundermemo.com"
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "Founder Mode",
+        "brand": "The Founder Memo",
         "number": "02",
-        "title": "Pause Before Promising",
-        "body": "The urge to answer immediately often comes from people-pleasing, not clarity. I now default to a twenty-four-hour buffer for any non-trivial request. That single pause protects my priorities and preserves relationships.",
-        "handle": "@foundermode",
-        "domain": "foundermode.com"
+        "title": "Delay the Response",
+        "body": "You do not owe anyone an instant yes. When a request arrives, create a buffer of twenty-four hours. Urgency is usually someone else's problem, not yours. Time reveals which opportunities actually deserve your attention.",
+        "handle": "@foundermemo",
+        "domain": "foundermemo.com"
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "Founder Mode",
+        "brand": "The Founder Memo",
         "number": "03",
-        "title": "No Is Complete",
-        "body": "You do not owe anyone a dissertation on why you are unavailable. A kind but firm decline respects both parties far more than a reluctant yes. Boundaries are not betrayals.",
-        "handle": "@foundermode",
-        "domain": "foundermode.com"
+        "title": "Use a Polite Buffer",
+        "body": "No does not require a novel-length apology. A simple, kind decline preserves relationships and your schedule. Most people respect a clear boundary far more than a vague maybe. Say it with warmth, then stop.",
+        "handle": "@foundermemo",
+        "domain": "foundermemo.com"
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "Founder Mode",
+        "brand": "The Founder Memo",
         "number": "04",
-        "title": "Protect Core Hours",
-        "body": "I blocked my mornings for deep work and labeled them non-negotiable. When requests collide with those blocks, the answer is automatically no unless catastrophe strikes. Your calendar should reflect your values.",
-        "handle": "@foundermode",
-        "domain": "foundermode.com"
+        "title": "Track Your Yes Budget",
+        "body": "Treat your commitments like a financial budget. You only have so many hours and so much creative energy to spend. Once your calendar is full, every new yes forces a no elsewhere. Guard your capacity like revenue.",
+        "handle": "@foundermemo",
+        "domain": "foundermemo.com"
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "Founder Mode",
+        "brand": "The Founder Memo",
         "number": "05",
-        "title": "Delegate the Yes",
-        "body": "Not every opportunity needs your personal touch to be valuable. I began asking whether someone else on my team could handle the request with equal care. Saying no personally can still mean yes collectively.",
-        "handle": "@foundermode",
-        "domain": "foundermode.com"
+        "title": "Let the Fear Fade",
+        "body": "The anxiety of missing out is temporary, but burnout is not. Every no to a distraction is a yes to your team, health, and vision. The founders who scale fastest are not the busiest; they are the most focused. Trust the filter.",
+        "handle": "@foundermemo",
+        "domain": "foundermemo.com"
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "Founder Mode",
+        "brand": "The Founder Memo",
         "number": "06",
-        "title": "Measure Opportunity Cost",
-        "body": "Every yes is an invisible no to something else you care about. Before committing, I ask what trade-off I am willing to make. If the cost is my health or focus, the answer is clear.",
-        "handle": "@foundermode",
-        "domain": "foundermode.com"
+        "title": "Practice the Muscle",
+        "body": "Saying no is a skill that strengthens with repetition. Start with small boundaries and build upward. Each polite refusal trains your team and network to value your time. Eventually, no becomes your default, not your exception.",
+        "handle": "@foundermemo",
+        "domain": "foundermemo.com"
       }
     },
     {
       "layoutId": "cta-beige-serif",
       "slots": {
-        "brand": "Founder Mode",
-        "eyebrow": "YOUR TURN",
-        "headline": "Reclaim Your Calendar Now",
-        "body": "Start small and pick one request to decline this week. Your future self will thank you as your focus returns.",
-        "buttonLabel": "SET BOUNDARIES",
-        "handle": "@foundermode"
+        "brand": "The Founder Memo",
+        "eyebrow": "PROTECT YOUR FOCUS",
+        "headline": "Master the Art of No",
+        "body": "Join thousands of founders learning to protect their time and scale with intention. Your calendar will thank you.",
+        "buttonLabel": "GET THE MEMO",
+        "handle": "@foundermemo"
       }
     }
   ]

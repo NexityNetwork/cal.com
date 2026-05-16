@@ -8,8 +8,8 @@
       "layoutId": "cover-display-cta",
       "slots": {
         "pageNumber": "01",
-        "headlineLine1": "One Dev Army",
-        "headlineLine2": "Full Stack Crew",
+        "headlineLine1": "One Engineer",
+        "headlineLine2": "Full Team Stack",
         "accentSuffix": "!"
       }
     },
@@ -17,8 +17,8 @@
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "02",
-        "title": "1. GitHub, the collaborator",
-        "body": "Actions run CI, Issues track bugs, and Copilot reviews code so you ship without a dev team.",
+        "title": "1. GitHub, the Senior Dev",
+        "body": "Code review, version control, and seamless collaboration let you ship with confidence as if a senior engineer reviewed every commit.",
         "iconSlug": "github"
       }
     },
@@ -26,8 +26,8 @@
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "03",
-        "title": "2. Vercel, the platform",
-        "body": "Preview deployments, edge functions, and analytics replace a frontend platform engineer on every push.",
+        "title": "2. Vercel, the DevOps Lead",
+        "body": "Instant previews, automated deployments, and global edge caching replace an entire infrastructure team with zero config.",
         "iconSlug": "vercel"
       }
     },
@@ -35,36 +35,36 @@
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "04",
-        "title": "3. Notion, the brain",
-        "body": "Docs, roadmaps, and wikis in one hub eliminate the need for a dedicated PM or writer.",
-        "iconSlug": "notion"
+        "title": "3. Supabase, the Backend Team",
+        "body": "PostgreSQL database, auth, and real-time APIs give your app a scalable backend without hiring backend engineers.",
+        "iconSlug": "supabase"
       }
     },
     {
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "05",
-        "title": "4. Linear, the planner",
-        "body": "Cycles, prioritization, and GitHub sync automate sprint planning so you never need a scrum master.",
-        "iconSlug": "linear"
-      }
-    },
-    {
-      "layoutId": "body-icon-centered",
-      "slots": {
-        "pageNumber": "06",
-        "title": "5. Stripe, the billing",
-        "body": "Stripe handles invoicing, tax, and global payments out of the box, removing finance and ops overhead.",
+        "title": "4. Stripe, the Finance Ops",
+        "body": "Payments, invoicing, and subscription logic are handled out-of-the-box so you never need a billing department.",
         "iconSlug": "stripe"
       }
     },
     {
       "layoutId": "body-icon-centered",
       "slots": {
+        "pageNumber": "06",
+        "title": "5. Linear, the Product Manager",
+        "body": "Issue tracking, roadmaps, and sprint planning keep your solo workflow organized like a dedicated PM.",
+        "iconSlug": "linear"
+      }
+    },
+    {
+      "layoutId": "body-icon-centered",
+      "slots": {
         "pageNumber": "07",
-        "title": "6. Figma, the designer",
-        "body": "Design, prototype, and handoff in the browser replaces a UI designer and keeps assets developer-ready.",
-        "iconSlug": "figma"
+        "title": "6. Slack, the Team Connector",
+        "body": "Integrations and alerts from every tool feed into one channel so nothing slips through the cracks.",
+        "iconSlug": "slack"
       }
     },
     {
@@ -72,10 +72,10 @@
       "slots": {
         "pageNumber": "08",
         "eyebrow": "YOUR MOVE",
-        "headline": "Deploy Your Solo Stack",
-        "subline": "Grab this stack and ship products faster than most funded teams.",
+        "headline": "Build Like a Team",
+        "subline": "Start with these six tools and ship faster than teams triple your size.",
         "buttonLabel": "Save this post",
-        "handle": "@yourhandle"
+        "handle": "@solodev"
       }
     }
   ]

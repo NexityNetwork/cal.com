@@ -1,126 +1,126 @@
 {
   "id": "first-100-customers",
-  "brand": "Maya Chen",
+  "brand": "Jordan Lee",
   "brief": "How we got our first 100 customers — no ads, no SEO, just 6 channels.",
   "theme": "linkedin-pro",
   "slides": [
     {
       "layoutId": "cover-linkedin-pro",
       "slots": {
-        "author": "Maya Chen",
+        "author": "Jordan Lee",
         "badgeText": "LINKEDIN CAROUSEL POST",
         "pageNumber": "1",
         "accentColor": "#4f3df5",
-        "headline": "How We Got Our First 100 Customers",
-        "heroSymbol": "01",
+        "headline": "How We Landed 100 Customers Without Ads",
+        "heroSymbol": "🚀",
         "heroBg": "#4f3df5",
-        "heroBg2": "#06b6d4",
-        "body": "We skipped paid ads and SEO. Instead, we focused on six high-trust channels that delivered our first 100 paying customers in 90 days."
+        "heroBg2": "#7c3aed",
+        "body": "We skipped paid ads and SEO entirely. Here are the six organic channels that built our first 100 customers."
       }
     },
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Maya Chen",
-        "badgeText": "LINKEDIN CAROUSEL POST",
+        "author": "Jordan Lee",
+        "badgeText": "SAVE THIS POST",
         "pageNumber": "2",
         "accentColor": "#4f3df5",
-        "title": "Tap Your Personal Network First",
-        "body": "We emailed every former colleague and friend. Warm intros converted at 40% because trust was already built. Don't underestimate who already knows you.",
-        "heroSymbol": "01",
+        "title": "Start With Your Inner Circle",
+        "body": "Our first 20 customers came from friends and former colleagues. Don't underestimate your existing network.",
+        "heroSymbol": "👥",
         "heroBg": "#4f3df5",
-        "heroBg2": "#06b6d4",
-        "labelText": "Zero ad spend"
+        "heroBg2": "#7c3aed",
+        "labelText": "6 channels. zero ad spend."
       }
     },
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Maya Chen",
-        "badgeText": "LINKEDIN CAROUSEL POST",
+        "author": "Jordan Lee",
+        "badgeText": "SAVE THIS POST",
         "pageNumber": "3",
         "accentColor": "#4f3df5",
-        "title": "Join Communities Where They Hang",
-        "body": "We added value in 5 niche Slack and Reddit groups before ever pitching. When we did share, it felt like advice, not spam.",
-        "heroSymbol": "02",
+        "title": "LinkedIn Direct Outreach",
+        "body": "We sent 50 personalized DMs daily to our ideal buyer persona. Context beats copy-paste every time.",
+        "heroSymbol": "💬",
         "heroBg": "#4f3df5",
-        "heroBg2": "#06b6d4",
-        "labelText": "Zero ad spend"
+        "heroBg2": "#7c3aed",
+        "labelText": "6 channels. zero ad spend."
       }
     },
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Maya Chen",
-        "badgeText": "LINKEDIN CAROUSEL POST",
+        "author": "Jordan Lee",
+        "badgeText": "SAVE THIS POST",
         "pageNumber": "4",
         "accentColor": "#4f3df5",
-        "title": "Partner With Complementary Tools",
-        "body": "We reached out to founders offering adjacent services. A simple co-marketing swap put us in front of 2,000 qualified leads overnight.",
-        "heroSymbol": "03",
+        "title": "Niche Online Communities",
+        "body": "Slack groups, Reddit threads, and Discord servers were goldmines. We gave value before pitching anything.",
+        "heroSymbol": "🌐",
         "heroBg": "#4f3df5",
-        "heroBg2": "#06b6d4",
-        "labelText": "Zero ad spend"
+        "heroBg2": "#7c3aed",
+        "labelText": "6 channels. zero ad spend."
       }
     },
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Maya Chen",
-        "badgeText": "LINKEDIN CAROUSEL POST",
+        "author": "Jordan Lee",
+        "badgeText": "SAVE THIS POST",
         "pageNumber": "5",
         "accentColor": "#4f3df5",
-        "title": "Hyper-Personalized Cold Outreach",
-        "body": "We sent 20 highly personalized DMs daily. Each message referenced a specific pain point from their public content. Reply rate hit 35%.",
-        "heroSymbol": "04",
+        "title": "Build Strategic Micro-Partnerships",
+        "body": "We co-hosted webinars with complementary tools. Their audience became our audience overnight.",
+        "heroSymbol": "🤝",
         "heroBg": "#4f3df5",
-        "heroBg2": "#06b6d4",
-        "labelText": "Zero ad spend"
+        "heroBg2": "#7c3aed",
+        "labelText": "6 channels. zero ad spend."
       }
     },
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Maya Chen",
-        "badgeText": "LINKEDIN CAROUSEL POST",
+        "author": "Jordan Lee",
+        "badgeText": "SAVE THIS POST",
         "pageNumber": "6",
         "accentColor": "#4f3df5",
-        "title": "Build In Public Daily",
-        "body": "We shared metrics, failures, and lessons on LinkedIn. Transparent storytelling created an audience that converted into early adopters without a funnel.",
-        "heroSymbol": "05",
+        "title": "Hyper-Targeted Cold Email",
+        "body": "Scraping was out; manual research was in. Every email referenced a specific recent company milestone.",
+        "heroSymbol": "📧",
         "heroBg": "#4f3df5",
-        "heroBg2": "#06b6d4",
-        "labelText": "Zero ad spend"
+        "heroBg2": "#7c3aed",
+        "labelText": "6 channels. zero ad spend."
       }
     },
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Maya Chen",
-        "badgeText": "LINKEDIN CAROUSEL POST",
+        "author": "Jordan Lee",
+        "badgeText": "SAVE THIS POST",
         "pageNumber": "7",
         "accentColor": "#4f3df5",
-        "title": "Turn Users Into Advocates",
-        "body": "After ten customers, we asked for introductions. One happy user referred three new ones. Incentives helped, but genuine love closed the deal.",
-        "heroSymbol": "06",
+        "title": "Engineer Word of Mouth",
+        "body": "We gave every happy user a simple referral link. Incentives turned customers into our sales team.",
+        "heroSymbol": "🔗",
         "heroBg": "#4f3df5",
-        "heroBg2": "#06b6d4",
-        "labelText": "Zero ad spend"
+        "heroBg2": "#7c3aed",
+        "labelText": "6 channels. zero ad spend."
       }
     },
     {
       "layoutId": "cta-linkedin-pro",
       "slots": {
-        "author": "Maya Chen",
-        "badgeText": "LINKEDIN CAROUSEL POST",
+        "author": "Jordan Lee",
+        "badgeText": "SAVE THIS POST",
         "pageNumber": "8",
         "accentColor": "#4f3df5",
         "eyebrow": "YOUR TURN?",
-        "headline": "Which Channel Will You Try First",
-        "body": "Pick one tactic and run it for 30 days. Reply with your choice and I will share our exact outreach template.",
+        "headline": "Which Channel Will You Test First?",
+        "body": "Drop your biggest growth challenge below. I read every comment.",
         "buttonLabel": "Follow for more",
-        "secondaryLabel": "Share",
-        "handle": "@mayachen"
+        "secondaryLabel": "Repost",
+        "handle": "@jordanlee"
       }
     }
   ]

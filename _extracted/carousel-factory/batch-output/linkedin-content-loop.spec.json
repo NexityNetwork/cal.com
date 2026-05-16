@@ -11,101 +11,101 @@
         "badgeText": "LINKEDIN CAROUSEL POST",
         "pageNumber": "1",
         "accentColor": "#4f3df5",
-        "headline": "The Content Loop Behind 50K Followers",
+        "headline": "The LinkedIn Loop That Built 50K",
         "heroSymbol": "50",
         "heroBg": "#4f3df5",
-        "heroBg2": "#8b5cf6",
-        "body": "This repeatable system turned one idea into twelve posts weekly. No burnout. Just compounding growth."
+        "heroBg2": "#7c3aed",
+        "body": "I cracked the content loop that turns one idea into ten posts. Here's the exact system I used to grow from 0 to 50,000 followers in six months."
       }
     },
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
         "author": "Jordan Lee",
-        "badgeText": "LINKEDIN CAROUSEL POST",
+        "badgeText": "SAVE THIS POST",
         "pageNumber": "2",
         "accentColor": "#4f3df5",
         "title": "Start With One Core Idea",
-        "body": "Every post begins with a single problem your audience faces daily. Solve it simply.",
+        "body": "Every week, pick one topic your audience struggles with. Turn that single idea into the foundation of your entire content calendar.",
         "heroSymbol": "1",
         "heroBg": "#4f3df5",
-        "heroBg2": "#8b5cf6",
-        "labelText": "THE LINKEDIN LOOP"
+        "heroBg2": "#7c3aed",
+        "labelText": "BUILD YOUR LOOP"
       }
     },
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
         "author": "Jordan Lee",
-        "badgeText": "LINKEDIN CAROUSEL POST",
+        "badgeText": "SAVE THIS POST",
         "pageNumber": "3",
         "accentColor": "#4f3df5",
-        "title": "Break It Into Micro-Insights",
-        "body": "Turn that idea into five bite-sized tips. Each tip becomes its own slide.",
-        "heroSymbol": "5",
+        "title": "Break It Into Micro-Posts",
+        "body": "Slice your core idea into five to seven bite-sized tips. Each micro-post becomes a standalone LinkedIn update with clear value.",
+        "heroSymbol": "5x",
         "heroBg": "#4f3df5",
-        "heroBg2": "#8b5cf6",
-        "labelText": "THE LINKEDIN LOOP"
+        "heroBg2": "#7c3aed",
+        "labelText": "BUILD YOUR LOOP"
       }
     },
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
         "author": "Jordan Lee",
-        "badgeText": "LINKEDIN CAROUSEL POST",
+        "badgeText": "SAVE THIS POST",
         "pageNumber": "4",
         "accentColor": "#4f3df5",
-        "title": "Hook Them in Three Seconds",
-        "body": "Your first slide must stop the scroll. Use a bold claim or a counterintuitive truth.",
-        "heroSymbol": "3",
+        "title": "Repurpose Into a Carousel",
+        "body": "Take your best-performing micro-post and expand it into a visual carousel. Visuals multiply reach and drive deeper audience engagement.",
+        "heroSymbol": "▣",
         "heroBg": "#4f3df5",
-        "heroBg2": "#8b5cf6",
-        "labelText": "THE LINKEDIN LOOP"
+        "heroBg2": "#7c3aed",
+        "labelText": "BUILD YOUR LOOP"
       }
     },
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
         "author": "Jordan Lee",
-        "badgeText": "LINKEDIN CAROUSEL POST",
+        "badgeText": "SAVE THIS POST",
         "pageNumber": "5",
         "accentColor": "#4f3df5",
-        "title": "Design for Mobile Reading",
-        "body": "Big font. White space. One idea per slide. If they squint, they scroll past.",
-        "heroSymbol": "Aa",
+        "title": "Turn Comments Into Content",
+        "body": "Read every comment. The best questions become your next posts. This creates an endless feedback loop with your community.",
+        "heroSymbol": "?",
         "heroBg": "#4f3df5",
-        "heroBg2": "#8b5cf6",
-        "labelText": "THE LINKEDIN LOOP"
+        "heroBg2": "#7c3aed",
+        "labelText": "BUILD YOUR LOOP"
       }
     },
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
         "author": "Jordan Lee",
-        "badgeText": "LINKEDIN CAROUSEL POST",
+        "badgeText": "SAVE THIS POST",
         "pageNumber": "6",
         "accentColor": "#4f3df5",
-        "title": "Recycle Top Performers Monthly",
-        "body": "Double down on what worked. Repurpose your best carousel into a post, poll, or comment.",
-        "heroSymbol": "↻",
+        "title": "Stack Proof and Stories",
+        "body": "Add client wins, personal stories, and data to your loop. Proof builds trust and transforms followers into loyal fans.",
+        "heroSymbol": "★",
         "heroBg": "#4f3df5",
-        "heroBg2": "#8b5cf6",
-        "labelText": "THE LINKEDIN LOOP"
+        "heroBg2": "#7c3aed",
+        "labelText": "BUILD YOUR LOOP"
       }
     },
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
         "author": "Jordan Lee",
-        "badgeText": "LINKEDIN CAROUSEL POST",
+        "badgeText": "SAVE THIS POST",
         "pageNumber": "7",
         "accentColor": "#4f3df5",
-        "title": "Close With a Clear CTA",
-        "body": "Tell readers exactly what to do next. Follow, comment, or save for later reference.",
-        "heroSymbol": "→",
+        "title": "Repeat for 90 Days",
+        "body": "Consistency compounds. Run this loop three times per week for ninety days and watch your following explode with engaged readers.",
+        "heroSymbol": "90",
         "heroBg": "#4f3df5",
-        "heroBg2": "#8b5cf6",
-        "labelText": "THE LINKEDIN LOOP"
+        "heroBg2": "#7c3aed",
+        "labelText": "BUILD YOUR LOOP"
       }
     },
     {
@@ -117,9 +117,9 @@
         "accentColor": "#4f3df5",
         "eyebrow": "YOUR TURN?",
         "headline": "Ready to Build Your Loop?",
-        "body": "Save this carousel and start your first loop today. Consistency beats perfection.",
+        "body": "Save this carousel and start your first loop today. Which step will you tackle first?",
         "buttonLabel": "Follow for More",
-        "secondaryLabel": "Share",
+        "secondaryLabel": "Repost",
         "handle": "@jordanlee"
       }
     }

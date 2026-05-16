@@ -1,79 +1,79 @@
 {
   "id": "viral-content-groovy",
-  "brand": "CreatorCoach",
+  "brand": "Creator Lab",
   "brief": "6 viral content formats every creator should steal.",
   "theme": "retro-groovy",
   "slides": [
     {
       "layoutId": "cover-retro-groovy",
       "slots": {
-        "title": "Steal these viral formats",
-        "ctaText": "Save these for your next post",
-        "handle": "@creatorcoach"
+        "title": "Steal these formats",
+        "ctaText": "6 viral hooks that actually work",
+        "handle": "@creatorlab"
       }
     },
     {
       "layoutId": "body-retro-groovy",
       "slots": {
         "number": "01",
-        "title": "The Carousel Hook",
-        "body": "Carousels boost saves and shares because they pack multiple value bombs into one swipeable post. Start with a bold cover that stops the scroll instantly.",
-        "handle": "@creatorcoach"
+        "title": "The Listicle Hook",
+        "body": "People love bite-sized value. Break down tips into numbered slides and watch your saves explode. It's the easiest format to batch.",
+        "handle": "@creatorlab"
       }
     },
     {
       "layoutId": "body-retro-groovy",
       "slots": {
         "number": "02",
-        "title": "Green Screen Takes",
-        "body": "React to trending clips or tweets using the green screen filter. It’s the fastest way to share hot takes without a fancy setup.",
-        "handle": "@creatorcoach"
+        "title": "Storytime Threads",
+        "body": "Open with a wild first line. Build tension, then drop the lesson. Your audience stays for the plot, not the advice.",
+        "handle": "@creatorlab"
       }
     },
     {
       "layoutId": "body-retro-groovy",
       "slots": {
         "number": "03",
-        "title": "Day In The Life",
-        "body": "Show the messy reality behind your polished brand. People crave relatable moments, so film your morning coffee or chaotic inbox.",
-        "handle": "@creatorcoach"
+        "title": "POV Storytelling",
+        "body": "Put viewers directly in the scene. POV triggers instant empathy and stops the scroll. It beats generic tips every time.",
+        "handle": "@creatorlab"
       }
     },
     {
       "layoutId": "body-retro-groovy",
       "slots": {
         "number": "04",
-        "title": "POV Story Hooks",
-        "body": "Drop viewers straight into the action with a strong point-of-view opener. It feels personal and triggers that irresistible curiosity gap.",
-        "handle": "@creatorcoach"
+        "title": "Micro Tutorials",
+        "body": "Teach one thing in under a minute. Use big text and simple steps. Saves go crazy when the takeaway is instant.",
+        "handle": "@creatorlab"
       }
     },
     {
       "layoutId": "body-retro-groovy",
       "slots": {
         "number": "05",
-        "title": "Hot Take Lists",
-        "body": "Combine a numbered list with a spicy opinion for instant engagement. Lists promise value, but your bold spin keeps them watching.",
-        "handle": "@creatorcoach"
+        "title": "Spicy Hot Takes",
+        "body": "Challenge a common belief in your niche. A spicy opinion sparks comments and debates. Just make sure you back it up.",
+        "handle": "@creatorlab"
       }
     },
     {
       "layoutId": "body-retro-groovy",
       "slots": {
         "number": "06",
-        "title": "Storytime Confessions",
-        "body": "Open with a wild hook like 'I messed up huge today,' then unpack the lesson. Drama plus wisdom equals gold.",
-        "handle": "@creatorcoach"
+        "title": "Behind The Scenes",
+        "body": "Show messy drafts and your failed ideas. Authenticity always wins over perfection. People follow humans, not highlight reels.",
+        "handle": "@creatorlab"
       }
     },
     {
       "layoutId": "cta-retro-groovy",
       "slots": {
         "eyebrow": "OVER TO YOU",
-        "headline": "Steal These Formats Today",
-        "body": "Pick one format and post it today. Your next viral hit is one swipe away.",
-        "buttonLabel": "Save This Post",
-        "handle": "@creatorcoach"
+        "headline": "Steal One Format Today",
+        "body": "Pick a format and post it before midnight. Your next viral hit is one carousel away.",
+        "buttonLabel": "Start Creating",
+        "handle": "@creatorlab"
       }
     }
   ]

@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/internal-tools/slide-01.png",
-      "bytes": 49236,
+      "bytes": 51029,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -44,7 +44,7 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/internal-tools/slide-02.png",
-      "bytes": 59837,
+      "bytes": 69428,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -85,7 +85,7 @@
             "x": 119,
             "y": 460,
             "w": 842,
-            "h": 146
+            "h": 194
           },
           ".icon-hero": {
             "x": 360,
@@ -99,7 +99,7 @@
     {
       "index": 2,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/internal-tools/slide-03.png",
-      "bytes": 70089,
+      "bytes": 70154,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -138,7 +138,7 @@
             "x": 119,
             "y": 460,
             "w": 842,
-            "h": 146
+            "h": 194
           },
           ".icon-hero": {
             "x": 360,
@@ -152,7 +152,7 @@
     {
       "index": 3,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/internal-tools/slide-04.png",
-      "bytes": 52396,
+      "bytes": 67084,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -187,13 +187,13 @@
             "x": 119,
             "y": 287,
             "w": 842,
-            "h": 70
+            "h": 141
           },
           ".body-text": {
             "x": 119,
-            "y": 389,
+            "y": 460,
             "w": 842,
-            "h": 146
+            "h": 194
           },
           ".icon-hero": {
             "x": 360,
@@ -207,7 +207,7 @@
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/internal-tools/slide-05.png",
-      "bytes": 59477,
+      "bytes": 74632,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -240,13 +240,13 @@
             "x": 119,
             "y": 287,
             "w": 842,
-            "h": 70
+            "h": 141
           },
           ".body-text": {
             "x": 119,
-            "y": 389,
+            "y": 460,
             "w": 842,
-            "h": 146
+            "h": 194
           },
           ".icon-hero": {
             "x": 360,
@@ -260,7 +260,7 @@
     {
       "index": 5,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/internal-tools/slide-06.png",
-      "bytes": 62138,
+      "bytes": 66255,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -313,7 +313,7 @@
     {
       "index": 6,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/internal-tools/slide-07.png",
-      "bytes": 65544,
+      "bytes": 67450,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -366,7 +366,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/internal-tools/slide-08.png",
-      "bytes": 55147,
+      "bytes": 52642,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -394,9 +394,9 @@
     "verdict": "needs-review",
     "issues": [
       "slides 2 and 3 have nearly identical composition (sim=1.00)",
-      "slides 3 and 4 have nearly identical composition (sim=0.97)",
+      "slides 3 and 4 have nearly identical composition (sim=1.00)",
       "slides 4 and 5 have nearly identical composition (sim=1.00)",
-      "slides 5 and 6 have nearly identical composition (sim=0.97)",
+      "slides 5 and 6 have nearly identical composition (sim=0.99)",
       "slides 6 and 7 have nearly identical composition (sim=1.00)"
     ],
     "adjacencyChecks": [
@@ -419,7 +419,7 @@
           3,
           4
         ],
-        "similarity": 0.9707818930041152
+        "similarity": 1
       },
       {
         "between": [
@@ -433,7 +433,7 @@
           5,
           6
         ],
-        "similarity": 0.9707818930041152
+        "similarity": 0.9901234567901235
       },
       {
         "between": [

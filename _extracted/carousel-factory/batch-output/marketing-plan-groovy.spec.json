@@ -7,8 +7,8 @@
     {
       "layoutId": "cover-retro-groovy",
       "slots": {
-        "title": "From clicks to customers",
-        "ctaText": "Your 6-step growth playbook",
+        "title": "Clicks to customers",
+        "ctaText": "Your six-step digital marketing plan",
         "handle": "@clickbloom"
       }
     },
@@ -16,8 +16,8 @@
       "layoutId": "body-retro-groovy",
       "slots": {
         "number": "01",
-        "title": "Know Your Audience",
-        "body": "Stop guessing who buys. Dig into data and build profiles that actually reflect your dream customers. It makes every later step way easier.",
+        "title": "Target The Right People",
+        "body": "Stop shouting into the void. Use data to find folks who actually need what you sell. It saves cash and boosts your mood.",
         "handle": "@clickbloom"
       }
     },
@@ -25,8 +25,8 @@
       "layoutId": "body-retro-groovy",
       "slots": {
         "number": "02",
-        "title": "Craft Bold Ads",
-        "body": "Your creative needs to stop the scroll. Use punchy headlines and retro visuals that spark curiosity in under three seconds.",
+        "title": "Grab Attention Fast",
+        "body": "You have about three seconds before they scroll. Lead with bold visuals and a headline that speaks their language. Make them pause.",
         "handle": "@clickbloom"
       }
     },
@@ -34,8 +34,8 @@
       "layoutId": "body-retro-groovy",
       "slots": {
         "number": "03",
-        "title": "Build Fast Pages",
-        "body": "If it loads slowly, they bounce. Speed up your landing pages and keep the vibe consistent from ad to checkout.",
+        "title": "Earn Their Trust",
+        "body": "People buy from brands they vibe with. Share real reviews, behind-the-scenes stories, and honest value. Trust turns lurkers into loyal fans.",
         "handle": "@clickbloom"
       }
     },
@@ -43,8 +43,8 @@
       "layoutId": "body-retro-groovy",
       "slots": {
         "number": "04",
-        "title": "Capture Leads Smartly",
-        "body": "Not everyone buys on day one. Offer a juicy freebie or discount in exchange for an email you can nurture later.",
+        "title": "Nurture With Value",
+        "body": "Not everyone buys on day one. Send helpful emails, tips, and freebies that solve real problems. Stay top of mind without being pushy.",
         "handle": "@clickbloom"
       }
     },
@@ -52,8 +52,8 @@
       "layoutId": "body-retro-groovy",
       "slots": {
         "number": "05",
-        "title": "Nurture With Email",
-        "body": "Send value, not spam. Share tips, stories, and offers that guide subscribers from maybe to heck yes over time.",
+        "title": "Convert With Offers",
+        "body": "Give them a reason to click buy. Limited-time discounts, bundles, or free shipping work wonders. Make saying yes feel like a no-brainer.",
         "handle": "@clickbloom"
       }
     },
@@ -61,8 +61,8 @@
       "layoutId": "body-retro-groovy",
       "slots": {
         "number": "06",
-        "title": "Optimize And Convert",
-        "body": "Test headlines, buttons, and images weekly. Small tweaks to your funnel can unlock huge jumps in sales without extra ad spend.",
+        "title": "Optimize And Repeat",
+        "body": "Check your numbers every week. Double down on what works, kill what flops, and keep testing. Growth lives in the details.",
         "handle": "@clickbloom"
       }
     },
@@ -70,9 +70,9 @@
       "layoutId": "cta-retro-groovy",
       "slots": {
         "eyebrow": "OVER TO YOU",
-        "headline": "Start Scaling Your Sales",
-        "body": "Ready to stop wasting budget? Put these six steps to work and watch your traffic finally pay off.",
-        "buttonLabel": "Get The Checklist",
+        "headline": "Turn Clicks Into Cash",
+        "body": "Ready to transform your traffic? Save this guide and start building a funnel that actually sells.",
+        "buttonLabel": "Save This Guide",
         "handle": "@clickbloom"
       }
     }

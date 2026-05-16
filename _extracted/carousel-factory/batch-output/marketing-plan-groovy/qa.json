@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/marketing-plan-groovy/slide-01.png",
-      "bytes": 76725,
+      "bytes": 71983,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -23,7 +23,7 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/marketing-plan-groovy/slide-02.png",
-      "bytes": 78645,
+      "bytes": 73252,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -43,7 +43,7 @@
     {
       "index": 2,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/marketing-plan-groovy/slide-03.png",
-      "bytes": 67942,
+      "bytes": 76558,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -63,7 +63,7 @@
     {
       "index": 3,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/marketing-plan-groovy/slide-04.png",
-      "bytes": 70498,
+      "bytes": 67012,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -83,7 +83,7 @@
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/marketing-plan-groovy/slide-05.png",
-      "bytes": 72853,
+      "bytes": 74439,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -103,7 +103,7 @@
     {
       "index": 5,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/marketing-plan-groovy/slide-06.png",
-      "bytes": 63933,
+      "bytes": 78030,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -123,7 +123,7 @@
     {
       "index": 6,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/marketing-plan-groovy/slide-07.png",
-      "bytes": 80025,
+      "bytes": 75166,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -143,7 +143,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/marketing-plan-groovy/slide-08.png",
-      "bytes": 82024,
+      "bytes": 74565,
       "qa": {
         "verdict": "fail",
         "checks": {

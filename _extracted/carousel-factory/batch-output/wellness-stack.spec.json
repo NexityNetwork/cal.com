@@ -10,8 +10,8 @@
         "brand": "THE DAILY DOSE",
         "pageOf": "01 OF 08",
         "headline": "What Changed the Game?",
-        "subtitle": "Five habits that moved the needle when nothing else stuck.",
-        "stickerText": "SWIPE THROUGH",
+        "subtitle": "Five habits that actually moved the needle on my health.",
+        "stickerText": "THE STACK",
         "handle": "@thedailydose"
       }
     },
@@ -20,9 +20,9 @@
       "slots": {
         "brand": "THE DAILY DOSE",
         "pageOf": "02 OF 08",
-        "number": "00",
-        "title": "The Wellness Stack",
-        "body": "I tried the trends. These five habits are the only ones that stuck — and actually changed how I feel, sleep, and think.",
+        "number": "01",
+        "title": "Prioritize Deep Sleep",
+        "body": "I used to brag about five-hour nights. Then I tracked my focus: trash. Eight hours is now my non-negotiable baseline. Everything else stacks on top.",
         "handle": "@thedailydose"
       }
     },
@@ -31,9 +31,9 @@
       "slots": {
         "brand": "THE DAILY DOSE",
         "pageOf": "03 OF 08",
-        "number": "01",
-        "title": "Protect Deep Sleep",
-        "body": "Eight hours in bed is not negotiable. I wind down at 9, keep the room cold, and leave my phone in the hall. The return on energy is immediate.",
+        "number": "02",
+        "title": "Get Morning Sunlight",
+        "body": "Ten minutes within an hour of waking anchors my circadian rhythm. Coffee second, light first. My mood and energy shifted within a week.",
         "handle": "@thedailydose"
       }
     },
@@ -42,9 +42,9 @@
       "slots": {
         "brand": "THE DAILY DOSE",
         "pageOf": "04 OF 08",
-        "number": "02",
-        "title": "Move Every Morning",
-        "body": "Twenty minutes of walking or lifting before email. It anchors my mood and makes the day feel intentional instead of reactive.",
+        "number": "03",
+        "title": "Lift Heavy Things",
+        "body": "Cardio made me tired; lifting made me capable. Three sessions a week rebuilt my metabolism and posture. It is the ultimate longevity hack.",
         "handle": "@thedailydose"
       }
     },
@@ -53,9 +53,9 @@
       "slots": {
         "brand": "THE DAILY DOSE",
         "pageOf": "05 OF 08",
-        "number": "03",
-        "title": "Eat Real Food First",
-        "body": "Protein and plants at every meal. I stopped counting calories and started counting energy crashes. My gut thanked me within a week.",
+        "number": "04",
+        "title": "Eat More Protein",
+        "body": "Aiming for thirty grams per meal killed the afternoon crash. It takes effort, but muscle and satiety are worth the grocery bill.",
         "handle": "@thedailydose"
       }
     },
@@ -64,9 +64,9 @@
       "slots": {
         "brand": "THE DAILY DOSE",
         "pageOf": "06 OF 08",
-        "number": "04",
-        "title": "Morning Sunlight Ritual",
-        "body": "Ten minutes outside within an hour of waking. It resets my circadian rhythm better than any supplement or app ever did.",
+        "number": "05",
+        "title": "Set a Digital Sunset",
+        "body": "Blue light after 9 PM was wrecking my REM. Now screens go dark one hour before bed. The difference in morning clarity is unreal.",
         "handle": "@thedailydose"
       }
     },
@@ -75,9 +75,9 @@
       "slots": {
         "brand": "THE DAILY DOSE",
         "pageOf": "07 OF 08",
-        "number": "05",
-        "title": "One Digital Sabbath",
-        "body": "Sundays are offline. No scroll, no inbox. The mental white space is where my best ideas and actual rest finally show up.",
+        "number": "06",
+        "title": "Stay Boringly Consistent",
+        "body": "None of these work in isolation. The magic is doing them when motivation is zero. Stack them daily; the compound effect is undeniable.",
         "handle": "@thedailydose"
       }
     },
@@ -85,11 +85,10 @@
       "layoutId": "cta-dark-green-serif",
       "slots": {
         "brand": "THE DAILY DOSE",
-        "pageOf": "08 OF 08",
         "eyebrow": "YOUR TURN",
-        "headline": "What Is Your Stack?",
-        "body": "Drop one habit that moved the needle for you. I read every reply.",
-        "buttonLabel": "COMMENT BELOW",
+        "headline": "Build Your Own Stack",
+        "body": "Pick one habit. Master it this week, then add another. Small wins compound faster than overnight overhauls.",
+        "buttonLabel": "SAVE THIS",
         "handle": "@thedailydose"
       }
     }

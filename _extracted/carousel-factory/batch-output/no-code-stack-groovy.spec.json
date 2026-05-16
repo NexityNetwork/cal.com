@@ -1,79 +1,79 @@
 {
   "id": "no-code-stack-groovy",
-  "brand": "Stacked",
+  "brand": "StackSolo",
   "brief": "The 6-tool no-code stack that runs my $30K/mo business.",
   "theme": "retro-groovy",
   "slides": [
     {
       "layoutId": "cover-retro-groovy",
       "slots": {
-        "title": "My no-code stack",
-        "ctaText": "Steal my exact 6-tool stack",
-        "handle": "@stacked"
+        "title": "No-code profit stack",
+        "ctaText": "The exact stack behind $30K months",
+        "handle": "@yourstack"
       }
     },
     {
       "layoutId": "body-retro-groovy",
       "slots": {
         "number": "01",
-        "title": "Webflow For Pages",
-        "body": "I design and host my entire site on Webflow. No dev needed, and it looks pro out of the box.",
-        "handle": "@stacked"
+        "title": "Notion HQ",
+        "body": "Everything lives here. I run SOPs, content calendars, and client portals in one workspace. It’s basically my second brain.",
+        "handle": "@yourstack"
       }
     },
     {
       "layoutId": "body-retro-groovy",
       "slots": {
         "number": "02",
-        "title": "Notion For Ops",
-        "body": "Notion runs my entire back office. Docs, SOPs, and content calendars all live in one spot.",
-        "handle": "@stacked"
+        "title": "Airtable Brain",
+        "body": "My entire CRM and inventory sit in Airtable. I link records so nothing falls through the cracks. It’s a spreadsheet with superpowers.",
+        "handle": "@yourstack"
       }
     },
     {
       "layoutId": "body-retro-groovy",
       "slots": {
         "number": "03",
-        "title": "Airtable Tracks Leads",
-        "body": "All my data lives in Airtable. It handles my CRM, inventory, and project timelines without SQL.",
-        "handle": "@stacked"
+        "title": "Webflow Store",
+        "body": "I built my site without touching code. Webflow handles hosting, SEO, and design tweaks in minutes. It looks custom without the dev bill.",
+        "handle": "@yourstack"
       }
     },
     {
       "layoutId": "body-retro-groovy",
       "slots": {
         "number": "04",
-        "title": "Make Does Heavy Lifting",
-        "body": "Make moves data between apps while I sleep. Invoices, emails, and updates happen completely hands-free.",
-        "handle": "@stacked"
+        "title": "Make Automations",
+        "body": "Make connects every app while I sleep. Leads flow from form to email to CRM automatically. Zero manual data entry, zero headaches.",
+        "handle": "@yourstack"
       }
     },
     {
       "layoutId": "body-retro-groovy",
       "slots": {
         "number": "05",
-        "title": "Stripe Takes Payments",
-        "body": "Stripe handles every charge and payout. It hooks straight into my site for one-click checkout.",
-        "handle": "@stacked"
+        "title": "Stripe Checkout",
+        "body": "Payments are one-click and global. Stripe powers subscriptions, invoices, and instant payouts. I get paid before I even finish my coffee.",
+        "handle": "@yourstack"
       }
     },
     {
       "layoutId": "body-retro-groovy",
       "slots": {
         "number": "06",
-        "title": "ConvertKit Nurtures Leads",
-        "body": "ConvertKit sends sequences and launches products. My email automations print cash on autopilot daily.",
-        "handle": "@stacked"
+        "title": "ConvertKit Emails",
+        "body": "Newsletters and sequences run on autopilot. I tag subscribers based on behavior and send targeted offers. It’s my 24/7 sales rep.",
+        "handle": "@yourstack"
       }
     },
     {
       "layoutId": "cta-retro-groovy",
       "slots": {
-        "eyebrow": "FINAL TAKE",
-        "headline": "Build Your No-Code Stack",
-        "body": "Grab these six tools and launch today. You don't need code to scale.",
-        "buttonLabel": "Save This Post",
-        "handle": "@stacked"
+        "eyebrow": "YOUR MOVE",
+        "headline": "Build Your $30K Stack",
+        "body": "Steal these six tools and start scaling. Your no-code empire is one click away.",
+        "buttonLabel": "Grab The Stack",
+        "handle": "@yourstack"
       }
     }
   ]

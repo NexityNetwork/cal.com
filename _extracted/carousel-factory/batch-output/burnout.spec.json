@@ -1,109 +1,109 @@
 {
   "id": "burnout",
-  "brand": "THE AMBER REVIEW",
+  "brand": "The Offprint",
   "brief": "How to boost productivity without burnout. Editorial, lit-mag tone.",
   "theme": "noir-yellow",
   "slides": [
     {
       "layoutId": "cover-noir-yellow",
       "slots": {
-        "brand": "THE AMBER REVIEW",
-        "scriptPrefix": "Consider",
-        "displayLine1": "THE ART",
-        "displayLine2": "OF SUSTAINED",
-        "displayLine3": "OUTPUT",
-        "scriptTagline": "How to get more done without losing your light.",
-        "handle": "@theamberreview",
+        "brand": "The Offprint",
+        "scriptPrefix": "Dear",
+        "displayLine1": "THE PRODUCTIVITY",
+        "displayLine2": "ISSUE:",
+        "displayLine3": "NO BURNOUT",
+        "scriptTagline": "a field guide for the weary mind",
+        "handle": "@theoffprint",
         "slideId": "Slide 01"
       }
     },
     {
       "layoutId": "body-noir-yellow",
       "slots": {
-        "brand": "THE AMBER REVIEW",
-        "scriptPrefix": "Begin",
-        "displayLine1": "EMBRACE",
-        "displayLine2": "THE",
-        "displayLine3": "PAUSE",
-        "body": "Rest is not the opposite of labor. It is its silent partner. A blank page carries as much weight as the text.",
-        "handle": "@theamberreview",
+        "brand": "The Offprint",
+        "scriptPrefix": "First",
+        "displayLine1": "THE MODERN",
+        "displayLine2": "WORK ETHIC",
+        "displayLine3": "IS A TRAP",
+        "body": "We have mistaken motion for meaning, burning through hours as if exhaustion were a credential. The body keeps score long before the mind admits defeat.",
+        "handle": "@theoffprint",
         "slideId": "Slide 02"
       }
     },
     {
       "layoutId": "body-noir-yellow",
       "slots": {
-        "brand": "THE AMBER REVIEW",
-        "scriptPrefix": "Then",
-        "displayLine1": "PROTECT",
-        "displayLine2": "YOUR",
-        "displayLine3": "MORNINGS",
-        "body": "The first hour belongs to you alone. Guard it like a final draft. Deep work dies at the altar of notifications.",
-        "handle": "@theamberreview",
+        "brand": "The Offprint",
+        "scriptPrefix": "Listen",
+        "displayLine1": "MULTITASKING",
+        "displayLine2": "IS A",
+        "displayLine3": "LIE WE TELL",
+        "body": "Your attention is not a lantern; it is a beam. Split it too many ways and you illuminate nothing fully.",
+        "handle": "@theoffprint",
         "slideId": "Slide 03"
       }
     },
     {
       "layoutId": "body-noir-yellow",
       "slots": {
-        "brand": "THE AMBER REVIEW",
-        "scriptPrefix": "Remember",
+        "brand": "The Offprint",
+        "scriptPrefix": "Try",
         "displayLine1": "DEPTH",
         "displayLine2": "OVER",
-        "displayLine3": "VOLUME",
-        "body": "One true sentence outweighs a dozen hollow paragraphs. Measure output by resonance, not by word count alone.",
-        "handle": "@theamberreview",
+        "displayLine3": "BREADTH",
+        "body": "Choose one thread and follow it to the end. Two hours of focused labor outlasts a day of fractured busyness.",
+        "handle": "@theoffprint",
         "slideId": "Slide 04"
       }
     },
     {
       "layoutId": "body-noir-yellow",
       "slots": {
-        "brand": "THE AMBER REVIEW",
-        "scriptPrefix": "Beware",
-        "displayLine1": "THE",
-        "displayLine2": "CULT OF",
-        "displayLine3": "BUSY",
-        "body": "Busyness is a cheap imitation of purpose. If your calendar is full, your mind is likely empty. Choose stillness.",
-        "handle": "@theamberreview",
+        "brand": "The Offprint",
+        "scriptPrefix": "Rest",
+        "displayLine1": "IDLENESS",
+        "displayLine2": "IS NOT",
+        "displayLine3": "THE ENEMY",
+        "body": "The blank page frightens us, yet the mind requires fallow seasons. Recovery is not the absence of work; it is its prerequisite.",
+        "handle": "@theoffprint",
         "slideId": "Slide 05"
       }
     },
     {
       "layoutId": "body-noir-yellow",
       "slots": {
-        "brand": "THE AMBER REVIEW",
-        "scriptPrefix": "Notice",
-        "displayLine1": "INSPIRATION",
-        "displayLine2": "IS NOT",
-        "displayLine3": "INFINITE",
-        "body": "Inspiration is not infinite. When the well runs dry, stop digging. Walk away before the page turns bitter.",
-        "handle": "@theamberreview",
+        "brand": "The Offprint",
+        "scriptPrefix": "Learn",
+        "displayLine1": "GUARD YOUR",
+        "displayLine2": "TIME LIKE",
+        "displayLine3": "A POEM",
+        "body": "Every yes is a small death to something else. Protect the margins where thought actually happens, or produce only noise.",
+        "handle": "@theoffprint",
         "slideId": "Slide 06"
       }
     },
     {
       "layoutId": "body-noir-yellow",
       "slots": {
-        "brand": "THE AMBER REVIEW",
-        "scriptPrefix": "Finally",
-        "displayLine1": "PRODUCTIVITY",
-        "displayLine2": "IS A LONG",
-        "displayLine3": "GAME",
-        "body": "Sustainability beats speed every time. The best careers are marathons written one careful page at a time.",
-        "handle": "@theamberreview",
+        "brand": "The Offprint",
+        "scriptPrefix": "Build",
+        "displayLine1": "BUILD",
+        "displayLine2": "LASTING",
+        "displayLine3": "SYSTEMS",
+        "body": "Productivity is a rhythm, not a reckoning. Design a practice you can sustain past noon, past thirty, past the next deadline.",
+        "handle": "@theoffprint",
         "slideId": "Slide 07"
       }
     },
     {
       "layoutId": "cta-noir-yellow",
       "slots": {
-        "brand": "THE AMBER REVIEW",
+        "brand": "The Offprint",
         "scriptPrefix": "Begin",
-        "headline": "KEEP THE PEN MOVING",
-        "scriptTagline": "Your best work is waiting for you.",
-        "buttonLabel": "Start Today",
-        "handle": "@theamberreview",
+        "headline": "START YOUR SLOW WORK",
+        "scriptTagline": "productivity that does not cost your soul",
+        "buttonLabel": "Read The Issue",
+        "handle": "@theoffprint",
         "slideId": "Slide 08"
       }
     }

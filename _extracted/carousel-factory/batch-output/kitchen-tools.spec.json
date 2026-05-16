@@ -9,9 +9,9 @@
       "slots": {
         "brand": "MINIMALIST COOK",
         "pageOf": "01 OF 08",
-        "headline": "CAN 6 TOOLS REPLACE 30?",
-        "subtitle": "the minimalist home cook's guide to a clutter-free kitchen",
-        "stickerText": "LESS IS MORE",
+        "headline": "6 Tools That Replaced 30?",
+        "subtitle": "The minimalist home cook’s guide to a clutter-free kitchen.",
+        "stickerText": "SAVE THIS",
         "handle": "@minimalistcook"
       }
     },
@@ -21,8 +21,8 @@
         "brand": "MINIMALIST COOK",
         "pageOf": "02 OF 08",
         "number": "01",
-        "title": "ONE CHEF'S KNIFE",
-        "body": "A sharp 8-inch chef's knife handles slicing, dicing, and mincing. Ditch the paring, bread, and utility knives. One blade, zero clutter.",
+        "title": "One Knife, Every Cut",
+        "body": "A sharp chef’s knife handles slicing, dicing, and mincing without the block full of blades. Skip the paring, bread, and utility knives. This one blade does it all with precision and control.",
         "handle": "@minimalistcook"
       }
     },
@@ -32,8 +32,8 @@
         "brand": "MINIMALIST COOK",
         "pageOf": "03 OF 08",
         "number": "02",
-        "title": "CAST IRON SKILLET",
-        "body": "Sear, bake, roast, and fry in one pan. It replaces non-stick skillets, griddles, and baking dishes. Naturally non-stick with time.",
+        "title": "One Pan, Endless Meals",
+        "body": "Sear, bake, roast, and fry in a single cast iron skillet. It replaces non-stick pans, grill pans, and baking dishes. From stovetop to oven, it earns its shelf space daily.",
         "handle": "@minimalistcook"
       }
     },
@@ -43,8 +43,8 @@
         "brand": "MINIMALIST COOK",
         "pageOf": "04 OF 08",
         "number": "03",
-        "title": "ONE DUTCH OVEN",
-        "body": "Braise, stew, bake bread, and slow-cook without extra gadgets. It takes the place of a slow cooker, stockpot, and roasting pan.",
+        "title": "Dutch Oven, Many Jobs",
+        "body": "Simmer soups, braise meat, bake bread, and serve straight to the table. It stands in for a slow cooker, stock pot, and roasting pan. Heavy, timeless, and impossibly versatile.",
         "handle": "@minimalistcook"
       }
     },
@@ -54,8 +54,8 @@
         "brand": "MINIMALIST COOK",
         "pageOf": "05 OF 08",
         "number": "04",
-        "title": "HEAVY KITCHEN SHEARS",
-        "body": "Snip herbs, trim poultry, open packages, and cut pizza. They replace herb strippers, poultry shears, and box cutters with ease.",
+        "title": "Grate, Slice, Shred, Zest",
+        "body": "Four sides replace the mandoline, zester, microplane, and food processor shredding disk. Cheese, vegetables, and citrus all meet one stainless steel tower. Less clutter, same crisp results.",
         "handle": "@minimalistcook"
       }
     },
@@ -65,8 +65,8 @@
         "brand": "MINIMALIST COOK",
         "pageOf": "06 OF 08",
         "number": "05",
-        "title": "IMMERSION BLENDER ONLY",
-        "body": "Blend soups directly in the pot, whip cream, and make smoothies. It replaces a countertop blender, food processor, and hand mixer.",
+        "title": "Stick Blender, Big Jobs",
+        "body": "Puree soups, whip cream, and blend smoothies directly in the container. It eliminates the countertop blender, food processor, and hand mixer. Store it in a drawer and forget the cord clutter.",
         "handle": "@minimalistcook"
       }
     },
@@ -76,8 +76,8 @@
         "brand": "MINIMALIST COOK",
         "pageOf": "07 OF 08",
         "number": "06",
-        "title": "ONE MICROPLANE GRATER",
-        "body": "Zest citrus, grate cheese, mince garlic, and shave nutmeg. It replaces a zester, garlic press, ginger grater, and box grater.",
+        "title": "Shears Cut The Clutter",
+        "body": "Snip herbs, spatchcock chicken, open packages, and trim pastry with one strong pair. They replace multiple gadgets and single-task scissors. Keep them handy and reach for them constantly.",
         "handle": "@minimalistcook"
       }
     },
@@ -85,10 +85,10 @@
       "layoutId": "cta-dark-green-serif",
       "slots": {
         "brand": "MINIMALIST COOK",
-        "eyebrow": "GO MINIMAL",
-        "headline": "DECLUTTER YOUR KITCHEN",
-        "body": "Pick one tool to donate this week. Less clutter, more calm.",
-        "buttonLabel": "SIMPLIFY TODAY",
+        "eyebrow": "START TODAY",
+        "headline": "Declutter Your Kitchen Now",
+        "body": "Trade gadget overload for calm, purposeful cooking. Follow for more minimalist home tips.",
+        "buttonLabel": "FOLLOW ALONG",
         "handle": "@minimalistcook"
       }
     }

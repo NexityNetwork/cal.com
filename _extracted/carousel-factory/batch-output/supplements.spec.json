@@ -1,95 +1,95 @@
 {
   "id": "supplements",
-  "brand": "THE DAILY DOSE",
+  "brand": "WELLNESS LAB",
   "brief": "6 supplements I actually still take after 3 years of testing.",
   "theme": "dark-green-serif",
   "slides": [
     {
       "layoutId": "cover-dark-green-serif",
       "slots": {
-        "brand": "THE DAILY DOSE",
+        "brand": "WELLNESS LAB",
         "pageOf": "01 OF 08",
-        "headline": "6 Supplements I Actually Still Take?",
-        "subtitle": "Three years of testing. These are the only ones that survived.",
-        "stickerText": "STILL TAKE",
-        "handle": "@thedailydose"
+        "headline": "What Survived Three Years of Testing?",
+        "subtitle": "The only pills still in my cabinet after 1,000 days.",
+        "stickerText": "KEEPERS ONLY",
+        "handle": "@wellnesslab"
       }
     },
     {
       "layoutId": "body-dark-green-serif",
       "slots": {
-        "brand": "THE DAILY DOSE",
+        "brand": "WELLNESS LAB",
         "pageOf": "02 OF 08",
         "number": "01",
-        "title": "Magnesium For Better Sleep",
-        "body": "I tried citrate, oxide, and malate. Glycinate is the only form that actually calms my nervous system without sending me to the bathroom. I take 400mg about an hour before bed. Sleep is deeper and wake-ups are rare.",
-        "handle": "@thedailydose"
+        "title": "Magnesium Glycinate Every Night",
+        "body": "This is the one supplement I notice immediately when I skip it. Two capsules before bed and my sleep is deeper, my muscles feel looser, and I wake up actually rested. It beats melatonin hands down.",
+        "handle": "@wellnesslab"
       }
     },
     {
       "layoutId": "body-dark-green-serif",
       "slots": {
-        "brand": "THE DAILY DOSE",
+        "brand": "WELLNESS LAB",
         "pageOf": "03 OF 08",
         "number": "02",
-        "title": "Daily D3 And K2",
-        "body": "Tested my levels twice a year. D3 alone is fine, but K2 directs calcium to bones instead of arteries. I take 4000 IU with breakfast. It is the cheapest longevity hedge I know.",
-        "handle": "@thedailydose"
+        "title": "Daily Omega-3 for Inflammation",
+        "body": "I started taking this for joint stiffness, but the mental clarity was the real surprise. Three years in, my bloodwork shows lower inflammatory markers and my skin is less reactive. It is a non-negotiable.",
+        "handle": "@wellnesslab"
       }
     },
     {
       "layoutId": "body-dark-green-serif",
       "slots": {
-        "brand": "THE DAILY DOSE",
+        "brand": "WELLNESS LAB",
         "pageOf": "04 OF 08",
         "number": "03",
-        "title": "Omega-3 For Brain Health",
-        "body": "I chased focus with nootropics for months. Turns out my diet was low in EPA. Two grams daily cleared the mental fog and helped my joints feel less crunchy. Third-party tested only.",
-        "handle": "@thedailydose"
+        "title": "Vitamin D3 with K2",
+        "body": "My levels were chronically low despite living in the sun. Adding K2 changed the game. It directs calcium to bones instead of arteries. One tiny softgel each morning keeps me in the optimal range year-round.",
+        "handle": "@wellnesslab"
       }
     },
     {
       "layoutId": "body-dark-green-serif",
       "slots": {
-        "brand": "THE DAILY DOSE",
+        "brand": "WELLNESS LAB",
         "pageOf": "05 OF 08",
         "number": "04",
-        "title": "Five Grams Of Creatine",
-        "body": "It is not just for gym bros. I noticed better recall and easier high-intensity sessions within two weeks. Five grams a day, no loading phase. The research stack is decades deep.",
-        "handle": "@thedailydose"
+        "title": "Creatine Monohydrate Daily",
+        "body": "It is not just for gym bros. Five grams a day improved my lifts, but also my focus and memory. It is the most researched supplement on the planet, dirt cheap, and I will never cycle off.",
+        "handle": "@wellnesslab"
       }
     },
     {
       "layoutId": "body-dark-green-serif",
       "slots": {
-        "brand": "THE DAILY DOSE",
+        "brand": "WELLNESS LAB",
         "pageOf": "06 OF 08",
         "number": "05",
-        "title": "Ashwagandha For Cortisol Control",
-        "body": "My cortisol was chronically elevated on blood work. KSM-66 brought it down in eight weeks. I cycle four weeks on, one week off. Anxiety is lower and afternoons feel less like a crash.",
-        "handle": "@thedailydose"
+        "title": "Ashwagandha for Cortisol",
+        "body": "My cortisol was through the roof during deadline season. This adaptogen smooths out my anxiety without making me drowsy. I take it in the afternoon and my sleep tracker proves I recover faster.",
+        "handle": "@wellnesslab"
       }
     },
     {
       "layoutId": "body-dark-green-serif",
       "slots": {
-        "brand": "THE DAILY DOSE",
+        "brand": "WELLNESS LAB",
         "pageOf": "07 OF 08",
         "number": "06",
-        "title": "Zinc Picolinate Before Bed",
-        "body": "I kept getting run down every winter. Adding 15mg of zinc picolinate changed that. I take it away from magnesium and coffee. Simple, cheap, and the data on immune support is solid.",
-        "handle": "@thedailydose"
+        "title": "Collagen for Skin and Joints",
+        "body": "I was skeptical about this one, but my knee creaking stopped within a month. My nails are stronger and my skin looks noticeably plumper. It mixes into coffee and I barely notice it.",
+        "handle": "@wellnesslab"
       }
     },
     {
       "layoutId": "cta-dark-green-serif",
       "slots": {
-        "brand": "THE DAILY DOSE",
-        "eyebrow": "YOUR TURN",
-        "headline": "Find What Works",
-        "body": "Start one at a time, track for thirty days, and test your levels. More is not better; targeted is.",
-        "buttonLabel": "SAVE LIST",
-        "handle": "@thedailydose"
+        "brand": "WELLNESS LAB",
+        "eyebrow": "SAVE THIS",
+        "headline": "Build Your Own Keeper Stack",
+        "body": "Start with one, track for thirty days, and only keep what you actually feel. Your protocol should fit your life, not a shopping list.",
+        "buttonLabel": "SAVE STACK",
+        "handle": "@wellnesslab"
       }
     }
   ]

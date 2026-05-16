@@ -1,6 +1,6 @@
 {
   "id": "agent-orchestration",
-  "brand": "StackShift",
+  "brand": "SwarmStack",
   "brief": "How we orchestrate 12 agents in production. Tools, patterns, gotchas.",
   "theme": "ember-dark",
   "slides": [
@@ -8,7 +8,7 @@
       "layoutId": "cover-display-cta",
       "slots": {
         "pageNumber": "01",
-        "headlineLine1": "Orchestrating Twelve Agents",
+        "headlineLine1": "Orchestrating 12 Agents",
         "headlineLine2": "In Production",
         "accentSuffix": "."
       }
@@ -17,60 +17,60 @@
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "02",
-        "title": "1. Router, the traffic cop",
-        "body": "We use a state machine to route requests. It assigns tasks based on intent, not just keywords. This prevents agent collisions.",
+        "title": "1. LangChain, the conductor",
+        "body": "We use LangGraph to route tasks between agents. State machines handle retries, branching, and fan-out without fragile if-else chains.",
         "iconSlug": "langchain",
-        "iconColor": "#FF5C00"
+        "iconColor": "#FF5A1F"
       }
     },
     {
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "03",
-        "title": "2. Bus, the nervous system",
-        "body": "Agents publish events to a Redis stream. Consumers pick up jobs asynchronously. This decouples workloads and keeps latency low.",
-        "iconSlug": "redis",
-        "iconColor": "#FF5C00"
+        "title": "2. Postgres, the memory layer",
+        "body": "Every agent writes checkpoints to a shared Postgres schema. This gives us observability, time-travel debugging, and exactly-once execution guarantees.",
+        "iconSlug": "postgresql",
+        "iconColor": "#336791"
       }
     },
     {
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "04",
-        "title": "3. Postgres, the memory bank",
-        "body": "We store agent state and thread history in PostgreSQL. Row-level locking prevents race conditions when multiple agents update shared context.",
-        "iconSlug": "postgresql",
-        "iconColor": "#FF5C00"
+        "title": "3. Redis, the traffic cop",
+        "body": "Redis streams queue agent tasks and rate-limit external APIs. We set TTLs on locks to prevent zombie agents from holding resources.",
+        "iconSlug": "redis",
+        "iconColor": "#DC382D"
       }
     },
     {
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "05",
-        "title": "4. Docker, the isolation unit",
-        "body": "Each agent runs in its own container. Resource caps stop one runaway process from starving the fleet. Health checks restart failures fast.",
+        "title": "4. Docker, the isolation layer",
+        "body": "Each agent runs in its own container with resource limits. One rogue loop only crashes its pod, not the entire swarm.",
         "iconSlug": "docker",
-        "iconColor": "#FF5C00"
+        "iconColor": "#2496ED"
       }
     },
     {
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "06",
-        "title": "5. Slack, the alert channel",
-        "body": "We stream structured logs to a dedicated Slack channel. Engineers get paged when error rates spike. Context threads speed up debugging.",
+        "title": "5. Slack, the human loop",
+        "body": "When confidence scores drop below 0.8, agents post to Slack and pause. Humans approve, edit, or kill the job in thread.",
         "iconSlug": "slack",
-        "iconColor": "#FF5C00"
+        "iconColor": "#4A154B"
       }
     },
     {
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "07",
-        "title": "6. Prompts, the hidden code",
-        "body": "Version control your prompts like any other dependency. A single wording drift can break an entire agent pipeline. Regression tests catch this.",
-        "iconSlug": "openai",
-        "iconColor": "#FF5C00"
+        "title": "6. Anthropic, the model brain",
+        "body": "We shard long context across Claude instances and merge outputs. The gotcha: tool schemas must match exactly or agents hallucinate calls.",
+        "iconSlug": "anthropic",
+        "iconColor": "#D4A27F"
       }
     },
     {
@@ -78,10 +78,10 @@
       "slots": {
         "pageNumber": "08",
         "eyebrow": "YOUR MOVE",
-        "headline": "Build Your Agent Fleet",
-        "subline": "Steal our stack and patterns. DM 'stack' for the full architecture doc.",
-        "buttonLabel": "DM 'stack'",
-        "handle": "@stackshift"
+        "headline": "Build Your Swarm",
+        "subline": "Save this carousel and DM 'stack' for our agent infra playbook.",
+        "buttonLabel": "Save this post",
+        "handle": "@swarmstack"
       }
     }
   ]

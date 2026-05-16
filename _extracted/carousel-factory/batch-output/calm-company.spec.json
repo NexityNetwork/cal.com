@@ -1,92 +1,92 @@
 {
   "id": "calm-company",
-  "brand": "Stillpoint",
+  "brand": "Stillmark",
   "brief": "What it means to run a calm company in a hustle-culture world.",
   "theme": "beige-paper",
   "slides": [
     {
       "layoutId": "cover-beige-serif",
       "slots": {
-        "brand": "Stillpoint",
-        "headline": "What It Means to Run a Calm Company Amid Hustle Culture",
+        "brand": "Stillmark",
+        "headline": "The Quiet Art of Building a Calm Company Today",
         "slideCountHero": "6"
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "Stillpoint",
+        "brand": "Stillmark",
         "number": "01",
-        "title": "Redefine Success",
-        "body": "Hustle culture celebrates burnout as a badge of honor. A calm company measures success by sustainability and clarity. We choose longevity over exhaustion.",
-        "handle": "@stillpoint",
-        "domain": "stillpoint.com"
+        "title": "Reject the Grind",
+        "body": "Calm companies measure output by clarity, not hours logged. They know sustainable growth beats burnout every time. Success is a marathon, not a weekly sprint.",
+        "handle": "@stillmark",
+        "domain": "stillmark.com"
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "Stillpoint",
+        "brand": "Stillmark",
         "number": "02",
         "title": "Protect Deep Work",
-        "body": "Constant notifications fragment attention and kill creativity. Calm companies design systems that guard uninterrupted focus. Better work emerges from fewer distractions, not more hours.",
-        "handle": "@stillpoint",
-        "domain": "stillpoint.com"
+        "body": "Meetings are the enemy of focus. A calm culture blocks time for thinking and creating. When attention is sacred, quality becomes the default.",
+        "handle": "@stillmark",
+        "domain": "stillmark.com"
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "Stillpoint",
+        "brand": "Stillmark",
         "number": "03",
-        "title": "Trust Your Team",
-        "body": "Micromanagement signals fear and erodes ownership. A calm culture is built on autonomy, clear expectations, and mutual respect. People do their best work when they feel trusted.",
-        "handle": "@stillpoint",
-        "domain": "stillpoint.com"
+        "title": "Choose Async First",
+        "body": "Not every question needs an instant answer. Asynchronous communication lets people respond on their own terms. It reduces noise and preserves mental space.",
+        "handle": "@stillmark",
+        "domain": "stillmark.com"
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "Stillpoint",
+        "brand": "Stillmark",
         "number": "04",
-        "title": "Embrace Async First",
-        "body": "Synchronous everything demands constant availability and drains energy. Async communication respects different rhythms and time zones. Decisions become more thoughtful when urgency is removed.",
-        "handle": "@stillpoint",
-        "domain": "stillpoint.com"
+        "title": "Hire for Autonomy",
+        "body": "Micromanagement breeds anxiety. Calm teams hire adults and trust them to deliver. Clear goals replace constant check-ins and foster real ownership.",
+        "handle": "@stillmark",
+        "domain": "stillmark.com"
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "Stillpoint",
+        "brand": "Stillmark",
         "number": "05",
-        "title": "Rest Is Strategy",
-        "body": "Downtime is not laziness; it is fuel for innovation. Calm companies normalize boundaries, vacations, and reasonable hours. A rested team solves problems faster than a depleted one.",
-        "handle": "@stillpoint",
-        "domain": "stillpoint.com"
+        "title": "Choose Slow Growth",
+        "body": "Growth at all costs is not a strategy. Calm companies expand deliberately, keeping culture intact. Profit and peace can coexist beautifully.",
+        "handle": "@stillmark",
+        "domain": "stillmark.com"
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "Stillpoint",
+        "brand": "Stillmark",
         "number": "06",
-        "title": "Profit Without Panic",
-        "body": "Growth at all costs creates fragile organizations. Sustainable profit comes from discipline, loyal customers, and calm leadership. You can scale without sacrificing your sanity or values.",
-        "handle": "@stillpoint",
-        "domain": "stillpoint.com"
+        "title": "Rest Is Productive",
+        "body": "Downtime is not laziness; it is fuel. A calm company treats rest as a feature, not a bug. Renewed minds solve bigger problems.",
+        "handle": "@stillmark",
+        "domain": "stillmark.com"
       }
     },
     {
       "layoutId": "cta-beige-serif",
       "slots": {
-        "brand": "Stillpoint",
-        "eyebrow": "BUILD QUIETLY",
-        "headline": "Lead Without the Noise",
-        "body": "Discover how to grow without the grind. Subscribe for calm-company strategies delivered weekly.",
-        "buttonLabel": "SUBSCRIBE NOW",
-        "handle": "@stillpoint"
+        "brand": "Stillmark",
+        "eyebrow": "LEAD WITH STILLNESS",
+        "headline": "Choose the Calm Path Forward",
+        "body": "You do not need to burn out to win. Start building a company that honors both ambition and peace.",
+        "buttonLabel": "DOWNLOAD THE PLAYBOOK",
+        "handle": "@stillmark"
       }
     }
   ]

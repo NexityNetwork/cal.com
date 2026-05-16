@@ -1,78 +1,78 @@
 {
   "id": "mindset-shifts-bold",
-  "brand": "THE CURATED SELF",
+  "brand": "MORGAN MEDIA",
   "brief": "6 mindset shifts that changed everything for me at 30.",
   "theme": "bold-split",
   "slides": [
     {
       "layoutId": "cover-bold-split",
       "slots": {
-        "title": "MINDSET SHIFTS THAT CHANGED EVERYTHING AT 30",
-        "handle": "@thecuratedself"
+        "title": "SIX SHIFTS THAT CHANGED EVERYTHING AT THIRTY",
+        "handle": "@alexmorgan"
       }
     },
     {
       "layoutId": "body-bold-split",
       "slots": {
         "number": "01",
-        "title": "DONE BEATS PERFECT",
-        "body": "I spent years polishing work that never shipped. Shipping something imperfect taught me that momentum matters more than polish. Progress lives in the publish button.",
-        "handle": "@thecuratedself"
+        "title": "PROGRESS BEATS PERFECTION",
+        "body": "I used to wait until everything was flawless before shipping any work. Now I ship fast, iterate faster, and let real feedback guide me. Perfection was just fear wearing a disguise.",
+        "handle": "@alexmorgan"
       }
     },
     {
       "layoutId": "body-bold-split",
       "slots": {
         "number": "02",
-        "title": "NO IS A SENTENCE",
-        "body": "I said yes to everyone and lost myself in the process. Boundaries are not walls; they are filters for what deserves your energy. Protect your time like an asset.",
-        "handle": "@thecuratedself"
+        "title": "REST IS NOT LAZY",
+        "body": "Burnout isn't a badge of honor; it's a warning sign. I started scheduling recovery like I schedule meetings, and my creativity doubled overnight. You can't pour from an empty cup.",
+        "handle": "@alexmorgan"
       }
     },
     {
       "layoutId": "body-bold-split",
       "slots": {
         "number": "03",
-        "title": "FAILURE IS JUST FEEDBACK",
-        "body": "Every setback at thirty felt like a verdict. Reframing failure as feedback turned my worst moments into my most valuable curriculum. The data never lies.",
-        "handle": "@thecuratedself"
+        "title": "NO IS A SENTENCE",
+        "body": "People-pleasing left me exhausted and resentful. Setting clear boundaries freed up my time and earned me more respect than saying yes ever did. Protect your peace fiercely.",
+        "handle": "@alexmorgan"
       }
     },
     {
       "layoutId": "body-bold-split",
       "slots": {
         "number": "04",
-        "title": "INVEST IN RELATIONSHIPS EARLY",
-        "body": "I used to think success was a solo sport. The truth is that doors open because of people, not just talent. Build your circle before you need it.",
-        "handle": "@thecuratedself"
+        "title": "FAILURE IS JUST DATA",
+        "body": "I stopped treating mistakes as personal disasters. Every misstep became a dataset for better decisions. Reframe failure as tuition for the life you actually want.",
+        "handle": "@alexmorgan"
       }
     },
     {
       "layoutId": "body-bold-split",
       "slots": {
         "number": "05",
-        "title": "STOP TRADING TIME FOR MONEY",
-        "body": "Chasing paychecks kept me comfortable and stuck. When I started viewing money as a tool for freedom, my decisions got bolder. Wealth is bought with strategy, not hours.",
-        "handle": "@thecuratedself"
+        "title": "INVEST IN YOURSELF FIRST",
+        "body": "I used to save whatever was left after spending. Flipping that script changed my financial future. Pay your future self first, then live on what remains.",
+        "handle": "@alexmorgan"
       }
     },
     {
       "layoutId": "body-bold-split",
       "slots": {
         "number": "06",
-        "title": "CLARITY COMES FROM ACTION",
-        "body": "I waited for the perfect plan before moving. Clarity does not arrive in a spreadsheet; it arrives mid-motion. You learn the path by walking it.",
-        "handle": "@thecuratedself"
+        "title": "SKILLS PAY THE BILLS",
+        "body": "Job titles are temporary; abilities are permanent. I shifted focus from chasing promotions to building rare and valuable skills. Income follows leverage, not loyalty.",
+        "handle": "@alexmorgan"
       }
     },
     {
       "layoutId": "cta-bold-split",
       "slots": {
         "eyebrow": "YOUR MOVE",
-        "headline": "START YOUR FIRST SHIFT TODAY",
-        "body": "Pick one mindset and test it this week. Your next chapter starts with a single decision.",
+        "headline": "PICK ONE AND START TODAY",
+        "body": "Don't wait until thirty to figure this out. Choose one shift and practice it this week.",
         "buttonLabel": "SAVE THIS",
-        "handle": "@thecuratedself"
+        "handle": "@alexmorgan"
       }
     }
   ]

@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/discipline-over-motivation-bold/slide-01.png",
-      "bytes": 79123,
+      "bytes": 79331,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -23,7 +23,7 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/discipline-over-motivation-bold/slide-02.png",
-      "bytes": 77085,
+      "bytes": 78052,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -43,7 +43,7 @@
     {
       "index": 2,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/discipline-over-motivation-bold/slide-03.png",
-      "bytes": 88591,
+      "bytes": 71887,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -63,7 +63,7 @@
     {
       "index": 3,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/discipline-over-motivation-bold/slide-04.png",
-      "bytes": 83650,
+      "bytes": 79308,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -83,7 +83,7 @@
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/discipline-over-motivation-bold/slide-05.png",
-      "bytes": 90934,
+      "bytes": 91475,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -103,7 +103,7 @@
     {
       "index": 5,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/discipline-over-motivation-bold/slide-06.png",
-      "bytes": 90646,
+      "bytes": 80761,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -123,7 +123,7 @@
     {
       "index": 6,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/discipline-over-motivation-bold/slide-07.png",
-      "bytes": 86312,
+      "bytes": 77362,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -143,7 +143,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/discipline-over-motivation-bold/slide-08.png",
-      "bytes": 78756,
+      "bytes": 70249,
       "qa": {
         "verdict": "fail",
         "checks": {

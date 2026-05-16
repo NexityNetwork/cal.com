@@ -1,78 +1,78 @@
 {
   "id": "confidence-bold",
-  "brand": "TrueGrowth",
+  "brand": "Confidence Daily",
   "brief": "How to boost your confidence every day — 6 hard truths.",
   "theme": "bold-split",
   "slides": [
     {
       "layoutId": "cover-bold-split",
       "slots": {
-        "title": "SIX HARD TRUTHS ABOUT DAILY CONFIDENCE",
-        "handle": "@truegrowth"
+        "title": "SIX HARD TRUTHS FOR DAILY CONFIDENCE",
+        "handle": "@CONFIDENCEDAILY"
       }
     },
     {
       "layoutId": "body-bold-split",
       "slots": {
         "number": "01",
-        "title": "NO ONE WILL SAVE YOU",
-        "body": "Confidence isn't given. It's built through action, repetition, and owning your choices. Stop waiting for permission.",
-        "handle": "@truegrowth"
+        "title": "ACTION FIRST MOTIVATION SECOND",
+        "body": "Confidence is not a prerequisite for action; it is the result of it. Start before you feel ready and build evidence that you can.",
+        "handle": "@CONFIDENCEDAILY"
       }
     },
     {
       "layoutId": "body-bold-split",
       "slots": {
         "number": "02",
-        "title": "COMPETENCE COMES BEFORE CONFIDENCE",
-        "body": "You can't affirm your way to self-belief. Real confidence follows proof. Do the work first, then the feeling follows.",
-        "handle": "@truegrowth"
+        "title": "NOBODY IS WATCHING THAT CLOSELY",
+        "body": "Your inner critic is louder than any outside judgment. Most people are too busy worrying about themselves to scrutinize your every move.",
+        "handle": "@CONFIDENCEDAILY"
       }
     },
     {
       "layoutId": "body-bold-split",
       "slots": {
         "number": "03",
-        "title": "COMFORT ZONES KILL GROWTH",
-        "body": "Safety feels good but keeps you small. Growth lives on the other side of awkwardness and uncertainty. Step into it daily.",
-        "handle": "@truegrowth"
+        "title": "COMFORT ZONES KILL MOMENTUM",
+        "body": "Safety feels good but breeds stagnation. Real confidence is forged when you consistently step into uncertainty and come out stronger.",
+        "handle": "@CONFIDENCEDAILY"
       }
     },
     {
       "layoutId": "body-bold-split",
       "slots": {
         "number": "04",
-        "title": "JUDGMENT IS INEVITABLE MOVE ON",
-        "body": "People will always have opinions about you. The hard truth is that their thoughts are none of your business. Keep going.",
-        "handle": "@truegrowth"
+        "title": "FAILURE IS FEEDBACK NOT FATE",
+        "body": "One setback does not erase your capability. Treat every miss as data, adjust your approach, and move forward with sharper intent.",
+        "handle": "@CONFIDENCEDAILY"
       }
     },
     {
       "layoutId": "body-bold-split",
       "slots": {
         "number": "05",
-        "title": "CONFIDENCE REQUIRES RADICAL SELF HONESTY",
-        "body": "You can't fix what you refuse to see. Look at your flaws without cruelty, then take responsibility for changing them.",
-        "handle": "@truegrowth"
+        "title": "COMPARISON STEALS YOUR PROGRESS",
+        "body": "Measuring your behind-the-scenes against someone else's highlight reel is a losing game. Compete only with who you were yesterday.",
+        "handle": "@CONFIDENCEDAILY"
       }
     },
     {
       "layoutId": "body-bold-split",
       "slots": {
         "number": "06",
-        "title": "CONSISTENCY BEATS INTENSITY EVERY TIME",
-        "body": "One bold move won't change your life. Small daily actions compound into unshakable self-trust. Show up when it's boring.",
-        "handle": "@truegrowth"
+        "title": "CONFIDENCE REQUIRES DAILY MAINTENANCE",
+        "body": "It is not a trophy you win once. Confidence demands consistent action, honest reflection, and the courage to show up again tomorrow.",
+        "handle": "@CONFIDENCEDAILY"
       }
     },
     {
       "layoutId": "cta-bold-split",
       "slots": {
         "eyebrow": "YOUR MOVE",
-        "headline": "START BUILDING CONFIDENCE TODAY",
-        "body": "Pick one truth and act on it today. Your future self is watching.",
-        "buttonLabel": "BEGIN NOW",
-        "handle": "@truegrowth"
+        "headline": "START BUILDING UNSTOPPABLE CONFIDENCE TODAY",
+        "body": "Pick one truth and act on it today. Small steps create unstoppable momentum.",
+        "buttonLabel": "START TODAY",
+        "handle": "@CONFIDENCEDAILY"
       }
     }
   ]

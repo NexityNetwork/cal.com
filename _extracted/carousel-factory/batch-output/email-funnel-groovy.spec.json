@@ -1,69 +1,69 @@
 {
   "id": "email-funnel-groovy",
-  "brand": "FunnelStudio",
+  "brand": "GrowthLab",
   "brief": "How to build an email funnel that converts at 9%.",
   "theme": "retro-groovy",
   "slides": [
     {
       "layoutId": "cover-retro-groovy",
       "slots": {
-        "title": "Email funnels that convert",
-        "ctaText": "Learn the exact system right here",
-        "handle": "@funnelstudio"
+        "title": "Email funnel blueprint",
+        "ctaText": "Build emails that sell while you sleep",
+        "handle": "@growthlab"
       }
     },
     {
       "layoutId": "body-retro-groovy",
       "slots": {
         "number": "01",
-        "title": "Map Your Lead Magnet",
-        "body": "Start with a freebie your dream customer actually wants. Keep it specific, valuable, and easy to consume in under five minutes.",
-        "handle": "@funnelstudio"
+        "title": "Pick One Problem",
+        "body": "Stop trying to solve everything for everyone. Choose a painful, specific problem your audience Googles at 2am. The tighter the niche, the higher the conversion.",
+        "handle": "@growthlab"
       }
     },
     {
       "layoutId": "body-retro-groovy",
       "slots": {
         "number": "02",
-        "title": "Write a Welcome Sequence",
-        "body": "Your first three emails build trust fast. Share your story, set expectations, and tease the transformation you deliver.",
-        "handle": "@funnelstudio"
+        "title": "Bribe The Signup",
+        "body": "Your lead magnet needs to feel like a cheat code, not a chore. Make it stupidly actionable so they open your first email already trusting you.",
+        "handle": "@growthlab"
       }
     },
     {
       "layoutId": "body-retro-groovy",
       "slots": {
         "number": "03",
-        "title": "Segment Your Subscribers",
-        "body": "Tag people based on what they click and buy. Segmented emails drive way more revenue than one-size-fits-all blasts.",
-        "handle": "@funnelstudio"
+        "title": "Write One Welcome",
+        "body": "The welcome sequence is where the magic happens. Hit them with story, value, and a soft pitch within the first three days while attention is hot.",
+        "handle": "@growthlab"
       }
     },
     {
       "layoutId": "body-retro-groovy",
       "slots": {
         "number": "04",
-        "title": "Sell With Storytelling",
-        "body": "Nobody likes a hard pitch. Use relatable stories, social proof, and a clear deadline to nudge readers toward the buy button.",
-        "handle": "@funnelstudio"
+        "title": "Segment With Clicks",
+        "body": "Stop blasting the same message to your entire list. Tag subscribers based on what they click so every offer feels like it was written just for them.",
+        "handle": "@growthlab"
       }
     },
     {
       "layoutId": "body-retro-groovy",
       "slots": {
         "number": "05",
-        "title": "Optimize Your Subject Lines",
-        "body": "Test curiosity-driven hooks against direct benefit lines. Even a small bump in open rates can double your funnel revenue.",
-        "handle": "@funnelstudio"
+        "title": "Sell With Stories",
+        "body": "Nobody likes a pitch slap. Wrap your offer in quick relatable stories and social proof so the sale feels like a natural next step, not a hard shove.",
+        "handle": "@growthlab"
       }
     },
     {
       "layoutId": "body-retro-groovy",
       "slots": {
         "number": "06",
-        "title": "Test and Scale Up",
-        "body": "Watch your metrics weekly and kill what flops. Once you hit nine percent, pour more traffic into the winning flow.",
-        "handle": "@funnelstudio"
+        "title": "Audit Monthly Data",
+        "body": "A 9% funnel isn't built in a day. Check your open rates, click rates, and revenue per email once a month then tweak the weakest link first.",
+        "handle": "@growthlab"
       }
     },
     {
@@ -71,9 +71,9 @@
       "slots": {
         "eyebrow": "OVER TO YOU",
         "headline": "Build Your Funnel Now",
-        "body": "Steal the exact template and hit 9% conversions this quarter.",
-        "buttonLabel": "Grab the template",
-        "handle": "@funnelstudio"
+        "body": "Steal this framework and start building today. Your 9% conversion rate is closer than you think.",
+        "buttonLabel": "Start Building Now",
+        "handle": "@growthlab"
       }
     }
   ]

@@ -8,104 +8,98 @@
       "layoutId": "cover-linkedin-pro",
       "slots": {
         "author": "Jordan Lee",
-        "badgeText": "SAVE THIS POST",
+        "badgeText": "LINKEDIN CAROUSEL POST",
         "pageNumber": "1",
         "accentColor": "#4f3df5",
         "headline": "5 Pricing Models That Print Money in 2026",
         "heroSymbol": "$$",
         "heroBg": "#4f3df5",
-        "heroBg2": "#8b5cf6",
-        "body": "Tactical breakdown of the revenue engines powering next year's fastest-growing software companies. Pick the right model to scale."
+        "heroBg2": "#ec4899",
+        "body": "Most SaaS founders underprice their product. These five battle-tested models maximize revenue without killing conversions. Pick the right one for your 2026 growth."
       }
     },
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
         "author": "Jordan Lee",
-        "badgeText": "LINKEDIN CAROUSEL POST",
+        "badgeText": "SAVE THIS POST",
         "pageNumber": "2",
-        "accentColor": "#4f3df5",
-        "title": "Why Pricing Matters Now",
-        "body": "Your pricing strategy is your most powerful growth lever. Small tweaks can unlock massive revenue without adding headcount.",
-        "heroSymbol": "⚡",
+        "title": "Pay As You Grow Pricing",
+        "body": "Charge by API calls, seats, or storage consumed. Customers start small and scale spend with value received. It aligns revenue directly to customer success.",
+        "heroSymbol": "1",
         "heroBg": "#4f3df5",
-        "heroBg2": "#8b5cf6",
-        "labelText": "PRINT MONEY IN 2026"
+        "heroBg2": "#ec4899",
+        "labelText": "PRINT MONEY"
       }
     },
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
         "author": "Jordan Lee",
-        "badgeText": "LINKEDIN CAROUSEL POST",
+        "badgeText": "SAVE THIS POST",
         "pageNumber": "3",
-        "accentColor": "#4f3df5",
-        "title": "Usage-Based Billing Model",
-        "body": "Charge by API calls, storage, or seats used. Revenue climbs automatically as your customers grow and succeed.",
-        "heroSymbol": "⚖",
+        "title": "Good Better Best Tiers",
+        "body": "Three clear packages anchor perceived value. The middle tier drives 60% of sales by looking like the smart compromise. Never offer more than four options.",
+        "heroSymbol": "2",
         "heroBg": "#4f3df5",
-        "heroBg2": "#8b5cf6",
-        "labelText": "PRINT MONEY IN 2026"
+        "heroBg2": "#ec4899",
+        "labelText": "PRINT MONEY"
       }
     },
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
         "author": "Jordan Lee",
-        "badgeText": "LINKEDIN CAROUSEL POST",
+        "badgeText": "SAVE THIS POST",
         "pageNumber": "4",
-        "accentColor": "#4f3df5",
-        "title": "Tiered Plan Strategy",
-        "body": "Three clear options anchor value and nudge upgrades. Most buyers pick the middle tier, lifting average deal size.",
-        "heroSymbol": "▲",
+        "title": "Land Then Expand Pricing",
+        "body": "Price the core product aggressively to win the account. Monetize through add-ons, modules, and premium support later. Expansion revenue is pure margin.",
+        "heroSymbol": "3",
         "heroBg": "#4f3df5",
-        "heroBg2": "#8b5cf6",
-        "labelText": "PRINT MONEY IN 2026"
+        "heroBg2": "#ec4899",
+        "labelText": "PRINT MONEY"
       }
     },
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
         "author": "Jordan Lee",
-        "badgeText": "LINKEDIN CAROUSEL POST",
+        "badgeText": "SAVE THIS POST",
         "pageNumber": "5",
-        "accentColor": "#4f3df5",
-        "title": "Modular Feature Pricing",
-        "body": "Break core features from premium power-ups. Let users customize their stack while you capture more expansion revenue.",
-        "heroSymbol": "+",
+        "title": "Pay For Outcomes Only",
+        "body": "Customers pay only when they achieve defined results. This builds extreme trust and locks in long contracts. It requires tight usage tracking but prints cash.",
+        "heroSymbol": "4",
         "heroBg": "#4f3df5",
-        "heroBg2": "#8b5cf6",
-        "labelText": "PRINT MONEY IN 2026"
+        "heroBg2": "#ec4899",
+        "labelText": "PRINT MONEY"
       }
     },
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
         "author": "Jordan Lee",
-        "badgeText": "LINKEDIN CAROUSEL POST",
+        "badgeText": "SAVE THIS POST",
         "pageNumber": "6",
-        "accentColor": "#4f3df5",
-        "title": "Freemium to Premium",
-        "body": "Free tiers drive rapid user adoption. Monetize later with usage limits, advanced features, and enterprise-grade support tiers.",
-        "heroSymbol": "🎁",
+        "title": "Real-Time Dynamic AI Pricing",
+        "body": "Adjust prices automatically based on demand, segment, and willingness to pay. AI models optimize every deal in real time. This maximizes yield without manual quoting.",
+        "heroSymbol": "5",
         "heroBg": "#4f3df5",
-        "heroBg2": "#8b5cf6",
-        "labelText": "PRINT MONEY IN 2026"
+        "heroBg2": "#ec4899",
+        "labelText": "PRINT MONEY"
       }
     },
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
         "author": "Jordan Lee",
-        "badgeText": "LINKEDIN CAROUSEL POST",
+        "badgeText": "SAVE THIS POST",
         "pageNumber": "7",
-        "accentColor": "#4f3df5",
-        "title": "Outcome-Based Pricing Model",
-        "body": "Align fees to customer ROI or savings. It reduces churn and justifies premium rates that traditional models cannot.",
-        "heroSymbol": "🔗",
+        "title": "Hybrid Stacks Win 2026",
+        "body": "The best founders combine two or three of these models. Hybrid pricing reduces churn and increases lifetime value. Test aggressively and iterate quarterly.",
+        "heroSymbol": "★",
         "heroBg": "#4f3df5",
-        "heroBg2": "#8b5cf6",
-        "labelText": "PRINT MONEY IN 2026"
+        "heroBg2": "#ec4899",
+        "labelText": "PRINT MONEY"
       }
     },
     {
@@ -116,9 +110,9 @@
         "pageNumber": "8",
         "accentColor": "#4f3df5",
         "eyebrow": "YOUR TURN?",
-        "headline": "Which Model Fits You?",
-        "body": "Drop your current pricing strategy in the comments. I will reply with one tweak to boost revenue.",
-        "buttonLabel": "Follow for More",
+        "headline": "Which Pricing Model Will You Try?",
+        "body": "Drop your current model in the comments. I will reply with one tweak to increase your ARR.",
+        "buttonLabel": "Follow for more",
         "secondaryLabel": "Repost",
         "handle": "@jordanlee"
       }

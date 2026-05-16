@@ -1,126 +1,126 @@
 {
   "id": "selling-to-cios",
-  "brand": "Jordan Vale",
+  "brand": "Marcus Chen",
   "brief": "5 things that actually close enterprise deals — from a 7-figure sales leader.",
   "theme": "linkedin-pro",
   "slides": [
     {
       "layoutId": "cover-linkedin-pro",
       "slots": {
-        "author": "Jordan Vale",
-        "badgeText": "SAVE THIS POST",
+        "author": "Marcus Chen",
+        "badgeText": "LINKEDIN CAROUSEL POST",
         "pageNumber": "1",
         "accentColor": "#0a66c2",
         "headline": "5 Things That Actually Close Enterprise Deals",
-        "heroSymbol": "🎯",
+        "heroSymbol": "🏢",
         "heroBg": "#0a66c2",
-        "heroBg2": "#004182",
-        "body": "I’ve closed $10M+ in SaaS contracts. These five levers separate top performers from everyone else."
+        "heroBg2": "#4f3df5",
+        "body": "Most reps chase activity. Top reps build trust, align stakeholders, and engineer consensus. Here are 5 moves that actually win."
       }
     },
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Jordan Vale",
+        "author": "Marcus Chen",
         "badgeText": "SAVE THIS POST",
         "pageNumber": "2",
         "accentColor": "#0a66c2",
-        "title": "Stop Pitching, Start Diagnosing",
-        "body": "Most reps lead with features. Top reps lead with curiosity. The best discovery call beats the best demo every time.",
-        "heroSymbol": "🔍",
+        "title": "Champion a Power Sponsor",
+        "body": "Find the executive with budget authority and a burning pain. Coach them to sell internally. No champion, no deal.",
+        "heroSymbol": "🎯",
         "heroBg": "#0a66c2",
-        "heroBg2": "#004182",
+        "heroBg2": "#4f3df5",
         "labelText": "CLOSE BIGGER DEALS"
       }
     },
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Jordan Vale",
+        "author": "Marcus Chen",
         "badgeText": "SAVE THIS POST",
         "pageNumber": "3",
         "accentColor": "#0a66c2",
-        "title": "Map The Power Map",
-        "body": "Know every stakeholder, their KPIs, and their personal win. If you don't know who can kill the deal, you haven't started.",
+        "title": "Map the Buying Committee",
+        "body": "Enterprise decisions have 6–10 stakeholders. Map each influencer, blocker, and gatekeeper. Then build a plan to win every vote.",
         "heroSymbol": "🗺️",
         "heroBg": "#0a66c2",
-        "heroBg2": "#004182",
+        "heroBg2": "#4f3df5",
         "labelText": "CLOSE BIGGER DEALS"
       }
     },
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Jordan Vale",
+        "author": "Marcus Chen",
         "badgeText": "SAVE THIS POST",
         "pageNumber": "4",
         "accentColor": "#0a66c2",
-        "title": "Quantify The Cost of Inaction",
-        "body": "Build a business case with numbers the CFO trusts. ROI isn't a slide; it's the only thing that gets contracts signed.",
+        "title": "Quantify ROI Early",
+        "body": "Buyers need business case ammo for finance. Show exact cost of inaction and projected ROI in their language, not yours.",
         "heroSymbol": "📊",
         "heroBg": "#0a66c2",
-        "heroBg2": "#004182",
+        "heroBg2": "#4f3df5",
         "labelText": "CLOSE BIGGER DEALS"
       }
     },
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Jordan Vale",
+        "author": "Marcus Chen",
         "badgeText": "SAVE THIS POST",
         "pageNumber": "5",
         "accentColor": "#0a66c2",
-        "title": "Co-Create The Evaluation Plan",
-        "body": "Never leave the process to chance. Define milestones, mutual commitments, and what 'yes' looks like before the proposal ever goes out.",
-        "heroSymbol": "🤝",
+        "title": "Co-Create the Evaluation",
+        "body": "Don't pitch; architect the criteria with the buyer. When your solution defines the rubric, competitors become checked boxes.",
+        "heroSymbol": "🏗️",
         "heroBg": "#0a66c2",
-        "heroBg2": "#004182",
+        "heroBg2": "#4f3df5",
         "labelText": "CLOSE BIGGER DEALS"
       }
     },
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Jordan Vale",
+        "author": "Marcus Chen",
         "badgeText": "SAVE THIS POST",
         "pageNumber": "6",
         "accentColor": "#0a66c2",
-        "title": "Sell Outcomes, Not Features",
-        "body": "Buyers don't need more tools. They need a guaranteed outcome. Make your contract the lowest-risk option on their table.",
-        "heroSymbol": "🏆",
+        "title": "Secure Mutual Action Plans",
+        "body": "Replace vague follow-ups with signed milestones. A mutual close plan creates accountability and exposes red flags before they kill the deal.",
+        "heroSymbol": "🤝",
         "heroBg": "#0a66c2",
-        "heroBg2": "#004182",
+        "heroBg2": "#4f3df5",
         "labelText": "CLOSE BIGGER DEALS"
       }
     },
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Jordan Vale",
+        "author": "Marcus Chen",
         "badgeText": "SAVE THIS POST",
         "pageNumber": "7",
         "accentColor": "#0a66c2",
-        "title": "Secure The Internal Champion",
-        "body": "A deal without a champion is just a quote. Equip someone inside to sell for you when you're not in the room.",
+        "title": "Remove Risk Before Closing",
+        "body": "Enterprise buyers fear career risk more than price. Offer pilots, phased rollouts, and escape clauses to make saying yes safe.",
         "heroSymbol": "🛡️",
         "heroBg": "#0a66c2",
-        "heroBg2": "#004182",
+        "heroBg2": "#4f3df5",
         "labelText": "CLOSE BIGGER DEALS"
       }
     },
     {
       "layoutId": "cta-linkedin-pro",
       "slots": {
-        "author": "Jordan Vale",
+        "author": "Marcus Chen",
         "badgeText": "SAVE THIS POST",
         "pageNumber": "8",
         "accentColor": "#0a66c2",
         "eyebrow": "YOUR TURN?",
-        "headline": "Which Lever Will You Pull First?",
-        "body": "Drop your best closing tactic in the comments. I'd love to hear what's working for you right now.",
-        "buttonLabel": "Follow for more",
+        "headline": "What's Your Best Enterprise Closing Move?",
+        "body": "Drop your #1 deal-closing tactic in the comments. I'd love to steal your playbook.",
+        "buttonLabel": "Comment Below",
         "secondaryLabel": "Repost",
-        "handle": "@jordanvale"
+        "handle": "@marcuschen"
       }
     }
   ]

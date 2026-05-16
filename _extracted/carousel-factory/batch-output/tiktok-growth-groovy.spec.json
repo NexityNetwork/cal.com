@@ -1,79 +1,79 @@
 {
   "id": "tiktok-growth-groovy",
-  "brand": "CloutCode",
+  "brand": "ViralLab",
   "brief": "5 unhinged TikTok hooks that 10x'd our growth.",
   "theme": "retro-groovy",
   "slides": [
     {
       "layoutId": "cover-retro-groovy",
       "slots": {
-        "title": "Unhinged TikTok hooks",
-        "ctaText": "Five wild hooks that 10x'd growth",
-        "handle": "@cloutcode"
+        "title": "Our unhinged hooks",
+        "ctaText": "the 5 hooks that 10x'd growth",
+        "handle": "@virallab"
       }
     },
     {
       "layoutId": "body-retro-groovy",
       "slots": {
         "number": "01",
-        "title": "BURN THE SCRIPT",
-        "body": "We stopped doing what the gurus told us. These five hooks felt completely unhinged, but they worked stupidly well. Here is the chaos.",
-        "handle": "@cloutcode"
+        "title": "Playbook Is Dead",
+        "body": "We stopped doing 'professional' TikToks and embraced pure chaos. These five unhinged hooks changed everything for our account in one week.",
+        "handle": "@virallab"
       }
     },
     {
       "layoutId": "body-retro-groovy",
       "slots": {
         "number": "02",
-        "title": "I'M NOT SORRY",
-        "body": "This hook stopped the scroll instantly. People got mad, then they watched till the end. Anger equals retention, apparently.",
-        "handle": "@cloutcode"
+        "title": "Pretend It's Banned",
+        "body": "We filmed ourselves 'hiding' our product from the camera and whispering like it was contraband. People lost it. The comment section turned into a riot.",
+        "handle": "@virallab"
       }
     },
     {
       "layoutId": "body-retro-groovy",
       "slots": {
         "number": "03",
-        "title": "THEY'RE BANNING THIS",
-        "body": "Nothing triggers curiosity like fake authority threats. We used this for a boring SaaS tip and it absolutely exploded. Controversy sells.",
-        "handle": "@cloutcode"
+        "title": "Start With Oops",
+        "body": "Opening with 'I accidentally leaked our pricing' stopped thumbs instantly. Everyone waited for the tea. Instead they got our value prop and a sale.",
+        "handle": "@virallab"
       }
     },
     {
       "layoutId": "body-retro-groovy",
       "slots": {
         "number": "04",
-        "title": "WORST MISTAKE EVER",
-        "body": "Opening with failure hits different. Everyone loves a disaster story, especially when you flip it into a lesson. Trust the cringe.",
-        "handle": "@cloutcode"
+        "title": "POV You're Shook",
+        "body": "POV: you just found out your competitor is using our tool and you're panicking. We filmed it as a meme. It hit a million views in three days.",
+        "handle": "@virallab"
       }
     },
     {
       "layoutId": "body-retro-groovy",
       "slots": {
         "number": "05",
-        "title": "TELL ME I'M WRONG",
-        "body": "This one sparked 4,000 comments in two hours. We picked a hill to die on and let the algorithm do the rest. Chaos.",
-        "handle": "@cloutcode"
+        "title": "Hot Take Only",
+        "body": "We posted a video saying 'This feature should be illegal.' No context, just a deadpan stare. The rage bait worked and our DMs exploded with leads.",
+        "handle": "@virallab"
       }
     },
     {
       "layoutId": "body-retro-groovy",
       "slots": {
         "number": "06",
-        "title": "COPY THIS EXACTLY",
-        "body": "Reverse psychology meets free value. We told people to steal our strategy and they saved it like crazy. Give to get.",
-        "handle": "@cloutcode"
+        "title": "Reverse The Ask",
+        "body": "We told people to NOT check our link in bio. Classic reverse psychology. Clicks went up 900% because humans love doing what they're told not to.",
+        "handle": "@virallab"
       }
     },
     {
       "layoutId": "cta-retro-groovy",
       "slots": {
         "eyebrow": "OVER TO YOU",
-        "headline": "GO GET UNHINGED",
-        "body": "Try one of these hooks today and watch your retention graph lose its mind. Tag us when it pops off.",
-        "buttonLabel": "SAVE THIS NOW",
-        "handle": "@cloutcode"
+        "headline": "Steal These Hooks",
+        "body": "Save this post and test one hook today. Your next viral video starts with chaos.",
+        "buttonLabel": "Save These Hooks",
+        "handle": "@virallab"
       }
     }
   ]

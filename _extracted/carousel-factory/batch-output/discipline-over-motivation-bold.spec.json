@@ -1,6 +1,6 @@
 {
   "id": "discipline-over-motivation-bold",
-  "brand": "FORGE",
+  "brand": "DISCIPLINE CODE",
   "brief": "Why discipline always beats motivation — 6 examples.",
   "theme": "bold-split",
   "slides": [
@@ -8,71 +8,71 @@
       "layoutId": "cover-bold-split",
       "slots": {
         "title": "DISCIPLINE BEATS MOTIVATION EVERY SINGLE TIME",
-        "handle": "@mindsetforge"
+        "handle": "@DISCIPLINECODE"
       }
     },
     {
       "layoutId": "body-bold-split",
       "slots": {
         "number": "01",
-        "title": "THE BLANK PAGE FEARS DISCIPLINE",
-        "body": "Motivation waits for inspiration. Discipline sits down and works until the job is finished regardless of mood. That is how books get written.",
-        "handle": "@mindsetforge"
+        "title": "THE WRITER WHO SHOWS UP",
+        "body": "Inspiration is unpredictable. The professional sits down and writes anyway, turning blank pages into finished books through repetition alone.",
+        "handle": "@DISCIPLINECODE"
       }
     },
     {
       "layoutId": "body-bold-split",
       "slots": {
         "number": "02",
-        "title": "CHAMPIONS TRAIN ALONE EVERY DAY",
-        "body": "Motivation loves crowds and applause. Discipline shows up at five in the morning when the gym is empty. Results follow repetition, not feelings.",
-        "handle": "@mindsetforge"
+        "title": "THE ATHLETE WHO TRAINS DAILY",
+        "body": "Champions do not wait for perfect conditions. They run in the rain and lift when energy is low because the schedule demands it.",
+        "handle": "@DISCIPLINECODE"
       }
     },
     {
       "layoutId": "body-bold-split",
       "slots": {
         "number": "03",
-        "title": "BUILD SYSTEMS NOT EXCITEMENT",
-        "body": "Startups do not run on hype alone. Discipline builds the boring systems that scale while motivation chases the next shiny idea. Execution wins.",
-        "handle": "@mindsetforge"
+        "title": "THE LEADER WHO DECIDES TIRED",
+        "body": "Motivation fades by noon. Great executives rely on systems and standards to make hard calls long after the excitement has disappeared.",
+        "handle": "@DISCIPLINECODE"
       }
     },
     {
       "layoutId": "body-bold-split",
       "slots": {
         "number": "04",
-        "title": "CONSISTENCY BEATS INTENSITY EVERY TIME",
-        "body": "One inspired workout changes nothing. Discipline shows up daily, even when motivation is gone. Small repeated efforts compound into transformation.",
-        "handle": "@mindsetforge"
+        "title": "THE MUSICIAN WHO PRACTICES SCALES",
+        "body": "Talent means nothing without repetition. The best players play boring fundamentals for hours because mastery is built when nobody is watching.",
+        "handle": "@DISCIPLINECODE"
       }
     },
     {
       "layoutId": "body-bold-split",
       "slots": {
         "number": "05",
-        "title": "MASTERY REQUIRES BORING REPETITION",
-        "body": "Motivation burns bright then disappears. Discipline practices the fundamentals long after novelty fades. That is the real price of expertise.",
-        "handle": "@mindsetforge"
+        "title": "THE STUDENT WHO STUDIES DAILY",
+        "body": "Cramming relies on panic, not progress. Consistent learners absorb more in thirty focused minutes a day than in all-night motivational bursts.",
+        "handle": "@DISCIPLINECODE"
       }
     },
     {
       "layoutId": "body-bold-split",
       "slots": {
         "number": "06",
-        "title": "DO WHAT NEEDS DOING NOW",
-        "body": "Motivation asks how you feel. Discipline ignores the feeling and takes action anyway. The task does not care about your mood.",
-        "handle": "@mindsetforge"
+        "title": "THE ARTIST WHO SHIPS DAILY",
+        "body": "Waiting for the perfect mood kills creativity. The prolific creator publishes work that is good enough and moves on to the next piece.",
+        "handle": "@DISCIPLINECODE"
       }
     },
     {
       "layoutId": "cta-bold-split",
       "slots": {
         "eyebrow": "YOUR MOVE",
-        "headline": "STOP WAITING START BUILDING",
-        "body": "Motivation is a fair-weather friend. Build the discipline that outlasts every storm and keeps you moving forward.",
-        "buttonLabel": "START NOW",
-        "handle": "@mindsetforge"
+        "headline": "BUILD THE SYSTEM TODAY",
+        "body": "Stop waiting to feel ready. Start small, stay consistent, and let discipline carry you when motivation disappears.",
+        "buttonLabel": "START TODAY",
+        "handle": "@DISCIPLINECODE"
       }
     }
   ]

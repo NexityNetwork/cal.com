@@ -1,109 +1,109 @@
 {
   "id": "writer-rituals",
-  "brand": "THE AUTHOR HOUR",
+  "brand": "THE AUTHOR EDIT",
   "brief": "The morning routines of 6 writers who shipped a book in 12 months.",
   "theme": "noir-yellow",
   "slides": [
     {
       "layoutId": "cover-noir-yellow",
       "slots": {
-        "brand": "THE AUTHOR HOUR",
-        "scriptPrefix": "Inside",
+        "brand": "THE AUTHOR EDIT",
+        "scriptPrefix": "Quiet",
         "displayLine1": "MORNING ROUTINES",
         "displayLine2": "OF 6 WRITERS",
         "displayLine3": "WHO SHIPPED",
-        "scriptTagline": "The quiet habits behind finished manuscripts",
-        "handle": "@theauthorhour",
+        "scriptTagline": "Stealing dawn to type the final chapter.",
+        "handle": "@theauthoredit",
         "slideId": "Slide 01"
       }
     },
     {
       "layoutId": "body-noir-yellow",
       "slots": {
-        "brand": "THE AUTHOR HOUR",
-        "scriptPrefix": "Rises",
-        "displayLine1": "4:30 AM",
-        "displayLine2": "PEN AND PAPER",
-        "displayLine3": "NO PHONE",
-        "body": "Maya wakes before the house stirs. She writes three pages by candlelight with loose-leaf paper. By seven, the first draft is already breathing.",
-        "handle": "@theauthorhour",
+        "brand": "THE AUTHOR EDIT",
+        "scriptPrefix": "First",
+        "displayLine1": "PEN AND PAPER",
+        "displayLine2": "BEFORE THE SCREEN",
+        "displayLine3": "AT 5:15 AM",
+        "body": "She wakes in darkness and fills three pages by candlelight. Longhand clears the noise; the draft begins at seven.",
+        "handle": "@theauthoredit",
         "slideId": "Slide 02"
       }
     },
     {
       "layoutId": "body-noir-yellow",
       "slots": {
-        "brand": "THE AUTHOR HOUR",
-        "scriptPrefix": "Walks",
-        "displayLine1": "TWO MILES",
-        "displayLine2": "THEN 500 WORDS",
-        "displayLine3": "BEFORE NOON",
-        "body": "Jonas leaves his phone at home and loops the park. He speaks scenes into a pocket recorder. Back at his desk, transcription becomes the day's anchor.",
-        "handle": "@theauthorhour",
+        "brand": "THE AUTHOR EDIT",
+        "scriptPrefix": "Stride",
+        "displayLine1": "FOUR MILES",
+        "displayLine2": "BEFORE SUNRISE",
+        "displayLine3": "THEN THE DESK",
+        "body": "He dictates notes into his phone while the city sleeps. By eight he has a scene outlined and ready.",
+        "handle": "@theauthoredit",
         "slideId": "Slide 03"
       }
     },
     {
       "layoutId": "body-noir-yellow",
       "slots": {
-        "brand": "THE AUTHOR HOUR",
-        "scriptPrefix": "Brews",
-        "displayLine1": "SAME CORNER BOOTH",
-        "displayLine2": "BLACK COFFEE",
-        "displayLine3": "90 MINUTE SPRINT",
-        "body": "Elena buys one cup and claims the corner booth. She sets a timer and does not look up. The book was built on these invisible Tuesdays.",
-        "handle": "@theauthorhour",
+        "brand": "THE AUTHOR EDIT",
+        "scriptPrefix": "Laps",
+        "displayLine1": "COLD WATER",
+        "displayLine2": "THEN HOT COFFEE",
+        "displayLine3": "THEN ONE THOUSAND WORDS",
+        "body": "The pool opens at six; she is always first. Chlorine washes doubt away before the cursor starts blinking.",
+        "handle": "@theauthoredit",
         "slideId": "Slide 04"
       }
     },
     {
       "layoutId": "body-noir-yellow",
       "slots": {
-        "brand": "THE AUTHOR HOUR",
-        "scriptPrefix": "Begins",
-        "displayLine1": "ONE NOTEBOOK",
-        "displayLine2": "ONE FOUNTAIN PEN",
-        "displayLine3": "TWO HOURS",
-        "body": "Priya fills a single page before breakfast. No apps, no alerts, no word-count goals. She trusts slow consistency over frantic bursts of inspiration.",
-        "handle": "@theauthorhour",
+        "brand": "THE AUTHOR EDIT",
+        "scriptPrefix": "Noise",
+        "displayLine1": "SAME CORNER",
+        "displayLine2": "SAME ESPRESSO",
+        "displayLine3": "SAME WORD COUNT",
+        "body": "He claims the back table by seven and buys one cup. The hum of strangers keeps his inner critic quiet.",
+        "handle": "@theauthoredit",
         "slideId": "Slide 05"
       }
     },
     {
       "layoutId": "body-noir-yellow",
       "slots": {
-        "brand": "THE AUTHOR HOUR",
-        "scriptPrefix": "Speaks",
-        "displayLine1": "VOICE MEMOS",
-        "displayLine2": "DURING THE COMMUTE",
-        "displayLine3": "EDIT AT LUNCH",
-        "body": "David dictates chapters in twenty-minute blocks on the train. He never waits for mood or muse. Editing happens with headphones and a legal pad.",
-        "handle": "@theauthorhour",
+        "brand": "THE AUTHOR EDIT",
+        "scriptPrefix": "Stolen",
+        "displayLine1": "4:30 ALARM",
+        "displayLine2": "KITCHEN TABLE",
+        "displayLine3": "CHAPTER BEFORE CHAOS",
+        "body": "She writes until cereal bowls hit the counter. Ninety minutes of silence is enough to outrun a year of doubt.",
+        "handle": "@theauthoredit",
         "slideId": "Slide 06"
       }
     },
     {
       "layoutId": "body-noir-yellow",
       "slots": {
-        "brand": "THE AUTHOR HOUR",
-        "scriptPrefix": "Types",
-        "displayLine1": "VINTAGE TYPEWRITER",
-        "displayLine2": "RADIO OFF",
-        "displayLine3": "UNTIL WORDS RUN DRY",
-        "body": "Ruth rolls in paper at five and pounds keys until seven. She stops when the ribbon runs out. That mechanical limit taught her real endings.",
-        "handle": "@theauthorhour",
+        "brand": "THE AUTHOR EDIT",
+        "scriptPrefix": "Still",
+        "displayLine1": "GREEN TEA",
+        "displayLine2": "ONE POEM",
+        "displayLine3": "THEN PROSE",
+        "body": "He reads Auden, then types exactly one scene. Slow mornings do not mean slow books; they mean steady ones.",
+        "handle": "@theauthoredit",
         "slideId": "Slide 07"
       }
     },
     {
       "layoutId": "cta-noir-yellow",
       "slots": {
-        "brand": "THE AUTHOR HOUR",
+        "brand": "THE AUTHOR EDIT",
         "scriptPrefix": "Begin",
-        "headline": "BUILD YOUR MORNING ROUTINE",
-        "scriptTagline": "Your finished book starts tomorrow at dawn",
-        "buttonLabel": "JOIN THE CLUB",
-        "handle": "@theauthorhour",
+        "headline": "SHIP YOUR BOOK THIS YEAR",
+        "scriptTagline": "Start tomorrow and finish before next spring.",
+        "buttonLabel": "Start Today",
+        "handle": "@theauthoredit",
         "slideId": "Slide 08"
       }
     }

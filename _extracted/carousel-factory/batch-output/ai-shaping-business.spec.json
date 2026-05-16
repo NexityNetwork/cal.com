@@ -1,126 +1,126 @@
 {
   "id": "ai-shaping-business",
-  "brand": "Jordan Lee",
+  "brand": "FounderLab",
   "brief": "How AI is shaping future business — 6 ways every founder should know.",
   "theme": "linkedin-pro",
   "slides": [
     {
       "layoutId": "cover-linkedin-pro",
       "slots": {
-        "author": "Jordan Lee",
-        "badgeText": "LINKEDIN CAROUSEL POST",
+        "author": "Jordan Reeves",
+        "badgeText": "SAVE THIS POST",
         "pageNumber": "1",
         "accentColor": "#4f3df5",
-        "headline": "6 AI Shifts For Founders",
+        "headline": "6 AI Forces Shaping Future Business",
         "heroSymbol": "🤖",
-        "heroBg": "#1e1b4b",
-        "heroBg2": "#4f3df5",
-        "body": "Artificial intelligence is rewriting the rules of business. Here are six trends every founder must master to stay ahead."
+        "heroBg": "#4f3df5",
+        "heroBg2": "#7c3aed",
+        "body": "Artificial intelligence isn't coming. It's already rewriting how founders build, scale, and compete. Here are six shifts you can't ignore."
       }
     },
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Jordan Lee",
+        "author": "Jordan Reeves",
         "badgeText": "SAVE THIS POST",
         "pageNumber": "2",
         "accentColor": "#4f3df5",
-        "title": "Hyper-Personalize at Scale",
-        "body": "AI analyzes customer behavior to deliver tailored experiences that boost retention without expanding headcount.",
+        "title": "Hyper-Personalization at Scale",
+        "body": "AI delivers one-to-one customer experiences without expanding headcount. Founders who deploy it capture loyalty and revenue faster than competitors.",
         "heroSymbol": "01",
-        "heroBg": "#1e1b4b",
-        "heroBg2": "#4f3df5",
-        "labelText": "AI FOR FOUNDERS"
+        "heroBg": "#4f3df5",
+        "heroBg2": "#7c3aed",
+        "labelText": "SWIPE FOR MORE"
       }
     },
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Jordan Lee",
+        "author": "Jordan Reeves",
         "badgeText": "SAVE THIS POST",
         "pageNumber": "3",
         "accentColor": "#4f3df5",
-        "title": "Predict Market Shifts",
-        "body": "Machine learning models forecast demand and identify risks, giving founders an edge in volatile markets.",
+        "title": "Autonomous Decision Making",
+        "body": "Algorithms now optimize pricing, inventory, and forecasting in real time. Let machines handle operations while you focus on vision.",
         "heroSymbol": "02",
-        "heroBg": "#1e1b4b",
-        "heroBg2": "#4f3df5",
-        "labelText": "AI FOR FOUNDERS"
+        "heroBg": "#4f3df5",
+        "heroBg2": "#7c3aed",
+        "labelText": "SWIPE FOR MORE"
       }
     },
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Jordan Lee",
+        "author": "Jordan Reeves",
         "badgeText": "SAVE THIS POST",
         "pageNumber": "4",
         "accentColor": "#4f3df5",
-        "title": "Automate Core Operations",
-        "body": "Intelligent agents handle repetitive workflows, cut costs, and free your team to focus on strategy.",
+        "title": "AI-Native Operations",
+        "body": "From legal review to code deployment, AI agents handle repetitive workflows. Build leaner teams that punch far above their weight.",
         "heroSymbol": "03",
-        "heroBg": "#1e1b4b",
-        "heroBg2": "#4f3df5",
-        "labelText": "AI FOR FOUNDERS"
+        "heroBg": "#4f3df5",
+        "heroBg2": "#7c3aed",
+        "labelText": "SWIPE FOR MORE"
       }
     },
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Jordan Lee",
+        "author": "Jordan Reeves",
         "badgeText": "SAVE THIS POST",
         "pageNumber": "5",
         "accentColor": "#4f3df5",
-        "title": "Scale Customer Support",
-        "body": "Conversational AI resolves queries instantly, improving satisfaction while reducing support team overhead dramatically.",
+        "title": "Predictive Market Intel",
+        "body": "Spot trends before they break by analyzing unstructured data. AI turns market noise into actionable strategy every single morning.",
         "heroSymbol": "04",
-        "heroBg": "#1e1b4b",
-        "heroBg2": "#4f3df5",
-        "labelText": "AI FOR FOUNDERS"
+        "heroBg": "#4f3df5",
+        "heroBg2": "#7c3aed",
+        "labelText": "SWIPE FOR MORE"
       }
     },
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Jordan Lee",
+        "author": "Jordan Reeves",
         "badgeText": "SAVE THIS POST",
         "pageNumber": "6",
         "accentColor": "#4f3df5",
-        "title": "Accelerate Marketing Output",
-        "body": "Generative AI drafts campaigns, optimizes SEO, and personalizes outreach in minutes rather than days.",
+        "title": "Creative Augmentation",
+        "body": "Generative tools accelerate branding, copy, and product design. The bottleneck is no longer production speed; it is your taste.",
         "heroSymbol": "05",
-        "heroBg": "#1e1b4b",
-        "heroBg2": "#4f3df5",
-        "labelText": "AI FOR FOUNDERS"
+        "heroBg": "#4f3df5",
+        "heroBg2": "#7c3aed",
+        "labelText": "SWIPE FOR MORE"
       }
     },
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Jordan Lee",
+        "author": "Jordan Reeves",
         "badgeText": "SAVE THIS POST",
         "pageNumber": "7",
         "accentColor": "#4f3df5",
-        "title": "Smarter Strategic Calls",
-        "body": "Data-driven insights remove guesswork, helping founders allocate capital and resources with surgical precision.",
+        "title": "Trust-First Architecture",
+        "body": "Future businesses will compete on data ethics and transparency. Implement responsible AI now to become the vendor customers trust most.",
         "heroSymbol": "06",
-        "heroBg": "#1e1b4b",
-        "heroBg2": "#4f3df5",
-        "labelText": "AI FOR FOUNDERS"
+        "heroBg": "#4f3df5",
+        "heroBg2": "#7c3aed",
+        "labelText": "SWIPE FOR MORE"
       }
     },
     {
       "layoutId": "cta-linkedin-pro",
       "slots": {
-        "author": "Jordan Lee",
+        "author": "Jordan Reeves",
         "badgeText": "SAVE THIS POST",
         "pageNumber": "8",
         "accentColor": "#4f3df5",
         "eyebrow": "YOUR TURN?",
-        "headline": "Which AI Trend Will You Try?",
-        "body": "Drop a comment below and share this carousel with a founder who needs to see it.",
-        "buttonLabel": "Follow for More",
-        "secondaryLabel": "Repost",
-        "handle": "@jordanlee"
+        "headline": "Which AI Shift Will You Act On?",
+        "body": "Drop a comment with the number you're tackling first. Follow for weekly founder playbooks.",
+        "buttonLabel": "Save This Post",
+        "secondaryLabel": "Share",
+        "handle": "@jordanreeves"
       }
     }
   ]

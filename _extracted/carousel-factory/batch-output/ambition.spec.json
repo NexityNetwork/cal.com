@@ -1,0 +1,111 @@
+{
+  "id": "ambition",
+  "brand": "THE RESET",
+  "brief": "Why ambition is overrated — 6 reframes from people who burned out and started over.",
+  "theme": "noir-yellow",
+  "slides": [
+    {
+      "layoutId": "cover-noir-yellow",
+      "slots": {
+        "brand": "THE RESET",
+        "scriptPrefix": "Stop",
+        "displayLine1": "WHY AMBITION",
+        "displayLine2": "IS OVERRATED",
+        "displayLine3": "6 REFRAMES",
+        "scriptTagline": "Real stories from people who burned out and rebuilt.",
+        "handle": "@thereset",
+        "slideId": "Slide 01"
+      }
+    },
+    {
+      "layoutId": "body-noir-yellow",
+      "slots": {
+        "brand": "THE RESET",
+        "scriptPrefix": "Reframe",
+        "displayLine1": "REST IS",
+        "displayLine2": "PRODUCTIVE",
+        "displayLine3": "NOT LAZY",
+        "body": "Your body keeps score. Recovery isn't a reward; it's maintenance. Downtime fuels sharper decisions than hustle ever could.",
+        "handle": "@thereset",
+        "slideId": "Slide 02"
+      }
+    },
+    {
+      "layoutId": "body-noir-yellow",
+      "slots": {
+        "brand": "THE RESET",
+        "scriptPrefix": "Reframe",
+        "displayLine1": "SLOWER IS",
+        "displayLine2": "FASTER IN",
+        "displayLine3": "THE END",
+        "body": "Speed breeds errors and shallow work. Deliberate pacing prevents the rework that devours your calendar. Choose depth.",
+        "handle": "@thereset",
+        "slideId": "Slide 03"
+      }
+    },
+    {
+      "layoutId": "body-noir-yellow",
+      "slots": {
+        "brand": "THE RESET",
+        "scriptPrefix": "Reframe",
+        "displayLine1": "QUITTING IS",
+        "displayLine2": "A STRATEGIC",
+        "displayLine3": "MOVE",
+        "body": "Staying too long in the wrong room costs your health. Walking away is data, not defeat. Reclaim direction.",
+        "handle": "@thereset",
+        "slideId": "Slide 04"
+      }
+    },
+    {
+      "layoutId": "body-noir-yellow",
+      "slots": {
+        "brand": "THE RESET",
+        "scriptPrefix": "Reframe",
+        "displayLine1": "SMALL GOALS",
+        "displayLine2": "BEAT GRAND",
+        "displayLine3": "PLANS",
+        "body": "Massive visions paralyze; tiny commitments compound. One focused hour builds more momentum than a chaotic twelve. Start micro.",
+        "handle": "@thereset",
+        "slideId": "Slide 05"
+      }
+    },
+    {
+      "layoutId": "body-noir-yellow",
+      "slots": {
+        "brand": "THE RESET",
+        "scriptPrefix": "Reframe",
+        "displayLine1": "JOY IS A",
+        "displayLine2": "METRIC OF",
+        "displayLine3": "SUCCESS",
+        "body": "If your achievements hollow you out, the scoreboard is broken. Fulfillment lives in the work, not just the win.",
+        "handle": "@thereset",
+        "slideId": "Slide 06"
+      }
+    },
+    {
+      "layoutId": "body-noir-yellow",
+      "slots": {
+        "brand": "THE RESET",
+        "scriptPrefix": "Reframe",
+        "displayLine1": "ENOUGH IS",
+        "displayLine2": "ALREADY",
+        "displayLine3": "PLENTY",
+        "body": "Ambition without limits becomes a trap. Defining 'enough' sets you free from the endless chase. You are sufficient.",
+        "handle": "@thereset",
+        "slideId": "Slide 07"
+      }
+    },
+    {
+      "layoutId": "cta-noir-yellow",
+      "slots": {
+        "brand": "THE RESET",
+        "scriptPrefix": "Begin",
+        "headline": "CHOOSE YOUR NEXT CHAPTER",
+        "scriptTagline": "Rebuild a life that feels like yours.",
+        "buttonLabel": "Start Today",
+        "handle": "@thereset",
+        "slideId": "Slide 08"
+      }
+    }
+  ]
+}

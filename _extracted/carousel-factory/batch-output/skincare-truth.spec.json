@@ -1,0 +1,96 @@
+{
+  "id": "skincare-truth",
+  "brand": "VERDANT",
+  "brief": "5 things the skincare industry doesn't want you to know.",
+  "theme": "dark-green-serif",
+  "slides": [
+    {
+      "layoutId": "cover-dark-green-serif",
+      "slots": {
+        "brand": "VERDANT",
+        "pageOf": "01 OF 08",
+        "headline": "WHAT THE INDUSTRY HIDES?",
+        "subtitle": "Five truths that keep you buying bottles you don't need.",
+        "stickerText": "5 TRUTHS",
+        "handle": "@verdantskin"
+      }
+    },
+    {
+      "layoutId": "body-dark-green-serif",
+      "slots": {
+        "brand": "VERDANT",
+        "pageOf": "01 OF 06",
+        "number": "01",
+        "title": "NATURAL MEANS NOTHING",
+        "body": "The word 'natural' has zero legal definition in skincare. A brand can slap it on a bottle loaded with synthetic fragrance and irritants. Don't trust the label; trust the ingredient list.",
+        "handle": "@verdantskin"
+      }
+    },
+    {
+      "layoutId": "body-dark-green-serif",
+      "slots": {
+        "brand": "VERDANT",
+        "pageOf": "02 OF 06",
+        "number": "02",
+        "title": "PRICE ISN'T RESULTS",
+        "body": "A two-hundred-dollar cream and a twenty-dollar serum can share the exact same active ingredient. You're often paying for glass bottles and celebrity campaigns, not science.",
+        "handle": "@verdantskin"
+      }
+    },
+    {
+      "layoutId": "body-dark-green-serif",
+      "slots": {
+        "brand": "VERDANT",
+        "pageOf": "03 OF 06",
+        "number": "03",
+        "title": "YOU CAN'T SHRINK PORES",
+        "body": "Pore size is determined by genetics and age. Products claiming to shrink them only temporarily clear them out. It's biology, not a bottle, that sets the size.",
+        "handle": "@verdantskin"
+      }
+    },
+    {
+      "layoutId": "body-dark-green-serif",
+      "slots": {
+        "brand": "VERDANT",
+        "pageOf": "04 OF 06",
+        "number": "04",
+        "title": "BURNING ISN'T PURGING",
+        "body": "Brands love to call redness and peeling purging. In reality, your skin barrier is crying for help. Real improvement doesn't require constant stinging and sensitivity.",
+        "handle": "@verdantskin"
+      }
+    },
+    {
+      "layoutId": "body-dark-green-serif",
+      "slots": {
+        "brand": "VERDANT",
+        "pageOf": "05 OF 06",
+        "number": "05",
+        "title": "MAKEUP SPF WON'T SAVE YOU",
+        "body": "You'd need seven times the normal amount of foundation to reach the labeled SPF. No one applies that much. Always use a separate sunscreen before anything else.",
+        "handle": "@verdantskin"
+      }
+    },
+    {
+      "layoutId": "body-dark-green-serif",
+      "slots": {
+        "brand": "VERDANT",
+        "pageOf": "06 OF 06",
+        "number": "06",
+        "title": "YOUR BARRIER COMES FIRST",
+        "body": "The industry pushes endless acids and retinols to keep you buying. But without a healthy barrier, actives do more harm than good. Less is usually more.",
+        "handle": "@verdantskin"
+      }
+    },
+    {
+      "layoutId": "cta-dark-green-serif",
+      "slots": {
+        "brand": "VERDANT",
+        "eyebrow": "READY TO HEAL",
+        "headline": "BETTER SKIN FEWER PRODUCTS",
+        "body": "Ditch the hype. Build a routine that actually works with our free barrier-first guide.",
+        "buttonLabel": "GET THE GUIDE",
+        "handle": "@verdantskin"
+      }
+    }
+  ]
+}
