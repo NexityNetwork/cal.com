@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,700;1,400;1,700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1080px;height:1350px;overflow:hidden;background:#f7f2ea;font-family:"Inter",sans-serif;color:#0e0e0e;-webkit-font-smoothing:antialiased}
+.page{position:absolute;top:80px;left:80px;font-size:18px;font-weight:700}
+.author{position:absolute;top:80px;right:80px;display:flex;align-items:center;gap:12px}
+.avatar{width:42px;height:42px;border-radius:50%;background:linear-gradient(135deg,{{avatarBg1}},{{avatarBg2}});display:flex;align-items:center;justify-content:center;font-size:16px;font-weight:700;color:#fff}
+.author-info{text-align:right}
+.author-info .name{font-size:16px;font-weight:700;line-height:1.2}
+.author-info .handle{font-size:13px;color:#7a7464;line-height:1.2}
+.num-letter{position:absolute;top:180px;left:80px;font-family:"Cormorant Garamond",serif;font-style:italic;font-weight:700;font-size:340px;line-height:0.9;color:#d65f3e;letter-spacing:-10px}
+.num-label{position:absolute;top:230px;left:340px;font-size:24px;font-weight:700;color:#7a7464;letter-spacing:0.1em;text-transform:uppercase}
+.title{position:absolute;top:560px;left:80px;right:80px;font-size:80px;font-weight:800;line-height:1.0;letter-spacing:-1.8px;color:#0e0e0e}
+.title .em{font-family:"Cormorant Garamond",serif;font-style:italic;font-weight:700;color:#d65f3e}
+.divider{position:absolute;top:810px;left:80px;width:80px;height:4px;background:#d65f3e}
+.body{position:absolute;top:850px;left:80px;right:80px;font-size:28px;font-weight:400;line-height:1.55;color:#3a3530;max-width:920px}
+.quote{position:absolute;bottom:200px;left:80px;right:80px;font-family:"Cormorant Garamond",serif;font-style:italic;font-size:34px;line-height:1.4;color:#0e0e0e;padding-left:24px;border-left:4px solid #d65f3e}
+.bottom{position:absolute;bottom:60px;left:80px;right:80px;display:flex;justify-content:space-between;align-items:center}
+.handle{font-size:16px;font-weight:600;color:#7a7464}
+.swipe{padding:10px 22px;background:#0e0e0e;color:#fff;border-radius:50px;font-size:16px;font-weight:600}
+</style></head>
+<body>
+<div class="page">{{pageOf}}</div>
+<div class="author"><div class="avatar">{{authorInitials}}</div><div class="author-info"><div class="name">{{authorName}}</div><div class="handle">{{handle}}</div></div></div>
+<div class="num-letter">{{number}}</div>
+<div class="num-label">{{numberLabel}}</div>
+<div class="title">{{title}} <span class="em">{{titleItalic}}</span></div>
+<div class="divider"></div>
+<div class="body">{{body}}</div>
+<div class="quote">{{quote}}</div>
+<div class="bottom"><div class="handle">{{handle}}</div><div class="swipe">Swipe →</div></div>
+</body></html>

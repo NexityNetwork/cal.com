@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1080px;height:1350px;overflow:hidden;background:#f5f1e8;font-family:"Inter",sans-serif;color:#1a1a1a;-webkit-font-smoothing:antialiased}
+.page{position:absolute;top:80px;left:80px;font-size:18px;font-weight:700}
+.author{position:absolute;top:80px;right:80px;display:flex;align-items:center;gap:12px}
+.avatar{width:42px;height:42px;border-radius:50%;background:linear-gradient(135deg,{{avatarBg1}},{{avatarBg2}});display:flex;align-items:center;justify-content:center;font-size:16px;font-weight:700;color:#fff}
+.author-info{text-align:right}
+.author-info .name{font-size:16px;font-weight:700;line-height:1.2}
+.author-info .handle{font-size:13px;color:#7a7464;line-height:1.2}
+.num-row{position:absolute;top:180px;left:80px;display:flex;align-items:baseline;gap:18px}
+.num{font-size:96px;font-weight:900;color:#c4541f;line-height:1;letter-spacing:-3px}
+.num-label{font-size:20px;font-weight:700;color:#7a7464;letter-spacing:0.1em;text-transform:uppercase}
+.title{position:absolute;top:340px;left:80px;right:80px;font-size:62px;font-weight:800;line-height:1.0;letter-spacing:-1.5px;color:#1a1a1a;margin-bottom:30px}
+.metric-card{position:absolute;top:540px;left:80px;right:80px;background:#fff;border:2px solid #1a1a1a;border-radius:20px;padding:36px}
+.metric-row{display:flex;align-items:center;justify-content:space-between;margin-bottom:20px}
+.metric-row:last-child{margin-bottom:0}
+.metric-label{font-size:24px;font-weight:600;color:#1a1a1a}
+.metric-bar{flex:1;height:14px;background:#e6dfd0;border-radius:7px;margin:0 24px;overflow:hidden}
+.metric-fill{height:100%;background:#c4541f;border-radius:7px}
+.metric-val{font-size:32px;font-weight:800;color:#c4541f;min-width:120px;text-align:right}
+.body{position:absolute;bottom:200px;left:80px;right:80px;font-size:24px;font-weight:400;line-height:1.5;color:#3a3530;max-width:920px}
+.bottom{position:absolute;bottom:60px;left:80px;right:80px;display:flex;justify-content:space-between;align-items:center}
+.handle{font-size:16px;font-weight:600;color:#7a7464}
+.swipe{padding:10px 22px;background:#1a1a1a;color:#fff;border-radius:50px;font-size:16px;font-weight:600}
+</style></head>
+<body>
+<div class="page">{{pageOf}}</div>
+<div class="author"><div class="avatar">{{authorInitials}}</div><div class="author-info"><div class="name">{{authorName}}</div><div class="handle">{{handle}}</div></div></div>
+<div class="num-row"><div class="num">{{number}}</div><div class="num-label">{{numberLabel}}</div></div>
+<div class="title">{{title}}</div>
+<div class="metric-card">
+<div class="metric-row"><div class="metric-label">{{metric1Label}}</div><div class="metric-bar"><div class="metric-fill" style="width:{{metric1Pct}}%"></div></div><div class="metric-val">{{metric1Value}}</div></div>
+<div class="metric-row"><div class="metric-label">{{metric2Label}}</div><div class="metric-bar"><div class="metric-fill" style="width:{{metric2Pct}}%"></div></div><div class="metric-val">{{metric2Value}}</div></div>
+<div class="metric-row"><div class="metric-label">{{metric3Label}}</div><div class="metric-bar"><div class="metric-fill" style="width:{{metric3Pct}}%"></div></div><div class="metric-val">{{metric3Value}}</div></div>
+</div>
+<div class="body">{{body}}</div>
+<div class="bottom"><div class="handle">{{handle}}</div><div class="swipe">Swipe →</div></div>
+</body></html>

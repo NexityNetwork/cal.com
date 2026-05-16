@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1080px;height:1350px;overflow:hidden;background:#f0ebe1;font-family:"Inter",sans-serif;color:#1a1a1a;-webkit-font-smoothing:antialiased}
+.page{position:absolute;top:80px;left:80px;font-size:20px;font-weight:700;color:#5a5450}
+.author{position:absolute;top:80px;right:80px;display:flex;align-items:center;gap:14px}
+.avatar{width:46px;height:46px;border-radius:50%;background:linear-gradient(135deg,{{avatarBg1}},{{avatarBg2}});display:flex;align-items:center;justify-content:center;font-size:18px;font-weight:700;color:#fff}
+.author-info{text-align:right}
+.author-info .name{font-size:18px;font-weight:700;line-height:1.2}
+.author-info .handle{font-size:14px;color:#7a7464;line-height:1.2}
+.title{position:absolute;top:180px;left:80px;right:80px;text-align:center;font-size:88px;font-weight:800;line-height:1.05;letter-spacing:-2px;color:#1a1a1a}
+.title .accent{color:#c4541f}
+.shape3d{position:absolute;top:520px;left:50%;transform:translateX(-50%);width:440px;height:440px;border-radius:50%;background:radial-gradient(circle at 35% 30%,#fff 0%,#e8d5b8 25%,#c4541f 60%,#7a3210 100%);box-shadow:0 30px 80px rgba(196,84,31,0.35),inset -40px -50px 60px rgba(0,0,0,0.18)}
+.shape3d::before{content:"";position:absolute;top:15%;left:25%;width:120px;height:80px;background:radial-gradient(ellipse,rgba(255,255,255,0.7) 0%,transparent 70%);border-radius:50%}
+.badge{position:absolute;top:840px;left:50%;transform:translateX(-50%);padding:14px 28px;background:#1a1a1a;color:#fff;border-radius:50px;font-size:20px;font-weight:600;display:inline-flex;align-items:center;gap:10px}
+.badge::before{content:"⚡";color:#ffd700}
+.bottom{position:absolute;bottom:80px;left:80px;right:80px;display:flex;justify-content:space-between;align-items:center}
+.handle{font-size:20px;font-weight:600;color:#5a5450}
+.swipe{font-size:22px;font-weight:700;color:#c4541f}
+</style></head>
+<body>
+<div class="page">{{pageOf}}</div>
+<div class="author"><div class="avatar">{{authorInitials}}</div><div class="author-info"><div class="name">{{authorName}}</div><div class="handle">{{handle}}</div></div></div>
+<div class="title">{{titleLine1}}<br><span class="accent">{{titleAccent}}</span></div>
+<div class="shape3d"></div>
+<div class="badge">{{badgeText}}</div>
+<div class="bottom"><div class="handle">{{handle}}</div><div class="swipe">Swipe →</div></div>
+</body></html>

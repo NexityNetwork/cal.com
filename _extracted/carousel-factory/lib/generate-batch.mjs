@@ -58,6 +58,16 @@ const FAMILY_LAYOUTS = {
   "second-brain":     { cover: "cover-second-brain",    body: "body-second-brain",    cta: "cta-second-brain" },
   "mono-pattern":     { cover: "cover-mono-pattern",    body: "body-mono-pattern",    cta: "cta-mono-pattern" },
   "rounded-card":     { cover: "cover-rounded-card",    body: "body-rounded-card",    cta: "cta-rounded-card" },
+  "dark-blob":        { cover: "cover-dark-blob",       body: "body-dark-blob",       cta: "cta-dark-blob" },
+  "mint-condensed":   { cover: "cover-mint-condensed",  body: "body-mint-condensed",  cta: "cta-mint-condensed" },
+  "cream-best":       { cover: "cover-cream-best",      body: "body-cream-best",      cta: "cta-cream-best" },
+  "black-warning":    { cover: "cover-black-warning",   body: "body-black-warning",   cta: "cta-black-warning" },
+  "cream-3d":         { cover: "cover-cream-3d",        body: "body-cream-3d",        cta: "cta-cream-3d" },
+  "typo-sample":      { cover: "cover-typo-sample",     body: "body-typo-sample",     cta: "cta-typo-sample" },
+  "data-table":       { cover: "cover-data-table",      body: "body-data-table",      cta: "cta-data-table" },
+  "tool-list":        { cover: "cover-tool-list",       body: "body-tool-list",       cta: "cta-tool-list" },
+  "flowchart":        { cover: "cover-flowchart",       body: "body-flowchart",       cta: "cta-flowchart" },
+  "design-tile":      { cover: "cover-design-tile",     body: "body-design-tile",     cta: "cta-design-tile" },
 };
 
 // CTA slot conventions, shared by all families:
@@ -184,6 +194,57 @@ CTA   cta-mono-pattern: pageOf ("10 / 10"), handle, patternLabel (e.g. "WRAP" / 
 COVER cover-rounded-card: pageBadge (e.g. "01" or "01 of 10"), headlineLine1 (2-4 words, e.g. "How to grow"), headlineLine2 (3-5 orange words, e.g. "like a 20-person team"), body (1-2 sentences ≤22 words sets context), bodyAccent (3-6 orange words, e.g. "without a 20-person budget.").
 BODY  body-rounded-card: pageBadge (e.g. "02"), handle ("@handle"), number ("01"-"08"), title (2-4 words), titleAccent (1-3 orange words like "the distribution"), body (2-3 sentences ≤40 words concrete), ico1/ico2/ico3/ico4 (single-char glyphs or emoji for the 4 icon bubbles, e.g. "📷" / "▶" / "♪" / "in" — use platform-appropriate glyphs), nextNote (3-6 words orange teaser), pageOf ("02 / 10").
 CTA   cta-rounded-card: pageBadge ("10"), handle, eyebrow (2-3 uppercase orange spaced words like "YOUR TURN"), headlineLine1 (2-4 words), headlineLine2 (2-4 orange words), body (1-2 sentences ≤30 words), buttonLabel (3-5 words), secondaryLabel (2-4 words ghost like "Follow @handle"), footerLeft, footerRight (short text).`,
+
+  "dark-blob": `Layouts (black #0a0a0a + colored gradient blob top-right + huge Inter sans + author chip (avatar+name+handle) + nav circles bottom-right — Figma ref carousel_01/07/17 from Help Center):
+ALL families use an author chip rendered as a colored gradient circle with 2-letter initials + bold name + @handle. Provide authorInitials (2 letters of authorName), authorName (real-sounding first+last name, e.g. "Manthan Patel"), handle ("@username", lowercase), avatarBg1 (vibrant hex, e.g. "#ff5a28"), avatarBg2 (complementary darker hex, e.g. "#7a2418"). Pick avatar colors that match the post topic.
+COVER cover-dark-blob: blobColor1 (vibrant hex, e.g. "#ff3d7f"), blobColor2 (complementary hex, e.g. "#5b2bf5"), eyebrow (3-6 lowercase words like "post topic here…" — short subject), headlineLine1/Line2/Line3 (3 lines of bold sans title, 2-4 words each, e.g. "Your nice" / "and attractive" / "title here"), authorInitials, authorName, handle, avatarBg1, avatarBg2.
+BODY  body-dark-blob: blobColor1/blobColor2, accentColor (hex of the accent palette, e.g. "#ff3d7f"), authorInitials, authorName, handle, avatarBg1, avatarBg2, pageOf ("02 / 08"), number (italic "01"-"06"), title (3-6 words bold), body (2-3 sentences ≤40 words), takeaway (1 punchy sentence ≤20 words, the key insight).
+CTA   cta-dark-blob: blobColor1/blobColor2, accentColor, authorInitials, authorName, handle, avatarBg1, avatarBg2, pageOf, eyebrow (2-3 uppercase letter-spaced words like "YOUR TURN"), headlineLine1 (2-4 words), headlineLine2 (2-4 words), body (1-2 sentences ≤30 words), buttonLabel (3-5 words like "Save this post"), secondaryLabel (e.g. "Follow @handle").`,
+
+  "mint-condensed": `Layouts (mint #d1f5d8 bg + dark slate #1f3a30 condensed-sans display + author chip with green-bordered avatar + bottom green pills — Figma ref carousel_14 "Ultimate Guide" style):
+COVER cover-mint-condensed: titleLine1 (1-3 words light-weight condensed, e.g. "The Ultimate"), titleLine2 (1-2 words, e.g. "Guide to"), titleAccent (1-2 BOLD condensed words, e.g. "Proximity"), authorInitials, authorName, handle, avatarBg1/avatarBg2 (mint-friendly hex pair), pageOf ("01 - 10").
+BODY  body-mint-condensed: authorInitials, authorName, handle, avatarBg1, avatarBg2, pageOf, number ("01"-"06"), numberLabel (1-2 words uppercase like "PRINCIPLE" or "RULE"), title (2-5 condensed bold words), body (2-3 sentences ≤40 words), calloutLabel (uppercase 1-2 words like "WHY IT WORKS"), calloutBody (1 sentence ≤25 words).
+CTA   cta-mint-condensed: authorInitials, authorName, handle, avatarBg1, avatarBg2, pageOf, eyebrow (2-3 uppercase words like "YOUR MOVE"), headlineLine1 (2-3 condensed words), headlineAccent (1-2 BOLD condensed words), body (1-2 sentences ≤30 words), buttonLabel (3-5 words).`,
+
+  "cream-best": `Layouts (cream #f6f1e6 + black huge sans + orange #d65f3e accent on key word + author chip + dot pagination — Figma ref carousel_09/19/23/36 "Best X" style):
+COVER cover-cream-best: pageOf ("01 / 06"), authorInitials, authorName, handle, avatarBg1/avatarBg2, headlineLine1 (1-2 words, e.g. "BEST"), headlineAccent (1-2 ORANGE words, e.g. "TOOLS"), headlineLine3 (1-3 words, e.g. "FOR DESIGN").
+BODY  body-cream-best: pageOf, authorInitials, authorName, handle, avatarBg1/avatarBg2, number ("01"-"06"), title (3-6 words sans bold), body (2-3 sentences ≤40 words), tileGlyph (1-2 char glyph for the orange icon tile, e.g. "F" or "▣"), tileKey (1-3 words like "Best for", e.g. "Free tier"), tileValue (3-6 words descriptor, e.g. "Unlimited projects, all features").
+CTA   cta-cream-best: pageOf, authorInitials, authorName, handle, avatarBg1/avatarBg2, eyebrow (2-3 uppercase words like "PICK ONE"), headlineLine1 (2-3 words), headlineAccent (1-2 ORANGE words), body (1-2 sentences ≤30 words), buttonLabel (3-5 words).`,
+
+  "black-warning": `Layouts (pure #000 + DM Serif italic display + red #ff4757 warning accent + small avatar chip + numbered red-bordered circle — Figma ref carousel_10 "Stop Ignoring..." style):
+COVER cover-black-warning: warningLabel (2-4 uppercase words like "DON'T MAKE THIS MISTAKE" or "STOP IGNORING"), headlineLine1 (2-4 italic-serif words like "Stop Ignoring"), headlineLine2 (2-4 italic-serif words like "This Mistake In"), headlineAccent (1-3 red italic-serif words like "UI/UX"), body (1-2 sentences ≤30 words), authorInitials, authorName, handle, avatarBg1, avatarBg2.
+BODY  body-black-warning: pageOf, number (digit "1"-"6"), titleLine1 (2-4 italic-serif words), titleAccent (1-2 red italic-serif words), body (2-3 sentences ≤40 words), quote (1 punchy italic quote ≤18 words), authorInitials, authorName, handle, avatarBg1, avatarBg2.
+CTA   cta-black-warning: pageOf, eyebrow (2-3 uppercase letter-spaced words like "LAST WARNING"), headlineLine1 (2-3 italic-serif words), headlineAccent (1-3 red italic-serif words), body (1-2 sentences ≤30 words), buttonLabel (3-5 words like "Save before you forget"), authorInitials, authorName, handle, avatarBg1, avatarBg2.`,
+
+  "cream-3d": `Layouts (warm cream #f0ebe1 + centered 3D ball-shaped gradient orb #c4541f + bold sans + author chip + black pill badge — Figma ref carousel_02/06 3D illustration style):
+COVER cover-cream-3d: pageOf, authorInitials, authorName, handle, avatarBg1, avatarBg2, titleLine1 (2-4 bold sans words), titleAccent (1-3 orange bold words), badgeText (2-5 words like "Read in 5 minutes" or "FREE Inside ⚡").
+BODY  body-cream-3d: pageOf, authorInitials, authorName, handle, avatarBg1, avatarBg2, numberLabel (uppercase 1-2 words like "STEP 01" or "RULE 02"), title (3-6 bold sans words), body (2-3 sentences ≤40 words), tipLabel (uppercase 1-2 words like "PRO TIP"), tipBody (1 sentence ≤25 words tactical), shapeLabel (2-4 words label below orb, e.g. "Cash flow growth").
+CTA   cta-cream-3d: pageOf, authorInitials, authorName, handle, avatarBg1, avatarBg2, eyebrow (2-3 uppercase words like "YOUR MOVE"), headlineLine1 (2-3 words), headlineAccent (1-3 orange words), body (1-2 sentences ≤30 words), buttonLabel (3-5 words).`,
+
+  "typo-sample": `Layouts (cream #f7f2ea + Cormorant Garamond italic display HUGE typography specimen at top + orange #d65f3e accent + author chip — Figma ref carousel_16 "Aa Bb &" type sample):
+COVER cover-typo-sample: pageOf, authorInitials, authorName, handle, avatarBg1, avatarBg2, specimen1 (1 letter or letter-pair in normal style, e.g. "A"), specimen2 (1 letter or pair in italic orange, e.g. "a"), titleLine1 (2-4 bold sans words like "The Ultimate Guide to"), titleItalic (1-3 italic-serif words like "Beautiful Type"), body (1-2 sentences ≤30 words).
+BODY  body-typo-sample: pageOf, authorInitials, authorName, handle, avatarBg1, avatarBg2, number (1 letter or digit like "01" or "A"), numberLabel (uppercase 1-2 words like "LETTER 01" or "TIP NO."), title (3-5 bold sans words), titleItalic (1-3 italic-serif accent words), body (2-3 sentences ≤40 words), quote (1 italic insight ≤18 words).
+CTA   cta-typo-sample: pageOf, authorInitials, authorName, handle, avatarBg1, avatarBg2, eyebrow (2-3 uppercase letter-spaced words), headlineLine1 (2-3 bold sans words), headlineItalic (1-3 italic-serif words), body (1-2 sentences ≤30 words), buttonLabel (3-5 words), secondaryLabel (italic phrase like "for you").`,
+
+  "data-table": `Layouts (cream #f5f1e8 + bordered white table with progress bars + bold orange #c4541f stats + author chip — Figma ref carousel_28/29/33 stats/data style):
+COVER cover-data-table: pageOf, authorInitials, authorName, handle, avatarBg1, avatarBg2, eyebrow (2-4 uppercase words like "BY THE NUMBERS"), titleLine1 (2-4 bold words), titleAccent (1-3 orange bold words), tableHeader (1-3 words like "CHANNEL" or "TACTIC"), row1Label/row2Label/row3Label (3 short row labels 1-3 words each, e.g. "Email" / "LinkedIn" / "X"), row1Value/row2Value/row3Value (3 percentage or rate strings like "47%" or "$12K"), row1Pct/row2Pct/row3Pct (number 0-100 for bar width — first largest).
+BODY  body-data-table: pageOf, authorInitials, authorName, handle, avatarBg1, avatarBg2, number ("01"-"06"), numberLabel (uppercase 1-2 words like "FINDING"), title (3-6 bold words), metric1Label/metric2Label/metric3Label (3 short row labels), metric1Value/metric2Value/metric3Value (3 value strings), metric1Pct/metric2Pct/metric3Pct (bar widths 0-100), body (1-2 sentences ≤30 words).
+CTA   cta-data-table: pageOf, authorInitials, authorName, handle, avatarBg1, avatarBg2, bigStat (single hero number like "10x" or "47%"), eyebrow (2-3 uppercase words like "THE RESULT"), headlineLine1 (2-3 words), headlineLine2 (2-3 words), body (1-2 sentences ≤30 words), buttonLabel (3-5 words).`,
+
+  "tool-list": `Layouts (black #0f0f0f + orange #ff5a28 pill eyebrow + huge sans + 5 tool icon squares row on cover + dark card hero on body — Figma ref carousel_47/49 tool listicle):
+COVER cover-tool-list: pageOf, authorInitials, authorName, handle, avatarBg1, avatarBg2, eyebrow (2-4 uppercase words like "5 TOOLS YOU NEED"), headlineLine1 (2-4 white bold words), headlineAccent (1-3 ORANGE bold words), tool1Glyph/tool2Glyph/tool3Glyph/tool4Glyph/tool5Glyph (5 single-char or 2-char glyphs representing tools, e.g. "F" "▶" "N" "★" "C" — use brand initials or symbols).
+BODY  body-tool-list: pageOf, authorInitials, authorName, handle, avatarBg1, avatarBg2, number ("01"-"05"), toolGlyph (1-2 char glyph, e.g. "F"), toolCategory (1-2 uppercase words like "WRITING" or "DESIGN"), toolName (1-3 word tool name like "Figma" or "Claude Code"), toolTagline (3-7 word descriptor like "Design tool for product teams"), body (2-3 sentences ≤40 words), feat1Key (uppercase 1-2 words like "PRICE"), feat1Val (short value like "Free / $12/mo"), feat2Key (uppercase 1-2 words like "BEST FOR"), feat2Val (short value like "Solo founders").
+CTA   cta-tool-list: pageOf, authorInitials, authorName, handle, avatarBg1, avatarBg2, eyebrow (2-4 uppercase words like "PICK YOUR STACK"), headlineLine1 (2-3 words), headlineAccent (1-3 orange words), body (1-2 sentences ≤30 words), buttonLabel (3-5 words), secondaryLabel (2-4 words ghost button text).`,
+
+  "flowchart": `Layouts (cream #f4eee2 + bordered white nodes with hard shadow + blue #3a5eef accent + 4-node vertical flow on cover, 3-node horizontal on body — Figma ref carousel_12/40 diagram style):
+COVER cover-flowchart: pageOf, authorInitials, authorName, handle, avatarBg1, avatarBg2, eyebrow (2-4 uppercase words like "SYSTEM DESIGN"), titleLine1 (2-4 bold words), titleAccent (1-3 blue bold words), node1 (2-5 words, first step in flow), node2 (2-5 words second step), node3 (2-5 words third step), node4 (2-5 words end result).
+BODY  body-flowchart: pageOf, authorInitials, authorName, handle, avatarBg1, avatarBg2, number ("01"-"06"), numberLabel (uppercase 1-2 words like "STEP" or "RULE"), title (3-6 bold words), body (2-3 sentences ≤40 words), step1Num/step2Num/step3Num (e.g. "01"/"02"/"03"), step1Label/step2Label/step3Label (2-3 words each, sub-steps in horizontal flow), takeaway (1 punchy sentence ≤20 words insight).
+CTA   cta-flowchart: pageOf, authorInitials, authorName, handle, avatarBg1, avatarBg2, eyebrow (2-3 uppercase letter-spaced words), headlineLine1 (2-3 words), headlineAccent (1-3 blue words), node1 (2-3 word summary node), node2 (2-3 words, middle node), node3 (2-3 words), body (1-2 sentences ≤30 words), buttonLabel (3-5 words).`,
+
+  "design-tile": `Layouts (cream #f3ede0 + 6 colored square tiles grid + bold sans + author chip — Figma ref carousel_34/37/45 colorful tile/palette style):
+COVER cover-design-tile: pageOf, authorInitials, authorName, handle, avatarBg1, avatarBg2, eyebrow (2-4 uppercase words like "DESIGN SYSTEM"), titleLine1 (2-5 bold words like "Best Color Palettes"), tile1Color..tile6Color (6 distinct hex codes that work as a designer palette, e.g. "#ff5a28" "#3a5eef" "#2dad6b" "#f5b540" "#1a1a1a" "#c4541f"), tile1Label..tile6Label (1-2 word labels per tile, e.g. "Coral" / "Cobalt"), tile1Glyph..tile6Glyph (1 char glyph per tile, e.g. "◆" "●" "▲" "■" "✦" "◐").
+BODY  body-design-tile: pageOf, authorInitials, authorName, handle, avatarBg1, avatarBg2, themeColor (single hex for this slide's accent, picked from a curated palette), number ("01"-"06"), numberLabel (uppercase 1-2 words like "PALETTE"), titleMain (2-3 bold words), titleAccent (1-2 colored words), body (2-3 sentences ≤40 words), heroKey (uppercase 1-2 words like "PRIMARY HEX"), heroValue (3-6 words describing usage), heroGlyph (1 char glyph like "◆").
+CTA   cta-design-tile: pageOf, authorInitials, authorName, handle, avatarBg1, avatarBg2, themeColor (hex), swatch1..swatch4 (4 distinct hex codes), eyebrow (2-3 uppercase words like "YOUR PALETTE"), headlineLine1 (2-3 words), headlineAccent (1-3 colored words), body (1-2 sentences ≤30 words), buttonLabel (3-5 words).`,
 };
 
 const PROMPT_TEMPLATE = (brief, family) => `You are a carousel planner.
@@ -414,6 +475,76 @@ const BRIEFS = [
   { id: "ship-like-meta",           family: "rounded-card", text: "How a solo founder ships like a Meta team — 8 internal tools every operator should clone." },
   { id: "one-person-newsletter",    family: "rounded-card", text: "The one-person newsletter stack pulling $40K/mo. 8 tools, 4 channels, zero employees." },
   { id: "founder-distribution",     family: "rounded-card", text: "Founder distribution: how I turn 1 carousel into 12 assets across 4 platforms — automated." },
+
+  // dark-blob (Figma-derived: bold sans + colored blob — works for creator/founder/AI)
+  { id: "dark-blob-stop-procrast",  family: "dark-blob",     text: "Stop procrastinating on the project that actually matters — 6 systems that compound." },
+  { id: "dark-blob-ai-myth",        family: "dark-blob",     text: "5 myths about AI replacing your job that founders need to stop believing." },
+  { id: "dark-blob-niche-down",     family: "dark-blob",     text: "How niching down took me from $2K to $40K/mo — 6 lessons from the pivot." },
+  { id: "dark-blob-content-loop",   family: "dark-blob",     text: "The content loop that grew my X account to 50K in 90 days — 6 tactical moves." },
+  { id: "dark-blob-saas-killers",   family: "dark-blob",     text: "6 SaaS-killing AI products you can ship as a solo founder in a weekend." },
+
+  // mint-condensed (clean serif-condensed wellness/guide style)
+  { id: "mint-deep-work",           family: "mint-condensed", text: "The ultimate guide to deep work — 6 protocols that quadrupled my output." },
+  { id: "mint-creator-os",          family: "mint-condensed", text: "The ultimate guide to a creator OS — 6 systems running my newsletter business." },
+  { id: "mint-cold-outreach",       family: "mint-condensed", text: "The ultimate guide to cold outreach in 2026 — 6 frameworks that book meetings." },
+  { id: "mint-hiring-first",        family: "mint-condensed", text: "The ultimate guide to your first hire — 6 lessons from 50 founder interviews." },
+  { id: "mint-product-launch",      family: "mint-condensed", text: "The ultimate guide to product launches — 6 channels that move the needle." },
+
+  // cream-best (best-of listicle, cream + black + orange)
+  { id: "cream-best-design-tools",  family: "cream-best",     text: "The 6 best design tools for indie founders in 2026 — what each one wins at." },
+  { id: "cream-best-newsletter",    family: "cream-best",     text: "The 6 best newsletter platforms for paid creators — pricing, features, real revenue." },
+  { id: "cream-best-no-code",       family: "cream-best",     text: "The 6 best no-code tools running 7-figure businesses — concrete examples." },
+  { id: "cream-best-fonts-2026",    family: "cream-best",     text: "The 6 best fonts for product UI in 2026 — pairing, performance, and licenses." },
+  { id: "cream-best-icons",         family: "cream-best",     text: "The 6 best icon libraries every designer should have bookmarked." },
+
+  // black-warning (italic serif + red — high-stakes warnings)
+  { id: "warn-mistakes-design",     family: "black-warning",  text: "Stop ignoring these 6 mistakes silently killing your product's conversion rate." },
+  { id: "warn-burnout-signs",       family: "black-warning",  text: "5 burnout warning signs every founder ignores until it's too late." },
+  { id: "warn-startup-killers",     family: "black-warning",  text: "6 quiet decisions that kill startups — and the founders that survived each one." },
+  { id: "warn-bad-hires",           family: "black-warning",  text: "5 red flags in your first 10 hires that will haunt you for 3 years." },
+  { id: "warn-bad-investors",       family: "black-warning",  text: "6 investor red flags founders learn the hard way — avoid these at all costs." },
+
+  // cream-3d (warm cream + 3D orb illustration)
+  { id: "cream3d-money-printer",    family: "cream-3d",       text: "Turn your website into a money printer — 6 conversion patterns that pay you while you sleep." },
+  { id: "cream3d-build-trust",      family: "cream-3d",       text: "How to build trust with your audience in 90 days — 5 quiet rituals that compound." },
+  { id: "cream3d-side-income",      family: "cream-3d",       text: "6 side-income streams a solo founder can ship in a weekend — real numbers." },
+  { id: "cream3d-rich-mindset",     family: "cream-3d",       text: "The 6 mindset shifts that separate people who get rich from people who stay broke." },
+  { id: "cream3d-investing-101",    family: "cream-3d",       text: "Investing 101 for creators — 6 boring habits that built my $500K portfolio." },
+
+  // typo-sample (cormorant italic — typography/design content)
+  { id: "typo-fonts-pairing",       family: "typo-sample",    text: "Stop pairing fonts wrong — 6 rules typographers use to make any combo work." },
+  { id: "typo-tutorial-display",    family: "typo-sample",    text: "The ultimate guide to display type — 6 rules that make headlines unforgettable." },
+  { id: "typo-readability",         family: "typo-sample",    text: "5 readability rules every designer breaks — and what to do instead in 2026." },
+  { id: "typo-brand-voice",         family: "typo-sample",    text: "Your typography is your brand voice — 6 examples of brands getting it right." },
+  { id: "typo-typeface-history",    family: "typo-sample",    text: "6 typefaces with stories so good you'll use them on purpose for the rest of your life." },
+
+  // data-table (stats/data driven)
+  { id: "data-channel-mix",         family: "data-table",     text: "The channel mix that scaled us to $1M ARR — real ROI numbers per channel." },
+  { id: "data-engagement-bench",    family: "data-table",     text: "Engagement benchmarks for 2026 — what good, average, and trash actually look like." },
+  { id: "data-saas-metrics",        family: "data-table",     text: "The 6 SaaS metrics that actually predict survival — with industry medians." },
+  { id: "data-cold-email-stats",    family: "data-table",     text: "Cold email open rates by 6 industries — what's working in 2026." },
+  { id: "data-funnel-leaks",        family: "data-table",     text: "Where your funnel actually leaks — 6 conversion benchmarks by stage." },
+
+  // tool-list (dark + 5 tools cover)
+  { id: "tool-list-claude-stack",   family: "tool-list",      text: "The 5 Claude-powered tools I use every day to ship like a 10-person team." },
+  { id: "tool-list-design-stack",   family: "tool-list",      text: "The 5-tool design stack that produced our entire brand identity in a weekend." },
+  { id: "tool-list-newsletter-stk", family: "tool-list",      text: "The 5-tool newsletter stack pulling $40K/mo on autopilot — names and prices." },
+  { id: "tool-list-research-stk",   family: "tool-list",      text: "The 5-tool research stack that lets a solo founder out-think a 20-person team." },
+  { id: "tool-list-ai-video",       family: "tool-list",      text: "The 5 AI video tools that replaced my $5K/mo video agency — full breakdown." },
+
+  // flowchart (diagram/system)
+  { id: "flow-funnel-flow",         family: "flowchart",      text: "The 4-step funnel that turns cold traffic into recurring revenue — full diagram." },
+  { id: "flow-hiring-pipeline",     family: "flowchart",      text: "The hiring pipeline that filled 6 roles in 30 days — every step diagrammed." },
+  { id: "flow-content-flywheel",    family: "flowchart",      text: "The content flywheel that compounds — 4 stages, every step diagrammed." },
+  { id: "flow-onboarding-system",   family: "flowchart",      text: "The customer onboarding flow that cut our churn in half — every node mapped." },
+  { id: "flow-launch-checklist",    family: "flowchart",      text: "Our 4-stage launch system that consistently hits #1 of the day — visual flowchart." },
+
+  // design-tile (colored palette grid)
+  { id: "tile-color-palettes",      family: "design-tile",    text: "6 brand color palettes that print money in 2026 — real brands using each." },
+  { id: "tile-design-systems",      family: "design-tile",    text: "6 design system principles every product team should steal — with examples." },
+  { id: "tile-ui-patterns",         family: "design-tile",    text: "6 UI patterns separating premium apps from amateur ones — side-by-side analysis." },
+  { id: "tile-brand-archetypes",    family: "design-tile",    text: "The 6 brand archetypes — pick yours and 90% of design decisions get easier." },
+  { id: "tile-typography-systems",  family: "design-tile",    text: "6 typography systems for SaaS — pairings, hierarchies, and license costs." },
 ];
 
 // ─── Kimi planner with retry on JSON parse failure ─────────────────────────

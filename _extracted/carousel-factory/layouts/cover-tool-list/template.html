@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1080px;height:1350px;overflow:hidden;background:#0f0f0f;font-family:"Inter",sans-serif;color:#fff;-webkit-font-smoothing:antialiased}
+.eyebrow{position:absolute;top:200px;left:80px;display:inline-block;padding:10px 22px;background:#ff5a28;color:#fff;border-radius:50px;font-size:18px;font-weight:700;letter-spacing:0.12em;text-transform:uppercase}
+.headline{position:absolute;top:280px;left:80px;right:80px;font-size:120px;font-weight:900;line-height:0.95;letter-spacing:-3px;color:#fff}
+.headline .accent{color:#ff5a28}
+.tool-logos{position:absolute;top:780px;left:80px;right:80px;display:flex;justify-content:space-between;align-items:center;gap:18px}
+.tool-icon{width:140px;height:140px;border-radius:32px;background:#fff;display:flex;align-items:center;justify-content:center;font-size:64px;font-weight:900;color:#0f0f0f;box-shadow:0 12px 32px rgba(255,90,40,0.25)}
+.author{position:absolute;bottom:80px;left:80px;display:flex;align-items:center;gap:14px}
+.avatar{width:46px;height:46px;border-radius:50%;background:linear-gradient(135deg,{{avatarBg1}},{{avatarBg2}});display:flex;align-items:center;justify-content:center;font-size:18px;font-weight:700;color:#fff}
+.author-info .name{font-size:18px;font-weight:700;line-height:1.2}
+.author-info .handle{font-size:14px;color:rgba(255,255,255,0.5);line-height:1.2}
+.swipe{position:absolute;bottom:90px;right:80px;font-size:22px;font-weight:700;color:#ff5a28}
+.page{position:absolute;top:80px;right:80px;font-size:18px;font-weight:600;color:rgba(255,255,255,0.5)}
+</style></head>
+<body>
+<div class="page">{{pageOf}}</div>
+<div class="eyebrow">{{eyebrow}}</div>
+<div class="headline">{{headlineLine1}}<br><span class="accent">{{headlineAccent}}</span></div>
+<div class="tool-logos">
+<div class="tool-icon">{{tool1Glyph}}</div>
+<div class="tool-icon">{{tool2Glyph}}</div>
+<div class="tool-icon">{{tool3Glyph}}</div>
+<div class="tool-icon">{{tool4Glyph}}</div>
+<div class="tool-icon">{{tool5Glyph}}</div>
+</div>
+<div class="author"><div class="avatar">{{authorInitials}}</div><div class="author-info"><div class="name">{{authorName}}</div><div class="handle">{{handle}}</div></div></div>
+<div class="swipe">Swipe →</div>
+</body></html>

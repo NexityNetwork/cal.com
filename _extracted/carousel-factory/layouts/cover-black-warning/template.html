@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1080px;height:1350px;overflow:hidden;background:#000;font-family:"Inter",sans-serif;color:#fff;-webkit-font-smoothing:antialiased}
+.warn-tag{position:absolute;top:200px;left:80px;display:flex;align-items:center;gap:14px}
+.warn-icon{width:48px;height:48px;border-radius:50%;background:#ff4757;display:flex;align-items:center;justify-content:center;font-size:24px;font-weight:900;color:#fff}
+.warn-label{font-size:22px;font-weight:700;letter-spacing:0.18em;color:#ff4757;text-transform:uppercase}
+.headline{position:absolute;top:300px;left:80px;right:80px;font-family:"DM Serif Display",serif;font-style:italic;font-size:142px;line-height:0.96;letter-spacing:-2px;color:#fff}
+.headline .accent{color:#ff4757}
+.body{position:absolute;top:900px;left:80px;right:80px;font-size:30px;font-weight:400;line-height:1.5;color:rgba(255,255,255,0.65);max-width:880px}
+.author{position:absolute;bottom:80px;left:80px;display:flex;align-items:center;gap:14px}
+.avatar{width:46px;height:46px;border-radius:50%;background:linear-gradient(135deg,{{avatarBg1}},{{avatarBg2}});display:flex;align-items:center;justify-content:center;font-size:18px;font-weight:700;color:#fff}
+.author-info .name{font-size:18px;font-weight:700;line-height:1.2}
+.author-info .handle{font-size:14px;color:rgba(255,255,255,0.4);line-height:1.2}
+.swipe{position:absolute;bottom:88px;right:80px;font-size:22px;font-weight:600;color:#ff4757}
+</style></head>
+<body>
+<div class="warn-tag"><div class="warn-icon">!</div><div class="warn-label">{{warningLabel}}</div></div>
+<div class="headline">{{headlineLine1}}<br>{{headlineLine2}}<br><span class="accent">{{headlineAccent}}</span></div>
+<div class="body">{{body}}</div>
+<div class="author"><div class="avatar">{{authorInitials}}</div><div class="author-info"><div class="name">{{authorName}}</div><div class="handle">{{handle}}</div></div></div>
+<div class="swipe">Swipe →</div>
+</body></html>

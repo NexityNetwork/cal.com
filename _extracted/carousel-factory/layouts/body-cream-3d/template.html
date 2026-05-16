@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1080px;height:1350px;overflow:hidden;background:#f0ebe1;font-family:"Inter",sans-serif;color:#1a1a1a;-webkit-font-smoothing:antialiased}
+.page{position:absolute;top:80px;left:80px;font-size:18px;font-weight:700;color:#5a5450}
+.author{position:absolute;top:80px;right:80px;display:flex;align-items:center;gap:12px}
+.avatar{width:42px;height:42px;border-radius:50%;background:linear-gradient(135deg,{{avatarBg1}},{{avatarBg2}});display:flex;align-items:center;justify-content:center;font-size:16px;font-weight:700;color:#fff}
+.author-info{text-align:right}
+.author-info .name{font-size:16px;font-weight:700;line-height:1.2}
+.author-info .handle{font-size:13px;color:#7a7464;line-height:1.2}
+.left{position:absolute;top:200px;left:80px;width:540px}
+.num{font-size:24px;font-weight:700;color:#c4541f;letter-spacing:0.1em;margin-bottom:18px;text-transform:uppercase}
+.title{font-size:64px;font-weight:800;line-height:1.0;letter-spacing:-1.5px;color:#1a1a1a;margin-bottom:30px}
+.body{font-size:26px;font-weight:400;line-height:1.55;color:#3a3530;margin-bottom:36px}
+.tip{padding:24px;background:#fff;border:2px solid #1a1a1a;border-radius:18px;font-size:22px;font-weight:500;color:#1a1a1a;line-height:1.4}
+.tip .lbl{display:block;font-size:16px;font-weight:700;color:#c4541f;letter-spacing:0.1em;margin-bottom:8px;text-transform:uppercase}
+.shape3d{position:absolute;top:280px;right:80px;width:340px;height:340px;border-radius:50%;background:radial-gradient(circle at 35% 30%,#fff 0%,#e8d5b8 25%,#c4541f 60%,#7a3210 100%);box-shadow:0 24px 60px rgba(196,84,31,0.25),inset -30px -40px 50px rgba(0,0,0,0.18)}
+.shape3d::before{content:"";position:absolute;top:18%;left:26%;width:90px;height:60px;background:radial-gradient(ellipse,rgba(255,255,255,0.7) 0%,transparent 70%);border-radius:50%}
+.shape-label{position:absolute;top:650px;right:80px;width:340px;text-align:center;padding:14px 22px;background:#1a1a1a;color:#fff;border-radius:50px;font-size:18px;font-weight:600}
+.bottom{position:absolute;bottom:80px;left:80px;right:80px;display:flex;justify-content:space-between;align-items:center}
+.handle{font-size:18px;font-weight:600;color:#5a5450}
+.swipe{font-size:20px;font-weight:700;color:#c4541f}
+</style></head>
+<body>
+<div class="page">{{pageOf}}</div>
+<div class="author"><div class="avatar">{{authorInitials}}</div><div class="author-info"><div class="name">{{authorName}}</div><div class="handle">{{handle}}</div></div></div>
+<div class="left"><div class="num">{{numberLabel}}</div><div class="title">{{title}}</div><div class="body">{{body}}</div><div class="tip"><span class="lbl">{{tipLabel}}</span>{{tipBody}}</div></div>
+<div class="shape3d"></div>
+<div class="shape-label">{{shapeLabel}}</div>
+<div class="bottom"><div class="handle">{{handle}}</div><div class="swipe">Swipe →</div></div>
+</body></html>

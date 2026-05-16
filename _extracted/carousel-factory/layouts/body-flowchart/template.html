@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1080px;height:1350px;overflow:hidden;background:#f4eee2;font-family:"Inter",sans-serif;color:#1a1a1a;-webkit-font-smoothing:antialiased}
+.page{position:absolute;top:80px;left:80px;font-size:18px;font-weight:700}
+.author{position:absolute;top:80px;right:80px;display:flex;align-items:center;gap:12px}
+.avatar{width:42px;height:42px;border-radius:50%;background:linear-gradient(135deg,{{avatarBg1}},{{avatarBg2}});display:flex;align-items:center;justify-content:center;font-size:16px;font-weight:700;color:#fff}
+.author-info{text-align:right}
+.author-info .name{font-size:16px;font-weight:700;line-height:1.2}
+.author-info .handle{font-size:13px;color:#7a7464;line-height:1.2}
+.num-row{position:absolute;top:200px;left:80px;display:flex;align-items:baseline;gap:18px}
+.num{font-size:88px;font-weight:900;color:#3a5eef;line-height:1;letter-spacing:-3px}
+.num-label{font-size:20px;font-weight:700;color:#7a7464;letter-spacing:0.1em;text-transform:uppercase}
+.title{position:absolute;top:340px;left:80px;right:80px;font-size:64px;font-weight:800;line-height:1;letter-spacing:-1.5px}
+.body{position:absolute;top:520px;left:80px;right:80px;font-size:28px;font-weight:400;line-height:1.5;color:#3a3530;max-width:920px;margin-bottom:24px}
+.flow{position:absolute;top:740px;left:80px;right:80px;display:flex;align-items:center;justify-content:space-between;gap:14px}
+.step{flex:1;padding:22px;background:#fff;border:2px solid #1a1a1a;border-radius:14px;text-align:center;box-shadow:5px 5px 0 #1a1a1a}
+.step.alt{background:#3a5eef;color:#fff}
+.step-num{font-size:18px;font-weight:700;letter-spacing:0.1em;text-transform:uppercase;margin-bottom:6px;color:#7a7464}
+.step.alt .step-num{color:rgba(255,255,255,0.7)}
+.step-label{font-size:22px;font-weight:700;line-height:1.2}
+.arrow{font-size:30px;font-weight:900;color:#1a1a1a}
+.takeaway{position:absolute;bottom:180px;left:80px;right:80px;padding:26px 30px;background:#3a5eef;color:#fff;border-radius:18px;font-size:24px;font-weight:600;line-height:1.4}
+.takeaway::before{content:"💡";margin-right:10px}
+.bottom{position:absolute;bottom:60px;left:80px;right:80px;display:flex;justify-content:space-between;align-items:center}
+.handle{font-size:16px;font-weight:600;color:#7a7464}
+.swipe{padding:10px 22px;background:#1a1a1a;color:#fff;border-radius:50px;font-size:16px;font-weight:600}
+</style></head>
+<body>
+<div class="page">{{pageOf}}</div>
+<div class="author"><div class="avatar">{{authorInitials}}</div><div class="author-info"><div class="name">{{authorName}}</div><div class="handle">{{handle}}</div></div></div>
+<div class="num-row"><div class="num">{{number}}</div><div class="num-label">{{numberLabel}}</div></div>
+<div class="title">{{title}}</div>
+<div class="body">{{body}}</div>
+<div class="flow">
+<div class="step"><div class="step-num">{{step1Num}}</div><div class="step-label">{{step1Label}}</div></div>
+<div class="arrow">→</div>
+<div class="step alt"><div class="step-num">{{step2Num}}</div><div class="step-label">{{step2Label}}</div></div>
+<div class="arrow">→</div>
+<div class="step"><div class="step-num">{{step3Num}}</div><div class="step-label">{{step3Label}}</div></div>
+</div>
+<div class="takeaway">{{takeaway}}</div>
+<div class="bottom"><div class="handle">{{handle}}</div><div class="swipe">Swipe →</div></div>
+</body></html>

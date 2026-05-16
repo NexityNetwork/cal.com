@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1080px;height:1350px;overflow:hidden;background:#0a0a0a;font-family:"Inter",sans-serif;color:#fff;-webkit-font-smoothing:antialiased}
+.blob{position:absolute;top:-50px;right:-100px;width:680px;height:680px;border-radius:50%;background:radial-gradient(circle at 40% 35%,{{blobColor1}} 0%,{{blobColor2}} 38%,transparent 70%);filter:blur(60px);opacity:0.95}
+.eyebrow{position:absolute;top:240px;left:80px;font-size:26px;font-weight:500;color:rgba(255,255,255,0.55)}
+.headline{position:absolute;top:280px;left:80px;right:80px;font-size:104px;font-weight:800;line-height:1.05;letter-spacing:-2.5px;color:#fff;max-width:880px}
+.author{position:absolute;bottom:280px;left:80px;display:flex;align-items:center;gap:18px}
+.avatar{width:60px;height:60px;border-radius:50%;background:linear-gradient(135deg,{{avatarBg1}},{{avatarBg2}});display:flex;align-items:center;justify-content:center;font-size:22px;font-weight:700;color:#fff;flex-shrink:0;overflow:hidden}
+.author-info .name{font-size:22px;font-weight:700;color:#fff;line-height:1.2}
+.author-info .handle{font-size:18px;font-weight:500;color:rgba(255,255,255,0.5);line-height:1.2}
+.nav{position:absolute;bottom:80px;right:80px;display:flex;align-items:center;gap:14px}
+.nav .back{width:54px;height:54px;border-radius:50%;background:rgba(255,255,255,0.08);display:flex;align-items:center;justify-content:center;color:rgba(255,255,255,0.4);font-size:20px}
+.nav .fwd{width:54px;height:54px;border-radius:50%;background:#fff;display:flex;align-items:center;justify-content:center;color:#0a0a0a;font-size:22px;font-weight:700}
+</style></head>
+<body>
+<div class="blob"></div>
+<div class="eyebrow">{{eyebrow}}</div>
+<div class="headline">{{headlineLine1}}<br>{{headlineLine2}}<br>{{headlineLine3}}</div>
+<div class="author"><div class="avatar">{{authorInitials}}</div><div class="author-info"><div class="name">{{authorName}}</div><div class="handle">{{handle}}</div></div></div>
+<div class="nav"><div class="back">←</div><div class="fwd">→</div></div>
+</body></html>

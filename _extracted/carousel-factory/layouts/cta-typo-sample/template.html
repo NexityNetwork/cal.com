@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,700;1,400;1,700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1080px;height:1350px;overflow:hidden;background:#f7f2ea;font-family:"Inter",sans-serif;color:#0e0e0e;-webkit-font-smoothing:antialiased}
+.page{position:absolute;top:80px;left:80px;font-size:18px;font-weight:700}
+.author{position:absolute;top:80px;right:80px;display:flex;align-items:center;gap:12px}
+.avatar{width:42px;height:42px;border-radius:50%;background:linear-gradient(135deg,{{avatarBg1}},{{avatarBg2}});display:flex;align-items:center;justify-content:center;font-size:16px;font-weight:700;color:#fff}
+.author-info{text-align:right}
+.author-info .name{font-size:16px;font-weight:700;line-height:1.2}
+.author-info .handle{font-size:13px;color:#7a7464;line-height:1.2}
+.amp{position:absolute;top:140px;left:50%;transform:translateX(-50%);font-family:"Cormorant Garamond",serif;font-style:italic;font-weight:700;font-size:480px;line-height:1;color:#d65f3e;opacity:0.16}
+.center{position:absolute;top:50%;left:80px;right:80px;transform:translateY(-48%);text-align:center}
+.eyebrow{font-size:22px;font-weight:700;letter-spacing:0.22em;color:#d65f3e;margin-bottom:30px;text-transform:uppercase}
+.headline{font-size:104px;font-weight:800;line-height:0.98;letter-spacing:-2px;margin-bottom:24px}
+.headline .em{font-family:"Cormorant Garamond",serif;font-style:italic;font-weight:700;color:#d65f3e}
+.body{font-size:28px;font-weight:400;line-height:1.5;color:#3a3530;max-width:760px;margin:0 auto 44px}
+.btn{display:inline-block;padding:24px 56px;background:#0e0e0e;color:#fff;border-radius:50px;font-size:24px;font-weight:700}
+.handle{position:absolute;bottom:80px;left:80px;font-size:18px;font-weight:600;color:#7a7464}
+.swipe{position:absolute;bottom:80px;right:80px;font-family:"Cormorant Garamond",serif;font-style:italic;font-size:24px;color:#d65f3e}
+</style></head>
+<body>
+<div class="page">{{pageOf}}</div>
+<div class="author"><div class="avatar">{{authorInitials}}</div><div class="author-info"><div class="name">{{authorName}}</div><div class="handle">{{handle}}</div></div></div>
+<div class="amp">&amp;</div>
+<div class="center">
+<div class="eyebrow">{{eyebrow}}</div>
+<div class="headline">{{headlineLine1}}<br><span class="em">{{headlineItalic}}</span></div>
+<div class="body">{{body}}</div>
+<div class="btn">{{buttonLabel}} →</div>
+</div>
+<div class="handle">{{handle}}</div>
+<div class="swipe">{{secondaryLabel}}</div>
+</body></html>

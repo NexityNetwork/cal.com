@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1080px;height:1350px;overflow:hidden;background:#f6f1e6;font-family:"Inter",sans-serif;color:#1a1a1a;-webkit-font-smoothing:antialiased}
+.page{position:absolute;top:80px;left:80px;font-size:18px;font-weight:700;letter-spacing:0.04em}
+.author{position:absolute;top:80px;right:80px;display:flex;align-items:center;gap:12px}
+.avatar{width:42px;height:42px;border-radius:50%;background:linear-gradient(135deg,{{avatarBg1}},{{avatarBg2}});display:flex;align-items:center;justify-content:center;font-size:16px;font-weight:700;color:#fff}
+.author-info{text-align:right}
+.author-info .name{font-size:16px;font-weight:700;line-height:1.2}
+.author-info .handle{font-size:13px;color:#7a7464;line-height:1.2}
+.center{position:absolute;top:50%;left:80px;right:80px;transform:translateY(-50%);text-align:center}
+.eyebrow{font-size:22px;font-weight:700;letter-spacing:0.2em;color:#d65f3e;margin-bottom:32px;text-transform:uppercase}
+.headline{font-size:130px;font-weight:900;line-height:0.95;letter-spacing:-3px;margin-bottom:24px}
+.headline .accent{color:#d65f3e}
+.body{font-size:30px;font-weight:400;line-height:1.5;color:#3a3530;max-width:760px;margin:24px auto 48px}
+.btn{display:inline-block;padding:24px 56px;background:#1a1a1a;color:#fff;border-radius:50px;font-size:24px;font-weight:700}
+.bottom{position:absolute;bottom:60px;left:80px;right:80px;display:flex;justify-content:space-between;align-items:center}
+.swipe{font-size:22px;font-weight:600;color:#7a7464}
+.dots{display:flex;gap:8px}
+.dot{width:10px;height:10px;border-radius:50%;background:#d6cdb8}
+.dot.active{background:#1a1a1a;width:32px;border-radius:5px}
+</style></head>
+<body>
+<div class="page">{{pageOf}}</div>
+<div class="author"><div class="avatar">{{authorInitials}}</div><div class="author-info"><div class="name">{{authorName}}</div><div class="handle">{{handle}}</div></div></div>
+<div class="center">
+<div class="eyebrow">{{eyebrow}}</div>
+<div class="headline">{{headlineLine1}}<br><span class="accent">{{headlineAccent}}</span></div>
+<div class="body">{{body}}</div>
+<div class="btn">{{buttonLabel}} →</div>
+</div>
+<div class="bottom"><div class="dots"><div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot active"></div></div><div class="swipe">Save & Share</div></div>
+</body></html>
