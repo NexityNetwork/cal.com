@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+  *{margin:0;padding:0;box-sizing:border-box;}
+  html,body{width:1080px;height:1350px;overflow:hidden;background:#dff5b6;font-family:"Inter",sans-serif;color:#1a3a1a;-webkit-font-smoothing:antialiased;}
+  .photo{position:absolute;top:0;left:0;right:0;height:560px;
+    background:linear-gradient(135deg,#6e7a85 0%,#3d4854 60%,#272f37 100%);overflow:hidden;}
+  .photo::before{content:"";position:absolute;inset:0;
+    background:radial-gradient(circle at 30% 40%,rgba(255,255,255,0.14),transparent 55%);}
+  .photo::after{content:"";position:absolute;inset:0;
+    background-image:radial-gradient(circle,rgba(255,255,255,0.06) 2px,transparent 3px);background-size:14px 14px;}
+  .photo-text{position:absolute;top:60px;left:60px;right:60px;color:#fff;}
+  .photo-text .save{display:inline-flex;align-items:center;gap:12px;padding:12px 22px;background:rgba(255,255,255,0.16);backdrop-filter:blur(6px);border-radius:30px;font-size:20px;font-weight:600;letter-spacing:0.04em;text-transform:uppercase;}
+  .photo-text .quote{margin-top:40px;font-size:54px;font-weight:700;line-height:1.05;letter-spacing:-0.8px;max-width:780px;}
+  .pixel-cluster{position:absolute;top:440px;right:60px;width:120px;height:120px;background:#b7e84a;display:grid;grid-template-columns:repeat(5,1fr);gap:4px;padding:14px;border-radius:6px;}
+  .pixel-cluster span{background:#1a3a1a;border-radius:2px;}
+  .panel{position:absolute;top:560px;left:0;right:0;bottom:0;background:#dff5b6;padding:80px 60px 60px;}
+  .eyebrow{font-size:22px;font-weight:700;letter-spacing:0.2em;text-transform:uppercase;color:#1a3a1a;margin-bottom:24px;}
+  .headline{font-size:72px;font-weight:700;line-height:1.0;letter-spacing:-1.6px;color:#1a3a1a;margin-bottom:38px;max-width:920px;}
+  .cta-row{display:flex;align-items:center;gap:18px;}
+  .cta-btn{display:inline-flex;align-items:center;gap:14px;padding:22px 40px;background:#1a3a1a;color:#dff5b6;border-radius:50px;font-size:26px;font-weight:700;}
+  .cta-arrow{width:64px;height:64px;background:#b7e84a;color:#1a3a1a;border-radius:50%;display:inline-flex;align-items:center;justify-content:center;font-size:30px;}
+  .footer{position:absolute;bottom:60px;left:60px;right:60px;display:flex;align-items:center;justify-content:space-between;font-size:22px;color:#1a3a1a;}
+  .brand{display:flex;align-items:center;gap:14px;font-weight:600;}
+  .logo{width:36px;height:36px;background:#b7e84a;border-radius:8px;display:flex;align-items:center;justify-content:center;}
+  .logo::before{content:"";width:20px;height:20px;background:#1a3a1a;clip-path:polygon(0 0,100% 0,100% 60%,0 100%);}
+</style></head>
+<body>
+  <div class="photo">
+    <div class="photo-text">
+      <div class="save">SAVE · SHARE · FOLLOW</div>
+      <div class="quote">{{quote}}</div>
+    </div>
+  </div>
+  <div class="pixel-cluster">
+    <span></span><span></span><span></span><span></span><span></span>
+    <span></span><span></span><span></span><span></span><span></span>
+    <span></span><span></span><span></span><span></span><span></span>
+    <span></span><span></span><span></span><span></span><span></span>
+  </div>
+  <div class="panel">
+    <div class="eyebrow">{{eyebrow}}</div>
+    <div class="headline">{{headline}}</div>
+    <div class="cta-row">
+      <div class="cta-btn">{{buttonLabel}}</div>
+      <div class="cta-arrow">→</div>
+    </div>
+  </div>
+  <div class="footer">
+    <div class="brand"><div class="logo"></div><div>{{brand}}</div></div>
+    <div>{{author}}</div>
+  </div>
+</body></html>

@@ -1,0 +1,80 @@
+{
+  "id": "marketing-plan-groovy",
+  "brand": "ClickBloom",
+  "brief": "A 6-step digital marketing plan that transforms clicks into customers.",
+  "theme": "retro-groovy",
+  "slides": [
+    {
+      "layoutId": "cover-retro-groovy",
+      "slots": {
+        "title": "From clicks to customers",
+        "ctaText": "Your 6-step growth playbook",
+        "handle": "@clickbloom"
+      }
+    },
+    {
+      "layoutId": "body-retro-groovy",
+      "slots": {
+        "number": "01",
+        "title": "Know Your Audience",
+        "body": "Stop guessing who buys. Dig into data and build profiles that actually reflect your dream customers. It makes every later step way easier.",
+        "handle": "@clickbloom"
+      }
+    },
+    {
+      "layoutId": "body-retro-groovy",
+      "slots": {
+        "number": "02",
+        "title": "Craft Bold Ads",
+        "body": "Your creative needs to stop the scroll. Use punchy headlines and retro visuals that spark curiosity in under three seconds.",
+        "handle": "@clickbloom"
+      }
+    },
+    {
+      "layoutId": "body-retro-groovy",
+      "slots": {
+        "number": "03",
+        "title": "Build Fast Pages",
+        "body": "If it loads slowly, they bounce. Speed up your landing pages and keep the vibe consistent from ad to checkout.",
+        "handle": "@clickbloom"
+      }
+    },
+    {
+      "layoutId": "body-retro-groovy",
+      "slots": {
+        "number": "04",
+        "title": "Capture Leads Smartly",
+        "body": "Not everyone buys on day one. Offer a juicy freebie or discount in exchange for an email you can nurture later.",
+        "handle": "@clickbloom"
+      }
+    },
+    {
+      "layoutId": "body-retro-groovy",
+      "slots": {
+        "number": "05",
+        "title": "Nurture With Email",
+        "body": "Send value, not spam. Share tips, stories, and offers that guide subscribers from maybe to heck yes over time.",
+        "handle": "@clickbloom"
+      }
+    },
+    {
+      "layoutId": "body-retro-groovy",
+      "slots": {
+        "number": "06",
+        "title": "Optimize And Convert",
+        "body": "Test headlines, buttons, and images weekly. Small tweaks to your funnel can unlock huge jumps in sales without extra ad spend.",
+        "handle": "@clickbloom"
+      }
+    },
+    {
+      "layoutId": "cta-retro-groovy",
+      "slots": {
+        "eyebrow": "OVER TO YOU",
+        "headline": "Start Scaling Your Sales",
+        "body": "Ready to stop wasting budget? Put these six steps to work and watch your traffic finally pay off.",
+        "buttonLabel": "Get The Checklist",
+        "handle": "@clickbloom"
+      }
+    }
+  ]
+}

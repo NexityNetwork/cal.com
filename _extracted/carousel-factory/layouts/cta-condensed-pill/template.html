@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Oswald:wght@600;700&family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+  *{margin:0;padding:0;box-sizing:border-box;}
+  html,body{width:1080px;height:1350px;overflow:hidden;background:#eef0ed;font-family:"Inter",sans-serif;color:#0e0e0e;-webkit-font-smoothing:antialiased;
+    background-image:linear-gradient(135deg,rgba(0,0,0,0.04) 1px,transparent 1px),linear-gradient(45deg,rgba(0,0,0,0.04) 1px,transparent 1px);
+    background-size:140px 140px;}
+  .top-bar{position:absolute;top:64px;left:64px;right:64px;display:flex;align-items:center;justify-content:space-between;}
+  .brand{font-size:34px;font-weight:700;}
+  .center{position:absolute;top:50%;left:64px;right:64px;transform:translateY(-50%);text-align:center;}
+  .eyebrow{font-size:24px;font-weight:700;letter-spacing:0.2em;text-transform:uppercase;color:#0e0e0e;margin-bottom:32px;}
+  .pill-wrap{display:inline-block;margin-bottom:32px;}
+  .pill{background:#0e0e0e;color:#eef0ed;padding:22px 56px;border-radius:32px;
+    font-family:"Oswald",sans-serif;font-weight:700;font-size:140px;line-height:0.95;letter-spacing:-0.005em;display:inline-block;transform:scaleX(1.05);}
+  .body{font-family:"DM Serif Display",serif;font-size:42px;line-height:1.25;color:#0e0e0e;padding:0 50px;margin-bottom:60px;}
+  .cta-button{display:inline-flex;align-items:center;gap:18px;padding:24px 48px;background:#0e0e0e;color:#eef0ed;border-radius:50px;font-size:30px;font-weight:700;}
+  .footer{position:absolute;bottom:80px;left:64px;right:64px;display:flex;justify-content:space-between;align-items:center;font-size:22px;}
+</style></head>
+<body>
+  <div class="top-bar"><div class="brand">{{brand}}</div><div>END →</div></div>
+  <div class="center">
+    <div class="eyebrow">{{eyebrow}}</div>
+    <div class="pill-wrap"><span class="pill">{{headline}}</span></div>
+    <div class="body">{{body}}</div>
+    <div class="cta-button">{{buttonLabel}} →</div>
+  </div>
+  <div class="footer"><div>{{author}}</div><div>SAVE · SHARE · FOLLOW</div></div>
+</body></html>

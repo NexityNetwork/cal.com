@@ -1,0 +1,97 @@
+{
+  "id": "wellness-stack",
+  "brand": "THE DAILY DOSE",
+  "brief": "My wellness stack — 5 things that actually moved the needle.",
+  "theme": "dark-green-serif",
+  "slides": [
+    {
+      "layoutId": "cover-dark-green-serif",
+      "slots": {
+        "brand": "THE DAILY DOSE",
+        "pageOf": "01 OF 08",
+        "headline": "What Changed the Game?",
+        "subtitle": "Five habits that moved the needle when nothing else stuck.",
+        "stickerText": "SWIPE THROUGH",
+        "handle": "@thedailydose"
+      }
+    },
+    {
+      "layoutId": "body-dark-green-serif",
+      "slots": {
+        "brand": "THE DAILY DOSE",
+        "pageOf": "02 OF 08",
+        "number": "00",
+        "title": "The Wellness Stack",
+        "body": "I tried the trends. These five habits are the only ones that stuck — and actually changed how I feel, sleep, and think.",
+        "handle": "@thedailydose"
+      }
+    },
+    {
+      "layoutId": "body-dark-green-serif",
+      "slots": {
+        "brand": "THE DAILY DOSE",
+        "pageOf": "03 OF 08",
+        "number": "01",
+        "title": "Protect Deep Sleep",
+        "body": "Eight hours in bed is not negotiable. I wind down at 9, keep the room cold, and leave my phone in the hall. The return on energy is immediate.",
+        "handle": "@thedailydose"
+      }
+    },
+    {
+      "layoutId": "body-dark-green-serif",
+      "slots": {
+        "brand": "THE DAILY DOSE",
+        "pageOf": "04 OF 08",
+        "number": "02",
+        "title": "Move Every Morning",
+        "body": "Twenty minutes of walking or lifting before email. It anchors my mood and makes the day feel intentional instead of reactive.",
+        "handle": "@thedailydose"
+      }
+    },
+    {
+      "layoutId": "body-dark-green-serif",
+      "slots": {
+        "brand": "THE DAILY DOSE",
+        "pageOf": "05 OF 08",
+        "number": "03",
+        "title": "Eat Real Food First",
+        "body": "Protein and plants at every meal. I stopped counting calories and started counting energy crashes. My gut thanked me within a week.",
+        "handle": "@thedailydose"
+      }
+    },
+    {
+      "layoutId": "body-dark-green-serif",
+      "slots": {
+        "brand": "THE DAILY DOSE",
+        "pageOf": "06 OF 08",
+        "number": "04",
+        "title": "Morning Sunlight Ritual",
+        "body": "Ten minutes outside within an hour of waking. It resets my circadian rhythm better than any supplement or app ever did.",
+        "handle": "@thedailydose"
+      }
+    },
+    {
+      "layoutId": "body-dark-green-serif",
+      "slots": {
+        "brand": "THE DAILY DOSE",
+        "pageOf": "07 OF 08",
+        "number": "05",
+        "title": "One Digital Sabbath",
+        "body": "Sundays are offline. No scroll, no inbox. The mental white space is where my best ideas and actual rest finally show up.",
+        "handle": "@thedailydose"
+      }
+    },
+    {
+      "layoutId": "cta-dark-green-serif",
+      "slots": {
+        "brand": "THE DAILY DOSE",
+        "pageOf": "08 OF 08",
+        "eyebrow": "YOUR TURN",
+        "headline": "What Is Your Stack?",
+        "body": "Drop one habit that moved the needle for you. I read every reply.",
+        "buttonLabel": "COMMENT BELOW",
+        "handle": "@thedailydose"
+      }
+    }
+  ]
+}

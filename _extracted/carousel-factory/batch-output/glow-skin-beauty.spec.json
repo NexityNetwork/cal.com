@@ -1,0 +1,92 @@
+{
+  "id": "glow-skin-beauty",
+  "brand": "LUMIÈRE",
+  "brief": "How to have a perfect glow skin — 5 steps from a dermatologist.",
+  "theme": "minimal-beauty",
+  "slides": [
+    {
+      "layoutId": "cover-minimal-beauty",
+      "slots": {
+        "handle": "@lumiere.skin",
+        "author": "DR. ELENA VOSS",
+        "role": "BOARD-CERTIFIED DERMATOLOGIST",
+        "titleLine1": "THE ART",
+        "titleLine2": "OF GLOWING",
+        "titleLine3": "SKIN",
+        "subtitle": "A DERMATOLOGIST'S RITUAL FOR RADIANT SKIN"
+      }
+    },
+    {
+      "layoutId": "body-minimal-beauty",
+      "slots": {
+        "handle": "@lumiere.skin",
+        "author": "DR. ELENA VOSS",
+        "number": "01 / 06",
+        "title": "CLEANSE & PURIFY",
+        "body": "Start with a gentle, pH-balanced cleanser to remove impurities without stripping your skin's natural moisture barrier. This prepares your complexion to absorb every active ingredient that follows."
+      }
+    },
+    {
+      "layoutId": "body-minimal-beauty",
+      "slots": {
+        "handle": "@lumiere.skin",
+        "author": "DR. ELENA VOSS",
+        "number": "02 / 06",
+        "title": "EXFOLIATE WEEKLY",
+        "body": "Use a mild chemical exfoliant once or twice a week to dissolve dead cells and reveal a smoother, more luminous texture. Avoid harsh scrubs that can cause micro-tears and irritation."
+      }
+    },
+    {
+      "layoutId": "body-minimal-beauty",
+      "slots": {
+        "handle": "@lumiere.skin",
+        "author": "DR. ELENA VOSS",
+        "number": "03 / 06",
+        "title": "HYDRATE DEEPLY",
+        "body": "Layer a hyaluronic acid serum followed by a ceramide-rich moisturizer to lock in plumping hydration. Well-hydrated skin reflects light beautifully and feels supple throughout the day."
+      }
+    },
+    {
+      "layoutId": "body-minimal-beauty",
+      "slots": {
+        "handle": "@lumiere.skin",
+        "author": "DR. ELENA VOSS",
+        "number": "04 / 06",
+        "title": "TREAT & REPAIR",
+        "body": "Apply a vitamin C serum each morning to brighten and shield against environmental stressors. At night, consider retinol to support cell turnover and collagen production over time."
+      }
+    },
+    {
+      "layoutId": "body-minimal-beauty",
+      "slots": {
+        "handle": "@lumiere.skin",
+        "author": "DR. ELENA VOSS",
+        "number": "05 / 06",
+        "title": "SHIELD WITH SPF",
+        "body": "Daily broad-spectrum sunscreen is the ultimate anti-aging and glow-preserving step. UV damage dulls the complexion, so protection keeps your radiance intact year-round."
+      }
+    },
+    {
+      "layoutId": "body-minimal-beauty",
+      "slots": {
+        "handle": "@lumiere.skin",
+        "author": "DR. ELENA VOSS",
+        "number": "06 / 06",
+        "title": "REST & RESET",
+        "body": "Prioritize seven to nine hours of quality sleep to allow your skin to regenerate. Stress management and clean pillowcases also support a calm, clear complexion."
+      }
+    },
+    {
+      "layoutId": "cta-minimal-beauty",
+      "slots": {
+        "handle": "@lumiere.skin",
+        "author": "DR. ELENA VOSS",
+        "role": "BOARD-CERTIFIED DERMATOLOGIST",
+        "eyebrow": "YOUR RITUAL",
+        "headline": "START TODAY",
+        "body": "Begin your personalized glow journey with expert guidance and medical-grade formulas designed for your unique skin.",
+        "buttonLabel": "BOOK A CONSULT"
+      }
+    }
+  ]
+}

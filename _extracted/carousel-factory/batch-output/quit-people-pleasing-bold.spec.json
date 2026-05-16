@@ -1,0 +1,79 @@
+{
+  "id": "quit-people-pleasing-bold",
+  "brand": "GrowthLab",
+  "brief": "5 signs you're a people pleaser and how to stop today.",
+  "theme": "bold-split",
+  "slides": [
+    {
+      "layoutId": "cover-bold-split",
+      "slots": {
+        "title": "PEOPLE PLEASER? FIVE SIGNS TO SPOT",
+        "handle": "@growthlab"
+      }
+    },
+    {
+      "layoutId": "body-bold-split",
+      "slots": {
+        "number": "01",
+        "title": "YOU APOLOGIZE FOR EVERYTHING",
+        "body": "You say sorry when it's not your fault. You absorb blame to keep the peace. This erodes your self-respect fast.",
+        "handle": "@growthlab"
+      }
+    },
+    {
+      "layoutId": "body-bold-split",
+      "slots": {
+        "number": "02",
+        "title": "YOU CAN'T SAY NO",
+        "body": "Your calendar is full of tasks you resent. You fear disappointing others more than draining yourself. Boundaries feel impossible to set.",
+        "handle": "@growthlab"
+      }
+    },
+    {
+      "layoutId": "body-bold-split",
+      "slots": {
+        "number": "03",
+        "title": "YOU NEED CONSTANT VALIDATION",
+        "body": "You rely on outside praise to feel worthy. One critical comment ruins your entire day. Your mood depends on others' opinions.",
+        "handle": "@growthlab"
+      }
+    },
+    {
+      "layoutId": "body-bold-split",
+      "slots": {
+        "number": "04",
+        "title": "YOU IGNORE YOUR OWN NEEDS",
+        "body": "You silence your preferences to avoid conflict. Hunger, rest, and goals all come second. Eventually, resentment replaces your kindness.",
+        "handle": "@growthlab"
+      }
+    },
+    {
+      "layoutId": "body-bold-split",
+      "slots": {
+        "number": "05",
+        "title": "YOU CHANGE TO PLEASE OTHERS",
+        "body": "You agree with ideas you secretly hate. Your personality shifts depending on who's around. You have lost touch with who you are.",
+        "handle": "@growthlab"
+      }
+    },
+    {
+      "layoutId": "body-bold-split",
+      "slots": {
+        "number": "06",
+        "title": "HOW TO STOP TODAY",
+        "body": "Practice saying no without a long explanation, and name your needs before checking the room. Reclaim your time; your peace is non-negotiable.",
+        "handle": "@growthlab"
+      }
+    },
+    {
+      "layoutId": "cta-bold-split",
+      "slots": {
+        "eyebrow": "YOUR MOVE",
+        "headline": "BREAK FREE FROM THE CYCLE",
+        "body": "Pick one boundary to enforce this week. Your growth starts with one honest no.",
+        "buttonLabel": "SAVE THIS POST",
+        "handle": "@growthlab"
+      }
+    }
+  ]
+}

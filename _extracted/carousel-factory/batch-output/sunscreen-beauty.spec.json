@@ -1,0 +1,92 @@
+{
+  "id": "sunscreen-beauty",
+  "brand": "LUMEN",
+  "brief": "Why sunscreen is the only product that matters — and how to pick one.",
+  "theme": "minimal-beauty",
+  "slides": [
+    {
+      "layoutId": "cover-minimal-beauty",
+      "slots": {
+        "handle": "@lumen.skin",
+        "author": "Dr. Elena Voss",
+        "role": "SKIN SPECIALIST",
+        "titleLine1": "THE ONLY",
+        "titleLine2": "PRODUCT THAT",
+        "titleLine3": "TRULY MATTERS",
+        "subtitle": "YOUR COMPLETE GUIDE TO SPF"
+      }
+    },
+    {
+      "layoutId": "body-minimal-beauty",
+      "slots": {
+        "handle": "@lumen.skin",
+        "author": "Dr. Elena Voss",
+        "number": "STEP 01",
+        "title": "PREVENTION FIRST",
+        "body": "Sunscreen is the single most effective anti-aging product available. It blocks the ultraviolet radiation responsible for eighty percent of visible skin aging. No serum can repair damage that never occurs."
+      }
+    },
+    {
+      "layoutId": "body-minimal-beauty",
+      "slots": {
+        "handle": "@lumen.skin",
+        "author": "Dr. Elena Voss",
+        "number": "STEP 02",
+        "title": "KNOW YOUR RAYS",
+        "body": "UVA rays penetrate deep and age your skin silently. UVB burns the surface and causes lasting cellular harm. Broad-spectrum filters shield against both daily threats."
+      }
+    },
+    {
+      "layoutId": "body-minimal-beauty",
+      "slots": {
+        "handle": "@lumen.skin",
+        "author": "Dr. Elena Voss",
+        "number": "STEP 03",
+        "title": "DECODE THE SPF",
+        "body": "The number indicates protection level against burning UVB rays. SPF thirty blocks ninety-seven percent when applied generously. Higher numbers offer marginally more but require the same diligent reapplication."
+      }
+    },
+    {
+      "layoutId": "body-minimal-beauty",
+      "slots": {
+        "handle": "@lumen.skin",
+        "author": "Dr. Elena Voss",
+        "number": "STEP 04",
+        "title": "PICK YOUR FILTER",
+        "body": "Mineral formulas sit on the skin and reflect light with zinc. Chemical filters absorb rays and feel weightless under makeup. Choose the texture you will wear every single morning."
+      }
+    },
+    {
+      "layoutId": "body-minimal-beauty",
+      "slots": {
+        "handle": "@lumen.skin",
+        "author": "Dr. Elena Voss",
+        "number": "STEP 05",
+        "title": "APPLY ENOUGH",
+        "body": "Most people use only half the sunscreen they actually need. A full teaspoon for the face ensures the labeled protection level. Reapply every two hours when exposed to daylight."
+      }
+    },
+    {
+      "layoutId": "body-minimal-beauty",
+      "slots": {
+        "handle": "@lumen.skin",
+        "author": "Dr. Elena Voss",
+        "number": "STEP 06",
+        "title": "MAKE IT DAILY",
+        "body": "Clouds and windows do not block aging UVA rays. Consistent morning application preserves collagen and maintains an even tone. Consider it the final non-negotiable step in your ritual."
+      }
+    },
+    {
+      "layoutId": "cta-minimal-beauty",
+      "slots": {
+        "handle": "@lumen.skin",
+        "author": "Dr. Elena Voss",
+        "role": "SKIN SPECIALIST",
+        "eyebrow": "YOUR RITUAL",
+        "headline": "PROTECT YOUR GLOW",
+        "body": "Ready to find your perfect SPF? Follow for more expert guidance and curated recommendations.",
+        "buttonLabel": "FOLLOW"
+      }
+    }
+  ]
+}

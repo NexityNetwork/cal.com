@@ -1,0 +1,79 @@
+{
+  "id": "boundaries-bold",
+  "brand": "LOVE DOC",
+  "brief": "How to set boundaries without losing the people you love.",
+  "theme": "bold-split",
+  "slides": [
+    {
+      "layoutId": "cover-bold-split",
+      "slots": {
+        "title": "BOUNDARIES KEEP THE PEOPLE YOU LOVE CLOSE",
+        "handle": "@thelovedoc"
+      }
+    },
+    {
+      "layoutId": "body-bold-split",
+      "slots": {
+        "number": "01",
+        "title": "KNOW YOUR LIMITS FIRST",
+        "body": "You cannot pour from an empty cup. Name your limits before resentment names them for you. Clarity protects the relationship.",
+        "handle": "@thelovedoc"
+      }
+    },
+    {
+      "layoutId": "body-bold-split",
+      "slots": {
+        "number": "02",
+        "title": "USE CLEAR DIRECT WORDS",
+        "body": "Vague hints create confusion and hurt. State what you need with calm honesty. Directness is a form of respect.",
+        "handle": "@thelovedoc"
+      }
+    },
+    {
+      "layoutId": "body-bold-split",
+      "slots": {
+        "number": "03",
+        "title": "NO IS A FULL SENTENCE",
+        "body": "Every time you backslide, you teach others to ignore your words. Consistency builds trust faster than perfection ever could.",
+        "handle": "@thelovedoc"
+      }
+    },
+    {
+      "layoutId": "body-bold-split",
+      "slots": {
+        "number": "04",
+        "title": "DISCOMFORT IS NOT DESTRUCTION",
+        "body": "Someone being upset with your boundary does not mean you were cruel. It means you finally told the truth. Love survives honesty.",
+        "handle": "@thelovedoc"
+      }
+    },
+    {
+      "layoutId": "body-bold-split",
+      "slots": {
+        "number": "05",
+        "title": "YOUR GUILT IS A LIAR",
+        "body": "You were trained to feel selfish for having needs. That feeling is conditioning, not fact. Keep the boundary anyway.",
+        "handle": "@thelovedoc"
+      }
+    },
+    {
+      "layoutId": "body-bold-split",
+      "slots": {
+        "number": "06",
+        "title": "LOVE NEEDS ROOM TO BREATHE",
+        "body": "People who truly love you will adjust. Those who leave were already asking too much. Boundaries reveal who is real.",
+        "handle": "@thelovedoc"
+      }
+    },
+    {
+      "layoutId": "cta-bold-split",
+      "slots": {
+        "eyebrow": "YOUR MOVE",
+        "headline": "DRAW THE LINE TODAY",
+        "body": "Which relationship needs your first honest boundary? Comment below and claim it.",
+        "buttonLabel": "SET THE BOUNDARY",
+        "handle": "@thelovedoc"
+      }
+    }
+  ]
+}

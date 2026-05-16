@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Oswald:wght@600;700&family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+  *{margin:0;padding:0;box-sizing:border-box;}
+  html,body{width:1080px;height:1350px;overflow:hidden;background:#eef0ed;font-family:"Inter",sans-serif;color:#0e0e0e;-webkit-font-smoothing:antialiased;
+    background-image:linear-gradient(135deg,rgba(0,0,0,0.04) 1px,transparent 1px),linear-gradient(45deg,rgba(0,0,0,0.04) 1px,transparent 1px);
+    background-size:140px 140px;}
+  .top-bar{position:absolute;top:64px;left:64px;right:64px;display:flex;align-items:center;justify-content:space-between;}
+  .brand{font-size:34px;font-weight:700;letter-spacing:-0.01em;color:#0e0e0e;}
+  .learn-pill{display:inline-flex;align-items:center;gap:14px;padding:14px 26px;background:#0e0e0e;color:#fff;border-radius:30px;font-size:20px;font-weight:600;}
+  .center{position:absolute;top:50%;left:60px;right:60px;transform:translateY(-50%);text-align:center;}
+  .pre-line{font-family:"DM Serif Display",serif;font-size:80px;font-style:italic;font-weight:400;color:#0e0e0e;line-height:1;margin-bottom:8px;}
+  .pill-wrap{position:relative;display:inline-block;margin-bottom:8px;}
+  .pill{background:#0e0e0e;color:#eef0ed;padding:22px 56px;border-radius:32px;
+    font-family:"Oswald",sans-serif;font-weight:700;font-size:170px;line-height:0.9;letter-spacing:-0.005em;
+    display:inline-block;transform:scaleX(1.05);}
+  .post-line{font-family:"DM Serif Display",serif;font-size:80px;font-style:italic;font-weight:400;color:#0e0e0e;line-height:1.0;margin-top:8px;}
+  .icon-badge{position:absolute;display:inline-flex;align-items:center;justify-content:center;width:90px;height:62px;background:#0e0e0e;color:#eef0ed;border-radius:14px;font-size:30px;}
+  .ib-1{top:-6px;right:-110px;}
+  .footer{position:absolute;bottom:80px;left:64px;right:64px;display:flex;align-items:flex-end;justify-content:space-between;}
+  .author{font-size:24px;color:#0e0e0e;}
+  .author .label{font-weight:400;display:block;font-size:22px;margin-bottom:6px;}
+  .author .name{font-weight:700;font-size:28px;}
+  .social{display:flex;gap:14px;font-size:34px;color:#0e0e0e;}
+</style></head>
+<body>
+  <div class="top-bar">
+    <div class="brand">{{brand}}</div>
+    <div class="learn-pill">Learn More <span>→</span></div>
+  </div>
+  <div class="center">
+    <div class="pre-line">{{preLine}}</div>
+    <div class="pill-wrap">
+      <span class="pill">{{pillText}}</span>
+      <span class="icon-badge ib-1">⟲</span>
+    </div>
+    <div class="post-line">{{postLine}}</div>
+  </div>
+  <div class="footer">
+    <div class="author"><span class="label">A Tips by:</span><span class="name">{{author}}</span></div>
+    <div class="social">🔖 ♥ ●</div>
+  </div>
+</body></html>

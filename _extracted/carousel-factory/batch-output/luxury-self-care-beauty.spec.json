@@ -1,0 +1,92 @@
+{
+  "id": "luxury-self-care-beauty",
+  "brand": "AURELIA",
+  "brief": "6 luxurious self-care rituals that cost less than a coffee.",
+  "theme": "minimal-beauty",
+  "slides": [
+    {
+      "layoutId": "cover-minimal-beauty",
+      "slots": {
+        "handle": "@aurelia",
+        "author": "ELENA VOSS",
+        "role": "WELLNESS EDITOR",
+        "titleLine1": "LUXURY FOR",
+        "titleLine2": "LESS THAN",
+        "titleLine3": "A LATTE",
+        "subtitle": "SIX RITUALS THAT COST LESS THAN COFFEE"
+      }
+    },
+    {
+      "layoutId": "body-minimal-beauty",
+      "slots": {
+        "handle": "@aurelia",
+        "author": "ELENA VOSS",
+        "number": "STEP 01",
+        "title": "ICE GLOBE FACIAL",
+        "body": "Glide a chilled jade roller or ice globes across clean skin for two minutes. The cold instantly depuffs, tightens pores, and awakens your natural radiance without any expense."
+      }
+    },
+    {
+      "layoutId": "body-minimal-beauty",
+      "slots": {
+        "handle": "@aurelia",
+        "author": "ELENA VOSS",
+        "number": "STEP 02",
+        "title": "SCALP OIL MASSAGE",
+        "body": "Warm a few drops of coconut or argan oil between your palms. Massage into your scalp with slow, deliberate circles to release tension and encourage shine."
+      }
+    },
+    {
+      "layoutId": "body-minimal-beauty",
+      "slots": {
+        "handle": "@aurelia",
+        "author": "ELENA VOSS",
+        "number": "STEP 03",
+        "title": "DRY BODY BRUSHING",
+        "body": "Before your morning shower, sweep a natural bristle brush upward from your feet. This gentle exfoliation boosts circulation and leaves skin impossibly soft."
+      }
+    },
+    {
+      "layoutId": "body-minimal-beauty",
+      "slots": {
+        "handle": "@aurelia",
+        "author": "ELENA VOSS",
+        "number": "STEP 04",
+        "title": "HERBAL FACIAL STEAM",
+        "body": "Pour hot water over a handful of dried chamomile or lavender in a wide bowl. Drape a towel over your head and breathe deeply for five minutes of pure calm."
+      }
+    },
+    {
+      "layoutId": "body-minimal-beauty",
+      "slots": {
+        "handle": "@aurelia",
+        "author": "ELENA VOSS",
+        "number": "STEP 05",
+        "title": "EPSOM FOOT SOAK",
+        "body": "Fill a basin with warm water and a cup of Epsom salts. Add a few drops of essential oil while you unwind with a book."
+      }
+    },
+    {
+      "layoutId": "body-minimal-beauty",
+      "slots": {
+        "handle": "@aurelia",
+        "author": "ELENA VOSS",
+        "number": "STEP 06",
+        "title": "STEAM SHOWER RITUAL",
+        "body": "Place a few drops of eucalyptus oil on your shower floor before turning on the water. The rising steam creates a private spa sanctuary at home."
+      }
+    },
+    {
+      "layoutId": "cta-minimal-beauty",
+      "slots": {
+        "handle": "@aurelia",
+        "author": "ELENA VOSS",
+        "role": "WELLNESS EDITOR",
+        "eyebrow": "YOUR RITUAL",
+        "headline": "START TODAY",
+        "body": "Pick one ritual for your evening wind-down and notice how luxury feels within reach.",
+        "buttonLabel": "FOLLOW"
+      }
+    }
+  ]
+}

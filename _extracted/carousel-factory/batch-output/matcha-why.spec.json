@@ -1,0 +1,96 @@
+{
+  "id": "matcha-why",
+  "brand": "Matcha Ritual",
+  "brief": "Why matcha — the green tea that's more than a trend. Lifestyle brand carousel.",
+  "theme": "dark-green-serif",
+  "slides": [
+    {
+      "layoutId": "cover-dark-green-serif",
+      "slots": {
+        "brand": "MATCHA RITUAL",
+        "pageOf": "01 OF 08",
+        "headline": "Why Matcha Now?",
+        "subtitle": "The green tea that's more than a trend.",
+        "stickerText": "SIP BACK",
+        "handle": "@matcharitual"
+      }
+    },
+    {
+      "layoutId": "body-dark-green-serif",
+      "slots": {
+        "brand": "Matcha Ritual",
+        "pageOf": "02 OF 08",
+        "number": "01",
+        "title": "What Is Matcha?",
+        "body": "Stone-ground shade-grown green tea leaves. One cup delivers focused energy without the jitters. It’s the ritual your morning deserves.",
+        "handle": "@matcharitual"
+      }
+    },
+    {
+      "layoutId": "body-dark-green-serif",
+      "slots": {
+        "brand": "Matcha Ritual",
+        "pageOf": "03 OF 08",
+        "number": "02",
+        "title": "Centuries In The Making",
+        "body": "Monks in Japan have sipped matcha since the 12th century. They used it to stay alert during long meditations. Today, that calm focus is yours.",
+        "handle": "@matcharitual"
+      }
+    },
+    {
+      "layoutId": "body-dark-green-serif",
+      "slots": {
+        "brand": "Matcha Ritual",
+        "pageOf": "04 OF 08",
+        "number": "03",
+        "title": "Packed With Antioxidants",
+        "body": "Matcha boasts 137 times the antioxidants of regular green tea. It supports metabolism, skin clarity, and steady energy. Drink it daily.",
+        "handle": "@matcharitual"
+      }
+    },
+    {
+      "layoutId": "body-dark-green-serif",
+      "slots": {
+        "brand": "Matcha Ritual",
+        "pageOf": "05 OF 08",
+        "number": "04",
+        "title": "A Moment Of Calm",
+        "body": "Whisking matcha slows time. The warm foam and earthy aroma ground you before the day begins. Small ritual, big shift.",
+        "handle": "@matcharitual"
+      }
+    },
+    {
+      "layoutId": "body-dark-green-serif",
+      "slots": {
+        "brand": "Matcha Ritual",
+        "pageOf": "06 OF 08",
+        "number": "05",
+        "title": "Crafted In The Shade",
+        "body": "Tencha leaves are shaded for 20 days to boost chlorophyll. Then they are steamed, dried, and ground to a fine jade powder. Quality you can taste.",
+        "handle": "@matcharitual"
+      }
+    },
+    {
+      "layoutId": "body-dark-green-serif",
+      "slots": {
+        "brand": "Matcha Ritual",
+        "pageOf": "07 OF 08",
+        "number": "06",
+        "title": "Beyond The Latte",
+        "body": "Add it to oats, smoothies, or face masks. Matcha fits modern routines without losing its soul. Trendy? Yes. Timeless? Absolutely.",
+        "handle": "@matcharitual"
+      }
+    },
+    {
+      "layoutId": "cta-dark-green-serif",
+      "slots": {
+        "brand": "Matcha Ritual",
+        "eyebrow": "START YOUR RITUAL",
+        "headline": "Ready To Start?",
+        "body": "Shop our ceremonial-grade matcha and upgrade your mornings.",
+        "buttonLabel": "SHOP MATCHA",
+        "handle": "@matcharitual"
+      }
+    }
+  ]
+}

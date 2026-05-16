@@ -1,0 +1,285 @@
+{
+  "slides": [
+    {
+      "index": 0,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/saas-pricing/slide-01.png",
+      "bytes": 238222,
+      "qa": {
+        "verdict": "fail",
+        "checks": {
+          "has_frame": false,
+          "no_unfilled_slots": true,
+          "has_page_badge": false
+        },
+        "issues": [
+          "missing .frame container"
+        ]
+      },
+      "fingerprint": {
+        "layout": "unknown",
+        "elements": {}
+      }
+    },
+    {
+      "index": 1,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/saas-pricing/slide-02.png",
+      "bytes": 210619,
+      "qa": {
+        "verdict": "fail",
+        "checks": {
+          "has_frame": false,
+          "no_unfilled_slots": true,
+          "has_page_badge": false,
+          "body_text_present": true,
+          "body_text_in_bounds": true,
+          "body_text_no_overflow": true
+        },
+        "issues": [
+          "missing .frame container"
+        ]
+      },
+      "fingerprint": {
+        "layout": "unknown",
+        "elements": {
+          ".body-text": {
+            "x": 110,
+            "y": 470,
+            "w": 860,
+            "h": 131
+          }
+        }
+      }
+    },
+    {
+      "index": 2,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/saas-pricing/slide-03.png",
+      "bytes": 210783,
+      "qa": {
+        "verdict": "fail",
+        "checks": {
+          "has_frame": false,
+          "no_unfilled_slots": true,
+          "has_page_badge": false,
+          "body_text_present": true,
+          "body_text_in_bounds": true,
+          "body_text_no_overflow": true
+        },
+        "issues": [
+          "missing .frame container"
+        ]
+      },
+      "fingerprint": {
+        "layout": "unknown",
+        "elements": {
+          ".body-text": {
+            "x": 110,
+            "y": 470,
+            "w": 860,
+            "h": 131
+          }
+        }
+      }
+    },
+    {
+      "index": 3,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/saas-pricing/slide-04.png",
+      "bytes": 202150,
+      "qa": {
+        "verdict": "fail",
+        "checks": {
+          "has_frame": false,
+          "no_unfilled_slots": true,
+          "has_page_badge": false,
+          "body_text_present": true,
+          "body_text_in_bounds": true,
+          "body_text_no_overflow": true
+        },
+        "issues": [
+          "missing .frame container"
+        ]
+      },
+      "fingerprint": {
+        "layout": "unknown",
+        "elements": {
+          ".body-text": {
+            "x": 110,
+            "y": 470,
+            "w": 860,
+            "h": 131
+          }
+        }
+      }
+    },
+    {
+      "index": 4,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/saas-pricing/slide-05.png",
+      "bytes": 201885,
+      "qa": {
+        "verdict": "fail",
+        "checks": {
+          "has_frame": false,
+          "no_unfilled_slots": true,
+          "has_page_badge": false,
+          "body_text_present": true,
+          "body_text_in_bounds": true,
+          "body_text_no_overflow": true
+        },
+        "issues": [
+          "missing .frame container"
+        ]
+      },
+      "fingerprint": {
+        "layout": "unknown",
+        "elements": {
+          ".body-text": {
+            "x": 110,
+            "y": 470,
+            "w": 860,
+            "h": 131
+          }
+        }
+      }
+    },
+    {
+      "index": 5,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/saas-pricing/slide-06.png",
+      "bytes": 206802,
+      "qa": {
+        "verdict": "fail",
+        "checks": {
+          "has_frame": false,
+          "no_unfilled_slots": true,
+          "has_page_badge": false,
+          "body_text_present": true,
+          "body_text_in_bounds": true,
+          "body_text_no_overflow": true
+        },
+        "issues": [
+          "missing .frame container"
+        ]
+      },
+      "fingerprint": {
+        "layout": "unknown",
+        "elements": {
+          ".body-text": {
+            "x": 110,
+            "y": 470,
+            "w": 860,
+            "h": 131
+          }
+        }
+      }
+    },
+    {
+      "index": 6,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/saas-pricing/slide-07.png",
+      "bytes": 214996,
+      "qa": {
+        "verdict": "fail",
+        "checks": {
+          "has_frame": false,
+          "no_unfilled_slots": true,
+          "has_page_badge": false,
+          "body_text_present": true,
+          "body_text_in_bounds": true,
+          "body_text_no_overflow": true
+        },
+        "issues": [
+          "missing .frame container"
+        ]
+      },
+      "fingerprint": {
+        "layout": "unknown",
+        "elements": {
+          ".body-text": {
+            "x": 110,
+            "y": 470,
+            "w": 860,
+            "h": 131
+          }
+        }
+      }
+    },
+    {
+      "index": 7,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/saas-pricing/slide-08.png",
+      "bytes": 64130,
+      "qa": {
+        "verdict": "fail",
+        "checks": {
+          "has_frame": false,
+          "no_unfilled_slots": true,
+          "has_page_badge": false
+        },
+        "issues": [
+          "missing .frame container"
+        ]
+      },
+      "fingerprint": {
+        "layout": "unknown",
+        "elements": {}
+      }
+    }
+  ],
+  "carouselQa": {
+    "verdict": "needs-review",
+    "issues": [
+      "slides 2 and 3 have nearly identical composition (sim=1.00)",
+      "slides 3 and 4 have nearly identical composition (sim=1.00)",
+      "slides 4 and 5 have nearly identical composition (sim=1.00)",
+      "slides 5 and 6 have nearly identical composition (sim=1.00)",
+      "slides 6 and 7 have nearly identical composition (sim=1.00)"
+    ],
+    "adjacencyChecks": [
+      {
+        "between": [
+          1,
+          2
+        ],
+        "similarity": 0
+      },
+      {
+        "between": [
+          2,
+          3
+        ],
+        "similarity": 1
+      },
+      {
+        "between": [
+          3,
+          4
+        ],
+        "similarity": 1
+      },
+      {
+        "between": [
+          4,
+          5
+        ],
+        "similarity": 1
+      },
+      {
+        "between": [
+          5,
+          6
+        ],
+        "similarity": 1
+      },
+      {
+        "between": [
+          6,
+          7
+        ],
+        "similarity": 1
+      },
+      {
+        "between": [
+          7,
+          8
+        ],
+        "similarity": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "be-disliked-bold",
+  "brand": "EDGE THEORY",
+  "brief": "Why you should aim to be disliked by 50% of your audience.",
+  "theme": "bold-split",
+  "slides": [
+    {
+      "layoutId": "cover-bold-split",
+      "slots": {
+        "title": "WHY HALF YOUR AUDIENCE SHOULD HATE YOU",
+        "handle": "@EDGETHEORY"
+      }
+    },
+    {
+      "layoutId": "body-bold-split",
+      "slots": {
+        "number": "01",
+        "title": "PLEASING EVERYONE FAILS",
+        "body": "When you try to appeal to everyone, you dilute your message into beige noise. Strong brands require sharp edges that not everyone can handle. Neutrality is the enemy of memorability.",
+        "handle": "@EDGETHEORY"
+      }
+    },
+    {
+      "layoutId": "body-bold-split",
+      "slots": {
+        "number": "02",
+        "title": "POLARIZATION BUILDS LOYALTY",
+        "body": "The people who love you will fight for you when you stand for something specific. Fifty percent repulsion creates fifty percent devotion that lasts.",
+        "handle": "@EDGETHEORY"
+      }
+    },
+    {
+      "layoutId": "body-bold-split",
+      "slots": {
+        "number": "03",
+        "title": "WEAK OPINIONS HURT YOU",
+        "body": "Sitting on the fence positions you as replaceable and forgettable. The market does not reward timid voices or lukewarm takes. It rewards courage.",
+        "handle": "@EDGETHEORY"
+      }
+    },
+    {
+      "layoutId": "body-bold-split",
+      "slots": {
+        "number": "04",
+        "title": "FILTERS FIND YOUR TRIBE",
+        "body": "When you repel the wrong people, you magnetize the right ones. Dislike is a feature, not a bug, for building a true community.",
+        "handle": "@EDGETHEORY"
+      }
+    },
+    {
+      "layoutId": "body-bold-split",
+      "slots": {
+        "number": "05",
+        "title": "SAFE BRANDS ARE INVISIBLE",
+        "body": "The most successful creators and companies have loud detractors. If nobody disagrees with you, your voice is too quiet to matter.",
+        "handle": "@EDGETHEORY"
+      }
+    },
+    {
+      "layoutId": "body-bold-split",
+      "slots": {
+        "number": "06",
+        "title": "START WITH YOUR TRUTH",
+        "body": "State your real beliefs without apology. The audience that stays will be more engaged, profitable, and aligned than a passive crowd ever could.",
+        "handle": "@EDGETHEORY"
+      }
+    },
+    {
+      "layoutId": "cta-bold-split",
+      "slots": {
+        "eyebrow": "YOUR MOVE",
+        "headline": "BE BRAVE ENOUGH TO BE HATED",
+        "body": "Pick a fight worth having today. Your real audience is waiting on the other side.",
+        "buttonLabel": "TAKE YOUR STAND",
+        "handle": "@EDGETHEORY"
+      }
+    }
+  ]
+}

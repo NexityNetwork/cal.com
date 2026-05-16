@@ -1,0 +1,111 @@
+{
+  "id": "craft-vs-hustle",
+  "brand": "ATELIER",
+  "brief": "Craft over hustle: 6 things makers know that hustlers don't.",
+  "theme": "noir-yellow",
+  "slides": [
+    {
+      "layoutId": "cover-noir-yellow",
+      "slots": {
+        "brand": "ATELIER",
+        "scriptPrefix": "Welcome",
+        "displayLine1": "CRAFT",
+        "displayLine2": "OVER",
+        "displayLine3": "HUSTLE",
+        "scriptTagline": "Six quiet truths the hustle never learns.",
+        "handle": "@atelier",
+        "slideId": "Slide 01"
+      }
+    },
+    {
+      "layoutId": "body-noir-yellow",
+      "slots": {
+        "brand": "ATELIER",
+        "scriptPrefix": "Breathe",
+        "displayLine1": "REST",
+        "displayLine2": "IS",
+        "displayLine3": "PROCESS",
+        "body": "Hustlers glorify burnout. Makers know that stepping away returns clarity and better work. Rest is not a reward; it is a requirement.",
+        "handle": "@atelier",
+        "slideId": "Slide 02"
+      }
+    },
+    {
+      "layoutId": "body-noir-yellow",
+      "slots": {
+        "brand": "ATELIER",
+        "scriptPrefix": "Slow",
+        "displayLine1": "SLOW",
+        "displayLine2": "IS",
+        "displayLine3": "PRECISE",
+        "body": "Speed creates noise. Deliberate slowness sharpens the eye and steadies the hand. True quality cannot be rushed into existence.",
+        "handle": "@atelier",
+        "slideId": "Slide 03"
+      }
+    },
+    {
+      "layoutId": "body-noir-yellow",
+      "slots": {
+        "brand": "ATELIER",
+        "scriptPrefix": "Listen",
+        "displayLine1": "WORK",
+        "displayLine2": "SPEAKS",
+        "displayLine3": "LOUDER",
+        "body": "Hustlers sell the dream before building it. Makers let the finished piece do the talking. Substance always outlasts the pitch.",
+        "handle": "@atelier",
+        "slideId": "Slide 04"
+      }
+    },
+    {
+      "layoutId": "body-noir-yellow",
+      "slots": {
+        "brand": "ATELIER",
+        "scriptPrefix": "Honor",
+        "displayLine1": "TOOLS",
+        "displayLine2": "ARE",
+        "displayLine3": "SACRED",
+        "body": "A maker cleans, maintains, and understands every tool. Respect for the instrument shows respect for the craft. Mastery lives in the details.",
+        "handle": "@atelier",
+        "slideId": "Slide 05"
+      }
+    },
+    {
+      "layoutId": "body-noir-yellow",
+      "slots": {
+        "brand": "ATELIER",
+        "scriptPrefix": "Adjust",
+        "displayLine1": "MISTAKES",
+        "displayLine2": "ARE",
+        "displayLine3": "MAPPED",
+        "body": "Every error reveals the true grain of the material. Makers study missteps instead of hiding them. Failure is simply feedback with texture.",
+        "handle": "@atelier",
+        "slideId": "Slide 06"
+      }
+    },
+    {
+      "layoutId": "body-noir-yellow",
+      "slots": {
+        "brand": "ATELIER",
+        "scriptPrefix": "Build",
+        "displayLine1": "DEPTH",
+        "displayLine2": "BEATS",
+        "displayLine3": "REACH",
+        "body": "Vanity metrics fade by morning. Makers build objects and relationships that endure. Legacy is measured in decades, not notifications.",
+        "handle": "@atelier",
+        "slideId": "Slide 07"
+      }
+    },
+    {
+      "layoutId": "cta-noir-yellow",
+      "slots": {
+        "brand": "ATELIER",
+        "scriptPrefix": "Begin",
+        "headline": "BUILD WITH INTENTION",
+        "scriptTagline": "Your bench is clear and waiting.",
+        "buttonLabel": "Start Crafting",
+        "handle": "@atelier",
+        "slideId": "Slide 08"
+      }
+    }
+  ]
+}

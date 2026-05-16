@@ -40,6 +40,8 @@ const FAMILY_LAYOUTS = {
   "retro-groovy":     { cover: "cover-retro-groovy",    body: "body-retro-groovy",    cta: "cta-retro-groovy" },
   "minimal-beauty":   { cover: "cover-minimal-beauty",  body: "body-minimal-beauty",  cta: "cta-minimal-beauty" },
   "bold-split":       { cover: "cover-bold-split",      body: "body-bold-split",      cta: "cta-bold-split" },
+  "condensed-pill":   { cover: "cover-condensed-pill",  body: "body-condensed-pill",  cta: "cta-condensed-pill" },
+  "photo-split":      { cover: "cover-photo-split",     body: "body-photo-split",     cta: "cta-photo-split" },
 };
 
 // CTA slot conventions, shared by all families:
@@ -82,6 +84,14 @@ CTA   cta-minimal-beauty: handle, author, role, eyebrow ("YOUR RITUAL"/"NEXT STE
 COVER cover-bold-split: title (4-7 word ALL CAPS condensed, wraps 3-4 lines), handle.
 BODY  body-bold-split: number ("01"), title (3-5 words ALL CAPS condensed), body (2-3 sentences ≤40 words), handle.
 CTA   cta-bold-split: eyebrow (2-3 words uppercase "YOUR MOVE"/"DAY ONE"), headline (3-6 words ALL CAPS condensed), body (1-2 sentences ≤25 words), buttonLabel (2-4 words uppercase), handle.`,
+  "condensed-pill": `Layouts (light cream textured bg + huge black Oswald-condensed pill + DM Serif italic accents):
+COVER cover-condensed-pill: brand, preLine (1-3 italic-serif words like "How I", "The 5", "Why I"), pillText (1-2 ALL CAPS chunky words that fit one line in giant black pill, e.g. "MANAGE", "LAUNCH", "QUIT"), postLine (3-6 italic-serif words completing the sentence, e.g. "side hustles & a job"), author (full name).
+BODY  body-condensed-pill: brand, number ("01"-"06" inside black circle), numberLabel (italic-serif label like "Tip No.", "Step", "Rule"), title (1-2 ALL CAPS chunky words for pill), body (1-2 italic-serif sentences ≤35 words centered), author.
+CTA   cta-condensed-pill: brand, eyebrow (2-3 words uppercase letter-spaced "YOUR TURN"/"START TODAY"), headline (1-2 ALL CAPS chunky words for pill, e.g. "GO", "BUILD IT"), body (1-2 italic-serif sentences ≤25 words), buttonLabel (3-5 words like "Save this post"), author.`,
+  "photo-split": `Layouts (top half: photo-placeholder dark gradient panel; bottom half: lime green #dff5b6 panel with dark green ink — editorial magazine):
+COVER cover-photo-split: brand, headline (5-9 words sentence case, fits in 2-3 lines), swipeNote (short instruction, 5-9 words like "Swipe to see the 7 lies brands still believe").
+BODY  body-photo-split: brand, number ("01"-"06"), eyebrow (2-3 words uppercase letter-spaced like "LIE NUMBER" or "STEP" or "TRUTH"), title (3-6 words sentence case), body (2-3 sentences ≤45 words editorial).
+CTA   cta-photo-split: brand, quote (5-9 word punchy quote overlaid on top photo), eyebrow (2-3 words uppercase "YOUR MOVE"/"READY?"), headline (4-7 words sentence case), buttonLabel (2-4 words like "Save this post"), author.`,
 };
 
 const PROMPT_TEMPLATE = (brief, family) => `You are a carousel planner.
@@ -182,6 +192,24 @@ const BRIEFS = [
   { id: "boundaries-bold",        family: "bold-split", text: "How to set boundaries without losing the people you love." },
   { id: "quit-people-pleasing-bold", family: "bold-split", text: "5 signs you're a people pleaser and how to stop today." },
   { id: "discipline-over-motivation-bold", family: "bold-split", text: "Why discipline always beats motivation — 6 examples." },
+
+  // condensed-pill (side hustles / personal finance / creator economy)
+  { id: "side-hustle-stack-pill",     family: "condensed-pill", text: "How I manage 3 side hustles & a full-time job — without losing my mind." },
+  { id: "launch-a-product-pill",      family: "condensed-pill", text: "How to launch a product in 7 days from zero audience." },
+  { id: "quit-the-9-to-5-pill",       family: "condensed-pill", text: "Why I quit my 9-to-5 — and what I'd do differently if I started over." },
+  { id: "build-an-audience-pill",     family: "condensed-pill", text: "How to build an audience of 10K real fans in 90 days." },
+  { id: "save-50k-pill",              family: "condensed-pill", text: "How I saved $50K on a $70K salary — 6 boring habits." },
+  { id: "creator-mistakes-pill",      family: "condensed-pill", text: "6 creator mistakes that cost me 2 years and $40K." },
+  { id: "first-1k-month-pill",        family: "condensed-pill", text: "How I made my first $1K/month online — the unsexy version." },
+
+  // photo-split (editorial marketing / brand strategy / agency)
+  { id: "7-lies-marketing-split",     family: "photo-split", text: "7 lies you still believe about digital marketing in 2026." },
+  { id: "brand-positioning-split",    family: "photo-split", text: "How to position a brand so customers can't ignore you — 6 lessons." },
+  { id: "agency-pricing-split",       family: "photo-split", text: "How we 3x'd our agency pricing without losing a single client." },
+  { id: "design-system-split",        family: "photo-split", text: "Why every brand needs a design system in 2026 — and how to build one." },
+  { id: "rebrand-mistakes-split",     family: "photo-split", text: "6 rebrand mistakes that cost startups their best customers." },
+  { id: "content-strategy-split",     family: "photo-split", text: "The content strategy that took a B2B brand from 0 to 1M views/year." },
+  { id: "client-onboarding-split",    family: "photo-split", text: "The 6-step client onboarding flow that cut churn by 40%." },
 ];
 
 // ─── Kimi planner with retry on JSON parse failure ─────────────────────────

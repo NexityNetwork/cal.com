@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+  *{margin:0;padding:0;box-sizing:border-box;}
+  html,body{width:1080px;height:1350px;overflow:hidden;background:#dff5b6;font-family:"Inter",sans-serif;color:#1a3a1a;-webkit-font-smoothing:antialiased;}
+  .photo{position:absolute;top:0;left:0;right:0;height:520px;
+    background:linear-gradient(135deg,#6e7a85 0%,#3d4854 60%,#272f37 100%);overflow:hidden;}
+  .photo::before{content:"";position:absolute;inset:0;
+    background:radial-gradient(circle at 70% 35%,rgba(255,255,255,0.12),transparent 55%);}
+  .photo::after{content:"";position:absolute;inset:0;
+    background-image:radial-gradient(circle,rgba(255,255,255,0.06) 2px,transparent 3px);background-size:14px 14px;}
+  .num-badge{position:absolute;top:460px;left:60px;width:130px;height:130px;background:#b7e84a;color:#1a3a1a;border-radius:24px;display:flex;align-items:center;justify-content:center;font-size:74px;font-weight:800;letter-spacing:-2px;box-shadow:0 8px 0 rgba(26,58,26,0.12);}
+  .panel{position:absolute;top:520px;left:0;right:0;bottom:0;background:#dff5b6;padding:80px 60px 60px;}
+  .eyebrow{font-size:22px;font-weight:700;letter-spacing:0.18em;text-transform:uppercase;color:#1a3a1a;margin-bottom:22px;}
+  .title{font-size:74px;font-weight:700;line-height:1.0;letter-spacing:-1.6px;color:#1a3a1a;margin-bottom:30px;}
+  .body{font-size:30px;line-height:1.4;color:#1a3a1a;max-width:920px;}
+  .footer{position:absolute;bottom:60px;left:60px;right:60px;display:flex;align-items:center;justify-content:space-between;font-size:22px;color:#1a3a1a;}
+  .brand{display:flex;align-items:center;gap:14px;font-weight:600;}
+  .logo{width:36px;height:36px;background:#b7e84a;border-radius:8px;display:flex;align-items:center;justify-content:center;}
+  .logo::before{content:"";width:20px;height:20px;background:#1a3a1a;clip-path:polygon(0 0,100% 0,100% 60%,0 100%);}
+  .arrow{font-size:48px;}
+</style></head>
+<body>
+  <div class="photo"></div>
+  <div class="num-badge">{{number}}</div>
+  <div class="panel">
+    <div class="eyebrow">{{eyebrow}}</div>
+    <div class="title">{{title}}</div>
+    <div class="body">{{body}}</div>
+  </div>
+  <div class="footer">
+    <div class="brand"><div class="logo"></div><div>{{brand}}</div></div>
+    <div class="arrow">↘</div>
+  </div>
+</body></html>

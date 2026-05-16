@@ -1,0 +1,96 @@
+{
+  "id": "kitchen-tools",
+  "brand": "MINIMALIST COOK",
+  "brief": "6 kitchen tools that replaced 30 — minimalist home cook edition.",
+  "theme": "dark-green-serif",
+  "slides": [
+    {
+      "layoutId": "cover-dark-green-serif",
+      "slots": {
+        "brand": "MINIMALIST COOK",
+        "pageOf": "01 OF 08",
+        "headline": "CAN 6 TOOLS REPLACE 30?",
+        "subtitle": "the minimalist home cook's guide to a clutter-free kitchen",
+        "stickerText": "LESS IS MORE",
+        "handle": "@minimalistcook"
+      }
+    },
+    {
+      "layoutId": "body-dark-green-serif",
+      "slots": {
+        "brand": "MINIMALIST COOK",
+        "pageOf": "02 OF 08",
+        "number": "01",
+        "title": "ONE CHEF'S KNIFE",
+        "body": "A sharp 8-inch chef's knife handles slicing, dicing, and mincing. Ditch the paring, bread, and utility knives. One blade, zero clutter.",
+        "handle": "@minimalistcook"
+      }
+    },
+    {
+      "layoutId": "body-dark-green-serif",
+      "slots": {
+        "brand": "MINIMALIST COOK",
+        "pageOf": "03 OF 08",
+        "number": "02",
+        "title": "CAST IRON SKILLET",
+        "body": "Sear, bake, roast, and fry in one pan. It replaces non-stick skillets, griddles, and baking dishes. Naturally non-stick with time.",
+        "handle": "@minimalistcook"
+      }
+    },
+    {
+      "layoutId": "body-dark-green-serif",
+      "slots": {
+        "brand": "MINIMALIST COOK",
+        "pageOf": "04 OF 08",
+        "number": "03",
+        "title": "ONE DUTCH OVEN",
+        "body": "Braise, stew, bake bread, and slow-cook without extra gadgets. It takes the place of a slow cooker, stockpot, and roasting pan.",
+        "handle": "@minimalistcook"
+      }
+    },
+    {
+      "layoutId": "body-dark-green-serif",
+      "slots": {
+        "brand": "MINIMALIST COOK",
+        "pageOf": "05 OF 08",
+        "number": "04",
+        "title": "HEAVY KITCHEN SHEARS",
+        "body": "Snip herbs, trim poultry, open packages, and cut pizza. They replace herb strippers, poultry shears, and box cutters with ease.",
+        "handle": "@minimalistcook"
+      }
+    },
+    {
+      "layoutId": "body-dark-green-serif",
+      "slots": {
+        "brand": "MINIMALIST COOK",
+        "pageOf": "06 OF 08",
+        "number": "05",
+        "title": "IMMERSION BLENDER ONLY",
+        "body": "Blend soups directly in the pot, whip cream, and make smoothies. It replaces a countertop blender, food processor, and hand mixer.",
+        "handle": "@minimalistcook"
+      }
+    },
+    {
+      "layoutId": "body-dark-green-serif",
+      "slots": {
+        "brand": "MINIMALIST COOK",
+        "pageOf": "07 OF 08",
+        "number": "06",
+        "title": "ONE MICROPLANE GRATER",
+        "body": "Zest citrus, grate cheese, mince garlic, and shave nutmeg. It replaces a zester, garlic press, ginger grater, and box grater.",
+        "handle": "@minimalistcook"
+      }
+    },
+    {
+      "layoutId": "cta-dark-green-serif",
+      "slots": {
+        "brand": "MINIMALIST COOK",
+        "eyebrow": "GO MINIMAL",
+        "headline": "DECLUTTER YOUR KITCHEN",
+        "body": "Pick one tool to donate this week. Less clutter, more calm.",
+        "buttonLabel": "SIMPLIFY TODAY",
+        "handle": "@minimalistcook"
+      }
+    }
+  ]
+}

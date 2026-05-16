@@ -1,0 +1,79 @@
+{
+  "id": "discipline-over-motivation-bold",
+  "brand": "FORGE",
+  "brief": "Why discipline always beats motivation — 6 examples.",
+  "theme": "bold-split",
+  "slides": [
+    {
+      "layoutId": "cover-bold-split",
+      "slots": {
+        "title": "DISCIPLINE BEATS MOTIVATION EVERY SINGLE TIME",
+        "handle": "@mindsetforge"
+      }
+    },
+    {
+      "layoutId": "body-bold-split",
+      "slots": {
+        "number": "01",
+        "title": "THE BLANK PAGE FEARS DISCIPLINE",
+        "body": "Motivation waits for inspiration. Discipline sits down and works until the job is finished regardless of mood. That is how books get written.",
+        "handle": "@mindsetforge"
+      }
+    },
+    {
+      "layoutId": "body-bold-split",
+      "slots": {
+        "number": "02",
+        "title": "CHAMPIONS TRAIN ALONE EVERY DAY",
+        "body": "Motivation loves crowds and applause. Discipline shows up at five in the morning when the gym is empty. Results follow repetition, not feelings.",
+        "handle": "@mindsetforge"
+      }
+    },
+    {
+      "layoutId": "body-bold-split",
+      "slots": {
+        "number": "03",
+        "title": "BUILD SYSTEMS NOT EXCITEMENT",
+        "body": "Startups do not run on hype alone. Discipline builds the boring systems that scale while motivation chases the next shiny idea. Execution wins.",
+        "handle": "@mindsetforge"
+      }
+    },
+    {
+      "layoutId": "body-bold-split",
+      "slots": {
+        "number": "04",
+        "title": "CONSISTENCY BEATS INTENSITY EVERY TIME",
+        "body": "One inspired workout changes nothing. Discipline shows up daily, even when motivation is gone. Small repeated efforts compound into transformation.",
+        "handle": "@mindsetforge"
+      }
+    },
+    {
+      "layoutId": "body-bold-split",
+      "slots": {
+        "number": "05",
+        "title": "MASTERY REQUIRES BORING REPETITION",
+        "body": "Motivation burns bright then disappears. Discipline practices the fundamentals long after novelty fades. That is the real price of expertise.",
+        "handle": "@mindsetforge"
+      }
+    },
+    {
+      "layoutId": "body-bold-split",
+      "slots": {
+        "number": "06",
+        "title": "DO WHAT NEEDS DOING NOW",
+        "body": "Motivation asks how you feel. Discipline ignores the feeling and takes action anyway. The task does not care about your mood.",
+        "handle": "@mindsetforge"
+      }
+    },
+    {
+      "layoutId": "cta-bold-split",
+      "slots": {
+        "eyebrow": "YOUR MOVE",
+        "headline": "STOP WAITING START BUILDING",
+        "body": "Motivation is a fair-weather friend. Build the discipline that outlasts every storm and keeps you moving forward.",
+        "buttonLabel": "START NOW",
+        "handle": "@mindsetforge"
+      }
+    }
+  ]
+}

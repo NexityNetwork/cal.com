@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+  *{margin:0;padding:0;box-sizing:border-box;}
+  html,body{width:1080px;height:1350px;overflow:hidden;background:#dff5b6;font-family:"Inter",sans-serif;color:#1a3a1a;-webkit-font-smoothing:antialiased;}
+  /* Top half: photo placeholder (gradient + subtle dot pattern) */
+  .photo{position:absolute;top:0;left:0;right:0;height:700px;
+    background:linear-gradient(135deg,#6e7a85 0%,#3d4854 60%,#272f37 100%);overflow:hidden;}
+  .photo::before{content:"";position:absolute;inset:0;
+    background:radial-gradient(circle at 30% 30%,rgba(255,255,255,0.12),transparent 50%);}
+  .photo::after{content:"";position:absolute;inset:0;
+    background-image:radial-gradient(circle,rgba(255,255,255,0.06) 2px,transparent 3px);background-size:14px 14px;}
+  /* Lime pixel cluster in top-right of bottom panel */
+  .pixel-cluster{position:absolute;top:580px;right:60px;width:120px;height:120px;background:#b7e84a;display:grid;grid-template-columns:repeat(5,1fr);gap:4px;padding:14px;border-radius:6px;}
+  .pixel-cluster span{background:#1a3a1a;border-radius:2px;}
+  /* Bottom lime panel */
+  .panel{position:absolute;top:700px;left:0;right:0;bottom:0;background:#dff5b6;padding:60px 60px;}
+  .brand-row{display:flex;align-items:center;gap:18px;margin-bottom:60px;}
+  .brand-row .logo{width:42px;height:42px;background:#b7e84a;border-radius:8px;display:flex;align-items:center;justify-content:center;}
+  .brand-row .logo::before{content:"";width:24px;height:24px;background:#1a3a1a;clip-path:polygon(0 0,100% 0,100% 60%,0 100%);}
+  .brand-row .name{font-size:34px;font-weight:600;color:#1a3a1a;}
+  .headline-row{display:flex;align-items:flex-start;justify-content:space-between;gap:30px;}
+  .headline{font-size:78px;font-weight:700;line-height:1.0;letter-spacing:-1.6px;color:#1a3a1a;flex:1;}
+  .swipe-note{font-size:22px;color:#1a3a1a;line-height:1.3;width:200px;}
+  .arrow{position:absolute;bottom:80px;right:60px;font-size:60px;color:#1a3a1a;}
+</style></head>
+<body>
+  <div class="photo"></div>
+  <div class="pixel-cluster">
+    <span></span><span></span><span></span><span></span><span></span>
+    <span></span><span></span><span></span><span></span><span></span>
+    <span></span><span></span><span></span><span></span><span></span>
+    <span></span><span></span><span></span><span></span><span></span>
+  </div>
+  <div class="panel">
+    <div class="brand-row"><div class="logo"></div><div class="name">{{brand}}</div></div>
+    <div class="headline-row">
+      <div class="headline">{{headline}}</div>
+      <div class="swipe-note">{{swipeNote}}</div>
+    </div>
+  </div>
+  <div class="arrow">↘</div>
+</body></html>

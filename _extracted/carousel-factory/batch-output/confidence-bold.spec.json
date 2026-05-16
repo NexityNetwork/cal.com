@@ -1,0 +1,79 @@
+{
+  "id": "confidence-bold",
+  "brand": "TrueGrowth",
+  "brief": "How to boost your confidence every day — 6 hard truths.",
+  "theme": "bold-split",
+  "slides": [
+    {
+      "layoutId": "cover-bold-split",
+      "slots": {
+        "title": "SIX HARD TRUTHS ABOUT DAILY CONFIDENCE",
+        "handle": "@truegrowth"
+      }
+    },
+    {
+      "layoutId": "body-bold-split",
+      "slots": {
+        "number": "01",
+        "title": "NO ONE WILL SAVE YOU",
+        "body": "Confidence isn't given. It's built through action, repetition, and owning your choices. Stop waiting for permission.",
+        "handle": "@truegrowth"
+      }
+    },
+    {
+      "layoutId": "body-bold-split",
+      "slots": {
+        "number": "02",
+        "title": "COMPETENCE COMES BEFORE CONFIDENCE",
+        "body": "You can't affirm your way to self-belief. Real confidence follows proof. Do the work first, then the feeling follows.",
+        "handle": "@truegrowth"
+      }
+    },
+    {
+      "layoutId": "body-bold-split",
+      "slots": {
+        "number": "03",
+        "title": "COMFORT ZONES KILL GROWTH",
+        "body": "Safety feels good but keeps you small. Growth lives on the other side of awkwardness and uncertainty. Step into it daily.",
+        "handle": "@truegrowth"
+      }
+    },
+    {
+      "layoutId": "body-bold-split",
+      "slots": {
+        "number": "04",
+        "title": "JUDGMENT IS INEVITABLE MOVE ON",
+        "body": "People will always have opinions about you. The hard truth is that their thoughts are none of your business. Keep going.",
+        "handle": "@truegrowth"
+      }
+    },
+    {
+      "layoutId": "body-bold-split",
+      "slots": {
+        "number": "05",
+        "title": "CONFIDENCE REQUIRES RADICAL SELF HONESTY",
+        "body": "You can't fix what you refuse to see. Look at your flaws without cruelty, then take responsibility for changing them.",
+        "handle": "@truegrowth"
+      }
+    },
+    {
+      "layoutId": "body-bold-split",
+      "slots": {
+        "number": "06",
+        "title": "CONSISTENCY BEATS INTENSITY EVERY TIME",
+        "body": "One bold move won't change your life. Small daily actions compound into unshakable self-trust. Show up when it's boring.",
+        "handle": "@truegrowth"
+      }
+    },
+    {
+      "layoutId": "cta-bold-split",
+      "slots": {
+        "eyebrow": "YOUR MOVE",
+        "headline": "START BUILDING CONFIDENCE TODAY",
+        "body": "Pick one truth and act on it today. Your future self is watching.",
+        "buttonLabel": "BEGIN NOW",
+        "handle": "@truegrowth"
+      }
+    }
+  ]
+}

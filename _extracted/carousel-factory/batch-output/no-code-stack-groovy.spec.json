@@ -1,0 +1,80 @@
+{
+  "id": "no-code-stack-groovy",
+  "brand": "Stacked",
+  "brief": "The 6-tool no-code stack that runs my $30K/mo business.",
+  "theme": "retro-groovy",
+  "slides": [
+    {
+      "layoutId": "cover-retro-groovy",
+      "slots": {
+        "title": "My no-code stack",
+        "ctaText": "Steal my exact 6-tool stack",
+        "handle": "@stacked"
+      }
+    },
+    {
+      "layoutId": "body-retro-groovy",
+      "slots": {
+        "number": "01",
+        "title": "Webflow For Pages",
+        "body": "I design and host my entire site on Webflow. No dev needed, and it looks pro out of the box.",
+        "handle": "@stacked"
+      }
+    },
+    {
+      "layoutId": "body-retro-groovy",
+      "slots": {
+        "number": "02",
+        "title": "Notion For Ops",
+        "body": "Notion runs my entire back office. Docs, SOPs, and content calendars all live in one spot.",
+        "handle": "@stacked"
+      }
+    },
+    {
+      "layoutId": "body-retro-groovy",
+      "slots": {
+        "number": "03",
+        "title": "Airtable Tracks Leads",
+        "body": "All my data lives in Airtable. It handles my CRM, inventory, and project timelines without SQL.",
+        "handle": "@stacked"
+      }
+    },
+    {
+      "layoutId": "body-retro-groovy",
+      "slots": {
+        "number": "04",
+        "title": "Make Does Heavy Lifting",
+        "body": "Make moves data between apps while I sleep. Invoices, emails, and updates happen completely hands-free.",
+        "handle": "@stacked"
+      }
+    },
+    {
+      "layoutId": "body-retro-groovy",
+      "slots": {
+        "number": "05",
+        "title": "Stripe Takes Payments",
+        "body": "Stripe handles every charge and payout. It hooks straight into my site for one-click checkout.",
+        "handle": "@stacked"
+      }
+    },
+    {
+      "layoutId": "body-retro-groovy",
+      "slots": {
+        "number": "06",
+        "title": "ConvertKit Nurtures Leads",
+        "body": "ConvertKit sends sequences and launches products. My email automations print cash on autopilot daily.",
+        "handle": "@stacked"
+      }
+    },
+    {
+      "layoutId": "cta-retro-groovy",
+      "slots": {
+        "eyebrow": "FINAL TAKE",
+        "headline": "Build Your No-Code Stack",
+        "body": "Grab these six tools and launch today. You don't need code to scale.",
+        "buttonLabel": "Save This Post",
+        "handle": "@stacked"
+      }
+    }
+  ]
+}

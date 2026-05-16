@@ -1,0 +1,80 @@
+{
+  "id": "viral-content-groovy",
+  "brand": "CreatorCoach",
+  "brief": "6 viral content formats every creator should steal.",
+  "theme": "retro-groovy",
+  "slides": [
+    {
+      "layoutId": "cover-retro-groovy",
+      "slots": {
+        "title": "Steal these viral formats",
+        "ctaText": "Save these for your next post",
+        "handle": "@creatorcoach"
+      }
+    },
+    {
+      "layoutId": "body-retro-groovy",
+      "slots": {
+        "number": "01",
+        "title": "The Carousel Hook",
+        "body": "Carousels boost saves and shares because they pack multiple value bombs into one swipeable post. Start with a bold cover that stops the scroll instantly.",
+        "handle": "@creatorcoach"
+      }
+    },
+    {
+      "layoutId": "body-retro-groovy",
+      "slots": {
+        "number": "02",
+        "title": "Green Screen Takes",
+        "body": "React to trending clips or tweets using the green screen filter. It’s the fastest way to share hot takes without a fancy setup.",
+        "handle": "@creatorcoach"
+      }
+    },
+    {
+      "layoutId": "body-retro-groovy",
+      "slots": {
+        "number": "03",
+        "title": "Day In The Life",
+        "body": "Show the messy reality behind your polished brand. People crave relatable moments, so film your morning coffee or chaotic inbox.",
+        "handle": "@creatorcoach"
+      }
+    },
+    {
+      "layoutId": "body-retro-groovy",
+      "slots": {
+        "number": "04",
+        "title": "POV Story Hooks",
+        "body": "Drop viewers straight into the action with a strong point-of-view opener. It feels personal and triggers that irresistible curiosity gap.",
+        "handle": "@creatorcoach"
+      }
+    },
+    {
+      "layoutId": "body-retro-groovy",
+      "slots": {
+        "number": "05",
+        "title": "Hot Take Lists",
+        "body": "Combine a numbered list with a spicy opinion for instant engagement. Lists promise value, but your bold spin keeps them watching.",
+        "handle": "@creatorcoach"
+      }
+    },
+    {
+      "layoutId": "body-retro-groovy",
+      "slots": {
+        "number": "06",
+        "title": "Storytime Confessions",
+        "body": "Open with a wild hook like 'I messed up huge today,' then unpack the lesson. Drama plus wisdom equals gold.",
+        "handle": "@creatorcoach"
+      }
+    },
+    {
+      "layoutId": "cta-retro-groovy",
+      "slots": {
+        "eyebrow": "OVER TO YOU",
+        "headline": "Steal These Formats Today",
+        "body": "Pick one format and post it today. Your next viral hit is one swipe away.",
+        "buttonLabel": "Save This Post",
+        "handle": "@creatorcoach"
+      }
+    }
+  ]
+}

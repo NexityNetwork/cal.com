@@ -1,0 +1,79 @@
+{
+  "id": "kill-self-doubt-bold",
+  "brand": "MINDSET DOJO",
+  "brief": "5 ways to kill self-doubt before it kills you.",
+  "theme": "bold-split",
+  "slides": [
+    {
+      "layoutId": "cover-bold-split",
+      "slots": {
+        "title": "SELF-DOUBT IS KILLING YOU FIGHT BACK NOW",
+        "handle": "@themindsetdojo"
+      }
+    },
+    {
+      "layoutId": "body-bold-split",
+      "slots": {
+        "number": "01",
+        "title": "NAME THE INNER CRITIC NOW",
+        "body": "Self-doubt thrives in anonymity. Give it a ridiculous name and watch its power dissolve instantly.",
+        "handle": "@themindsetdojo"
+      }
+    },
+    {
+      "layoutId": "body-bold-split",
+      "slots": {
+        "number": "02",
+        "title": "MOVE BEFORE YOU FEEL READY",
+        "body": "Confidence follows action, not the other way around. Take one imperfect step today and let momentum rebuild your belief.",
+        "handle": "@themindsetdojo"
+      }
+    },
+    {
+      "layoutId": "body-bold-split",
+      "slots": {
+        "number": "03",
+        "title": "STACK PROOF YOU ARE CAPABLE",
+        "body": "Your brain deletes wins to protect you from risk. Write down three past victories and read them when fear speaks.",
+        "handle": "@themindsetdojo"
+      }
+    },
+    {
+      "layoutId": "body-bold-split",
+      "slots": {
+        "number": "04",
+        "title": "CUT WHAT FEEDS YOUR FEAR",
+        "body": "Audit who and what you consume daily. If it amplifies your anxiety, mute it without apology or second thought.",
+        "handle": "@themindsetdojo"
+      }
+    },
+    {
+      "layoutId": "body-bold-split",
+      "slots": {
+        "number": "05",
+        "title": "PLAY OUT THE WORST CASE",
+        "body": "Ask yourself what truly happens if you fail. Usually the cost is embarrassment, not death, and that is survivable.",
+        "handle": "@themindsetdojo"
+      }
+    },
+    {
+      "layoutId": "body-bold-split",
+      "slots": {
+        "number": "06",
+        "title": "USE THE THIRD PERSON TRICK",
+        "body": "Using your name instead of I creates distance. This simple language shift reduces emotional intensity and restores logical control.",
+        "handle": "@themindsetdojo"
+      }
+    },
+    {
+      "layoutId": "cta-bold-split",
+      "slots": {
+        "eyebrow": "YOUR MOVE",
+        "headline": "START WITH ONE TODAY",
+        "body": "Save this post and pick one tactic to use before noon. Your future self is waiting.",
+        "buttonLabel": "SAVE THIS",
+        "handle": "@themindsetdojo"
+      }
+    }
+  ]
+}

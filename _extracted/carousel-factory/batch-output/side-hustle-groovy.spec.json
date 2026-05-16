@@ -1,0 +1,80 @@
+{
+  "id": "side-hustle-groovy",
+  "brand": "HustlePop",
+  "brief": "The 5 side hustles printing money in 2026 — fun edition.",
+  "theme": "retro-groovy",
+  "slides": [
+    {
+      "layoutId": "cover-retro-groovy",
+      "slots": {
+        "title": "Side hustles 2026",
+        "ctaText": "Your fun money blueprint awaits",
+        "handle": "@hustlepop"
+      }
+    },
+    {
+      "layoutId": "body-retro-groovy",
+      "slots": {
+        "number": "01",
+        "title": "The Vibe Shift",
+        "body": "2026 is all about fun-first income. These five gigs pay big without killing your weekends. Let’s dive into the chaos.",
+        "handle": "@hustlepop"
+      }
+    },
+    {
+      "layoutId": "body-retro-groovy",
+      "slots": {
+        "number": "02",
+        "title": "AI Party Planner",
+        "body": "You prompt the decor, bots handle the rest. Clients pay premium for zero-stress birthdays. It’s like event planning on easy mode.",
+        "handle": "@hustlepop"
+      }
+    },
+    {
+      "layoutId": "body-retro-groovy",
+      "slots": {
+        "number": "03",
+        "title": "Nostalgia Flipper",
+        "body": "Scour thrift stores for Y2K gear and resell it online. Gen Z eats up butterfly clips and cargo pants. Profit margins are wild.",
+        "handle": "@hustlepop"
+      }
+    },
+    {
+      "layoutId": "body-retro-groovy",
+      "slots": {
+        "number": "04",
+        "title": "Micro Podcast Editor",
+        "body": "Everyone has a show but no one likes cutting audio. Offer same-day turnaround for a flat fee. Your laptop does the heavy lifting.",
+        "handle": "@hustlepop"
+      }
+    },
+    {
+      "layoutId": "body-retro-groovy",
+      "slots": {
+        "number": "05",
+        "title": "Digital Plant Doctor",
+        "body": "Charge folks to diagnose their droopy monstera over video. All you need is a green thumb and good lighting. It’s oddly therapeutic.",
+        "handle": "@hustlepop"
+      }
+    },
+    {
+      "layoutId": "body-retro-groovy",
+      "slots": {
+        "number": "06",
+        "title": "Rental Stylist",
+        "body": "Curate closets for weekend trips and ship the looks. People love an instant main-character moment. You just coordinate and collect cash.",
+        "handle": "@hustlepop"
+      }
+    },
+    {
+      "layoutId": "cta-retro-groovy",
+      "slots": {
+        "eyebrow": "OVER TO YOU",
+        "headline": "Pick Your Cash Cow",
+        "body": "Choose one hustle and start this weekend. Your future self will thank you.",
+        "buttonLabel": "Start Hustling",
+        "handle": "@hustlepop"
+      }
+    }
+  ]
+}

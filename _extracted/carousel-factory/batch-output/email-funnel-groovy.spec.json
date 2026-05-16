@@ -1,0 +1,80 @@
+{
+  "id": "email-funnel-groovy",
+  "brand": "FunnelStudio",
+  "brief": "How to build an email funnel that converts at 9%.",
+  "theme": "retro-groovy",
+  "slides": [
+    {
+      "layoutId": "cover-retro-groovy",
+      "slots": {
+        "title": "Email funnels that convert",
+        "ctaText": "Learn the exact system right here",
+        "handle": "@funnelstudio"
+      }
+    },
+    {
+      "layoutId": "body-retro-groovy",
+      "slots": {
+        "number": "01",
+        "title": "Map Your Lead Magnet",
+        "body": "Start with a freebie your dream customer actually wants. Keep it specific, valuable, and easy to consume in under five minutes.",
+        "handle": "@funnelstudio"
+      }
+    },
+    {
+      "layoutId": "body-retro-groovy",
+      "slots": {
+        "number": "02",
+        "title": "Write a Welcome Sequence",
+        "body": "Your first three emails build trust fast. Share your story, set expectations, and tease the transformation you deliver.",
+        "handle": "@funnelstudio"
+      }
+    },
+    {
+      "layoutId": "body-retro-groovy",
+      "slots": {
+        "number": "03",
+        "title": "Segment Your Subscribers",
+        "body": "Tag people based on what they click and buy. Segmented emails drive way more revenue than one-size-fits-all blasts.",
+        "handle": "@funnelstudio"
+      }
+    },
+    {
+      "layoutId": "body-retro-groovy",
+      "slots": {
+        "number": "04",
+        "title": "Sell With Storytelling",
+        "body": "Nobody likes a hard pitch. Use relatable stories, social proof, and a clear deadline to nudge readers toward the buy button.",
+        "handle": "@funnelstudio"
+      }
+    },
+    {
+      "layoutId": "body-retro-groovy",
+      "slots": {
+        "number": "05",
+        "title": "Optimize Your Subject Lines",
+        "body": "Test curiosity-driven hooks against direct benefit lines. Even a small bump in open rates can double your funnel revenue.",
+        "handle": "@funnelstudio"
+      }
+    },
+    {
+      "layoutId": "body-retro-groovy",
+      "slots": {
+        "number": "06",
+        "title": "Test and Scale Up",
+        "body": "Watch your metrics weekly and kill what flops. Once you hit nine percent, pour more traffic into the winning flow.",
+        "handle": "@funnelstudio"
+      }
+    },
+    {
+      "layoutId": "cta-retro-groovy",
+      "slots": {
+        "eyebrow": "OVER TO YOU",
+        "headline": "Build Your Funnel Now",
+        "body": "Steal the exact template and hit 9% conversions this quarter.",
+        "buttonLabel": "Grab the template",
+        "handle": "@funnelstudio"
+      }
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id": "anti-aging-beauty",
+  "brand": "AURELIA",
+  "brief": "The 6 anti-aging habits actually backed by science.",
+  "theme": "minimal-beauty",
+  "slides": [
+    {
+      "layoutId": "cover-minimal-beauty",
+      "slots": {
+        "handle": "@aurelia.skin",
+        "author": "DR. ELENA VOSS",
+        "role": "SKIN SPECIALIST",
+        "titleLine1": "AGING WELL",
+        "titleLine2": "IS A SCIENCE",
+        "titleLine3": "NOT CHANCE",
+        "subtitle": "SIX HABITS BACKED BY REAL SCIENCE"
+      }
+    },
+    {
+      "layoutId": "body-minimal-beauty",
+      "slots": {
+        "handle": "@aurelia.skin",
+        "author": "DR. ELENA VOSS",
+        "number": "STEP 01",
+        "title": "WEAR SPF DAILY",
+        "body": "Sunscreen is the single most effective anti-aging product available. Daily broad-spectrum SPF prevents collagen breakdown and dark spots. Think of it as your non-negotiable morning ritual."
+      }
+    },
+    {
+      "layoutId": "body-minimal-beauty",
+      "slots": {
+        "handle": "@aurelia.skin",
+        "author": "DR. ELENA VOSS",
+        "number": "STEP 02",
+        "title": "PRIORITIZE SLEEP",
+        "body": "Your skin repairs itself while you rest, making sleep essential for regeneration. Aim for seven to nine hours to support collagen production and reduce inflammation. A consistent bedtime is the ultimate luxury."
+      }
+    },
+    {
+      "layoutId": "body-minimal-beauty",
+      "slots": {
+        "handle": "@aurelia.skin",
+        "author": "DR. ELENA VOSS",
+        "number": "STEP 03",
+        "title": "USE RETINOIDS",
+        "body": "Retinoids are the gold standard for stimulating cell turnover. They smooth fine lines, even skin tone, and boost elasticity over time. Start low and slow to build tolerance gracefully."
+      }
+    },
+    {
+      "layoutId": "body-minimal-beauty",
+      "slots": {
+        "handle": "@aurelia.skin",
+        "author": "DR. ELENA VOSS",
+        "number": "STEP 04",
+        "title": "STAY HYDRATED",
+        "body": "Plump skin begins from within, so drink water consistently throughout the day. Combine internal hydration with a barrier-supporting moisturizer to lock in moisture. Dewy skin is simply well-hydrated skin."
+      }
+    },
+    {
+      "layoutId": "body-minimal-beauty",
+      "slots": {
+        "handle": "@aurelia.skin",
+        "author": "DR. ELENA VOSS",
+        "number": "STEP 05",
+        "title": "MANAGE STRESS",
+        "body": "Chronic stress elevates cortisol, which accelerates aging and impairs healing. Gentle rituals like breathwork or facial massage help regulate these hormones. Calm mind, calm complexion."
+      }
+    },
+    {
+      "layoutId": "body-minimal-beauty",
+      "slots": {
+        "handle": "@aurelia.skin",
+        "author": "DR. ELENA VOSS",
+        "number": "STEP 06",
+        "title": "EAT ANTIOXIDANTS",
+        "body": "A diet rich in colorful fruits and vegetables fights free radical damage. Vitamins C and E protect skin from oxidative stress and support a natural glow. Nourishment is visible on your face."
+      }
+    },
+    {
+      "layoutId": "cta-minimal-beauty",
+      "slots": {
+        "handle": "@aurelia.skin",
+        "author": "DR. ELENA VOSS",
+        "role": "SKIN SPECIALIST",
+        "eyebrow": "YOUR RITUAL",
+        "headline": "START TODAY",
+        "body": "Consistency transforms these habits into visible, lasting results. Begin your science-backed journey to radiant skin now.",
+        "buttonLabel": "BOOK A CONSULT"
+      }
+    }
+  ]
+}

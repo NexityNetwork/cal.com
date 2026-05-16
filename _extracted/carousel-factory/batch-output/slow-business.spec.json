@@ -1,0 +1,111 @@
+{
+  "id": "slow-business",
+  "brand": "SLOW BIZ",
+  "brief": "How to build a slow business that pays well and never burns out.",
+  "theme": "noir-yellow",
+  "slides": [
+    {
+      "layoutId": "cover-noir-yellow",
+      "slots": {
+        "brand": "SLOW BIZ",
+        "scriptPrefix": "Build",
+        "displayLine1": "A SLOW",
+        "displayLine2": "BUSINESS",
+        "displayLine3": "THAT PAYS",
+        "scriptTagline": "Work less, earn more, and never burn out again.",
+        "handle": "@theslowbiz",
+        "slideId": "Slide 01"
+      }
+    },
+    {
+      "layoutId": "body-noir-yellow",
+      "slots": {
+        "brand": "SLOW BIZ",
+        "scriptPrefix": "First",
+        "displayLine1": "DROP THE",
+        "displayLine2": "HUSTLE",
+        "displayLine3": "CULTURE",
+        "body": "Speed is a vanity metric. Sustainable profit comes from patience, not panic. Build systems that breathe.",
+        "handle": "@theslowbiz",
+        "slideId": "Slide 02"
+      }
+    },
+    {
+      "layoutId": "body-noir-yellow",
+      "slots": {
+        "brand": "SLOW BIZ",
+        "scriptPrefix": "Own",
+        "displayLine1": "ONE",
+        "displayLine2": "PROBLEM",
+        "displayLine3": "ONLY",
+        "body": "Generalists compete on price. Specialists command premium rates. Choose one painful problem and solve it better than anyone.",
+        "handle": "@theslowbiz",
+        "slideId": "Slide 03"
+      }
+    },
+    {
+      "layoutId": "body-noir-yellow",
+      "slots": {
+        "brand": "SLOW BIZ",
+        "scriptPrefix": "Price",
+        "displayLine1": "SAY NO",
+        "displayLine2": "TO CHEAP",
+        "displayLine3": "AND CHAOS",
+        "body": "Cheap clients demand the most energy. High prices attract respect and reduce volume. Fewer clients, richer margins.",
+        "handle": "@theslowbiz",
+        "slideId": "Slide 04"
+      }
+    },
+    {
+      "layoutId": "body-noir-yellow",
+      "slots": {
+        "brand": "SLOW BIZ",
+        "scriptPrefix": "Gate",
+        "displayLine1": "GUARD YOUR",
+        "displayLine2": "CALENDAR",
+        "displayLine3": "LIKE GOLD",
+        "body": "Availability is not a business model. Batch communication and protect deep work. Your brain is the product.",
+        "handle": "@theslowbiz",
+        "slideId": "Slide 05"
+      }
+    },
+    {
+      "layoutId": "body-noir-yellow",
+      "slots": {
+        "brand": "SLOW BIZ",
+        "scriptPrefix": "Loop",
+        "displayLine1": "REPEATABLE",
+        "displayLine2": "SYSTEMS",
+        "displayLine3": "BEAT GRIND",
+        "body": "Manual work scales linearly and kills freedom. Document every process once, then delegate or automate. The business runs while you sleep.",
+        "handle": "@theslowbiz",
+        "slideId": "Slide 06"
+      }
+    },
+    {
+      "layoutId": "body-noir-yellow",
+      "slots": {
+        "brand": "SLOW BIZ",
+        "scriptPrefix": "Stay",
+        "displayLine1": "COMPOUND",
+        "displayLine2": "TRUST AND",
+        "displayLine3": "REPUTATION",
+        "body": "Overnight success is a myth sold by the impatient. Compounding reputation and trust takes years. Start slow to stay forever.",
+        "handle": "@theslowbiz",
+        "slideId": "Slide 07"
+      }
+    },
+    {
+      "layoutId": "cta-noir-yellow",
+      "slots": {
+        "brand": "SLOW BIZ",
+        "scriptPrefix": "Begin",
+        "headline": "BUILD YOUR SLOW EMPIRE",
+        "scriptTagline": "Less noise, more profit, total freedom.",
+        "buttonLabel": "START TODAY",
+        "handle": "@theslowbiz",
+        "slideId": "Slide 08"
+      }
+    }
+  ]
+}
