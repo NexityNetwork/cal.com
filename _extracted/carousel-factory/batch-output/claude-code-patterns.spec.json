@@ -1,0 +1,160 @@
+{
+  "id": "claude-code-patterns",
+  "brand": "Claude Ops",
+  "brief": "8 Claude Code patterns that separate hobbyists from operators — concrete examples each.",
+  "theme": "mono-pattern",
+  "slides": [
+    {
+      "layoutId": "cover-mono-pattern",
+      "slots": {
+        "pageOf": "01 / 08",
+        "handle": "@claudeops",
+        "patternLabel": "INTRO",
+        "word1": "THE",
+        "word2": "CLAUDE CODE",
+        "word3": "PLAYBOOK",
+        "body": "Six concrete patterns that turn casual Claude users into production-grade operators. No theory—just the workflows that ship.",
+        "ctaText": "Swipe to Read More",
+        "rightNote": "6 patterns inside",
+        "footerLeft": "carousel · 01",
+        "footerRight": "@claudeops"
+      }
+    },
+    {
+      "layoutId": "body-mono-pattern",
+      "slots": {
+        "pageOf": "02 / 08",
+        "handle": "@claudeops",
+        "patternLabel": "PATTERN 01",
+        "titleWord1": "THE",
+        "titleWord2": "CONTEXT CONTRACT",
+        "body": "Operators write a CLAUDE.md manifest. Hobbyists re-explain the stack every session.",
+        "flow1": "Project Context",
+        "flow2": "CLAUDE.md — rules & stack",
+        "flow3": "Claude — loads on every /init",
+        "card1Key": "BEST FOR",
+        "card1Body": "Teams with >3 files or non-obvious architecture decisions that must survive sessions.",
+        "card2Key": "KEY INSIGHT",
+        "card2Body": "Context is cheaper than chat. One markdown file eliminates fifty repetitive prompts.",
+        "footerLeft": "carousel · 02",
+        "footerRight": "@claudeops"
+      }
+    },
+    {
+      "layoutId": "body-mono-pattern",
+      "slots": {
+        "pageOf": "03 / 08",
+        "handle": "@claudeops",
+        "patternLabel": "PATTERN 02",
+        "titleWord1": "THE",
+        "titleWord2": "TOOL CHAIN",
+        "body": "Operators wire MCP servers and custom slash commands. Hobbyists stop at default bash and edit.",
+        "flow1": "User Intent",
+        "flow2": "MCP Server — database / browser",
+        "flow3": "Claude — acts with live data",
+        "card1Key": "BEST FOR",
+        "card1Body": "Tasks needing real-time data, external APIs, or specialized validation beyond core IDE tools.",
+        "card2Key": "KEY INSIGHT",
+        "card2Body": "Claude without tools is a chatbot. Claude with tools is an autonomous operator.",
+        "footerLeft": "carousel · 03",
+        "footerRight": "@claudeops"
+      }
+    },
+    {
+      "layoutId": "body-mono-pattern",
+      "slots": {
+        "pageOf": "04 / 08",
+        "handle": "@claudeops",
+        "patternLabel": "PATTERN 03",
+        "titleWord1": "THE",
+        "titleWord2": "FEEDBACK LOOP",
+        "body": "Operators run /test and /review in tight loops. Hobbyists pray the code works after one pass.",
+        "flow1": "User Goal",
+        "flow2": "Generator Agent — writes code",
+        "flow3": "Critic Agent — /test then /review",
+        "card1Key": "BEST FOR",
+        "card1Body": "Any production code where hallucinated imports or logic bugs cost real debugging time.",
+        "card2Key": "KEY INSIGHT",
+        "card2Body": "Speed comes from cycles, not single prompts. The loop is the product.",
+        "footerLeft": "carousel · 04",
+        "footerRight": "@claudeops"
+      }
+    },
+    {
+      "layoutId": "body-mono-pattern",
+      "slots": {
+        "pageOf": "05 / 08",
+        "handle": "@claudeops",
+        "patternLabel": "PATTERN 04",
+        "titleWord1": "THE",
+        "titleWord2": "CHECKPOINT STRATEGY",
+        "body": "Operators commit before every experiment and /compact context before it bleeds. Hobbyists lose hours to rollback.",
+        "flow1": "Working State",
+        "flow2": "Git Commit — named checkpoint",
+        "flow3": "Experiment Branch — safe fail",
+        "card1Key": "BEST FOR",
+        "card1Body": "Long refactor sessions where Claude might touch twenty files or overwrite working logic.",
+        "card2Key": "KEY INSIGHT",
+        "card2Body": "Treat context like RAM and git like disk. Commit often; compact before swap.",
+        "footerLeft": "carousel · 05",
+        "footerRight": "@claudeops"
+      }
+    },
+    {
+      "layoutId": "body-mono-pattern",
+      "slots": {
+        "pageOf": "06 / 08",
+        "handle": "@claudeops",
+        "patternLabel": "PATTERN 05",
+        "titleWord1": "THE",
+        "titleWord2": "OUTPUT PROTOCOL",
+        "body": "Operators enforce JSON schemas and artifact tags. Hobbyists parse prose and pray for valid syntax.",
+        "flow1": "Structured Request",
+        "flow2": "Schema Lock — JSON mode on",
+        "flow3": "Validator — parses & routes",
+        "card1Key": "BEST FOR",
+        "card1Body": "Multi-step pipelines where downstream scripts consume Claude output without human cleanup.",
+        "card2Key": "KEY INSIGHT",
+        "card2Body": "Unstructured output is a demo. Structured output is infrastructure.",
+        "footerLeft": "carousel · 06",
+        "footerRight": "@claudeops"
+      }
+    },
+    {
+      "layoutId": "body-mono-pattern",
+      "slots": {
+        "pageOf": "07 / 08",
+        "handle": "@claudeops",
+        "patternLabel": "PATTERN 06",
+        "titleWord1": "THE",
+        "titleWord2": "AGENT HANDOFF",
+        "body": "Operators spawn architect, coder, and reviewer roles with @mentions. Hobbyists dump everything into one thread.",
+        "flow1": "Task Ticket",
+        "flow2": "Architect Agent — designs spec",
+        "flow3": "Coder Agent — implements",
+        "card1Key": "BEST FOR",
+        "card1Body": "Complex features where design constraints must survive implementation without drift.",
+        "card2Key": "KEY INSIGHT",
+        "card2Body": "One brain cannot hold design and debug state. Separate contexts preserve intent.",
+        "footerLeft": "carousel · 07",
+        "footerRight": "@claudeops"
+      }
+    },
+    {
+      "layoutId": "cta-mono-pattern",
+      "slots": {
+        "pageOf": "08 / 08",
+        "handle": "@claudeops",
+        "patternLabel": "OVER TO YOU",
+        "word1": "PICK",
+        "word2": "ONE PATTERN",
+        "body": "Deploy one pattern today. The gap between hobbyist and operator is one committed workflow.",
+        "quote": "Tools turn chat into infrastructure",
+        "buttonLabel": "Save this post",
+        "rightNote": "Share with your team",
+        "footerLeft": "carousel · 08",
+        "footerRight": "@claudeops"
+      }
+    }
+  ]
+}
