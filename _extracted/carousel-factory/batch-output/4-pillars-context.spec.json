@@ -1,0 +1,116 @@
+{
+  "id": "4-pillars-context",
+  "brand": "Context Engineering",
+  "brief": "The 4 pillars of context engineering — what you load, when, in what order, and why.",
+  "theme": "black-mindmap",
+  "slides": [
+    {
+      "layoutId": "cover-black-mindmap",
+      "slots": {
+        "handle": "@handle",
+        "pageLabel": "01 / 08",
+        "eyebrow": "SAVE THIS",
+        "headlineLine1": "The 4 Pillars of",
+        "headlineLine2": "Context Engineering",
+        "swipeNote": "swipe to see all 4"
+      }
+    },
+    {
+      "layoutId": "body-black-mindmap",
+      "slots": {
+        "handle": "@handle",
+        "pageLabel": "02 / 08",
+        "number": "1",
+        "title": "Load",
+        "pill1": "Relevant docs",
+        "pill2": "Full files",
+        "pill3": "No filtering",
+        "pill4": "Noise",
+        "pill5": "Bloat"
+      }
+    },
+    {
+      "layoutId": "body-black-mindmap",
+      "slots": {
+        "handle": "@handle",
+        "pageLabel": "03 / 08",
+        "number": "2",
+        "title": "Timing",
+        "pill1": "Right moment",
+        "pill2": "Too early",
+        "pill3": "Too late",
+        "pill4": "Missed",
+        "pill5": "Lag"
+      }
+    },
+    {
+      "layoutId": "body-black-mindmap",
+      "slots": {
+        "handle": "@handle",
+        "pageLabel": "04 / 08",
+        "number": "3",
+        "title": "Order",
+        "pill1": "Priority first",
+        "pill2": "Random dump",
+        "pill3": "Flat list",
+        "pill4": "Jumble",
+        "pill5": "Chaos"
+      }
+    },
+    {
+      "layoutId": "body-black-mindmap",
+      "slots": {
+        "handle": "@handle",
+        "pageLabel": "05 / 08",
+        "number": "4",
+        "title": "Intent",
+        "pill1": "Clear goal",
+        "pill2": "Vague ask",
+        "pill3": "No outcome",
+        "pill4": "Drift",
+        "pill5": "Blur"
+      }
+    },
+    {
+      "layoutId": "body-black-mindmap",
+      "slots": {
+        "handle": "@handle",
+        "pageLabel": "06 / 08",
+        "number": "5",
+        "title": "Mistakes",
+        "pill1": "Context bloat",
+        "pill2": "Wrong order",
+        "pill3": "Missing why",
+        "pill4": "Spam",
+        "pill5": "Skip"
+      }
+    },
+    {
+      "layoutId": "body-black-mindmap",
+      "slots": {
+        "handle": "@handle",
+        "pageLabel": "07 / 08",
+        "number": "6",
+        "title": "System",
+        "pill1": "Audit first",
+        "pill2": "Test order",
+        "pill3": "Track output",
+        "pill4": "Iterate",
+        "pill5": "Ship"
+      }
+    },
+    {
+      "layoutId": "cta-black-mindmap",
+      "slots": {
+        "handle": "@handle",
+        "pageLabel": "08 / 08",
+        "eyebrow": "YOUR MOVE",
+        "headlineLine1": "Engineer Your",
+        "headlineLine2": "Context Now",
+        "body": "Stop guessing what the model sees. Engineer context using load, timing, order, and intent.",
+        "buttonLabel": "Save this post",
+        "closing": "Tag a builder"
+      }
+    }
+  ]
+}
