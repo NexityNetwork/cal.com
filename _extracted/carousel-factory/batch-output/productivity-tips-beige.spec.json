@@ -1,0 +1,82 @@
+{
+  "id": "productivity-tips-beige",
+  "brand": "Studio Atlas",
+  "brief": "6 simple productivity tips from a designer who built a 7-figure studio. Calm, editorial tone. No bullshit.",
+  "theme": "beige-paper",
+  "slides": [
+    {
+      "layoutId": "cover-beige-serif",
+      "slots": {
+        "brand": "Studio Atlas",
+        "headline": "Six productivity rules that built a seven-figure studio",
+        "slideCountHero": "6"
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "Studio Atlas",
+        "number": "01",
+        "title": "Protect Your Mornings",
+        "body": "The first three hours are your most honest. Guard them for deep work and avoid the inbox until noon. Everything else can wait.",
+        "handle": "@studioatlas",
+        "domain": "studioatlas.com"
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "Studio Atlas",
+        "number": "02",
+        "title": "Batch Shallow Tasks",
+        "body": "Stop fragmenting your day with emails and Slack. Cluster administrative work into a single afternoon block. Momentum lives in long, uninterrupted stretches.",
+        "handle": "@studioatlas",
+        "domain": "studioatlas.com"
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "Studio Atlas",
+        "number": "03",
+        "title": "Default to No",
+        "body": "Every yes is a silent no to your own priorities. If an opportunity does not move the studio forward, decline with grace. Your calendar is a creative asset.",
+        "handle": "@studioatlas",
+        "domain": "studioatlas.com"
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "Studio Atlas",
+        "number": "04",
+        "title": "Curate Your Space",
+        "body": "Clutter is visual noise. A clean desk signals a clear mind. Invest in one beautiful tool rather than ten mediocre ones. Environment shapes output.",
+        "handle": "@studioatlas",
+        "domain": "studioatlas.com"
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "Studio Atlas",
+        "number": "05",
+        "title": "Review on Fridays",
+        "body": "Daily to-do lists breed anxiety. A single weekly review lets you align tasks with larger goals. Step back to see the forest, not just the trees.",
+        "handle": "@studioatlas",
+        "domain": "studioatlas.com"
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "Studio Atlas",
+        "number": "06",
+        "title": "Rest Without Guilt",
+        "body": "Burnout is not a badge of honor. Scheduled rest restores judgment and prevents expensive mistakes. A well-rested designer moves faster than an exhausted one.",
+        "handle": "@studioatlas",
+        "domain": "studioatlas.com"
+      }
+    }
+  ]
+}

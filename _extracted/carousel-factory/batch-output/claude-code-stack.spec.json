@@ -1,6 +1,6 @@
 {
   "id": "claude-code-stack",
-  "brand": "Ultron",
+  "brand": "Claude Code Stack",
   "brief": "The Claude Code stack a one-person founder uses to ship like a 10-person team. Each tool, what it does, why it matters.",
   "theme": "ember-dark",
   "slides": [
@@ -8,69 +8,63 @@
       "layoutId": "cover-display-cta",
       "slots": {
         "pageNumber": "01",
-        "headlineLine1": "Ship Like a",
-        "headlineLine2": "Ten Person Team",
-        "accentSuffix": "."
+        "headlineLine1": "Claude Code stack",
+        "headlineLine2": "for one founder",
+        "accentSuffix": "!"
       }
     },
     {
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "02",
-        "title": "1. GitHub, the repository",
-        "body": "Hosts code and runs CI/CD pipelines. Claude Code reads your entire repo context to write, test, and push features without breaking production.",
-        "iconSlug": "github",
-        "iconColor": "#FFFFFF"
+        "title": "2. Claude Code, the engineer",
+        "body": "It reads your entire codebase, writes features, fixes bugs, and runs tests. You describe what you want; it edits files and commits code. It cuts development time by half.",
+        "iconSlug": "anthropic"
       }
     },
     {
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "03",
-        "title": "2. Next.js, the framework",
-        "body": "Full-stack React with built-in routing and API routes. Claude Code generates pages, handlers, and middleware using your existing file patterns.",
-        "iconSlug": "nextdotjs",
-        "iconColor": "#FFFFFF"
+        "title": "3. Next.js, the frontend",
+        "body": "React framework with server components, API routes, and file-based routing built in. One codebase handles SEO, auth, and dynamic pages. It ships fast without configuring a server.",
+        "iconSlug": "nextdotjs"
       }
     },
     {
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "04",
-        "title": "3. Supabase, the backend",
-        "body": "Postgres database, auth, and storage in one platform. Claude Code writes SQL migrations and row-level security policies from your schema.",
-        "iconSlug": "supabase",
-        "iconColor": "#3ECF8E"
+        "title": "4. Vercel, the deployer",
+        "body": "Push to Git and your site builds, deploys, and updates globally in seconds. Preview branches test every pull request automatically. Zero DevOps overhead for a solo founder.",
+        "iconSlug": "vercel"
       }
     },
     {
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "05",
-        "title": "4. Stripe, the billing",
-        "body": "Processes subscriptions and one-off charges securely. Claude Code builds checkout sessions and webhook endpoints using your live API keys.",
-        "iconSlug": "stripe",
-        "iconColor": "#635BFF"
+        "title": "5. Supabase, the backend",
+        "body": "Postgres database, auth, and storage with a REST API auto-generated. Row-level security handles permissions without backend code. It replaces a dedicated backend engineer.",
+        "iconSlug": "supabase"
       }
     },
     {
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "06",
-        "title": "5. Linear, the tracker",
-        "body": "Tracks bugs, features, and sprints with speed. Claude Code turns Linear issues into pull requests and updates ticket status on merge.",
-        "iconSlug": "linear",
-        "iconColor": "#5E6AD2"
+        "title": "6. Stripe, the cashier",
+        "body": "Accept payments, manage subscriptions, and send invoices with a few API calls. Webhooks update your database when customers pay. Revenue runs on autopilot from day one.",
+        "iconSlug": "stripe"
       }
     },
     {
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "07",
-        "title": "6. Figma, the canvas",
-        "body": "Designs interfaces and prototypes before coding starts. Claude Code inspects exported frames to generate matching Tailwind markup and component props.",
-        "iconSlug": "figma",
-        "iconColor": "#F24E1E"
+        "title": "7. Figma, the designer",
+        "body": "Design interfaces, prototype interactions, and export assets in one file. Share links with stakeholders for instant feedback. No handoff gap means you ship pixels, not promises.",
+        "iconSlug": "figma"
       }
     }
   ]

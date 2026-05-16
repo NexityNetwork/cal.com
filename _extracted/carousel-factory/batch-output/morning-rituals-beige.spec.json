@@ -1,0 +1,82 @@
+{
+  "id": "morning-rituals-beige",
+  "brand": "Ochre & Stone",
+  "brief": "5 morning rituals that changed how I run my business. Quiet, mindful, specific.",
+  "theme": "beige-paper",
+  "slides": [
+    {
+      "layoutId": "cover-beige-serif",
+      "slots": {
+        "brand": "Ochre & Stone",
+        "headline": "Six Morning Rituals That Changed How I Run My Business",
+        "slideCountHero": "6"
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "Ochre & Stone",
+        "number": "01",
+        "title": "Rise in Darkness",
+        "body": "I wake at five, before the inbox begins its chatter. Those empty minutes belong entirely to me. It is the single most generous act I perform each day.",
+        "handle": "@ochreandstone",
+        "domain": "ochreandstone.com"
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "Ochre & Stone",
+        "number": "02",
+        "title": "Handwritten Intentions",
+        "body": "I fill one page with ink before opening any screen. The slowness of pen on paper untangles ambition from anxiety. Clarity rarely arrives in a rush.",
+        "handle": "@ochreandstone",
+        "domain": "ochreandstone.com"
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "Ochre & Stone",
+        "number": "03",
+        "title": "Solitary Walk",
+        "body": "I circle the block without headphones or destination. Footfalls replace notifications. By the time I return, my mind has quietly sorted what matters.",
+        "handle": "@ochreandstone",
+        "domain": "ochreandstone.com"
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "Ochre & Stone",
+        "number": "04",
+        "title": "Single Espresso",
+        "body": "I brew one cup with full attention: grind, bloom, pour. Treating a small ritual with reverence teaches patience that carries into difficult conversations.",
+        "handle": "@ochreandstone",
+        "domain": "ochreandstone.com"
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "Ochre & Stone",
+        "number": "05",
+        "title": "One Priority",
+        "body": "Before the day unfolds, I name the single task that would make tomorrow easier. Everything else becomes negotiable. Focus is a morning-born discipline.",
+        "handle": "@ochreandstone",
+        "domain": "ochreandstone.com"
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "Ochre & Stone",
+        "number": "06",
+        "title": "Breathe Deeply",
+        "body": "I sit for five minutes with eyes closed, counting each breath. It is not meditation for performance, but a quiet recalibration of the nervous system.",
+        "handle": "@ochreandstone",
+        "domain": "ochreandstone.com"
+      }
+    }
+  ]
+}

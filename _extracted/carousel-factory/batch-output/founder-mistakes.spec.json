@@ -1,15 +1,15 @@
 {
   "id": "founder-mistakes",
-  "brand": "Ultron",
-  "brief": "8 mistakes I made as a first-time founder that cost me $250K. What I'd do differently — concrete, no generic advice.",
+  "brand": "Founder Files",
+  "brief": "8 mistakes I made as a first-time founder that cost me $250K.",
   "theme": "ember-dark",
   "slides": [
     {
       "layoutId": "cover-display-cta",
       "slots": {
         "pageNumber": "01",
-        "headlineLine1": "8 Founder Mistakes",
-        "headlineLine2": "That Cost Me $250K",
+        "headlineLine1": "8 founder mistakes",
+        "headlineLine2": "that cost $250K",
         "accentSuffix": "!"
       }
     },
@@ -17,59 +17,54 @@
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "02",
-        "title": "1. Salaries, the silent killer",
-        "body": "I spent $94K on salaries for a product nobody wanted yet. Start with contractors and validate revenue first.",
-        "iconSlug": "linkedin",
-        "iconColor": "#0A66C2"
+        "title": "1. Validation, the skipped step",
+        "body": "I spent six months building features no one wanted. Three users signed up. Zero paid. Talk to customers before you write code.",
+        "iconSlug": "miro"
       }
     },
     {
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "03",
-        "title": "2. Product, the validation gap",
-        "body": "We spent $40K in dev time on features users never requested. Sell the promise first; build only after pre-orders.",
-        "iconSlug": "react",
-        "iconColor": "#61DAFB"
+        "title": "2. Hiring, the rushed fix",
+        "body": "I hired three senior engineers before product-market fit. Salaries burned $18K monthly. Hire slow, fire fast, stay lean.",
+        "iconSlug": "slack"
       }
     },
     {
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "04",
-        "title": "3. Vesting, the legal bomb",
-        "body": "A co-founder left month four with 40% equity locked up. We paid $30K in legal fees to unwind a handshake deal.",
-        "iconSlug": "stripe",
-        "iconColor": "#635BFF"
+        "title": "3. Burn rate, the ignored math",
+        "body": "We spent $40K on branding and swag while churn hit 12%. Fix retention before you fix the logo. Cash is oxygen.",
+        "iconSlug": "stripe"
       }
     },
     {
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "05",
-        "title": "4. Ads, the unit economics lie",
-        "body": "I poured $58K into Facebook campaigns with a $3 LTV. We never modeled payback period and bled cash instantly.",
-        "iconSlug": "instagram",
-        "iconColor": "#E4405F"
+        "title": "4. Perfection, the real enemy",
+        "body": "I rebuilt the dashboard four times before launch. Competitors shipped weekly and stole our leads. Ship scrappy, iterate daily.",
+        "iconSlug": "vercel"
       }
     },
     {
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "06",
-        "title": "5. Stack, the engineering vanity",
-        "body": "We ran Kubernetes and microservices for a hundred-user app. That infrastructure cost $16K in unused tooling and slowed every deployment.",
-        "iconSlug": "kubernetes",
-        "iconColor": "#326CE5"
+        "title": "5. Focus, the lost art",
+        "body": "We chased enterprise and SMB at the same time. Messaging diluted, sales cycles doubled. Pick one beachhead, dominate it, then expand.",
+        "iconSlug": "linear"
       }
     },
     {
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "07",
-        "title": "6. Terms, the control trap",
-        "body": "I accepted a 3x liquidation preference for a small check. It cost $20K in legal review and blocked future raises.",
-        "iconSlug": "notion"
+        "title": "6. Ego, the silent killer",
+        "body": "I refused to delegate product decisions. I worked 80-hour weeks and missed every signal. Founders scale by trusting their team.",
+        "iconSlug": "github"
       }
     }
   ]

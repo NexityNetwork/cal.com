@@ -1,0 +1,82 @@
+{
+  "id": "writing-tips-beige",
+  "brand": "Salford & Co.",
+  "brief": "6 writing tips for founders who hate writing. Editorial voice, gentle but pointed.",
+  "theme": "beige-paper",
+  "slides": [
+    {
+      "layoutId": "cover-beige-serif",
+      "slots": {
+        "brand": "Salford & Co.",
+        "headline": "Six Ways to Write Better Without Learning to Love It",
+        "slideCountHero": "6"
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "Salford & Co.",
+        "number": "01",
+        "title": "Talk It Out",
+        "body": "Record yourself explaining the idea to a patient friend, then transcribe the best sentences. Your voice already has the rhythm; you simply need to capture it on the page. Editing is far easier than facing a blank screen.",
+        "handle": "@salfordandco",
+        "domain": "salfordandco.com"
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "Salford & Co.",
+        "number": "02",
+        "title": "One Messy Sentence",
+        "body": "Start with an ugly first sentence that you would never show anyone. The goal is momentum, not perfection. You can polish a rough paragraph, but you cannot sculpt a blank document.",
+        "handle": "@salfordandco",
+        "domain": "salfordandco.com"
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "Salford & Co.",
+        "number": "03",
+        "title": "Kill Your Adverbs",
+        "body": "Strip away words that try too hard to persuade. Very, really, and incredibly are crutches that weaken your stance. Let your argument stand clean and unadorned; confidence speaks quietly.",
+        "handle": "@salfordandco",
+        "domain": "salfordandco.com"
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "Salford & Co.",
+        "number": "04",
+        "title": "Write the Reply",
+        "body": "Imagine a skeptical reader asking why this matters. Answer them directly, without jargon or performance. Writing becomes easier when you stop addressing a crowd and start talking to one person.",
+        "handle": "@salfordandco",
+        "domain": "salfordandco.com"
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "Salford & Co.",
+        "number": "05",
+        "title": "Read It Aloud",
+        "body": "If a sentence catches in your throat, it will trip your reader too. Trust your ear over every grammar rule. Clarity sounds like a conversation, not a press release.",
+        "handle": "@salfordandco",
+        "domain": "salfordandco.com"
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "Salford & Co.",
+        "number": "06",
+        "title": "Know When to Stop",
+        "body": "Perfectionism is often a disguise for fear. Ship the piece when it is clear and honest, not when it is flawless. Your reader wants your thinking, not your anxiety.",
+        "handle": "@salfordandco",
+        "domain": "salfordandco.com"
+      }
+    }
+  ]
+}
