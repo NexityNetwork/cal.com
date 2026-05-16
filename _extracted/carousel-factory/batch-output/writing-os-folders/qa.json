@@ -2,8 +2,8 @@
   "slides": [
     {
       "index": 0,
-      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/second-brain-3-folders/slide-01.png",
-      "bytes": 73742,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/writing-os-folders/slide-01.png",
+      "bytes": 75230,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -18,8 +18,8 @@
     },
     {
       "index": 1,
-      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/second-brain-3-folders/slide-02.png",
-      "bytes": 77919,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/writing-os-folders/slide-02.png",
+      "bytes": 85617,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -34,8 +34,8 @@
     },
     {
       "index": 2,
-      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/second-brain-3-folders/slide-03.png",
-      "bytes": 77968,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/writing-os-folders/slide-03.png",
+      "bytes": 90419,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -50,8 +50,8 @@
     },
     {
       "index": 3,
-      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/second-brain-3-folders/slide-04.png",
-      "bytes": 77924,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/writing-os-folders/slide-04.png",
+      "bytes": 87824,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -66,8 +66,8 @@
     },
     {
       "index": 4,
-      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/second-brain-3-folders/slide-05.png",
-      "bytes": 86850,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/writing-os-folders/slide-05.png",
+      "bytes": 93793,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -82,8 +82,8 @@
     },
     {
       "index": 5,
-      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/second-brain-3-folders/slide-06.png",
-      "bytes": 78134,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/writing-os-folders/slide-06.png",
+      "bytes": 92869,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -98,8 +98,8 @@
     },
     {
       "index": 6,
-      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/second-brain-3-folders/slide-07.png",
-      "bytes": 79070,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/writing-os-folders/slide-07.png",
+      "bytes": 85355,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -114,8 +114,8 @@
     },
     {
       "index": 7,
-      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/second-brain-3-folders/slide-08.png",
-      "bytes": 62508,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/writing-os-folders/slide-08.png",
+      "bytes": 70603,
       "qa": {
         "verdict": "pass",
         "checks": {
