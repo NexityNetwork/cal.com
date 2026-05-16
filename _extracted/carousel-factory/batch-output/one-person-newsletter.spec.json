@@ -1,0 +1,135 @@
+{
+  "id": "one-person-newsletter",
+  "brand": "SoloStack",
+  "brief": "The one-person newsletter stack pulling $40K/mo. 8 tools, 4 channels, zero employees.",
+  "theme": "rounded-card",
+  "slides": [
+    {
+      "layoutId": "cover-rounded-card",
+      "slots": {
+        "pageBadge": "01",
+        "headlineLine1": "The $40K Newsletter",
+        "headlineLine2": "one-person stack revealed",
+        "body": "An 8-tool, 4-channel system that prints cash with zero employees.",
+        "bodyAccent": "no team required."
+      }
+    },
+    {
+      "layoutId": "body-rounded-card",
+      "slots": {
+        "pageBadge": "02",
+        "handle": "@SoloStack",
+        "number": "01",
+        "title": "The 4 Channels",
+        "titleAccent": "that drive growth",
+        "body": "You only need Twitter, LinkedIn, a newsletter, and a lead magnet. Post daily, email weekly, and watch compounding take over.",
+        "ico1": "𝕏",
+        "ico2": "in",
+        "ico3": "✉",
+        "ico4": "🧲",
+        "nextNote": "the writing stack next",
+        "pageOf": "02 / 08"
+      }
+    },
+    {
+      "layoutId": "body-rounded-card",
+      "slots": {
+        "pageBadge": "03",
+        "handle": "@SoloStack",
+        "number": "02",
+        "title": "Writing & Editing",
+        "titleAccent": "in one place",
+        "body": "Notion handles drafts and content calendar. Grammarly polishes every sentence so you publish clean copy in minutes, not hours.",
+        "ico1": "📝",
+        "ico2": "✓",
+        "ico3": "📅",
+        "ico4": "⏱",
+        "nextNote": "design without designers",
+        "pageOf": "03 / 08"
+      }
+    },
+    {
+      "layoutId": "body-rounded-card",
+      "slots": {
+        "pageBadge": "04",
+        "handle": "@SoloStack",
+        "number": "03",
+        "title": "Visuals That",
+        "titleAccent": "stop the scroll",
+        "body": "Canva Pro builds carousels and header images fast. Remove.bg cleans photos instantly. No designer, no agency, no delay.",
+        "ico1": "🎨",
+        "ico2": "🖼",
+        "ico3": "✂",
+        "ico4": "👁",
+        "nextNote": "email automation secrets",
+        "pageOf": "04 / 08"
+      }
+    },
+    {
+      "layoutId": "body-rounded-card",
+      "slots": {
+        "pageBadge": "05",
+        "handle": "@SoloStack",
+        "number": "04",
+        "title": "Email Engine",
+        "titleAccent": "on autopilot",
+        "body": "Beehiiv sends newsletters and tracks revenue per subscriber. Buffer queues social posts across all four channels while you sleep.",
+        "ico1": "✉",
+        "ico2": "📊",
+        "ico3": "📬",
+        "ico4": "⚡",
+        "nextNote": "automate the boring stuff",
+        "pageOf": "05 / 08"
+      }
+    },
+    {
+      "layoutId": "body-rounded-card",
+      "slots": {
+        "pageBadge": "06",
+        "handle": "@SoloStack",
+        "number": "05",
+        "title": "Zapier Connects",
+        "titleAccent": "the workflow",
+        "body": "New subscriber triggers welcome sequence. Form entries become Notion tasks. If-this-then-that logic replaces an entire virtual assistant.",
+        "ico1": "🔗",
+        "ico2": "⚙",
+        "ico3": "🤖",
+        "ico4": "▶",
+        "nextNote": "data tells the truth",
+        "pageOf": "06 / 08"
+      }
+    },
+    {
+      "layoutId": "body-rounded-card",
+      "slots": {
+        "pageBadge": "07",
+        "handle": "@SoloStack",
+        "number": "06",
+        "title": "Track &",
+        "titleAccent": "monetize fast",
+        "body": "Stripe collects payments for premium tiers. Google Analytics shows which channel converts. Double down on what pays, kill what doesn't.",
+        "ico1": "💳",
+        "ico2": "📈",
+        "ico3": "🎯",
+        "ico4": "💰",
+        "nextNote": "your turn to build",
+        "pageOf": "07 / 08"
+      }
+    },
+    {
+      "layoutId": "cta-rounded-card",
+      "slots": {
+        "pageBadge": "08",
+        "handle": "@SoloStack",
+        "eyebrow": "YOUR TURN",
+        "headlineLine1": "Build Your Stack",
+        "headlineLine2": "this weekend",
+        "body": "Steal this exact 8-tool system and start scaling your newsletter before Monday. No hiring required.",
+        "buttonLabel": "Get the Cheatsheet",
+        "secondaryLabel": "Follow @SoloStack",
+        "footerLeft": "solostack.co",
+        "footerRight": "Free Guide"
+      }
+    }
+  ]
+}
