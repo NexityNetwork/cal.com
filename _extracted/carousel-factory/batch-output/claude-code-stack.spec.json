@@ -1,15 +1,15 @@
 {
   "id": "claude-code-stack",
-  "brand": "Claude Code Stack",
-  "brief": "The Claude Code stack a one-person founder uses to ship like a 10-person team. Each tool, what it does, why it matters.",
+  "brand": "Solo Founder Stack",
+  "brief": "The Claude Code stack a one-person founder uses to ship like a 10-person team.",
   "theme": "ember-dark",
   "slides": [
     {
       "layoutId": "cover-display-cta",
       "slots": {
         "pageNumber": "01",
-        "headlineLine1": "Claude Code stack",
-        "headlineLine2": "for one founder",
+        "headlineLine1": "Ship Like a Team",
+        "headlineLine2": "With Claude Code",
         "accentSuffix": "!"
       }
     },
@@ -17,8 +17,8 @@
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "02",
-        "title": "2. Claude Code, the engineer",
-        "body": "It reads your entire codebase, writes features, fixes bugs, and runs tests. You describe what you want; it edits files and commits code. It cuts development time by half.",
+        "title": "1. Anthropic, the engine",
+        "body": "Claude Code lives in your terminal. It reads, edits, and tests code across your entire codebase without context switching.",
         "iconSlug": "anthropic"
       }
     },
@@ -26,26 +26,26 @@
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "03",
-        "title": "3. Next.js, the frontend",
-        "body": "React framework with server components, API routes, and file-based routing built in. One codebase handles SEO, auth, and dynamic pages. It ships fast without configuring a server.",
-        "iconSlug": "nextdotjs"
+        "title": "2. GitHub, the workflow",
+        "body": "Store code, run CI/CD, and manage releases. Actions auto-deploy on every push so you never touch production manually.",
+        "iconSlug": "github"
       }
     },
     {
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "04",
-        "title": "4. Vercel, the deployer",
-        "body": "Push to Git and your site builds, deploys, and updates globally in seconds. Preview branches test every pull request automatically. Zero DevOps overhead for a solo founder.",
-        "iconSlug": "vercel"
+        "title": "3. Next.js, the frontend",
+        "body": "App Router, Server Components, and API routes in one framework. Vercel edge caching delivers sub-second loads globally.",
+        "iconSlug": "nextdotjs"
       }
     },
     {
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "05",
-        "title": "5. Supabase, the backend",
-        "body": "Postgres database, auth, and storage with a REST API auto-generated. Row-level security handles permissions without backend code. It replaces a dedicated backend engineer.",
+        "title": "4. Supabase, the backend",
+        "body": "Postgres database, auth, and real-time subscriptions without ops. Row-level security handles permissions while you focus on features.",
         "iconSlug": "supabase"
       }
     },
@@ -53,18 +53,18 @@
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "06",
-        "title": "6. Stripe, the cashier",
-        "body": "Accept payments, manage subscriptions, and send invoices with a few API calls. Webhooks update your database when customers pay. Revenue runs on autopilot from day one.",
-        "iconSlug": "stripe"
+        "title": "5. Vercel, the platform",
+        "body": "Zero-config deployments with preview branches for every PR. Analytics and speed insights keep performance visible without extra tools.",
+        "iconSlug": "vercel"
       }
     },
     {
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "07",
-        "title": "7. Figma, the designer",
-        "body": "Design interfaces, prototype interactions, and export assets in one file. Share links with stakeholders for instant feedback. No handoff gap means you ship pixels, not promises.",
-        "iconSlug": "figma"
+        "title": "6. Stripe, the revenue",
+        "body": "Billing, subscriptions, and invoicing with webhook-synced events. Claude writes the integration logic while you verify the dashboard.",
+        "iconSlug": "stripe"
       }
     }
   ]

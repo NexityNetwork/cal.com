@@ -1,0 +1,77 @@
+{
+  "id": "infra-stack-2026",
+  "brand": "StackShift",
+  "brief": "The new infra stack for AI startups in 2026 — bye Heroku, hello Cloudflare.",
+  "theme": "ember-dark",
+  "slides": [
+    {
+      "layoutId": "cover-display-cta",
+      "slots": {
+        "pageNumber": "01",
+        "headlineLine1": "Bye Heroku",
+        "headlineLine2": "Hello Cloudflare",
+        "accentSuffix": "!"
+      }
+    },
+    {
+      "layoutId": "body-icon-centered",
+      "slots": {
+        "pageNumber": "02",
+        "title": "1. Workers, the runtime",
+        "body": "Deploy globally in 300ms. Cloudflare Workers runs your inference at the edge, slashing latency and cost versus traditional containers.",
+        "iconSlug": "cloudflare",
+        "iconColor": "#F97316"
+      }
+    },
+    {
+      "layoutId": "body-icon-centered",
+      "slots": {
+        "pageNumber": "03",
+        "title": "2. Next.js, the framework",
+        "body": "The fullstack React framework for AI interfaces. Server Components stream LLM responses while Edge API routes handle auth and inference.",
+        "iconSlug": "nextdotjs",
+        "iconColor": "#F97316"
+      }
+    },
+    {
+      "layoutId": "body-icon-centered",
+      "slots": {
+        "pageNumber": "04",
+        "title": "3. Supabase, the database",
+        "body": "Postgres with real-time subscriptions and vector support. Store user data and embeddings in one place without managing connection pools.",
+        "iconSlug": "supabase",
+        "iconColor": "#F97316"
+      }
+    },
+    {
+      "layoutId": "body-icon-centered",
+      "slots": {
+        "pageNumber": "05",
+        "title": "4. OpenAI, the engine",
+        "body": "GPT-4o and o1 series power core reasoning. Use structured outputs and streaming to build agents that actually complete tasks.",
+        "iconSlug": "openai",
+        "iconColor": "#F97316"
+      }
+    },
+    {
+      "layoutId": "body-icon-centered",
+      "slots": {
+        "pageNumber": "06",
+        "title": "5. Redis, the cache",
+        "body": "Sub-millisecond caching for prompts and session state. Redis cuts LLM API costs and keeps user context hot between serverless invocations.",
+        "iconSlug": "redis",
+        "iconColor": "#F97316"
+      }
+    },
+    {
+      "layoutId": "body-icon-centered",
+      "slots": {
+        "pageNumber": "07",
+        "title": "6. GitHub, the pipeline",
+        "body": "CI/CD and version control for AI products. GitHub Actions deploy to Cloudflare on every push with preview branches for testing.",
+        "iconSlug": "github",
+        "iconColor": "#F97316"
+      }
+    }
+  ]
+}

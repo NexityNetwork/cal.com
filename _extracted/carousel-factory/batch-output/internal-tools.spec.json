@@ -1,0 +1,77 @@
+{
+  "id": "internal-tools",
+  "brand": "Stackwise",
+  "brief": "6 internal tools every AI startup ships in week 1 — concrete examples.",
+  "theme": "ember-dark",
+  "slides": [
+    {
+      "layoutId": "cover-display-cta",
+      "slots": {
+        "pageNumber": "01",
+        "headlineLine1": "Week One Stack",
+        "headlineLine2": "Six Internal Tools",
+        "accentSuffix": "!"
+      }
+    },
+    {
+      "layoutId": "body-icon-centered",
+      "slots": {
+        "pageNumber": "02",
+        "title": "1. Slack, the alert hub",
+        "body": "Pipe model failures and deployment notices into a single channel so the team reacts in seconds, not hours.",
+        "iconSlug": "slack",
+        "iconColor": "#F97316"
+      }
+    },
+    {
+      "layoutId": "body-icon-centered",
+      "slots": {
+        "pageNumber": "03",
+        "title": "2. Notion, the prompt vault",
+        "body": "Centralize every system prompt, few-shot example, and output template so context stays consistent across experiments.",
+        "iconSlug": "notion",
+        "iconColor": "#F97316"
+      }
+    },
+    {
+      "layoutId": "body-icon-centered",
+      "slots": {
+        "pageNumber": "04",
+        "title": "3. GitHub, the code gate",
+        "body": "Enforce pre-commit hooks, type checks, and LLM-generated test coverage before any branch reaches main.",
+        "iconSlug": "github",
+        "iconColor": "#F97316"
+      }
+    },
+    {
+      "layoutId": "body-icon-centered",
+      "slots": {
+        "pageNumber": "05",
+        "title": "4. Linear, the task router",
+        "body": "Tag bugs by model version and customer segment so engineers know exactly what to fix first.",
+        "iconSlug": "linear",
+        "iconColor": "#F97316"
+      }
+    },
+    {
+      "layoutId": "body-icon-centered",
+      "slots": {
+        "pageNumber": "06",
+        "title": "5. Supabase, the data layer",
+        "body": "Store user sessions, embeddings, and metadata in one Postgres instance with Row Level Security enabled.",
+        "iconSlug": "supabase",
+        "iconColor": "#F97316"
+      }
+    },
+    {
+      "layoutId": "body-icon-centered",
+      "slots": {
+        "pageNumber": "07",
+        "title": "6. Loom, the stand-in",
+        "body": "Record two-minute demos of model behavior to replace daily standups and keep remote teams aligned.",
+        "iconSlug": "loom",
+        "iconColor": "#F97316"
+      }
+    }
+  ]
+}

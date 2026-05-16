@@ -1,0 +1,77 @@
+{
+  "id": "ai-replaces-saas",
+  "brand": "Nexus",
+  "brief": "5 SaaS categories AI agents are killing in 2026 — and what to build instead.",
+  "theme": "ember-dark",
+  "slides": [
+    {
+      "layoutId": "cover-display-cta",
+      "slots": {
+        "pageNumber": "01",
+        "headlineLine1": "SaaS Is Dying",
+        "headlineLine2": "Build This Instead",
+        "accentSuffix": "!"
+      }
+    },
+    {
+      "layoutId": "body-icon-centered",
+      "slots": {
+        "pageNumber": "02",
+        "title": "1. Zapier, the victim",
+        "body": "Rule-based automation dies. Agents write integrations on the fly. Build agent-native orchestration that negotiates APIs dynamically.",
+        "iconSlug": "zapier",
+        "iconColor": "#FF4A00"
+      }
+    },
+    {
+      "layoutId": "body-icon-centered",
+      "slots": {
+        "pageNumber": "03",
+        "title": "2. Calendly, the relic",
+        "body": "Static booking links are dead. Agents negotiate time using context and priority. Build scheduling infrastructure that reasons about intent, not just availability.",
+        "iconSlug": "calendly",
+        "iconColor": "#006BFF"
+      }
+    },
+    {
+      "layoutId": "body-icon-centered",
+      "slots": {
+        "pageNumber": "04",
+        "title": "3. Notion, the archive",
+        "body": "Wikis rot because humans must update them. Agents should synthesize live knowledge from meetings, code, and Slack. Build self-updating knowledge graphs.",
+        "iconSlug": "notion",
+        "iconColor": "#FFFFFF"
+      }
+    },
+    {
+      "layoutId": "body-icon-centered",
+      "slots": {
+        "pageNumber": "05",
+        "title": "4. Slack, the noise",
+        "body": "Channel-based chat creates information debt. Agents will replace broadcasts with targeted delivery and action. Build agent-native coordination layers, not chatrooms.",
+        "iconSlug": "slack",
+        "iconColor": "#E01E5A"
+      }
+    },
+    {
+      "layoutId": "body-icon-centered",
+      "slots": {
+        "pageNumber": "06",
+        "title": "5. Figma, the canvas",
+        "body": "Design tools are glorified sketchpads. Agents generate interfaces from requirements and user data automatically. Build generative design systems that ship themselves.",
+        "iconSlug": "figma",
+        "iconColor": "#F24E1E"
+      }
+    },
+    {
+      "layoutId": "body-icon-centered",
+      "slots": {
+        "pageNumber": "07",
+        "title": "6. Infrastructure, the play",
+        "body": "Do not build another dashboard. Build the runtime, memory, and permission layers that let agents replace entire categories. The interface is the agent.",
+        "iconSlug": "langchain",
+        "iconColor": "#FF6B35"
+      }
+    }
+  ]
+}
