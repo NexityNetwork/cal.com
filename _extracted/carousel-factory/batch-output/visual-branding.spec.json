@@ -1,118 +1,118 @@
 {
   "id": "visual-branding",
-  "brand": "STUDIO VOLT",
+  "brand": "BOLDHOUSE",
   "brief": "5 visual branding mistakes killing your first impression on social media.",
   "theme": "coral-mag",
   "slides": [
     {
       "layoutId": "cover-coral-mag",
       "slots": {
-        "brand": "STUDIO VOLT",
+        "brand": "BOLDHOUSE",
         "issueLabel": "CAROUSEL POST",
         "issueTag": "DEEP DIVE",
-        "headWord1": "THE",
+        "headWord1": "FIVE",
         "headWord2": "VISUAL",
         "headWord3": "MISTAKES",
         "subEyebrow": "VISUAL BRANDING",
-        "subtitle": "Five visual branding mistakes killing your first impression.",
-        "handle": "@studiovolt"
+        "subtitle": "The visual errors destroying your first impression on social media.",
+        "handle": "@boldhouse"
       }
     },
     {
       "layoutId": "body-coral-mag",
       "slots": {
-        "brand": "STUDIO VOLT",
+        "brand": "BOLDHOUSE",
         "pageLabel": "P.02",
         "number": "01",
-        "eyebrow": "THE SETUP",
-        "titleWord1": "FIRST",
-        "titleWord2": "IMPRESSIONS",
-        "titleWord3": "COUNT",
-        "body": "You have three seconds to stop the scroll. If your visuals look scattered, prospects assume your business is too. Consistency is not a luxury—it is leverage.",
-        "handle": "@studiovolt"
-      }
-    },
-    {
-      "layoutId": "body-coral-mag",
-      "slots": {
-        "brand": "STUDIO VOLT",
-        "pageLabel": "P.03",
-        "number": "02",
         "eyebrow": "MISTAKE 01",
         "titleWord1": "RANDOM",
         "titleWord2": "COLORS",
-        "titleWord3": "EVERYWHERE",
-        "body": "Using every trending shade destroys recognition. A scattered palette signals amateur work and confuses your audience instantly. Pick three core colors and lock them in.",
-        "handle": "@studiovolt"
+        "titleWord3": "& FONTS",
+        "body": "Using a different palette or typeface on every post trains your audience to scroll past. Consistency builds recognition and trust in seconds.",
+        "handle": "@boldhouse"
       }
     },
     {
       "layoutId": "body-coral-mag",
       "slots": {
-        "brand": "STUDIO VOLT",
+        "brand": "BOLDHOUSE",
+        "pageLabel": "P.03",
+        "number": "02",
+        "eyebrow": "MISTAKE 02",
+        "titleWord1": "CHEAP",
+        "titleWord2": "STOCK",
+        "titleWord3": "PHOTOS",
+        "body": "Blurry screenshots and overused stock models signal amateur hour. High-quality custom visuals position you as premium before a word is read.",
+        "handle": "@boldhouse"
+      }
+    },
+    {
+      "layoutId": "body-coral-mag",
+      "slots": {
+        "brand": "BOLDHOUSE",
         "pageLabel": "P.04",
         "number": "03",
-        "eyebrow": "MISTAKE 02",
-        "titleWord1": "MIXED",
-        "titleWord2": "FONTS",
-        "titleWord3": "CHAOS",
-        "body": "Jumping between serif, script, and sans looks chaotic. Too many typefaces fracture your identity and dilute credibility. Choose one hero font and one readable body font.",
-        "handle": "@studiovolt"
+        "eyebrow": "MISTAKE 03",
+        "titleWord1": "CROWDED",
+        "titleWord2": "LAYOUTS",
+        "titleWord3": "EVERYWHERE",
+        "body": "Cramming every inch with text and graphics overwhelms the viewer. Strategic white space directs attention and makes content digestible.",
+        "handle": "@boldhouse"
       }
     },
     {
       "layoutId": "body-coral-mag",
       "slots": {
-        "brand": "STUDIO VOLT",
+        "brand": "BOLDHOUSE",
         "pageLabel": "P.05",
         "number": "04",
-        "eyebrow": "MISTAKE 03",
-        "titleWord1": "LOW",
-        "titleWord2": "QUALITY",
-        "titleWord3": "ASSETS",
-        "body": "Blurry stock photos and pixelated graphics scream neglect. Poor image quality undermines trust before a single word is read. Invest in sharp, original photography or curated visuals.",
-        "handle": "@studiovolt"
+        "eyebrow": "MISTAKE 04",
+        "titleWord1": "WRONG",
+        "titleWord2": "SIZE",
+        "titleWord3": "& CROP",
+        "body": "Posting square graphics as Reels covers or cutting off headlines looks careless. Every platform demands specific ratios for maximum impact.",
+        "handle": "@boldhouse"
       }
     },
     {
       "layoutId": "body-coral-mag",
       "slots": {
-        "brand": "STUDIO VOLT",
+        "brand": "BOLDHOUSE",
         "pageLabel": "P.06",
         "number": "05",
-        "eyebrow": "MISTAKE 04",
-        "titleWord1": "NO",
-        "titleWord2": "GRID",
-        "titleWord3": "SYSTEM",
-        "body": "Layouts that float without structure feel accidental. Misaligned elements create visual noise and fatigue the viewer. Build on a consistent grid to guide the eye with confidence.",
-        "handle": "@studiovolt"
+        "eyebrow": "MISTAKE 05",
+        "titleWord1": "WEAK",
+        "titleWord2": "FOCUS",
+        "titleWord3": "POINTS",
+        "body": "When everything screams, nothing is heard. A clear hierarchy guides the eye from headline to body to action without confusion.",
+        "handle": "@boldhouse"
       }
     },
     {
       "layoutId": "body-coral-mag",
       "slots": {
-        "brand": "STUDIO VOLT",
+        "brand": "BOLDHOUSE",
         "pageLabel": "P.07",
         "number": "06",
-        "eyebrow": "MISTAKE 05",
-        "titleWord1": "COPYING",
-        "titleWord2": "TRENDS",
-        "titleWord3": "BLINDLY",
-        "body": "Mimicking viral aesthetics makes you invisible in a sea of sameness. Trends expire, but strategy endures. Anchor your visuals to brand values, not temporary hype.",
-        "handle": "@studiovolt"
+        "eyebrow": "THE FIX",
+        "titleWord1": "CLEAN",
+        "titleWord2": "BOLD",
+        "titleWord3": "CONSISTENT",
+        "body": "Audit your last nine posts. If they don't look like a family, start over. A tight visual system turns scrollers into followers today.",
+        "handle": "@boldhouse"
       }
     },
     {
       "layoutId": "cta-coral-mag",
       "slots": {
-        "brand": "STUDIO VOLT",
-        "pageOf": "P.08",
+        "brand": "BOLDHOUSE",
+        "pageOf": "08 / 08",
         "tag": "YOUR MOVE",
         "headWord1": "SAVE",
         "headWord2": "THIS",
-        "body": "Audit your profile today and fix these mistakes before your next post. Your brand will thank you.",
-        "buttonLabel": "Follow for more",
-        "handle": "@studiovolt"
+        "body": "Bookmark this checklist and audit your profile before your next post goes live.",
+        "buttonLabel": "FOLLOW FOR MORE",
+        "handle": "@boldhouse"
       }
     }
   ]

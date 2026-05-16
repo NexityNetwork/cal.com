@@ -1,0 +1,116 @@
+{
+  "id": "grief-and-growth",
+  "brand": "Sage Bloom",
+  "brief": "How grief becomes growth — 5 truths nobody tells you about healing.",
+  "theme": "pastel-soft",
+  "slides": [
+    {
+      "layoutId": "cover-pastel-soft",
+      "slots": {
+        "authorInitials": "SB",
+        "authorName": "Sage Bloom",
+        "handle": "@sagebloom",
+        "tagBlue": "Self Growth",
+        "tagPink": "Healing",
+        "titleLine1": "How to",
+        "titleLine2": "actually",
+        "titleLine3": "grow from grief",
+        "subtitle": "The truths nobody tells you about turning pain into quiet strength.",
+        "ctaLabel": "Read below",
+        "slideCount": "8"
+      }
+    },
+    {
+      "layoutId": "body-pastel-soft",
+      "slots": {
+        "authorName": "Sage Bloom",
+        "pageOf": "2 / 8",
+        "number": "1",
+        "numberLabel": "Truth",
+        "titleMain": "Grief has",
+        "titleItalic": "no timeline",
+        "body": "Society rushes you to move on, but healing unfolds at its own pace. Honoring your rhythm is the first act of self-compassion.",
+        "handle": "@sagebloom"
+      }
+    },
+    {
+      "layoutId": "body-pastel-soft",
+      "slots": {
+        "authorName": "Sage Bloom",
+        "pageOf": "3 / 8",
+        "number": "2",
+        "numberLabel": "Truth",
+        "titleMain": "Growth is",
+        "titleItalic": "nonlinear",
+        "body": "Some days you soar; others you crumble. Both are sacred. Progress is not a straight line, but a gentle spiral upward.",
+        "handle": "@sagebloom"
+      }
+    },
+    {
+      "layoutId": "body-pastel-soft",
+      "slots": {
+        "authorName": "Sage Bloom",
+        "pageOf": "4 / 8",
+        "number": "3",
+        "numberLabel": "Truth",
+        "titleMain": "Pain can",
+        "titleItalic": "transform",
+        "body": "What breaks you also builds you. Over time, sorrow softens into empathy, and your scars become quiet maps of resilience.",
+        "handle": "@sagebloom"
+      }
+    },
+    {
+      "layoutId": "body-pastel-soft",
+      "slots": {
+        "authorName": "Sage Bloom",
+        "pageOf": "5 / 8",
+        "number": "4",
+        "numberLabel": "Truth",
+        "titleMain": "True joy",
+        "titleItalic": "coexists",
+        "body": "You do not betray your loss by laughing again. Joy and grief can hold hands, creating space for a fuller heart.",
+        "handle": "@sagebloom"
+      }
+    },
+    {
+      "layoutId": "body-pastel-soft",
+      "slots": {
+        "authorName": "Sage Bloom",
+        "pageOf": "6 / 8",
+        "number": "5",
+        "numberLabel": "Truth",
+        "titleMain": "You are",
+        "titleItalic": "never alone",
+        "body": "Isolation whispers lies. Reaching out, even in silence, weaves connection. There are others who understand and will sit with your pain.",
+        "handle": "@sagebloom"
+      }
+    },
+    {
+      "layoutId": "body-pastel-soft",
+      "slots": {
+        "authorName": "Sage Bloom",
+        "pageOf": "7 / 8",
+        "number": "6",
+        "numberLabel": "Truth",
+        "titleMain": "That love",
+        "titleItalic": "remains",
+        "body": "What you loved does not disappear. It changes shape, becoming a gentle presence that walks beside you into your new dawn.",
+        "handle": "@sagebloom"
+      }
+    },
+    {
+      "layoutId": "cta-pastel-soft",
+      "slots": {
+        "authorName": "Sage Bloom",
+        "pageOf": "8 / 8",
+        "eyebrow": "YOUR TURN",
+        "headlineMain": "Keep this",
+        "headlineItalic": "close",
+        "body": "Healing is brave. Save these truths for the days you need a soft reminder that you are still growing.",
+        "buttonLabel": "Save this",
+        "secondaryLabel": "Share with a friend",
+        "handle": "@sagebloom"
+      }
+    }
+  ]
+}
