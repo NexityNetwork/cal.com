@@ -1,0 +1,88 @@
+{
+  "id": "self-talk-mist",
+  "brand": "STILLWATER",
+  "brief": "How to rewrite negative self-talk — 5 calm practices.",
+  "theme": "purple-mist",
+  "slides": [
+    {
+      "layoutId": "cover-purple-mist",
+      "slots": {
+        "brand": "STILLWATER",
+        "handle": "@stillwaterwellness",
+        "pageOf": "1 / 8",
+        "searchQuery": "How to rewrite negative self-talk"
+      }
+    },
+    {
+      "layoutId": "body-purple-mist",
+      "slots": {
+        "brand": "STILLWATER",
+        "handle": "@stillwaterwellness",
+        "pageOf": "2 / 8",
+        "stepLabel": "NOTICE FIRST:",
+        "body": "Your inner voice shapes your days more than any outside noise ever could."
+      }
+    },
+    {
+      "layoutId": "body-purple-mist",
+      "slots": {
+        "brand": "STILLWATER",
+        "handle": "@stillwaterwellness",
+        "pageOf": "3 / 8",
+        "stepLabel": "STEP ONE:",
+        "body": "Name the thought without judgment. Say, 'I am having the thought that...' and let it soften."
+      }
+    },
+    {
+      "layoutId": "body-purple-mist",
+      "slots": {
+        "brand": "STILLWATER",
+        "handle": "@stillwaterwellness",
+        "pageOf": "4 / 8",
+        "stepLabel": "STEP TWO:",
+        "body": "Ask gently, 'Is this true?' Hold the story lightly until kindness finds its way in."
+      }
+    },
+    {
+      "layoutId": "body-purple-mist",
+      "slots": {
+        "brand": "STILLWATER",
+        "handle": "@stillwaterwellness",
+        "pageOf": "5 / 8",
+        "stepLabel": "STEP THREE:",
+        "body": "Rewrite one sentence. Trade 'I always fail' for 'I am learning, and that is enough.'"
+      }
+    },
+    {
+      "layoutId": "body-purple-mist",
+      "slots": {
+        "brand": "STILLWATER",
+        "handle": "@stillwaterwellness",
+        "pageOf": "6 / 8",
+        "stepLabel": "STEP FOUR:",
+        "body": "Place a hand on your heart. Speak to yourself as you would a dear friend."
+      }
+    },
+    {
+      "layoutId": "body-purple-mist",
+      "slots": {
+        "brand": "STILLWATER",
+        "handle": "@stillwaterwellness",
+        "pageOf": "7 / 8",
+        "stepLabel": "STEP FIVE:",
+        "body": "Repeat the new phrase slowly. Let it settle like breath until it feels like home."
+      }
+    },
+    {
+      "layoutId": "cta-purple-mist",
+      "slots": {
+        "brand": "STILLWATER",
+        "handle": "@stillwaterwellness",
+        "eyebrow": "YOUR RITUAL",
+        "headline": "Begin again, gently",
+        "body": "Healing happens in the smallest shifts. Return to these steps whenever your thoughts feel heavy.",
+        "buttonLabel": "Save This Ritual"
+      }
+    }
+  ]
+}

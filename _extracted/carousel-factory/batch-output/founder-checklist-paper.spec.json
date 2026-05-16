@@ -1,0 +1,99 @@
+{
+  "id": "founder-checklist-paper",
+  "brand": "Founder Studio",
+  "brief": "The Founder's Daily Checklist: how I stay focused and sane.",
+  "theme": "paper-fold",
+  "slides": [
+    {
+      "layoutId": "cover-paper-fold",
+      "slots": {
+        "eyebrow": "ENTREPRENEURSHIP",
+        "headline": "The Founder's Daily Checklist: How I Stay Focused and Sane",
+        "ctaText": "Swipe through",
+        "author": "Founder Studio"
+      }
+    },
+    {
+      "layoutId": "body-paper-fold",
+      "slots": {
+        "eyebrow": "ENTREPRENEURSHIP",
+        "pageOf": "01 / 06",
+        "number": "01",
+        "numberLabel": "Step",
+        "title": "Own Your Morning",
+        "body": "Start the day with intention before opening email. I protect my first hour for <span class=\"highlight\">deep work</span> and a quick walk. It sets the tone for everything that follows.",
+        "author": "Founder Studio"
+      }
+    },
+    {
+      "layoutId": "body-paper-fold",
+      "slots": {
+        "eyebrow": "ENTREPRENEURSHIP",
+        "pageOf": "02 / 06",
+        "number": "02",
+        "numberLabel": "Step",
+        "title": "Eat The Frog",
+        "body": "Tackle your hardest task before lunch when your energy is highest. I schedule <span class=\"highlight\">one big win</span> before noon to avoid afternoon dread.",
+        "author": "Founder Studio"
+      }
+    },
+    {
+      "layoutId": "body-paper-fold",
+      "slots": {
+        "eyebrow": "ENTREPRENEURSHIP",
+        "pageOf": "03 / 06",
+        "number": "03",
+        "numberLabel": "Step",
+        "title": "Batch Your Meetings",
+        "body": "Context switching destroys momentum. I cluster calls on Tuesdays and Thursdays so Mondays and Wednesdays stay <span class=\"highlight\">meeting-free zones</span> for building.",
+        "author": "Founder Studio"
+      }
+    },
+    {
+      "layoutId": "body-paper-fold",
+      "slots": {
+        "eyebrow": "ENTREPRENEURSHIP",
+        "pageOf": "04 / 06",
+        "number": "04",
+        "numberLabel": "Step",
+        "title": "Set Hard Boundaries",
+        "body": "Founders burn out by being always on. I set a <span class=\"highlight\">shutdown ritual</span> at 6 PM and mute Slack after hours to protect recovery.",
+        "author": "Founder Studio"
+      }
+    },
+    {
+      "layoutId": "body-paper-fold",
+      "slots": {
+        "eyebrow": "ENTREPRENEURSHIP",
+        "pageOf": "05 / 06",
+        "number": "05",
+        "numberLabel": "Step",
+        "title": "Review Weekly Wins",
+        "body": "Daily lists feel endless without reflection. Every Friday I write three <span class=\"highlight\">small victories</span> to stay motivated and adjust priorities.",
+        "author": "Founder Studio"
+      }
+    },
+    {
+      "layoutId": "body-paper-fold",
+      "slots": {
+        "eyebrow": "ENTREPRENEURSHIP",
+        "pageOf": "06 / 06",
+        "number": "06",
+        "numberLabel": "Step",
+        "title": "Sleep Is Non-Negotiable",
+        "body": "Everything breaks when you're exhausted. I aim for seven hours and keep my phone <span class=\"highlight\">out of reach</span> by 10 PM.",
+        "author": "Founder Studio"
+      }
+    },
+    {
+      "layoutId": "cta-paper-fold",
+      "slots": {
+        "eyebrow": "YOUR TURN",
+        "headline": "Build Your Focus Checklist Now",
+        "body": "Steal my template and customize it to your rhythm. Small habits keep founders sane and scaling.",
+        "buttonLabel": "Grab the template",
+        "author": "Founder Studio"
+      }
+    }
+  ]
+}

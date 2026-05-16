@@ -1,0 +1,108 @@
+{
+  "id": "notion-stack-y2k",
+  "brand": "Studio Noe",
+  "brief": "5 Notion Templates every creator uses to run their business.",
+  "theme": "y2k-window",
+  "slides": [
+    {
+      "layoutId": "cover-y2k-window",
+      "slots": {
+        "authorInitials": "SN",
+        "authorName": "Noé Ellis",
+        "handle": "@noebuilds",
+        "number": "5",
+        "firstWord": "Notion",
+        "secondLine": "Templates",
+        "thirdLine": "For Creators",
+        "subtitle": "To Run Your Business",
+        "websiteUrl": "noecreates.com"
+      }
+    },
+    {
+      "layoutId": "body-y2k-window",
+      "slots": {
+        "authorInitials": "SN",
+        "authorName": "Noé Ellis",
+        "handle": "@noebuilds",
+        "number": "1",
+        "title": "Content Calendar",
+        "body": "Plan posts, track ideas, and never miss a publish date again.",
+        "websiteUrl": "noecreates.com"
+      }
+    },
+    {
+      "layoutId": "body-y2k-window",
+      "slots": {
+        "authorInitials": "SN",
+        "authorName": "Noé Ellis",
+        "handle": "@noebuilds",
+        "number": "2",
+        "title": "Project Tracker",
+        "body": "Manage launches from brainstorm to final delivery in one database view.",
+        "websiteUrl": "noecreates.com"
+      }
+    },
+    {
+      "layoutId": "body-y2k-window",
+      "slots": {
+        "authorInitials": "SN",
+        "authorName": "Noé Ellis",
+        "handle": "@noebuilds",
+        "number": "3",
+        "title": "Sponsor Pipeline",
+        "body": "Track brand deals, pitch statuses, and payment dates without the chaos.",
+        "websiteUrl": "noecreates.com"
+      }
+    },
+    {
+      "layoutId": "body-y2k-window",
+      "slots": {
+        "authorInitials": "SN",
+        "authorName": "Noé Ellis",
+        "handle": "@noebuilds",
+        "number": "4",
+        "title": "Finance Hub",
+        "body": "Monitor income streams, expenses, and quarterly profit with auto-calculated dashboards.",
+        "websiteUrl": "noecreates.com"
+      }
+    },
+    {
+      "layoutId": "body-y2k-window",
+      "slots": {
+        "authorInitials": "SN",
+        "authorName": "Noé Ellis",
+        "handle": "@noebuilds",
+        "number": "5",
+        "title": "Product Vault",
+        "body": "Store templates, courses, and lead magnets with linked sales and delivery pages.",
+        "websiteUrl": "noecreates.com"
+      }
+    },
+    {
+      "layoutId": "body-y2k-window",
+      "slots": {
+        "authorInitials": "SN",
+        "authorName": "Noé Ellis",
+        "handle": "@noebuilds",
+        "number": "6",
+        "title": "Creator Dashboard",
+        "body": "Link every template into one command center so nothing slips through cracks.",
+        "websiteUrl": "noecreates.com"
+      }
+    },
+    {
+      "layoutId": "cta-y2k-window",
+      "slots": {
+        "authorInitials": "SN",
+        "authorName": "Noé Ellis",
+        "handle": "@noebuilds",
+        "eyebrow": "YOUR TURN",
+        "headlineMain": "SAVE THIS",
+        "accentLine": "POST NOW",
+        "body": "Which template will you build first? Comment below and tag a creator friend.",
+        "buttonLabel": "Save this post",
+        "websiteUrl": "noecreates.com"
+      }
+    }
+  ]
+}

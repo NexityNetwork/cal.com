@@ -1,0 +1,88 @@
+{
+  "id": "morning-mist",
+  "brand": "STILL POINT",
+  "brief": "5 gentle morning rituals to start the day grounded.",
+  "theme": "purple-mist",
+  "slides": [
+    {
+      "layoutId": "cover-purple-mist",
+      "slots": {
+        "brand": "STILL POINT",
+        "handle": "@stillpoint.well",
+        "pageOf": "1 / 8",
+        "searchQuery": "How to begin the day gently grounded"
+      }
+    },
+    {
+      "layoutId": "body-purple-mist",
+      "slots": {
+        "brand": "STILL POINT",
+        "handle": "@stillpoint.well",
+        "pageOf": "2 / 8",
+        "stepLabel": "STEP ONE:",
+        "body": "Before you reach for your phone, take three slow breaths and let your shoulders drop away from your ears."
+      }
+    },
+    {
+      "layoutId": "body-purple-mist",
+      "slots": {
+        "brand": "STILL POINT",
+        "handle": "@stillpoint.well",
+        "pageOf": "3 / 8",
+        "stepLabel": "STEP TWO:",
+        "body": "Drink warm water with lemon and feel the quiet gratitude of a body waking without hurry."
+      }
+    },
+    {
+      "layoutId": "body-purple-mist",
+      "slots": {
+        "brand": "STILL POINT",
+        "handle": "@stillpoint.well",
+        "pageOf": "4 / 8",
+        "stepLabel": "STEP THREE:",
+        "body": "Step outside barefoot for two minutes. Let the earth hold you while the sky opens above."
+      }
+    },
+    {
+      "layoutId": "body-purple-mist",
+      "slots": {
+        "brand": "STILL POINT",
+        "handle": "@stillpoint.well",
+        "pageOf": "5 / 8",
+        "stepLabel": "STEP FOUR:",
+        "body": "Write three lines in a journal. No edits, no judgment, only honest thoughts spilled gently onto the page."
+      }
+    },
+    {
+      "layoutId": "body-purple-mist",
+      "slots": {
+        "brand": "STILL POINT",
+        "handle": "@stillpoint.well",
+        "pageOf": "6 / 8",
+        "stepLabel": "STEP FIVE:",
+        "body": "Stretch your arms overhead and whisper one kind intention before the noise of the world arrives."
+      }
+    },
+    {
+      "layoutId": "body-purple-mist",
+      "slots": {
+        "brand": "STILL POINT",
+        "handle": "@stillpoint.well",
+        "pageOf": "7 / 8",
+        "stepLabel": "CLOSING NOTE:",
+        "body": "You do not need an hour to honor the morning. Five mindful minutes are enough to begin again."
+      }
+    },
+    {
+      "layoutId": "cta-purple-mist",
+      "slots": {
+        "brand": "STILL POINT",
+        "handle": "@stillpoint.well",
+        "eyebrow": "YOUR RITUAL",
+        "headline": "Start slow, stay soft",
+        "body": "Return to these small practices whenever the world feels too loud. Your peace is always within reach.",
+        "buttonLabel": "Save This Ritual"
+      }
+    }
+  ]
+}

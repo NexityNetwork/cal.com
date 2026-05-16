@@ -1,0 +1,99 @@
+{
+  "id": "weekly-review-paper",
+  "brand": "FounderOS",
+  "brief": "The weekly review framework every founder needs (and most skip).",
+  "theme": "paper-fold",
+  "slides": [
+    {
+      "layoutId": "cover-paper-fold",
+      "slots": {
+        "eyebrow": "ENTREPRENEURSHIP",
+        "headline": "The Weekly Review Framework Every Founder Needs (And Most Skip)",
+        "ctaText": "Swipe through",
+        "author": "FounderOS"
+      }
+    },
+    {
+      "layoutId": "body-paper-fold",
+      "slots": {
+        "eyebrow": "ENTREPRENEURSHIP",
+        "pageOf": "01 / 06",
+        "number": "01",
+        "numberLabel": "Step",
+        "title": "Clear Your Inboxes",
+        "body": "Gather every loose thread from email, Slack, and notes into one trusted inbox. <span class=\"highlight\">Brain clarity</span> starts with capturing it all. Don't judge yet, just collect.",
+        "author": "FounderOS"
+      }
+    },
+    {
+      "layoutId": "body-paper-fold",
+      "slots": {
+        "eyebrow": "ENTREPRENEURSHIP",
+        "pageOf": "02 / 06",
+        "number": "02",
+        "numberLabel": "Step",
+        "title": "Score Your Week",
+        "body": "Look back at your calendar and to-do list. What actually moved the needle? Mark <span class=\"highlight\">wins and gaps</span> honestly so you learn instead of repeat.",
+        "author": "FounderOS"
+      }
+    },
+    {
+      "layoutId": "body-paper-fold",
+      "slots": {
+        "eyebrow": "ENTREPRENEURSHIP",
+        "pageOf": "03 / 06",
+        "number": "03",
+        "numberLabel": "Step",
+        "title": "Triage Open Items",
+        "body": "Run each task through a simple filter: delete, delegate, defer, or do. If it takes <span class=\"highlight\">under two minutes</span>, handle it now and clear the noise.",
+        "author": "FounderOS"
+      }
+    },
+    {
+      "layoutId": "body-paper-fold",
+      "slots": {
+        "eyebrow": "ENTREPRENEURSHIP",
+        "pageOf": "04 / 06",
+        "number": "04",
+        "numberLabel": "Step",
+        "title": "Align to Goals",
+        "body": "Check your monthly objectives and quarterly targets. Are your upcoming priorities <span class=\"highlight\">actually aligned</span> or just busy work? Adjust before the week starts.",
+        "author": "FounderOS"
+      }
+    },
+    {
+      "layoutId": "body-paper-fold",
+      "slots": {
+        "eyebrow": "ENTREPRENEURSHIP",
+        "pageOf": "05 / 06",
+        "number": "05",
+        "numberLabel": "Step",
+        "title": "Map Next Week",
+        "body": "Block time for deep work, meetings, and buffer zones. Assign each big rock to a <span class=\"highlight\">specific day</span> so you begin Monday with intent, not chaos.",
+        "author": "FounderOS"
+      }
+    },
+    {
+      "layoutId": "body-paper-fold",
+      "slots": {
+        "eyebrow": "ENTREPRENEURSHIP",
+        "pageOf": "06 / 06",
+        "number": "06",
+        "numberLabel": "Step",
+        "title": "Close the Loop",
+        "body": "Journal one lesson, one gratitude, and one intention. This <span class=\"highlight\">five-minute ritual</span> seals the week and protects your mindset going forward.",
+        "author": "FounderOS"
+      }
+    },
+    {
+      "layoutId": "cta-paper-fold",
+      "slots": {
+        "eyebrow": "YOUR TURN",
+        "headline": "Run Your Review This Sunday",
+        "body": "Save this framework and block 30 minutes this weekend. Your future self will thank you.",
+        "buttonLabel": "Get the guide",
+        "author": "FounderOS"
+      }
+    }
+  ]
+}

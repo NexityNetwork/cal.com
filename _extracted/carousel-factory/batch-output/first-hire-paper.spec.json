@@ -1,0 +1,99 @@
+{
+  "id": "first-hire-paper",
+  "brand": "FounderFuel",
+  "brief": "The first 5 hires that change everything in your startup.",
+  "theme": "paper-fold",
+  "slides": [
+    {
+      "layoutId": "cover-paper-fold",
+      "slots": {
+        "eyebrow": "ENTREPRENEURSHIP",
+        "headline": "The First Five\nHires That Make\nor Break Your\nStartup",
+        "ctaText": "Swipe through",
+        "author": "FounderFuel"
+      }
+    },
+    {
+      "layoutId": "body-paper-fold",
+      "slots": {
+        "eyebrow": "ENTREPRENEURSHIP",
+        "pageOf": "1 / 6",
+        "number": "01",
+        "numberLabel": "Setup",
+        "title": "Hiring Order Matters",
+        "body": "Your first five hires set the DNA of your company forever. Get the sequence wrong and you burn cash. Get it right and you build an <span class=\"highlight\">unstoppable team</span>.",
+        "author": "FounderFuel"
+      }
+    },
+    {
+      "layoutId": "body-paper-fold",
+      "slots": {
+        "eyebrow": "ENTREPRENEURSHIP",
+        "pageOf": "2 / 6",
+        "number": "02",
+        "numberLabel": "Hire",
+        "title": "The Product Builder",
+        "body": "Before you sell anything, someone has to build it. Your first hire should be a <span class=\"highlight\">technical builder</span> who turns your vision into working product fast and scrappy.",
+        "author": "FounderFuel"
+      }
+    },
+    {
+      "layoutId": "body-paper-fold",
+      "slots": {
+        "eyebrow": "ENTREPRENEURSHIP",
+        "pageOf": "3 / 6",
+        "number": "03",
+        "numberLabel": "Hire",
+        "title": "The Design Thinker",
+        "body": "Users judge your product in seconds. A great designer crafts the experience so it feels <span class=\"highlight\">intuitive and premium</span> without needing a massive budget.",
+        "author": "FounderFuel"
+      }
+    },
+    {
+      "layoutId": "body-paper-fold",
+      "slots": {
+        "eyebrow": "ENTREPRENEURSHIP",
+        "pageOf": "4 / 6",
+        "number": "04",
+        "numberLabel": "Hire",
+        "title": "The Growth Engine",
+        "body": "Building in silence is a trap. Hire someone obsessed with <span class=\"highlight\">customer acquisition</span> who can sell the dream before the product is perfect.",
+        "author": "FounderFuel"
+      }
+    },
+    {
+      "layoutId": "body-paper-fold",
+      "slots": {
+        "eyebrow": "ENTREPRENEURSHIP",
+        "pageOf": "5 / 6",
+        "number": "05",
+        "numberLabel": "Hire",
+        "title": "The Systems Operator",
+        "body": "Chaos scales quickly. You need a detail-obsessed operator who builds <span class=\"highlight\">processes and rhythm</span> so the team executes without your constant input.",
+        "author": "FounderFuel"
+      }
+    },
+    {
+      "layoutId": "body-paper-fold",
+      "slots": {
+        "eyebrow": "ENTREPRENEURSHIP",
+        "pageOf": "6 / 6",
+        "number": "06",
+        "numberLabel": "Hire",
+        "title": "The Customer Champion",
+        "body": "Retention beats acquisition in the early days. This hire turns feedback into <span class=\"highlight\">product velocity</span> and makes users feel genuinely heard.",
+        "author": "FounderFuel"
+      }
+    },
+    {
+      "layoutId": "cta-paper-fold",
+      "slots": {
+        "eyebrow": "YOUR TURN",
+        "headline": "Who Will You Hire First?",
+        "body": "Download our complete hiring playbook and build an A-player team from day one.",
+        "buttonLabel": "Get the guide",
+        "author": "FounderFuel"
+      }
+    }
+  ]
+}

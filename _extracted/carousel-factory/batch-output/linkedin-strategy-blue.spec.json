@@ -1,0 +1,126 @@
+{
+  "id": "linkedin-strategy-blue",
+  "brand": "Alex Chen",
+  "brief": "The LinkedIn strategy that built me a 6-figure consulting pipeline.",
+  "theme": "blue-italic",
+  "slides": [
+    {
+      "layoutId": "cover-blue-italic",
+      "slots": {
+        "handle": "@alexchen",
+        "websiteUrl": "www.alexchen.com",
+        "accentLine": "6 Steps",
+        "sub1": "To Building A",
+        "sub2": "Consulting Pipeline",
+        "strip": "LINKEDIN GROWTH STRATEGY",
+        "authorInitials": "AC",
+        "authorName": "Alex Chen",
+        "authorRole": "Consultant"
+      }
+    },
+    {
+      "layoutId": "body-blue-italic",
+      "slots": {
+        "handle": "@alexchen",
+        "websiteUrl": "www.alexchen.com",
+        "number": "1",
+        "numberLabel": "Step",
+        "title": "Optimize Your Profile for Conversions",
+        "stripText": "FOUNDATION FIRST",
+        "body": "Your profile is your landing page. Use a clear headline that speaks to client pain points, not just your job title. Include a compelling call-to-action in your featured section.",
+        "authorInitials": "AC",
+        "authorName": "Alex Chen",
+        "authorRole": "Consultant"
+      }
+    },
+    {
+      "layoutId": "body-blue-italic",
+      "slots": {
+        "handle": "@alexchen",
+        "websiteUrl": "www.alexchen.com",
+        "number": "2",
+        "numberLabel": "Step",
+        "title": "Define Three Content Pillars",
+        "stripText": "CONTENT CLARITY",
+        "body": "Focus on industry insights, client case studies, and personal lessons. This builds authority while showing real-world results. Consistency beats virality when attracting serious buyers.",
+        "authorInitials": "AC",
+        "authorName": "Alex Chen",
+        "authorRole": "Consultant"
+      }
+    },
+    {
+      "layoutId": "body-blue-italic",
+      "slots": {
+        "handle": "@alexchen",
+        "websiteUrl": "www.alexchen.com",
+        "number": "3",
+        "numberLabel": "Step",
+        "title": "Post Valuable Insights Daily",
+        "stripText": "STAY VISIBLE",
+        "body": "Share one thoughtful post every weekday. Teach something useful from your consulting work. Visibility compounds when your audience begins relying on your expertise.",
+        "authorInitials": "AC",
+        "authorName": "Alex Chen",
+        "authorRole": "Consultant"
+      }
+    },
+    {
+      "layoutId": "body-blue-italic",
+      "slots": {
+        "handle": "@alexchen",
+        "websiteUrl": "www.alexchen.com",
+        "number": "4",
+        "numberLabel": "Step",
+        "title": "Engage With Target Accounts Daily",
+        "stripText": "MEANINGFUL REACH",
+        "body": "Spend twenty minutes commenting on posts from ideal clients and industry leaders. Add genuine insights, not generic praise. This builds recognition before you ever send a pitch.",
+        "authorInitials": "AC",
+        "authorName": "Alex Chen",
+        "authorRole": "Consultant"
+      }
+    },
+    {
+      "layoutId": "body-blue-italic",
+      "slots": {
+        "handle": "@alexchen",
+        "websiteUrl": "www.alexchen.com",
+        "number": "5",
+        "numberLabel": "Step",
+        "title": "Send Contextual Direct Messages",
+        "stripText": "WARM OUTREACH",
+        "body": "Reach out only after meaningful engagement. Reference their recent post or a shared connection. Keep your message short and focused on starting a conversation, not selling.",
+        "authorInitials": "AC",
+        "authorName": "Alex Chen",
+        "authorRole": "Consultant"
+      }
+    },
+    {
+      "layoutId": "body-blue-italic",
+      "slots": {
+        "handle": "@alexchen",
+        "websiteUrl": "www.alexchen.com",
+        "number": "6",
+        "numberLabel": "Step",
+        "title": "Create a Simple Lead Capture",
+        "stripText": "CLOSE THE LOOP",
+        "body": "Link to a calendar or newsletter in every post. Make it effortless for interested prospects to take the next step. One clear path converts followers into paying clients.",
+        "authorInitials": "AC",
+        "authorName": "Alex Chen",
+        "authorRole": "Consultant"
+      }
+    },
+    {
+      "layoutId": "cta-blue-italic",
+      "slots": {
+        "handle": "@alexchen",
+        "websiteUrl": "www.alexchen.com",
+        "eyebrow": "YOUR TURN",
+        "headline": "Start Building Today",
+        "body": "Which step will you implement first? Drop a comment below and let me know how I can help.",
+        "buttonLabel": "Book a call",
+        "authorInitials": "AC",
+        "authorName": "Alex Chen",
+        "authorRole": "Consultant"
+      }
+    }
+  ]
+}

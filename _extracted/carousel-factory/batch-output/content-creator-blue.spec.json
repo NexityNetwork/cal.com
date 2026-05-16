@@ -1,0 +1,126 @@
+{
+  "id": "content-creator-blue",
+  "brand": "ContentAlex",
+  "brief": "3 Tips for becoming a content creator in today's world.",
+  "theme": "blue-italic",
+  "slides": [
+    {
+      "layoutId": "cover-blue-italic",
+      "slots": {
+        "handle": "@contentalex",
+        "websiteUrl": "www.contentalex.com",
+        "accentLine": "3 Tips",
+        "sub1": "For becoming a true",
+        "sub2": "content creator today",
+        "strip": "IN TODAY'S WORLD",
+        "authorInitials": "AC",
+        "authorName": "Alex Carter",
+        "authorRole": "Content Strategist"
+      }
+    },
+    {
+      "layoutId": "body-blue-italic",
+      "slots": {
+        "handle": "@contentalex",
+        "websiteUrl": "www.contentalex.com",
+        "number": "1",
+        "numberLabel": "Step",
+        "title": "Pick a niche you love",
+        "stripText": "FIND FOCUS",
+        "body": "Choose a topic you can discuss for hours without getting bored. Passion fuels consistency when motivation fades.",
+        "authorInitials": "AC",
+        "authorName": "Alex Carter",
+        "authorRole": "Content Strategist"
+      }
+    },
+    {
+      "layoutId": "body-blue-italic",
+      "slots": {
+        "handle": "@contentalex",
+        "websiteUrl": "www.contentalex.com",
+        "number": "2",
+        "numberLabel": "Step",
+        "title": "Study your audience deeply",
+        "stripText": "KNOW THEM",
+        "body": "Read comments, forums, and reviews to learn what your audience actually needs. Speak their language directly.",
+        "authorInitials": "AC",
+        "authorName": "Alex Carter",
+        "authorRole": "Content Strategist"
+      }
+    },
+    {
+      "layoutId": "body-blue-italic",
+      "slots": {
+        "handle": "@contentalex",
+        "websiteUrl": "www.contentalex.com",
+        "number": "3",
+        "numberLabel": "Step",
+        "title": "Build simple content pillars",
+        "stripText": "STAY ORGANIZED",
+        "body": "Create three repeatable themes that guide your posts. Pillars eliminate guesswork and keep your message cohesive.",
+        "authorInitials": "AC",
+        "authorName": "Alex Carter",
+        "authorRole": "Content Strategist"
+      }
+    },
+    {
+      "layoutId": "body-blue-italic",
+      "slots": {
+        "handle": "@contentalex",
+        "websiteUrl": "www.contentalex.com",
+        "number": "4",
+        "numberLabel": "Step",
+        "title": "Batch your creation process",
+        "stripText": "WORK SMARTER",
+        "body": "Film or write several pieces in one focused session. Batching protects your energy and maintains a steady presence.",
+        "authorInitials": "AC",
+        "authorName": "Alex Carter",
+        "authorRole": "Content Strategist"
+      }
+    },
+    {
+      "layoutId": "body-blue-italic",
+      "slots": {
+        "handle": "@contentalex",
+        "websiteUrl": "www.contentalex.com",
+        "number": "5",
+        "numberLabel": "Step",
+        "title": "Engage with your community",
+        "stripText": "BUILD TRUST",
+        "body": "Reply to every comment and message within your first hour. Genuine conversations turn followers into loyal advocates.",
+        "authorInitials": "AC",
+        "authorName": "Alex Carter",
+        "authorRole": "Content Strategist"
+      }
+    },
+    {
+      "layoutId": "body-blue-italic",
+      "slots": {
+        "handle": "@contentalex",
+        "websiteUrl": "www.contentalex.com",
+        "number": "6",
+        "numberLabel": "Step",
+        "title": "Track metrics and iterate fast",
+        "stripText": "GROW FASTER",
+        "body": "Analyze what works weekly and double down on it. Data-driven tweaks compound into exponential audience growth.",
+        "authorInitials": "AC",
+        "authorName": "Alex Carter",
+        "authorRole": "Content Strategist"
+      }
+    },
+    {
+      "layoutId": "cta-blue-italic",
+      "slots": {
+        "handle": "@contentalex",
+        "websiteUrl": "www.contentalex.com",
+        "eyebrow": "YOUR TURN",
+        "headline": "Start creating today",
+        "body": "Ready to turn your knowledge into a thriving content brand? Let's build your strategy together.",
+        "buttonLabel": "Book a call",
+        "authorInitials": "AC",
+        "authorName": "Alex Carter",
+        "authorRole": "Content Strategist"
+      }
+    }
+  ]
+}

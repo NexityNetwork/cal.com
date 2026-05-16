@@ -1,0 +1,99 @@
+{
+  "id": "raise-money-paper",
+  "brand": "STUDIO N",
+  "brief": "How to raise your first round — 6 lessons from a 2nd-time founder.",
+  "theme": "paper-fold",
+  "slides": [
+    {
+      "layoutId": "cover-paper-fold",
+      "slots": {
+        "eyebrow": "ENTREPRENEURSHIP",
+        "headline": "How to Raise Your First Round: 6 Lessons From a Second-Time Founder",
+        "ctaText": "Swipe through",
+        "author": "STUDIO N"
+      }
+    },
+    {
+      "layoutId": "body-paper-fold",
+      "slots": {
+        "eyebrow": "FUNDRAISING",
+        "pageOf": "01 / 06",
+        "number": "01",
+        "numberLabel": "Lesson",
+        "title": "Build Relationships Early",
+        "body": "Investors bet on lines, not dots. Start <span class=\"highlight\">building trust</span> six months before you need the check, and warm intros will convert faster than cold emails.",
+        "author": "STUDIO N"
+      }
+    },
+    {
+      "layoutId": "body-paper-fold",
+      "slots": {
+        "eyebrow": "FUNDRAISING",
+        "pageOf": "02 / 06",
+        "number": "02",
+        "numberLabel": "Lesson",
+        "title": "Story Beats Data",
+        "body": "Your deck is not a spreadsheet. Craft a <span class=\"highlight\">compelling narrative</span> around the problem, your insight, and the future you are uniquely positioned to build.",
+        "author": "STUDIO N"
+      }
+    },
+    {
+      "layoutId": "body-paper-fold",
+      "slots": {
+        "eyebrow": "FUNDRAISING",
+        "pageOf": "03 / 06",
+        "number": "03",
+        "numberLabel": "Lesson",
+        "title": "Pick the Right Partner",
+        "body": "Chasing the highest valuation can backfire. Optimize for <span class=\"highlight\">aligned incentives</span> and an investor who will actually pick up the phone when things break.",
+        "author": "STUDIO N"
+      }
+    },
+    {
+      "layoutId": "body-paper-fold",
+      "slots": {
+        "eyebrow": "FUNDRAISING",
+        "pageOf": "04 / 06",
+        "number": "04",
+        "numberLabel": "Lesson",
+        "title": "Prep Your Diligence Room",
+        "body": "Due diligence delays kill momentum. Have a <span class=\"highlight\">clean data room</span> ready before the first meeting so you can capitalize on investor excitement immediately.",
+        "author": "STUDIO N"
+      }
+    },
+    {
+      "layoutId": "body-paper-fold",
+      "slots": {
+        "eyebrow": "FUNDRAISING",
+        "pageOf": "05 / 06",
+        "number": "05",
+        "numberLabel": "Lesson",
+        "title": "Speed Creates FOMO",
+        "body": "A slow round signals weakness. Run a tight <span class=\"highlight\">fundraising process</span> with a clear timeline to force decisions and create competitive urgency.",
+        "author": "STUDIO N"
+      }
+    },
+    {
+      "layoutId": "body-paper-fold",
+      "slots": {
+        "eyebrow": "FUNDRAISING",
+        "pageOf": "06 / 06",
+        "number": "06",
+        "numberLabel": "Lesson",
+        "title": "Cash in the Bank",
+        "body": "Term sheets are just paper. The round is not done until <span class=\"highlight\">money hits the bank</span>, so keep backup options alive until the wire clears.",
+        "author": "STUDIO N"
+      }
+    },
+    {
+      "layoutId": "cta-paper-fold",
+      "slots": {
+        "eyebrow": "YOUR TURN",
+        "headline": "Ready to Close Your Round?",
+        "body": "Download the full fundraising checklist and avoid the mistakes that slow first-time founders down.",
+        "buttonLabel": "Grab the checklist",
+        "author": "STUDIO N"
+      }
+    }
+  ]
+}

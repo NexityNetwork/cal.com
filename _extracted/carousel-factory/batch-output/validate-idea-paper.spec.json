@@ -1,0 +1,99 @@
+{
+  "id": "validate-idea-paper",
+  "brand": "Launch Lab",
+  "brief": "How to validate a startup idea in 14 days — 6 concrete tests.",
+  "theme": "paper-fold",
+  "slides": [
+    {
+      "layoutId": "cover-paper-fold",
+      "slots": {
+        "eyebrow": "ENTREPRENEURSHIP",
+        "headline": "Validate Your Startup Idea in Just 14 Days With Six Hard Tests",
+        "ctaText": "Check details",
+        "author": "Launch Lab"
+      }
+    },
+    {
+      "layoutId": "body-paper-fold",
+      "slots": {
+        "eyebrow": "VALIDATION",
+        "pageOf": "01 / 06",
+        "number": "01",
+        "numberLabel": "Test",
+        "title": "Run Problem Interviews",
+        "body": "Talk to ten potential customers about their daily frustrations. Never mention your idea; listen for <span class=\"highlight\">pain signals</span> and existing workarounds. If nobody complains, <span class=\"highlight\">pivot early</span>.",
+        "author": "Launch Lab"
+      }
+    },
+    {
+      "layoutId": "body-paper-fold",
+      "slots": {
+        "eyebrow": "VALIDATION",
+        "pageOf": "02 / 06",
+        "number": "02",
+        "numberLabel": "Test",
+        "title": "Build a Smoke Test",
+        "body": "Launch a simple landing page that promises your future solution. Drive a hundred visitors and measure <span class=\"highlight\">email signups</span>. A sub-five-percent rate means your <span class=\"highlight\">messaging is off</span> or the problem is weak.",
+        "author": "Launch Lab"
+      }
+    },
+    {
+      "layoutId": "body-paper-fold",
+      "slots": {
+        "eyebrow": "VALIDATION",
+        "pageOf": "03 / 06",
+        "number": "03",
+        "numberLabel": "Test",
+        "title": "Sell Before Building",
+        "body": "Offer a manual version of your product to three early adopters. This <span class=\"highlight\">concierge MVP</span> proves demand without code. Charge real money to validate <span class=\"highlight\">willingness to pay</span>.",
+        "author": "Launch Lab"
+      }
+    },
+    {
+      "layoutId": "body-paper-fold",
+      "slots": {
+        "eyebrow": "VALIDATION",
+        "pageOf": "04 / 06",
+        "number": "04",
+        "numberLabel": "Test",
+        "title": "Force the Switch",
+        "body": "Ask prospects what they use today and why they would switch. Look for <span class=\"highlight\">active dissatisfaction</span> with current tools. No switching intent means you are a <span class=\"highlight\">nice-to-have</span>, not a must-have.",
+        "author": "Launch Lab"
+      }
+    },
+    {
+      "layoutId": "body-paper-fold",
+      "slots": {
+        "eyebrow": "VALIDATION",
+        "pageOf": "05 / 06",
+        "number": "05",
+        "numberLabel": "Test",
+        "title": "Secure Pre-Orders",
+        "body": "Collect letters of intent or small deposits before launch. <span class=\"highlight\">Skin in the game</span> beats polite interest every time. If strangers pay, you have a <span class=\"highlight\">validated market</span>.",
+        "author": "Launch Lab"
+      }
+    },
+    {
+      "layoutId": "body-paper-fold",
+      "slots": {
+        "eyebrow": "VALIDATION",
+        "pageOf": "06 / 06",
+        "number": "06",
+        "numberLabel": "Test",
+        "title": "Close a Paid Pilot",
+        "body": "Run a two-week pilot with three customers for a discounted fee. Measure <span class=\"highlight\">actual usage</span> and outcomes, not compliments. Revenue plus retention is the only <span class=\"highlight\">real proof</span>.",
+        "author": "Launch Lab"
+      }
+    },
+    {
+      "layoutId": "cta-paper-fold",
+      "slots": {
+        "eyebrow": "YOUR TURN",
+        "headline": "Start Your 14-Day Validation Sprint",
+        "body": "Download the complete checklist and validate your next idea without wasting months.",
+        "buttonLabel": "Get the guide",
+        "author": "Launch Lab"
+      }
+    }
+  ]
+}

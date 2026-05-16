@@ -1,0 +1,126 @@
+{
+  "id": "discovery-call-blue",
+  "brand": "Alex Chen",
+  "brief": "How to run a discovery call that closes — 6 questions to ask.",
+  "theme": "blue-italic",
+  "slides": [
+    {
+      "layoutId": "cover-blue-italic",
+      "slots": {
+        "handle": "@alexchen",
+        "websiteUrl": "www.alexchen.com",
+        "accentLine": "6 Questions",
+        "sub1": "For running a",
+        "sub2": "discovery call that closes",
+        "strip": "DISCOVERY CALL MASTERY",
+        "authorInitials": "AC",
+        "authorName": "Alex Chen",
+        "authorRole": "Sales Consultant"
+      }
+    },
+    {
+      "layoutId": "body-blue-italic",
+      "slots": {
+        "handle": "@alexchen",
+        "websiteUrl": "www.alexchen.com",
+        "number": "1",
+        "numberLabel": "Question",
+        "title": "Define what success looks like",
+        "stripText": "START WITH VISION",
+        "body": "Ask prospects to describe their perfect end-state. This reveals priorities and aligns your solution to their exact goals. It also positions you as a strategic partner.",
+        "authorInitials": "AC",
+        "authorName": "Alex Chen",
+        "authorRole": "Sales Consultant"
+      }
+    },
+    {
+      "layoutId": "body-blue-italic",
+      "slots": {
+        "handle": "@alexchen",
+        "websiteUrl": "www.alexchen.com",
+        "number": "2",
+        "numberLabel": "Question",
+        "title": "Understand why now matters most",
+        "stripText": "FIND THE TRIGGER",
+        "body": "Timing drives decisions. Discover what sparked their search today. Understanding urgency helps you tailor the timeline and accelerate the deal.",
+        "authorInitials": "AC",
+        "authorName": "Alex Chen",
+        "authorRole": "Sales Consultant"
+      }
+    },
+    {
+      "layoutId": "body-blue-italic",
+      "slots": {
+        "handle": "@alexchen",
+        "websiteUrl": "www.alexchen.com",
+        "number": "3",
+        "numberLabel": "Question",
+        "title": "Learn from their past attempts",
+        "stripText": "MAP THE PAST",
+        "body": "Previous solutions reveal gaps and frustrations. Listen closely to what disappointed them. Your offer becomes the clear alternative they have been missing.",
+        "authorInitials": "AC",
+        "authorName": "Alex Chen",
+        "authorRole": "Sales Consultant"
+      }
+    },
+    {
+      "layoutId": "body-blue-italic",
+      "slots": {
+        "handle": "@alexchen",
+        "websiteUrl": "www.alexchen.com",
+        "number": "4",
+        "numberLabel": "Question",
+        "title": "Map the full buying committee",
+        "stripText": "KNOW THE PLAYERS",
+        "body": "Selling to one person risks silent objections later. Map out stakeholders early. This prepares you to address diverse concerns before the final pitch.",
+        "authorInitials": "AC",
+        "authorName": "Alex Chen",
+        "authorRole": "Sales Consultant"
+      }
+    },
+    {
+      "layoutId": "body-blue-italic",
+      "slots": {
+        "handle": "@alexchen",
+        "websiteUrl": "www.alexchen.com",
+        "number": "5",
+        "numberLabel": "Question",
+        "title": "Clarify the investment upfront",
+        "stripText": "BUDGET CLARITY",
+        "body": "Budget discussions prevent wasted time for both sides. Be direct but respectful about investment. Qualification now means a smoother close later.",
+        "authorInitials": "AC",
+        "authorName": "Alex Chen",
+        "authorRole": "Sales Consultant"
+      }
+    },
+    {
+      "layoutId": "body-blue-italic",
+      "slots": {
+        "handle": "@alexchen",
+        "websiteUrl": "www.alexchen.com",
+        "number": "6",
+        "numberLabel": "Question",
+        "title": "Reveal the cost of inaction",
+        "stripText": "CREATE CONTRAST",
+        "body": "Status quo is often your biggest competitor. Highlight the risks of staying still. This builds emotional momentum toward choosing your solution.",
+        "authorInitials": "AC",
+        "authorName": "Alex Chen",
+        "authorRole": "Sales Consultant"
+      }
+    },
+    {
+      "layoutId": "cta-blue-italic",
+      "slots": {
+        "handle": "@alexchen",
+        "websiteUrl": "www.alexchen.com",
+        "eyebrow": "YOUR TURN",
+        "headline": "Run calls that close",
+        "body": "Steal these six questions for your next discovery call. Better conversations start with better questions.",
+        "buttonLabel": "Book a call",
+        "authorInitials": "AC",
+        "authorName": "Alex Chen",
+        "authorRole": "Sales Consultant"
+      }
+    }
+  ]
+}

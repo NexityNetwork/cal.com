@@ -1,0 +1,88 @@
+{
+  "id": "sleep-mist",
+  "brand": "STILL POINT",
+  "brief": "5 steps to fall asleep faster on anxious nights.",
+  "theme": "purple-mist",
+  "slides": [
+    {
+      "layoutId": "cover-purple-mist",
+      "slots": {
+        "brand": "STILL POINT",
+        "handle": "@stillpoint.wellness",
+        "pageOf": "1 / 8",
+        "searchQuery": "How to fall asleep when anxious"
+      }
+    },
+    {
+      "layoutId": "body-purple-mist",
+      "slots": {
+        "brand": "STILL POINT",
+        "handle": "@stillpoint.wellness",
+        "pageOf": "2 / 8",
+        "stepLabel": "START HERE:",
+        "body": "Set your phone aside and dim every light an hour before you plan to sleep."
+      }
+    },
+    {
+      "layoutId": "body-purple-mist",
+      "slots": {
+        "brand": "STILL POINT",
+        "handle": "@stillpoint.wellness",
+        "pageOf": "3 / 8",
+        "stepLabel": "STEP ONE:",
+        "body": "Place one hand on your heart and breathe in for four counts, then out for six."
+      }
+    },
+    {
+      "layoutId": "body-purple-mist",
+      "slots": {
+        "brand": "STILL POINT",
+        "handle": "@stillpoint.wellness",
+        "pageOf": "4 / 8",
+        "stepLabel": "STEP TWO:",
+        "body": "Tense each muscle group for five seconds, then release from your toes to your forehead."
+      }
+    },
+    {
+      "layoutId": "body-purple-mist",
+      "slots": {
+        "brand": "STILL POINT",
+        "handle": "@stillpoint.wellness",
+        "pageOf": "5 / 8",
+        "stepLabel": "STEP THREE:",
+        "body": "Picture a quiet garden and walk slowly through it, letting each step feel heavier."
+      }
+    },
+    {
+      "layoutId": "body-purple-mist",
+      "slots": {
+        "brand": "STILL POINT",
+        "handle": "@stillpoint.wellness",
+        "pageOf": "6 / 8",
+        "stepLabel": "STEP FOUR:",
+        "body": "Write every worry onto paper until your mind feels lighter and the page holds them instead."
+      }
+    },
+    {
+      "layoutId": "body-purple-mist",
+      "slots": {
+        "brand": "STILL POINT",
+        "handle": "@stillpoint.wellness",
+        "pageOf": "7 / 8",
+        "stepLabel": "STEP FIVE:",
+        "body": "Whisper a gentle mantra like 'I am safe' and let it repeat until your eyes close."
+      }
+    },
+    {
+      "layoutId": "cta-purple-mist",
+      "slots": {
+        "brand": "STILL POINT",
+        "handle": "@stillpoint.wellness",
+        "eyebrow": "YOUR RITUAL",
+        "headline": "Let the night hold you",
+        "body": "Return to these steps whenever rest feels far away; sleep will find you again.",
+        "buttonLabel": "SAVE THIS RITUAL"
+      }
+    }
+  ]
+}

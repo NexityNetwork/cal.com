@@ -1,0 +1,108 @@
+{
+  "id": "morning-stack-y2k",
+  "brand": "Morgan Vale",
+  "brief": "5 Morning Habits that quietly 10x your week.",
+  "theme": "y2k-window",
+  "slides": [
+    {
+      "layoutId": "cover-y2k-window",
+      "slots": {
+        "authorInitials": "MV",
+        "authorName": "Morgan Vale",
+        "handle": "@morganvale",
+        "number": "5",
+        "firstWord": "Morning",
+        "secondLine": "Power Habits",
+        "thirdLine": "That 10x",
+        "subtitle": "For a Productive Week",
+        "websiteUrl": "morganvale.com"
+      }
+    },
+    {
+      "layoutId": "body-y2k-window",
+      "slots": {
+        "authorInitials": "MV",
+        "authorName": "Morgan Vale",
+        "handle": "@morganvale",
+        "number": "1",
+        "title": "Start With Silence",
+        "body": "Sit quietly for two minutes before touching your phone. A calm mind makes better decisions all day long.",
+        "websiteUrl": "morganvale.com"
+      }
+    },
+    {
+      "layoutId": "body-y2k-window",
+      "slots": {
+        "authorInitials": "MV",
+        "authorName": "Morgan Vale",
+        "handle": "@morganvale",
+        "number": "2",
+        "title": "Hydrate Immediately",
+        "body": "Drink a full glass of water right after waking. It kickstarts your brain and boosts natural energy levels.",
+        "websiteUrl": "morganvale.com"
+      }
+    },
+    {
+      "layoutId": "body-y2k-window",
+      "slots": {
+        "authorInitials": "MV",
+        "authorName": "Morgan Vale",
+        "handle": "@morganvale",
+        "number": "3",
+        "title": "Move Your Body",
+        "body": "Do five minutes of stretching or walking. Micro movement builds the momentum you need for macro results.",
+        "websiteUrl": "morganvale.com"
+      }
+    },
+    {
+      "layoutId": "body-y2k-window",
+      "slots": {
+        "authorInitials": "MV",
+        "authorName": "Morgan Vale",
+        "handle": "@morganvale",
+        "number": "4",
+        "title": "Map Three Wins",
+        "body": "Write the top three outcomes you want today. Morning clarity prevents afternoon chaos and busywork.",
+        "websiteUrl": "morganvale.com"
+      }
+    },
+    {
+      "layoutId": "body-y2k-window",
+      "slots": {
+        "authorInitials": "MV",
+        "authorName": "Morgan Vale",
+        "handle": "@morganvale",
+        "number": "5",
+        "title": "Eat The Frog",
+        "body": "Tackle your hardest task before noon. Knocking it out early creates unstoppable confidence for hours.",
+        "websiteUrl": "morganvale.com"
+      }
+    },
+    {
+      "layoutId": "body-y2k-window",
+      "slots": {
+        "authorInitials": "MV",
+        "authorName": "Morgan Vale",
+        "handle": "@morganvale",
+        "number": "6",
+        "title": "Block Distractions",
+        "body": "Keep notifications off until your morning routine ends. Boundaries are the real productivity superpower.",
+        "websiteUrl": "morganvale.com"
+      }
+    },
+    {
+      "layoutId": "cta-y2k-window",
+      "slots": {
+        "authorInitials": "MV",
+        "authorName": "Morgan Vale",
+        "handle": "@morganvale",
+        "eyebrow": "YOUR TURN",
+        "headlineMain": "SAVE THIS",
+        "accentLine": "FOR MONDAY",
+        "body": "Pick one habit to test tomorrow morning. Small starts lead to massive weekly wins.",
+        "buttonLabel": "Save this post",
+        "websiteUrl": "morganvale.com"
+      }
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "id": "creator-tools-y2k",
+  "brand": "Morgan Vale",
+  "brief": "5 Free Tools every creator uses to ship daily content.",
+  "theme": "y2k-window",
+  "slides": [
+    {
+      "layoutId": "cover-y2k-window",
+      "slots": {
+        "authorInitials": "MV",
+        "authorName": "Morgan Vale",
+        "handle": "@morganvale",
+        "number": "5",
+        "firstWord": "Free",
+        "secondLine": "Creator Tools",
+        "thirdLine": "Daily Ship",
+        "subtitle": "For Consistent Content Creation",
+        "websiteUrl": "morganvale.co"
+      }
+    },
+    {
+      "layoutId": "body-y2k-window",
+      "slots": {
+        "authorInitials": "MV",
+        "authorName": "Morgan Vale",
+        "handle": "@morganvale",
+        "number": "1",
+        "title": "Notion Workspace",
+        "body": "Map your content calendar, store ideas, and track every post in one flexible database that syncs across devices.",
+        "websiteUrl": "morganvale.co"
+      }
+    },
+    {
+      "layoutId": "body-y2k-window",
+      "slots": {
+        "authorInitials": "MV",
+        "authorName": "Morgan Vale",
+        "handle": "@morganvale",
+        "number": "2",
+        "title": "ChatGPT Drafts",
+        "body": "Beat writer's block by turning rough bullets into polished captions, hooks, and thread ideas in seconds.",
+        "websiteUrl": "morganvale.co"
+      }
+    },
+    {
+      "layoutId": "body-y2k-window",
+      "slots": {
+        "authorInitials": "MV",
+        "authorName": "Morgan Vale",
+        "handle": "@morganvale",
+        "number": "3",
+        "title": "Canva Designs",
+        "body": "Build thumb-stopping carousels, stories, and banners with drag-and-drop templates sized for every platform.",
+        "websiteUrl": "morganvale.co"
+      }
+    },
+    {
+      "layoutId": "body-y2k-window",
+      "slots": {
+        "authorInitials": "MV",
+        "authorName": "Morgan Vale",
+        "handle": "@morganvale",
+        "number": "4",
+        "title": "CapCut Edits",
+        "body": "Trim clips, add captions, and drop trending audio without paying for pro video editing software.",
+        "websiteUrl": "morganvale.co"
+      }
+    },
+    {
+      "layoutId": "body-y2k-window",
+      "slots": {
+        "authorInitials": "MV",
+        "authorName": "Morgan Vale",
+        "handle": "@morganvale",
+        "number": "5",
+        "title": "Buffer Queue",
+        "body": "Schedule a week of posts across platforms in one sitting so you never miss a daily shipping streak.",
+        "websiteUrl": "morganvale.co"
+      }
+    },
+    {
+      "layoutId": "body-y2k-window",
+      "slots": {
+        "authorInitials": "MV",
+        "authorName": "Morgan Vale",
+        "handle": "@morganvale",
+        "number": "6",
+        "title": "Daily Workflow",
+        "body": "Link these five tools into a morning routine: plan in Notion, draft in ChatGPT, design in Canva, edit in CapCut, then schedule in Buffer.",
+        "websiteUrl": "morganvale.co"
+      }
+    },
+    {
+      "layoutId": "cta-y2k-window",
+      "slots": {
+        "authorInitials": "MV",
+        "authorName": "Morgan Vale",
+        "handle": "@morganvale",
+        "eyebrow": "YOUR TURN",
+        "headlineMain": "START SHIPPING",
+        "accentLine": "DAILY TODAY",
+        "body": "Pick one tool, build a 7-day calendar, and post your first piece before midnight. Consistency wins.",
+        "buttonLabel": "Save this post",
+        "websiteUrl": "morganvale.co"
+      }
+    }
+  ]
+}

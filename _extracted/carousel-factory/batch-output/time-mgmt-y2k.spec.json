@@ -1,0 +1,108 @@
+{
+  "id": "time-mgmt-y2k",
+  "brand": "SkipTheCalendar",
+  "brief": "5 Time Management Tips for busy professionals who hate calendars.",
+  "theme": "y2k-window",
+  "slides": [
+    {
+      "layoutId": "cover-y2k-window",
+      "slots": {
+        "authorInitials": "JD",
+        "authorName": "Jordan Drake",
+        "handle": "@jordandrake",
+        "number": "5",
+        "firstWord": "Time",
+        "secondLine": "Management",
+        "thirdLine": "Tips",
+        "subtitle": "For Busy Professionals",
+        "websiteUrl": "skipcalendar.com"
+      }
+    },
+    {
+      "layoutId": "body-y2k-window",
+      "slots": {
+        "authorInitials": "JD",
+        "authorName": "Jordan Drake",
+        "handle": "@jordandrake",
+        "number": "1",
+        "title": "Prioritize Important Tasks",
+        "body": "Sort tasks by urgency and importance so you focus only on what actually moves the needle. Ignore busywork that drains your day without advancing your goals.",
+        "websiteUrl": "skipcalendar.com"
+      }
+    },
+    {
+      "layoutId": "body-y2k-window",
+      "slots": {
+        "authorInitials": "JD",
+        "authorName": "Jordan Drake",
+        "handle": "@jordandrake",
+        "number": "2",
+        "title": "Time-Block Deep Work",
+        "body": "Schedule focused sprints of ninety minutes instead of filling every calendar slot. Protect these windows like non-negotiable meetings with yourself.",
+        "websiteUrl": "skipcalendar.com"
+      }
+    },
+    {
+      "layoutId": "body-y2k-window",
+      "slots": {
+        "authorInitials": "JD",
+        "authorName": "Jordan Drake",
+        "handle": "@jordandrake",
+        "number": "3",
+        "title": "Batch Similar Tasks",
+        "body": "Group emails, calls, and admin into one daily chunk to preserve mental bandwidth. Context switching kills momentum faster than any single distraction.",
+        "websiteUrl": "skipcalendar.com"
+      }
+    },
+    {
+      "layoutId": "body-y2k-window",
+      "slots": {
+        "authorInitials": "JD",
+        "authorName": "Jordan Drake",
+        "handle": "@jordandrake",
+        "number": "4",
+        "title": "Use A To-Don't List",
+        "body": "Write down commitments you will refuse so your real priorities get the attention they deserve. Boundaries are the secret weapon against overwhelm.",
+        "websiteUrl": "skipcalendar.com"
+      }
+    },
+    {
+      "layoutId": "body-y2k-window",
+      "slots": {
+        "authorInitials": "JD",
+        "authorName": "Jordan Drake",
+        "handle": "@jordandrake",
+        "number": "5",
+        "title": "Set A Shutdown Ritual",
+        "body": "End each workday with a five-minute review and a clear tomorrow plan. This lets your brain clock out without relying on a packed calendar.",
+        "websiteUrl": "skipcalendar.com"
+      }
+    },
+    {
+      "layoutId": "body-y2k-window",
+      "slots": {
+        "authorInitials": "JD",
+        "authorName": "Jordan Drake",
+        "handle": "@jordandrake",
+        "number": "6",
+        "title": "Automate Repetitive Decisions",
+        "body": "Create templates and default choices for recurring situations to save cognitive energy. Fewer decisions mean more room for creative, high-impact work.",
+        "websiteUrl": "skipcalendar.com"
+      }
+    },
+    {
+      "layoutId": "cta-y2k-window",
+      "slots": {
+        "authorInitials": "JD",
+        "authorName": "Jordan Drake",
+        "handle": "@jordandrake",
+        "eyebrow": "YOUR TURN",
+        "headlineMain": "DITCH THE",
+        "accentLine": "CALENDAR CHAOS",
+        "body": "Pick one tip to test this week and watch your productivity rise without the scheduling stress. Small shifts create the biggest results.",
+        "buttonLabel": "Save this post",
+        "websiteUrl": "skipcalendar.com"
+      }
+    }
+  ]
+}
