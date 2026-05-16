@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;800;900&display=swap" rel="stylesheet">
+<style>
+  *{margin:0;padding:0;box-sizing:border-box;}
+  html,body{width:1080px;height:1350px;overflow:hidden;background:#fbe5c3;font-family:"Inter",sans-serif;-webkit-font-smoothing:antialiased;
+    background-image:linear-gradient(to right,#1a1a1a 1px,transparent 1px),linear-gradient(to bottom,#1a1a1a 1px,transparent 1px);background-size:108px 108px;background-position:-1px -1px;}
+  .top-pill{position:absolute;top:80px;left:80px;height:64px;padding:0 28px;background:#e9d6f4;border:1.5px solid #1a1a1a;border-radius:32px;display:flex;align-items:center;font-size:24px;font-weight:600;color:#1a1a1a;letter-spacing:0.08em;text-transform:uppercase;
+    box-shadow:8px 8px 0 rgba(255,255,255,0.5),8px 8px 0 1.5px #1a1a1a;}
+  .card{position:absolute;top:240px;left:80px;right:80px;background:#ff7e34;border:1.5px solid #1a1a1a;border-radius:48px;padding:80px 60px;text-align:center;
+    box-shadow:14px 14px 0 rgba(255,255,255,0.6),14px 14px 0 1.5px #1a1a1a;}
+  .headline{font-size:106px;font-weight:900;line-height:0.96;letter-spacing:-2.2px;color:#1a1a1a;margin-bottom:36px;text-transform:capitalize;}
+  .body{font-size:30px;font-weight:500;line-height:1.4;color:#1a1a1a;padding:0 40px;}
+  .cta-pill{position:absolute;bottom:200px;left:80px;right:80px;height:120px;background:#d6f06e;border:1.5px solid #1a1a1a;border-radius:60px;display:flex;align-items:center;justify-content:space-between;padding:0 40px 0 56px;
+    box-shadow:12px 12px 0 rgba(255,255,255,0.6),12px 12px 0 1.5px #1a1a1a;}
+  .cta-pill .text{font-size:38px;font-weight:800;color:#1a1a1a;}
+  .cta-pill .arrow{width:80px;height:80px;background:#1a1a1a;color:#d6f06e;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:38px;}
+  .handle{position:absolute;bottom:80px;left:80px;font-size:28px;font-weight:500;color:#1a1a1a;}
+</style></head>
+<body>
+  <div class="top-pill">{{eyebrow}}</div>
+  <div class="card">
+    <div class="headline">{{headline}}</div>
+    <div class="body">{{body}}</div>
+  </div>
+  <div class="cta-pill"><span class="text">{{buttonLabel}}</span><span class="arrow">→</span></div>
+  <div class="handle">{{handle}}</div>
+</body></html>

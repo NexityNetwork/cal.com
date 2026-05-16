@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Italiana&family=Inter:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  *{margin:0;padding:0;box-sizing:border-box;}
+  html,body{width:1080px;height:1350px;overflow:hidden;background:#e7dfd0;font-family:"Inter",sans-serif;color:#1a1a1a;-webkit-font-smoothing:antialiased;}
+  .top-bar{position:absolute;top:64px;left:80px;right:80px;display:flex;align-items:center;justify-content:space-between;font-size:24px;color:#1a1a1a;}
+  .center{position:absolute;top:50%;left:0;right:0;transform:translateY(-50%);text-align:center;padding:0 100px;}
+  .eyebrow{font-size:22px;font-weight:500;letter-spacing:0.25em;text-transform:uppercase;color:#1a1a1a;margin-bottom:48px;}
+  .display{font-family:"Italiana",serif;font-size:170px;line-height:0.95;letter-spacing:-0.005em;text-transform:uppercase;color:#1a1a1a;margin-bottom:48px;}
+  .body{font-size:28px;font-weight:400;letter-spacing:0.05em;line-height:1.55;color:#1a1a1a;margin-bottom:64px;}
+  .cta-link{display:inline-block;font-size:24px;font-weight:500;letter-spacing:0.2em;text-transform:uppercase;color:#1a1a1a;border-bottom:1px solid #1a1a1a;padding-bottom:8px;}
+  .footer{position:absolute;bottom:80px;left:0;right:0;text-align:center;font-size:24px;font-weight:500;letter-spacing:0.15em;text-transform:uppercase;color:#1a1a1a;}
+</style></head>
+<body>
+  <div class="top-bar"><div>{{handle}}</div><div>{{author}}</div></div>
+  <div class="center">
+    <div class="eyebrow">{{eyebrow}}</div>
+    <div class="display">{{headline}}</div>
+    <div class="body">{{body}}</div>
+    <div class="cta-link">{{buttonLabel}} →</div>
+  </div>
+  <div class="footer">{{author}} &nbsp;·&nbsp; {{role}}</div>
+</body></html>

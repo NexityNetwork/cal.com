@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&family=Inter:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  *{margin:0;padding:0;box-sizing:border-box;}
+  html,body{width:1080px;height:1350px;overflow:hidden;background:#f4ede2;font-family:"Cormorant Garamond",serif;color:#353d2a;-webkit-font-smoothing:antialiased;}
+  .brand-strip{position:absolute;top:70px;left:0;right:0;display:flex;align-items:center;justify-content:center;gap:28px;}
+  .brand-strip .line{flex:0 0 240px;height:1px;background:#a39c8b;position:relative;}
+  .brand-strip .line.left::before{content:"";position:absolute;left:0;top:-2px;width:5px;height:5px;border-radius:50%;background:#a39c8b;}
+  .brand-strip .line.right::after{content:"";position:absolute;right:0;top:-2px;width:5px;height:5px;border-radius:50%;background:#a39c8b;}
+  .brand-strip .name{font-size:24px;font-weight:500;color:#353d2a;}
+  .center{position:absolute;top:50%;left:0;right:0;transform:translateY(-50%);text-align:center;padding:0 80px;}
+  .eyebrow{font-family:"Inter",sans-serif;font-size:18px;font-weight:500;letter-spacing:0.25em;color:#5a614f;text-transform:uppercase;margin-bottom:40px;}
+  .headline{font-family:"Cormorant Garamond",serif;font-size:96px;font-weight:600;line-height:1.05;letter-spacing:-0.005em;color:#353d2a;margin-bottom:36px;}
+  .body{font-family:"Cormorant Garamond",serif;font-size:34px;line-height:1.45;color:#5a614f;margin-bottom:64px;padding:0 60px;}
+  .cta-link{font-family:"Inter",sans-serif;display:inline-flex;align-items:center;gap:14px;padding:18px 40px;background:#353d2a;color:#f4ede2;border-radius:60px;font-size:24px;font-weight:500;letter-spacing:0.04em;text-transform:uppercase;}
+  .sparkle{position:absolute;color:#d5b6c3;opacity:0.7;font-size:30px;}
+  .sp-tl{top:230px;left:120px;}
+  .sp-tr{top:230px;right:120px;}
+  .sp-bl{bottom:230px;left:120px;}
+  .sp-br{bottom:230px;right:120px;}
+  .handle{position:absolute;bottom:60px;left:0;right:0;text-align:center;font-family:"Cormorant Garamond",serif;font-style:italic;font-size:26px;color:#353d2a;}
+</style></head>
+<body>
+  <div class="brand-strip">
+    <div class="line left"></div>
+    <div class="name">{{brand}}</div>
+    <div class="line right"></div>
+  </div>
+  <div class="sparkle sp-tl">✦</div>
+  <div class="sparkle sp-tr">✦</div>
+  <div class="sparkle sp-bl">✦</div>
+  <div class="sparkle sp-br">✦</div>
+  <div class="center">
+    <div class="eyebrow">{{eyebrow}}</div>
+    <div class="headline">{{headline}}</div>
+    <div class="body">{{body}}</div>
+    <div class="cta-link">{{buttonLabel}} →</div>
+  </div>
+  <div class="handle">{{handle}}</div>
+</body></html>

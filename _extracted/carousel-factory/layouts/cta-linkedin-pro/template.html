@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;800;900&display=swap" rel="stylesheet">
+<style>
+  *{margin:0;padding:0;box-sizing:border-box;}
+  html,body{width:1080px;height:1350px;overflow:hidden;background:#fcfcfc;font-family:"Inter",sans-serif;color:#0a0a0a;-webkit-font-smoothing:antialiased;
+    background-image:linear-gradient(to right,#ededed 1px,transparent 1px),linear-gradient(to bottom,#ededed 1px,transparent 1px);background-size:90px 90px;}
+  .top-bar{position:absolute;top:56px;left:56px;right:56px;display:flex;align-items:center;justify-content:space-between;}
+  .author{display:flex;align-items:center;gap:14px;}
+  .author .avatar{width:56px;height:56px;border-radius:50%;background:#d4d4d4;}
+  .author .name{font-size:24px;font-weight:700;letter-spacing:-0.01em;}
+  .badge{background:#0a0a0a;color:#fff;padding:13px 30px;border-radius:40px;font-size:16px;font-weight:700;letter-spacing:0.06em;}
+  .page-num{width:56px;height:56px;border-radius:50%;background:{{accentColor}};color:#fff;font-size:22px;font-weight:700;display:flex;align-items:center;justify-content:center;}
+  .center{position:absolute;top:50%;left:56px;right:56px;transform:translateY(-50%);text-align:center;}
+  .question{font-size:38px;font-weight:700;color:{{accentColor}};margin-bottom:24px;}
+  .headline{font-size:88px;font-weight:900;line-height:1.0;letter-spacing:-2px;margin-bottom:40px;}
+  .body{font-size:30px;font-weight:500;color:#2a2a2a;line-height:1.4;margin-bottom:56px;padding:0 40px;}
+  .actions{display:flex;justify-content:center;gap:18px;}
+  .action{display:inline-flex;align-items:center;gap:12px;padding:22px 36px;border-radius:50px;font-size:24px;font-weight:700;}
+  .action.primary{background:{{accentColor}};color:#fff;}
+  .action.secondary{background:#0a0a0a;color:#fff;}
+  .footer{position:absolute;bottom:56px;left:56px;right:56px;display:flex;align-items:center;justify-content:space-between;font-size:18px;color:#0a0a0a;font-weight:500;}
+</style></head>
+<body>
+  <div class="top-bar">
+    <div class="author"><div class="avatar"></div><div class="name">{{author}}</div></div>
+    <div class="badge">{{badgeText}}</div>
+    <div class="page-num">{{pageNumber}}</div>
+  </div>
+  <div class="center">
+    <div class="question">{{eyebrow}}</div>
+    <div class="headline">{{headline}}</div>
+    <div class="body">{{body}}</div>
+    <div class="actions">
+      <div class="action primary">{{buttonLabel}} →</div>
+      <div class="action secondary">{{secondaryLabel}}</div>
+    </div>
+  </div>
+  <div class="footer"><div>{{handle}}</div><div>FOLLOW FOR MORE</div></div>
+</body></html>

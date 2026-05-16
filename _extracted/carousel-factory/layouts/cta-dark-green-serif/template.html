@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+  *{margin:0;padding:0;box-sizing:border-box;}
+  html,body{width:1080px;height:1350px;overflow:hidden;background:#3a4f33;font-family:"DM Serif Display",serif;color:#f4ecd6;-webkit-font-smoothing:antialiased;}
+  .top-bar{position:absolute;top:80px;left:80px;right:80px;display:flex;align-items:center;justify-content:space-between;font-family:"JetBrains Mono",monospace;font-size:22px;font-weight:500;letter-spacing:0.08em;color:#f4ecd6;text-transform:uppercase;}
+  .center{position:absolute;top:50%;left:80px;right:80px;transform:translateY(-50%);text-align:center;}
+  .eyebrow{font-family:"JetBrains Mono",monospace;font-size:22px;font-weight:500;letter-spacing:0.15em;color:#f4ecd6;text-transform:uppercase;margin-bottom:48px;}
+  .headline{font-family:"DM Serif Display",serif;font-size:138px;line-height:0.96;color:#f4ecd6;margin-bottom:40px;}
+  .body{font-family:"JetBrains Mono",monospace;font-size:30px;line-height:1.55;color:#f4ecd6;margin-bottom:64px;padding:0 60px;}
+  .cta-button{display:inline-flex;align-items:center;gap:16px;padding:22px 44px;background:#d34a2a;color:#fbe5c5;border:3px dashed #fbe5c5;border-radius:60px;font-family:"DM Serif Display",serif;font-style:italic;font-size:32px;line-height:1;transform:rotate(-2deg);}
+  .footer{position:absolute;bottom:60px;left:80px;right:80px;border-top:1px solid #f4ecd6;padding-top:22px;display:flex;align-items:center;justify-content:space-between;font-family:"JetBrains Mono",monospace;font-size:22px;letter-spacing:0.06em;color:#f4ecd6;}
+</style></head>
+<body>
+  <div class="top-bar"><div>{{brand}}</div><div>END &gt;</div></div>
+  <div class="center">
+    <div class="eyebrow">{{eyebrow}}</div>
+    <div class="headline">{{headline}}</div>
+    <div class="body">{{body}}</div>
+    <div class="cta-button">{{buttonLabel}}</div>
+  </div>
+  <div class="footer"><div>{{handle}}</div><div>SAVE FOR LATER</div></div>
+</body></html>

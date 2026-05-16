@@ -32,41 +32,56 @@ const OUT = resolve(FACTORY, "batch-output");
 // ─── Layout families & prompts ─────────────────────────────────────────────
 
 const FAMILY_LAYOUTS = {
-  "ember-dark":       { cover: "cover-display-cta",     body: "body-icon-centered" },
-  "beige-paper":      { cover: "cover-beige-serif",     body: "body-beige-bubble" },
-  "linkedin-pro":     { cover: "cover-linkedin-pro",    body: "body-linkedin-pro" },
-  "noir-yellow":      { cover: "cover-noir-yellow",     body: "body-noir-yellow" },
-  "dark-green-serif": { cover: "cover-dark-green-serif",body: "body-dark-green-serif" },
-  "retro-groovy":     { cover: "cover-retro-groovy",    body: "body-retro-groovy" },
-  "minimal-beauty":   { cover: "cover-minimal-beauty",  body: "body-minimal-beauty" },
-  "bold-split":       { cover: "cover-bold-split",      body: "body-bold-split" },
+  "ember-dark":       { cover: "cover-display-cta",     body: "body-icon-centered",   cta: "cta-display-cta" },
+  "beige-paper":      { cover: "cover-beige-serif",     body: "body-beige-bubble",    cta: "cta-beige-serif" },
+  "linkedin-pro":     { cover: "cover-linkedin-pro",    body: "body-linkedin-pro",    cta: "cta-linkedin-pro" },
+  "noir-yellow":      { cover: "cover-noir-yellow",     body: "body-noir-yellow",     cta: "cta-noir-yellow" },
+  "dark-green-serif": { cover: "cover-dark-green-serif",body: "body-dark-green-serif",cta: "cta-dark-green-serif" },
+  "retro-groovy":     { cover: "cover-retro-groovy",    body: "body-retro-groovy",    cta: "cta-retro-groovy" },
+  "minimal-beauty":   { cover: "cover-minimal-beauty",  body: "body-minimal-beauty",  cta: "cta-minimal-beauty" },
+  "bold-split":       { cover: "cover-bold-split",      body: "body-bold-split",      cta: "cta-bold-split" },
 };
+
+// CTA slot conventions, shared by all families:
+//   eyebrow: short uppercase line (e.g. "READY?" / "YOUR TURN" / "TAKE ACTION")
+//   headline: short closing headline (3-6 words)
+//   body: 1-3 sentences directing the reader (max 35 words)
+//   buttonLabel: short CTA verb-phrase (2-4 words, e.g. "Save this post", "Follow @handle", "DM me 'go'")
+//   handle: brand handle (e.g. "@brand")
 
 const FAMILY_PROMPTS = {
   "ember-dark": `Layouts (dark ember theme):
-LAYOUT cover-display-cta (FIRST): pageNumber "01", headlineLine1 (≤5 words), headlineLine2 (≤4 words), accentSuffix ("." or "!").
-LAYOUT body-icon-centered (body): pageNumber ("02" etc), title ("N. Subject, the role", ≤7 words), body (1-3 sentences, ≤35 words, specific, no fluff), iconSlug (notion github stripe supabase cloudflare slack discord gmail googlemeet zoom instagram youtube tiktok x openai anthropic vercel nextdotjs react typescript postgresql redis docker figma linear raycast langchain airtable zapier calendly loom), iconColor (hex, optional).`,
+COVER cover-display-cta: pageNumber "01", headlineLine1 (≤5 words), headlineLine2 (≤4 words), accentSuffix ("." or "!").
+BODY  body-icon-centered: pageNumber ("02" etc), title ("N. Subject, the role", ≤7 words), body (1-3 sentences, ≤35 words, specific, no fluff), iconSlug (notion github stripe supabase cloudflare slack discord gmail googlemeet zoom instagram youtube tiktok x openai anthropic vercel nextdotjs react typescript postgresql redis docker figma linear raycast langchain airtable zapier calendly loom), iconColor (hex, optional).
+CTA   cta-display-cta: pageNumber (final), eyebrow ("READY?"/"YOUR MOVE"), headline (3-6 words), subline (1-2 sentences ≤25 words), buttonLabel ("Save this post"/"Follow for more"/"DM 'stack'"), handle.`,
   "beige-paper": `Layouts (cream beige serif):
-LAYOUT cover-beige-serif (FIRST): brand, headline (6-12 words), slideCountHero (single digit "6").
-LAYOUT body-beige-bubble (body): brand, number ("01"), title (2-4 words), body (2-4 sentences ≤50 words editorial), handle "@x", domain "x.com".`,
+COVER cover-beige-serif: brand, headline (6-12 words), slideCountHero (single digit "6").
+BODY  body-beige-bubble: brand, number ("01"), title (2-4 words), body (2-4 sentences ≤50 words editorial), handle "@x", domain "x.com".
+CTA   cta-beige-serif: brand, eyebrow (uppercase 2-3 words), headline (3-6 words), body (1-2 sentences ≤30 words editorial), buttonLabel (2-4 word uppercase verb-phrase), handle "@x".`,
   "linkedin-pro": `Layouts (LinkedIn pro — white grid + bold sans + colored hero):
-LAYOUT cover-linkedin-pro (FIRST): author (name), badgeText ("LINKEDIN CAROUSEL POST" or "SAVE THIS POST"), pageNumber "1", accentColor (vibrant hex: #4f3df5 #0a66c2 #e85d04 #10b981 #ec4899), headline (4-8 words), heroSymbol (1-2 chars like "AI" "$" "✦"), heroBg + heroBg2 (gradient hex pair matching accent family), body (2-3 sentences ≤35 words).
-LAYOUT body-linkedin-pro (body): same top-bar fields (author/badgeText/accentColor); pageNumber "2"+; title (3-6 words); body (≤35 words); heroSymbol; heroBg + heroBg2 (same as cover); labelText (short repeating bottom phrase).`,
+COVER cover-linkedin-pro: author (name), badgeText ("LINKEDIN CAROUSEL POST"/"SAVE THIS POST"), pageNumber "1", accentColor (vibrant hex: #4f3df5 #0a66c2 #e85d04 #10b981 #ec4899), headline (4-8 words), heroSymbol (1-2 chars), heroBg + heroBg2 (gradient hex pair), body (2-3 sentences ≤35 words).
+BODY  body-linkedin-pro: same top-bar fields; pageNumber "2"+; title (3-6 words); body (≤35 words); heroSymbol; heroBg + heroBg2 (consistent with cover); labelText (short repeating bottom phrase).
+CTA   cta-linkedin-pro: author, badgeText, pageNumber (final), accentColor (same as rest), eyebrow ("YOUR TURN?"/"ONE QUESTION"), headline (4-7 words), body (1-2 sentences ≤25 words), buttonLabel (primary CTA), secondaryLabel (e.g. "Repost"/"Share"), handle.`,
   "noir-yellow": `Layouts (dark noir + yellow editorial serif):
-LAYOUT cover-noir-yellow (FIRST): brand, scriptPrefix (1 word handwritten "How"/"Why"/"On"/"The"), displayLine1/2/3 (3 ALL CAPS chunks), scriptTagline (5-9 word handwritten line), handle "@x", slideId "Slide 01".
-LAYOUT body-noir-yellow (body): brand, scriptPrefix (1 word "Focus"/"Try"/"Begin"), displayLine1/2/3 (3 ALL CAPS chunks), body (2-4 sentences ≤45 words), handle, slideId "Slide 0N".`,
+COVER cover-noir-yellow: brand, scriptPrefix (1 word handwritten), displayLine1/2/3 (3 ALL CAPS chunks), scriptTagline (5-9 word handwritten), handle, slideId "Slide 01".
+BODY  body-noir-yellow: brand, scriptPrefix (1 word), displayLine1/2/3, body (2-4 sentences ≤45 words), handle, slideId.
+CTA   cta-noir-yellow: brand, scriptPrefix (1 word like "Yours"/"Begin"/"Today"), headline (3-6 words ALL CAPS), scriptTagline (5-8 word handwritten line), buttonLabel (2-4 words), handle, slideId.`,
   "dark-green-serif": `Layouts (dark forest green + cream serif + mono accents):
-LAYOUT cover-dark-green-serif (FIRST): brand (ALL CAPS), pageOf "01 OF 06", headline (3-6 words including question mark optional, e.g. "Why Matcha?"), subtitle (5-12 words, casual), stickerText (2-3 words for the orange sticker, e.g. "FOR YOU"), handle ("@handle").
-LAYOUT body-dark-green-serif (body): brand, pageOf "0N OF 06", number ("01"), title (3-6 words), body (2-4 sentences ≤50 words mono typewriter feel), handle.`,
-  "retro-groovy": `Layouts (cream + thin black grid + lime-green rounded card + lavender CTA pill — Y2K retro):
-LAYOUT cover-retro-groovy (FIRST): title (2-4 words, sentence case, FITS LARGE in lime card), ctaText (4-7 words subtitle in lavender pill, e.g. "Transforming clicks into customers"), handle ("@handle").
-LAYOUT body-retro-groovy (body): number ("01"), title (2-4 words capitalized, fits big lime card), body (2-3 sentences ≤40 words, casual), handle.`,
+COVER cover-dark-green-serif: brand (ALL CAPS), pageOf "01 OF 06", headline (3-6 words with optional question mark), subtitle (5-12 words casual), stickerText (2-3 words orange sticker), handle.
+BODY  body-dark-green-serif: brand, pageOf, number ("01"), title (3-6 words), body (2-4 sentences ≤50 words mono typewriter feel), handle.
+CTA   cta-dark-green-serif: brand, eyebrow (uppercase 2-3 words), headline (3-6 words), body (1-2 sentences ≤25 words mono), buttonLabel (2-4 words on the orange sticker), handle.`,
+  "retro-groovy": `Layouts (cream + thin black grid + lime card + lavender pill — Y2K retro):
+COVER cover-retro-groovy: title (2-4 words sentence case, fits LARGE in lime card), ctaText (4-7 word subtitle in lavender pill), handle.
+BODY  body-retro-groovy: number ("01"), title (2-4 words capitalized), body (2-3 sentences ≤40 words casual), handle.
+CTA   cta-retro-groovy: eyebrow (uppercase 2-3 words "FINAL TAKE"/"OVER TO YOU"), headline (3-5 words capitalized, fits in orange card), body (1-2 sentences ≤25 words), buttonLabel (2-4 word verb in lime pill), handle.`,
   "minimal-beauty": `Layouts (warm beige + ultra-thin Italiana display serif ALL CAPS — luxury beauty brand):
-LAYOUT cover-minimal-beauty (FIRST): handle ("@reallygreatsite"), author (full name, e.g. "Olivia Wilson"), role (e.g. "SKIN SPECIALIST"), titleLine1/Line2/Line3 (3 ALL CAPS chunks of 1-3 words each), subtitle (4-8 words ALL CAPS spaced).
-LAYOUT body-minimal-beauty (body): handle, author, number ("STEP 01" or "01 / 05"), title (ALL CAPS 2-4 words display), body (2-3 sentences ≤40 words sentence case, calm).`,
-  "bold-split": `Layouts (split canvas — cream LEFT + dark slate RIGHT, massive condensed Oswald display):
-LAYOUT cover-bold-split (FIRST): title (4-7 word ALL CAPS condensed, wraps to 3-4 lines, e.g. "HOW TO BOOST YOUR CONFIDENCE EVERY DAY"), handle ("@handle").
-LAYOUT body-bold-split (body): number ("01"), title (3-5 words ALL CAPS condensed), body (2-3 sentences ≤40 words), handle.`,
+COVER cover-minimal-beauty: handle, author (full name), role (e.g. "SKIN SPECIALIST"), titleLine1/Line2/Line3 (3 ALL CAPS chunks of 1-3 words each), subtitle (4-8 words ALL CAPS spaced).
+BODY  body-minimal-beauty: handle, author, number ("STEP 01"/"01 / 05"), title (ALL CAPS 2-4 words display), body (2-3 sentences ≤40 words sentence case calm).
+CTA   cta-minimal-beauty: handle, author, role, eyebrow ("YOUR RITUAL"/"NEXT STEP"), headline (ALL CAPS 2-4 words), body (1-2 sentences ≤25 words sentence case), buttonLabel ("BOOK A CONSULT"/"SHOP NOW"/"FOLLOW").`,
+  "bold-split": `Layouts (split canvas — cream + dark slate, massive condensed Oswald display):
+COVER cover-bold-split: title (4-7 word ALL CAPS condensed, wraps 3-4 lines), handle.
+BODY  body-bold-split: number ("01"), title (3-5 words ALL CAPS condensed), body (2-3 sentences ≤40 words), handle.
+CTA   cta-bold-split: eyebrow (2-3 words uppercase "YOUR MOVE"/"DAY ONE"), headline (3-6 words ALL CAPS condensed), body (1-2 sentences ≤25 words), buttonLabel (2-4 words uppercase), handle.`,
 };
 
 const PROMPT_TEMPLATE = (brief, family) => `You are a carousel planner.
@@ -74,7 +89,7 @@ ${FAMILY_PROMPTS[family]}
 
 BRIEF: ${brief}
 
-Generate a 7-slide carousel (1 cover + 6 body). Output ONLY valid JSON, no fences.
+Generate an 8-slide carousel: 1 cover + 6 body + 1 cta. Output ONLY valid JSON, no fences.
 Schema:
 {
   "id":"<short-kebab>",
@@ -84,7 +99,12 @@ Schema:
   "slides":[
     {"layoutId":"${FAMILY_LAYOUTS[family].cover}","slots":{...}},
     {"layoutId":"${FAMILY_LAYOUTS[family].body}","slots":{...}},
-    ...
+    {"layoutId":"${FAMILY_LAYOUTS[family].body}","slots":{...}},
+    {"layoutId":"${FAMILY_LAYOUTS[family].body}","slots":{...}},
+    {"layoutId":"${FAMILY_LAYOUTS[family].body}","slots":{...}},
+    {"layoutId":"${FAMILY_LAYOUTS[family].body}","slots":{...}},
+    {"layoutId":"${FAMILY_LAYOUTS[family].body}","slots":{...}},
+    {"layoutId":"${FAMILY_LAYOUTS[family].cta}","slots":{...}}
   ]
 }`;
 

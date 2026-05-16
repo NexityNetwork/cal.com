@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400;1,500&family=Pinyon+Script&display=swap" rel="stylesheet">
+<style>
+  *{margin:0;padding:0;box-sizing:border-box;}
+  html,body{width:1080px;height:1350px;overflow:hidden;background:#0e0e0e;font-family:"Playfair Display",serif;color:#f4d24c;-webkit-font-smoothing:antialiased;}
+  body::before{content:"";position:absolute;inset:0;background:radial-gradient(ellipse at center,transparent 30%,rgba(0,0,0,0.55) 100%);pointer-events:none;}
+  .brand{position:absolute;top:64px;left:64px;font-size:30px;font-weight:500;color:#f4d24c;}
+  .pagination-dots{position:absolute;top:76px;right:64px;display:flex;gap:14px;}
+  .pagination-dots span{width:14px;height:14px;border-radius:50%;background:#f4d24c;}
+  .center{position:absolute;top:50%;left:64px;right:64px;transform:translateY(-50%);text-align:center;}
+  .script-prefix{font-family:"Pinyon Script",cursive;font-size:140px;line-height:0.9;color:#f4d24c;transform:rotate(-2deg);margin-bottom:20px;}
+  .display{font-family:"Playfair Display",serif;font-size:96px;font-weight:700;line-height:0.96;letter-spacing:-0.005em;color:#f4d24c;text-transform:uppercase;margin-bottom:40px;}
+  .tagline{font-family:"Pinyon Script",cursive;font-size:48px;line-height:1;color:#f4d24c;transform:rotate(-1deg);margin-bottom:56px;}
+  .cta-button{display:inline-flex;align-items:center;gap:16px;padding:22px 46px;border:1.5px solid #f4d24c;border-radius:48px;font-family:"Playfair Display",serif;font-size:30px;font-weight:500;color:#f4d24c;letter-spacing:0.03em;}
+  .footer{position:absolute;bottom:70px;left:64px;right:64px;display:flex;align-items:center;justify-content:space-between;border-top:1px solid #f4d24c;padding-top:24px;font-family:"Playfair Display",serif;font-size:26px;color:#f4d24c;}
+</style></head>
+<body>
+  <div class="brand">{{brand}}</div>
+  <div class="pagination-dots"><span></span><span></span><span></span><span></span><span></span></div>
+  <div class="center">
+    <div class="script-prefix">{{scriptPrefix}}</div>
+    <div class="display">{{headline}}</div>
+    <div class="tagline">{{scriptTagline}}</div>
+    <div class="cta-button">{{buttonLabel}} →</div>
+  </div>
+  <div class="footer"><div>{{handle}}</div><div>{{slideId}}</div></div>
+</body></html>

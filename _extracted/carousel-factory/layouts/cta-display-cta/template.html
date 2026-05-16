@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;800;900&display=swap" rel="stylesheet">
+<style>
+  *{margin:0;padding:0;box-sizing:border-box;}
+  html,body{width:1080px;height:1350px;overflow:hidden;background:#050505;font-family:"Inter",sans-serif;color:#fff;-webkit-font-smoothing:antialiased;}
+  .frame{position:absolute;inset:30px;border-radius:32px;border:1px solid #1c1c1c;background:#0a0a0a;overflow:hidden;}
+  .page-badge{position:absolute;top:56px;left:56px;height:44px;padding:0 18px;background:#2a0e04;border-radius:22px;display:inline-flex;align-items:center;color:#ff7a3d;font-size:18px;font-weight:700;letter-spacing:0.06em;}
+  .center-block{position:absolute;top:50%;left:80px;right:80px;transform:translateY(-50%);text-align:center;}
+  .eyebrow{font-size:18px;font-weight:700;letter-spacing:0.2em;color:#ff7a3d;text-transform:uppercase;margin-bottom:32px;}
+  .headline{font-size:78px;font-weight:800;line-height:1.05;letter-spacing:-1.6px;color:#fff;margin-bottom:32px;}
+  .subline{font-size:32px;font-weight:400;line-height:1.4;color:#a8a8a8;margin-bottom:64px;}
+  .cta-button{display:inline-flex;align-items:center;gap:18px;padding:24px 44px;background:#ff5e1a;color:#0a0a0a;border-radius:48px;font-size:30px;font-weight:700;letter-spacing:-0.005em;}
+  .cta-button .arrow{font-size:32px;}
+  .handle{position:absolute;bottom:60px;left:0;right:0;text-align:center;font-size:24px;font-weight:500;color:#a8a8a8;}
+</style></head>
+<body>
+  <div class="frame">
+    <div class="page-badge">{{pageNumber}}</div>
+    <div class="center-block">
+      <div class="eyebrow">{{eyebrow}}</div>
+      <div class="headline">{{headline}}</div>
+      <div class="subline">{{subline}}</div>
+      <div class="cta-button">{{buttonLabel}}<span class="arrow">→</span></div>
+    </div>
+    <div class="handle">{{handle}}</div>
+  </div>
+</body></html>
