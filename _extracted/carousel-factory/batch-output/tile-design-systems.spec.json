@@ -1,0 +1,180 @@
+{
+  "id": "tile-design-systems",
+  "brand": "Studio Linear",
+  "brief": "6 design system principles every product team should steal — with examples.",
+  "theme": "design-tile",
+  "slides": [
+    {
+      "layoutId": "cover-design-tile",
+      "slots": {
+        "pageOf": "01 / 08",
+        "authorInitials": "SL",
+        "authorName": "Studio Linear",
+        "handle": "@studiolinear",
+        "avatarBg1": "#ff5a28",
+        "avatarBg2": "#3a5eef",
+        "eyebrow": "DESIGN SYSTEMS",
+        "titleLine1": "Steal These Principles",
+        "tile1Color": "#ff5a28",
+        "tile1Label": "Vermilion",
+        "tile1Glyph": "◆",
+        "tile2Color": "#3a5eef",
+        "tile2Label": "Cobalt",
+        "tile2Glyph": "●",
+        "tile3Color": "#2dad6b",
+        "tile3Label": "Jade",
+        "tile3Glyph": "▲",
+        "tile4Color": "#f5b540",
+        "tile4Label": "Amber",
+        "tile4Glyph": "■",
+        "tile5Color": "#1a1a1a",
+        "tile5Label": "Ink",
+        "tile5Glyph": "✦",
+        "tile6Color": "#c4541f",
+        "tile6Label": "Rust",
+        "tile6Glyph": "◐"
+      }
+    },
+    {
+      "layoutId": "body-design-tile",
+      "slots": {
+        "pageOf": "02 / 08",
+        "authorInitials": "SL",
+        "authorName": "Studio Linear",
+        "handle": "@studiolinear",
+        "avatarBg1": "#ff5a28",
+        "avatarBg2": "#3a5eef",
+        "themeColor": "#ff5a28",
+        "number": "01",
+        "numberLabel": "CONSISTENCY",
+        "titleMain": "Build Consistent",
+        "titleAccent": "Patterns",
+        "body": "Users don't learn interfaces; they recognize patterns. Reuse components, spacing, and language across every surface to reduce cognitive load.",
+        "heroKey": "CORE RULE",
+        "heroValue": "Repeat decisions, not accidents.",
+        "heroGlyph": "◆"
+      }
+    },
+    {
+      "layoutId": "body-design-tile",
+      "slots": {
+        "pageOf": "03 / 08",
+        "authorInitials": "SL",
+        "authorName": "Studio Linear",
+        "handle": "@studiolinear",
+        "avatarBg1": "#ff5a28",
+        "avatarBg2": "#3a5eef",
+        "themeColor": "#3a5eef",
+        "number": "02",
+        "numberLabel": "ACCESSIBILITY",
+        "titleMain": "Design For",
+        "titleAccent": "Everyone",
+        "body": "Contrast, focus states, and screen-reader labels aren't edge cases. Accessible systems scale to every user and every device.",
+        "heroKey": "MINIMUM RATIO",
+        "heroValue": "4.5:1 for normal text.",
+        "heroGlyph": "●"
+      }
+    },
+    {
+      "layoutId": "body-design-tile",
+      "slots": {
+        "pageOf": "04 / 08",
+        "authorInitials": "SL",
+        "authorName": "Studio Linear",
+        "handle": "@studiolinear",
+        "avatarBg1": "#ff5a28",
+        "avatarBg2": "#3a5eef",
+        "themeColor": "#2dad6b",
+        "number": "03",
+        "numberLabel": "TOKENS",
+        "titleMain": "Tokenize Every",
+        "titleAccent": "Decision",
+        "body": "Hard-code nothing. Store color, spacing, and type as variables so one update propagates across platforms instantly.",
+        "heroKey": "SINGLE SOURCE",
+        "heroValue": "Name once, use everywhere.",
+        "heroGlyph": "▲"
+      }
+    },
+    {
+      "layoutId": "body-design-tile",
+      "slots": {
+        "pageOf": "05 / 08",
+        "authorInitials": "SL",
+        "authorName": "Studio Linear",
+        "handle": "@studiolinear",
+        "avatarBg1": "#ff5a28",
+        "avatarBg2": "#3a5eef",
+        "themeColor": "#f5b540",
+        "number": "04",
+        "numberLabel": "DOCUMENTATION",
+        "titleMain": "Docs Must",
+        "titleAccent": "Breathe",
+        "body": "Static PDFs die. Embed guidelines in the same repo as components. Docs that breathe stay current and trusted.",
+        "heroKey": "GOLDEN RULE",
+        "heroValue": "If it ships, it documents.",
+        "heroGlyph": "■"
+      }
+    },
+    {
+      "layoutId": "body-design-tile",
+      "slots": {
+        "pageOf": "06 / 08",
+        "authorInitials": "SL",
+        "authorName": "Studio Linear",
+        "handle": "@studiolinear",
+        "avatarBg1": "#ff5a28",
+        "avatarBg2": "#3a5eef",
+        "themeColor": "#1a1a1a",
+        "number": "05",
+        "numberLabel": "FLEXIBILITY",
+        "titleMain": "Build Composable",
+        "titleAccent": "Parts",
+        "body": "Rigidity breaks under real product needs. Build primitives that combine cleanly so teams solve edge cases without hacks.",
+        "heroKey": "COMPOSABILITY",
+        "heroValue": "Small pieces, infinite outcomes.",
+        "heroGlyph": "✦"
+      }
+    },
+    {
+      "layoutId": "body-design-tile",
+      "slots": {
+        "pageOf": "07 / 08",
+        "authorInitials": "SL",
+        "authorName": "Studio Linear",
+        "handle": "@studiolinear",
+        "avatarBg1": "#ff5a28",
+        "avatarBg2": "#3a5eef",
+        "themeColor": "#c4541f",
+        "number": "06",
+        "numberLabel": "GOVERNANCE",
+        "titleMain": "Shared System",
+        "titleAccent": "Governance",
+        "body": "A design system is a product, not a project. Dedicate owners, gather feedback loops, and evolve it quarterly.",
+        "heroKey": "MAINTENANCE",
+        "heroValue": "Governance prevents decay.",
+        "heroGlyph": "◐"
+      }
+    },
+    {
+      "layoutId": "cta-design-tile",
+      "slots": {
+        "pageOf": "08 / 08",
+        "authorInitials": "SL",
+        "authorName": "Studio Linear",
+        "handle": "@studiolinear",
+        "avatarBg1": "#ff5a28",
+        "avatarBg2": "#3a5eef",
+        "themeColor": "#ff5a28",
+        "swatch1": "#ff5a28",
+        "swatch2": "#3a5eef",
+        "swatch3": "#2dad6b",
+        "swatch4": "#f5b540",
+        "eyebrow": "YOUR TURN",
+        "headlineLine1": "Start Building",
+        "headlineAccent": "Better Systems",
+        "body": "Steal these principles and ship consistent, accessible product experiences at scale.",
+        "buttonLabel": "Download the Checklist"
+      }
+    }
+  ]
+}
