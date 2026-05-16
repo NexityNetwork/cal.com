@@ -1,0 +1,160 @@
+{
+  "id": "multi-agent-patterns",
+  "brand": "AgentArchitect",
+  "brief": "The 8 multi-agent patterns every AI builder needs — supervisor, swarm, feedback loop, more.",
+  "theme": "mono-pattern",
+  "slides": [
+    {
+      "layoutId": "cover-mono-pattern",
+      "slots": {
+        "pageOf": "01 / 08",
+        "handle": "@agentarchitect",
+        "patternLabel": "INTRO",
+        "word1": "THE",
+        "word2": "MULTI AGENT",
+        "word3": "PLAYBOOK",
+        "body": "Single models hit context and reasoning ceilings. These patterns show how to split, route, and synthesize work across specialized agents without orchestration chaos.",
+        "ctaText": "Swipe to Read More",
+        "rightNote": "6 patterns inside",
+        "footerLeft": "carousel · 01",
+        "footerRight": "@agentarchitect"
+      }
+    },
+    {
+      "layoutId": "body-mono-pattern",
+      "slots": {
+        "pageOf": "02 / 08",
+        "handle": "@agentarchitect",
+        "patternLabel": "PATTERN 01",
+        "titleWord1": "THE",
+        "titleWord2": "SUPERVISOR",
+        "body": "A central agent delegates subtasks to specialist workers, then synthesizes outputs into a coherent final result.",
+        "flow1": "User Query",
+        "flow2": "Supervisor Agent — plans & delegates",
+        "flow3": "Worker Agents — execute & return",
+        "card1Key": "BEST FOR",
+        "card1Body": "Complex workflows requiring strict control, tool use, and centralized error handling.",
+        "card2Key": "KEY INSIGHT",
+        "card2Body": "The supervisor is a router and reducer, not merely a passive dispatcher.",
+        "footerLeft": "carousel · 02",
+        "footerRight": "@agentarchitect"
+      }
+    },
+    {
+      "layoutId": "body-mono-pattern",
+      "slots": {
+        "pageOf": "03 / 08",
+        "handle": "@agentarchitect",
+        "patternLabel": "PATTERN 02",
+        "titleWord1": "THE",
+        "titleWord2": "SWARM",
+        "body": "Identical agents process data chunks independently in parallel, with an aggregator merging results downstream.",
+        "flow1": "Input Batch",
+        "flow2": "Swarm Agents — process in parallel",
+        "flow3": "Aggregator — merges outputs",
+        "card1Key": "BEST FOR",
+        "card1Body": "High-throughput tasks like scraping, classification, or bulk generation at scale.",
+        "card2Key": "KEY INSIGHT",
+        "card2Body": "Homogeneous agents must be stateless and idempotent to avoid race conditions.",
+        "footerLeft": "carousel · 03",
+        "footerRight": "@agentarchitect"
+      }
+    },
+    {
+      "layoutId": "body-mono-pattern",
+      "slots": {
+        "pageOf": "04 / 08",
+        "handle": "@agentarchitect",
+        "patternLabel": "PATTERN 03",
+        "titleWord1": "THE",
+        "titleWord2": "FEEDBACK LOOP",
+        "body": "A generator agent drafts output that a critic agent scores and annotates, triggering iterative refinement cycles.",
+        "flow1": "User Goal",
+        "flow2": "Generator Agent — produces draft",
+        "flow3": "Critic Agent — scores quality",
+        "card1Key": "BEST FOR",
+        "card1Body": "Quality-critical outputs like code review, content editing, or structured data validation.",
+        "card2Key": "KEY INSIGHT",
+        "card2Body": "Tight loops converge faster when critics use structured rubrics instead of vague scores.",
+        "footerLeft": "carousel · 04",
+        "footerRight": "@agentarchitect"
+      }
+    },
+    {
+      "layoutId": "body-mono-pattern",
+      "slots": {
+        "pageOf": "05 / 08",
+        "handle": "@agentarchitect",
+        "patternLabel": "PATTERN 04",
+        "titleWord1": "THE",
+        "titleWord2": "ROUTER",
+        "body": "An intake agent classifies incoming requests and routes each to the single best-fit specialist agent downstream.",
+        "flow1": "User Request",
+        "flow2": "Router Agent — classifies intent",
+        "flow3": "Specialist Agent — handles task",
+        "card1Key": "BEST FOR",
+        "card1Body": "Multi-domain systems where no single model excels at every user intent.",
+        "card2Key": "KEY INSIGHT",
+        "card2Body": "Accurate routing reduces token waste and prevents specialist context pollution.",
+        "footerLeft": "carousel · 05",
+        "footerRight": "@agentarchitect"
+      }
+    },
+    {
+      "layoutId": "body-mono-pattern",
+      "slots": {
+        "pageOf": "06 / 08",
+        "handle": "@agentarchitect",
+        "patternLabel": "PATTERN 05",
+        "titleWord1": "THE",
+        "titleWord2": "PARALLEL MAP",
+        "body": "Large tasks split into independent subtasks, executed concurrently, then reduced into a unified final answer.",
+        "flow1": "Complex Prompt",
+        "flow2": "Map Agents — split & run parallel",
+        "flow3": "Reduce Agent — synthesizes result",
+        "card1Key": "BEST FOR",
+        "card1Body": "Long-context jobs like document analysis or multi-source research synthesis.",
+        "card2Key": "KEY INSIGHT",
+        "card2Body": "Map-Reduce beats monolithic prompts on latency and context-window limits.",
+        "footerLeft": "carousel · 06",
+        "footerRight": "@agentarchitect"
+      }
+    },
+    {
+      "layoutId": "body-mono-pattern",
+      "slots": {
+        "pageOf": "07 / 08",
+        "handle": "@agentarchitect",
+        "patternLabel": "PATTERN 06",
+        "titleWord1": "THE",
+        "titleWord2": "ORCHESTRATOR",
+        "body": "A planner agent decomposes goals into dependent subtasks, assigns workers dynamically, and assembles the output.",
+        "flow1": "Complex Goal",
+        "flow2": "Orchestrator — plans dependencies",
+        "flow3": "Worker Agents — execute subtasks",
+        "card1Key": "BEST FOR",
+        "card1Body": "Multi-step coding, research, or tool chains with conditional branching logic.",
+        "card2Key": "KEY INSIGHT",
+        "card2Body": "Dynamic replanning outperforms static DAGs when tools fail or requirements shift.",
+        "footerLeft": "carousel · 07",
+        "footerRight": "@agentarchitect"
+      }
+    },
+    {
+      "layoutId": "cta-mono-pattern",
+      "slots": {
+        "pageOf": "08 / 08",
+        "handle": "@agentarchitect",
+        "patternLabel": "OVER TO YOU",
+        "word1": "PICK",
+        "word2": "ONE PATTERN",
+        "body": "Start with the topology that matches your latency, cost, and accuracy constraints today.",
+        "quote": "Multi-agent is a topology choice, not a model upgrade.",
+        "buttonLabel": "Save this post",
+        "rightNote": "Build smarter",
+        "footerLeft": "carousel · 08",
+        "footerRight": "@agentarchitect"
+      }
+    }
+  ]
+}
