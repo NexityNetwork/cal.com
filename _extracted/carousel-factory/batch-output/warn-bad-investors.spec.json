@@ -1,134 +1,104 @@
 {
   "id": "warn-bad-investors",
-  "brand": "Marcus K.",
+  "brand": "usevisuals",
   "brief": "6 investor red flags founders learn the hard way — avoid these at all costs.",
   "theme": "black-warning",
   "slides": [
     {
       "layoutId": "cover-black-warning",
       "slots": {
-        "warningLabel": "DON'T MAKE THIS MISTAKE",
-        "headlineLine1": "Stop Ignoring",
-        "headlineLine2": "These Red Flags",
-        "headlineAccent": "Investors See",
-        "body": "Six warning signs that silently kill deals before founders even realize what went wrong.",
-        "authorInitials": "MK",
-        "authorName": "Marcus K.",
-        "handle": "@marcuskventures",
-        "avatarBg1": "#ff4757",
-        "avatarBg2": "#2f3542"
+        "number": "01",
+        "handle": "@usevisuals",
+        "eyebrow": "INVESTOR RED FLAGS",
+        "titleLine1": "Founders Learn The Hard",
+        "titleAccent": "Red Flags",
+        "body": "Six warning signs that separate toxic capital from true partners. Ignore them and pay the price later.",
+        "ctaLabel": "Start the lesson"
       }
     },
     {
       "layoutId": "body-black-warning",
       "slots": {
-        "pageOf": "1 / 6",
-        "number": "1",
-        "titleLine1": "Solve a Real",
-        "titleAccent": "Pain Point",
-        "body": "Investors hear hundreds of pitches monthly. If your startup doesn't address a burning problem, they tune out instantly and move on.",
-        "quote": "'Nice to have' products rarely get funded.",
-        "authorInitials": "MK",
-        "authorName": "Marcus K.",
-        "handle": "@marcuskventures",
-        "avatarBg1": "#ff4757",
-        "avatarBg2": "#2f3542"
+        "number": "02",
+        "handle": "@usevisuals",
+        "title": "They Pressure You To Sign",
+        "body": "Any investor demanding a signature within days is hiding something. Smart founders always involve counsel before committing.",
+        "calloutLabel": "KEY INSIGHT",
+        "calloutBody": "Never sign a term sheet without independent legal review, no matter how urgent the deadline feels.",
+        "pageOf": "Slide 02"
       }
     },
     {
       "layoutId": "body-black-warning",
       "slots": {
-        "pageOf": "2 / 6",
-        "number": "2",
-        "titleLine1": "Fantasy Hockey Stick",
-        "titleAccent": "Projections Fail",
-        "body": "Wild revenue forecasts without grounded assumptions destroy credibility instantly. Investors prefer conservative models based on real traction data and logic.",
-        "quote": "Hope is not a financial strategy.",
-        "authorInitials": "MK",
-        "authorName": "Marcus K.",
-        "handle": "@marcuskventures",
-        "avatarBg1": "#ff4757",
-        "avatarBg2": "#2f3542"
+        "number": "03",
+        "handle": "@usevisuals",
+        "title": "Founder References Are Missing",
+        "body": "If they will not connect you with portfolio founders, assume the relationship ends badly. Great investors open their network proudly.",
+        "calloutLabel": "DO THIS",
+        "calloutBody": "Cold-message two founders from their portfolio before you ever accept a meeting or term sheet.",
+        "pageOf": "Slide 03"
       }
     },
     {
       "layoutId": "body-black-warning",
       "slots": {
-        "pageOf": "3 / 6",
-        "number": "3",
-        "titleLine1": "You Can't Build",
-        "titleAccent": "It Alone",
-        "body": "A brilliant idea means nothing without execution. Solo founders or thin teams signal risk, burnout, and critical skill gaps to investors.",
-        "quote": "Investors bet on teams, not just ideas.",
-        "authorInitials": "MK",
-        "authorName": "Marcus K.",
-        "handle": "@marcuskventures",
-        "avatarBg1": "#ff4757",
-        "avatarBg2": "#2f3542"
+        "number": "04",
+        "handle": "@usevisuals",
+        "title": "Dirty Terms Hide Inside Deals",
+        "body": "Non-standard pro-rata, excessive liquidation preferences, or random veto rights can cripple your company. Read every clause carefully.",
+        "calloutLabel": "RED FLAG",
+        "calloutBody": "If the term sheet deviates from standard SAFE or Series A docs, demand a written explanation for every change.",
+        "pageOf": "Slide 04"
       }
     },
     {
       "layoutId": "body-black-warning",
       "slots": {
-        "pageOf": "4 / 6",
-        "number": "4",
-        "titleLine1": "Ignoring Unit",
-        "titleAccent": "Economics Kills",
-        "body": "Losing money on every sale with no clear path to positive margins is a death sentence. Scale magnifies losses, not magic.",
-        "quote": "You can't growth-hack your way to profit.",
-        "authorInitials": "MK",
-        "authorName": "Marcus K.",
-        "handle": "@marcuskventures",
-        "avatarBg1": "#ff4757",
-        "avatarBg2": "#2f3542"
+        "number": "05",
+        "handle": "@usevisuals",
+        "title": "Money Is Their Only Weapon",
+        "body": "Capital without strategic introductions or operational support is expensive dead weight. The best investors actively help you hire and sell.",
+        "calloutLabel": "KEY INSIGHT",
+        "calloutBody": "Ask exactly how they helped their last three portfolio companies beyond wiring the funds.",
+        "pageOf": "Slide 05"
       }
     },
     {
       "layoutId": "body-black-warning",
       "slots": {
-        "pageOf": "5 / 6",
-        "number": "5",
-        "titleLine1": "A Dirty Cap",
-        "titleAccent": "Table Scares",
-        "body": "Overly complex equity splits, dead cofounders, or excessive early advisors dilute value. Clean ownership structures prove you think long-term.",
-        "quote": "Messy equity signals messy decision making.",
-        "authorInitials": "MK",
-        "authorName": "Marcus K.",
-        "handle": "@marcuskventures",
-        "avatarBg1": "#ff4757",
-        "avatarBg2": "#2f3542"
+        "number": "06",
+        "handle": "@usevisuals",
+        "title": "Terms Change After The Handshake",
+        "body": "Verbal agreements mean nothing if they alter economics during final docs. This behavior predicts every future boardroom battle.",
+        "calloutLabel": "WALK AWAY",
+        "calloutBody": "The moment terms shift post-handshake, end the conversation immediately and preserve your leverage elsewhere.",
+        "pageOf": "Slide 06"
       }
     },
     {
       "layoutId": "body-black-warning",
       "slots": {
-        "pageOf": "6 / 6",
-        "number": "6",
-        "titleLine1": "Saying You Have",
-        "titleAccent": "No Competition",
-        "body": "Claiming a blue ocean without competitors reveals arrogance and poor research. Every market has alternatives, even if they are indirect.",
-        "quote": "Ignorance of competition is not a moat.",
-        "authorInitials": "MK",
-        "authorName": "Marcus K.",
-        "handle": "@marcuskventures",
-        "avatarBg1": "#ff4757",
-        "avatarBg2": "#2f3542"
+        "number": "07",
+        "handle": "@usevisuals",
+        "title": "Other Founders Quietly Warn You",
+        "body": "Whispers about micromanagement, blame-shifting, or legal threats are common in private forums. Believe patterns, not polished pitches.",
+        "calloutLabel": "DO THIS",
+        "calloutBody": "Search founder forums and anonymous lists for their name before you celebrate the term sheet.",
+        "pageOf": "Slide 07"
       }
     },
     {
       "layoutId": "cta-black-warning",
       "slots": {
-        "pageOf": "8 / 8",
-        "eyebrow": "LAST WARNING",
-        "headlineLine1": "Fix These",
-        "headlineAccent": "Before You Pitch",
-        "body": "Review your deck tonight and remove these red flags before your next investor meeting. First impressions are irreversible.",
-        "buttonLabel": "Audit your deck today",
-        "authorInitials": "MK",
-        "authorName": "Marcus K.",
-        "handle": "@marcuskventures",
-        "avatarBg1": "#ff4757",
-        "avatarBg2": "#2f3542"
+        "number": "08",
+        "handle": "@usevisuals",
+        "eyebrow": "YOUR MOVE",
+        "headlineLine1": "Protect Your Startup",
+        "headlineAccent": "Today",
+        "body": "Fundraising is a filter, not just a chase. Vet investors with the same intensity they use to vet you.",
+        "buttonLabel": "Follow for more",
+        "pageOf": "Slide 08"
       }
     }
   ]

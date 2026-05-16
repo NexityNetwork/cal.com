@@ -1,139 +1,108 @@
 {
   "id": "cream3d-build-trust",
-  "brand": "Maya Chen",
+  "brand": "Mina K.",
   "brief": "How to build trust with your audience in 90 days — 5 quiet rituals that compound.",
   "theme": "cream-3d",
   "slides": [
     {
       "layoutId": "cover-cream-3d",
       "slots": {
-        "pageOf": "1 / 8",
-        "authorInitials": "MC",
-        "authorName": "Maya Chen",
-        "handle": "@mayachen",
-        "avatarBg1": "#c4541f",
-        "avatarBg2": "#1a1a1a",
-        "titleLine1": "Build Real Trust",
-        "titleAccent": "In 90 Days",
-        "badgeText": "5 Quiet Rituals"
+        "titleLine1": "Build real",
+        "titleBold": "AUDIENCE TRUST",
+        "titleLine3": "in 90 days",
+        "authorInitials": "MK",
+        "authorName": "Mina K.",
+        "handle": "@minakbuilds",
+        "avatarBg1": "#C75B39",
+        "avatarBg2": "#F5D6C6",
+        "pageOf": "01 - 08"
       }
     },
     {
       "layoutId": "body-cream-3d",
       "slots": {
-        "pageOf": "2 / 8",
-        "authorInitials": "MC",
-        "authorName": "Maya Chen",
-        "handle": "@mayachen",
-        "avatarBg1": "#c4541f",
-        "avatarBg2": "#1a1a1a",
-        "numberLabel": "THE FRAMEWORK",
-        "title": "Trust Compounds Quietly",
-        "body": "You don't need viral moments to earn loyalty. Small, consistent rituals repeated over 90 days create deeper credibility than any single launch.",
+        "bodyLine1": "Trust is not",
+        "bodyLine2": "built overnight.",
+        "bodyLine3": "It compounds through",
+        "bodyLine4": "small quiet rituals",
+        "bodyLine5": "you repeat daily.",
         "tipLabel": "PRO TIP",
-        "tipBody": "Pick one ritual and anchor it to an existing daily habit so you never skip it.",
-        "shapeLabel": "Trust foundation"
+        "tipBody": "Block fifteen minutes each morning for genuine community engagement.",
+        "pageOf": "02 - 08"
       }
     },
     {
       "layoutId": "body-cream-3d",
       "slots": {
-        "pageOf": "3 / 8",
-        "authorInitials": "MC",
-        "authorName": "Maya Chen",
-        "handle": "@mayachen",
-        "avatarBg1": "#c4541f",
-        "avatarBg2": "#1a1a1a",
-        "numberLabel": "RITUAL 01",
-        "title": "Show Up Daily",
-        "body": "Visibility builds familiarity. A short, valuable post or story every day reminds your audience that you are committed to showing up for them.",
+        "bodyLine1": "Ritual one is",
+        "bodyLine2": "showing up daily",
+        "bodyLine3": "without fail.",
+        "bodyLine4": "Consistency signals",
+        "bodyLine5": "reliability.",
         "tipLabel": "PRO TIP",
-        "tipBody": "Batch three days of content in one 20-minute block to stay consistent.",
-        "shapeLabel": "Daily presence"
+        "tipBody": "Use a simple content calendar so you never miss a touchpoint.",
+        "pageOf": "03 - 08"
       }
     },
     {
       "layoutId": "body-cream-3d",
       "slots": {
-        "pageOf": "4 / 8",
-        "authorInitials": "MC",
-        "authorName": "Maya Chen",
-        "handle": "@mayachen",
-        "avatarBg1": "#c4541f",
-        "avatarBg2": "#1a1a1a",
-        "numberLabel": "RITUAL 02",
-        "title": "Share The Process",
-        "body": "People trust transparency more than perfection. Open your notes, drafts, and decisions so your audience sees the real work behind the result.",
+        "bodyLine1": "Share the process",
+        "bodyLine2": "including failures.",
+        "bodyLine3": "Transparency builds",
+        "bodyLine4": "deeper connection than",
+        "bodyLine5": "perfection ever could.",
         "tipLabel": "PRO TIP",
-        "tipBody": "Post a behind-the-scenes photo or lesson once a week without editing.",
-        "shapeLabel": "Behind scenes"
+        "tipBody": "Tell one behind-the-scenes story every week to humanize your brand.",
+        "pageOf": "04 - 08"
       }
     },
     {
       "layoutId": "body-cream-3d",
       "slots": {
-        "pageOf": "5 / 8",
-        "authorInitials": "MC",
-        "authorName": "Maya Chen",
-        "handle": "@mayachen",
-        "avatarBg1": "#c4541f",
-        "avatarBg2": "#1a1a1a",
-        "numberLabel": "RITUAL 03",
-        "title": "Admit Your Mistakes",
-        "body": "Trust accelerates when you are honest about what failed. A quick story about a lesson learned signals humility and humanizes your brand.",
+        "bodyLine1": "Respond to comments",
+        "bodyLine2": "and DMs personally.",
+        "bodyLine3": "People trust voices",
+        "bodyLine4": "that actually listen",
+        "bodyLine5": "to their audience.",
         "tipLabel": "PRO TIP",
-        "tipBody": "Frame failures as experiments to keep the tone constructive and hopeful.",
-        "shapeLabel": "Honesty loop"
+        "tipBody": "Set a daily timer to reply to every comment from the last post.",
+        "pageOf": "05 - 08"
       }
     },
     {
       "layoutId": "body-cream-3d",
       "slots": {
-        "pageOf": "6 / 8",
-        "authorInitials": "MC",
-        "authorName": "Maya Chen",
-        "handle": "@mayachen",
-        "avatarBg1": "#c4541f",
-        "avatarBg2": "#1a1a1a",
-        "numberLabel": "RITUAL 04",
-        "title": "Give Before Asking",
-        "body": "Generosity creates obligation in the best way. Share a free template, insight, or endorsement long before you ever pitch a paid offer.",
+        "bodyLine1": "Give away value",
+        "bodyLine2": "before asking for",
+        "bodyLine3": "anything in return.",
+        "bodyLine4": "Generosity creates",
+        "bodyLine5": "reciprocity.",
         "tipLabel": "PRO TIP",
-        "tipBody": "Track how many free value drops you give before each offer.",
-        "shapeLabel": "Value first"
+        "tipBody": "Share one actionable insight in every caption to build goodwill fast.",
+        "pageOf": "06 - 08"
       }
     },
     {
       "layoutId": "body-cream-3d",
       "slots": {
-        "pageOf": "7 / 8",
-        "authorInitials": "MC",
-        "authorName": "Maya Chen",
-        "handle": "@mayachen",
-        "avatarBg1": "#c4541f",
-        "avatarBg2": "#1a1a1a",
-        "numberLabel": "RITUAL 05",
-        "title": "Celebrate Your People",
-        "body": "Spotlight your community louder than yourself. A shared win or testimonial builds more trust than another self-promotional announcement ever could.",
+        "bodyLine1": "Document your progress",
+        "bodyLine2": "publicly over time.",
+        "bodyLine3": "Growth stories prove",
+        "bodyLine4": "that your methods",
+        "bodyLine5": "actually work.",
         "tipLabel": "PRO TIP",
-        "tipBody": "Tag one customer or reader in a genuine appreciation post every Friday.",
-        "shapeLabel": "Community love"
+        "tipBody": "Post a weekly recap of lessons learned to show steady momentum.",
+        "pageOf": "07 - 08"
       }
     },
     {
       "layoutId": "cta-cream-3d",
       "slots": {
-        "pageOf": "8 / 8",
-        "authorInitials": "MC",
-        "authorName": "Maya Chen",
-        "handle": "@mayachen",
-        "avatarBg1": "#c4541f",
-        "avatarBg2": "#1a1a1a",
-        "eyebrow": "YOUR MOVE",
-        "headlineLine1": "Start Day One",
-        "headlineAccent": "Ritual Today",
-        "body": "Choose one quiet habit from this carousel and practice it for the next 30 days. Trust compounds when you stay consistent.",
-        "buttonLabel": "Save & Start Today"
+        "tagline": "Quiet consistency beats loud promises. Build trust that compounds daily.",
+        "ctaQuestion": "Want the full 90-day guide?",
+        "handle": "@minakbuilds",
+        "pageOf": "08 - 08"
       }
     }
   ]

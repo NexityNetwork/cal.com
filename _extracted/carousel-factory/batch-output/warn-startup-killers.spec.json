@@ -1,134 +1,104 @@
 {
   "id": "warn-startup-killers",
-  "brand": "Founder Fuel",
+  "brand": "UseVisuals",
   "brief": "6 quiet decisions that kill startups — and the founders that survived each one.",
   "theme": "black-warning",
   "slides": [
     {
       "layoutId": "cover-black-warning",
       "slots": {
-        "warningLabel": "DON'T MAKE THIS MISTAKE",
-        "headlineLine1": "Six Quiet",
-        "headlineLine2": "Decisions That",
-        "headlineAccent": "Kill Startups",
-        "body": "Silent choices sink companies before they ever see the iceberg. Learn the patterns from founders who barely made it out.",
-        "authorInitials": "JD",
-        "authorName": "Jordan Drake",
-        "handle": "@jordandrake",
-        "avatarBg1": "#1a1a1a",
-        "avatarBg2": "#0d0d0d"
+        "number": "01",
+        "handle": "@usevisuals",
+        "eyebrow": "STARTUP LESSON",
+        "titleLine1": "Six Quiet Decisions",
+        "titleAccent": "Kill Startups",
+        "body": "Most failures don't come from bold bets. They come from silent choices made when no one was watching.",
+        "ctaLabel": "Swipe to survive"
       }
     },
     {
       "layoutId": "body-black-warning",
       "slots": {
-        "pageOf": "1/6",
-        "number": "1",
-        "titleLine1": "Building in",
-        "titleAccent": "Silence",
-        "body": "You polish for months while the market moves on. Founders who survive kill the ego and ship ugly truth to users fast.",
-        "quote": "If you aren't embarrassed, you shipped too late.",
-        "authorInitials": "JD",
-        "authorName": "Jordan Drake",
-        "handle": "@jordandrake",
-        "avatarBg1": "#1a1a1a",
-        "avatarBg2": "#0d0d0d"
+        "number": "02",
+        "handle": "@usevisuals",
+        "title": "Hiring Fast to Fill Seats",
+        "body": "A YC founder scaled to fifty people in weeks. The wrong hires burned cash and morale.",
+        "calloutLabel": "SURVIVOR MOVE",
+        "calloutBody": "Interview for values alignment first. Skills can be taught; culture cannot.",
+        "pageOf": "Slide 02"
       }
     },
     {
       "layoutId": "body-black-warning",
       "slots": {
-        "pageOf": "2/6",
-        "number": "2",
-        "titleLine1": "Chasing Growth",
-        "titleAccent": "Blindly",
-        "body": "Revenue climbs but margins bleed out in the dark. Survivors pull the plug on vanity metrics before the cash runs dry.",
-        "quote": "Growth without profit is just a slow death.",
-        "authorInitials": "JD",
-        "authorName": "Jordan Drake",
-        "handle": "@jordandrake",
-        "avatarBg1": "#1a1a1a",
-        "avatarBg2": "#0d0d0d"
+        "number": "03",
+        "handle": "@usevisuals",
+        "title": "Chasing Growth Ignoring Economics",
+        "body": "A SaaS founder spent heavily on ads. Revenue soared, but margins stayed dangerously negative.",
+        "calloutLabel": "DO THIS",
+        "calloutBody": "Model unit economics before scaling. Profitability is a feature, not a bug.",
+        "pageOf": "Slide 03"
       }
     },
     {
       "layoutId": "body-black-warning",
       "slots": {
-        "pageOf": "3/6",
-        "number": "3",
-        "titleLine1": "Hiring Too",
-        "titleAccent": "Quickly",
-        "body": "A bloated team kills speed and burns runway overnight. Smart founders hire slow, fire fast, and protect the culture.",
-        "quote": "Every wrong hire steals oxygen from the right ones.",
-        "authorInitials": "JD",
-        "authorName": "Jordan Drake",
-        "handle": "@jordandrake",
-        "avatarBg1": "#1a1a1a",
-        "avatarBg2": "#0d0d0d"
+        "number": "04",
+        "handle": "@usevisuals",
+        "title": "Delaying Hard Founder Talks",
+        "body": "Two founders avoided equity discussions for years. Resentment quietly killed their partnership and product.",
+        "calloutLabel": "KEY INSIGHT",
+        "calloutBody": "Address equity and roles in month one. Silence compounds into divorce.",
+        "pageOf": "Slide 04"
       }
     },
     {
       "layoutId": "body-black-warning",
       "slots": {
-        "pageOf": "4/6",
-        "number": "4",
-        "titleLine1": "Saying Yes",
-        "titleAccent": "To Everyone",
-        "body": "One-off promises bloat your roadmap into an unreadable mess. The best teams build for the few, not the loudest voice.",
-        "quote": "Focus is saying no to a thousand good ideas.",
-        "authorInitials": "JD",
-        "authorName": "Jordan Drake",
-        "handle": "@jordandrake",
-        "avatarBg1": "#1a1a1a",
-        "avatarBg2": "#0d0d0d"
+        "number": "05",
+        "handle": "@usevisuals",
+        "title": "Building in Stealth Too Long",
+        "body": "A fintech founder built for eighteen months. Launch day revealed nobody wanted the product.",
+        "calloutLabel": "DO THIS",
+        "calloutBody": "Sell before you build. Customer conversations de-risk your roadmap faster than code.",
+        "pageOf": "Slide 05"
       }
     },
     {
       "layoutId": "body-black-warning",
       "slots": {
-        "pageOf": "5/6",
-        "number": "5",
-        "titleLine1": "Founder Refusing",
-        "titleAccent": "To Delegate",
-        "body": "You become the bottleneck and the single point of failure. Survivors build systems so the company outlives their mood.",
-        "quote": "Delegate the outcome, not just the task.",
-        "authorInitials": "JD",
-        "authorName": "Jordan Drake",
-        "handle": "@jordandrake",
-        "avatarBg1": "#1a1a1a",
-        "avatarBg2": "#0d0d0d"
+        "number": "06",
+        "handle": "@usevisuals",
+        "title": "Copying Competitors Feature by Feature",
+        "body": "One founder chased every rival update. Users forgot why the product existed at all.",
+        "calloutLabel": "KEY INSIGHT",
+        "calloutBody": "Build for your ideal customer, not your competitor's changelog. Differentiation wins.",
+        "pageOf": "Slide 06"
       }
     },
     {
       "layoutId": "body-black-warning",
       "slots": {
-        "pageOf": "6/6",
-        "number": "6",
-        "titleLine1": "Ignoring the",
-        "titleAccent": "Warning Signs",
-        "body": "Attachment to the original idea clouds every dashboard red flag. Founders who live know when to burn the plan and run.",
-        "quote": "Pivoting late is just failing with extra steps.",
-        "authorInitials": "JD",
-        "authorName": "Jordan Drake",
-        "handle": "@jordandrake",
-        "avatarBg1": "#1a1a1a",
-        "avatarBg2": "#0d0d0d"
+        "number": "07",
+        "handle": "@usevisuals",
+        "title": "Overcapitalizing Before Product Fit",
+        "body": "A well-funded founder hired a massive team. Dilution and burn killed optionality within months.",
+        "calloutLabel": "SURVIVOR MOVE",
+        "calloutBody": "Raise what you need for eighteen months. Capital is a tool, not a trophy.",
+        "pageOf": "Slide 07"
       }
     },
     {
       "layoutId": "cta-black-warning",
       "slots": {
-        "pageOf": "8/8",
-        "eyebrow": "LAST WARNING",
-        "headlineLine1": "Save Your",
-        "headlineAccent": "Startup Now",
-        "body": "Share this with a founder who needs to hear it before it's too late.",
-        "buttonLabel": "Save before you forget",
-        "authorInitials": "JD",
-        "authorName": "Jordan Drake",
-        "handle": "@jordandrake",
-        "avatarBg1": "#1a1a1a",
-        "avatarBg2": "#0d0d0d"
+        "number": "08",
+        "handle": "@usevisuals",
+        "eyebrow": "YOUR MOVE",
+        "headlineLine1": "Build With",
+        "headlineAccent": "Intention",
+        "body": "The best founders don't avoid hard decisions. They make them loud, early, and with data.",
+        "buttonLabel": "Follow for more",
+        "pageOf": "Slide 08"
       }
     }
   ]

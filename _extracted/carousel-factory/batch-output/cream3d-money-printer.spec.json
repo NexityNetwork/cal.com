@@ -1,139 +1,108 @@
 {
   "id": "cream3d-money-printer",
-  "brand": "Morgan Vale",
+  "brand": "Marx Method",
   "brief": "Turn your website into a money printer — 6 conversion patterns that pay you while you sleep.",
   "theme": "cream-3d",
   "slides": [
     {
       "layoutId": "cover-cream-3d",
       "slots": {
-        "pageOf": "1 / 8",
-        "authorInitials": "MV",
-        "authorName": "Morgan Vale",
-        "handle": "@morganvale",
-        "avatarBg1": "#c4541f",
-        "avatarBg2": "#e07838",
-        "titleLine1": "Turn Your Website",
-        "titleAccent": "Money Printer",
-        "badgeText": "Read in 5 minutes"
+        "titleLine1": "Turn your",
+        "titleBold": "WEBSITE INTO",
+        "titleLine3": "a money printer",
+        "authorInitials": "AM",
+        "authorName": "Alex Marx",
+        "handle": "@alexmarx",
+        "avatarBg1": "#D4755F",
+        "avatarBg2": "#F2D6B3",
+        "pageOf": "01 - 08"
       }
     },
     {
       "layoutId": "body-cream-3d",
       "slots": {
-        "pageOf": "2 / 8",
-        "authorInitials": "MV",
-        "authorName": "Morgan Vale",
-        "handle": "@morganvale",
-        "avatarBg1": "#c4541f",
-        "avatarBg2": "#e07838",
-        "numberLabel": "PATTERN 01",
-        "title": "Erase Every Objection",
-        "body": "Remove risk with bold guarantees and trial offers. Shoppers buy faster when they feel safe.",
+        "bodyLine1": "Show real buyers",
+        "bodyLine2": "using your product",
+        "bodyLine3": "near your CTA",
+        "bodyLine4": "to build instant",
+        "bodyLine5": "trust and action",
         "tipLabel": "PRO TIP",
-        "tipBody": "Double your guarantee period to slash refunds.",
-        "shapeLabel": "Trust multiplier"
+        "tipBody": "Add a recent-sales ticker to your checkout page to reduce cart abandonment by 18%.",
+        "pageOf": "02 - 08"
       }
     },
     {
       "layoutId": "body-cream-3d",
       "slots": {
-        "pageOf": "3 / 8",
-        "authorInitials": "MV",
-        "authorName": "Morgan Vale",
-        "handle": "@morganvale",
-        "avatarBg1": "#c4541f",
-        "avatarBg2": "#e07838",
-        "numberLabel": "PATTERN 02",
-        "title": "Stack The Upsell",
-        "body": "Offer a complementary upgrade right after the checkout click. Small bumps add 20–30% revenue instantly.",
-        "tipLabel": "PRO TIP",
-        "tipBody": "Price the bump at 15–30% of the main offer.",
-        "shapeLabel": "Revenue booster"
+        "bodyLine1": "Trigger a bonus",
+        "bodyLine2": "when visitors move",
+        "bodyLine3": "to close the tab",
+        "bodyLine4": "offering a discount",
+        "bodyLine5": "or free shipping",
+        "tipLabel": "QUICK WIN",
+        "tipBody": "Use an exit-intent popup to recover 15% of abandoning visitors with a timed coupon code.",
+        "pageOf": "03 - 08"
       }
     },
     {
       "layoutId": "body-cream-3d",
       "slots": {
-        "pageOf": "4 / 8",
-        "authorInitials": "MV",
-        "authorName": "Morgan Vale",
-        "handle": "@morganvale",
-        "avatarBg1": "#c4541f",
-        "avatarBg2": "#e07838",
-        "numberLabel": "PATTERN 03",
-        "title": "Catch The Exit",
-        "body": "Trigger a last-chance offer when the mouse heads to close. This recaptures 10–15% of abandoning visitors.",
-        "tipLabel": "PRO TIP",
-        "tipBody": "Lead with a surprise discount, not an email gate.",
-        "shapeLabel": "Lead recovery"
+        "bodyLine1": "Offer an upgrade",
+        "bodyLine2": "immediately after",
+        "bodyLine3": "the purchase decision",
+        "bodyLine4": "when buyers are",
+        "bodyLine5": "most excited to spend",
+        "tipLabel": "REVENUE HACK",
+        "tipBody": "Post-checkout upsells convert 3x higher than homepage offers because intent peaks at purchase.",
+        "pageOf": "04 - 08"
       }
     },
     {
       "layoutId": "body-cream-3d",
       "slots": {
-        "pageOf": "5 / 8",
-        "authorInitials": "MV",
-        "authorName": "Morgan Vale",
-        "handle": "@morganvale",
-        "avatarBg1": "#c4541f",
-        "avatarBg2": "#e07838",
-        "numberLabel": "PATTERN 04",
-        "title": "Add Real Scarcity",
-        "body": "Show genuine stock counters or limited-time deadlines. Urgency forces faster decisions than persuasion alone.",
-        "tipLabel": "PRO TIP",
-        "tipBody": "Never fake scarcity because trust dies when timers reset.",
-        "shapeLabel": "Urgency engine"
+        "bodyLine1": "Add a countdown",
+        "bodyLine2": "to limited bonuses",
+        "bodyLine3": "or seasonal pricing",
+        "bodyLine4": "so indecision becomes",
+        "bodyLine5": "urgent action today",
+        "tipLabel": "USE THIS",
+        "tipBody": "Place deadline timers inside your hero section to lift conversion rates by up to 30%.",
+        "pageOf": "05 - 08"
       }
     },
     {
       "layoutId": "body-cream-3d",
       "slots": {
-        "pageOf": "6 / 8",
-        "authorInitials": "MV",
-        "authorName": "Morgan Vale",
-        "handle": "@morganvale",
-        "avatarBg1": "#c4541f",
-        "avatarBg2": "#e07838",
-        "numberLabel": "PATTERN 05",
-        "title": "Prove The Result",
-        "body": "Place recent sales notifications and star reviews near your buttons. Proof cuts doubt before it becomes hesitation.",
-        "tipLabel": "PRO TIP",
-        "tipBody": "Update timestamps to just now for maximum impact.",
-        "shapeLabel": "Credibility loop"
+        "bodyLine1": "Remove the fear",
+        "bodyLine2": "with guarantees",
+        "bodyLine3": "and easy refunds",
+        "bodyLine4": "so prospects feel",
+        "bodyLine5": "safe saying yes",
+        "tipLabel": "TRUST MOVE",
+        "tipBody": "Highlight a 30-day money-back guarantee within two clicks of your buy button to crush objections.",
+        "pageOf": "06 - 08"
       }
     },
     {
       "layoutId": "body-cream-3d",
       "slots": {
-        "pageOf": "7 / 8",
-        "authorInitials": "MV",
-        "authorName": "Morgan Vale",
-        "handle": "@morganvale",
-        "avatarBg1": "#c4541f",
-        "avatarBg2": "#e07838",
-        "numberLabel": "PATTERN 06",
-        "title": "Build Recurring Revenue",
-        "body": "Convert one-time buyers into monthly members with a value-packed subscription. Recurring cash smooths out feast-or-famine cycles.",
-        "tipLabel": "PRO TIP",
-        "tipBody": "Anchor the yearly plan at 2x the monthly price to nudge annual commits.",
-        "shapeLabel": "Cash flow growth"
+        "bodyLine1": "Capture emails",
+        "bodyLine2": "before visitors leave",
+        "bodyLine3": "using a lead",
+        "bodyLine4": "magnet or quiz",
+        "bodyLine5": "that solves one pain",
+        "tipLabel": "GROW FAST",
+        "tipBody": "Send a 3-day welcome sequence to new subscribers to convert 20% into buyers on autopilot.",
+        "pageOf": "07 - 08"
       }
     },
     {
       "layoutId": "cta-cream-3d",
       "slots": {
-        "pageOf": "8 / 8",
-        "authorInitials": "MV",
-        "authorName": "Morgan Vale",
-        "handle": "@morganvale",
-        "avatarBg1": "#c4541f",
-        "avatarBg2": "#e07838",
-        "eyebrow": "YOUR MOVE",
-        "headlineLine1": "Start Printing",
-        "headlineAccent": "Cash Tonight",
-        "body": "Pick one pattern and deploy it before midnight. Your website should work while you sleep.",
-        "buttonLabel": "Upgrade My Site Now"
+        "tagline": "We turn sleepy websites into 24/7 sales engines using psychology, design, and automation.",
+        "ctaQuestion": "Ready to build your money printer ?",
+        "handle": "@alexmarx",
+        "pageOf": "08 - 08"
       }
     }
   ]
