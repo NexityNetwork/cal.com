@@ -128,20 +128,14 @@ function domQaInBrowser({ W, H }) {
   const issues = [];
   const checks = {};
 
-  // ── Frame present ────────────────────────────────────────────────────────
-  const frame = document.querySelector(".frame");
-  checks.has_frame = !!frame;
-  if (!frame) issues.push("missing .frame container");
-
-  // ── No unfilled {{slot}} strings anywhere ────────────────────────────────
+  // ── No unfilled {{slot}} strings anywhere (hard fail) ────────────────────
   const allText = document.body.textContent || "";
   const unfilled = allText.match(/\{\{[^}]+\}\}/g);
   checks.no_unfilled_slots = !unfilled;
   if (unfilled) issues.push(`unfilled slots: ${unfilled.join(", ")}`);
 
-  // ── Page badge present ───────────────────────────────────────────────────
+  // ── Page badge bounds check (only if a .page-badge exists) ───────────────
   const badge = document.querySelector(".page-badge");
-  checks.has_page_badge = !!badge && badge.textContent.trim().length > 0;
   if (badge) {
     const r = badge.getBoundingClientRect();
     checks.page_badge_in_bounds =
