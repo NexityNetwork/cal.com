@@ -1,6 +1,6 @@
 {
   "id": "multi-agent-patterns",
-  "brand": "AgentArchitect",
+  "brand": "Agentic Labs",
   "brief": "The 8 multi-agent patterns every AI builder needs — supervisor, swarm, feedback loop, more.",
   "theme": "mono-pattern",
   "slides": [
@@ -8,152 +8,152 @@
       "layoutId": "cover-mono-pattern",
       "slots": {
         "pageOf": "01 / 08",
-        "handle": "@agentarchitect",
+        "handle": "buildwith.ai",
         "patternLabel": "INTRO",
         "word1": "THE",
         "word2": "MULTI AGENT",
         "word3": "PLAYBOOK",
-        "body": "Single models hit context and reasoning ceilings. These patterns show how to split, route, and synthesize work across specialized agents without orchestration chaos.",
+        "body": "Eight battle-tested patterns that turn scattered LLM calls into reliable, autonomous systems. Build agents that delegate, iterate, and ship.",
         "ctaText": "Swipe to Read More",
         "rightNote": "6 patterns inside",
         "footerLeft": "carousel · 01",
-        "footerRight": "@agentarchitect"
+        "footerRight": "@buildwith.ai"
       }
     },
     {
       "layoutId": "body-mono-pattern",
       "slots": {
         "pageOf": "02 / 08",
-        "handle": "@agentarchitect",
+        "handle": "buildwith.ai",
         "patternLabel": "PATTERN 01",
         "titleWord1": "THE",
         "titleWord2": "SUPERVISOR",
-        "body": "A central agent delegates subtasks to specialist workers, then synthesizes outputs into a coherent final result.",
-        "flow1": "User Query",
+        "body": "A central controller delegates tasks to specialist agents, then aggregates results. It reduces complexity by enforcing a single source of truth.",
+        "flow1": "User Request",
         "flow2": "Supervisor Agent — plans & delegates",
         "flow3": "Worker Agents — execute & return",
         "card1Key": "BEST FOR",
-        "card1Body": "Complex workflows requiring strict control, tool use, and centralized error handling.",
+        "card1Body": "Complex workflows requiring coordination across coding, research, or validation roles.",
         "card2Key": "KEY INSIGHT",
-        "card2Body": "The supervisor is a router and reducer, not merely a passive dispatcher.",
+        "card2Body": "The supervisor must own the context window; workers stay stateless and focused.",
         "footerLeft": "carousel · 02",
-        "footerRight": "@agentarchitect"
+        "footerRight": "@buildwith.ai"
       }
     },
     {
       "layoutId": "body-mono-pattern",
       "slots": {
         "pageOf": "03 / 08",
-        "handle": "@agentarchitect",
+        "handle": "buildwith.ai",
         "patternLabel": "PATTERN 02",
         "titleWord1": "THE",
         "titleWord2": "SWARM",
-        "body": "Identical agents process data chunks independently in parallel, with an aggregator merging results downstream.",
-        "flow1": "Input Batch",
-        "flow2": "Swarm Agents — process in parallel",
-        "flow3": "Aggregator — merges outputs",
+        "body": "Multiple agents operate in parallel with shared memory, voting or merging outputs. It unlocks speed and diversity in problem solving.",
+        "flow1": "Task Broadcast",
+        "flow2": "Agent Swarm — processes in parallel",
+        "flow3": "Aggregator — merges best outputs",
         "card1Key": "BEST FOR",
-        "card1Body": "High-throughput tasks like scraping, classification, or bulk generation at scale.",
+        "card1Body": "High-volume tasks like data extraction, candidate screening, or content variants.",
         "card2Key": "KEY INSIGHT",
-        "card2Body": "Homogeneous agents must be stateless and idempotent to avoid race conditions.",
+        "card2Body": "Consensus logic beats majority vote; define merge rules before scaling.",
         "footerLeft": "carousel · 03",
-        "footerRight": "@agentarchitect"
+        "footerRight": "@buildwith.ai"
       }
     },
     {
       "layoutId": "body-mono-pattern",
       "slots": {
         "pageOf": "04 / 08",
-        "handle": "@agentarchitect",
+        "handle": "buildwith.ai",
         "patternLabel": "PATTERN 03",
         "titleWord1": "THE",
         "titleWord2": "FEEDBACK LOOP",
-        "body": "A generator agent drafts output that a critic agent scores and annotates, triggering iterative refinement cycles.",
+        "body": "A generator produces drafts while a critic scores quality, triggering iterative refinement until the output meets a threshold.",
         "flow1": "User Goal",
         "flow2": "Generator Agent — produces draft",
         "flow3": "Critic Agent — scores quality",
         "card1Key": "BEST FOR",
-        "card1Body": "Quality-critical outputs like code review, content editing, or structured data validation.",
+        "card1Body": "Quality-critical outputs like code review, copy editing, or synthetic data.",
         "card2Key": "KEY INSIGHT",
-        "card2Body": "Tight loops converge faster when critics use structured rubrics instead of vague scores.",
+        "card2Body": "Stop conditions prevent infinite loops; cap iterations at three to five.",
         "footerLeft": "carousel · 04",
-        "footerRight": "@agentarchitect"
+        "footerRight": "@buildwith.ai"
       }
     },
     {
       "layoutId": "body-mono-pattern",
       "slots": {
         "pageOf": "05 / 08",
-        "handle": "@agentarchitect",
+        "handle": "buildwith.ai",
         "patternLabel": "PATTERN 04",
         "titleWord1": "THE",
-        "titleWord2": "ROUTER",
-        "body": "An intake agent classifies incoming requests and routes each to the single best-fit specialist agent downstream.",
-        "flow1": "User Request",
-        "flow2": "Router Agent — classifies intent",
-        "flow3": "Specialist Agent — handles task",
+        "titleWord2": "PIPELINE",
+        "body": "Agents are arranged in a strict sequence where each stage transforms output for the next. It enforces order and auditability.",
+        "flow1": "Raw Input",
+        "flow2": "Stage Agent — transforms data",
+        "flow3": "Next Agent — consumes output",
         "card1Key": "BEST FOR",
-        "card1Body": "Multi-domain systems where no single model excels at every user intent.",
+        "card1Body": "ETL, document processing, or any workflow with clear linear dependencies.",
         "card2Key": "KEY INSIGHT",
-        "card2Body": "Accurate routing reduces token waste and prevents specialist context pollution.",
+        "card2Body": "Schema contracts between stages prevent type drift and silent failures.",
         "footerLeft": "carousel · 05",
-        "footerRight": "@agentarchitect"
+        "footerRight": "@buildwith.ai"
       }
     },
     {
       "layoutId": "body-mono-pattern",
       "slots": {
         "pageOf": "06 / 08",
-        "handle": "@agentarchitect",
+        "handle": "buildwith.ai",
         "patternLabel": "PATTERN 05",
         "titleWord1": "THE",
-        "titleWord2": "PARALLEL MAP",
-        "body": "Large tasks split into independent subtasks, executed concurrently, then reduced into a unified final answer.",
-        "flow1": "Complex Prompt",
-        "flow2": "Map Agents — split & run parallel",
-        "flow3": "Reduce Agent — synthesizes result",
+        "titleWord2": "ROUTER",
+        "body": "An intake agent classifies incoming requests and dispatches them to the most qualified specialist, optimizing latency and accuracy.",
+        "flow1": "Incoming Request",
+        "flow2": "Router Agent — classifies intent",
+        "flow3": "Specialist Agent — handles task",
         "card1Key": "BEST FOR",
-        "card1Body": "Long-context jobs like document analysis or multi-source research synthesis.",
+        "card1Body": "Multi-domain support bots or platforms with distinct user intents.",
         "card2Key": "KEY INSIGHT",
-        "card2Body": "Map-Reduce beats monolithic prompts on latency and context-window limits.",
+        "card2Body": "Fallback to a generalist agent avoids dead-ends on edge-case queries.",
         "footerLeft": "carousel · 06",
-        "footerRight": "@agentarchitect"
+        "footerRight": "@buildwith.ai"
       }
     },
     {
       "layoutId": "body-mono-pattern",
       "slots": {
         "pageOf": "07 / 08",
-        "handle": "@agentarchitect",
+        "handle": "buildwith.ai",
         "patternLabel": "PATTERN 06",
         "titleWord1": "THE",
-        "titleWord2": "ORCHESTRATOR",
-        "body": "A planner agent decomposes goals into dependent subtasks, assigns workers dynamically, and assembles the output.",
-        "flow1": "Complex Goal",
-        "flow2": "Orchestrator — plans dependencies",
-        "flow3": "Worker Agents — execute subtasks",
+        "titleWord2": "REFLECTION",
+        "body": "The agent pauses to evaluate its own output against constraints, then self-corrects before finalizing the response to the user.",
+        "flow1": "Draft Output",
+        "flow2": "Self-Critic — checks constraints",
+        "flow3": "Revised Output — ships to user",
         "card1Key": "BEST FOR",
-        "card1Body": "Multi-step coding, research, or tool chains with conditional branching logic.",
+        "card1Body": "Constraint-heavy tasks like formatting, policy checks, or safety guardrails.",
         "card2Key": "KEY INSIGHT",
-        "card2Body": "Dynamic replanning outperforms static DAGs when tools fail or requirements shift.",
+        "card2Body": "Separate reflection from generation; loading both roles in one call dilutes focus.",
         "footerLeft": "carousel · 07",
-        "footerRight": "@agentarchitect"
+        "footerRight": "@buildwith.ai"
       }
     },
     {
       "layoutId": "cta-mono-pattern",
       "slots": {
         "pageOf": "08 / 08",
-        "handle": "@agentarchitect",
+        "handle": "buildwith.ai",
         "patternLabel": "OVER TO YOU",
         "word1": "PICK",
         "word2": "ONE PATTERN",
-        "body": "Start with the topology that matches your latency, cost, and accuracy constraints today.",
-        "quote": "Multi-agent is a topology choice, not a model upgrade.",
+        "body": "Start small. Implement one pattern this week and measure reliability before chaining the rest.",
+        "quote": "Complexity is emergent; simplicity is designed.",
         "buttonLabel": "Save this post",
-        "rightNote": "Build smarter",
+        "rightNote": "Share your pick",
         "footerLeft": "carousel · 08",
-        "footerRight": "@agentarchitect"
+        "footerRight": "@buildwith.ai"
       }
     }
   ]
