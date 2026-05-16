@@ -1,0 +1,113 @@
+{
+  "id": "long-game",
+  "brand": "THE LONG GAME",
+  "brief": "The long game: 6 compounding habits that separate 20-year careers from 2-year sprints.",
+  "theme": "cream-gold",
+  "slides": [
+    {
+      "layoutId": "cover-cream-gold",
+      "slots": {
+        "brand": "THE LONG GAME",
+        "issueLabel": "No. 01",
+        "eyebrow": "ON MONEY & POWER",
+        "titleLine1": "The",
+        "titleLine2": "Compound",
+        "titleLine3": "Edge",
+        "subtitle": "Six quiet disciplines that transform short sprint ambition into enduring professional mastery and legacy.",
+        "handle": "@thelonggame",
+        "slideCount": "6"
+      }
+    },
+    {
+      "layoutId": "body-cream-gold",
+      "slots": {
+        "brand": "THE LONG GAME",
+        "pageOf": "ii / viii",
+        "number": "I",
+        "numberLabel": "Habit",
+        "titleMain": "Deep Work",
+        "titleItalic": "Daily",
+        "body": "The world rewards what it cannot replicate. Two hours of uninterrupted focus, sustained across decades, outperforms a decade of scattered hustle.",
+        "handle": "@thelonggame"
+      }
+    },
+    {
+      "layoutId": "body-cream-gold",
+      "slots": {
+        "brand": "THE LONG GAME",
+        "pageOf": "iii / viii",
+        "number": "II",
+        "numberLabel": "Habit",
+        "titleMain": "Strategic",
+        "titleItalic": "Patience",
+        "body": "Great careers are built in years, not quarters. The discipline to delay gratification compounds into authority that no shortcut can manufacture.",
+        "handle": "@thelonggame"
+      }
+    },
+    {
+      "layoutId": "body-cream-gold",
+      "slots": {
+        "brand": "THE LONG GAME",
+        "pageOf": "iv / viii",
+        "number": "III",
+        "numberLabel": "Habit",
+        "titleMain": "Relationship",
+        "titleItalic": "Capital",
+        "body": "Trust accrues slowly and erodes instantly. Invest in alliances before you need them; they become your most appreciating asset over time.",
+        "handle": "@thelonggame"
+      }
+    },
+    {
+      "layoutId": "body-cream-gold",
+      "slots": {
+        "brand": "THE LONG GAME",
+        "pageOf": "v / viii",
+        "number": "IV",
+        "numberLabel": "Habit",
+        "titleMain": "Deliberate",
+        "titleItalic": "Practice",
+        "body": "Ten years of repetition stagnates; ten years of feedback loops elevate. Seek the uncomfortable margin where skill is forged, not merely maintained.",
+        "handle": "@thelonggame"
+      }
+    },
+    {
+      "layoutId": "body-cream-gold",
+      "slots": {
+        "brand": "THE LONG GAME",
+        "pageOf": "vi / viii",
+        "number": "V",
+        "numberLabel": "Habit",
+        "titleMain": "Long-Term",
+        "titleItalic": "Thinking",
+        "body": "Optimize for the decade, not the deadline. Decisions made with a twenty-year horizon align your daily actions with your ultimate legacy.",
+        "handle": "@thelonggame"
+      }
+    },
+    {
+      "layoutId": "body-cream-gold",
+      "slots": {
+        "brand": "THE LONG GAME",
+        "pageOf": "vii / viii",
+        "number": "VI",
+        "numberLabel": "Habit",
+        "titleMain": "Resilient",
+        "titleItalic": "Consistency",
+        "body": "The final differentiator is simply staying power. Those who endure the boring middle, when others quit, claim the rewards of compound endurance.",
+        "handle": "@thelonggame"
+      }
+    },
+    {
+      "layoutId": "cta-cream-gold",
+      "slots": {
+        "brand": "THE LONG GAME",
+        "pageOf": "viii / viii",
+        "eyebrow": "A FINAL WORD",
+        "headlineMain": "Play the",
+        "headlineItalic": "Long Game",
+        "body": "Sprint when you must, but build for decades. The quiet ones outlast the loud.",
+        "buttonLabel": "SAVE THIS POST",
+        "handle": "@thelonggame"
+      }
+    }
+  ]
+}

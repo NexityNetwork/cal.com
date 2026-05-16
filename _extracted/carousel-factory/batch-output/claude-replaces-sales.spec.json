@@ -1,0 +1,149 @@
+{
+  "id": "claude-replaces-sales",
+  "brand": "ClaudeCode",
+  "brief": "I replaced a $300K Sales Team with Claude Code — here's the exact stack.",
+  "theme": "claude-target",
+  "slides": [
+    {
+      "layoutId": "cover-claude-target",
+      "slots": {
+        "topLine1": "I replaced a",
+        "topLine2": "$300K Sales Team",
+        "topLine3": "with Claude Code",
+        "brickLine1": "CLAUDE",
+        "brickLine2": "CODE",
+        "subLine": "Here's the full",
+        "subAccent": "exact system,",
+        "subTail": "step by step",
+        "note": "free breakdown included"
+      }
+    },
+    {
+      "layoutId": "body-claude-target",
+      "slots": {
+        "titleMain": "Claude builds your",
+        "titleAccent": "prospect list",
+        "titleTail": "for you",
+        "step1Title": "Scrape leads from any industry",
+        "step2Title": "Enrich data automatically",
+        "step3Title": "Launch personalized outreach",
+        "step1Sub": "Use AI to extract verified prospects in minutes.",
+        "step2Sub": "Append emails and titles without manual work.",
+        "step3Sub": "Send tailored sequences that book meetings.",
+        "tool1": "APOLLO",
+        "tool2": "HUNTER",
+        "tool3": "OPENROUTER",
+        "tool4": "MAKE",
+        "progressPct": 14
+      }
+    },
+    {
+      "layoutId": "body-claude-target",
+      "slots": {
+        "titleMain": "Find high intent",
+        "titleAccent": "buyers fast",
+        "titleTail": "daily",
+        "step1Title": "Target by role and company size",
+        "step2Title": "Export clean lead sheets",
+        "step3Title": "Validate contact accuracy",
+        "step1Sub": "Filter decision-makers using smart criteria.",
+        "step2Sub": "Generate CSVs ready for enrichment tools.",
+        "step3Sub": "Remove bounces before sending emails.",
+        "tool1": "APOLLO",
+        "tool2": "ZEROBOUNCE",
+        "tool3": "CLAUDE",
+        "tool4": "SHEETS",
+        "progressPct": 28
+      }
+    },
+    {
+      "layoutId": "body-claude-target",
+      "slots": {
+        "titleMain": "Enrich every",
+        "titleAccent": "lead record",
+        "titleTail": "with AI",
+        "step1Title": "Find verified work emails",
+        "step2Title": "Research pain points",
+        "step3Title": "Write custom icebreakers",
+        "step1Sub": "Use Hunter to grab professional addresses.",
+        "step2Sub": "Scrape LinkedIn and news for context.",
+        "step3Sub": "Generate one-line hooks per prospect.",
+        "tool1": "HUNTER",
+        "tool2": "PROXYCURL",
+        "tool3": "CLAUDE",
+        "tool4": "N8N",
+        "progressPct": 42
+      }
+    },
+    {
+      "layoutId": "body-claude-target",
+      "slots": {
+        "titleMain": "Draft outbound",
+        "titleAccent": "sequences",
+        "titleTail": "that convert",
+        "step1Title": "Build multi-touch cadences",
+        "step2Title": "Personalize at scale",
+        "step3Title": "A/B test subject lines",
+        "step1Sub": "Create five-email flows with clear CTAs.",
+        "step2Sub": "Insert dynamic variables per industry.",
+        "step3Sub": "Rotate hooks to optimize open rates.",
+        "tool1": "INSTANTLY",
+        "tool2": "SMARTLEAD",
+        "tool3": "CLAUDE",
+        "tool4": "APOLLO",
+        "progressPct": 57
+      }
+    },
+    {
+      "layoutId": "body-claude-target",
+      "slots": {
+        "titleMain": "Automate the",
+        "titleAccent": "full pipeline",
+        "titleTail": "end to end",
+        "step1Title": "Trigger lead imports via API",
+        "step2Title": "Route replies to CRM",
+        "step3Title": "Book meetings on autopilot",
+        "step1Sub": "Connect sources to your outbound stack.",
+        "step2Sub": "Sync responses without manual entry.",
+        "step3Sub": "Let calendar links close the loop.",
+        "tool1": "MAKE",
+        "tool2": "ZAPIER",
+        "tool3": "HUBSPOT",
+        "tool4": "CALENDLY",
+        "progressPct": 71
+      }
+    },
+    {
+      "layoutId": "body-claude-target",
+      "slots": {
+        "titleMain": "Run it like a",
+        "titleAccent": "$300K team",
+        "titleTail": "for $300",
+        "step1Title": "One AI agent handles research",
+        "step2Title": "Tools cost under one percent",
+        "step3Title": "Scale without hiring",
+        "step1Sub": "Claude replaces SDR headcount overnight.",
+        "step2Sub": "Stack runs cheaper than a single salary.",
+        "step3Sub": "Add volume instantly with zero overhead.",
+        "tool1": "CLAUDE",
+        "tool2": "APOLLO",
+        "tool3": "MAKE",
+        "tool4": "INSTANTLY",
+        "progressPct": 86
+      }
+    },
+    {
+      "layoutId": "cta-claude-target",
+      "slots": {
+        "eyebrow": "READY TO SHIP",
+        "headlineMain": "Grab the full",
+        "headlineAccent": "stack guide",
+        "body": "I built a free breakdown with the exact tools, prompts, and automations. Replies open in 24 hours.",
+        "targetLine1": "FREE",
+        "targetLine2": "GUIDE",
+        "buttonLine": "Comment 'SHIP' for the guide",
+        "handle": "@handle"
+      }
+    }
+  ]
+}

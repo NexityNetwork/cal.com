@@ -1,0 +1,113 @@
+{
+  "id": "premium-pricing",
+  "brand": "MORGAN VALE",
+  "brief": "How I raised my consulting rate to $1,200/hour — 5 mindset shifts that made it possible.",
+  "theme": "cream-gold",
+  "slides": [
+    {
+      "layoutId": "cover-cream-gold",
+      "slots": {
+        "brand": "MORGAN VALE",
+        "issueLabel": "No. 01",
+        "eyebrow": "ON PRICING & POWER",
+        "titleLine1": "The",
+        "titleLine2": "Quiet",
+        "titleLine3": "Rules",
+        "subtitle": "How I raised my rate to $1,200 an hour by changing nothing but my own mind.",
+        "handle": "@morganvale",
+        "slideCount": "6"
+      }
+    },
+    {
+      "layoutId": "body-cream-gold",
+      "slots": {
+        "brand": "MORGAN VALE",
+        "pageOf": "ii / viii",
+        "number": "I",
+        "numberLabel": "Before",
+        "titleMain": "The Ceiling",
+        "titleItalic": "Was Internal",
+        "body": "I was billing four hundred dollars and drowning in scope creep. The market was not the constraint; my unwillingness to repel the wrong buyers was. I had mistaken activity for leverage.",
+        "handle": "@morganvale"
+      }
+    },
+    {
+      "layoutId": "body-cream-gold",
+      "slots": {
+        "brand": "MORGAN VALE",
+        "pageOf": "iii / viii",
+        "number": "II",
+        "numberLabel": "Shift",
+        "titleMain": "Price the",
+        "titleItalic": "Transformation",
+        "body": "Clients do not purchase your time; they purchase the future state you architect. When I began quoting the value of the outcome rather than the cost of the clock, everything changed.",
+        "handle": "@morganvale"
+      }
+    },
+    {
+      "layoutId": "body-cream-gold",
+      "slots": {
+        "brand": "MORGAN VALE",
+        "pageOf": "iv / viii",
+        "number": "III",
+        "numberLabel": "Shift",
+        "titleMain": "Scarcity Is",
+        "titleItalic": "A Signal",
+        "body": "Availability is not a virtue in high-stakes advisory. I reduced my client load by half and raised my threshold for engagement. The harder I became to access, the more I was trusted.",
+        "handle": "@morganvale"
+      }
+    },
+    {
+      "layoutId": "body-cream-gold",
+      "slots": {
+        "brand": "MORGAN VALE",
+        "pageOf": "v / viii",
+        "number": "IV",
+        "numberLabel": "Shift",
+        "titleMain": "Reject the",
+        "titleItalic": "Wrong Yes",
+        "body": "Every unprofitable engagement consumes the energy required to attract the exceptional one. I learned to say no without apology, treating my calendar as a portfolio of concentrated bets, not a volume play.",
+        "handle": "@morganvale"
+      }
+    },
+    {
+      "layoutId": "body-cream-gold",
+      "slots": {
+        "brand": "MORGAN VALE",
+        "pageOf": "vi / viii",
+        "number": "V",
+        "numberLabel": "Shift",
+        "titleMain": "Confidence as",
+        "titleItalic": "Credential",
+        "body": "There is no external examination that bestows the twelve-hundred-dollar hour. I stopped waiting for permission and began delivering my counsel as if the rate had always been mine. The market followed.",
+        "handle": "@morganvale"
+      }
+    },
+    {
+      "layoutId": "body-cream-gold",
+      "slots": {
+        "brand": "MORGAN VALE",
+        "pageOf": "vii / viii",
+        "number": "VI",
+        "numberLabel": "Shift",
+        "titleMain": "The Premium",
+        "titleItalic": "Position",
+        "body": "Luxury is communicated through restraint, not noise. I stripped my proposals of excess justification and let brevity imply mastery. When you stop explaining, you start commanding.",
+        "handle": "@morganvale"
+      }
+    },
+    {
+      "layoutId": "cta-cream-gold",
+      "slots": {
+        "brand": "MORGAN VALE",
+        "pageOf": "viii / viii",
+        "eyebrow": "A FINAL WORD",
+        "headlineMain": "Raise Your",
+        "headlineItalic": "Standard",
+        "body": "Your rate is a statement of how seriously you take your own expertise. Start there, and the right clients will already be waiting.",
+        "buttonLabel": "SAVE THIS POST",
+        "handle": "@morganvale"
+      }
+    }
+  ]
+}
