@@ -1,115 +1,115 @@
 {
   "id": "nervous-system",
-  "brand": "Leah James",
+  "brand": "Sage Bloom",
   "brief": "6 ways to regulate your nervous system when everything feels like too much.",
   "theme": "pastel-soft",
   "slides": [
     {
       "layoutId": "cover-pastel-soft",
       "slots": {
-        "authorInitials": "LJ",
-        "authorName": "Leah James",
-        "handle": "@leahjames.heal",
-        "tagBlue": "Self Growth",
-        "tagPink": "Nervous System",
+        "authorInitials": "SB",
+        "authorName": "Sage Bloom",
+        "handle": "@sagebloom.heal",
+        "tagBlue": "Nervous System",
+        "tagPink": "Self Soothe",
         "titleLine1": "How to",
-        "titleLine2": "actually",
+        "titleLine2": "gently",
         "titleLine3": "regulate",
-        "subtitle": "Six gentle ways to calm your body when overwhelm takes over.",
+        "subtitle": "Six compassionate ways to come back to calm when life feels overwhelming. You are safe here.",
         "ctaLabel": "Read below",
-        "slideCount": "6"
+        "slideCount": "7"
       }
     },
     {
       "layoutId": "body-pastel-soft",
       "slots": {
-        "authorName": "Leah James",
+        "authorName": "Sage Bloom",
         "pageOf": "2 / 8",
         "number": "1",
         "numberLabel": "Way",
-        "titleMain": "Ground your feet",
-        "titleItalic": "slowly",
-        "body": "Feel the floor beneath you. Press your feet firmly and let gravity hold you for a few breaths.",
-        "handle": "@leahjames.heal"
+        "titleMain": "Ground your",
+        "titleItalic": "senses",
+        "body": "Name five things you see, four you feel, three you hear. This simple anchor brings your body back to the present moment.",
+        "handle": "@sagebloom.heal"
       }
     },
     {
       "layoutId": "body-pastel-soft",
       "slots": {
-        "authorName": "Leah James",
+        "authorName": "Sage Bloom",
         "pageOf": "3 / 8",
         "number": "2",
         "numberLabel": "Way",
-        "titleMain": "Lengthen your exhale",
-        "titleItalic": "deeply",
-        "body": "Breathe in for four counts, then out for six. A longer exhale signals safety to your whole body.",
-        "handle": "@leahjames.heal"
+        "titleMain": "Slow your",
+        "titleItalic": "breath",
+        "body": "Try inhaling for four counts, holding for four, exhaling for six. A longer exhale signals safety to your nervous system.",
+        "handle": "@sagebloom.heal"
       }
     },
     {
       "layoutId": "body-pastel-soft",
       "slots": {
-        "authorName": "Leah James",
+        "authorName": "Sage Bloom",
         "pageOf": "4 / 8",
         "number": "3",
         "numberLabel": "Way",
-        "titleMain": "Name the feeling",
-        "titleItalic": "softly",
-        "body": "Say out loud what you feel without judging it. Naming emotions reduces their intensity and creates inner space.",
-        "handle": "@leahjames.heal"
+        "titleMain": "Shake it",
+        "titleItalic": "out",
+        "body": "Animals release stress through movement. Let your body tremble, stretch, or sway to discharge stored tension gently.",
+        "handle": "@sagebloom.heal"
       }
     },
     {
       "layoutId": "body-pastel-soft",
       "slots": {
-        "authorName": "Leah James",
+        "authorName": "Sage Bloom",
         "pageOf": "5 / 8",
         "number": "4",
         "numberLabel": "Way",
-        "titleMain": "Warm your hands",
-        "titleItalic": "gently",
-        "body": "Hold a warm mug or rub your palms together. Gentle heat soothes the vagus nerve and eases tension.",
-        "handle": "@leahjames.heal"
+        "titleMain": "Offer your",
+        "titleItalic": "warmth",
+        "body": "Place a hand on your heart or wrap yourself in a soft blanket. Physical warmth mimics a loving embrace and calms the body.",
+        "handle": "@sagebloom.heal"
       }
     },
     {
       "layoutId": "body-pastel-soft",
       "slots": {
-        "authorName": "Leah James",
+        "authorName": "Sage Bloom",
         "pageOf": "6 / 8",
         "number": "5",
         "numberLabel": "Way",
-        "titleMain": "Hum or sing",
-        "titleItalic": "quietly",
-        "body": "Sound vibrations calm the nervous system. Hum a low tone and notice the settling wave through your chest.",
-        "handle": "@leahjames.heal"
+        "titleMain": "Hum or",
+        "titleItalic": "vocalize",
+        "body": "Humming, singing, or even a deep sigh stimulates the vagus nerve. Your voice becomes a tool to shift you into rest mode.",
+        "handle": "@sagebloom.heal"
       }
     },
     {
       "layoutId": "body-pastel-soft",
       "slots": {
-        "authorName": "Leah James",
+        "authorName": "Sage Bloom",
         "pageOf": "7 / 8",
         "number": "6",
         "numberLabel": "Way",
-        "titleMain": "Step outside",
-        "titleItalic": "briefly",
-        "body": "Fresh air and wide horizons reset an overloaded mind. Even two minutes of nature can steady you.",
-        "handle": "@leahjames.heal"
+        "titleMain": "Name the",
+        "titleItalic": "feeling",
+        "body": "Say to yourself, 'I am overwhelmed, and that is okay.' Naming emotions reduces amygdala activity and creates spaciousness inside.",
+        "handle": "@sagebloom.heal"
       }
     },
     {
       "layoutId": "cta-pastel-soft",
       "slots": {
-        "authorName": "Leah James",
+        "authorName": "Sage Bloom",
         "pageOf": "8 / 8",
         "eyebrow": "YOUR TURN",
-        "headlineMain": "Which tip",
-        "headlineItalic": "resonates?",
-        "body": "Save this post for hard days, and share it with someone who needs a little calm today.",
+        "headlineMain": "Save these",
+        "headlineItalic": "tools",
+        "body": "Which practice will you try first? Share this with someone who needs a gentle reminder today.",
         "buttonLabel": "Save this",
         "secondaryLabel": "Share with a friend",
-        "handle": "@leahjames.heal"
+        "handle": "@sagebloom.heal"
       }
     }
   ]

@@ -1,0 +1,126 @@
+{
+  "id": "supabase-stack",
+  "brand": "SHIPSTACK",
+  "brief": "The Supabase + Next.js stack that powers 3 of my SaaS products — full breakdown.",
+  "theme": "dark-navy",
+  "slides": [
+    {
+      "layoutId": "cover-dark-navy",
+      "slots": {
+        "brand": "SHIPSTACK",
+        "versionLabel": "v2.0",
+        "prompt": "npx create-saas@latest --stack=supabase",
+        "headLine1": "The",
+        "headLine2": "Stack",
+        "headLine3": "That Scales",
+        "subline": "The exact Supabase + Next.js architecture I use to run three SaaS products with zero backend overhead.",
+        "stat1Num": "3x",
+        "stat2Num": "4hrs",
+        "stat3Num": "99%",
+        "stat1Label": "SaaS shipped",
+        "stat2Label": "Setup time",
+        "stat3Label": "Uptime SLA",
+        "ctaLabel": "Read the thread",
+        "totalSlides": "8"
+      }
+    },
+    {
+      "layoutId": "body-dark-navy",
+      "slots": {
+        "brand": "SHIPSTACK",
+        "pageOf": "02/08",
+        "stepLabel": "// initialize the postgres database cluster",
+        "number": "1",
+        "titleMain": "Postgres",
+        "titleOrange": "out of box",
+        "body": "Supabase gives me a managed Postgres cluster with RLS, auth, and real-time subscriptions. No ORM mapping required; just SQL and type-safe queries via the client.",
+        "codePill": "supabase.from('projects').select('*')",
+        "handle": "@shipstack"
+      }
+    },
+    {
+      "layoutId": "body-dark-navy",
+      "slots": {
+        "brand": "SHIPSTACK",
+        "pageOf": "03/08",
+        "stepLabel": "// wire up the authentication flows",
+        "number": "2",
+        "titleMain": "Auth",
+        "titleOrange": "solved",
+        "body": "Built-in OAuth, magic links, and JWT handling mean I never build a login flow from scratch. RLS policies lock every row to the requesting user automatically.",
+        "codePill": "create policy \"user_is_owner\" on projects",
+        "handle": "@shipstack"
+      }
+    },
+    {
+      "layoutId": "body-dark-navy",
+      "slots": {
+        "brand": "SHIPSTACK",
+        "pageOf": "04/08",
+        "stepLabel": "// build out the frontend shell",
+        "number": "3",
+        "titleMain": "App Router",
+        "titleOrange": "patterns",
+        "body": "Next.js 14 App Router with server components fetches data at the edge. I stream UI from Supabase without exposing API keys to the client bundle.",
+        "codePill": "export default async function Page()",
+        "handle": "@shipstack"
+      }
+    },
+    {
+      "layoutId": "body-dark-navy",
+      "slots": {
+        "brand": "SHIPSTACK",
+        "pageOf": "05/08",
+        "stepLabel": "// generate end-to-end type contracts",
+        "number": "4",
+        "titleMain": "End-to-end",
+        "titleOrange": "types",
+        "body": "Supabase CLI introspects the schema and emits TypeScript definitions. My frontend catches breaking database changes at build time, not in production logs.",
+        "codePill": "supabase gen types --lang=typescript",
+        "handle": "@shipstack"
+      }
+    },
+    {
+      "layoutId": "body-dark-navy",
+      "slots": {
+        "brand": "SHIPSTACK",
+        "pageOf": "06/08",
+        "stepLabel": "// deploy straight to the edge",
+        "number": "5",
+        "titleMain": "Vercel",
+        "titleOrange": "deploy",
+        "body": "Push to main triggers a zero-downtime edge deployment. Serverless functions colocate with the database for sub-100ms cold starts and automatic HTTPS.",
+        "codePill": "git push origin main",
+        "handle": "@shipstack"
+      }
+    },
+    {
+      "layoutId": "body-dark-navy",
+      "slots": {
+        "brand": "SHIPSTACK",
+        "pageOf": "07/08",
+        "stepLabel": "// scale without adding ops debt",
+        "number": "6",
+        "titleMain": "Infinite",
+        "titleOrange": "scale",
+        "body": "Connection pooling, automated backups, and row-level security scale from ten users to ten thousand. I focus on product while the platform handles infra.",
+        "codePill": "npm run ship",
+        "handle": "@shipstack"
+      }
+    },
+    {
+      "layoutId": "cta-dark-navy",
+      "slots": {
+        "brand": "SHIPSTACK",
+        "pageOf": "08/08",
+        "terminalTag": "follow --for=stack-breakdowns",
+        "headLine1": "Ship",
+        "headLine2": "faster",
+        "body": "Steal this exact Supabase + Next.js blueprint. Drop your email for the starter repo and deploy your first SaaS tonight.",
+        "buttonLabel": "Get the repo",
+        "secondaryNote": "follow for more threads",
+        "handle": "@shipstack"
+      }
+    }
+  ]
+}

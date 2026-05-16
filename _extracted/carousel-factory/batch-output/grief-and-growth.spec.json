@@ -1,21 +1,21 @@
 {
   "id": "grief-and-growth",
-  "brand": "Sage Bloom",
+  "brand": "Elena Voss",
   "brief": "How grief becomes growth — 5 truths nobody tells you about healing.",
   "theme": "pastel-soft",
   "slides": [
     {
       "layoutId": "cover-pastel-soft",
       "slots": {
-        "authorInitials": "SB",
-        "authorName": "Sage Bloom",
-        "handle": "@sagebloom",
+        "authorInitials": "EV",
+        "authorName": "Elena Voss",
+        "handle": "@elenavoss",
         "tagBlue": "Self Growth",
         "tagPink": "Healing",
-        "titleLine1": "How to",
+        "titleLine1": "How grief",
         "titleLine2": "actually",
-        "titleLine3": "grow from grief",
-        "subtitle": "The truths nobody tells you about turning pain into quiet strength.",
+        "titleLine3": "becomes growth",
+        "subtitle": "Five truths about healing no one prepares you for, and why your pain is not a problem to solve.",
         "ctaLabel": "Read below",
         "slideCount": "8"
       }
@@ -23,93 +23,93 @@
     {
       "layoutId": "body-pastel-soft",
       "slots": {
-        "authorName": "Sage Bloom",
+        "authorName": "Elena Voss",
         "pageOf": "2 / 8",
         "number": "1",
-        "numberLabel": "Truth",
-        "titleMain": "Grief has",
-        "titleItalic": "no timeline",
-        "body": "Society rushes you to move on, but healing unfolds at its own pace. Honoring your rhythm is the first act of self-compassion.",
-        "handle": "@sagebloom"
+        "numberLabel": "Start",
+        "titleMain": "Before the",
+        "titleItalic": "healing",
+        "body": "Healing doesn't begin when the tears stop. It begins when you let yourself feel them without rushing to fix anything.",
+        "handle": "@elenavoss"
       }
     },
     {
       "layoutId": "body-pastel-soft",
       "slots": {
-        "authorName": "Sage Bloom",
+        "authorName": "Elena Voss",
         "pageOf": "3 / 8",
         "number": "2",
         "numberLabel": "Truth",
-        "titleMain": "Growth is",
-        "titleItalic": "nonlinear",
-        "body": "Some days you soar; others you crumble. Both are sacred. Progress is not a straight line, but a gentle spiral upward.",
-        "handle": "@sagebloom"
+        "titleMain": "No fixed",
+        "titleItalic": "timeline",
+        "body": "Society wants grief to expire, but your heart keeps its own calendar. There is no 'too long' for missing what you loved.",
+        "handle": "@elenavoss"
       }
     },
     {
       "layoutId": "body-pastel-soft",
       "slots": {
-        "authorName": "Sage Bloom",
+        "authorName": "Elena Voss",
         "pageOf": "4 / 8",
         "number": "3",
         "numberLabel": "Truth",
-        "titleMain": "Pain can",
-        "titleItalic": "transform",
-        "body": "What breaks you also builds you. Over time, sorrow softens into empathy, and your scars become quiet maps of resilience.",
-        "handle": "@sagebloom"
+        "titleMain": "Numbness is",
+        "titleItalic": "grieving",
+        "body": "Feeling nothing doesn't mean you're broken. Sometimes shutdown is the only way your nervous system can carry the weight of loss.",
+        "handle": "@elenavoss"
       }
     },
     {
       "layoutId": "body-pastel-soft",
       "slots": {
-        "authorName": "Sage Bloom",
+        "authorName": "Elena Voss",
         "pageOf": "5 / 8",
         "number": "4",
         "numberLabel": "Truth",
-        "titleMain": "True joy",
-        "titleItalic": "coexists",
-        "body": "You do not betray your loss by laughing again. Joy and grief can hold hands, creating space for a fuller heart.",
-        "handle": "@sagebloom"
+        "titleMain": "You become",
+        "titleItalic": "someone new",
+        "body": "You won't return to your old self, and that's okay. Grief reshapes you into a version with deeper roots and tender wisdom.",
+        "handle": "@elenavoss"
       }
     },
     {
       "layoutId": "body-pastel-soft",
       "slots": {
-        "authorName": "Sage Bloom",
+        "authorName": "Elena Voss",
         "pageOf": "6 / 8",
         "number": "5",
         "numberLabel": "Truth",
-        "titleMain": "You are",
-        "titleItalic": "never alone",
-        "body": "Isolation whispers lies. Reaching out, even in silence, weaves connection. There are others who understand and will sit with your pain.",
-        "handle": "@sagebloom"
+        "titleMain": "Joy and pain",
+        "titleItalic": "coexist",
+        "body": "You can laugh at a memory while your chest aches. Both emotions are honest, and neither betrays the love you carry.",
+        "handle": "@elenavoss"
       }
     },
     {
       "layoutId": "body-pastel-soft",
       "slots": {
-        "authorName": "Sage Bloom",
+        "authorName": "Elena Voss",
         "pageOf": "7 / 8",
         "number": "6",
         "numberLabel": "Truth",
-        "titleMain": "That love",
-        "titleItalic": "remains",
-        "body": "What you loved does not disappear. It changes shape, becoming a gentle presence that walks beside you into your new dawn.",
-        "handle": "@sagebloom"
+        "titleMain": "Growth is",
+        "titleItalic": "softening",
+        "body": "The goal isn't to get over it. It's to grow around it, letting your scars become quiet proof of how deeply you loved.",
+        "handle": "@elenavoss"
       }
     },
     {
       "layoutId": "cta-pastel-soft",
       "slots": {
-        "authorName": "Sage Bloom",
+        "authorName": "Elena Voss",
         "pageOf": "8 / 8",
         "eyebrow": "YOUR TURN",
-        "headlineMain": "Keep this",
-        "headlineItalic": "close",
-        "body": "Healing is brave. Save these truths for the days you need a soft reminder that you are still growing.",
+        "headlineMain": "Which truth",
+        "headlineItalic": "resonated?",
+        "body": "Save this for the days you need a gentle reminder that your healing is valid, messy, and uniquely yours.",
         "buttonLabel": "Save this",
         "secondaryLabel": "Share with a friend",
-        "handle": "@sagebloom"
+        "handle": "@elenavoss"
       }
     }
   ]

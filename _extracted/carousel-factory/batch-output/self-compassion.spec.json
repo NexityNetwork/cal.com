@@ -1,21 +1,21 @@
 {
   "id": "self-compassion",
-  "brand": "Maya Bennett",
+  "brand": "Nora Wells",
   "brief": "5 self-compassion practices that replaced toxic positivity for good.",
   "theme": "pastel-soft",
   "slides": [
     {
       "layoutId": "cover-pastel-soft",
       "slots": {
-        "authorInitials": "MB",
-        "authorName": "Maya Bennett",
-        "handle": "@mayabennett",
+        "authorInitials": "NW",
+        "authorName": "Nora Wells",
+        "handle": "@norawellness",
         "tagBlue": "Self Growth",
         "tagPink": "Mindset",
-        "titleLine1": "Replace",
-        "titleLine2": "toxic positivity",
-        "titleLine3": "for good",
-        "subtitle": "5 self-compassion practices to help you honor real feelings and build lasting inner peace.",
+        "titleLine1": "How to",
+        "titleLine2": "actually",
+        "titleLine3": "heal",
+        "subtitle": "Five self-compassion practices that gently replace toxic positivity and help you feel whole again.",
         "ctaLabel": "Read below",
         "slideCount": "8"
       }
@@ -23,93 +23,93 @@
     {
       "layoutId": "body-pastel-soft",
       "slots": {
-        "authorName": "Maya Bennett",
+        "authorName": "Nora Wells",
         "pageOf": "2 / 8",
         "number": "1",
         "numberLabel": "Insight",
         "titleMain": "Toxic positivity",
         "titleItalic": "hurts",
-        "body": "Pushing pain aside with 'good vibes only' invalidates your experience and deepens shame. Real healing starts with honest acceptance.",
-        "handle": "@mayabennett"
+        "body": "Pushing bad feelings away with forced optimism only deepens shame. True healing begins when we stop judging our own pain.",
+        "handle": "@norawellness"
       }
     },
     {
       "layoutId": "body-pastel-soft",
       "slots": {
-        "authorName": "Maya Bennett",
+        "authorName": "Nora Wells",
         "pageOf": "3 / 8",
         "number": "2",
-        "numberLabel": "Practice",
+        "numberLabel": "Step",
         "titleMain": "Validate your",
         "titleItalic": "feelings",
-        "body": "Instead of numbing sadness, name it gently. Saying 'this is hard' gives your emotions the space they need to soften naturally.",
-        "handle": "@mayabennett"
+        "body": "Instead of saying 'just be positive,' try 'this is really hard right now.' Naming your emotion reduces its grip immediately.",
+        "handle": "@norawellness"
       }
     },
     {
       "layoutId": "body-pastel-soft",
       "slots": {
-        "authorName": "Maya Bennett",
+        "authorName": "Nora Wells",
         "pageOf": "4 / 8",
         "number": "3",
-        "numberLabel": "Practice",
-        "titleMain": "Talk like a",
+        "numberLabel": "Step",
+        "titleMain": "Speak like a",
         "titleItalic": "friend",
-        "body": "Would you shame a loved one for struggling? Offer yourself the same kindness. Your inner voice deserves compassion, not criticism.",
-        "handle": "@mayabennett"
+        "body": "Would you shame a loved one for struggling? Offer yourself the same kindness. Your inner voice deserves softness, not criticism.",
+        "handle": "@norawellness"
       }
     },
     {
       "layoutId": "body-pastel-soft",
       "slots": {
-        "authorName": "Maya Bennett",
+        "authorName": "Nora Wells",
         "pageOf": "5 / 8",
         "number": "4",
-        "numberLabel": "Practice",
+        "numberLabel": "Step",
         "titleMain": "Rest without",
         "titleItalic": "guilt",
-        "body": "Productivity is not a measure of worth. Giving yourself permission to pause is a radical act of self-compassion and care.",
-        "handle": "@mayabennett"
+        "body": "Productivity is not a measure of worth. Give yourself full permission to pause when your body and heart ask for it.",
+        "handle": "@norawellness"
       }
     },
     {
       "layoutId": "body-pastel-soft",
       "slots": {
-        "authorName": "Maya Bennett",
+        "authorName": "Nora Wells",
         "pageOf": "6 / 8",
         "number": "5",
-        "numberLabel": "Practice",
-        "titleMain": "Embrace being",
-        "titleItalic": "human",
-        "body": "Perfection is an impossible standard. Allowing yourself to make mistakes reduces anxiety and builds resilience through every messy moment.",
-        "handle": "@mayabennett"
+        "numberLabel": "Step",
+        "titleMain": "Remember your",
+        "titleItalic": "humanity",
+        "body": "Suffering is not a personal failure; it is part of being human. Connection grows when we share truth instead of masks.",
+        "handle": "@norawellness"
       }
     },
     {
       "layoutId": "body-pastel-soft",
       "slots": {
-        "authorName": "Maya Bennett",
+        "authorName": "Nora Wells",
         "pageOf": "7 / 8",
         "number": "6",
-        "numberLabel": "Practice",
-        "titleMain": "Honor your",
-        "titleItalic": "truth",
-        "body": "It is okay to say 'I am not okay right now.' Setting boundaries with forced optimism protects your energy and restores authenticity.",
-        "handle": "@mayabennett"
+        "numberLabel": "Step",
+        "titleMain": "Offer gentle",
+        "titleItalic": "care",
+        "body": "Place a hand on your heart. Brew warm tea. These small rituals signal safety to your nervous system and restore calm.",
+        "handle": "@norawellness"
       }
     },
     {
       "layoutId": "cta-pastel-soft",
       "slots": {
-        "authorName": "Maya Bennett",
+        "authorName": "Nora Wells",
         "pageOf": "8 / 8",
         "eyebrow": "YOUR TURN",
         "headlineMain": "Choose one",
         "headlineItalic": "today",
-        "body": "Pick the practice that resonates most and try it gently. You are worthy of the same compassion you give others.",
+        "body": "Which practice will you try first? Save this carousel and come back whenever you need a gentle reminder.",
         "buttonLabel": "Save this",
         "secondaryLabel": "Share with a friend",
-        "handle": "@mayabennett"
+        "handle": "@norawellness"
       }
     }
   ]

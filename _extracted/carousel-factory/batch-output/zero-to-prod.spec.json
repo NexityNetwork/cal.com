@@ -1,0 +1,126 @@
+{
+  "id": "zero-to-prod",
+  "brand": "SOLOSTACK",
+  "brief": "Zero to production in 7 days — the technical playbook for solo founders in 2026.",
+  "theme": "dark-navy",
+  "slides": [
+    {
+      "layoutId": "cover-dark-navy",
+      "slots": {
+        "brand": "SOLOSTACK",
+        "versionLabel": "v2.0",
+        "prompt": "npm run ship --stack=boring --team=1 --deadline=7d",
+        "headLine1": "Zero",
+        "headLine2": "to Prod",
+        "headLine3": "7 Days",
+        "subline": "The technical playbook for solo founders shipping production-grade SaaS without a team.",
+        "stat1Num": "7d",
+        "stat1Label": "Ship to prod",
+        "stat2Num": "1",
+        "stat2Label": "Solo operator",
+        "stat3Num": "2026",
+        "stat3Label": "Playbook edition",
+        "ctaLabel": "Read the thread",
+        "totalSlides": "8"
+      }
+    },
+    {
+      "layoutId": "body-dark-navy",
+      "slots": {
+        "brand": "SOLOSTACK",
+        "pageOf": "02/08",
+        "stepLabel": "// select your stack — opinionated defaults",
+        "number": "1",
+        "titleMain": "Pick your",
+        "titleOrange": "stack",
+        "body": "Use proven stacks: Next.js, Postgres, and Tailwind. Novelty is debt when you're solo. Ship with what you know.",
+        "codePill": "npx create-next-app@latest",
+        "handle": "@solostack"
+      }
+    },
+    {
+      "layoutId": "body-dark-navy",
+      "slots": {
+        "brand": "SOLOSTACK",
+        "pageOf": "03/08",
+        "stepLabel": "// scaffold auth in minutes, not days",
+        "number": "2",
+        "titleMain": "Auth is",
+        "titleOrange": "solved",
+        "body": "Integrate OAuth and magic links via Clerk or Auth.js. Don't build identity from scratch. Focus on your core loop.",
+        "codePill": "npm install @clerk/nextjs",
+        "handle": "@solostack"
+      }
+    },
+    {
+      "layoutId": "body-dark-navy",
+      "slots": {
+        "brand": "SOLOSTACK",
+        "pageOf": "04/08",
+        "stepLabel": "// define schema first, write logic second",
+        "number": "3",
+        "titleMain": "Model the",
+        "titleOrange": "data",
+        "body": "Define your schema in Prisma or Drizzle. Write the core business logic before touching UI polish. Data outlives code.",
+        "codePill": "npx prisma db push",
+        "handle": "@solostack"
+      }
+    },
+    {
+      "layoutId": "body-dark-navy",
+      "slots": {
+        "brand": "SOLOSTACK",
+        "pageOf": "05/08",
+        "stepLabel": "// ship ugly, then polish fast",
+        "number": "4",
+        "titleMain": "UI at",
+        "titleOrange": "speed",
+        "body": "Use shadcn/ui and copy-paste components. Avoid custom CSS rabbit holes. Consistency beats novelty for user trust.",
+        "codePill": "npx shadcn add dashboard",
+        "handle": "@solostack"
+      }
+    },
+    {
+      "layoutId": "body-dark-navy",
+      "slots": {
+        "brand": "SOLOSTACK",
+        "pageOf": "06/08",
+        "stepLabel": "// deploy on push, sleep at night",
+        "number": "5",
+        "titleMain": "Push to",
+        "titleOrange": "prod",
+        "body": "Connect GitHub to Vercel or Railway. Preview branches catch bugs before prod. Your pipeline is your safety net.",
+        "codePill": "git push origin main",
+        "handle": "@solostack"
+      }
+    },
+    {
+      "layoutId": "body-dark-navy",
+      "slots": {
+        "brand": "SOLOSTACK",
+        "pageOf": "07/08",
+        "stepLabel": "// launch loud today, monitor silently tomorrow",
+        "number": "6",
+        "titleMain": "Launch and",
+        "titleOrange": "monitor",
+        "body": "Post on Product Hunt and Hacker News. Wire up Sentry and PostHog. Watch errors and events in real time.",
+        "codePill": "npx @sentry/wizard@latest",
+        "handle": "@solostack"
+      }
+    },
+    {
+      "layoutId": "cta-dark-navy",
+      "slots": {
+        "brand": "SOLOSTACK",
+        "pageOf": "08/08",
+        "terminalTag": "npm run deploy --target=feed --notify",
+        "headLine1": "Ship",
+        "headLine2": "now",
+        "body": "Save this thread and run the playbook. Your production deploy is closer than you think.",
+        "buttonLabel": "Follow for more",
+        "secondaryNote": "// follow @solostack for weekly playbooks",
+        "handle": "@solostack"
+      }
+    }
+  ]
+}
