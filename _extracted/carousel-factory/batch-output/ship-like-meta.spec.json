@@ -1,6 +1,6 @@
 {
   "id": "ship-like-meta",
-  "brand": "Operator",
+  "brand": "Solo Stack",
   "brief": "How a solo founder ships like a Meta team — 8 internal tools every operator should clone.",
   "theme": "rounded-card",
   "slides": [
@@ -9,25 +9,25 @@
       "slots": {
         "pageBadge": "01",
         "headlineLine1": "Ship like a",
-        "headlineLine2": "Meta engineering team",
-        "body": "Solo founders move slow because they lack the internal tooling giants take for granted.",
-        "bodyAccent": "Without the headcount."
+        "headlineLine2": "Meta product team",
+        "body": "Solo founders don't need headcount to move fast. They need the right internal stack.",
+        "bodyAccent": "without the 200-person overhead."
       }
     },
     {
       "layoutId": "body-rounded-card",
       "slots": {
         "pageBadge": "02",
-        "handle": "@operator",
+        "handle": "@systemssolo",
         "number": "01",
-        "title": "Write a",
-        "titleAccent": "spec first",
-        "body": "Meta engineers don’t ship without an RFC. Solo founders should write a one-page PRD before any build. It kills scope creep and aligns your future self.",
-        "ico1": "📝",
-        "ico2": "⚙️",
-        "ico3": "🐛",
-        "ico4": "✅",
-        "nextNote": "Next: async standups",
+        "title": "Centralize your",
+        "titleAccent": "company brain",
+        "body": "Notion or Obsidian becomes your internal wiki. Store SOPs, docs, and notes in one searchable hub so nothing lives in a DM.",
+        "ico1": "🧠",
+        "ico2": "📝",
+        "ico3": "🔍",
+        "ico4": "📚",
+        "nextNote": "Next: the roadmap",
         "pageOf": "02 / 08"
       }
     },
@@ -35,16 +35,16 @@
       "layoutId": "body-rounded-card",
       "slots": {
         "pageBadge": "03",
-        "handle": "@operator",
+        "handle": "@systemssolo",
         "number": "02",
-        "title": "Async daily",
-        "titleAccent": "standups",
-        "body": "Replace meetings with a 3-bullet update: yesterday, today, blockers. Use a Notion page or Slack bot to track momentum without the Zoom fatigue.",
-        "ico1": "🌅",
-        "ico2": "📊",
-        "ico3": "🧱",
-        "ico4": "✅",
-        "nextNote": "Next: brand system",
+        "title": "Run a tight",
+        "titleAccent": "project OS",
+        "body": "Linear or Height replaces hallway standups. Define owners, deadlines, and blockers so every feature ships on time without chaos.",
+        "ico1": "📋",
+        "ico2": "🏗️",
+        "ico3": "✅",
+        "ico4": "🚀",
+        "nextNote": "Next: content factory",
         "pageOf": "03 / 08"
       }
     },
@@ -52,16 +52,16 @@
       "layoutId": "body-rounded-card",
       "slots": {
         "pageBadge": "04",
-        "handle": "@operator",
+        "handle": "@systemssolo",
         "number": "03",
-        "title": "Centralize the",
-        "titleAccent": "brand system",
-        "body": "Create a single Figma hub with logos, colors, copy snippets, and templates. It turns every post, ad, and deck into a 5-minute task.",
+        "title": "Build a content",
+        "titleAccent": "assembly line",
+        "body": "Figma templates, AI drafts, and a Notion calendar let one person produce and distribute like a full creative department daily.",
         "ico1": "🎨",
-        "ico2": "📐",
-        "ico3": "✍️",
-        "ico4": "🖼️",
-        "nextNote": "Next: auto onboarding",
+        "ico2": "✍️",
+        "ico3": "🤖",
+        "ico4": "📅",
+        "nextNote": "Next: automation layer",
         "pageOf": "04 / 08"
       }
     },
@@ -69,16 +69,16 @@
       "layoutId": "body-rounded-card",
       "slots": {
         "pageBadge": "05",
-        "handle": "@operator",
+        "handle": "@systemssolo",
         "number": "04",
-        "title": "Automate user",
-        "titleAccent": "onboarding",
-        "body": "Build a 5-email sequence and an in-app checklist that activates new users while you sleep. It’s your 24/7 customer success team.",
-        "ico1": "📧",
-        "ico2": "✅",
-        "ico3": "🤖",
-        "ico4": "📈",
-        "nextNote": "Next: metrics cockpit",
+        "title": "Wire an",
+        "titleAccent": "auto switchboard",
+        "body": "Zapier or Make connects your leads, invoices, and alerts. Automate the busywork so you only touch exceptions that matter.",
+        "ico1": "⚡",
+        "ico2": "🔗",
+        "ico3": "📥",
+        "ico4": "🤖",
+        "nextNote": "Next: data command",
         "pageOf": "05 / 08"
       }
     },
@@ -86,16 +86,16 @@
       "layoutId": "body-rounded-card",
       "slots": {
         "pageBadge": "06",
-        "handle": "@operator",
+        "handle": "@systemssolo",
         "number": "05",
-        "title": "Build a",
-        "titleAccent": "metrics cockpit",
-        "body": "Pull revenue, churn, and acquisition into one real-time dashboard. Data-driven decisions separate operators from hobbyists.",
+        "title": "Own your",
+        "titleAccent": "data command",
+        "body": "A simple Looker Studio or Notion dashboard tracks North Star metrics. Review weekly to kill assumptions and double down fast.",
         "ico1": "📊",
         "ico2": "🎯",
-        "ico3": "💰",
-        "ico4": "⚡",
-        "nextNote": "Next: AI agent swarm",
+        "ico3": "📈",
+        "ico4": "🔮",
+        "nextNote": "Next: AI workforce",
         "pageOf": "06 / 08"
       }
     },
@@ -103,16 +103,16 @@
       "layoutId": "body-rounded-card",
       "slots": {
         "pageBadge": "07",
-        "handle": "@operator",
+        "handle": "@systemssolo",
         "number": "06",
-        "title": "Deploy your",
-        "titleAccent": "AI agents",
-        "body": "Use agents for support tickets, content drafts, and code review. You get parallel output without parallel payroll.",
+        "title": "Deploy an",
+        "titleAccent": "AI workforce",
+        "body": "Custom GPTs and agent workflows handle research, replies, and reporting. You become the operator, not the labor.",
         "ico1": "🤖",
-        "ico2": "💬",
-        "ico3": "📝",
-        "ico4": "🔍",
-        "nextNote": "Next: your turn",
+        "ico2": "🧑‍💻",
+        "ico3": "💬",
+        "ico4": "📡",
+        "nextNote": "Next: start building",
         "pageOf": "07 / 08"
       }
     },
@@ -120,15 +120,15 @@
       "layoutId": "cta-rounded-card",
       "slots": {
         "pageBadge": "08",
-        "handle": "@operator",
+        "handle": "@systemssolo",
         "eyebrow": "YOUR TURN",
-        "headlineLine1": "Clone the",
-        "headlineLine2": "Meta stack",
-        "body": "Pick one tool this week and build it in public. Speed is a feature, and your solo stack is the unfair advantage.",
-        "buttonLabel": "Build your stack now",
-        "secondaryLabel": "Follow @operator",
-        "footerLeft": "Built for founders",
-        "footerRight": "Share this post"
+        "headlineLine1": "Build your",
+        "headlineLine2": "internal stack today",
+        "body": "Pick one tool this week and wire it up. Speed comes from systems, not more hours.",
+        "buttonLabel": "Get the toolkit",
+        "secondaryLabel": "Follow @systemssolo",
+        "footerLeft": "Save this ↓",
+        "footerRight": "Share with a founder"
       }
     }
   ]
