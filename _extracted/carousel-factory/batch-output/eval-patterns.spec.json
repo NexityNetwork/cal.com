@@ -1,0 +1,160 @@
+{
+  "id": "eval-patterns",
+  "brand": "techwith.ram",
+  "brief": "The 6 eval patterns that catch AI regressions before customers do — with thresholds.",
+  "theme": "mono-pattern",
+  "slides": [
+    {
+      "layoutId": "cover-mono-pattern",
+      "slots": {
+        "pageOf": "01 / 08",
+        "handle": "techwith.ram",
+        "patternLabel": "PATTERN 01 / INTRO",
+        "word1": "THE",
+        "word2": "SIX EVAL",
+        "word3": "PATTERNS",
+        "body": "These six evaluation patterns catch silent AI regressions in staging and production using hard thresholds that block bad releases before users ever feel the pain.",
+        "ctaText": "Swipe to Read More",
+        "rightNote": "6 patterns inside",
+        "footerLeft": "carousel · 01",
+        "footerRight": "techwith.ram"
+      }
+    },
+    {
+      "layoutId": "body-mono-pattern",
+      "slots": {
+        "pageOf": "02 / 08",
+        "handle": "techwith.ram",
+        "patternLabel": "PATTERN 01",
+        "titleWord1": "THE",
+        "titleWord2": "GOLDEN DATASET",
+        "body": "Run a frozen benchmark suite on every model change. If accuracy drops more than two percent, block the release.",
+        "flow1": "Frozen Benchmark",
+        "flow2": "CI Pipeline — runs suite",
+        "flow3": "Gate — blocks < 98%",
+        "card1Key": "BEST FOR",
+        "card1Body": "Model version bumps and fine-tuning validation before production deploys.",
+        "card2Key": "KEY INSIGHT",
+        "card2Body": "A 2% accuracy drop on gold data predicts a 10x spike in user complaints.",
+        "footerLeft": "carousel · 02",
+        "footerRight": "techwith.ram"
+      }
+    },
+    {
+      "layoutId": "body-mono-pattern",
+      "slots": {
+        "pageOf": "03 / 08",
+        "handle": "techwith.ram",
+        "patternLabel": "PATTERN 02",
+        "titleWord1": "THE",
+        "titleWord2": "CANARY QUERY",
+        "body": "Inject known-answer questions into live traffic. Alert when the success rate falls below ninety-five percent.",
+        "flow1": "Known Questions",
+        "flow2": "Shadow Traffic — probes model",
+        "flow3": "Alert — rate < 95%",
+        "card1Key": "BEST FOR",
+        "card1Body": "Catching prompt regressions and config changes in production traffic.",
+        "card2Key": "KEY INSIGHT",
+        "card2Body": "Five canaries with 100% historical accuracy expose silent failures instantly.",
+        "footerLeft": "carousel · 03",
+        "footerRight": "techwith.ram"
+      }
+    },
+    {
+      "layoutId": "body-mono-pattern",
+      "slots": {
+        "pageOf": "04 / 08",
+        "handle": "techwith.ram",
+        "patternLabel": "PATTERN 03",
+        "titleWord1": "THE",
+        "titleWord2": "HUMAN LOOP",
+        "body": "Sample production outputs daily for human review. Flag the pipeline when error rates exceed three percent.",
+        "flow1": "Random Sample",
+        "flow2": "Reviewer — scores outputs",
+        "flow3": "Flag — error > 3%",
+        "card1Key": "BEST FOR",
+        "card1Body": "Subjective tasks where automated metrics fail to capture true quality.",
+        "card2Key": "KEY INSIGHT",
+        "card2Body": "Human spot checks find edge cases that automated tests completely miss.",
+        "footerLeft": "carousel · 04",
+        "footerRight": "techwith.ram"
+      }
+    },
+    {
+      "layoutId": "body-mono-pattern",
+      "slots": {
+        "pageOf": "05 / 08",
+        "handle": "techwith.ram",
+        "patternLabel": "PATTERN 04",
+        "titleWord1": "THE",
+        "titleWord2": "A/B GATE",
+        "body": "Route ten percent of traffic to the challenger model. Roll back if conversion or accuracy lags the champion.",
+        "flow1": "10% Traffic",
+        "flow2": "Challenger — serves live",
+        "flow3": "Compare — delta > 1%",
+        "card1Key": "BEST FOR",
+        "card1Body": "Safe production launches with real user impact validation.",
+        "card2Key": "KEY INSIGHT",
+        "card2Body": "A one percent lift in a gold metric beats a hundred percent on a static test.",
+        "footerLeft": "carousel · 05",
+        "footerRight": "techwith.ram"
+      }
+    },
+    {
+      "layoutId": "body-mono-pattern",
+      "slots": {
+        "pageOf": "06 / 08",
+        "handle": "techwith.ram",
+        "patternLabel": "PATTERN 05",
+        "titleWord1": "THE",
+        "titleWord2": "DRIFT DETECTOR",
+        "body": "Monitor embedding distance between recent inputs and training distribution. Trigger retraining at KL divergence above zero point one.",
+        "flow1": "Input Stream",
+        "flow2": "Embedding — measures distance",
+        "flow3": "Trigger — KL > 0.1",
+        "card1Key": "BEST FOR",
+        "card1Body": "Detecting when user behavior shifts and model assumptions become stale.",
+        "card2Key": "KEY INSIGHT",
+        "card2Body": "Embedding drift precedes accuracy decay by weeks in most language models.",
+        "footerLeft": "carousel · 06",
+        "footerRight": "techwith.ram"
+      }
+    },
+    {
+      "layoutId": "body-mono-pattern",
+      "slots": {
+        "pageOf": "07 / 08",
+        "handle": "techwith.ram",
+        "patternLabel": "PATTERN 06",
+        "titleWord1": "THE",
+        "titleWord2": "LATENCY BUDGET",
+        "body": "Enforce a p99 response time ceiling. If inference exceeds eight hundred milliseconds, degrade gracefully or fallback.",
+        "flow1": "Request Stream",
+        "flow2": "Monitor — tracks p99",
+        "flow3": "Fallback — p99 > 800ms",
+        "card1Key": "BEST FOR",
+        "card1Body": "User experience protection when model size or load spikes unexpectedly.",
+        "card2Key": "KEY INSIGHT",
+        "card2Body": "Latency regressions correlate with timeout errors and user churn directly.",
+        "footerLeft": "carousel · 07",
+        "footerRight": "techwith.ram"
+      }
+    },
+    {
+      "layoutId": "cta-mono-pattern",
+      "slots": {
+        "pageOf": "08 / 08",
+        "handle": "techwith.ram",
+        "patternLabel": "WRAP / OVER TO YOU",
+        "word1": "PICK",
+        "word2": "ONE PATTERN",
+        "body": "Start with one threshold this week. Build the habit before your next model ships to production.",
+        "quote": "HARD THRESHOLDS CATCH SILENT REGRESSIONS EARLY",
+        "buttonLabel": "Save this post",
+        "rightNote": "Ship safer",
+        "footerLeft": "carousel · 08",
+        "footerRight": "techwith.ram"
+      }
+    }
+  ]
+}
