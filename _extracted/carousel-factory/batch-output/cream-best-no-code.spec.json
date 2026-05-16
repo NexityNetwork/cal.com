@@ -1,0 +1,140 @@
+{
+  "id": "cream-best-no-code",
+  "brand": "Morgan K.",
+  "brief": "The 6 best no-code tools running 7-figure businesses — concrete examples.",
+  "theme": "cream-best",
+  "slides": [
+    {
+      "layoutId": "cover-cream-best",
+      "slots": {
+        "pageOf": "01 / 08",
+        "authorInitials": "MK",
+        "authorName": "Morgan K.",
+        "handle": "@morganbuilds",
+        "avatarBg1": "#1a202c",
+        "avatarBg2": "#d65f3e",
+        "headlineLine1": "BEST",
+        "headlineAccent": "NO-CODE",
+        "headlineLine3": "FOR 7 FIGURES"
+      }
+    },
+    {
+      "layoutId": "body-cream-best",
+      "slots": {
+        "pageOf": "01 / 06",
+        "authorInitials": "MK",
+        "authorName": "Morgan K.",
+        "handle": "@morganbuilds",
+        "avatarBg1": "#1a202c",
+        "avatarBg2": "#d65f3e",
+        "number": "01",
+        "title": "Webflow for scalable sites",
+        "body": "Flowbase turned Webflow templates into a 7-figure marketplace without writing code. It powers high-converting marketing sites for agencies and SaaS.",
+        "tileGlyph": "W",
+        "tileKey": "Best for",
+        "tileValue": "Visual development"
+      }
+    },
+    {
+      "layoutId": "body-cream-best",
+      "slots": {
+        "pageOf": "02 / 06",
+        "authorInitials": "MK",
+        "authorName": "Morgan K.",
+        "handle": "@morganbuilds",
+        "avatarBg1": "#1a202c",
+        "avatarBg2": "#d65f3e",
+        "number": "02",
+        "title": "Notion for info products",
+        "body": "Easlo built a 7-figure business selling Notion templates and dashboards to creators. It replaces docs, wikis, and project tools in one workspace.",
+        "tileGlyph": "N",
+        "tileKey": "Best for",
+        "tileValue": "Creator templates"
+      }
+    },
+    {
+      "layoutId": "body-cream-best",
+      "slots": {
+        "pageOf": "03 / 06",
+        "authorInitials": "MK",
+        "authorName": "Morgan K.",
+        "handle": "@morganbuilds",
+        "avatarBg1": "#1a202c",
+        "avatarBg2": "#d65f3e",
+        "number": "03",
+        "title": "Bubble for real apps",
+        "body": "Plato scaled a mentorship marketplace to millions in revenue using Bubble’s no-code backend. Complex logic, user accounts, and payments are handled visually.",
+        "tileGlyph": "B",
+        "tileKey": "Best for",
+        "tileValue": "Full-stack apps"
+      }
+    },
+    {
+      "layoutId": "body-cream-best",
+      "slots": {
+        "pageOf": "04 / 06",
+        "authorInitials": "MK",
+        "authorName": "Morgan K.",
+        "handle": "@morganbuilds",
+        "avatarBg1": "#1a202c",
+        "avatarBg2": "#d65f3e",
+        "number": "04",
+        "title": "Shopify for DTC brands",
+        "body": "Pura Vida Bracelets grew from a small idea to a 7-figure ecommerce brand on Shopify. Inventory, checkout, and marketing run out of the box.",
+        "tileGlyph": "S",
+        "tileKey": "Best for",
+        "tileValue": "Ecommerce stores"
+      }
+    },
+    {
+      "layoutId": "body-cream-best",
+      "slots": {
+        "pageOf": "05 / 06",
+        "authorInitials": "MK",
+        "authorName": "Morgan K.",
+        "handle": "@morganbuilds",
+        "avatarBg1": "#1a202c",
+        "avatarBg2": "#d65f3e",
+        "number": "05",
+        "title": "Kajabi for course empires",
+        "body": "Amy Porterfield runs an 8-figure digital course business entirely on Kajabi. It hosts content, email, and payments in one seamless platform.",
+        "tileGlyph": "K",
+        "tileKey": "Best for",
+        "tileValue": "Online courses"
+      }
+    },
+    {
+      "layoutId": "body-cream-best",
+      "slots": {
+        "pageOf": "06 / 06",
+        "authorInitials": "MK",
+        "authorName": "Morgan K.",
+        "handle": "@morganbuilds",
+        "avatarBg1": "#1a202c",
+        "avatarBg2": "#d65f3e",
+        "number": "06",
+        "title": "Gumroad for digital goods",
+        "body": "Adam Wathan and Steve Schoger sold over $7 million in design assets on Gumroad. It is the fastest way to monetize ebooks, code, and art.",
+        "tileGlyph": "G",
+        "tileKey": "Best for",
+        "tileValue": "Digital downloads"
+      }
+    },
+    {
+      "layoutId": "cta-cream-best",
+      "slots": {
+        "pageOf": "08 / 08",
+        "authorInitials": "MK",
+        "authorName": "Morgan K.",
+        "handle": "@morganbuilds",
+        "avatarBg1": "#1a202c",
+        "avatarBg2": "#d65f3e",
+        "eyebrow": "START TODAY",
+        "headlineLine1": "BUILD YOUR",
+        "headlineAccent": "7 FIGURE",
+        "body": "Pick one tool, ship your first product this week, and start scaling without code.",
+        "buttonLabel": "Save this list"
+      }
+    }
+  ]
+}

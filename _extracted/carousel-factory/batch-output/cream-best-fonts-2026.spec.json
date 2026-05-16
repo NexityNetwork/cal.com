@@ -1,0 +1,140 @@
+{
+  "id": "cream-best-fonts-2026",
+  "brand": "FontBrief",
+  "brief": "The 6 best fonts for product UI in 2026 — pairing, performance, and licenses.",
+  "theme": "cream-best",
+  "slides": [
+    {
+      "layoutId": "cover-cream-best",
+      "slots": {
+        "pageOf": "01 / 08",
+        "authorInitials": "KN",
+        "authorName": "Kai N.",
+        "handle": "@kaindesign",
+        "avatarBg1": "#1a1a1a",
+        "avatarBg2": "#d65f3e",
+        "headlineLine1": "BEST",
+        "headlineAccent": "FONTS",
+        "headlineLine3": "FOR PRODUCT UI"
+      }
+    },
+    {
+      "layoutId": "body-cream-best",
+      "slots": {
+        "pageOf": "02 / 08",
+        "authorInitials": "KN",
+        "authorName": "Kai N.",
+        "handle": "@kaindesign",
+        "avatarBg1": "#1a1a1a",
+        "avatarBg2": "#d65f3e",
+        "number": "01",
+        "title": "Inter by Rasmus Andersson",
+        "body": "The gold standard for interface typography. Exceptional legibility at small sizes and a massive variable weight range make it unbeatable for dense dashboards.",
+        "tileGlyph": "In",
+        "tileKey": "Best for",
+        "tileValue": "Dense dashboards and SaaS"
+      }
+    },
+    {
+      "layoutId": "body-cream-best",
+      "slots": {
+        "pageOf": "03 / 08",
+        "authorInitials": "KN",
+        "authorName": "Kai N.",
+        "handle": "@kaindesign",
+        "avatarBg1": "#1a1a1a",
+        "avatarBg2": "#d65f3e",
+        "number": "02",
+        "title": "Geist Sans by Vercel",
+        "body": "Built for the modern web with razor-sharp rendering. Its minimalist geometry loads incredibly fast and pairs perfectly with monospace code blocks.",
+        "tileGlyph": "Gs",
+        "tileKey": "Performance",
+        "tileValue": "Ultra-fast web loading"
+      }
+    },
+    {
+      "layoutId": "body-cream-best",
+      "slots": {
+        "pageOf": "04 / 08",
+        "authorInitials": "KN",
+        "authorName": "Kai N.",
+        "handle": "@kaindesign",
+        "avatarBg1": "#1a1a1a",
+        "avatarBg2": "#d65f3e",
+        "number": "03",
+        "title": "Satoshi by Fontshare",
+        "body": "A geometric sans that feels premium without the price tag. The open license lets you ship commercial products without worrying about hidden fees.",
+        "tileGlyph": "St",
+        "tileKey": "License",
+        "tileValue": "100% free commercial use"
+      }
+    },
+    {
+      "layoutId": "body-cream-best",
+      "slots": {
+        "pageOf": "05 / 08",
+        "authorInitials": "KN",
+        "authorName": "Kai N.",
+        "handle": "@kaindesign",
+        "avatarBg1": "#1a1a1a",
+        "avatarBg2": "#d65f3e",
+        "number": "04",
+        "title": "Bricolage Grotesque Variable",
+        "body": "Personality meets usability in this variable powerhouse. It scales gracefully from playful marketing headlines to strict admin table views.",
+        "tileGlyph": "Bg",
+        "tileKey": "Pairing",
+        "tileValue": "Works with any serif"
+      }
+    },
+    {
+      "layoutId": "body-cream-best",
+      "slots": {
+        "pageOf": "06 / 08",
+        "authorInitials": "KN",
+        "authorName": "Kai N.",
+        "handle": "@kaindesign",
+        "avatarBg1": "#1a1a1a",
+        "avatarBg2": "#d65f3e",
+        "number": "05",
+        "title": "Schibsted Grotesk Family",
+        "body": "Designed for news but perfect for product UI. Its narrow proportions save horizontal space while keeping text crisp on mobile devices.",
+        "tileGlyph": "Sg",
+        "tileKey": "Mobile UI",
+        "tileValue": "Crisp narrow proportions"
+      }
+    },
+    {
+      "layoutId": "body-cream-best",
+      "slots": {
+        "pageOf": "07 / 08",
+        "authorInitials": "KN",
+        "authorName": "Kai N.",
+        "handle": "@kaindesign",
+        "avatarBg1": "#1a1a1a",
+        "avatarBg2": "#d65f3e",
+        "number": "06",
+        "title": "Uncut Sans by Kasper",
+        "body": "An open-source alternative to pricey neo-grotesks. The straightforward license and excellent screen hinting make it ideal for startup MVPs.",
+        "tileGlyph": "Un",
+        "tileKey": "MVP Ready",
+        "tileValue": "Open source and flexible"
+      }
+    },
+    {
+      "layoutId": "cta-cream-best",
+      "slots": {
+        "pageOf": "08 / 08",
+        "authorInitials": "KN",
+        "authorName": "Kai N.",
+        "handle": "@kaindesign",
+        "avatarBg1": "#1a1a1a",
+        "avatarBg2": "#d65f3e",
+        "eyebrow": "START NOW",
+        "headlineLine1": "UPGRADE YOUR",
+        "headlineAccent": "TYPESTACK",
+        "body": "Pick one font from this list and audit your UI today. Better typography means better conversion.",
+        "buttonLabel": "Audit my fonts"
+      }
+    }
+  ]
+}

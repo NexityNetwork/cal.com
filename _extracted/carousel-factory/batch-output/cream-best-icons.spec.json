@@ -1,0 +1,140 @@
+{
+  "id": "cream-best-icons",
+  "brand": "DesignVault",
+  "brief": "The 6 best icon libraries every designer should have bookmarked.",
+  "theme": "cream-best",
+  "slides": [
+    {
+      "layoutId": "cover-cream-best",
+      "slots": {
+        "pageOf": "01 / 08",
+        "authorInitials": "JD",
+        "authorName": "Jane Doe",
+        "handle": "@janedoe",
+        "avatarBg1": "#1a1a1a",
+        "avatarBg2": "#d65f3e",
+        "headlineLine1": "BEST",
+        "headlineAccent": "ICON LIBRARIES",
+        "headlineLine3": "FOR DESIGNERS"
+      }
+    },
+    {
+      "layoutId": "body-cream-best",
+      "slots": {
+        "pageOf": "02 / 08",
+        "authorInitials": "JD",
+        "authorName": "Jane Doe",
+        "handle": "@janedoe",
+        "avatarBg1": "#1a1a1a",
+        "avatarBg2": "#d65f3e",
+        "number": "01",
+        "title": "Phosphor Icon Family",
+        "body": "A versatile family with eight weights and thousands of icons. Perfect for interfaces that need visual hierarchy without switching libraries.",
+        "tileGlyph": "P",
+        "tileKey": "Best for",
+        "tileValue": "Multiple weights and styles"
+      }
+    },
+    {
+      "layoutId": "body-cream-best",
+      "slots": {
+        "pageOf": "03 / 08",
+        "authorInitials": "JD",
+        "authorName": "Jane Doe",
+        "handle": "@janedoe",
+        "avatarBg1": "#1a1a1a",
+        "avatarBg2": "#d65f3e",
+        "number": "02",
+        "title": "Heroicons by Tailwind",
+        "body": "Beautiful hand-crafted SVG icons by the makers of Tailwind CSS. Solid and outline variants cover most UI needs effortlessly.",
+        "tileGlyph": "H",
+        "tileKey": "Best for",
+        "tileValue": "Tailwind projects and SVG"
+      }
+    },
+    {
+      "layoutId": "body-cream-best",
+      "slots": {
+        "pageOf": "04 / 08",
+        "authorInitials": "JD",
+        "authorName": "Jane Doe",
+        "handle": "@janedoe",
+        "avatarBg1": "#1a1a1a",
+        "avatarBg2": "#d65f3e",
+        "number": "03",
+        "title": "Tabler Icons Collection",
+        "body": "Over 4,500 free MIT-licensed icons with consistent stroke width. Fully customizable and available in React, Vue, and SVG formats.",
+        "tileGlyph": "T",
+        "tileKey": "Best for",
+        "tileValue": "Massive free MIT collection"
+      }
+    },
+    {
+      "layoutId": "body-cream-best",
+      "slots": {
+        "pageOf": "05 / 08",
+        "authorInitials": "JD",
+        "authorName": "Jane Doe",
+        "handle": "@janedoe",
+        "avatarBg1": "#1a1a1a",
+        "avatarBg2": "#d65f3e",
+        "number": "04",
+        "title": "Lucide Modern Icons",
+        "body": "A clean fork of Feather with an active community and expanding set. Designed for modern apps with crisp readability at any size.",
+        "tileGlyph": "L",
+        "tileKey": "Best for",
+        "tileValue": "Modern apps and clarity"
+      }
+    },
+    {
+      "layoutId": "body-cream-best",
+      "slots": {
+        "pageOf": "06 / 08",
+        "authorInitials": "JD",
+        "authorName": "Jane Doe",
+        "handle": "@janedoe",
+        "avatarBg1": "#1a1a1a",
+        "avatarBg2": "#d65f3e",
+        "number": "05",
+        "title": "Radix Minimal UI Icons",
+        "body": "A tight set of 15×15 minimal icons optimized for small UI controls. Subtle and precise, they blend into dense dashboards seamlessly.",
+        "tileGlyph": "R",
+        "tileKey": "Best for",
+        "tileValue": "Small controls and density"
+      }
+    },
+    {
+      "layoutId": "body-cream-best",
+      "slots": {
+        "pageOf": "07 / 08",
+        "authorInitials": "JD",
+        "authorName": "Jane Doe",
+        "handle": "@janedoe",
+        "avatarBg1": "#1a1a1a",
+        "avatarBg2": "#d65f3e",
+        "number": "06",
+        "title": "Google Material Symbols",
+        "body": "Google’s vast variable-font icon library with weight, grade, and fill axes. One file delivers infinite variations for any brand language.",
+        "tileGlyph": "M",
+        "tileKey": "Best for",
+        "tileValue": "Variable font flexibility"
+      }
+    },
+    {
+      "layoutId": "cta-cream-best",
+      "slots": {
+        "pageOf": "08 / 08",
+        "authorInitials": "JD",
+        "authorName": "Jane Doe",
+        "handle": "@janedoe",
+        "avatarBg1": "#1a1a1a",
+        "avatarBg2": "#d65f3e",
+        "eyebrow": "PICK ONE",
+        "headlineLine1": "START USING",
+        "headlineAccent": "ICONS NOW",
+        "body": "Bookmark these libraries and never hunt for the perfect glyph again. Your next interface will thank you.",
+        "buttonLabel": "SAVE THIS LIST"
+      }
+    }
+  ]
+}

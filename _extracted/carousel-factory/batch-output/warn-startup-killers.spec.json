@@ -1,0 +1,135 @@
+{
+  "id": "warn-startup-killers",
+  "brand": "Founder Fuel",
+  "brief": "6 quiet decisions that kill startups — and the founders that survived each one.",
+  "theme": "black-warning",
+  "slides": [
+    {
+      "layoutId": "cover-black-warning",
+      "slots": {
+        "warningLabel": "DON'T MAKE THIS MISTAKE",
+        "headlineLine1": "Six Quiet",
+        "headlineLine2": "Decisions That",
+        "headlineAccent": "Kill Startups",
+        "body": "Silent choices sink companies before they ever see the iceberg. Learn the patterns from founders who barely made it out.",
+        "authorInitials": "JD",
+        "authorName": "Jordan Drake",
+        "handle": "@jordandrake",
+        "avatarBg1": "#1a1a1a",
+        "avatarBg2": "#0d0d0d"
+      }
+    },
+    {
+      "layoutId": "body-black-warning",
+      "slots": {
+        "pageOf": "1/6",
+        "number": "1",
+        "titleLine1": "Building in",
+        "titleAccent": "Silence",
+        "body": "You polish for months while the market moves on. Founders who survive kill the ego and ship ugly truth to users fast.",
+        "quote": "If you aren't embarrassed, you shipped too late.",
+        "authorInitials": "JD",
+        "authorName": "Jordan Drake",
+        "handle": "@jordandrake",
+        "avatarBg1": "#1a1a1a",
+        "avatarBg2": "#0d0d0d"
+      }
+    },
+    {
+      "layoutId": "body-black-warning",
+      "slots": {
+        "pageOf": "2/6",
+        "number": "2",
+        "titleLine1": "Chasing Growth",
+        "titleAccent": "Blindly",
+        "body": "Revenue climbs but margins bleed out in the dark. Survivors pull the plug on vanity metrics before the cash runs dry.",
+        "quote": "Growth without profit is just a slow death.",
+        "authorInitials": "JD",
+        "authorName": "Jordan Drake",
+        "handle": "@jordandrake",
+        "avatarBg1": "#1a1a1a",
+        "avatarBg2": "#0d0d0d"
+      }
+    },
+    {
+      "layoutId": "body-black-warning",
+      "slots": {
+        "pageOf": "3/6",
+        "number": "3",
+        "titleLine1": "Hiring Too",
+        "titleAccent": "Quickly",
+        "body": "A bloated team kills speed and burns runway overnight. Smart founders hire slow, fire fast, and protect the culture.",
+        "quote": "Every wrong hire steals oxygen from the right ones.",
+        "authorInitials": "JD",
+        "authorName": "Jordan Drake",
+        "handle": "@jordandrake",
+        "avatarBg1": "#1a1a1a",
+        "avatarBg2": "#0d0d0d"
+      }
+    },
+    {
+      "layoutId": "body-black-warning",
+      "slots": {
+        "pageOf": "4/6",
+        "number": "4",
+        "titleLine1": "Saying Yes",
+        "titleAccent": "To Everyone",
+        "body": "One-off promises bloat your roadmap into an unreadable mess. The best teams build for the few, not the loudest voice.",
+        "quote": "Focus is saying no to a thousand good ideas.",
+        "authorInitials": "JD",
+        "authorName": "Jordan Drake",
+        "handle": "@jordandrake",
+        "avatarBg1": "#1a1a1a",
+        "avatarBg2": "#0d0d0d"
+      }
+    },
+    {
+      "layoutId": "body-black-warning",
+      "slots": {
+        "pageOf": "5/6",
+        "number": "5",
+        "titleLine1": "Founder Refusing",
+        "titleAccent": "To Delegate",
+        "body": "You become the bottleneck and the single point of failure. Survivors build systems so the company outlives their mood.",
+        "quote": "Delegate the outcome, not just the task.",
+        "authorInitials": "JD",
+        "authorName": "Jordan Drake",
+        "handle": "@jordandrake",
+        "avatarBg1": "#1a1a1a",
+        "avatarBg2": "#0d0d0d"
+      }
+    },
+    {
+      "layoutId": "body-black-warning",
+      "slots": {
+        "pageOf": "6/6",
+        "number": "6",
+        "titleLine1": "Ignoring the",
+        "titleAccent": "Warning Signs",
+        "body": "Attachment to the original idea clouds every dashboard red flag. Founders who live know when to burn the plan and run.",
+        "quote": "Pivoting late is just failing with extra steps.",
+        "authorInitials": "JD",
+        "authorName": "Jordan Drake",
+        "handle": "@jordandrake",
+        "avatarBg1": "#1a1a1a",
+        "avatarBg2": "#0d0d0d"
+      }
+    },
+    {
+      "layoutId": "cta-black-warning",
+      "slots": {
+        "pageOf": "8/8",
+        "eyebrow": "LAST WARNING",
+        "headlineLine1": "Save Your",
+        "headlineAccent": "Startup Now",
+        "body": "Share this with a founder who needs to hear it before it's too late.",
+        "buttonLabel": "Save before you forget",
+        "authorInitials": "JD",
+        "authorName": "Jordan Drake",
+        "handle": "@jordandrake",
+        "avatarBg1": "#1a1a1a",
+        "avatarBg2": "#0d0d0d"
+      }
+    }
+  ]
+}
