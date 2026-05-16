@@ -1,0 +1,126 @@
+/* Shared design tokens + primitives for "How to move like a 20-person team"
+ * Theme: ember-dark
+ * Canvas: 1080×1350 (Instagram portrait)
+ * Source: Figma export → coded as HTML/CSS for Playwright rendering
+ */
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+html, body {
+  width: 1080px;
+  height: 1350px;
+  overflow: hidden;
+  background: #050505;
+  font-family: "Inter", system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ── Inner card frame ─────────────────────────────────────────────────── */
+/* Subtle stroke 1px on near-black bg, 32px radius, 30px inset.
+ * Acts as the "mini-website viewport" — every slide sits inside it. */
+.frame {
+  position: absolute;
+  inset: 30px;
+  border-radius: 32px;
+  border: 1px solid #1c1c1c;
+  overflow: hidden;
+  background: #0a0a0a;
+}
+
+/* ── Page badge top-left ──────────────────────────────────────────────── */
+/* Pill with dark ember bg + muted orange text. The page number gives the
+ * carousel a 'mini-website route' feel. Sized large enough to read at
+ * thumbnail size on a phone scroll. */
+.page-badge {
+  position: absolute;
+  top: 56px;
+  left: 56px;
+  height: 44px;
+  padding: 0 18px;
+  background: #2a0e04;
+  border-radius: 22px;
+  display: inline-flex;
+  align-items: center;
+  color: #ff7a3d;
+  font-size: 18px;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  line-height: 1;
+}
+
+/* ── Body title (numbered tool feature: "N. Tool, the role") ──────────── */
+/* Anchors top of body slides. White, bold sans, ~64px display. */
+.body-title {
+  position: absolute;
+  top: 256px;
+  left: 88px;
+  right: 88px;
+  color: #ffffff;
+  font-size: 64px;
+  font-weight: 700;
+  line-height: 1.1;
+  letter-spacing: -1.2px;
+}
+
+/* ── Body paragraph ───────────────────────────────────────────────────── */
+/* Muted grey, ~38px, 1.35 line-height. Sits below title, never below
+ * y=560 to leave room for the icon hero. */
+.body-text {
+  position: absolute;
+  top: 376px;
+  left: 88px;
+  right: 88px;
+  color: #a8a8a8;
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 1.35;
+}
+
+/* ── Centered icon hero ───────────────────────────────────────────────── */
+/* Thin-stroke circle (1.5px, #2a2a2a) wrapping the brand logo.
+ * The logo color is set inline per-slide (e.g., Notion = white, Stripe =
+ * #635BFF, Apify = multicolor). */
+.icon-hero {
+  position: absolute;
+  top: 800px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 360px;
+  height: 360px;
+  border-radius: 50%;
+  border: 1.5px solid #2a2a2a;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.icon-hero svg {
+  width: 200px;
+  height: 200px;
+}
+
+/* ── Multi-icon grid (slide 10: distribution channels) ────────────────── */
+/* 2x2 with diamond offsetting — IG top-left, YT top-right,
+ * TikTok bottom-left, LinkedIn bottom-right. */
+.icon-grid {
+  position: absolute;
+  top: 720px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 720px;
+  height: 480px;
+}
+.icon-grid .cell {
+  position: absolute;
+  width: 220px;
+  height: 220px;
+  border-radius: 50%;
+  border: 1.5px solid #2a2a2a;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.icon-grid .cell svg { width: 120px; height: 120px; }
+.icon-grid .pos-tl { top: 0; left: 0; }
+.icon-grid .pos-tr { top: 0; right: 0; }
+.icon-grid .pos-bl { top: 240px; left: 130px; }
+.icon-grid .pos-br { top: 240px; right: 130px; }
