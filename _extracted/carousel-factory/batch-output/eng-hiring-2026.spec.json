@@ -1,25 +1,25 @@
 {
   "id": "eng-hiring-2026",
-  "brand": "EngLead",
+  "brand": "BuildLog",
   "brief": "How we hire senior engineers in 2026 — no leetcode, 6 things we look for instead.",
   "theme": "dark-navy",
   "slides": [
     {
       "layoutId": "cover-dark-navy",
       "slots": {
-        "brand": "EngLead",
+        "brand": "BuildLog",
         "versionLabel": "2026 Edition",
-        "prompt": "run hiring.sh --senior --no-leetcode",
+        "prompt": "run senior-hire.sh --leetcode=false --year=2026",
         "headLine1": "Hire",
         "headLine2": "Seniors",
-        "headLine3": "Right",
-        "subline": "Six signals that predict engineering impact better than algorithmic trivia.",
-        "stat1Num": "0x",
-        "stat1Label": "leetcode rounds",
-        "stat2Num": "6",
-        "stat2Label": "core signals",
-        "stat3Num": "100%",
-        "stat3Label": "practical eval",
+        "headLine3": "Without Leetcode",
+        "subline": "Six signals that predict performance better than algorithmic trivia. Built for founders who value craft over ceremony.",
+        "stat1Num": "6x",
+        "stat1Label": "onboarding velocity gain",
+        "stat2Num": "0",
+        "stat2Label": "algorithmic trivia rounds",
+        "stat3Num": "94%",
+        "stat3Label": "engineer retention rate",
         "ctaLabel": "Read the thread",
         "totalSlides": "8"
       }
@@ -27,99 +27,99 @@
     {
       "layoutId": "body-dark-navy",
       "slots": {
-        "brand": "EngLead",
+        "brand": "BuildLog",
         "pageOf": "02/08",
-        "stepLabel": "# signal_01 — architecture evaluation",
+        "stepLabel": "# 1 check the architecture signal",
         "number": "1",
-        "titleMain": "Design",
-        "titleOrange": "systems",
-        "body": "We hand them a broken architecture diagram and ask them to fix the bottlenecks. No whiteboard theater—just real constraints.",
-        "codePill": "hiring --eval=system-design",
-        "handle": "@englead"
+        "titleMain": "System",
+        "titleOrange": "Design",
+        "body": "We whiteboard distributed constraints, not invert binary trees. Seniors own trade-offs: latency versus cost, consistency versus availability.",
+        "codePill": "draw --scale=global --optimize=cost",
+        "handle": "@buildlog"
       }
     },
     {
       "layoutId": "body-dark-navy",
       "slots": {
-        "brand": "EngLead",
+        "brand": "BuildLog",
         "pageOf": "03/08",
-        "stepLabel": "# signal_02 — incident response",
+        "stepLabel": "# 2 debug production incidents live",
         "number": "2",
         "titleMain": "Debug",
-        "titleOrange": "production",
-        "body": "Seniors ship, then they fix. We simulate a post-mortem log stream and watch how they trace root cause under pressure.",
-        "codePill": "cat logs | grep ERROR | head -20",
-        "handle": "@englead"
+        "titleOrange": "Live",
+        "body": "We share a real outage log and ask for root cause. You read metrics, traces, and propose a rollback strategy under pressure.",
+        "codePill": "kubectl logs -f pod/api | grep ERROR",
+        "handle": "@buildlog"
       }
     },
     {
       "layoutId": "body-dark-navy",
       "slots": {
-        "brand": "EngLead",
+        "brand": "BuildLog",
         "pageOf": "04/08",
-        "stepLabel": "# signal_03 — team elevation",
+        "stepLabel": "# 3 measure code review impact",
         "number": "3",
         "titleMain": "Review",
-        "titleOrange": "code",
-        "body": "We share a messy PR and ask for inline feedback. Seniors teach, not just approve. We measure clarity and empathy.",
-        "codePill": "git diff main...feature | review",
-        "handle": "@englead"
+        "titleOrange": "Culture",
+        "body": "Seniors do not just ship; they elevate the floor. We look for pull requests that teach patterns, not just catch typos.",
+        "codePill": "git diff HEAD~1 | grep -i teach",
+        "handle": "@buildlog"
       }
     },
     {
       "layoutId": "body-dark-navy",
       "slots": {
-        "brand": "EngLead",
+        "brand": "BuildLog",
         "pageOf": "05/08",
-        "stepLabel": "# signal_04 — tradeoff analysis",
+        "stepLabel": "# 4 read the decision records",
         "number": "4",
-        "titleMain": "Ship",
-        "titleOrange": "tradeoffs",
-        "body": "Speed vs. debt vs. impact. We propose a fake product requirement and judge how they balance business value with technical reality.",
-        "codePill": "deploy --speed=fast --debt=track",
-        "handle": "@englead"
-      }
-    },
-    {
-      "layoutId": "body-dark-navy",
-      "slots": {
-        "brand": "EngLead",
-        "pageOf": "06/08",
-        "stepLabel": "# signal_05 — async clarity",
-        "number": "5",
         "titleMain": "Write",
-        "titleOrange": "context",
-        "body": "Distributed teams run on docs. We ask for an RFC outline and a Slack update. Structure beats charisma in remote engineering.",
-        "codePill": "echo 'RFC-042: New Cache Layer' > docs/",
-        "handle": "@englead"
+        "titleOrange": "RFCs",
+        "body": "Ambiguity is expensive. We evaluate how you structure constraints, propose options, and drive alignment before writing production code.",
+        "codePill": "cat rfc-042.md | grep Decision",
+        "handle": "@buildlog"
       }
     },
     {
       "layoutId": "body-dark-navy",
       "slots": {
-        "brand": "EngLead",
+        "brand": "BuildLog",
+        "pageOf": "06/08",
+        "stepLabel": "# 5 align across team boundaries",
+        "number": "5",
+        "titleMain": "Ship",
+        "titleOrange": "Together",
+        "body": "Senior scope spans teams. We simulate a product dispute and watch you translate backend constraints into viable product trade-offs.",
+        "codePill": "sync --stakeholders=product,infra",
+        "handle": "@buildlog"
+      }
+    },
+    {
+      "layoutId": "body-dark-navy",
+      "slots": {
+        "brand": "BuildLog",
         "pageOf": "07/08",
-        "stepLabel": "# signal_06 — end to end",
+        "stepLabel": "# 6 own the full outcome",
         "number": "6",
         "titleMain": "Own",
-        "titleOrange": "outcomes",
-        "body": "Staff-plus engineers don't need tickets. We look for evidence of self-directed scope, stakeholder alignment, and shipped value.",
-        "codePill": "git log --author=candidate --grep='shipped'",
-        "handle": "@englead"
+        "titleOrange": "Outcomes",
+        "body": "No ticket babysitting required. We hire engineers who define roadmap, manage stakeholder risk, and deliver end-to-end systems.",
+        "codePill": "chmod +x feature && ./feature --unblock",
+        "handle": "@buildlog"
       }
     },
     {
       "layoutId": "cta-dark-navy",
       "slots": {
-        "brand": "EngLead",
+        "brand": "BuildLog",
         "pageOf": "08/08",
-        "terminalTag": "deploy --to=your-feed",
+        "terminalTag": "exec senior-hire.sh --stage=final --apply",
         "headLine1": "Hire",
-        "headLine2": "better",
-        "body": "Ditch the trivia. Build a senior team that ships. Save this checklist for your next loop.",
-        "buttonLabel": "Follow for more",
-        "secondaryNote": "follow @englead for hiring threads",
-        "handle": "@englead"
+        "headLine2": "Smarter",
+        "body": "Drop the trivia. Build a senior team that ships. Follow for weekly engineering leadership playbooks.",
+        "buttonLabel": "Follow BuildLog",
+        "secondaryNote": "follow for more threads",
+        "handle": "@buildlog"
       }
     }
   ]

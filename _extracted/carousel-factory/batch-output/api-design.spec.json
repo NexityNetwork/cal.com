@@ -1,25 +1,25 @@
 {
   "id": "api-design",
-  "brand": "ApiFoundry",
+  "brand": "HookEngine",
   "brief": "6 API design principles that made our integrations 10x easier to maintain.",
   "theme": "dark-navy",
   "slides": [
     {
       "layoutId": "cover-dark-navy",
       "slots": {
-        "brand": "ApiFoundry",
-        "versionLabel": "v2.4",
-        "prompt": "npm run api:design --principles=6 --scale",
+        "brand": "HookEngine",
+        "versionLabel": "v2.0",
+        "prompt": "run api-design.sh --principles=6 --target=integrations --mode=stable",
         "headLine1": "The",
         "headLine2": "API",
-        "headLine3": "That Scales",
-        "subline": "Six design principles we used to cut integration maintenance by an order of magnitude.",
+        "headLine3": "Blueprint",
+        "subline": "Six design principles that cut integration maintenance by an order of magnitude.",
         "stat1Num": "10x",
-        "stat1Label": "easier to maintain",
         "stat2Num": "6",
-        "stat2Label": "core design principles",
-        "stat3Num": "99.9%",
-        "stat3Label": "service uptime target",
+        "stat3Num": "99%",
+        "stat1Label": "Lower maintenance overhead",
+        "stat2Label": "API design principles",
+        "stat3Label": "Uptime SLA target",
         "ctaLabel": "Read the thread",
         "totalSlides": "8"
       }
@@ -27,99 +27,99 @@
     {
       "layoutId": "body-dark-navy",
       "slots": {
-        "brand": "ApiFoundry",
+        "brand": "HookEngine",
         "pageOf": "02/08",
-        "stepLabel": "# explicitly version all api endpoints",
+        "stepLabel": "#1 version inside the URL path",
         "number": "1",
-        "titleMain": "Version in",
-        "titleOrange": "URL",
-        "body": "Never break existing consumers. Lock major versions into the path so teams can migrate on their own schedule without header gymnastics.",
-        "codePill": "GET /v1/orders/:id",
-        "handle": "@apifoundry"
+        "titleMain": "Lock the",
+        "titleOrange": "version",
+        "body": "Never break existing consumers. Lock the contract to a path like /v1/ so migrations are opt-in, predictable, and easy to test in staging before production.",
+        "codePill": "GET /v2/users?page=1",
+        "handle": "@hookengine"
       }
     },
     {
       "layoutId": "body-dark-navy",
       "slots": {
-        "brand": "ApiFoundry",
+        "brand": "HookEngine",
         "pageOf": "03/08",
-        "stepLabel": "# make mutations safe to retry",
+        "stepLabel": "#2 require idempotency keys on mutations",
         "number": "2",
-        "titleMain": "Idempotent state",
-        "titleOrange": "changes",
-        "body": "Supply a unique key for every state-changing request. It prevents double-charges, duplicate records, and noisy support tickets.",
+        "titleMain": "Write once",
+        "titleOrange": "safely",
+        "body": "Require Idempotency-Key headers on mutating operations. It prevents duplicate charges, retries become safe, and your logs stay deterministic across network blips.",
         "codePill": "Idempotency-Key: <uuid>",
-        "handle": "@apifoundry"
+        "handle": "@hookengine"
       }
     },
     {
       "layoutId": "body-dark-navy",
       "slots": {
-        "brand": "ApiFoundry",
+        "brand": "HookEngine",
         "pageOf": "04/08",
-        "stepLabel": "# paginate with cursors not offsets",
+        "stepLabel": "#3 return predictable standard error shapes",
         "number": "3",
-        "titleMain": "Cursor based",
-        "titleOrange": "pages",
-        "body": "Offset queries slow down and skip rows under concurrent writes. Cursors stay consistent, scale with large datasets, and simplify client logic.",
-        "codePill": "?cursor=eyJpZCI6MX0",
-        "handle": "@apifoundry"
-      }
-    },
-    {
-      "layoutId": "body-dark-navy",
-      "slots": {
-        "brand": "ApiFoundry",
-        "pageOf": "05/08",
-        "stepLabel": "# always return structured error payloads",
-        "number": "4",
-        "titleMain": "Structured error",
-        "titleOrange": "responses",
-        "body": "Use a uniform schema for every failure. Include machine-readable type, human message, and docs URL so debuggers never guess.",
+        "titleMain": "Errors stay",
+        "titleOrange": "consistent",
+        "body": "Return consistent JSON error objects with type, message, and param fields. Clients parse once, alerts aggregate cleanly, and debugging stops being a guessing game.",
         "codePill": "{ \"error\": \"invalid_param\" }",
-        "handle": "@apifoundry"
+        "handle": "@hookengine"
       }
     },
     {
       "layoutId": "body-dark-navy",
       "slots": {
-        "brand": "ApiFoundry",
+        "brand": "HookEngine",
+        "pageOf": "05/08",
+        "stepLabel": "#4 paginate collections using opaque cursors",
+        "number": "4",
+        "titleMain": "Pages via",
+        "titleOrange": "cursors",
+        "body": "Avoid offset limits that drift under concurrent writes. Use opaque cursors for stable iteration, consistent throughput, and infinite-scroll UIs that never duplicate rows.",
+        "codePill": "?cursor=eyJpZCI6MX0",
+        "handle": "@hookengine"
+      }
+    },
+    {
+      "layoutId": "body-dark-navy",
+      "slots": {
+        "brand": "HookEngine",
         "pageOf": "06/08",
-        "stepLabel": "# sign every outgoing webhook payload",
+        "stepLabel": "#5 sign webhooks with timestamped headers",
         "number": "5",
-        "titleMain": "Payload signing",
-        "titleOrange": "required",
-        "body": "Clients verify authenticity with a shared secret and timestamp. Reject unverified payloads to eliminate spoofing and replay attacks.",
-        "codePill": "X-Signature: sha256=...",
-        "handle": "@apifoundry"
+        "titleMain": "Verify every",
+        "titleOrange": "payload",
+        "body": "Ship every event with a timestamped signature header. Consumers verify authenticity, replay attacks fail, and your integration ecosystem trusts the pipeline.",
+        "codePill": "X-Webhook-Signature: sha256=...",
+        "handle": "@hookengine"
       }
     },
     {
       "layoutId": "body-dark-navy",
       "slots": {
-        "brand": "ApiFoundry",
+        "brand": "HookEngine",
         "pageOf": "07/08",
-        "stepLabel": "# let callers expand related data",
+        "stepLabel": "#6 define contracts in OpenAPI first",
         "number": "6",
-        "titleMain": "Query patterns",
-        "titleOrange": "work",
-        "body": "Use sparse fieldsets and embedded expansions to kill N+1 calls. One request should return exactly what the UI needs.",
-        "codePill": "?expand=account&fields=id,email",
-        "handle": "@apifoundry"
+        "titleMain": "Schema as",
+        "titleOrange": "code",
+        "body": "Generate docs, mocks, and SDKs from an OpenAPI schema. Types stay synchronized, code review becomes declarative, and drift between server and client vanishes.",
+        "codePill": "openapi: 3.1.0",
+        "handle": "@hookengine"
       }
     },
     {
       "layoutId": "cta-dark-navy",
       "slots": {
-        "brand": "ApiFoundry",
+        "brand": "HookEngine",
         "pageOf": "08/08",
-        "terminalTag": "npm run deploy --target=your-feed --confirm",
+        "terminalTag": "run deploy.sh --to=your-feed --topic=api-design",
         "headLine1": "Ship",
-        "headLine2": "cleaner APIs",
-        "body": "Apply these six patterns and watch your integration backlog shrink. Your future maintainers will thank you.",
-        "buttonLabel": "Follow for more",
+        "headLine2": "clean APIs",
+        "body": "Follow for more systems design threads that cut maintenance and keep your integrations stable at scale.",
+        "buttonLabel": "Follow now",
         "secondaryNote": "follow for more threads",
-        "handle": "@apifoundry"
+        "handle": "@hookengine"
       }
     }
   ]
