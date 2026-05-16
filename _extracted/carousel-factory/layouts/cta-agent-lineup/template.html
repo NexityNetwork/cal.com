@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1080px;height:1350px;overflow:hidden;background:#0a0a0a;font-family:"Inter",sans-serif;color:#f5f5f5;-webkit-font-smoothing:antialiased}
+.bg-gradient{position:absolute;inset:0;background:radial-gradient(ellipse at 50% 50%,rgba(60,60,80,0.5) 0%,rgba(10,10,10,0.95) 70%);}
+.center{position:absolute;top:50%;left:80px;right:80px;transform:translateY(-50%);text-align:center}
+.eyebrow{font-size:22px;font-weight:600;letter-spacing:0.22em;color:#9ca3af;margin-bottom:36px;text-transform:uppercase}
+.cta-head{font-family:"Inter",sans-serif;font-size:96px;font-weight:800;color:#fcfcfd;line-height:1.05;letter-spacing:-3px;margin-bottom:32px}
+.cta-accent{color:#fcfcfd;background:linear-gradient(90deg,#fcb400,#ec4899,#8b5cf6);-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent}
+.free-tag{display:inline-block;padding:18px 44px;background:#f5f5f5;color:#0a0a0a;border-radius:50px;font-size:32px;font-weight:700;letter-spacing:-0.5px;margin-bottom:48px}
+.logo-grid{display:flex;align-items:center;justify-content:center;gap:18px;flex-wrap:wrap;max-width:880px;margin:0 auto 32px}
+.logo-chip{width:78px;height:78px;border-radius:18px;background:#ffffff;display:flex;align-items:center;justify-content:center;padding:13px}
+.logo-chip svg{width:100%;height:100%}
+.handle{font-size:24px;color:#9ca3af;font-weight:500}
+</style></head>
+<body>
+<div class="bg-gradient"></div>
+<div class="center">
+  <div class="eyebrow">{{eyebrow}}</div>
+  <div class="cta-head">{{ctaHeadline1}}<br><span class="cta-accent">{{ctaHeadline2}}</span></div>
+  <div class="free-tag">{{freeBadge}}</div>
+  <div class="logo-grid">
+    <div class="logo-chip">{{iconSvg1}}</div>
+    <div class="logo-chip">{{iconSvg2}}</div>
+    <div class="logo-chip">{{iconSvg3}}</div>
+    <div class="logo-chip">{{iconSvg4}}</div>
+    <div class="logo-chip">{{iconSvg5}}</div>
+    <div class="logo-chip">{{iconSvg6}}</div>
+    <div class="logo-chip">{{iconSvg7}}</div>
+    <div class="logo-chip">{{iconSvg8}}</div>
+  </div>
+  <div class="handle">{{handle}}</div>
+</div>
+</body></html>

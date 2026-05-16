@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1080px;height:1350px;overflow:hidden;background:#ffffff;font-family:"Inter",sans-serif;color:#121926;-webkit-font-smoothing:antialiased}
+.top-row{position:absolute;top:60px;left:80px;right:80px;display:flex;justify-content:space-between;align-items:center}
+.num{font-size:22px;font-weight:600;color:#4b5565;letter-spacing:0.06em}
+.handle{font-size:22px;font-weight:500;color:#4b5565}
+.title{position:absolute;top:160px;left:80px;right:80px;font-family:"Inter",sans-serif;font-size:84px;font-weight:800;color:#121926;line-height:1.0;letter-spacing:-2.5px}
+.title .accent{color:#3457d5}
+.desc{position:absolute;top:380px;left:80px;right:80px;font-size:30px;font-weight:400;color:#4b5565;line-height:1.4}
+.compare{position:absolute;top:540px;left:80px;right:80px;display:flex;flex-direction:column;gap:20px}
+.row{display:flex;align-items:center;gap:22px;padding:24px 28px;border-radius:18px;background:#fafafa;border-left:6px solid #9ca3af}
+.row.good{border-left-color:#10b981;background:#f0fdf4}
+.row .badge{width:64px;height:64px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:28px;font-weight:700;flex-shrink:0;color:#fff}
+.row.bad .badge{background:#9ca3af}
+.row.good .badge{background:#10b981}
+.row .text{font-size:30px;font-weight:500;color:#121926;line-height:1.35}
+.row .stat{font-size:28px;font-weight:800;color:#121926;margin-left:auto;letter-spacing:-0.5px}
+.row.good .stat{color:#10b981}
+.bottom-row{position:absolute;bottom:60px;left:80px;right:80px;display:flex;justify-content:space-between;align-items:center}
+.swipe{font-size:24px;font-weight:600;color:#3457d5}
+.icon-row{display:flex;gap:10px}
+.icon-row .chip{width:44px;height:44px;border-radius:10px;background:#fafafa;border:1.5px solid #e5e7eb;padding:7px;display:flex;align-items:center;justify-content:center}
+.icon-row .chip svg{width:100%;height:100%}
+</style></head>
+<body>
+<div class="top-row"><div class="num">{{pageOf}}</div><div class="handle">{{handle}}</div></div>
+<div class="title">{{title}} <span class="accent">{{titleAccent}}</span></div>
+<div class="desc">{{description}}</div>
+<div class="compare">
+  <div class="row bad"><div class="badge">✕</div><div class="text">{{badLabel1}}</div><div class="stat">{{badStat1}}</div></div>
+  <div class="row bad"><div class="badge">✕</div><div class="text">{{badLabel2}}</div><div class="stat">{{badStat2}}</div></div>
+  <div class="row good"><div class="badge">✓</div><div class="text">{{goodLabel1}}</div><div class="stat">{{goodStat1}}</div></div>
+  <div class="row good"><div class="badge">✓</div><div class="text">{{goodLabel2}}</div><div class="stat">{{goodStat2}}</div></div>
+</div>
+<div class="bottom-row">
+  <div class="icon-row">
+    <div class="chip">{{iconSvg1}}</div>
+    <div class="chip">{{iconSvg2}}</div>
+    <div class="chip">{{iconSvg3}}</div>
+    <div class="chip">{{iconSvg4}}</div>
+  </div>
+  <div class="swipe">Swipe →</div>
+</div>
+</body></html>

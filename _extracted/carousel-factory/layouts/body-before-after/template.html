@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1080px;height:1350px;overflow:hidden;background:#ffffff;font-family:"Inter",sans-serif;color:#121926;-webkit-font-smoothing:antialiased}
+.top-row{position:absolute;top:60px;left:80px;right:80px;display:flex;justify-content:space-between;align-items:center}
+.num{font-size:22px;font-weight:600;color:#4b5565;letter-spacing:0.06em}
+.handle{font-size:22px;font-weight:500;color:#4b5565}
+.title{position:absolute;top:160px;left:80px;right:80px;font-family:"Inter",sans-serif;font-size:72px;font-weight:800;color:#121926;line-height:1.0;letter-spacing:-2px}
+.title .accent{color:#3457d5}
+.desc{position:absolute;top:330px;left:80px;right:80px;font-size:28px;font-weight:400;color:#4b5565;line-height:1.4}
+.split{position:absolute;top:480px;left:80px;right:80px;bottom:200px;display:flex;flex-direction:column;gap:24px}
+.panel{flex:1;padding:36px 40px;border-radius:24px;display:flex;flex-direction:column;justify-content:center}
+.panel.bad{background:#f4f4f5;border:2px solid #d4d4d8}
+.panel.good{background:#f0fdf4;border:2px solid #86efac}
+.panel-head{display:flex;align-items:center;gap:18px;margin-bottom:18px}
+.panel-head .badge{width:54px;height:54px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:24px;font-weight:700;color:#fff}
+.panel.bad .panel-head .badge{background:#9ca3af}
+.panel.good .panel-head .badge{background:#10b981}
+.panel-head .label{font-size:24px;font-weight:700;letter-spacing:0.08em;text-transform:uppercase}
+.panel.bad .label{color:#52525b}
+.panel.good .label{color:#059669}
+.panel-text{font-size:32px;font-weight:500;color:#121926;line-height:1.35;margin-bottom:14px}
+.panel-tools{display:flex;align-items:center;gap:10px}
+.panel-tools .chip{width:44px;height:44px;border-radius:10px;background:#fff;border:1.5px solid #e5e7eb;padding:7px}
+.panel-tools .chip svg{width:100%;height:100%}
+.panel-tools .stat{font-size:22px;font-weight:800;color:#121926;margin-left:10px}
+.panel.good .panel-tools .stat{color:#059669}
+.bottom-row{position:absolute;bottom:60px;left:80px;right:80px;display:flex;justify-content:space-between;align-items:center}
+.cta-arrow{font-size:24px;font-weight:600;color:#3457d5}
+</style></head>
+<body>
+<div class="top-row"><div class="num">{{slideLabel}}</div><div class="handle">{{handle}}</div></div>
+<div class="title">{{title}} <span class="accent">{{titleAccent}}</span></div>
+<div class="desc">{{description}}</div>
+<div class="split">
+  <div class="panel bad">
+    <div class="panel-head"><div class="badge">✕</div><div class="label">{{badLabel}}</div></div>
+    <div class="panel-text">{{badText}}</div>
+    <div class="panel-tools">
+      <div class="chip">{{iconSvg1}}</div>
+      <div class="chip">{{iconSvg2}}</div>
+      <div class="stat">{{badStat}}</div>
+    </div>
+  </div>
+  <div class="panel good">
+    <div class="panel-head"><div class="badge">✓</div><div class="label">{{goodLabel}}</div></div>
+    <div class="panel-text">{{goodText}}</div>
+    <div class="panel-tools">
+      <div class="chip">{{iconSvg3}}</div>
+      <div class="chip">{{iconSvg4}}</div>
+      <div class="chip">{{iconSvg5}}</div>
+      <div class="stat">{{goodStat}}</div>
+    </div>
+  </div>
+</div>
+<div class="bottom-row"><div></div><div class="cta-arrow">{{ctaArrow}} →</div></div>
+</body></html>

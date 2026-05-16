@@ -68,6 +68,9 @@ const FAMILY_LAYOUTS = {
   "tool-list":        { cover: "cover-tool-list",       body: "body-tool-list",       cta: "cta-tool-list" },
   "flowchart":        { cover: "cover-flowchart",       body: "body-flowchart",       cta: "cta-flowchart" },
   "design-tile":      { cover: "cover-design-tile",     body: "body-design-tile",     cta: "cta-design-tile" },
+  "agent-lineup":     { cover: "cover-agent-lineup",    body: "body-agent-lineup",    cta: "cta-agent-lineup" },
+  "stack-tour":       { cover: "cover-stack-tour",      body: "body-stack-tour",      cta: "cta-stack-tour" },
+  "before-after":     { cover: "cover-before-after",    body: "body-before-after",    cta: "cta-before-after" },
 };
 
 // CTA slot conventions, shared by all families:
@@ -248,6 +251,24 @@ CTA   cta-flowchart: number, handle, eyebrow (2-3 uppercase words like "YOUR MOV
 COVER cover-design-tile: number ("01"), handle ("@usevisuals" or similar), titleLine1 (3-5 medium-weight words like "Stop Using Illegal"), titleLine2 (2-4 words like "Colors in Design"), badColor (hex of the "wrong" choice, e.g. "#000000"), badLabel (the hex string itself or 1-3 words like "#000000"), goodColor (hex of the "right" choice, e.g. "#282828"), goodLabel (the hex string itself or 1-3 words).
 BODY  body-design-tile: number ("02"-"06"), handle, titleLine1 (3-5 Inter 64 bold words), titleAccent (1-3 blue words), attr1/attr2/attr3/attr4 (4 short attribute phrases 1-3 words each like "Balanced" "Reliable" "Trusted" "Loyal"), body (1-2 sentences ≤30 words wrapping insight).
 CTA   cta-design-tile: number ("07"), handle, eyebrow (2-3 uppercase words like "ADOPT THESE"), headlineLine1 (2-4 medium words), headlineLine2 (2-4 words), body (1-2 sentences ≤30 words), buttonLabel (3-5 words).`,
+
+  "agent-lineup": `Layouts (DARK #0a0a0a + Inter 88 huge title + dark "workflow card" with 3 brand-logo flow icons + bottom 4-icon brand logo cluster + handle — Figma ref carousel_0 "Lead Generation" AI agent showcase).
+This family showcases AI AGENT systems with REAL tool/brand logos rendered as inline SVG. The slot keys iconSlug1..iconSlug7 hold lowercase brand slugs (e.g. "claude" "n8n" "tiktok" "notion" "airtable" "stripe" "gmail" "perplexity" "openai" "supabase" "vercel" "github" "figma" "linkedin" "instagram" "youtube") — Kimi just provides the slugs and compose.js renders the SVG. iconColor1..iconColor7 are hex overrides (use brand color like "#D97757" for claude, "#EA4B71" for n8n, or "#ffffff" for monochrome).
+COVER cover-agent-lineup: title (3-6 word agent name like "Lead Generation Agent"), description (1-2 sentences ≤30 words what it does), flowLabel (uppercase 2-3 words like "WORKFLOW" or "HOW IT WORKS"), iconSlug1/iconSlug2/iconSlug3 (3 brand slugs forming the flow: input tool → processor → output tool, e.g. "tiktok" "claude" "notion"), iconColor1/2/3 ("#000000" for monochrome on white chips), flowCaption (4-8 word caption like "Capture → enrich → store automatically"), iconSlug4/5/6/7 (4 more brand slugs for bottom logo row — supporting tools), iconColor4/5/6/7 (matching brand colors), ctaText (3-7 words like "comment 'AGENTS' for the full stack").
+BODY  body-agent-lineup: slideLabel (uppercase mono "AGENT 02" or "STEP 02"), title (3-5 word agent/step name), description (1-2 sentences ≤30 words), iconSlug1/2/3 (3 brand slugs for workflow steps, vertical flow), iconColor1/2/3, toolName1/2/3 (1-3 word tool names matching the slugs, e.g. "Apollo" "Claude" "Airtable"), toolRole1/2/3 (3-7 word role descriptions like "Finds prospects from ICP filters"), iconSlug4/5/6/7 + iconColor4/5/6/7 (bottom logo row), handle ("@yourname.ai" style).
+CTA   cta-agent-lineup: eyebrow (2-3 uppercase words like "FULL STACK INSIDE"), ctaHeadline1 (2-4 bold words), ctaHeadline2 (2-5 gradient-accent words like "All My AI Freebies"), freeBadge (3-5 words like "100% FREE" or "Comment 'AI' to grab"), iconSlug1..iconSlug8 (8 brand slugs — the complete tool stack), iconColor1..iconColor8, handle.`,
+
+  "stack-tour": `Layouts (light WHITE bg + Inter 80 title + per-tool body slide w/ huge brand-logo hero card + 3 checkmark bullets + bottom logo strip + light gray cards — modern tech-stack tour).
+Uses inline brand SVGs via iconSlug<N> + iconColor<N>. Same slug list as agent-lineup.
+COVER cover-stack-tour: eyebrow (2-4 uppercase words like "MY 6-TOOL STACK"), title (3-7 word title like "How I run a one-person SaaS"), description (1-2 sentences ≤30 words), iconSlug1..iconSlug6 (6 brand slugs filling the 6-card grid), iconColor1..6 (brand-color hex per slug), toolName1..6 (1-3 word tool name matching each slug), toolRole1..6 (3-5 word role labels like "Email automation"), ctaText (3-6 words like "Read the breakdown"), handle.
+BODY  body-stack-tour: slideLabel ("02 / 08" or "TOOL 02"), handle, iconSlug1 (the FEATURED tool brand slug for this slide), iconColor1 (matching brand color), toolName (1-3 word tool name), toolTagline (4-8 word tagline), description (1-2 sentences ≤30 words explaining what makes it special), bullet1/bullet2/bullet3 (3 specific use-case phrases 4-8 words each), accentColor (hex of brand color used for the bullet accent borders), stackLabel (uppercase 2-3 words like "PAIRS WELL WITH"), iconSlug2..iconSlug6 (5 supporting tool slugs), iconColor2..6, ctaBottom (3-5 words like "comment 'STACK' below").
+CTA   cta-stack-tour: pageOf, handle, eyebrow (2-3 uppercase words like "YOUR TURN"), headlineLine1 (2-3 bold words), headlineLine2 (2-3 muted-gray words), iconSlug1..iconSlug7 (7 full-stack brand slugs), iconColor1..7, body (1-2 sentences ≤30 words), ctaText (3-5 words).`,
+
+  "before-after": `Layouts (light #fff + Inter 84 title + blue/green accent + X/✓ comparison rows + small brand-logo strip at bottom — Figma ref carousel_5 "01. Routing Agent" before-vs-after).
+Uses inline brand SVGs via iconSlug<N> + iconColor<N>.
+COVER cover-before-after: pageOf, handle, title (2-4 bold words like "Stop doing"), titleAccent (1-3 blue words like "manual outreach"), description (1-2 sentences ≤30 words), badLabel1/badLabel2 (2 short BAD-state phrases 4-7 words each like "Cold emails get ignored"), badStat1/badStat2 (short stat strings like "2% reply rate" or "$300/lead"), goodLabel1/goodLabel2 (2 short GOOD-state phrases 4-7 words each like "Claude personalizes every send"), goodStat1/goodStat2 (positive stat strings like "47% reply rate" or "$25/lead"), iconSlug1/2/3/4 (4 small bottom-strip brand slugs), iconColor1/2/3/4.
+BODY  body-before-after: slideLabel ("STEP 02 / 06"), handle, title (2-4 bold words), titleAccent (1-3 blue words), description (1-2 sentences ≤30 words), badLabel (uppercase 1-2 words like "BEFORE"), badText (1 sentence ≤22 words describing the broken state), badStat (short metric like "$300/lead"), iconSlug1/iconSlug2 (2 tool slugs that represent the "before" stack), iconColor1/2, goodLabel (uppercase 1-2 words like "AFTER"), goodText (1 sentence ≤22 words describing the fixed state), goodStat (positive metric like "$25/lead"), iconSlug3/iconSlug4/iconSlug5 (3 tool slugs representing the "after" stack), iconColor3/4/5, ctaArrow (3-5 words like "See the build").
+CTA   cta-before-after: pageOf, handle, eyebrow (2-3 uppercase words like "MAKE THE SWITCH"), headlineLine1 (2-3 bold words), headlineAccent (1-3 green words like "10x your ops"), body (1-2 sentences ≤30 words), iconSlug1..iconSlug6 (6 brand slugs), iconColor1..6, ctaText (3-5 words).`,
 };
 
 const PROMPT_TEMPLATE = (brief, family) => `You are a carousel planner.
@@ -548,6 +569,27 @@ const BRIEFS = [
   { id: "tile-ui-patterns",         family: "design-tile",    text: "6 UI patterns separating premium apps from amateur ones — side-by-side analysis." },
   { id: "tile-brand-archetypes",    family: "design-tile",    text: "The 6 brand archetypes — pick yours and 90% of design decisions get easier." },
   { id: "tile-typography-systems",  family: "design-tile",    text: "6 typography systems for SaaS — pairings, hierarchies, and license costs." },
+
+  // agent-lineup (AI agent system showcase, dark theme + brand icons + tech stack)
+  { id: "agent-sales-system",       family: "agent-lineup",   text: "My 5-agent sales system that replaced a $300K rep — Apollo, Claude, Airtable, Calendly, Stripe." },
+  { id: "agent-marketing-system",   family: "agent-lineup",   text: "The 6-agent marketing OS that runs my entire content engine — n8n, Claude, Notion, TikTok, LinkedIn." },
+  { id: "agent-support-system",     family: "agent-lineup",   text: "My 4-agent support stack: tickets, replies, escalation, CSAT — Claude, Notion, Gmail, Slack." },
+  { id: "agent-research-system",    family: "agent-lineup",   text: "How I built a 5-agent research analyst — Perplexity, Claude, Notion, Airtable, OpenAI." },
+  { id: "agent-content-system",     family: "agent-lineup",   text: "The content factory: 6 agents from idea to publish — n8n, Claude, Figma, Notion, LinkedIn, YouTube." },
+
+  // stack-tour (light tech stack showcase, 6-tool tour)
+  { id: "stack-solo-saas",          family: "stack-tour",     text: "The 6-tool stack running my one-person SaaS — exact costs and what each one does." },
+  { id: "stack-newsletter-40k",     family: "stack-tour",     text: "The 6 tools running my $40K/mo newsletter — writing, sending, payments, the works." },
+  { id: "stack-indie-agency",       family: "stack-tour",     text: "The 6-tool indie agency stack — pitch to delivery, no team needed." },
+  { id: "stack-ai-builder",         family: "stack-tour",     text: "My 6-tool AI builder stack — from prompt to production in a weekend." },
+  { id: "stack-creator-os",         family: "stack-tour",     text: "The 6-tool creator OS — recording, editing, scheduling, analytics, all in sync." },
+
+  // before-after (light X-vs-✓ workflow comparison with brand stack)
+  { id: "ba-cold-email-ai",         family: "before-after",   text: "Cold email before vs after Claude — reply rates, costs, and the exact stack." },
+  { id: "ba-support-ai",            family: "before-after",   text: "Customer support before vs after AI — ticket time dropped from hours to minutes." },
+  { id: "ba-hiring-ai",             family: "before-after",   text: "Hiring funnel before vs after AI — 200 applicants, same quality, no recruiter." },
+  { id: "ba-content-ai",            family: "before-after",   text: "Content production before vs after AI — one writer ships 30 pieces a week." },
+  { id: "ba-lead-gen-ai",           family: "before-after",   text: "Lead gen before vs after AI agents — pipeline doubled, CAC cut in half." },
 ];
 
 // ─── Kimi planner with retry on JSON parse failure ─────────────────────────
