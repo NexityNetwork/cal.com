@@ -1,0 +1,174 @@
+{
+  "id": "pkm-without-apps",
+  "brand": "PKM Simple",
+  "brief": "PKM without apps: 3 folders, 2 commands, and a Claude skill that does the rest.",
+  "theme": "second-brain",
+  "slides": [
+    {
+      "layoutId": "cover-second-brain",
+      "slots": {
+        "filename": "SECOND_BRAIN.sys",
+        "bigNumber": "3",
+        "bigLabel": "Folders",
+        "folderDesc": "raw + wiki + outputs",
+        "headlineMain": "I Built My",
+        "headlineAccent": "Second Brain",
+        "headlineLine2": "With 3 Folders",
+        "subLine1": "It's not an app. It's not a plugin.",
+        "subLine2": "It's just",
+        "subAccent": "3 folders",
+        "subTail": "on your computer."
+      }
+    },
+    {
+      "layoutId": "body-second-brain",
+      "slots": {
+        "eyebrow": "STEP",
+        "number": "01",
+        "title": "Make Folders",
+        "terminalPath": "~/my-second-brain",
+        "term1Cmd": "mkdir",
+        "term1Arg": "raw/",
+        "term2Cmd": "mkdir",
+        "term2Arg": "wiki/",
+        "term3Cmd": "mkdir",
+        "term3Arg": "outputs/",
+        "quote": "That's the entire system architecture.",
+        "card1Key": "raw/",
+        "card1Desc": "Dump notes, PDFs, and transcripts here.",
+        "card2Key": "wiki/",
+        "card2Desc": "Curated knowledge and evergreen notes.",
+        "card3Key": "outputs/",
+        "card3Desc": "Published work and final deliverables.",
+        "nextNote": "Next: the only two commands you need."
+      }
+    },
+    {
+      "layoutId": "body-second-brain",
+      "slots": {
+        "eyebrow": "STEP",
+        "number": "02",
+        "title": "Two Commands",
+        "terminalPath": "~/my-second-brain",
+        "term1Cmd": "cd",
+        "term1Arg": "my-second-brain",
+        "term2Cmd": "ls",
+        "term2Arg": "-la",
+        "term3Cmd": "grep",
+        "term3Arg": "-r \"idea\"",
+        "quote": "Terminal speed beats app bloat.",
+        "card1Key": "cd",
+        "card1Desc": "Jump into your brain's root directory.",
+        "card2Key": "ls",
+        "card2Desc": "List everything; nothing is hidden.",
+        "card3Key": "grep",
+        "card3Desc": "Find any thought in milliseconds.",
+        "nextNote": "Next: how Claude reads your folders."
+      }
+    },
+    {
+      "layoutId": "body-second-brain",
+      "slots": {
+        "eyebrow": "SYSTEM",
+        "number": "03",
+        "title": "Claude Skill",
+        "terminalPath": "~/my-second-brain",
+        "term1Cmd": "claude",
+        "term1Arg": "skill init",
+        "term2Cmd": "claude",
+        "term2Arg": "sync raw/",
+        "term3Cmd": "claude",
+        "term3Arg": "build wiki/",
+        "quote": "One skill replaces ten plugins.",
+        "card1Key": "sync",
+        "card1Desc": "Indexes raw files automatically.",
+        "card2Key": "link",
+        "card2Desc": "Connects ideas across folders.",
+        "card3Key": "draft",
+        "card3Desc": "Generates outputs from your knowledge.",
+        "nextNote": "Next: the raw capture habit."
+      }
+    },
+    {
+      "layoutId": "body-second-brain",
+      "slots": {
+        "eyebrow": "STEP",
+        "number": "04",
+        "title": "Capture Raw",
+        "terminalPath": "~/my-second-brain/raw",
+        "term1Cmd": "mv",
+        "term1Arg": "article.pdf raw/",
+        "term2Cmd": "cp",
+        "term2Arg": "notes.md raw/",
+        "term3Cmd": "echo",
+        "term3Arg": "\"idea\" >> raw/inbox.md",
+        "quote": "Capture first, curate later, always.",
+        "card1Key": "inbox",
+        "card1Desc": "A single place for daily inputs.",
+        "card2Key": "dump",
+        "card2Desc": "No tagging, no sorting, just save.",
+        "card3Key": "batch",
+        "card3Desc": "Process everything in one weekly review.",
+        "nextNote": "Next: distilling into wiki."
+      }
+    },
+    {
+      "layoutId": "body-second-brain",
+      "slots": {
+        "eyebrow": "STEP",
+        "number": "05",
+        "title": "Distill Wiki",
+        "terminalPath": "~/my-second-brain/wiki",
+        "term1Cmd": "cat",
+        "term1Arg": "raw/*.md",
+        "term2Cmd": "claude",
+        "term2Arg": "summarize > wiki/",
+        "term3Cmd": "ln",
+        "term3Arg": "-s wiki/ index.md",
+        "quote": "Notes mean nothing without refinement.",
+        "card1Key": "summarize",
+        "card1Desc": "Turn chaos into concise evergreen notes.",
+        "card2Key": "link",
+        "card2Desc": "Map connections between concepts.",
+        "card3Key": "tag",
+        "card3Desc": "Simple text tags, no database needed.",
+        "nextNote": "Next: publishing your outputs."
+      }
+    },
+    {
+      "layoutId": "body-second-brain",
+      "slots": {
+        "eyebrow": "STEP",
+        "number": "06",
+        "title": "Ship Outputs",
+        "terminalPath": "~/my-second-brain/outputs",
+        "term1Cmd": "claude",
+        "term1Arg": "draft post.md",
+        "term2Cmd": "cp",
+        "term2Arg": "outputs/ blog/",
+        "term3Cmd": "git",
+        "term3Arg": "push origin main",
+        "quote": "Knowledge work needs a finish line.",
+        "card1Key": "draft",
+        "card1Desc": "Turn wiki notes into articles fast.",
+        "card2Key": "format",
+        "card2Desc": "Export to any platform you choose.",
+        "card3Key": "ship",
+        "card3Desc": "Done is better than perfectly organized.",
+        "nextNote": "Ready to build yours?"
+      }
+    },
+    {
+      "layoutId": "cta-second-brain",
+      "slots": {
+        "filename": "SECOND_BRAIN.sys",
+        "eyebrow": "YOUR TURN",
+        "headlineMain": "Start Your",
+        "headlineAccent": "Second Brain",
+        "body": "Create 3 folders, run 2 commands, and let Claude handle the rest. No subscriptions, no lock-in.",
+        "buttonLabel": "Save this post",
+        "handle": "@pkmsimple"
+      }
+    }
+  ]
+}
