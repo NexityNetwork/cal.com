@@ -1,139 +1,108 @@
 {
   "id": "cream3d-rich-mindset",
-  "brand": "WealthLab",
+  "brand": "Jordan Dale",
   "brief": "The 6 mindset shifts that separate people who get rich from people who stay broke.",
   "theme": "cream-3d",
   "slides": [
     {
       "layoutId": "cover-cream-3d",
       "slots": {
-        "pageOf": "1 / 8",
+        "titleLine1": "The six",
+        "titleBold": "mindset shifts",
+        "titleLine3": "that build wealth",
         "authorInitials": "JD",
-        "authorName": "Jay Dawson",
-        "handle": "@jaydawson",
-        "avatarBg1": "#c4541f",
-        "avatarBg2": "#1a1a1a",
-        "titleLine1": "6 Mindset Shifts",
-        "titleAccent": "Build Wealth",
-        "badgeText": "Read in 6 minutes"
+        "authorName": "Jordan Dale",
+        "handle": "@jordandale",
+        "avatarBg1": "#E07A5F",
+        "avatarBg2": "#F2CC8F",
+        "pageOf": "01 - 08"
       }
     },
     {
       "layoutId": "body-cream-3d",
       "slots": {
-        "pageOf": "2 / 8",
-        "authorInitials": "JD",
-        "authorName": "Jay Dawson",
-        "handle": "@jaydawson",
-        "avatarBg1": "#c4541f",
-        "avatarBg2": "#1a1a1a",
-        "numberLabel": "SHIFT 01",
-        "title": "Buy Assets Not Liabilities",
-        "body": "Wealthy people acquire things that generate income. Broke people spend on items that drain money. One purchase builds your future while the other steals it.",
+        "bodyLine1": "Broke people hoard",
+        "bodyLine2": "what little they have.",
+        "bodyLine3": "Wealthy people invest",
+        "bodyLine4": "in relationships and",
+        "bodyLine5": "assets that multiply.",
         "tipLabel": "PRO TIP",
-        "tipBody": "Before any purchase over $100, ask if it pays you back.",
-        "shapeLabel": "Asset Growth"
+        "tipBody": "Give value first at every networking event; reciprocity builds your net worth faster than extraction.",
+        "pageOf": "02 - 08"
       }
     },
     {
       "layoutId": "body-cream-3d",
       "slots": {
-        "pageOf": "3 / 8",
-        "authorInitials": "JD",
-        "authorName": "Jay Dawson",
-        "handle": "@jaydawson",
-        "avatarBg1": "#c4541f",
-        "avatarBg2": "#1a1a1a",
-        "numberLabel": "SHIFT 02",
-        "title": "Stop Trading Time For Money",
-        "body": "Broke people sell hours. Rich people buy time by delegating, automating, and building systems. Your time is the only asset you cannot scale.",
-        "tipLabel": "PRO TIP",
-        "tipBody": "Calculate your hourly rate and delegate anything below it.",
-        "shapeLabel": "Time Leverage"
+        "bodyLine1": "Stop trading hours",
+        "bodyLine2": "for dollars today.",
+        "bodyLine3": "Build systems that",
+        "bodyLine4": "earn while you",
+        "bodyLine5": "sleep or travel.",
+        "tipLabel": "KEY MOVE",
+        "tipBody": "Document one process at work this week, then delegate or automate it to free your schedule.",
+        "pageOf": "03 - 08"
       }
     },
     {
       "layoutId": "body-cream-3d",
       "slots": {
-        "pageOf": "4 / 8",
-        "authorInitials": "JD",
-        "authorName": "Jay Dawson",
-        "handle": "@jaydawson",
-        "avatarBg1": "#c4541f",
-        "avatarBg2": "#1a1a1a",
-        "numberLabel": "SHIFT 03",
-        "title": "Take Calculated Smart Risks",
-        "body": "Staying broke feels safe but guarantees poverty. Wealth requires educated bets with upside. Risk is the price of admission for real returns.",
-        "tipLabel": "PRO TIP",
-        "tipBody": "Never risk more than you can afford to lose completely.",
-        "shapeLabel": "Risk Reward"
+        "bodyLine1": "Broke minds consume",
+        "bodyLine2": "to impress strangers.",
+        "bodyLine3": "Rich minds create",
+        "bodyLine4": "products and content",
+        "bodyLine5": "that build equity.",
+        "tipLabel": "START NOW",
+        "tipBody": "Spend thirty minutes daily creating content or offers instead of scrolling social feeds.",
+        "pageOf": "04 - 08"
       }
     },
     {
       "layoutId": "body-cream-3d",
       "slots": {
-        "pageOf": "5 / 8",
-        "authorInitials": "JD",
-        "authorName": "Jay Dawson",
-        "handle": "@jaydawson",
-        "avatarBg1": "#c4541f",
-        "avatarBg2": "#1a1a1a",
-        "numberLabel": "SHIFT 04",
-        "title": "Adopt An Abundance Mindset",
-        "body": "Broke minds hoard and compete from fear. Rich minds collaborate and create value knowing there is plenty. Scarcity repels money; abundance attracts it.",
-        "tipLabel": "PRO TIP",
-        "tipBody": "Give value first without expecting immediate return.",
-        "shapeLabel": "Wealth Mindset"
+        "bodyLine1": "Staying broke feels",
+        "bodyLine2": "safe but slowly",
+        "bodyLine3": "erodes your future.",
+        "bodyLine4": "Wealth demands calculated",
+        "bodyLine5": "bets with upside.",
+        "tipLabel": "RISK HACK",
+        "tipBody": "Only risk capital you can lose completely; never gamble the money reserved for survival.",
+        "pageOf": "05 - 08"
       }
     },
     {
       "layoutId": "body-cream-3d",
       "slots": {
-        "pageOf": "6 / 8",
-        "authorInitials": "JD",
-        "authorName": "Jay Dawson",
-        "handle": "@jaydawson",
-        "avatarBg1": "#c4541f",
-        "avatarBg2": "#1a1a1a",
-        "numberLabel": "SHIFT 05",
-        "title": "Invest In Skills First",
-        "body": "Poor people save every dollar. Rich people reinvest in knowledge, coaching, and networks. The fastest way to double income is to triple your value.",
-        "tipLabel": "PRO TIP",
-        "tipBody": "Spend ten percent of income on courses and coaching.",
-        "shapeLabel": "Skill Stacking"
+        "bodyLine1": "One paycheck is",
+        "bodyLine2": "a single point",
+        "bodyLine3": "of total failure.",
+        "bodyLine4": "Build three income",
+        "bodyLine5": "streams this year.",
+        "tipLabel": "ACTION PLAN",
+        "tipBody": "Launch one digital product or side service before the end of next month.",
+        "pageOf": "06 - 08"
       }
     },
     {
       "layoutId": "body-cream-3d",
       "slots": {
-        "pageOf": "7 / 8",
-        "authorInitials": "JD",
-        "authorName": "Jay Dawson",
-        "handle": "@jaydawson",
-        "avatarBg1": "#c4541f",
-        "avatarBg2": "#1a1a1a",
-        "numberLabel": "SHIFT 06",
-        "title": "Build Multiple Income Streams",
-        "body": "One paycheck is the most dangerous number in finance. Wealthy people stack three to five income sources. Security comes from diversity, not dependence.",
-        "tipLabel": "PRO TIP",
-        "tipBody": "Start one side income before you need it.",
-        "shapeLabel": "Cash Flow"
+        "bodyLine1": "Short term comfort",
+        "bodyLine2": "buys instant dopamine.",
+        "bodyLine3": "Long term vision",
+        "bodyLine4": "buys lasting freedom",
+        "bodyLine5": "and real options.",
+        "tipLabel": "PATIENCE PAYS",
+        "tipBody": "Before every purchase over fifty dollars, wait forty-eight hours to test if it serves your goals.",
+        "pageOf": "07 - 08"
       }
     },
     {
       "layoutId": "cta-cream-3d",
       "slots": {
-        "pageOf": "8 / 8",
-        "authorInitials": "JD",
-        "authorName": "Jay Dawson",
-        "handle": "@jaydawson",
-        "avatarBg1": "#c4541f",
-        "avatarBg2": "#1a1a1a",
-        "eyebrow": "YOUR MOVE",
-        "headlineLine1": "Start Building",
-        "headlineAccent": "Real Wealth",
-        "body": "Pick one shift and act on it today. Your future self will thank you.",
-        "buttonLabel": "Follow For More"
+        "tagline": "We simplify wealth psychology so you can build assets, not excuses. No fluff, just frameworks.",
+        "ctaQuestion": "Ready to build real wealth ?",
+        "handle": "@jordandale",
+        "pageOf": "08 - 08"
       }
     }
   ]

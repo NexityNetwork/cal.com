@@ -1,139 +1,108 @@
 {
   "id": "cream3d-investing-101",
-  "brand": "Creator Capital",
+  "brand": "Steady Stack",
   "brief": "Investing 101 for creators — 6 boring habits that built my $500K portfolio.",
   "theme": "cream-3d",
   "slides": [
     {
       "layoutId": "cover-cream-3d",
       "slots": {
-        "pageOf": "1 / 8",
-        "authorInitials": "JL",
-        "authorName": "Jordan Lee",
-        "handle": "@jordanmoney",
-        "avatarBg1": "#c4541f",
-        "avatarBg2": "#f0ebe1",
-        "titleLine1": "6 Boring Habits",
-        "titleAccent": "Worth $500K",
-        "badgeText": "Read in 5 minutes"
+        "titleLine1": "How boring",
+        "titleBold": "investing habits",
+        "titleLine3": "built my $500K",
+        "authorInitials": "RC",
+        "authorName": "Riley Chen",
+        "handle": "@rileycreates",
+        "avatarBg1": "#E07A5F",
+        "avatarBg2": "#F2CC8F",
+        "pageOf": "01 - 08"
       }
     },
     {
       "layoutId": "body-cream-3d",
       "slots": {
-        "pageOf": "2 / 8",
-        "authorInitials": "JL",
-        "authorName": "Jordan Lee",
-        "handle": "@jordanmoney",
-        "avatarBg1": "#c4541f",
-        "avatarBg2": "#f0ebe1",
-        "numberLabel": "HABIT 01",
-        "title": "Automate Every Dollar",
-        "body": "Set automatic transfers to your brokerage on payday. You can't spend what you never see. Consistency beats timing.",
+        "bodyLine1": "Automate a fixed",
+        "bodyLine2": "transfer every",
+        "bodyLine3": "Friday before",
+        "bodyLine4": "you spend a",
+        "bodyLine5": "single dollar.",
         "tipLabel": "PRO TIP",
-        "tipBody": "Start with just 10% of every payment you receive.",
-        "shapeLabel": "Auto-pilot wealth"
+        "tipBody": "Schedule the transfer one day after your biggest client pays.",
+        "pageOf": "02 - 08"
       }
     },
     {
       "layoutId": "body-cream-3d",
       "slots": {
-        "pageOf": "3 / 8",
-        "authorInitials": "JL",
-        "authorName": "Jordan Lee",
-        "handle": "@jordanmoney",
-        "avatarBg1": "#c4541f",
-        "avatarBg2": "#f0ebe1",
-        "numberLabel": "HABIT 02",
-        "title": "Buy Index Funds Only",
-        "body": "Stop picking individual stocks. Low-cost index funds match the market and erase emotional trading mistakes instantly.",
-        "tipLabel": "PRO TIP",
-        "tipBody": "Vanguard and Fidelity offer expense ratios under 0.05%.",
-        "shapeLabel": "Market growth"
+        "bodyLine1": "Buy the whole",
+        "bodyLine2": "market with a",
+        "bodyLine3": "low-cost index",
+        "bodyLine4": "fund and stop",
+        "bodyLine5": "picking stocks.",
+        "tipLabel": "STAY LAZY",
+        "tipBody": "Stock picking is a job; index investing is a habit.",
+        "pageOf": "03 - 08"
       }
     },
     {
       "layoutId": "body-cream-3d",
       "slots": {
-        "pageOf": "4 / 8",
-        "authorInitials": "JL",
-        "authorName": "Jordan Lee",
-        "handle": "@jordanmoney",
-        "avatarBg1": "#c4541f",
-        "avatarBg2": "#f0ebe1",
-        "numberLabel": "HABIT 03",
-        "title": "Ignore Financial Noise",
-        "body": "Unsubscribe from market hype channels. News cycles sell fear, not returns. Your portfolio grows in silence.",
-        "tipLabel": "PRO TIP",
-        "tipBody": "Check your investments only once per quarter.",
-        "shapeLabel": "Quiet compounding"
+        "bodyLine1": "Check your",
+        "bodyLine2": "portfolio only",
+        "bodyLine3": "once a quarter",
+        "bodyLine4": "to avoid panic",
+        "bodyLine5": "selling anything.",
+        "tipLabel": "ZEN MODE",
+        "tipBody": "Turn off market news alerts so your emotions stop trading.",
+        "pageOf": "04 - 08"
       }
     },
     {
       "layoutId": "body-cream-3d",
       "slots": {
-        "pageOf": "5 / 8",
-        "authorInitials": "JL",
-        "authorName": "Jordan Lee",
-        "handle": "@jordanmoney",
-        "avatarBg1": "#c4541f",
-        "avatarBg2": "#f0ebe1",
-        "numberLabel": "HABIT 04",
-        "title": "Build a Cash Cushion",
-        "body": "Creators have irregular income. Keep twelve months of expenses saved before you invest aggressively.",
-        "tipLabel": "PRO TIP",
-        "tipBody": "Park emergency cash in a high-yield savings account.",
-        "shapeLabel": "Safety buffer"
+        "bodyLine1": "Split every",
+        "bodyLine2": "irregular paycheck",
+        "bodyLine3": "into tax, life,",
+        "bodyLine4": "and investment",
+        "bodyLine5": "buckets first.",
+        "tipLabel": "BUCKET UP",
+        "tipBody": "Creator income is volatile; buckets turn chaos into consistency.",
+        "pageOf": "05 - 08"
       }
     },
     {
       "layoutId": "body-cream-3d",
       "slots": {
-        "pageOf": "6 / 8",
-        "authorInitials": "JL",
-        "authorName": "Jordan Lee",
-        "handle": "@jordanmoney",
-        "avatarBg1": "#c4541f",
-        "avatarBg2": "#f0ebe1",
-        "numberLabel": "HABIT 05",
-        "title": "Max Tax Advantaged Accounts",
-        "body": "Open a SEP-IRA or Solo 401k. Every dollar you shelter from taxes compounds faster over decades.",
-        "tipLabel": "PRO TIP",
-        "tipBody": "Contributions can reduce your taxable income significantly.",
-        "shapeLabel": "Tax shield"
+        "bodyLine1": "Enable dividend",
+        "bodyLine2": "reinvestment so",
+        "bodyLine3": "growth compounds",
+        "bodyLine4": "without any",
+        "bodyLine5": "extra clicks.",
+        "tipLabel": "DRIP POWER",
+        "tipBody": "Reinvested dividends are quiet workers that never call in sick.",
+        "pageOf": "06 - 08"
       }
     },
     {
       "layoutId": "body-cream-3d",
       "slots": {
-        "pageOf": "7 / 8",
-        "authorInitials": "JL",
-        "authorName": "Jordan Lee",
-        "handle": "@jordanmoney",
-        "avatarBg1": "#c4541f",
-        "avatarBg2": "#f0ebe1",
-        "numberLabel": "HABIT 06",
-        "title": "Reinvest All Dividends",
-        "body": "Turn on DRIP for every holding. Those small payments snowball into massive ownership over twenty years.",
-        "tipLabel": "PRO TIP",
-        "tipBody": "Dividend reinvestment is the hidden engine of wealth.",
-        "shapeLabel": "Dividend snowball"
+        "bodyLine1": "Increase your",
+        "bodyLine2": "automation by one",
+        "bodyLine3": "percent every",
+        "bodyLine4": "January and",
+        "bodyLine5": "forget it.",
+        "tipLabel": "1% RULE",
+        "tipBody": "You will not feel a one percent raise in contributions yearly.",
+        "pageOf": "07 - 08"
       }
     },
     {
       "layoutId": "cta-cream-3d",
       "slots": {
-        "pageOf": "8 / 8",
-        "authorInitials": "JL",
-        "authorName": "Jordan Lee",
-        "handle": "@jordanmoney",
-        "avatarBg1": "#c4541f",
-        "avatarBg2": "#f0ebe1",
-        "eyebrow": "YOUR MOVE",
-        "headlineLine1": "Start Small",
-        "headlineAccent": "Start Today",
-        "body": "You don't need thousands to begin. Pick one habit and execute it this week.",
-        "buttonLabel": "Follow for More"
+        "tagline": "Boring money habits build portfolios that outlast viral trends. Start small today.",
+        "ctaQuestion": "Ready to build your stack ?",
+        "handle": "@rileycreates",
+        "pageOf": "08 - 08"
       }
     }
   ]
