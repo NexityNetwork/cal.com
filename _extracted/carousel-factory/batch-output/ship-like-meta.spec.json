@@ -1,0 +1,135 @@
+{
+  "id": "ship-like-meta",
+  "brand": "Operator",
+  "brief": "How a solo founder ships like a Meta team — 8 internal tools every operator should clone.",
+  "theme": "rounded-card",
+  "slides": [
+    {
+      "layoutId": "cover-rounded-card",
+      "slots": {
+        "pageBadge": "01",
+        "headlineLine1": "Ship like a",
+        "headlineLine2": "Meta engineering team",
+        "body": "Solo founders move slow because they lack the internal tooling giants take for granted.",
+        "bodyAccent": "Without the headcount."
+      }
+    },
+    {
+      "layoutId": "body-rounded-card",
+      "slots": {
+        "pageBadge": "02",
+        "handle": "@operator",
+        "number": "01",
+        "title": "Write a",
+        "titleAccent": "spec first",
+        "body": "Meta engineers don’t ship without an RFC. Solo founders should write a one-page PRD before any build. It kills scope creep and aligns your future self.",
+        "ico1": "📝",
+        "ico2": "⚙️",
+        "ico3": "🐛",
+        "ico4": "✅",
+        "nextNote": "Next: async standups",
+        "pageOf": "02 / 08"
+      }
+    },
+    {
+      "layoutId": "body-rounded-card",
+      "slots": {
+        "pageBadge": "03",
+        "handle": "@operator",
+        "number": "02",
+        "title": "Async daily",
+        "titleAccent": "standups",
+        "body": "Replace meetings with a 3-bullet update: yesterday, today, blockers. Use a Notion page or Slack bot to track momentum without the Zoom fatigue.",
+        "ico1": "🌅",
+        "ico2": "📊",
+        "ico3": "🧱",
+        "ico4": "✅",
+        "nextNote": "Next: brand system",
+        "pageOf": "03 / 08"
+      }
+    },
+    {
+      "layoutId": "body-rounded-card",
+      "slots": {
+        "pageBadge": "04",
+        "handle": "@operator",
+        "number": "03",
+        "title": "Centralize the",
+        "titleAccent": "brand system",
+        "body": "Create a single Figma hub with logos, colors, copy snippets, and templates. It turns every post, ad, and deck into a 5-minute task.",
+        "ico1": "🎨",
+        "ico2": "📐",
+        "ico3": "✍️",
+        "ico4": "🖼️",
+        "nextNote": "Next: auto onboarding",
+        "pageOf": "04 / 08"
+      }
+    },
+    {
+      "layoutId": "body-rounded-card",
+      "slots": {
+        "pageBadge": "05",
+        "handle": "@operator",
+        "number": "04",
+        "title": "Automate user",
+        "titleAccent": "onboarding",
+        "body": "Build a 5-email sequence and an in-app checklist that activates new users while you sleep. It’s your 24/7 customer success team.",
+        "ico1": "📧",
+        "ico2": "✅",
+        "ico3": "🤖",
+        "ico4": "📈",
+        "nextNote": "Next: metrics cockpit",
+        "pageOf": "05 / 08"
+      }
+    },
+    {
+      "layoutId": "body-rounded-card",
+      "slots": {
+        "pageBadge": "06",
+        "handle": "@operator",
+        "number": "05",
+        "title": "Build a",
+        "titleAccent": "metrics cockpit",
+        "body": "Pull revenue, churn, and acquisition into one real-time dashboard. Data-driven decisions separate operators from hobbyists.",
+        "ico1": "📊",
+        "ico2": "🎯",
+        "ico3": "💰",
+        "ico4": "⚡",
+        "nextNote": "Next: AI agent swarm",
+        "pageOf": "06 / 08"
+      }
+    },
+    {
+      "layoutId": "body-rounded-card",
+      "slots": {
+        "pageBadge": "07",
+        "handle": "@operator",
+        "number": "06",
+        "title": "Deploy your",
+        "titleAccent": "AI agents",
+        "body": "Use agents for support tickets, content drafts, and code review. You get parallel output without parallel payroll.",
+        "ico1": "🤖",
+        "ico2": "💬",
+        "ico3": "📝",
+        "ico4": "🔍",
+        "nextNote": "Next: your turn",
+        "pageOf": "07 / 08"
+      }
+    },
+    {
+      "layoutId": "cta-rounded-card",
+      "slots": {
+        "pageBadge": "08",
+        "handle": "@operator",
+        "eyebrow": "YOUR TURN",
+        "headlineLine1": "Clone the",
+        "headlineLine2": "Meta stack",
+        "body": "Pick one tool this week and build it in public. Speed is a feature, and your solo stack is the unfair advantage.",
+        "buttonLabel": "Build your stack now",
+        "secondaryLabel": "Follow @operator",
+        "footerLeft": "Built for founders",
+        "footerRight": "Share this post"
+      }
+    }
+  ]
+}
