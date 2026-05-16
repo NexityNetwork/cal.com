@@ -1,0 +1,116 @@
+{
+  "id": "4-pillars-prompts",
+  "brand": "PromptLab",
+  "brief": "The 4 pillars of a great prompt — what kills outputs vs what makes them sing.",
+  "theme": "black-mindmap",
+  "slides": [
+    {
+      "layoutId": "cover-black-mindmap",
+      "slots": {
+        "handle": "@promptlab",
+        "pageLabel": "01 / 08",
+        "eyebrow": "SAVE THIS",
+        "headlineLine1": "The 4 Pillars",
+        "headlineLine2": "Great Prompts",
+        "swipeNote": "swipe to see all 4"
+      }
+    },
+    {
+      "layoutId": "body-black-mindmap",
+      "slots": {
+        "handle": "@promptlab",
+        "pageLabel": "02 / 08",
+        "number": "1",
+        "title": "Persona",
+        "pill1": "Expert tone",
+        "pill2": "Clear role",
+        "pill3": "Defined style",
+        "pill4": "Authority",
+        "pill5": "Voice"
+      }
+    },
+    {
+      "layoutId": "body-black-mindmap",
+      "slots": {
+        "handle": "@promptlab",
+        "pageLabel": "03 / 08",
+        "number": "2",
+        "title": "Task",
+        "pill1": "Specific ask",
+        "pill2": "Action verb",
+        "pill3": "One goal",
+        "pill4": "Priority",
+        "pill5": "Scope"
+      }
+    },
+    {
+      "layoutId": "body-black-mindmap",
+      "slots": {
+        "handle": "@promptlab",
+        "pageLabel": "04 / 08",
+        "number": "3",
+        "title": "Format",
+        "pill1": "Set structure",
+        "pill2": "Output type",
+        "pill3": "Length cap",
+        "pill4": "Markdown",
+        "pill5": "Tables"
+      }
+    },
+    {
+      "layoutId": "body-black-mindmap",
+      "slots": {
+        "handle": "@promptlab",
+        "pageLabel": "05 / 08",
+        "number": "4",
+        "title": "Context",
+        "pill1": "Rich background",
+        "pill2": "Target audience",
+        "pill3": "Hard constraints",
+        "pill4": "Examples",
+        "pill5": "Purpose"
+      }
+    },
+    {
+      "layoutId": "body-black-mindmap",
+      "slots": {
+        "handle": "@promptlab",
+        "pageLabel": "06 / 08",
+        "number": "5",
+        "title": "Mistakes",
+        "pill1": "Vague asks",
+        "pill2": "No constraints",
+        "pill3": "Weak verbs",
+        "pill4": "Rambling",
+        "pill5": "No format"
+      }
+    },
+    {
+      "layoutId": "body-black-mindmap",
+      "slots": {
+        "handle": "@promptlab",
+        "pageLabel": "07 / 08",
+        "number": "6",
+        "title": "Wins",
+        "pill1": "Clear roles",
+        "pill2": "Tight scope",
+        "pill3": "Active verbs",
+        "pill4": "Examples",
+        "pill5": "Format set"
+      }
+    },
+    {
+      "layoutId": "cta-black-mindmap",
+      "slots": {
+        "handle": "@promptlab",
+        "pageLabel": "08 / 08",
+        "eyebrow": "YOUR MOVE",
+        "headlineLine1": "Build Better",
+        "headlineLine2": "Prompts Today",
+        "body": "Save this framework and test it on your next prompt. Watch the quality jump.",
+        "buttonLabel": "Save this post",
+        "closing": "Follow for daily tips"
+      }
+    }
+  ]
+}

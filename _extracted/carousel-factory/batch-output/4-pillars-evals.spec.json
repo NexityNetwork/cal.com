@@ -1,0 +1,116 @@
+{
+  "id": "4-pillars-evals",
+  "brand": "Evals",
+  "brief": "The 4 pillars of AI evals every shipping team needs — tests, traces, scorers, drift.",
+  "theme": "black-mindmap",
+  "slides": [
+    {
+      "layoutId": "cover-black-mindmap",
+      "slots": {
+        "handle": "@evals",
+        "pageLabel": "01 / 08",
+        "eyebrow": "SAVE THIS",
+        "headlineLine1": "The 4 Pillars of",
+        "headlineLine2": "AI Evals",
+        "swipeNote": "swipe to see the stack"
+      }
+    },
+    {
+      "layoutId": "body-black-mindmap",
+      "slots": {
+        "handle": "@evals",
+        "pageLabel": "02 / 08",
+        "number": "1",
+        "title": "Tests",
+        "pill1": "Unit cases",
+        "pill2": "Edge checks",
+        "pill3": "Regression",
+        "pill4": "Coverage",
+        "pill5": "CI"
+      }
+    },
+    {
+      "layoutId": "body-black-mindmap",
+      "slots": {
+        "handle": "@evals",
+        "pageLabel": "03 / 08",
+        "number": "2",
+        "title": "Traces",
+        "pill1": "Request spans",
+        "pill2": "Latency peaks",
+        "pill3": "Token counts",
+        "pill4": "Tags",
+        "pill5": "Logs"
+      }
+    },
+    {
+      "layoutId": "body-black-mindmap",
+      "slots": {
+        "handle": "@evals",
+        "pageLabel": "04 / 08",
+        "number": "3",
+        "title": "Scorers",
+        "pill1": "Human labels",
+        "pill2": "Model judge",
+        "pill3": "Exact match",
+        "pill4": "Rubric",
+        "pill5": "Grade"
+      }
+    },
+    {
+      "layoutId": "body-black-mindmap",
+      "slots": {
+        "handle": "@evals",
+        "pageLabel": "05 / 08",
+        "number": "4",
+        "title": "Drift",
+        "pill1": "Input shift",
+        "pill2": "Output decay",
+        "pill3": "Concept gap",
+        "pill4": "Alert",
+        "pill5": "Fix"
+      }
+    },
+    {
+      "layoutId": "body-black-mindmap",
+      "slots": {
+        "handle": "@evals",
+        "pageLabel": "06 / 08",
+        "number": "5",
+        "title": "Stack",
+        "pill1": "Connected flow",
+        "pill2": "Fast feedback",
+        "pill3": "Auto deploy",
+        "pill4": "Sync",
+        "pill5": "Loop"
+      }
+    },
+    {
+      "layoutId": "body-black-mindmap",
+      "slots": {
+        "handle": "@evals",
+        "pageLabel": "07 / 08",
+        "number": "6",
+        "title": "Ship",
+        "pill1": "Merge gates",
+        "pill2": "Eval first",
+        "pill3": "Daily runs",
+        "pill4": "Pass",
+        "pill5": "Release"
+      }
+    },
+    {
+      "layoutId": "cta-black-mindmap",
+      "slots": {
+        "handle": "@evals",
+        "pageLabel": "08 / 08",
+        "eyebrow": "YOUR MOVE",
+        "headlineLine1": "Build the eval",
+        "headlineLine2": "stack today",
+        "body": "Ship AI features faster with tests, traces, scorers, and drift detection.",
+        "buttonLabel": "Save this post",
+        "closing": "Tag your team below"
+      }
+    }
+  ]
+}
