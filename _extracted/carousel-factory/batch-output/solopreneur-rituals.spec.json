@@ -1,6 +1,6 @@
 {
   "id": "solopreneur-rituals",
-  "brand": "The Slow Foundry",
+  "brand": "Solo & Sane",
   "brief": "The 5 daily rituals that keep a solopreneur sane, solvent, and proud of their work.",
   "theme": "terracotta",
   "slides": [
@@ -8,105 +8,105 @@
       "layoutId": "cover-terracotta",
       "slots": {
         "eyebrow": "SOLOPRENEUR",
-        "titleLine1": "Sane,",
-        "titleLine2": "Solvent,",
-        "titleLine3": "& Proud",
-        "subtitle": "Five daily rituals that protect your peace, your profit, and your pride as a one-person business.",
+        "titleLine1": "Own",
+        "titleLine2": "Your",
+        "titleLine3": "Day",
+        "subtitle": "The five daily rituals that keep a solopreneur sane, solvent, and proud of their work.",
         "ctaLabel": "Read below",
-        "handle": "@theslowfoundry",
-        "author": "The Slow Foundry",
-        "slideCount": "8"
+        "handle": "@soloandsane",
+        "author": "Solo & Sane",
+        "slideCount": "5"
       }
     },
     {
       "layoutId": "body-terracotta",
       "slots": {
-        "author": "The Slow Foundry",
-        "pageOf": "2/8",
+        "author": "Solo & Sane",
+        "pageOf": "1/6",
         "number": "01",
         "numberLabel": "Mindset",
-        "titleMain": "Rituals Beat",
-        "titleItalic": "Hustle Culture",
-        "body": "Without anchors, entrepreneurship becomes a 24-hour anxiety loop. These five daily practices create structure, clarity, and long-term sustainability for your one-person empire.",
-        "handle": "@theslowfoundry"
+        "titleMain": "Start With",
+        "titleItalic": "Intention",
+        "body": "Before the inbox wins, anchor your day in a single purpose. Solopreneurship is a marathon of attention, and your morning ritual sets the pace.",
+        "handle": "@soloandsane"
       }
     },
     {
       "layoutId": "body-terracotta",
       "slots": {
-        "author": "The Slow Foundry",
-        "pageOf": "3/8",
+        "author": "Solo & Sane",
+        "pageOf": "2/6",
         "number": "02",
-        "numberLabel": "Practice",
+        "numberLabel": "Ritual",
         "titleMain": "Protect Your",
         "titleItalic": "Deep Work",
-        "body": "Block two distraction-free hours every morning for your most valuable task. Guard this window like a meeting with your most important client—because it is.",
-        "handle": "@theslowfoundry"
+        "body": "Block two hours for creation before consumption. No notifications, no calls—just the work that moves the needle and pays the bills.",
+        "handle": "@soloandsane"
       }
     },
     {
       "layoutId": "body-terracotta",
       "slots": {
-        "author": "The Slow Foundry",
-        "pageOf": "4/8",
+        "author": "Solo & Sane",
+        "pageOf": "3/6",
         "number": "03",
-        "numberLabel": "Practice",
+        "numberLabel": "Ritual",
         "titleMain": "Know Your",
-        "titleItalic": "Numbers Daily",
-        "body": "Spend ten minutes reviewing cash flow, invoices, and expenses. Solvency isn't a quarterly surprise; it's a daily habit that keeps your business breathing.",
-        "handle": "@theslowfoundry"
+        "titleItalic": "Numbers",
+        "body": "Spend ten minutes reviewing cash flow and invoices. Financial clarity removes the panic and lets you price, pitch, and rest with confidence.",
+        "handle": "@soloandsane"
       }
     },
     {
       "layoutId": "body-terracotta",
       "slots": {
-        "author": "The Slow Foundry",
-        "pageOf": "5/8",
+        "author": "Solo & Sane",
+        "pageOf": "4/6",
         "number": "04",
-        "numberLabel": "Practice",
-        "titleMain": "Move to",
-        "titleItalic": "Stay Sane",
-        "body": "Step away from the screen for a walk, stretch, or breathwork. Physical reset prevents burnout and returns you to the desk sharper than caffeine ever could.",
-        "handle": "@theslowfoundry"
+        "numberLabel": "Ritual",
+        "titleMain": "Move Your",
+        "titleItalic": "Body",
+        "body": "A walk, stretch, or breathwork session resets your nervous system. Physical movement is not a luxury; it is creative fuel and emotional insurance.",
+        "handle": "@soloandsane"
       }
     },
     {
       "layoutId": "body-terracotta",
       "slots": {
-        "author": "The Slow Foundry",
-        "pageOf": "6/8",
+        "author": "Solo & Sane",
+        "pageOf": "5/6",
         "number": "05",
-        "numberLabel": "Practice",
+        "numberLabel": "Ritual",
         "titleMain": "Close The",
-        "titleItalic": "Laptop Hard",
-        "body": "Set a non-negotiable shutdown time and communicate it to clients. Sanity lives in the boundary between your work and the rest of your life.",
-        "handle": "@theslowfoundry"
+        "titleItalic": "Loop",
+        "body": "End each day by finishing one small task completely. The feeling of completion builds pride and stops the haunting sense of always being behind.",
+        "handle": "@soloandsane"
       }
     },
     {
       "layoutId": "body-terracotta",
       "slots": {
-        "author": "The Slow Foundry",
-        "pageOf": "7/8",
+        "author": "Solo & Sane",
+        "pageOf": "6/6",
         "number": "06",
-        "numberLabel": "Practice",
-        "titleMain": "Celebrate Your",
-        "titleItalic": "Small Wins",
-        "body": "Before bed, write down one thing you did well today. Pride compounds when you train your mind to notice progress instead of only measuring what's left.",
-        "handle": "@theslowfoundry"
+        "numberLabel": "Ritual",
+        "titleMain": "Honor One",
+        "titleItalic": "Small Win",
+        "body": "Name what went well before you close the laptop. Pride is built in private moments of recognition, not just public milestones and revenue goals.",
+        "handle": "@soloandsane"
       }
     },
     {
       "layoutId": "cta-terracotta",
       "slots": {
-        "author": "The Slow Foundry",
+        "author": "Solo & Sane",
         "pageOf": "8/8",
         "eyebrow": "YOUR TURN",
-        "headlineMain": "Begin With",
-        "headlineItalic": "one ritual",
-        "body": "Pick one practice from this carousel and begin tomorrow morning. Small shifts create the most sustainable businesses.",
+        "headlineMain": "Start Today",
+        "headlineItalic": "right now",
+        "body": "Pick one ritual to practice tomorrow morning. Small shifts repeated daily build a business that feels like freedom, not a cage.",
         "buttonLabel": "Save this post",
-        "handle": "@theslowfoundry"
+        "handle": "@soloandsane"
       }
     }
   ]

@@ -1,0 +1,119 @@
+{
+  "id": "content-pillars",
+  "brand": "STUDIO NXT",
+  "brief": "How to build 5 content pillars that never run dry — the editorial approach.",
+  "theme": "coral-mag",
+  "slides": [
+    {
+      "layoutId": "cover-coral-mag",
+      "slots": {
+        "brand": "STUDIO NXT",
+        "issueLabel": "ISSUE 01",
+        "issueTag": "DEEP DIVE",
+        "headWord1": "THE",
+        "headWord2": "5 PILLARS",
+        "headWord3": "SYSTEM",
+        "subEyebrow": "CONTENT STRATEGY",
+        "subtitle": "Build an editorial engine that produces endless high-value content without creative burnout.",
+        "handle": "@studionxt"
+      }
+    },
+    {
+      "layoutId": "body-coral-mag",
+      "slots": {
+        "brand": "STUDIO NXT",
+        "pageLabel": "P.02",
+        "number": "01",
+        "eyebrow": "THE SHIFT",
+        "titleWord1": "STOP CHASING",
+        "titleWord2": "TRENDS",
+        "titleWord3": "FOREVER",
+        "body": "Most creators burn out because they treat every post as a blank slate. The editorial approach treats content like a publication — predictable, repeatable, and scalable.",
+        "handle": "@studionxt"
+      }
+    },
+    {
+      "layoutId": "body-coral-mag",
+      "slots": {
+        "brand": "STUDIO NXT",
+        "pageLabel": "P.03",
+        "number": "02",
+        "eyebrow": "PILLAR ONE",
+        "titleWord1": "MAP YOUR",
+        "titleWord2": "AUDIENCE",
+        "titleWord3": "QUESTIONS",
+        "body": "Build pillars around the 10-15 questions your audience asks on repeat. Interview customers, read comments, and mine Reddit. Their curiosity becomes your content calendar.",
+        "handle": "@studionxt"
+      }
+    },
+    {
+      "layoutId": "body-coral-mag",
+      "slots": {
+        "brand": "STUDIO NXT",
+        "pageLabel": "P.04",
+        "number": "03",
+        "eyebrow": "PILLAR TWO",
+        "titleWord1": "DOCUMENT YOUR",
+        "titleWord2": "PROCESS",
+        "titleWord3": "WEEKLY",
+        "body": "Turn your workflow into content. Share how you write, design, decide, or ship. Process content is endlessly renewable because your work never stops evolving.",
+        "handle": "@studionxt"
+      }
+    },
+    {
+      "layoutId": "body-coral-mag",
+      "slots": {
+        "brand": "STUDIO NXT",
+        "pageLabel": "P.05",
+        "number": "04",
+        "eyebrow": "PILLAR THREE",
+        "titleWord1": "CURATE AND",
+        "titleWord2": "CONTRAST",
+        "titleWord3": "INDUSTRY TAKES",
+        "body": "You do not need original research every day. Collect bold opinions, add your contrarian angle, and become the filter your audience trusts to make sense of the noise.",
+        "handle": "@studionxt"
+      }
+    },
+    {
+      "layoutId": "body-coral-mag",
+      "slots": {
+        "brand": "STUDIO NXT",
+        "pageLabel": "P.06",
+        "number": "05",
+        "eyebrow": "PILLAR FOUR",
+        "titleWord1": "REPURPOSE YOUR",
+        "titleWord2": "GREATEST",
+        "titleWord3": "HITS",
+        "body": "Your best post from six months ago is new to someone today. Slice carousels into threads. Expand tweets into articles. One strong idea can fuel ten formats.",
+        "handle": "@studionxt"
+      }
+    },
+    {
+      "layoutId": "body-coral-mag",
+      "slots": {
+        "brand": "STUDIO NXT",
+        "pageLabel": "P.07",
+        "number": "06",
+        "eyebrow": "PILLAR FIVE",
+        "titleWord1": "BET ON",
+        "titleWord2": "EVERGREEN",
+        "titleWord3": "PRINCIPLES",
+        "body": "Trends expire in days. Principles last for years. Write about mental models, timeless frameworks, and universal truths that stay relevant no matter the algorithm.",
+        "handle": "@studionxt"
+      }
+    },
+    {
+      "layoutId": "cta-coral-mag",
+      "slots": {
+        "brand": "STUDIO NXT",
+        "pageOf": "07 / 07",
+        "tag": "YOUR MOVE",
+        "headWord1": "SAVE",
+        "headWord2": "THIS",
+        "body": "Build your five pillars this week. Your future content calendar will thank you.",
+        "buttonLabel": "Follow for more",
+        "handle": "@studionxt"
+      }
+    }
+  ]
+}

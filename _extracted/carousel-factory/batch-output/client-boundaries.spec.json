@@ -1,0 +1,113 @@
+{
+  "id": "client-boundaries",
+  "brand": "Studio Solenne",
+  "brief": "5 healthy client boundaries every freelancer should set — and how to communicate them.",
+  "theme": "terracotta",
+  "slides": [
+    {
+      "layoutId": "cover-terracotta",
+      "slots": {
+        "eyebrow": "FREELANCE",
+        "titleLine1": "Healthy",
+        "titleLine2": "Boundaries,",
+        "titleLine3": "Made Simple",
+        "subtitle": "Five essential limits to protect your time, your creativity, and your income—without sacrificing client relationships.",
+        "ctaLabel": "Read below",
+        "handle": "@studiosolenne",
+        "author": "Studio Solenne",
+        "slideCount": "6"
+      }
+    },
+    {
+      "layoutId": "body-terracotta",
+      "slots": {
+        "author": "Studio Solenne",
+        "pageOf": "1/6",
+        "number": "01",
+        "numberLabel": "Mindset",
+        "titleMain": "Why Boundaries",
+        "titleItalic": "Build Trust",
+        "body": "Clear expectations prevent resentment and scope creep. When you honor your own time, clients learn to mirror that respect back.",
+        "handle": "@studiosolenne"
+      }
+    },
+    {
+      "layoutId": "body-terracotta",
+      "slots": {
+        "author": "Studio Solenne",
+        "pageOf": "2/6",
+        "number": "02",
+        "numberLabel": "Boundary",
+        "titleMain": "Guard Your",
+        "titleItalic": "Office Hours",
+        "body": "Decide when you’re available and stick to it. Turn off notifications after hours so clients learn urgency is not importance.",
+        "handle": "@studiosolenne"
+      }
+    },
+    {
+      "layoutId": "body-terracotta",
+      "slots": {
+        "author": "Studio Solenne",
+        "pageOf": "3/6",
+        "number": "03",
+        "numberLabel": "Policy",
+        "titleMain": "Define Response",
+        "titleItalic": "Time Frames",
+        "body": "You are not on retainer for instant replies. A 24-hour weekday window is reasonable, professional, and protects your deep work.",
+        "handle": "@studiosolenne"
+      }
+    },
+    {
+      "layoutId": "body-terracotta",
+      "slots": {
+        "author": "Studio Solenne",
+        "pageOf": "4/6",
+        "number": "04",
+        "numberLabel": "Rule",
+        "titleMain": "Protect the",
+        "titleItalic": "Project Scope",
+        "body": "Scope creep quietly steals your profit. Reference your contract kindly but firmly when requests drift beyond the original agreement.",
+        "handle": "@studiosolenne"
+      }
+    },
+    {
+      "layoutId": "body-terracotta",
+      "slots": {
+        "author": "Studio Solenne",
+        "pageOf": "5/6",
+        "number": "05",
+        "numberLabel": "Standard",
+        "titleMain": "Enforce Clear",
+        "titleItalic": "Payment Terms",
+        "body": "Money boundaries are business boundaries. Require deposits, outline late fees, and pause work when invoices pass their due date.",
+        "handle": "@studiosolenne"
+      }
+    },
+    {
+      "layoutId": "body-terracotta",
+      "slots": {
+        "author": "Studio Solenne",
+        "pageOf": "6/6",
+        "number": "06",
+        "numberLabel": "Limit",
+        "titleMain": "Cap Your",
+        "titleItalic": "Revisions",
+        "body": "Unlimited rounds drain creativity and calendar space. State exactly how many rounds are included and how additional requests are billed.",
+        "handle": "@studiosolenne"
+      }
+    },
+    {
+      "layoutId": "cta-terracotta",
+      "slots": {
+        "author": "Studio Solenne",
+        "pageOf": "7/7",
+        "eyebrow": "YOUR TURN",
+        "headlineMain": "Set Them",
+        "headlineItalic": "right now",
+        "body": "Pick one boundary to enforce this week. Your future self—and your best clients—will thank you for it.",
+        "buttonLabel": "Save this post",
+        "handle": "@studiosolenne"
+      }
+    }
+  ]
+}

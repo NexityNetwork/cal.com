@@ -1,118 +1,118 @@
 {
   "id": "hooks-that-convert",
-  "brand": "STUDIO VOLT",
+  "brand": "HOOK STUDIO",
   "brief": "6 opening hooks that stop the scroll — and the psychology behind each one.",
   "theme": "coral-mag",
   "slides": [
     {
       "layoutId": "cover-coral-mag",
       "slots": {
-        "brand": "STUDIO VOLT",
+        "brand": "HOOK STUDIO",
         "issueLabel": "ISSUE 01",
         "issueTag": "DEEP DIVE",
-        "headWord1": "STOP",
-        "headWord2": "THE",
-        "headWord3": "SCROLL",
-        "subEyebrow": "HOOK PSYCHOLOGY",
-        "subtitle": "Six scroll-stopping hooks and the psychology behind each one.",
-        "handle": "@studiovolt"
+        "headWord1": "SIX",
+        "headWord2": "HOOKS",
+        "headWord3": "THAT",
+        "subEyebrow": "STOP THE SCROLL",
+        "subtitle": "Six scroll-stopping openings and the psychology behind each one.",
+        "handle": "@hookstudio"
       }
     },
     {
       "layoutId": "body-coral-mag",
       "slots": {
-        "brand": "STUDIO VOLT",
-        "pageLabel": "P.02",
+        "brand": "HOOK STUDIO",
+        "pageLabel": "P.01",
         "number": "01",
-        "eyebrow": "CURIOSITY GAP",
-        "titleWord1": "OPEN",
-        "titleWord2": "LOOP",
-        "titleWord3": "",
-        "body": "Our brains crave closure. When you open a loop without immediately closing it, dopamine drives the reader to keep scrolling for the answer.",
-        "handle": "@studiovolt"
+        "eyebrow": "PATTERN INTERRUPT",
+        "titleWord1": "BREAK THE",
+        "titleWord2": "PATTERN",
+        "titleWord3": "OF EXPECTATION",
+        "body": "Our brains filter out predictable content. A visual or verbal twist forces the mind to pause and process what just happened.",
+        "handle": "@hookstudio"
       }
     },
     {
       "layoutId": "body-coral-mag",
       "slots": {
-        "brand": "STUDIO VOLT",
-        "pageLabel": "P.03",
+        "brand": "HOOK STUDIO",
+        "pageLabel": "P.02",
         "number": "02",
-        "eyebrow": "PATTERN BREAK",
-        "titleWord1": "VISUAL",
-        "titleWord2": "JOLT",
-        "titleWord3": "",
-        "body": "The brain filters out sameness. A bold color block, unexpected font, or jarring headline forces the mind to exit autopilot and focus.",
-        "handle": "@studiovolt"
+        "eyebrow": "CURIOSITY GAP",
+        "titleWord1": "CREATE A",
+        "titleWord2": "CURIOSITY",
+        "titleWord3": "VOID",
+        "body": "When we know a little but not enough, the brain craves closure. Open loops trigger dopamine and demand a click to resolve tension.",
+        "handle": "@hookstudio"
       }
     },
     {
       "layoutId": "body-coral-mag",
       "slots": {
-        "brand": "STUDIO VOLT",
-        "pageLabel": "P.04",
+        "brand": "HOOK STUDIO",
+        "pageLabel": "P.03",
         "number": "03",
-        "eyebrow": "SELF RELEVANCE",
-        "titleWord1": "THE",
-        "titleWord2": "YOU",
-        "titleWord3": "HOOK",
-        "body": "The word 'you' activates the same neural regions as hearing your name. It transforms a broadcast into a one-on-one conversation instantly.",
-        "handle": "@studiovolt"
+        "eyebrow": "PROVOCATION HOOK",
+        "titleWord1": "USE A",
+        "titleWord2": "PROVOCATION",
+        "titleWord3": "TO STIR",
+        "body": "Challenging beliefs triggers emotional arousal. A bold counter-narrative sparks instant engagement because the ego must defend or adapt.",
+        "handle": "@hookstudio"
       }
     },
     {
       "layoutId": "body-coral-mag",
       "slots": {
-        "brand": "STUDIO VOLT",
-        "pageLabel": "P.05",
+        "brand": "HOOK STUDIO",
+        "pageLabel": "P.04",
         "number": "04",
-        "eyebrow": "LOSS AVERSION",
-        "titleWord1": "DON'T",
-        "titleWord2": "MISS",
-        "titleWord3": "OUT",
-        "body": "Psychology shows losses feel twice as powerful as gains. Hinting at scarce knowledge or a fading opportunity triggers urgent attention.",
-        "handle": "@studiovolt"
+        "eyebrow": "STORY START",
+        "titleWord1": "START WITH",
+        "titleWord2": "CHAOS",
+        "titleWord3": "NOT CONTEXT",
+        "body": "The brain is wired for narrative. Dropping us into the middle of action hijacks attention before logic can decide to scroll away.",
+        "handle": "@hookstudio"
       }
     },
     {
       "layoutId": "body-coral-mag",
       "slots": {
-        "brand": "STUDIO VOLT",
-        "pageLabel": "P.06",
+        "brand": "HOOK STUDIO",
+        "pageLabel": "P.05",
         "number": "05",
-        "eyebrow": "CONTRARIAN TAKE",
-        "titleWord1": "UNPOPULAR",
-        "titleWord2": "OPINION",
-        "titleWord3": "",
-        "body": "Challenging a widely held belief creates cognitive dissonance. The brain stops to reconcile the clash, giving your hook precious dwell time.",
-        "handle": "@studiovolt"
+        "eyebrow": "PAIN AGITATION",
+        "titleWord1": "AGITATE THE",
+        "titleWord2": "PAIN",
+        "titleWord3": "POINT FIRST",
+        "body": "People protect their attention but guard their problems fiercely. Naming a specific frustration makes the content feel personally relevant instantly.",
+        "handle": "@hookstudio"
       }
     },
     {
       "layoutId": "body-coral-mag",
       "slots": {
-        "brand": "STUDIO VOLT",
-        "pageLabel": "P.07",
+        "brand": "HOOK STUDIO",
+        "pageLabel": "P.06",
         "number": "06",
-        "eyebrow": "EMPATHY TRIGGER",
-        "titleWord1": "PAIN",
-        "titleWord2": "POINT",
-        "titleWord3": "MIRROR",
-        "body": "When you articulate a struggle the reader feels but hasn't named, mirror neurons fire. Recognition builds trust in a single sentence.",
-        "handle": "@studiovolt"
+        "eyebrow": "AUTHORITY DROP",
+        "titleWord1": "DROP THE",
+        "titleWord2": "CREDIBILITY",
+        "titleWord3": "BOMB EARLY",
+        "body": "A specific, unexpected credential signals expertise faster than fluff. The brain trusts precision and rewards it with sustained focus.",
+        "handle": "@hookstudio"
       }
     },
     {
       "layoutId": "cta-coral-mag",
       "slots": {
-        "brand": "STUDIO VOLT",
-        "pageOf": "08/08",
+        "brand": "HOOK STUDIO",
+        "pageOf": "P.08",
         "tag": "YOUR MOVE",
         "headWord1": "SAVE",
         "headWord2": "THIS",
-        "body": "Reference these hooks before your next post. Which one will you test first?",
+        "body": "Which hook will you test first? Drop a comment and tag a marketer who needs to see this.",
         "buttonLabel": "Follow for more",
-        "handle": "@studiovolt"
+        "handle": "@hookstudio"
       }
     }
   ]

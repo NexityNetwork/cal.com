@@ -1,0 +1,119 @@
+{
+  "id": "brand-voice",
+  "brand": "STUDIO VOX",
+  "brief": "Why most brands sound the same — and 5 ways to develop a voice that sticks.",
+  "theme": "coral-mag",
+  "slides": [
+    {
+      "layoutId": "cover-coral-mag",
+      "slots": {
+        "brand": "STUDIO VOX",
+        "issueLabel": "ISSUE 01",
+        "issueTag": "DEEP DIVE",
+        "headWord1": "THE",
+        "headWord2": "SAME",
+        "headWord3": "VOICE",
+        "subEyebrow": "BRAND VOICE",
+        "subtitle": "Why most brands sound identical and how to build one that sticks.",
+        "handle": "@studiovox"
+      }
+    },
+    {
+      "layoutId": "body-coral-mag",
+      "slots": {
+        "brand": "STUDIO VOX",
+        "pageLabel": "P.02",
+        "number": "01",
+        "eyebrow": "THE LIE",
+        "titleWord1": "COPYCAT",
+        "titleWord2": "CULTURE",
+        "titleWord3": "IS SAFE",
+        "body": "Most brands mimic their competitors because generic feels risk-free. But safe is invisible. If you sound like everyone else, you are forgettable.",
+        "handle": "@studiovox"
+      }
+    },
+    {
+      "layoutId": "body-coral-mag",
+      "slots": {
+        "brand": "STUDIO VOX",
+        "pageLabel": "P.03",
+        "number": "02",
+        "eyebrow": "TRUTH ONE",
+        "titleWord1": "AUDIT YOUR",
+        "titleWord2": "TONE",
+        "titleWord3": "FIRST",
+        "body": "Strip away the buzzwords and read your copy out loud. If it could belong to any competitor, burn it and start again.",
+        "handle": "@studiovox"
+      }
+    },
+    {
+      "layoutId": "body-coral-mag",
+      "slots": {
+        "brand": "STUDIO VOX",
+        "pageLabel": "P.04",
+        "number": "03",
+        "eyebrow": "TRUTH TWO",
+        "titleWord1": "BUILD A",
+        "titleWord2": "TRAIT",
+        "titleWord3": "TRINITY",
+        "body": "Choose three adjectives that define your voice. Think salty, generous, or obsessive. Let every sentence flex at least one.",
+        "handle": "@studiovox"
+      }
+    },
+    {
+      "layoutId": "body-coral-mag",
+      "slots": {
+        "brand": "STUDIO VOX",
+        "pageLabel": "P.05",
+        "number": "04",
+        "eyebrow": "TRUTH THREE",
+        "titleWord1": "RULES",
+        "titleWord2": "BEAT",
+        "titleWord3": "RANDOMNESS",
+        "body": "Create a simple do-and-don't list for your team. Constraints fuel creativity and keep your voice consistent at scale.",
+        "handle": "@studiovox"
+      }
+    },
+    {
+      "layoutId": "body-coral-mag",
+      "slots": {
+        "brand": "STUDIO VOX",
+        "pageLabel": "P.06",
+        "number": "05",
+        "eyebrow": "TRUTH FOUR",
+        "titleWord1": "TRAIN THE",
+        "titleWord2": "TEAM",
+        "titleWord3": "DAILY",
+        "body": "Voice is a muscle, not a document. Run real copy through live critiques until distinct language becomes second nature.",
+        "handle": "@studiovox"
+      }
+    },
+    {
+      "layoutId": "body-coral-mag",
+      "slots": {
+        "brand": "STUDIO VOX",
+        "pageLabel": "P.07",
+        "number": "06",
+        "eyebrow": "TRUTH FIVE",
+        "titleWord1": "EVOLVE",
+        "titleWord2": "WITH",
+        "titleWord3": "INTENT",
+        "body": "Refresh your voice as your audience grows, but never pivot for trends. Evolution beats revolution when trust is on the line.",
+        "handle": "@studiovox"
+      }
+    },
+    {
+      "layoutId": "cta-coral-mag",
+      "slots": {
+        "brand": "STUDIO VOX",
+        "pageOf": "08/08",
+        "tag": "YOUR MOVE",
+        "headWord1": "SAVE",
+        "headWord2": "THIS",
+        "body": "Build a brand voice that gets remembered, not ignored.",
+        "buttonLabel": "Follow for more",
+        "handle": "@studiovox"
+      }
+    }
+  ]
+}
