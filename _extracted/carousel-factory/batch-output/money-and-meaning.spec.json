@@ -1,112 +1,112 @@
 {
   "id": "money-and-meaning",
-  "brand": "MERIDIAN",
+  "brand": "MORGAN ST. CLAIR",
   "brief": "How the wealthiest people I know think about money, meaning, and enough — 6 lessons.",
   "theme": "cream-gold",
   "slides": [
     {
       "layoutId": "cover-cream-gold",
       "slots": {
-        "brand": "MERIDIAN",
-        "issueLabel": "No. 01",
+        "brand": "MORGAN ST. CLAIR",
+        "issueLabel": "A Reflection",
         "eyebrow": "ON MONEY & MEANING",
         "titleLine1": "The",
         "titleLine2": "Quiet",
         "titleLine3": "Rules",
-        "subtitle": "A private look at how the truly wealthy define enough, purpose, and peace.",
-        "handle": "@themeridianletter",
+        "subtitle": "Six uncommon lessons on wealth, purpose, and the discipline of knowing when you have enough.",
+        "handle": "@morganstclair",
         "slideCount": "6"
       }
     },
     {
       "layoutId": "body-cream-gold",
       "slots": {
-        "brand": "MERIDIAN",
+        "brand": "MORGAN ST. CLAIR",
         "pageOf": "ii / viii",
         "number": "I",
         "numberLabel": "Lesson",
-        "titleMain": "Money Is",
-        "titleItalic": "Optionality",
-        "body": "The richest minds I know do not count dollars; they count choices. Wealth, to them, is the quiet luxury of deciding how to spend a Tuesday.",
-        "handle": "@themeridianletter"
+        "titleMain": "Wealth Is",
+        "titleItalic": "Quiet Optionality",
+        "body": "The richest minds I know do not flaunt; they preserve choice. Money becomes power only when it buys time, silence, and the freedom to decline.",
+        "handle": "@morganstclair"
       }
     },
     {
       "layoutId": "body-cream-gold",
       "slots": {
-        "brand": "MERIDIAN",
+        "brand": "MORGAN ST. CLAIR",
         "pageOf": "iii / viii",
         "number": "II",
         "numberLabel": "Lesson",
-        "titleMain": "Define Your",
-        "titleItalic": "Enough",
-        "body": "There is no universal number that signals arrival. The wise set their own finish line early, then spend the surplus on time and attention.",
-        "handle": "@themeridianletter"
+        "titleMain": "Enough Is a",
+        "titleItalic": "Chosen Threshold",
+        "body": "There is no algorithm that calculates satisfaction. The wealthy determine their finish line early, then defend it against the infinite appetite of more.",
+        "handle": "@morganstclair"
       }
     },
     {
       "layoutId": "body-cream-gold",
       "slots": {
-        "brand": "MERIDIAN",
+        "brand": "MORGAN ST. CLAIR",
         "pageOf": "iv / viii",
         "number": "III",
         "numberLabel": "Lesson",
-        "titleMain": "Meaning Over",
-        "titleItalic": "Margin",
-        "body": "Once the basics are secured, every additional dollar chases meaning, not margin. Purpose becomes the only asset that compounds indefinitely.",
-        "handle": "@themeridianletter"
+        "titleMain": "Safety Without",
+        "titleItalic": "Purpose Decays",
+        "body": "Fortress balance sheets cannot cure the ache of insignificance. The people I admire most deploy capital toward legacy, not merely toward longer comfort.",
+        "handle": "@morganstclair"
       }
     },
     {
       "layoutId": "body-cream-gold",
       "slots": {
-        "brand": "MERIDIAN",
+        "brand": "MORGAN ST. CLAIR",
         "pageOf": "v / viii",
         "number": "IV",
         "numberLabel": "Lesson",
-        "titleMain": "Silence Is",
-        "titleItalic": "Wealth",
-        "body": "Old money whispers. The most secure fortunes avoid announcement, understanding that privacy is the last true luxury a spotlight cannot buy.",
-        "handle": "@themeridianletter"
+        "titleMain": "Time Is the",
+        "titleItalic": "Final Currency",
+        "body": "You can replenish capital, but not the decades spent chasing it. The wisest investors I know treat every hour as a line item on their ledger.",
+        "handle": "@morganstclair"
       }
     },
     {
       "layoutId": "body-cream-gold",
       "slots": {
-        "brand": "MERIDIAN",
+        "brand": "MORGAN ST. CLAIR",
         "pageOf": "vi / viii",
         "number": "V",
         "numberLabel": "Lesson",
-        "titleMain": "Time as",
-        "titleItalic": "Denominator",
-        "body": "The wealthy do not trade time for money; they arbitrate it. Every investment is weighed against the irreplaceable currency of a finite life.",
-        "handle": "@themeridianletter"
+        "titleMain": "Trust Scales",
+        "titleItalic": "Beyond Capital",
+        "body": "Net worth is a poor proxy for network depth. True wealth compounds in rooms where your name is currency and your word is collateral.",
+        "handle": "@morganstclair"
       }
     },
     {
       "layoutId": "body-cream-gold",
       "slots": {
-        "brand": "MERIDIAN",
+        "brand": "MORGAN ST. CLAIR",
         "pageOf": "vii / viii",
         "number": "VI",
         "numberLabel": "Lesson",
-        "titleMain": "Legacy Is",
-        "titleItalic": "Lived Now",
-        "body": "Estate plans matter less than the example set at dinner. The richest lives I know are spent modeling values, not merely funding them.",
-        "handle": "@themeridianletter"
+        "titleMain": "Wealth Is a",
+        "titleItalic": "Borrowed Trust",
+        "body": "Privilege without duty becomes vulgarity. Those who last understand that fortune is not owned; it is held in stewardship for the generations yet unseen.",
+        "handle": "@morganstclair"
       }
     },
     {
       "layoutId": "cta-cream-gold",
       "slots": {
-        "brand": "MERIDIAN",
+        "brand": "MORGAN ST. CLAIR",
         "pageOf": "viii / viii",
         "eyebrow": "A FINAL WORD",
-        "headlineMain": "Save the",
-        "headlineItalic": "Wisdom",
-        "body": "Which lesson will you live first? Share your quiet commitment below.",
+        "headlineMain": "Define Your",
+        "headlineItalic": "Own Enough",
+        "body": "Wealth is a mindset long before it is a number. Choose your finish line with intention.",
         "buttonLabel": "SAVE THIS POST",
-        "handle": "@themeridianletter"
+        "handle": "@morganstclair"
       }
     }
   ]

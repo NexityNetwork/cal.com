@@ -1,0 +1,149 @@
+{
+  "id": "claude-replaces-recruiter",
+  "brand": "Claude Recruiter",
+  "brief": "How I built a $90K recruiter with Claude Code in a weekend. ICP → outreach → loop.",
+  "theme": "claude-target",
+  "slides": [
+    {
+      "layoutId": "cover-claude-target",
+      "slots": {
+        "topLine1": "I cloned a",
+        "topLine2": "$90K Recruiter",
+        "topLine3": "with Claude Code",
+        "brickLine1": "CLAUDE",
+        "brickLine2": "HIRE",
+        "subLine": "Here's the full",
+        "subAccent": "build breakdown,",
+        "subTail": "step by step",
+        "note": "weekend project inside"
+      }
+    },
+    {
+      "layoutId": "body-claude-target",
+      "slots": {
+        "titleMain": "Map your ideal",
+        "titleAccent": "candidate",
+        "titleTail": "profile",
+        "step1Title": "Define the must-have skills",
+        "step1Sub": "List 5 non-negotiable traits for the role.",
+        "step2Title": "Build a negative persona filter",
+        "step2Sub": "Filter out applicants who waste your time.",
+        "step3Title": "Set salary and geo filters",
+        "step3Sub": "Lock in budget and timezone constraints.",
+        "tool1": "CLAUDE",
+        "tool2": "NOTION",
+        "tool3": "APOLLO",
+        "tool4": "SHEETS",
+        "progressPct": 14
+      }
+    },
+    {
+      "layoutId": "body-claude-target",
+      "slots": {
+        "titleMain": "Build your talent",
+        "titleAccent": "sourcing list",
+        "titleTail": "fast",
+        "step1Title": "Scrape target company alumni lists",
+        "step1Sub": "Find similar roles at competitor firms instantly.",
+        "step2Title": "Enrich every email and phone",
+        "step2Sub": "Use AI to verify contact data instantly.",
+        "step3Title": "Score leads against the ICP",
+        "step3Sub": "Rank prospects by your dream hire rubric.",
+        "tool1": "APOLLO",
+        "tool2": "HUNTER",
+        "tool3": "PYTHON",
+        "tool4": "SHEETS",
+        "progressPct": 29
+      }
+    },
+    {
+      "layoutId": "body-claude-target",
+      "slots": {
+        "titleMain": "Write outreach",
+        "titleAccent": "that converts",
+        "titleTail": "cold",
+        "step1Title": "Research each candidate in seconds",
+        "step1Sub": "Feed their LinkedIn into Claude for hooks.",
+        "step2Title": "Draft hyper-personalized icebreaker lines",
+        "step2Sub": "One unique line beats any generic template.",
+        "step3Title": "A/B test subject line angles",
+        "step3Sub": "Rotate hooks and track open rates daily.",
+        "tool1": "CLAUDE",
+        "tool2": "OPENAI",
+        "tool3": "INSTANTLY",
+        "tool4": "HUNTER",
+        "progressPct": 43
+      }
+    },
+    {
+      "layoutId": "body-claude-target",
+      "slots": {
+        "titleMain": "Launch the outreach",
+        "titleAccent": "sending machine",
+        "titleTail": "now",
+        "step1Title": "Warm up every mailbox slowly",
+        "step1Sub": "Ramp send volume over seven full days.",
+        "step2Title": "Set up multi-channel cadences",
+        "step2Sub": "Combine email, LinkedIn, and voice notes.",
+        "step3Title": "Schedule sends for peak hours",
+        "step3Sub": "Hit inboxes when reply rates are highest.",
+        "tool1": "SMARTLEAD",
+        "tool2": "INSTANTLY",
+        "tool3": "MAKE",
+        "tool4": "ZAPIER",
+        "progressPct": 57
+      }
+    },
+    {
+      "layoutId": "body-claude-target",
+      "slots": {
+        "titleMain": "Automate the",
+        "titleAccent": "follow-up loop",
+        "titleTail": "endlessly",
+        "step1Title": "Build a seven touch sequence",
+        "step1Sub": "Space nudges across three full weeks.",
+        "step2Title": "Handle objections with AI replies",
+        "step2Sub": "Draft contextual responses in seconds.",
+        "step3Title": "Route hot replies to booking",
+        "step3Sub": "Book calls without any manual back and forth.",
+        "tool1": "CLAUDE",
+        "tool2": "MAKE",
+        "tool3": "CALCOM",
+        "tool4": "SLACK",
+        "progressPct": 71
+      }
+    },
+    {
+      "layoutId": "body-claude-target",
+      "slots": {
+        "titleMain": "Close the feedback",
+        "titleAccent": "loop weekly",
+        "titleTail": "with data",
+        "step1Title": "Track reply sentiment automatically",
+        "step1Sub": "Tag positive, neutral, and negative replies daily.",
+        "step2Title": "Refine your ICP with data",
+        "step2Sub": "Double down on segments that reply the most.",
+        "step3Title": "Retrain Claude prompts weekly",
+        "step3Sub": "Feed wins back into Claude for better copy.",
+        "tool1": "CLAUDE",
+        "tool2": "NOTION",
+        "tool3": "SHEETS",
+        "tool4": "PYTHON",
+        "progressPct": 86
+      }
+    },
+    {
+      "layoutId": "cta-claude-target",
+      "slots": {
+        "eyebrow": "READY TO HIRE",
+        "headlineMain": "Steal the exact",
+        "headlineAccent": "recruiter bot",
+        "body": "I built this $90K system in one weekend. Copy it free.",
+        "targetLine1": "FREE",
+        "targetLine2": "BUILD",
+        "buttonLine": "Comment 'SHIP' for the guide",
+        "handle": "@handle"
+      }
+    }
+  ]
+}

@@ -1,112 +1,112 @@
 {
   "id": "legacy-thinking",
-  "brand": "MERIDIAN",
+  "brand": "AURELIAN",
   "brief": "Legacy over virality — 5 things founders get wrong about building something lasting.",
   "theme": "cream-gold",
   "slides": [
     {
       "layoutId": "cover-cream-gold",
       "slots": {
-        "brand": "MERIDIAN",
+        "brand": "AURELIAN",
         "issueLabel": "No. 01",
-        "eyebrow": "ON FOUNDERS & TIME",
-        "titleLine1": "Legacy",
-        "titleLine2": "Over",
-        "titleLine3": "Virality",
-        "subtitle": "Five quiet mistakes that erode empires, and the discipline required to outlast the algorithm.",
-        "handle": "@meridianhq",
+        "eyebrow": "ON LEGACY & TIME",
+        "titleLine1": "The",
+        "titleLine2": "Enduring",
+        "titleLine3": "Myth",
+        "subtitle": "Why the founders who build for decades ignore the playbook the rest of the world worships.",
+        "handle": "@aureliancap",
         "slideCount": "8"
       }
     },
     {
       "layoutId": "body-cream-gold",
       "slots": {
-        "brand": "MERIDIAN",
-        "pageOf": "ii / viii",
+        "brand": "AURELIAN",
+        "pageOf": "2 / 8",
         "number": "I",
         "numberLabel": "Truth",
-        "titleMain": "The Cult of",
-        "titleItalic": "Speed",
-        "body": "We have confused motion with momentum. Lasting value is not built in sprints, but in the quiet repetition of standards others find boring.",
-        "handle": "@meridianhq"
+        "titleMain": "The Lie",
+        "titleItalic": "of Speed",
+        "body": "We have confused motion with momentum. Lasting companies are not built in sprints; they are composed in patient, deliberate movements that compound in silence.",
+        "handle": "@aureliancap"
       }
     },
     {
       "layoutId": "body-cream-gold",
       "slots": {
-        "brand": "MERIDIAN",
-        "pageOf": "iii / viii",
+        "brand": "AURELIAN",
+        "pageOf": "3 / 8",
         "number": "II",
-        "numberLabel": "Error",
-        "titleMain": "Chasing the",
-        "titleItalic": "Algorithm",
-        "body": "Virality rewards novelty, but legacy rewards resonance. Founders who optimize for impressions often sacrifice the very trust that compounds over decades.",
-        "handle": "@meridianhq"
+        "numberLabel": "Mistake",
+        "titleMain": "Chasing Noise",
+        "titleItalic": "Over Craft",
+        "body": "Founders mistake press coverage for product depth. A beautiful story without structural integrity collapses the moment the market stops applauding.",
+        "handle": "@aureliancap"
       }
     },
     {
       "layoutId": "body-cream-gold",
       "slots": {
-        "brand": "MERIDIAN",
-        "pageOf": "iv / viii",
+        "brand": "AURELIAN",
+        "pageOf": "4 / 8",
         "number": "III",
-        "numberLabel": "Error",
-        "titleMain": "Confusing Noise",
-        "titleItalic": "With Narrative",
-        "body": "A loud brand is not a clear one. The founders who endure speak softly in sentences that still echo fifty years later.",
-        "handle": "@meridianhq"
+        "numberLabel": "Mistake",
+        "titleMain": "The Exit",
+        "titleItalic": "Obsession",
+        "body": "When the term sheet becomes the trophy, the architecture suffers. The best builders design for permanence, knowing liquidity is a byproduct, not a purpose.",
+        "handle": "@aureliancap"
       }
     },
     {
       "layoutId": "body-cream-gold",
       "slots": {
-        "brand": "MERIDIAN",
-        "pageOf": "v / viii",
+        "brand": "AURELIAN",
+        "pageOf": "5 / 8",
         "number": "IV",
-        "numberLabel": "Error",
-        "titleMain": "Hiring for",
-        "titleItalic": "Hunger Alone",
-        "body": "Appetite without alignment is a liability. Lasting companies are staffed by stewards, not mercenaries—those who care more for the craft than the exit.",
-        "handle": "@meridianhq"
+        "numberLabel": "Mistake",
+        "titleMain": "The Pedigree",
+        "titleItalic": "Trap",
+        "body": "Prestige hires signal status, but they rarely share the obsession. Legacy demands alignment more than it demands recognizable names or polished resumes.",
+        "handle": "@aureliancap"
       }
     },
     {
       "layoutId": "body-cream-gold",
       "slots": {
-        "brand": "MERIDIAN",
-        "pageOf": "vi / viii",
+        "brand": "AURELIAN",
+        "pageOf": "6 / 8",
         "number": "V",
-        "numberLabel": "Error",
-        "titleMain": "Optimizing the",
-        "titleItalic": "Wrong Metric",
-        "body": "Revenue is a lagging indicator of relationships. When you measure only what scales quickly, you inevitably dismantle what would have endured.",
-        "handle": "@meridianhq"
+        "numberLabel": "Mistake",
+        "titleMain": "Growth Masks",
+        "titleItalic": "Fragility",
+        "body": "Expansion without operational depth is a debt that accrues invisibly. The founders who endure reinvest in systems long before the world demands them.",
+        "handle": "@aureliancap"
       }
     },
     {
       "layoutId": "body-cream-gold",
       "slots": {
-        "brand": "MERIDIAN",
-        "pageOf": "vii / viii",
+        "brand": "AURELIAN",
+        "pageOf": "7 / 8",
         "number": "VI",
-        "numberLabel": "Discipline",
-        "titleMain": "The Quiet",
-        "titleItalic": "Commitment",
-        "body": "Legacy demands the discipline to be unfashionable. Build what you would still proudly sign your name to when the crowd has moved on.",
-        "handle": "@meridianhq"
+        "numberLabel": "Mistake",
+        "titleMain": "Founder Myth",
+        "titleItalic": "as Culture",
+        "body": "A personal brand is not a substitute for institutional values. When the founder steps back, only codified principle keeps the compass true.",
+        "handle": "@aureliancap"
       }
     },
     {
       "layoutId": "cta-cream-gold",
       "slots": {
-        "brand": "MERIDIAN",
-        "pageOf": "viii / viii",
+        "brand": "AURELIAN",
+        "pageOf": "8 / 8",
         "eyebrow": "A FINAL WORD",
         "headlineMain": "Build What",
-        "headlineItalic": "Outlasts",
-        "body": "Your legacy is not your loudest moment. It is the standard you refuse to lower.",
+        "headlineItalic": "Outlasts You",
+        "body": "Legacy is not a milestone. It is the quiet result of refusing to trade tomorrow’s relevance for today’s applause.",
         "buttonLabel": "SAVE THIS POST",
-        "handle": "@meridianhq"
+        "handle": "@aureliancap"
       }
     }
   ]

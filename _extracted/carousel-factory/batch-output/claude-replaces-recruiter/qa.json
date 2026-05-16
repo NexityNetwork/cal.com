@@ -2,8 +2,8 @@
   "slides": [
     {
       "index": 0,
-      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/long-game/slide-01.png",
-      "bytes": 347259,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/claude-replaces-recruiter/slide-01.png",
+      "bytes": 116404,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -18,8 +18,8 @@
     },
     {
       "index": 1,
-      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/long-game/slide-02.png",
-      "bytes": 187638,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/claude-replaces-recruiter/slide-02.png",
+      "bytes": 80835,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -34,8 +34,8 @@
     },
     {
       "index": 2,
-      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/long-game/slide-03.png",
-      "bytes": 189082,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/claude-replaces-recruiter/slide-03.png",
+      "bytes": 82997,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -50,8 +50,8 @@
     },
     {
       "index": 3,
-      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/long-game/slide-04.png",
-      "bytes": 185191,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/claude-replaces-recruiter/slide-04.png",
+      "bytes": 84870,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -66,8 +66,8 @@
     },
     {
       "index": 4,
-      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/long-game/slide-05.png",
-      "bytes": 192411,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/claude-replaces-recruiter/slide-05.png",
+      "bytes": 85962,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -82,8 +82,8 @@
     },
     {
       "index": 5,
-      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/long-game/slide-06.png",
-      "bytes": 195502,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/claude-replaces-recruiter/slide-06.png",
+      "bytes": 84291,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -98,8 +98,8 @@
     },
     {
       "index": 6,
-      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/long-game/slide-07.png",
-      "bytes": 197284,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/claude-replaces-recruiter/slide-07.png",
+      "bytes": 90595,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -114,8 +114,8 @@
     },
     {
       "index": 7,
-      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/long-game/slide-08.png",
-      "bytes": 424000,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/claude-replaces-recruiter/slide-08.png",
+      "bytes": 67255,
       "qa": {
         "verdict": "pass",
         "checks": {
