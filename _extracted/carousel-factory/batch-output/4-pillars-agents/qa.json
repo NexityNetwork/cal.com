@@ -2,8 +2,8 @@
   "slides": [
     {
       "index": 0,
-      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/claude-replaces-recruiter/slide-01.png",
-      "bytes": 124170,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/4-pillars-agents/slide-01.png",
+      "bytes": 39982,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -18,8 +18,8 @@
     },
     {
       "index": 1,
-      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/claude-replaces-recruiter/slide-02.png",
-      "bytes": 68249,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/4-pillars-agents/slide-02.png",
+      "bytes": 113000,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -34,8 +34,8 @@
     },
     {
       "index": 2,
-      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/claude-replaces-recruiter/slide-03.png",
-      "bytes": 74633,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/4-pillars-agents/slide-03.png",
+      "bytes": 100830,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -50,8 +50,8 @@
     },
     {
       "index": 3,
-      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/claude-replaces-recruiter/slide-04.png",
-      "bytes": 79103,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/4-pillars-agents/slide-04.png",
+      "bytes": 105406,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -66,8 +66,8 @@
     },
     {
       "index": 4,
-      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/claude-replaces-recruiter/slide-05.png",
-      "bytes": 70242,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/4-pillars-agents/slide-05.png",
+      "bytes": 100164,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -82,8 +82,8 @@
     },
     {
       "index": 5,
-      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/claude-replaces-recruiter/slide-06.png",
-      "bytes": 71501,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/4-pillars-agents/slide-06.png",
+      "bytes": 116843,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -98,8 +98,8 @@
     },
     {
       "index": 6,
-      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/claude-replaces-recruiter/slide-07.png",
-      "bytes": 68158,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/4-pillars-agents/slide-07.png",
+      "bytes": 112440,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -114,8 +114,8 @@
     },
     {
       "index": 7,
-      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/claude-replaces-recruiter/slide-08.png",
-      "bytes": 69552,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/4-pillars-agents/slide-08.png",
+      "bytes": 68991,
       "qa": {
         "verdict": "pass",
         "checks": {

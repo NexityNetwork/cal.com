@@ -1,0 +1,116 @@
+{
+  "id": "4-pillars-agents",
+  "brand": "AgentPulse",
+  "brief": "The 4 pillars of production-ready AI agents (prompt, tools, memory, eval).",
+  "theme": "black-mindmap",
+  "slides": [
+    {
+      "layoutId": "cover-black-mindmap",
+      "slots": {
+        "handle": "@agentpulse",
+        "pageLabel": "01 / 08",
+        "eyebrow": "SAVE THIS",
+        "headlineLine1": "The 4 Pillars of",
+        "headlineLine2": "AI Agents",
+        "swipeNote": "swipe to see all 4"
+      }
+    },
+    {
+      "layoutId": "body-black-mindmap",
+      "slots": {
+        "handle": "@agentpulse",
+        "pageLabel": "02 / 08",
+        "number": "1",
+        "title": "Prompt",
+        "pill1": "Vague prompts",
+        "pill2": "No constraints",
+        "pill3": "Passive language",
+        "pill4": "No examples",
+        "pill5": "No focus"
+      }
+    },
+    {
+      "layoutId": "body-black-mindmap",
+      "slots": {
+        "handle": "@agentpulse",
+        "pageLabel": "03 / 08",
+        "number": "2",
+        "title": "Tools",
+        "pill1": "Wrong tools",
+        "pill2": "No timeout",
+        "pill3": "Bad schemas",
+        "pill4": "No retries",
+        "pill5": "Slow calls"
+      }
+    },
+    {
+      "layoutId": "body-black-mindmap",
+      "slots": {
+        "handle": "@agentpulse",
+        "pageLabel": "04 / 08",
+        "number": "3",
+        "title": "Memory",
+        "pill1": "No history",
+        "pill2": "Lost context",
+        "pill3": "Bad retrieval",
+        "pill4": "Stale cache",
+        "pill5": "No cleanup"
+      }
+    },
+    {
+      "layoutId": "body-black-mindmap",
+      "slots": {
+        "handle": "@agentpulse",
+        "pageLabel": "05 / 08",
+        "number": "4",
+        "title": "Eval",
+        "pill1": "No tests",
+        "pill2": "Vague metrics",
+        "pill3": "Manual review",
+        "pill4": "No tracing",
+        "pill5": "No baseline"
+      }
+    },
+    {
+      "layoutId": "body-black-mindmap",
+      "slots": {
+        "handle": "@agentpulse",
+        "pageLabel": "06 / 08",
+        "number": "5",
+        "title": "Orchestration",
+        "pill1": "Hardcoded flow",
+        "pill2": "No fallback",
+        "pill3": "Race conditions",
+        "pill4": "No monitor",
+        "pill5": "Tight coupling"
+      }
+    },
+    {
+      "layoutId": "body-black-mindmap",
+      "slots": {
+        "handle": "@agentpulse",
+        "pageLabel": "07 / 08",
+        "number": "6",
+        "title": "Guardrails",
+        "pill1": "No input check",
+        "pill2": "No output filter",
+        "pill3": "Exposed keys",
+        "pill4": "No sandbox",
+        "pill5": "No limits"
+      }
+    },
+    {
+      "layoutId": "cta-black-mindmap",
+      "slots": {
+        "handle": "@agentpulse",
+        "pageLabel": "08 / 08",
+        "eyebrow": "YOUR MOVE",
+        "headlineLine1": "Build Agents",
+        "headlineLine2": "That Ship",
+        "body": "Master these 4 pillars and ship production-ready AI agents that actually work.",
+        "buttonLabel": "Save this post",
+        "closing": "Follow for more"
+      }
+    }
+  ]
+}
