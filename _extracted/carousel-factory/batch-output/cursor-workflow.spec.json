@@ -1,0 +1,119 @@
+{
+  "id": "cursor-workflow",
+  "brand": "CodeFast",
+  "brief": "The Cursor IDE workflow that makes me 5x faster — 6 habits that stuck.",
+  "theme": "neon-dark",
+  "slides": [
+    {
+      "layoutId": "cover-neon-dark",
+      "slots": {
+        "handle": "@codefast",
+        "badgeLabel": "CURSOR WORKFLOW",
+        "tag": "THREAD",
+        "neonWord": "STOP",
+        "headlineLine2": "coding slow",
+        "tealLine": "forever",
+        "subline": "These 6 Cursor habits turned me into a 10x dev. Steal the full workflow below.",
+        "ctaLabel": "Read the thread",
+        "totalSlides": "8"
+      }
+    },
+    {
+      "layoutId": "body-neon-dark",
+      "slots": {
+        "handle": "@codefast",
+        "pageOf": "02 / 08",
+        "number": "1",
+        "titleLabel": "HABIT 01",
+        "titleMain": "Context First",
+        "titleAccent": "always",
+        "body": "Use @ to point Cursor at files, folders, and docs before asking. Vague prompts waste tokens and time.",
+        "slideNum": "02",
+        "totalSlides": "8"
+      }
+    },
+    {
+      "layoutId": "body-neon-dark",
+      "slots": {
+        "handle": "@codefast",
+        "pageOf": "03 / 08",
+        "number": "2",
+        "titleLabel": "HABIT 02",
+        "titleMain": "Shortcut Speed",
+        "titleAccent": "wins daily",
+        "body": "Memorize Cmd+K for inline edits and Cmd+L for chat. Keeping hands on keys beats mouse hunting every time.",
+        "slideNum": "03",
+        "totalSlides": "8"
+      }
+    },
+    {
+      "layoutId": "body-neon-dark",
+      "slots": {
+        "handle": "@codefast",
+        "pageOf": "04 / 08",
+        "number": "3",
+        "titleLabel": "HABIT 03",
+        "titleMain": "Composer",
+        "titleAccent": "multi-file",
+        "body": "Let Cursor plan and edit across files in one shot. Stop copy-pasting snippets between tabs manually.",
+        "slideNum": "04",
+        "totalSlides": "8"
+      }
+    },
+    {
+      "layoutId": "body-neon-dark",
+      "slots": {
+        "handle": "@codefast",
+        "pageOf": "05 / 08",
+        "number": "4",
+        "titleLabel": "HABIT 04",
+        "titleMain": "Agent Mode",
+        "titleAccent": "runs free",
+        "body": "Enable agent mode for end-to-end tasks. It writes, tests, and fixes while you review the final diff.",
+        "slideNum": "05",
+        "totalSlides": "8"
+      }
+    },
+    {
+      "layoutId": "body-neon-dark",
+      "slots": {
+        "handle": "@codefast",
+        "pageOf": "06 / 08",
+        "number": "5",
+        "titleLabel": "HABIT 05",
+        "titleMain": "Lock Your",
+        "titleAccent": "AI rules",
+        "body": "Write a .cursorrules file so the AI knows your stack, style, and naming conventions from the jump.",
+        "slideNum": "06",
+        "totalSlides": "8"
+      }
+    },
+    {
+      "layoutId": "body-neon-dark",
+      "slots": {
+        "handle": "@codefast",
+        "pageOf": "07 / 08",
+        "number": "6",
+        "titleLabel": "HABIT 06",
+        "titleMain": "Preview Then",
+        "titleAccent": "apply it",
+        "body": "Read the proposed diff before accepting changes. One quick scan catches hallucinations before they ship.",
+        "slideNum": "07",
+        "totalSlides": "8"
+      }
+    },
+    {
+      "layoutId": "cta-neon-dark",
+      "slots": {
+        "handle": "@codefast",
+        "pageOf": "08 / 08",
+        "eyebrow": "YOUR MOVE",
+        "headlineNeon": "SAVE",
+        "headlineWhite": "this post",
+        "body": "Build your own Cursor workflow and watch output multiply. Start with habit one today.",
+        "buttonLabel": "Save this post",
+        "secondaryLabel": "// follow @codefast"
+      }
+    }
+  ]
+}
