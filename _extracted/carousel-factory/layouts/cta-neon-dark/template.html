@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700;800&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+<style>
+  *{margin:0;padding:0;box-sizing:border-box;}
+  html,body{width:1080px;height:1350px;overflow:hidden;background:#07070f;font-family:"Space Grotesk",sans-serif;color:#f0f0f8;-webkit-font-smoothing:antialiased;}
+  .grid{position:absolute;inset:0;background-image:linear-gradient(rgba(255,45,120,0.06) 1px,transparent 1px),linear-gradient(90deg,rgba(255,45,120,0.06) 1px,transparent 1px);background-size:60px 60px;}
+  .glow-blob{position:absolute;top:-150px;left:50%;transform:translateX(-50%);width:800px;height:800px;background:radial-gradient(circle,rgba(255,45,120,0.20) 0%,transparent 60%);}
+  .glow-blob-2{position:absolute;bottom:-100px;left:-50px;width:400px;height:400px;background:radial-gradient(circle,rgba(0,245,212,0.15) 0%,transparent 65%);}
+  .handle-bar{position:absolute;top:56px;left:60px;right:60px;display:flex;align-items:center;justify-content:space-between;z-index:5;}
+  .handle{font-family:"Space Mono",monospace;font-size:22px;color:#ff2d7a;}
+  .page{font-family:"Space Mono",monospace;font-size:20px;color:rgba(240,240,248,0.35);}
+  .center{position:absolute;top:50%;left:60px;right:60px;transform:translateY(-50%);text-align:center;}
+  .eyebrow{font-family:"Space Mono",monospace;font-size:22px;letter-spacing:0.2em;color:#00f5d4;margin-bottom:32px;}
+  .headline{font-size:130px;font-weight:800;line-height:0.88;letter-spacing:-4px;margin-bottom:30px;}
+  .hl-neon{color:#ff2d7a;text-shadow:0 0 60px rgba(255,45,120,0.7);}
+  .body{font-size:28px;font-weight:400;line-height:1.45;color:rgba(240,240,248,0.65);max-width:700px;margin:0 auto 48px;}
+  .btn-row{display:flex;align-items:center;justify-content:center;gap:24px;}
+  .btn-primary{display:inline-block;padding:22px 50px;border-radius:50px;background:#ff2d7a;color:#07070f;font-size:24px;font-weight:700;letter-spacing:0.04em;}
+  .btn-secondary{font-family:"Space Mono",monospace;font-size:20px;color:rgba(240,240,248,0.4);}
+</style></head>
+<body>
+  <div class="grid"></div>
+  <div class="glow-blob"></div>
+  <div class="glow-blob-2"></div>
+  <div class="handle-bar">
+    <div class="handle">{{handle}}</div>
+    <div class="page">{{pageOf}}</div>
+  </div>
+  <div class="center">
+    <div class="eyebrow">{{eyebrow}}</div>
+    <div class="headline"><span class="hl-neon">{{headlineNeon}}</span><br>{{headlineWhite}}</div>
+    <div class="body">{{body}}</div>
+    <div class="btn-row">
+      <div class="btn-primary">{{buttonLabel}}</div>
+      <div class="btn-secondary">{{secondaryLabel}}</div>
+    </div>
+  </div>
+</body></html>

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700;800&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+<style>
+  *{margin:0;padding:0;box-sizing:border-box;}
+  html,body{width:1080px;height:1350px;overflow:hidden;background:#07070f;font-family:"Space Grotesk",sans-serif;color:#f0f0f8;-webkit-font-smoothing:antialiased;}
+  .grid{position:absolute;inset:0;background-image:linear-gradient(rgba(255,45,120,0.06) 1px,transparent 1px),linear-gradient(90deg,rgba(255,45,120,0.06) 1px,transparent 1px);background-size:60px 60px;}
+  .glow-blob{position:absolute;top:-200px;right:-200px;width:700px;height:700px;background:radial-gradient(circle,rgba(255,45,120,0.18) 0%,transparent 65%);pointer-events:none;}
+  .glow-blob-2{position:absolute;bottom:-150px;left:-100px;width:500px;height:500px;background:radial-gradient(circle,rgba(0,245,212,0.12) 0%,transparent 65%);pointer-events:none;}
+  .handle-bar{position:absolute;top:56px;left:60px;right:60px;display:flex;align-items:center;justify-content:space-between;z-index:5;}
+  .handle{font-family:"Space Mono",monospace;font-size:22px;color:#ff2d7a;letter-spacing:0.05em;}
+  .badge{border:1px solid rgba(255,45,120,0.5);border-radius:40px;padding:8px 20px;font-size:20px;font-weight:500;color:#ff2d7a;letter-spacing:0.08em;}
+  .card{position:absolute;top:160px;left:60px;right:60px;bottom:160px;border:1px solid rgba(255,45,120,0.3);border-radius:24px;background:rgba(255,255,255,0.03);backdrop-filter:blur(4px);padding:70px 64px 60px;}
+  .tag{font-family:"Space Mono",monospace;font-size:20px;color:#00f5d4;letter-spacing:0.12em;margin-bottom:28px;}
+  .headline{font-size:114px;font-weight:800;line-height:0.9;letter-spacing:-3px;margin-bottom:32px;}
+  .hl-neon{color:#ff2d7a;text-shadow:0 0 40px rgba(255,45,120,0.6);}
+  .hl-teal{color:#00f5d4;text-shadow:0 0 40px rgba(0,245,212,0.5);}
+  .subline{font-size:28px;font-weight:400;line-height:1.4;color:rgba(240,240,248,0.65);max-width:680px;margin-bottom:48px;}
+  .cta-row{display:flex;align-items:center;gap:20px;}
+  .pill{display:inline-block;padding:16px 36px;border-radius:50px;background:#ff2d7a;color:#07070f;font-size:22px;font-weight:700;letter-spacing:0.04em;}
+  .swipe{font-size:20px;color:rgba(240,240,248,0.4);font-family:"Space Mono",monospace;}
+  .slide-num{position:absolute;bottom:60px;right:60px;font-family:"Space Mono",monospace;font-size:20px;color:rgba(255,45,120,0.6);}
+</style></head>
+<body>
+  <div class="grid"></div>
+  <div class="glow-blob"></div>
+  <div class="glow-blob-2"></div>
+  <div class="handle-bar">
+    <div class="handle">{{handle}}</div>
+    <div class="badge">{{badgeLabel}}</div>
+  </div>
+  <div class="card">
+    <div class="tag">{{tag}}</div>
+    <div class="headline"><span class="hl-neon">{{neonWord}}</span><br>{{headlineLine2}}<br><span class="hl-teal">{{tealLine}}</span></div>
+    <div class="subline">{{subline}}</div>
+    <div class="cta-row">
+      <div class="pill">{{ctaLabel}} →</div>
+      <div class="swipe">swipe to start ›</div>
+    </div>
+  </div>
+  <div class="slide-num">01 / {{totalSlides}}</div>
+</body></html>

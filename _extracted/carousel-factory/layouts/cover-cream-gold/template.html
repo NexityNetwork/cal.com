@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Montserrat:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  *{margin:0;padding:0;box-sizing:border-box;}
+  html,body{width:1080px;height:1350px;overflow:hidden;background:#faf8f2;font-family:"Montserrat",sans-serif;color:#1a1410;-webkit-font-smoothing:antialiased;}
+  .marble{position:absolute;inset:0;background:radial-gradient(ellipse at 15% 30%,rgba(184,150,12,0.06) 0%,transparent 40%),radial-gradient(ellipse at 85% 70%,rgba(184,150,12,0.04) 0%,transparent 35%),radial-gradient(ellipse at 50% 90%,rgba(0,0,0,0.04) 0%,transparent 40%);}
+  .top-border{position:absolute;top:0;left:0;right:0;height:2px;background:linear-gradient(90deg,transparent,#b8960c 30%,#d4af37 50%,#b8960c 70%,transparent);}
+  .brand-row{position:absolute;top:54px;left:70px;right:70px;display:flex;align-items:center;justify-content:space-between;}
+  .brand{font-size:18px;font-weight:600;letter-spacing:0.18em;color:rgba(26,20,16,0.4);text-transform:uppercase;}
+  .issue{font-family:"Cormorant Garamond",serif;font-style:italic;font-size:20px;color:rgba(26,20,16,0.4);}
+  .gold-line-h{position:absolute;top:120px;left:70px;right:70px;height:1px;background:linear-gradient(90deg,transparent,#b8960c,transparent);}
+  .eyebrow{position:absolute;top:145px;left:70px;right:70px;text-align:center;font-size:16px;font-weight:600;letter-spacing:0.22em;color:#b8960c;text-transform:uppercase;}
+  .headline{position:absolute;top:200px;left:70px;right:70px;text-align:center;}
+  .title{font-family:"Cormorant Garamond",serif;font-size:148px;font-weight:700;line-height:0.85;letter-spacing:-1px;color:#1a1410;}
+  .title-italic{font-style:italic;color:#b8960c;}
+  .gold-ornament{position:absolute;top:560px;left:50%;transform:translateX(-50%);text-align:center;font-size:28px;color:#b8960c;letter-spacing:0.3em;}
+  .card{position:absolute;bottom:70px;left:70px;right:70px;border:1px solid rgba(184,150,12,0.3);border-radius:4px;padding:48px 56px;background:rgba(255,255,255,0.7);}
+  .card-headline{font-family:"Cormorant Garamond",serif;font-style:italic;font-size:44px;line-height:1.2;color:#1a1410;margin-bottom:20px;}
+  .card-row{display:flex;align-items:center;justify-content:space-between;}
+  .count-pill{display:inline-block;padding:8px 20px;border:1px solid rgba(184,150,12,0.5);border-radius:3px;font-size:16px;font-weight:600;letter-spacing:0.1em;color:#b8960c;text-transform:uppercase;}
+  .handle{font-size:16px;letter-spacing:0.08em;color:rgba(26,20,16,0.35);}
+  .bottom-border{position:absolute;bottom:0;left:0;right:0;height:2px;background:linear-gradient(90deg,transparent,#b8960c 30%,#d4af37 50%,#b8960c 70%,transparent);}
+</style></head>
+<body>
+  <div class="marble"></div>
+  <div class="top-border"></div>
+  <div class="brand-row">
+    <div class="brand">{{brand}}</div>
+    <div class="issue">{{issueLabel}}</div>
+  </div>
+  <div class="gold-line-h"></div>
+  <div class="eyebrow">{{eyebrow}}</div>
+  <div class="headline">
+    <div class="title">{{titleLine1}}<br><span class="title-italic">{{titleLine2}}</span><br>{{titleLine3}}</div>
+  </div>
+  <div class="gold-ornament">— ✦ —</div>
+  <div class="card">
+    <div class="card-headline">{{subtitle}}</div>
+    <div class="card-row">
+      <div class="count-pill">{{slideCount}} insights</div>
+      <div class="handle">{{handle}}</div>
+    </div>
+  </div>
+  <div class="bottom-border"></div>
+</body></html>

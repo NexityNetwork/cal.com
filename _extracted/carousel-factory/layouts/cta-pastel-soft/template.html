@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,300;0,400;0,500;0,700;1,400;1,700&display=swap" rel="stylesheet">
+<style>
+  *{margin:0;padding:0;box-sizing:border-box;}
+  html,body{width:1080px;height:1350px;overflow:hidden;background:#eef1ff;font-family:"DM Sans",sans-serif;color:#1a1a2e;-webkit-font-smoothing:antialiased;}
+  .blob-1{position:absolute;top:-100px;right:-80px;width:500px;height:500px;background:radial-gradient(circle,#f9c6e0 0%,#c9d6ff 50%,transparent 75%);opacity:0.65;}
+  .blob-2{position:absolute;bottom:-80px;left:-60px;width:380px;height:380px;background:radial-gradient(circle,#b5f0da 0%,transparent 70%);opacity:0.55;}
+  .top-row{position:absolute;top:56px;left:60px;right:60px;display:flex;align-items:center;justify-content:space-between;}
+  .author{font-size:20px;font-weight:600;color:rgba(26,26,46,0.45);}
+  .page{font-size:20px;font-weight:600;color:rgba(26,26,46,0.35);}
+  .card{position:absolute;top:150px;left:60px;right:60px;bottom:100px;background:#ffffff;border-radius:40px;padding:70px 70px;box-shadow:0 24px 80px rgba(100,100,200,0.13);text-align:center;display:flex;flex-direction:column;align-items:center;justify-content:center;}
+  .sparkle{font-size:72px;margin-bottom:24px;}
+  .eyebrow{font-size:20px;font-weight:700;letter-spacing:0.16em;color:rgba(26,26,46,0.4);text-transform:uppercase;margin-bottom:20px;}
+  .headline{font-size:96px;font-weight:700;line-height:0.94;letter-spacing:-2px;margin-bottom:14px;}
+  .headline em{font-style:italic;color:#7c9cf7;}
+  .sub{font-size:28px;font-weight:400;line-height:1.45;color:rgba(26,26,46,0.6);max-width:680px;margin:24px auto 44px;}
+  .btn-row{display:flex;align-items:center;gap:20px;justify-content:center;}
+  .btn{display:inline-block;padding:20px 44px;border-radius:50px;background:linear-gradient(135deg,#7c9cf7,#c77ddd);font-size:22px;font-weight:700;color:#ffffff;}
+  .sec{font-size:18px;color:rgba(26,26,46,0.4);}
+  .handle{position:absolute;bottom:55px;left:60px;font-size:18px;color:rgba(26,26,46,0.3);}
+</style></head>
+<body>
+  <div class="blob-1"></div>
+  <div class="blob-2"></div>
+  <div class="top-row">
+    <div class="author">{{authorName}}</div>
+    <div class="page">{{pageOf}}</div>
+  </div>
+  <div class="card">
+    <div class="sparkle">✦</div>
+    <div class="eyebrow">{{eyebrow}}</div>
+    <div class="headline">{{headlineMain}}<br><em>{{headlineItalic}}</em></div>
+    <div class="sub">{{body}}</div>
+    <div class="btn-row">
+      <div class="btn">{{buttonLabel}}</div>
+      <div class="sec">{{secondaryLabel}}</div>
+    </div>
+  </div>
+  <div class="handle">{{handle}}</div>
+</body></html>

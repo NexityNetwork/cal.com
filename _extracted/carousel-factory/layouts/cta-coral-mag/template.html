@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+  *{margin:0;padding:0;box-sizing:border-box;}
+  html,body{width:1080px;height:1350px;overflow:hidden;background:#ff5a36;font-family:"Plus Jakarta Sans",sans-serif;color:#ffffff;-webkit-font-smoothing:antialiased;}
+  .white-stripe{position:absolute;top:0;left:0;right:0;height:16px;background:#ffffff;}
+  .brand-row{position:absolute;top:56px;left:60px;right:60px;display:flex;align-items:center;justify-content:space-between;}
+  .brand{font-family:"Bebas Neue",sans-serif;font-size:32px;letter-spacing:0.12em;color:#ffffff;}
+  .page{font-size:20px;font-weight:700;color:rgba(255,255,255,0.6);}
+  .center{position:absolute;top:50%;left:60px;right:60px;transform:translateY(-50%);text-align:center;}
+  .tag{display:inline-block;background:#1a1a1a;color:#ff5a36;font-size:18px;font-weight:700;letter-spacing:0.14em;padding:10px 22px;margin-bottom:32px;text-transform:uppercase;}
+  .headline{font-family:"Bebas Neue",sans-serif;font-size:180px;line-height:0.82;letter-spacing:3px;margin-bottom:20px;}
+  .hl-outline{color:transparent;-webkit-text-stroke:4px #ffffff;}
+  .body{font-size:30px;font-weight:400;line-height:1.4;color:rgba(255,255,255,0.85);max-width:720px;margin:0 auto 48px;}
+  .btn-row{display:flex;align-items:center;justify-content:center;gap:20px;}
+  .btn{display:inline-block;padding:22px 52px;background:#1a1a1a;border-radius:8px;font-size:22px;font-weight:700;color:#ffffff;letter-spacing:0.04em;}
+  .sec{font-size:20px;color:rgba(255,255,255,0.65);}
+</style></head>
+<body>
+  <div class="white-stripe"></div>
+  <div class="brand-row">
+    <div class="brand">{{brand}}</div>
+    <div class="page">{{pageOf}}</div>
+  </div>
+  <div class="center">
+    <div class="tag">{{tag}}</div>
+    <div class="headline">{{headWord1}}<br><span class="hl-outline">{{headWord2}}</span></div>
+    <div class="body">{{body}}</div>
+    <div class="btn-row">
+      <div class="btn">{{buttonLabel}}</div>
+      <div class="sec">{{handle}}</div>
+    </div>
+  </div>
+</body></html>

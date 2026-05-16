@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+  *{margin:0;padding:0;box-sizing:border-box;}
+  html,body{width:1080px;height:1350px;overflow:hidden;background:#ffffff;font-family:"Plus Jakarta Sans",sans-serif;color:#1a1a1a;-webkit-font-smoothing:antialiased;}
+  .coral-block{position:absolute;top:0;left:0;right:0;height:760px;background:#ff5a36;}
+  .diagonal-cut{position:absolute;top:680px;left:0;right:0;height:200px;background:#ffffff;clip-path:polygon(0 100%,100% 0,100% 100%);}
+  .brand-bar{position:absolute;top:52px;left:60px;right:60px;display:flex;align-items:center;justify-content:space-between;z-index:5;}
+  .brand{font-family:"Bebas Neue",sans-serif;font-size:36px;letter-spacing:0.12em;color:#ffffff;}
+  .issue{font-size:18px;font-weight:600;letter-spacing:0.12em;color:rgba(255,255,255,0.75);text-transform:uppercase;}
+  .headline-block{position:absolute;top:130px;left:60px;right:60px;z-index:5;}
+  .issue-tag{display:inline-block;background:#1a1a1a;color:#ff5a36;font-size:18px;font-weight:700;letter-spacing:0.14em;padding:8px 18px;margin-bottom:24px;text-transform:uppercase;}
+  .headline{font-family:"Bebas Neue",sans-serif;font-size:182px;line-height:0.85;letter-spacing:2px;color:#ffffff;margin-bottom:0;}
+  .hl-outline{color:transparent;-webkit-text-stroke:3px #ffffff;}
+  .sub-card{position:absolute;bottom:60px;left:60px;right:60px;background:#1a1a1a;border-radius:20px;padding:44px 52px;z-index:5;}
+  .sub-eyebrow{font-size:18px;font-weight:700;letter-spacing:0.14em;color:#ff5a36;text-transform:uppercase;margin-bottom:12px;}
+  .sub-headline{font-size:42px;font-weight:800;line-height:1.1;color:#ffffff;margin-bottom:20px;}
+  .sub-row{display:flex;align-items:center;justify-content:space-between;}
+  .sub-handle{font-size:20px;color:rgba(255,255,255,0.5);}
+  .sub-swipe{display:inline-block;padding:10px 24px;border:2px solid rgba(255,255,255,0.25);border-radius:40px;font-size:18px;color:rgba(255,255,255,0.6);}
+</style></head>
+<body>
+  <div class="coral-block"></div>
+  <div class="diagonal-cut"></div>
+  <div class="brand-bar">
+    <div class="brand">{{brand}}</div>
+    <div class="issue">{{issueLabel}}</div>
+  </div>
+  <div class="headline-block">
+    <div class="issue-tag">{{issueTag}}</div>
+    <div class="headline">{{headWord1}}<br><span class="hl-outline">{{headWord2}}</span><br>{{headWord3}}</div>
+  </div>
+  <div class="sub-card">
+    <div class="sub-eyebrow">{{subEyebrow}}</div>
+    <div class="sub-headline">{{subtitle}}</div>
+    <div class="sub-row">
+      <div class="sub-handle">{{handle}}</div>
+      <div class="sub-swipe">swipe →</div>
+    </div>
+  </div>
+</body></html>

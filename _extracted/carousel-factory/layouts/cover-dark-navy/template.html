@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;700&family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+  *{margin:0;padding:0;box-sizing:border-box;}
+  html,body{width:1080px;height:1350px;overflow:hidden;background:#0d1b2a;font-family:"Inter",sans-serif;color:#e2e8f0;-webkit-font-smoothing:antialiased;}
+  .grid-lines{position:absolute;inset:0;background-image:linear-gradient(rgba(249,115,22,0.05) 1px,transparent 1px),linear-gradient(90deg,rgba(249,115,22,0.05) 1px,transparent 1px);background-size:90px 90px;}
+  .accent-strip{position:absolute;top:0;left:0;right:0;height:6px;background:linear-gradient(90deg,#f97316,#fb923c,#f97316);}
+  .brand-bar{position:absolute;top:56px;left:60px;right:60px;display:flex;align-items:center;justify-content:space-between;z-index:5;}
+  .brand{font-family:"IBM Plex Mono",monospace;font-size:22px;color:#f97316;letter-spacing:0.06em;}
+  .version{font-family:"IBM Plex Mono",monospace;font-size:18px;color:rgba(226,232,240,0.35);}
+  .main{position:absolute;top:150px;left:60px;right:60px;}
+  .prompt{font-family:"IBM Plex Mono",monospace;font-size:22px;color:#f97316;margin-bottom:18px;letter-spacing:0.04em;}
+  .headline{font-size:110px;font-weight:900;line-height:0.9;letter-spacing:-3px;margin-bottom:28px;}
+  .hl-orange{color:#f97316;}
+  .hl-dim{color:rgba(226,232,240,0.4);}
+  .subline{font-size:28px;font-weight:400;line-height:1.5;color:rgba(226,232,240,0.65);max-width:780px;margin-bottom:44px;}
+  .stat-row{display:flex;gap:40px;margin-bottom:48px;}
+  .stat{padding:24px 32px;border:1px solid rgba(249,115,22,0.3);border-radius:16px;background:rgba(249,115,22,0.05);}
+  .stat-num{font-family:"IBM Plex Mono",monospace;font-size:40px;font-weight:700;color:#f97316;margin-bottom:4px;}
+  .stat-label{font-size:18px;color:rgba(226,232,240,0.5);}
+  .cta-row{display:flex;align-items:center;gap:24px;}
+  .btn{display:inline-block;padding:18px 38px;background:#f97316;border-radius:10px;font-size:22px;font-weight:700;color:#0d1b2a;letter-spacing:0.02em;}
+  .note{font-family:"IBM Plex Mono",monospace;font-size:18px;color:rgba(226,232,240,0.35);}
+  .slide-count{position:absolute;bottom:60px;right:60px;font-family:"IBM Plex Mono",monospace;font-size:18px;color:rgba(249,115,22,0.5);}
+</style></head>
+<body>
+  <div class="grid-lines"></div>
+  <div class="accent-strip"></div>
+  <div class="brand-bar">
+    <div class="brand">{{brand}}</div>
+    <div class="version">{{versionLabel}}</div>
+  </div>
+  <div class="main">
+    <div class="prompt">$ {{prompt}}</div>
+    <div class="headline">{{headLine1}}<br><span class="hl-orange">{{headLine2}}</span><br><span class="hl-dim">{{headLine3}}</span></div>
+    <div class="subline">{{subline}}</div>
+    <div class="stat-row">
+      <div class="stat"><div class="stat-num">{{stat1Num}}</div><div class="stat-label">{{stat1Label}}</div></div>
+      <div class="stat"><div class="stat-num">{{stat2Num}}</div><div class="stat-label">{{stat2Label}}</div></div>
+      <div class="stat"><div class="stat-num">{{stat3Num}}</div><div class="stat-label">{{stat3Label}}</div></div>
+    </div>
+    <div class="cta-row">
+      <div class="btn">{{ctaLabel}} →</div>
+      <div class="note">// swipe to read</div>
+    </div>
+  </div>
+  <div class="slide-count">01 / {{totalSlides}}</div>
+</body></html>

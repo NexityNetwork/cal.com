@@ -46,6 +46,12 @@ const FAMILY_LAYOUTS = {
   "purple-mist":      { cover: "cover-purple-mist",     body: "body-purple-mist",     cta: "cta-purple-mist" },
   "paper-fold":       { cover: "cover-paper-fold",      body: "body-paper-fold",      cta: "cta-paper-fold" },
   "blue-italic":      { cover: "cover-blue-italic",     body: "body-blue-italic",     cta: "cta-blue-italic" },
+  "neon-dark":        { cover: "cover-neon-dark",       body: "body-neon-dark",       cta: "cta-neon-dark" },
+  "terracotta":       { cover: "cover-terracotta",      body: "body-terracotta",      cta: "cta-terracotta" },
+  "coral-mag":        { cover: "cover-coral-mag",       body: "body-coral-mag",       cta: "cta-coral-mag" },
+  "pastel-soft":      { cover: "cover-pastel-soft",     body: "body-pastel-soft",     cta: "cta-pastel-soft" },
+  "dark-navy":        { cover: "cover-dark-navy",       body: "body-dark-navy",       cta: "cta-dark-navy" },
+  "cream-gold":       { cover: "cover-cream-gold",      body: "body-cream-gold",      cta: "cta-cream-gold" },
 };
 
 // CTA slot conventions, shared by all families:
@@ -112,6 +118,36 @@ CTA   cta-paper-fold: eyebrow (uppercase 2-3 words like "YOUR TURN"), headline (
 COVER cover-blue-italic: handle, websiteUrl ("www.x.com" italic), accentLine (1-3 italic-serif words like "3 Tips" / "5 Steps"), sub1 (3-5 words continuing the sentence, e.g. "For becoming"), sub2 (3-5 words, e.g. "a content creator"), strip (3-6 ALL CAPS spaced words, e.g. "IN TODAY'S WORLD"), authorInitials (2 letters), authorName, authorRole (e.g. "Content Strategist").
 BODY  body-blue-italic: handle, websiteUrl, number (italic-serif "1"-"6"), numberLabel (1-2 words like "Step" or "Tip"), title (4-7 words), stripText (2-4 ALL CAPS words), body (2-3 sentences ≤40 words), authorInitials, authorName, authorRole.
 CTA   cta-blue-italic: handle, websiteUrl, eyebrow (uppercase 2-3 spaced words "YOUR TURN"), headline (3-5 italic-serif words), body (1-2 sentences ≤30 words), buttonLabel (2-4 words like "Book a call"), authorInitials, authorName, authorRole.`,
+
+  "neon-dark": `Layouts (near-black bg + pink grid glow + neon pink + teal accents, Space Grotesk + Space Mono — cyberpunk AI creator):
+COVER cover-neon-dark: handle ("@handle"), badgeLabel (2-3 words uppercase, e.g. "SAVED POST" / "AI TOOLS"), tag (1 word uppercase mono label, e.g. "THREAD" / "BREAKDOWN"), neonWord (1 ALL CAPS word in neon pink, e.g. "STOP"), headlineLine2 (1-3 words in white, e.g. "wasting"), tealLine (1-2 words in neon teal, e.g. "time"), subline (1-2 sentences ≤25 words, punchy), ctaLabel (2-4 words like "Read the thread"), totalSlides ("7").
+BODY  body-neon-dark: handle, pageOf ("02 / 07" etc), number (ghost numeral "1"-"6"), titleLabel (1-3 words mono teal, e.g. "THE TOOL" / "MISTAKE"), titleMain (2-4 words white), titleAccent (1-2 words in neon pink, e.g. "kills flow"), body (2-3 sentences ≤35 words, direct), slideNum ("02"-"07"), totalSlides ("7").
+CTA   cta-neon-dark: handle, pageOf ("08 / 07"), eyebrow (2-3 words uppercase mono teal, e.g. "YOUR MOVE"), headlineNeon (1-2 ALL CAPS words pink, e.g. "SAVE"), headlineWhite (1-2 words white, e.g. "this post"), body (1-2 sentences ≤25 words), buttonLabel (2-4 words, e.g. "Save this post"), secondaryLabel (mono text like "// follow @handle").`,
+
+  "terracotta": `Layouts (warm cream bg, terracotta/rust arch + Playfair serif italic, earthy dividers — grounded lifestyle & entrepreneurship):
+COVER cover-terracotta: eyebrow (1-2 uppercase words, e.g. "LIFESTYLE" / "FOUNDER"), titleLine1 (1-2 words serif bold, e.g. "Slow"), titleLine2 (1-2 words italic terracotta, e.g. "Down,"), titleLine3 (1-2 words, e.g. "Build"), subtitle (10-18 word italic serif sentence describing the topic), ctaLabel (2-3 words, e.g. "Read below"), handle ("@handle"), author (brand/studio name), slideCount (digit "5" or "6").
+BODY  body-terracotta: author, pageOf ("1/6" etc), number ("01"-"06"), numberLabel (1-2 words italic, e.g. "Insight" / "Truth"), titleMain (2-4 words, e.g. "Protect Your"), titleItalic (1-3 italic words in terracotta, e.g. "Deep Work"), body (2-3 sentences ≤45 words, warm editorial), handle.
+CTA   cta-terracotta: author, pageOf, eyebrow (2-3 uppercase words, e.g. "YOUR TURN"), headlineMain (2-3 serif words, e.g. "Begin"), headlineItalic (1-3 italic words in cream, e.g. "right now"), body (1-2 sentences ≤30 words warm), buttonLabel (2-4 words, e.g. "Save this post"), handle.`,
+
+  "coral-mag": `Layouts (coral #ff5a36 + white + black, Bebas Neue condensed magazine — bold editorial agency/marketing):
+COVER cover-coral-mag: brand (studio/brand name), issueLabel (e.g. "ISSUE 01" / "CAROUSEL POST"), issueTag (2-3 uppercase words, e.g. "DEEP DIVE"), headWord1 (1 ALL CAPS word big, e.g. "THE"), headWord2 (1 ALL CAPS word outline, e.g. "TRUTH"), headWord3 (1 ALL CAPS word, e.g. "ABOUT"), subEyebrow (2-3 uppercase words, e.g. "MARKETING" / "TODAY'S TOPIC"), subtitle (6-10 words sentence-case summary of the carousel), handle.
+BODY  body-coral-mag: brand, pageLabel (e.g. "P.02" / "LIE 01"), number ("01"-"06"), eyebrow (2-3 words uppercase, e.g. "THE LIE" / "TRUTH"), titleWord1 (1-2 words Bebas), titleWord2 (1 word in coral accent), titleWord3 (0-2 words), body (2-3 sentences ≤40 words editorial), handle.
+CTA   cta-coral-mag: brand, pageOf, tag (2-3 words uppercase black on coral, e.g. "YOUR MOVE"), headWord1 (1 ALL CAPS word, e.g. "SAVE"), headWord2 (1 ALL CAPS word outline on coral, e.g. "THIS"), body (1-2 sentences ≤25 words), buttonLabel (2-4 words, e.g. "Follow for more"), handle.`,
+
+  "pastel-soft": `Layouts (soft lavender-white bg + white rounded cards, purple-blue gradient badges, DM Sans — personal growth / wellness):
+COVER cover-pastel-soft: authorInitials (2 letters), authorName, handle, tagBlue (1-3 words like "Self Growth"), tagPink (1-3 words like "Mindset"), titleLine1 (1-3 words, e.g. "How to"), titleLine2 (1-3 italic words in blue, e.g. "actually"), titleLine3 (1-3 words, e.g. "heal"), subtitle (1-2 sentences ≤25 words, warm), ctaLabel (2-4 words like "Read below"), slideCount ("6" or "7").
+BODY  body-pastel-soft: authorName, pageOf ("2 / 7" etc), number (digit "1"-"6"), numberLabel (1-2 words like "Insight" or "Step"), titleMain (2-3 words), titleItalic (1-2 italic words in blue, e.g. "deeply"), body (2-3 sentences ≤40 words, warm compassionate), handle.
+CTA   cta-pastel-soft: authorName, pageOf, eyebrow (2-3 uppercase words "YOUR TURN"), headlineMain (2-3 words), headlineItalic (1-2 italic words in blue), body (1-2 sentences ≤25 words warm), buttonLabel (2-4 words like "Save this"), secondaryLabel (e.g. "Share with a friend"), handle.`,
+
+  "dark-navy": `Layouts (deep navy #0d1b2a + orange #f97316 accents + IBM Plex Mono terminal aesthetic — B2B SaaS / technical founders):
+COVER cover-dark-navy: brand (product/company name), versionLabel (e.g. "v2.0" / "2026 Edition"), prompt (5-10 word terminal command style, e.g. "run startup.sh --mode=founder"), headLine1 (1-2 words white, e.g. "The"), headLine2 (1-2 words orange, e.g. "Stack"), headLine3 (1-2 words dim-white, e.g. "That Scales"), subline (1-2 sentences ≤25 words, technical tone), stat1Num/Num2/Num3 (metric like "6x" / "4hrs" / "99%"), stat1Label/Label2/Label3 (3-5 word labels), ctaLabel (2-4 words like "Read the thread"), totalSlides ("7").
+BODY  body-dark-navy: brand, pageOf ("02/07" etc), stepLabel (5-10 words mono comment style, e.g. "the deployment step"), number ("1"-"6"), titleMain (2-3 words white, e.g. "Ship"), titleOrange (1-2 words orange, e.g. "faster"), body (2-3 sentences ≤35 words, technical direct), codePill (a short inline code snippet or command, e.g. "npm run deploy" or "git push origin main"), handle.
+CTA   cta-dark-navy: brand, pageOf, terminalTag (5-8 word terminal style, e.g. "deploy --to=your-feed"), headLine1 (1-2 words white), headLine2 (1-2 words orange), body (1-2 sentences ≤25 words), buttonLabel (2-4 words), secondaryNote (mono note like "follow for more threads"), handle.`,
+
+  "cream-gold": `Layouts (warm cream/ivory bg + charcoal text + gold #b8960c accents + Cormorant Garamond italic serif — luxury consulting / finance / high-end personal brand):
+COVER cover-cream-gold: brand (name in uppercase), issueLabel (e.g. "No. 01" / "A Reflection"), eyebrow (2-4 uppercase spaced words, e.g. "ON MONEY & POWER"), titleLine1 (1-2 words Cormorant bold, e.g. "The"), titleLine2 (1-2 italic words in gold, e.g. "Quiet"), titleLine3 (1-2 words, e.g. "Rules"), subtitle (10-16 word italic sentence), handle, slideCount ("6").
+BODY  body-cream-gold: brand, pageOf ("ii / vii" roman or "2 / 7"), number (roman or numeral "I"-"VI"), numberLabel (1-2 words like "Rule" or "Lesson"), titleMain (2-4 serif words), titleItalic (1-3 italic gold words), body (2-3 sentences ≤45 words, measured literary), handle.
+CTA   cta-cream-gold: brand, pageOf, eyebrow (2-3 uppercase words, e.g. "A FINAL WORD"), headlineMain (2-3 serif words), headlineItalic (1-2 italic gold words), body (1-2 sentences ≤30 words, measured), buttonLabel (2-4 words uppercase like "SAVE THIS POST"), handle.`,
 };
 
 const PROMPT_TEMPLATE = (brief, family) => `You are a carousel planner.
@@ -258,6 +294,48 @@ const BRIEFS = [
   { id: "personal-brand-blue",      family: "blue-italic", text: "5 mistakes killing your personal brand — and what to do instead." },
   { id: "linkedin-strategy-blue",   family: "blue-italic", text: "The LinkedIn strategy that built me a 6-figure consulting pipeline." },
   { id: "discovery-call-blue",      family: "blue-italic", text: "How to run a discovery call that closes — 6 questions to ask." },
+
+  // neon-dark (AI tools / creator productivity / cyberpunk tech)
+  { id: "ai-tools-focus",           family: "neon-dark", text: "6 AI tools that replaced 12 apps for creators who ship daily content." },
+  { id: "cursor-workflow",          family: "neon-dark", text: "The Cursor IDE workflow that makes me 5x faster — 6 habits that stuck." },
+  { id: "prompt-engineering",       family: "neon-dark", text: "5 prompt engineering patterns that separate amateurs from pros in 2026." },
+  { id: "build-in-public",          family: "neon-dark", text: "Why building in public compounded faster than ads — 6 lessons from 0 to 80K." },
+  { id: "creator-os",               family: "neon-dark", text: "The creator OS that runs my 6-figure newsletter — tools, flows, nightly habits." },
+
+  // terracotta (slow living / mindful entrepreneurship / earthy wellness)
+  { id: "slow-growth",              family: "terracotta", text: "6 principles of slow growth — building a business that doesn't devour your life." },
+  { id: "intentional-work",         family: "terracotta", text: "How I redesigned my workday around energy, not hours — 5 quiet shifts." },
+  { id: "solopreneur-rituals",      family: "terracotta", text: "The 5 daily rituals that keep a solopreneur sane, solvent, and proud of their work." },
+  { id: "creativity-unplugged",     family: "terracotta", text: "6 ways analog routines unlocked more creativity than any productivity app." },
+  { id: "client-boundaries",        family: "terracotta", text: "5 healthy client boundaries every freelancer should set — and how to communicate them." },
+
+  // coral-mag (marketing / brand strategy / bold editorial)
+  { id: "hooks-that-convert",       family: "coral-mag", text: "6 opening hooks that stop the scroll — and the psychology behind each one." },
+  { id: "brand-voice",              family: "coral-mag", text: "Why most brands sound the same — and 5 ways to develop a voice that sticks." },
+  { id: "content-pillars",          family: "coral-mag", text: "How to build 5 content pillars that never run dry — the editorial approach." },
+  { id: "agency-new-biz",           family: "coral-mag", text: "6 agency new-business tactics that filled our pipeline in 2026 without cold email." },
+  { id: "visual-branding",          family: "coral-mag", text: "5 visual branding mistakes killing your first impression on social media." },
+
+  // pastel-soft (personal growth / emotional wellbeing / gentle self-dev)
+  { id: "anxiety-toolkit",          family: "pastel-soft", text: "6 evidence-based tools a therapist uses to quiet anxiety in under 5 minutes." },
+  { id: "attachment-styles",        family: "pastel-soft", text: "The 4 attachment styles explained — and how to heal yours with daily practice." },
+  { id: "self-compassion",          family: "pastel-soft", text: "5 self-compassion practices that replaced toxic positivity for good." },
+  { id: "grief-and-growth",         family: "pastel-soft", text: "How grief becomes growth — 5 truths nobody tells you about healing." },
+  { id: "nervous-system",           family: "pastel-soft", text: "6 ways to regulate your nervous system when everything feels like too much." },
+
+  // dark-navy (B2B SaaS / engineering leadership / technical startup)
+  { id: "zero-to-prod",             family: "dark-navy", text: "Zero to production in 7 days — the technical playbook for solo founders in 2026." },
+  { id: "supabase-stack",           family: "dark-navy", text: "The Supabase + Next.js stack that powers 3 of my SaaS products — full breakdown." },
+  { id: "api-design",               family: "dark-navy", text: "6 API design principles that made our integrations 10x easier to maintain." },
+  { id: "eng-hiring-2026",          family: "dark-navy", text: "How we hire senior engineers in 2026 — no leetcode, 6 things we look for instead." },
+  { id: "observability-stack",      family: "dark-navy", text: "The observability stack that cut our P99 latency by 40% — 6 tools, real numbers." },
+
+  // cream-gold (luxury / wealth mindset / high-end consulting / finance)
+  { id: "wealth-principles",        family: "cream-gold", text: "6 principles of quiet wealth — from people who built it once and kept it." },
+  { id: "premium-pricing",          family: "cream-gold", text: "How I raised my consulting rate to $1,200/hour — 5 mindset shifts that made it possible." },
+  { id: "long-game",                family: "cream-gold", text: "The long game: 6 compounding habits that separate 20-year careers from 2-year sprints." },
+  { id: "legacy-thinking",          family: "cream-gold", text: "Legacy over virality — 5 things founders get wrong about building something lasting." },
+  { id: "money-and-meaning",        family: "cream-gold", text: "How the wealthiest people I know think about money, meaning, and enough — 6 lessons." },
 ];
 
 // ─── Kimi planner with retry on JSON parse failure ─────────────────────────

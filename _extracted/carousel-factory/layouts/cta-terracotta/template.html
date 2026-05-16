@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;0,900;1,400;1,700&family=Lato:wght@300;400;700&display=swap" rel="stylesheet">
+<style>
+  *{margin:0;padding:0;box-sizing:border-box;}
+  html,body{width:1080px;height:1350px;overflow:hidden;background:#c4541f;font-family:"Lato",sans-serif;color:#f5ede3;-webkit-font-smoothing:antialiased;}
+  .texture{position:absolute;inset:0;background:radial-gradient(ellipse at 20% 20%,rgba(255,255,255,0.1) 0%,transparent 50%),radial-gradient(ellipse at 80% 90%,rgba(0,0,0,0.12) 0%,transparent 40%);}
+  .author-row{position:absolute;top:60px;left:60px;right:60px;display:flex;align-items:center;justify-content:space-between;}
+  .author{font-size:20px;font-weight:700;letter-spacing:0.08em;color:rgba(245,237,227,0.6);text-transform:uppercase;}
+  .page{font-family:"Playfair Display",serif;font-style:italic;font-size:22px;color:rgba(245,237,227,0.5);}
+  .center{position:absolute;top:50%;left:60px;right:60px;transform:translateY(-52%);text-align:center;}
+  .eyebrow{font-size:22px;font-weight:700;letter-spacing:0.2em;text-transform:uppercase;color:rgba(245,237,227,0.7);margin-bottom:28px;}
+  .headline{font-family:"Playfair Display",serif;font-size:130px;font-weight:900;line-height:0.88;letter-spacing:-3px;margin-bottom:12px;}
+  .headline-italic{font-style:italic;color:#ffe8b0;}
+  .divider{width:100px;height:4px;background:#ffe8b0;border-radius:2px;margin:36px auto;}
+  .body{font-size:30px;font-weight:300;line-height:1.45;color:rgba(245,237,227,0.85);max-width:720px;margin:0 auto 48px;}
+  .btn{display:inline-block;padding:22px 52px;background:#f5ede3;border-radius:50px;font-size:24px;font-weight:700;color:#c4541f;letter-spacing:0.03em;}
+</style></head>
+<body>
+  <div class="texture"></div>
+  <div class="author-row">
+    <div class="author">{{author}}</div>
+    <div class="page">{{pageOf}}</div>
+  </div>
+  <div class="center">
+    <div class="eyebrow">{{eyebrow}}</div>
+    <div class="headline">{{headlineMain}}<br><span class="headline-italic">{{headlineItalic}}</span></div>
+    <div class="divider"></div>
+    <div class="body">{{body}}</div>
+    <div class="btn">{{buttonLabel}}</div>
+  </div>
+</body></html>

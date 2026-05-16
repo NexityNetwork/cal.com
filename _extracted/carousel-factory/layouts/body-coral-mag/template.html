@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+  *{margin:0;padding:0;box-sizing:border-box;}
+  html,body{width:1080px;height:1350px;overflow:hidden;background:#f9f9f9;font-family:"Plus Jakarta Sans",sans-serif;color:#1a1a1a;-webkit-font-smoothing:antialiased;}
+  .left-bar{position:absolute;left:0;top:0;bottom:0;width:14px;background:#ff5a36;}
+  .brand-row{position:absolute;top:56px;left:80px;right:60px;display:flex;align-items:center;justify-content:space-between;}
+  .brand{font-family:"Bebas Neue",sans-serif;font-size:32px;letter-spacing:0.12em;color:#1a1a1a;}
+  .page{font-size:20px;font-weight:700;color:#ff5a36;letter-spacing:0.08em;}
+  .num-area{position:absolute;top:140px;left:80px;display:flex;align-items:baseline;gap:0;}
+  .num{font-family:"Bebas Neue",sans-serif;font-size:240px;line-height:0.8;color:#ff5a36;letter-spacing:-4px;}
+  .eyebrow{position:absolute;top:160px;right:60px;font-size:18px;font-weight:700;letter-spacing:0.14em;color:rgba(26,26,26,0.4);text-transform:uppercase;text-align:right;max-width:400px;}
+  .content{position:absolute;top:420px;left:80px;right:60px;}
+  .title{font-family:"Bebas Neue",sans-serif;font-size:108px;line-height:0.88;letter-spacing:2px;color:#1a1a1a;margin-bottom:32px;}
+  .title span{color:#ff5a36;}
+  .rule{width:60px;height:5px;background:#ff5a36;margin-bottom:32px;}
+  .body{font-size:30px;font-weight:400;line-height:1.5;color:#3a3a3a;max-width:830px;}
+  .handle{position:absolute;bottom:60px;left:80px;font-size:18px;font-weight:600;letter-spacing:0.05em;color:rgba(26,26,26,0.35);}
+</style></head>
+<body>
+  <div class="left-bar"></div>
+  <div class="brand-row">
+    <div class="brand">{{brand}}</div>
+    <div class="page">{{pageLabel}}</div>
+  </div>
+  <div class="num-area"><div class="num">{{number}}</div></div>
+  <div class="eyebrow">{{eyebrow}}</div>
+  <div class="content">
+    <div class="title">{{titleWord1}} <span>{{titleWord2}}</span><br>{{titleWord3}}</div>
+    <div class="rule"></div>
+    <div class="body">{{body}}</div>
+  </div>
+  <div class="handle">{{handle}}</div>
+</body></html>
