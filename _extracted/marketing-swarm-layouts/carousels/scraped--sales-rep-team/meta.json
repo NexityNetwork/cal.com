@@ -1,0 +1,19 @@
+{
+  "type": "scraped-reference",
+  "source": "Instagram @divyannshisharma",
+  "slideCount": 15,
+  "title": "I Built An $80K Sales Rep With Claude Code",
+  "theme": "light-white",
+  "vibe": "creator-personality / tool-stack-story",
+  "fileFormat": "webp",
+  "designSignatures": [
+    "Pure white bg, no inner card outline",
+    "Top centered 'Swipe →' nav hint in muted grey",
+    "Display headline: black + orange split color, heavy sans, 3-line wrap (claim + 'with Claude Code')",
+    "Hero: pill-shaped horizontal capsule containing 5 circle tool-icons (Notion / Loom / Claude / Vercel / Slack)",
+    "Cursor pointer over the Claude icon — interactive feel",
+    "Bottom CTA: '(Swipe for the FREE guide 🤯)' in muted grey with emoji"
+  ],
+  "ragValue": "tool-stack cover with horizontal-pill icon row + curiosity-emoji CTA",
+  "brandFitForUltron": "low — light-mode + emoji are off-brand; useful only as variety reference"
+}

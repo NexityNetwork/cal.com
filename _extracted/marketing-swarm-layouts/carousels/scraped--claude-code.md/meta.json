@@ -1,0 +1,19 @@
+{
+  "type": "scraped-reference",
+  "source": "Instagram @leadgenman style",
+  "slideCount": 6,
+  "title": "CLAUDE_CODE.md — Agent = Files + Commands + Memory + Tools",
+  "theme": "light-paper",
+  "vibe": "retro-os / skeumorphic",
+  "designSignatures": [
+    "Cream paper bg (#fbf4eb)",
+    "Top-right: classic Win98 window controls (- □ X) as pixel art",
+    "Centered orange display title in upper third: 'CLAUDE_CODE.md' all-caps sans",
+    "Hero: large 3D orange manila folder graphic with stacked depth — folder is the canvas",
+    "Inside the folder: massive white 'Agent' word + formula 'Files + Commands + Memory + Tools' below",
+    "Pixel-art mouse cursor + 'OPEN' label in orange (creates click hint)",
+    "Page indicator at bottom: ▪︎ ▫︎ ▫︎ ▫︎ ▫︎ ▫︎ ▫︎ ▫︎ ▫︎ (small orange squares)"
+  ],
+  "ragValue": "retro-OS skeumorphic cover with hero folder + window chrome — extremely specific to filesystem topics",
+  "brandFitForUltron": "low — the retro-OS chrome is too literal/niche for Ultron's editorial direction"
+}

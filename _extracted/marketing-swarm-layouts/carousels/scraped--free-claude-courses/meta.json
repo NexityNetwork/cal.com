@@ -1,0 +1,18 @@
+{
+  "type": "scraped-reference",
+  "source": "Instagram @leadgenman (leadgenman.com)",
+  "slideCount": 17,
+  "title": "The only 15 FREE Claude courses you need",
+  "theme": "warm-paper",
+  "vibe": "split-canvas / poster",
+  "designSignatures": [
+    "Two-zone composition: cream top half + warm-orange bottom half",
+    "Outer orange/cream gradient bg behind a rounded inner sheet (visible paper shadow)",
+    "Title: small italic serif setup + giant ALL CAPS sans display, three-line wrap",
+    "Trailing italic-serif phrase ('you need') at the title's tail",
+    "Top-right ornament: orange-black starburst medallion (~10% slide area)",
+    "Bottom-zone hero: large Claude sparkle in cream over orange field"
+  ],
+  "ragValue": "poster-style cover with split-canvas + curio ornament",
+  "brandFitForUltron": "low — warm cream palette deviates from Ultron's dark default, but useful as a 'second theme' reference for the light-mode option"
+}

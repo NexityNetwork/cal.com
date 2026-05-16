@@ -1,0 +1,19 @@
+{
+  "type": "scraped-reference",
+  "source": "Instagram @manthan_patel (lead gen man / leadgenman.com)",
+  "slideCount": 10,
+  "title": "claude folder structure — don't guess, write your rules",
+  "theme": "light-paper",
+  "vibe": "editorial-magazine / asymmetric-grid",
+  "designSignatures": [
+    "Cream paper bg (#f5f1ea) with faint vertical column rules",
+    "5-column magazine grid layout — content placed asymmetrically across grid cells",
+    "Mixed typography: italic serif for paths ('.claude', 'commands/', 'agents/'), bold serif for emphasis ('folder structure'), small sans for body",
+    "Hyperlinked-style underlined keywords in muted blue ('commands/', 'agents/', 'skills/')",
+    "Hero 3D object: orange folder graphic upper-right and large cropped sun-burst bottom-right",
+    "Author attribution as plain text 'manthan patel / lead gen man'",
+    "Strikethrough used as a copy device ('don't guess')"
+  ],
+  "ragValue": "editorial-grid cover with asymmetric magazine composition",
+  "brandFitForUltron": "low — cream-paper aesthetic is off-brand, but the asymmetric magazine-grid is a powerful pattern to lift for premium light-mode covers"
+}

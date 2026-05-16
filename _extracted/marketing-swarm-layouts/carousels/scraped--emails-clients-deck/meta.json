@@ -1,0 +1,19 @@
+{
+  "type": "scraped-reference",
+  "source": "Instagram (creator unknown)",
+  "slideCount": 15,
+  "title": "Turn Emails into Client Decks — in 2 minutes using Claude, Gamma, and Gmail",
+  "theme": "dark-mono",
+  "vibe": "terminal-editorial / product-screenshot",
+  "designSignatures": [
+    "Pure dark bg, no inner card outline",
+    "Display title: heavy mono/typewriter type, sans (Inter-like) ALL-CAPS LIKE typography",
+    "Subtitle line with inline highlight: 'in 2 minutes / using Claude, Gamma, and Gmail' — the bottom phrase wrapped in a cream-bg rounded pill (inverted color callout)",
+    "Hero: realistic product screenshot — a Claude chat thread showing Gamma rendering a deck preview",
+    "Below hero: 5-step flow diagram with tool icons (Gmail / Claude sparkle / Gmail / Claude sparkle / Gmail) and labels (Read Email / Research / Create Deck / Edit / Share)",
+    "Each icon: rounded square brand color (Gmail multi-color G, Claude orange sparkle, Gamma blue G)",
+    "Tree-structure connector lines from hero down to flow steps"
+  ],
+  "ragValue": "product-screenshot hero + tool-chain flow — perfect for 'workflow' or 'process' explainers",
+  "brandFitForUltron": "high — dark palette + tool-icon-flow pattern is directly transferable"
+}

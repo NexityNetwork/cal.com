@@ -1,0 +1,18 @@
+{
+  "type": "scraped-reference",
+  "source": "Instagram @leadgenman (leadgenman.com)",
+  "slideCount": 7,
+  "title": "I replaced a $300K Sales Team with Claude Code",
+  "theme": "dark-ember",
+  "vibe": "brutalist / typewriter display",
+  "designSignatures": [
+    "Dark dot-grid bg (#0a0a0a + ~5% white dots)",
+    "Top rounded card: setup sentence with '$300K Sales Team' in orange",
+    "Hero: brutalist machine-segmented display type 'CLAUDE CODE' in orange/cream (two-tone) layered over radial clock/dial graphic",
+    "Display type uses dot-matrix/typewriter aesthetic — chunky rectangle letters",
+    "Bottom rounded card: CTA line + subtitle in parentheses 'free breakdown included'",
+    "Three accent treatments at once: orange, dark amber radial, cream segments"
+  ],
+  "ragValue": "high-energy launch-style cover with display-type hero + framing cards top/bottom",
+  "brandFitForUltron": "high — matches Ultron's dark-ember palette, useful as a 'punchy hook' reference"
+}

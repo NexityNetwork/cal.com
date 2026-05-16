@@ -1,0 +1,21 @@
+{
+  "type": "scraped-reference",
+  "source": "Instagram @artem.novitckii",
+  "slideCount": 9,
+  "title": "I Built My Second Brain With 3 Folders",
+  "theme": "warm-paper",
+  "vibe": "retro-OS / skeumorphic",
+  "designSignatures": [
+    "Cream paper bg with subtle connected-dot network pattern (knowledge-graph metaphor)",
+    "Italic mono setup line top-center 'SECOND_BRAIN.sys' (small, attention-grabbing)",
+    "Win98-style window controls top-right (- □ X)",
+    "Hero: large 3D orange manila folder graphic with depth — folder is the canvas",
+    "Inside folder: white centered '3 / Folders' stack + italic 'raw + wiki + outputs' below a hairline divider",
+    "Pixel-art mouse cursor inside the folder (hover state)",
+    "Below hero: bold display title 'I Built My Second Brain / With 3 Folders' with 'Second Brain' in orange with underline accent",
+    "Body subtitle: contrarian dual-statement ('It's not an app. It's not a plugin. / It's just 3 folders on your computer.') with '3 folders' inline orange highlight",
+    "Page indicator bottom: 8 small squares with first one orange-filled"
+  ],
+  "ragValue": "skeumorphic-folder-hero with contrarian-stripped subtitle — strong narrative pattern",
+  "brandFitForUltron": "low — warm paper is off-brand, but the contrarian-subtitle pattern is liftable"
+}

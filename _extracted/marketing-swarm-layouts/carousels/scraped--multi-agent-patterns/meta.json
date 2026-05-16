@@ -1,0 +1,19 @@
+{
+  "type": "scraped-reference",
+  "source": "Instagram @techwith.ram",
+  "slideCount": 10,
+  "title": "Multi-Agent Patterns — The Shared Memory Pattern",
+  "theme": "light-editorial",
+  "vibe": "editorial-tech / terminal-aesthetic",
+  "designSignatures": [
+    "Light off-white bg with thin orange top stripe (3px header rule)",
+    "Header row: '09/10' page counter left + 'techwith.ram' handle right, mono typeface",
+    "Eyebrow badge: dark rounded pill with '▲ PATTERN 08' in mono",
+    "Display title: massive ALL-CAPS three-line ('THE / SHARED / MEMORY / PATTERN.') with the second token in orange",
+    "Body: mono typewriter paragraph with deliberate prose voice",
+    "Hero diagram: dark callout 'SHARED STATE / BLACKBOARD' with field pills (research/draft/score/status), arrows down to four agent cards",
+    "Footer: two 'BEST FOR' / 'KEY INSIGHT' info cards side-by-side"
+  ],
+  "ragValue": "editorial-tech body slide showing diagram + dual info cards — premium explanatory pattern",
+  "brandFitForUltron": "high — terminal-mono aesthetic + structured diagram is highly transferable to dark theme"
+}

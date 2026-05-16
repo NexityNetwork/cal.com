@@ -1,0 +1,19 @@
+{
+  "type": "scraped-reference",
+  "source": "Instagram @leadgenman (leadgenman.com)",
+  "slideCount": 12,
+  "title": "60 Claude Prompts — Stop using ChatGPT. Start using Claude.",
+  "theme": "dark-warm",
+  "vibe": "editorial / serif-display",
+  "designSignatures": [
+    "Dark warm-brown bg (#2A1F1A-ish), no inner card outline",
+    "Centered serif display title with split color (cream + orange)",
+    "Setup line above title in muted serif",
+    "Hero element: mock Claude chat input UI with rounded textarea + send button",
+    "Footer line: website url, centered, very small",
+    "Orange Claude sparkle icon centered above title",
+    "Author handle top-left: @leadgenman"
+  ],
+  "ragValue": "lead-magnet carousel pattern with mock product UI as hero",
+  "brandFitForUltron": "medium — palette adjacent but serif typography is different from Ultron's sans-only Inter setup"
+}

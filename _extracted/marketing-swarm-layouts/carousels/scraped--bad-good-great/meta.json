@@ -1,0 +1,18 @@
+{
+  "type": "scraped-reference",
+  "source": "Instagram @leadgenman",
+  "slideCount": 8,
+  "title": "Claude Prompts — Bad vs Good vs Great",
+  "theme": "light-paper",
+  "vibe": "editorial / italic-serif",
+  "designSignatures": [
+    "Light grid-paper bg (#fafafa, faint 4pt grid lines)",
+    "Top-left badge: orange rounded-square with cream sparkle icon",
+    "Header label '\\u2728 Claude Prompts' next to badge, sans-serif",
+    "Massive italic serif comparison stack: BAD / vs / Good / vs / Great",
+    "Each comparand on its own line, generous leading, no decoration",
+    "Subtle orange radial glow behind the badge (used sparingly)"
+  ],
+  "ragValue": "comparison-stack cover with italic-serif typography",
+  "brandFitForUltron": "low-medium — light theme, serif-heavy; useful as a light-mode reference for compare-style covers"
+}

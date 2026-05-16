@@ -1,0 +1,17 @@
+{
+  "type": "scraped-reference",
+  "source": "Instagram (unknown handle, leadgenman style)",
+  "slideCount": 6,
+  "title": "The 4 Pillars of AI Agents",
+  "theme": "dark-minimal",
+  "vibe": "type-only / extreme-minimal",
+  "designSignatures": [
+    "Pure black bg (#000), no decorative elements at all",
+    "Single composition: huge white sans display headline centered, 2-line wrap",
+    "Below headline: short hot-pink dashed arrow pointing right (single visual element)",
+    "No avatars, no icons, no kicker, no page badge — pure type",
+    "Aspect ratio: 4:3 (not the usual 4:5)"
+  ],
+  "ragValue": "absolute-minimal type-only cover with single dashed-arrow CTA",
+  "brandFitForUltron": "medium — palette is on-brand (black), arrow color (pink) is off-brand. Useful as an extreme-minimal cover reference."
+}

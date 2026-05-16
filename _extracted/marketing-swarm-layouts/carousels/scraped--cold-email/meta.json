@@ -1,0 +1,17 @@
+{
+  "type": "scraped-reference",
+  "source": "Instagram @leadgenman",
+  "slideCount": 12,
+  "title": "Cold email is dead",
+  "theme": "dark",
+  "vibe": "data-viz / contrarian-claim",
+  "designSignatures": [
+    "Rounded outer card outline (1px stroke, ~40px inset, ~24px radius) on black bg",
+    "Display headline: white + orange split color, quote marks framing the claim",
+    "Hero data visualization: annotated line chart with year-by-year callouts",
+    "Heavy use of explanatory annotations along the chart axis",
+    "Single orange accent color, no other hues"
+  ],
+  "ragValue": "data-viz + contrarian-headline carousel pattern",
+  "brandFitForUltron": "high — same dark + orange palette as 'how to move like a 20-person team'"
+}

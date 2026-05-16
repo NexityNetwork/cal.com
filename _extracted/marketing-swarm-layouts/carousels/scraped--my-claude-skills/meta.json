@@ -1,0 +1,19 @@
+{
+  "type": "scraped-reference",
+  "source": "Instagram @leadgenman style",
+  "slideCount": 6,
+  "title": "My Claude Skills — v.1.0 Top 10 Edition",
+  "theme": "light-grid-paper",
+  "vibe": "skeumorphic / 3D-folder-stack",
+  "designSignatures": [
+    "Light grid-paper bg",
+    "Top-left: serif italic display title 'My Claude Skills' (50/50 split with hero on right)",
+    "Below title: blue rounded pill 'v.1.0 Top 10 Edition' in mono typewriter",
+    "Beneath pill: dark terminal-style command box showing 'Initialising: Coding... / Loading: Design...' etc",
+    "Loading progress bar in same blue/dark palette",
+    "Hero (right half): cascading stack of 3D rainbow folder tabs labeled with categories: Code & Dev (blue), Design (green), Writing (yellow), Marketing (red), Leverage (purple)",
+    "Each folder tab in white-typed category label, stacked with depth shadows"
+  ],
+  "ragValue": "skeumorphic 3D folder-tab stack as hero — extremely strong visual hook",
+  "brandFitForUltron": "low — rainbow palette + skeumorphic 3D are off-brand, but the 'category stack' concept is liftable"
+}

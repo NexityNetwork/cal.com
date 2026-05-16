@@ -1,0 +1,19 @@
+{
+  "type": "scraped-reference",
+  "source": "Instagram @divyannshisharma",
+  "slideCount": 17,
+  "title": "I Built An Entire AI Marketing Team With Claude Code",
+  "theme": "light-white",
+  "vibe": "creator-personality / tool-stack-story",
+  "designSignatures": [
+    "Pure white bg, no inner card outline",
+    "Top: creator's circular avatar (50px) centered, hard shadow",
+    "Display headline: black + orange split color, heavy sans (Manrope-ish), 3-line wrap",
+    "Hero diagram: hierarchical tree of icons (5 main team avatars top, 15 sub-skill avatars bottom)",
+    "Avatars: rounded square cards with 3D-orange Memoji-style characters",
+    "Hand-drawn yellow arrows annotating key elements ('5 Agents', '15 Skills')",
+    "Bottom CTA: 'Swipe →' in subtle grey, dead-center bottom"
+  ],
+  "ragValue": "personal-tool-stack carousel with diagram + annotated arrows + 3D avatars",
+  "brandFitForUltron": "low — palette + 3D Memoji avatars are off-brand; useful only as variety-of-narrative reference"
+}

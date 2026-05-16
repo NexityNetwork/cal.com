@@ -1,0 +1,19 @@
+{
+  "type": "scraped-reference",
+  "source": "Instagram @leadgenman style",
+  "slideCount": 7,
+  "title": "I Replaced My Entire $5K/Month Video Agency with Claude Code + Higgsfield",
+  "theme": "dark-ember",
+  "vibe": "filmstrip / cinema-aesthetic",
+  "designSignatures": [
+    "Dark dot-grid bg",
+    "Top rounded card: setup sentence with orange '$5K/Month Video Agency' highlight, two-line wrap",
+    "Tag line above hero: 'YOUTUBE SHORTS  ·  INSTAGRAM REELS  ·  TIKTOK' all-caps muted grey",
+    "Hero: realistic filmstrip metaphor — 5 tool icons (YouTube / Claude sparkle / Play button center / Higgsfield / Instagram) in rounded squares within actual film-perforation frame edges",
+    "Active frame (center 'play' button) has orange glow border — denotes the current playing tool",
+    "Video timeline progress bar below filmstrip with orange-filled left portion, dimmed right + dot scrubber, timestamps '0:14' / '0:34'",
+    "Bottom rounded card: capability summary '15 Skills. Seedance 2.0. One Prompt.' + orange highlight 'No more manual editing.'"
+  ],
+  "ragValue": "filmstrip/video-metaphor hero — purpose-built for video-content stories",
+  "brandFitForUltron": "high — palette matches, filmstrip metaphor is reusable for any timeline/sequence topic"
+}
