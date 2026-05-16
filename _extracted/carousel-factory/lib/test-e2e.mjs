@@ -12,8 +12,8 @@ import { resolve } from "node:path";
 
 // Compile compose.ts at runtime via tsx OR import the compiled .js.
 // For simplicity here we just inline the imports and run the JS-equivalent.
-import { compose } from "./compose.js"; // expects tsc compiled output
-import { renderHtmlsToPngs } from "./render.mjs";
+import { compose } from "./compose.js";
+import { renderAndQa } from "./dom-qa.mjs";
 
 const FACTORY_ROOT = resolve(import.meta.dirname, "..");
 const LAYOUTS_DIR = resolve(FACTORY_ROOT, "layouts");
@@ -135,7 +135,13 @@ console.log("→ composing");
 const htmls = await compose(spec, { layoutsDir: LAYOUTS_DIR });
 console.log(`  ${htmls.length} HTML strings`);
 
-console.log("→ rendering");
-const results = await renderHtmlsToPngs(htmls, OUT_DIR, { concurrency: 4 });
-console.log(`  ${results.length} PNGs written to ${OUT_DIR}`);
-for (const r of results) console.log(`  ${r.name}: ${(r.bytes / 1024).toFixed(1)} KB`);
+console.log("→ render + DOM-QA");
+const { slides, carouselQa } = await renderAndQa(htmls, OUT_DIR, { concurrency: 4 });
+for (const s of slides) {
+  const mark = s.qa.verdict === "pass" ? "✓" : "✗";
+  console.log(`  ${mark} slide-${String(s.index + 1).padStart(2, "0")}  ${s.qa.verdict}  (${(s.bytes / 1024).toFixed(1)} KB)`);
+  for (const issue of s.qa.issues) console.log(`      ${issue}`);
+}
+console.log(`\nCarousel-level: ${carouselQa.verdict}`);
+for (const issue of carouselQa.issues) console.log(`  - ${issue}`);
+console.log(`\nFull QA report: ${OUT_DIR}/qa.json`);

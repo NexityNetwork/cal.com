@@ -1,0 +1,600 @@
+{
+  "slides": [
+    {
+      "index": 0,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/test-output/slide-01.png",
+      "bytes": 51021,
+      "qa": {
+        "verdict": "pass",
+        "checks": {
+          "has_frame": true,
+          "no_unfilled_slots": true,
+          "has_page_badge": true,
+          "page_badge_in_bounds": true,
+          "cover_title_present": true,
+          "cover_title_in_bounds": true,
+          "play_stack_visible": true
+        },
+        "issues": []
+      },
+      "fingerprint": {
+        "layout": "cover",
+        "elements": {
+          ".page-badge": {
+            "x": 87,
+            "y": 87,
+            "w": 63,
+            "h": 44
+          },
+          ".cover-title": {
+            "x": 119,
+            "y": 511,
+            "w": 880,
+            "h": 147
+          },
+          ".play-stack": {
+            "x": 429,
+            "y": 819,
+            "w": 540,
+            "h": 540
+          }
+        }
+      }
+    },
+    {
+      "index": 1,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/test-output/slide-02.png",
+      "bytes": 52999,
+      "qa": {
+        "verdict": "pass",
+        "checks": {
+          "has_frame": true,
+          "no_unfilled_slots": true,
+          "has_page_badge": true,
+          "page_badge_in_bounds": true,
+          "body_title_present": true,
+          "body_title_in_bounds": true,
+          "body_title_no_overflow": true,
+          "body_text_present": true,
+          "body_text_in_bounds": true,
+          "body_text_no_overflow": true,
+          "icon_hero_visible": true,
+          "icon_has_content": true,
+          "icon_not_placeholder": true
+        },
+        "issues": []
+      },
+      "fingerprint": {
+        "layout": "body",
+        "elements": {
+          ".page-badge": {
+            "x": 87,
+            "y": 87,
+            "w": 63,
+            "h": 44
+          },
+          ".body-title": {
+            "x": 119,
+            "y": 287,
+            "w": 842,
+            "h": 70
+          },
+          ".body-text": {
+            "x": 119,
+            "y": 389,
+            "w": 842,
+            "h": 146
+          },
+          ".icon-hero": {
+            "x": 360,
+            "y": 831,
+            "w": 360,
+            "h": 360
+          }
+        }
+      }
+    },
+    {
+      "index": 2,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/test-output/slide-03.png",
+      "bytes": 65733,
+      "qa": {
+        "verdict": "pass",
+        "checks": {
+          "has_frame": true,
+          "no_unfilled_slots": true,
+          "has_page_badge": true,
+          "page_badge_in_bounds": true,
+          "body_title_present": true,
+          "body_title_in_bounds": true,
+          "body_title_no_overflow": true,
+          "body_text_present": true,
+          "body_text_in_bounds": true,
+          "body_text_no_overflow": true,
+          "icon_hero_visible": true,
+          "icon_has_content": true,
+          "icon_not_placeholder": true
+        },
+        "issues": []
+      },
+      "fingerprint": {
+        "layout": "body",
+        "elements": {
+          ".page-badge": {
+            "x": 87,
+            "y": 87,
+            "w": 63,
+            "h": 44
+          },
+          ".body-title": {
+            "x": 119,
+            "y": 287,
+            "w": 842,
+            "h": 141
+          },
+          ".body-text": {
+            "x": 119,
+            "y": 460,
+            "w": 842,
+            "h": 97
+          },
+          ".icon-hero": {
+            "x": 360,
+            "y": 831,
+            "w": 360,
+            "h": 360
+          }
+        }
+      }
+    },
+    {
+      "index": 3,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/test-output/slide-04.png",
+      "bytes": 59215,
+      "qa": {
+        "verdict": "pass",
+        "checks": {
+          "has_frame": true,
+          "no_unfilled_slots": true,
+          "has_page_badge": true,
+          "page_badge_in_bounds": true,
+          "body_title_present": true,
+          "body_title_in_bounds": true,
+          "body_title_no_overflow": true,
+          "body_text_present": true,
+          "body_text_in_bounds": true,
+          "body_text_no_overflow": true,
+          "icon_hero_visible": true,
+          "icon_has_content": true,
+          "icon_not_placeholder": true
+        },
+        "issues": []
+      },
+      "fingerprint": {
+        "layout": "body",
+        "elements": {
+          ".page-badge": {
+            "x": 87,
+            "y": 87,
+            "w": 63,
+            "h": 44
+          },
+          ".body-title": {
+            "x": 119,
+            "y": 287,
+            "w": 842,
+            "h": 141
+          },
+          ".body-text": {
+            "x": 119,
+            "y": 460,
+            "w": 842,
+            "h": 97
+          },
+          ".icon-hero": {
+            "x": 360,
+            "y": 831,
+            "w": 360,
+            "h": 360
+          }
+        }
+      }
+    },
+    {
+      "index": 4,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/test-output/slide-05.png",
+      "bytes": 54799,
+      "qa": {
+        "verdict": "pass",
+        "checks": {
+          "has_frame": true,
+          "no_unfilled_slots": true,
+          "has_page_badge": true,
+          "page_badge_in_bounds": true,
+          "body_title_present": true,
+          "body_title_in_bounds": true,
+          "body_title_no_overflow": true,
+          "body_text_present": true,
+          "body_text_in_bounds": true,
+          "body_text_no_overflow": true,
+          "icon_hero_visible": true,
+          "icon_has_content": true,
+          "icon_not_placeholder": true
+        },
+        "issues": []
+      },
+      "fingerprint": {
+        "layout": "body",
+        "elements": {
+          ".page-badge": {
+            "x": 87,
+            "y": 87,
+            "w": 63,
+            "h": 44
+          },
+          ".body-title": {
+            "x": 119,
+            "y": 287,
+            "w": 842,
+            "h": 70
+          },
+          ".body-text": {
+            "x": 119,
+            "y": 389,
+            "w": 842,
+            "h": 146
+          },
+          ".icon-hero": {
+            "x": 360,
+            "y": 831,
+            "w": 360,
+            "h": 360
+          }
+        }
+      }
+    },
+    {
+      "index": 5,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/test-output/slide-06.png",
+      "bytes": 56976,
+      "qa": {
+        "verdict": "pass",
+        "checks": {
+          "has_frame": true,
+          "no_unfilled_slots": true,
+          "has_page_badge": true,
+          "page_badge_in_bounds": true,
+          "body_title_present": true,
+          "body_title_in_bounds": true,
+          "body_title_no_overflow": true,
+          "body_text_present": true,
+          "body_text_in_bounds": true,
+          "body_text_no_overflow": true,
+          "icon_hero_visible": true,
+          "icon_has_content": true,
+          "icon_not_placeholder": true
+        },
+        "issues": []
+      },
+      "fingerprint": {
+        "layout": "body",
+        "elements": {
+          ".page-badge": {
+            "x": 87,
+            "y": 87,
+            "w": 63,
+            "h": 44
+          },
+          ".body-title": {
+            "x": 119,
+            "y": 287,
+            "w": 842,
+            "h": 70
+          },
+          ".body-text": {
+            "x": 119,
+            "y": 389,
+            "w": 842,
+            "h": 146
+          },
+          ".icon-hero": {
+            "x": 360,
+            "y": 831,
+            "w": 360,
+            "h": 360
+          }
+        }
+      }
+    },
+    {
+      "index": 6,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/test-output/slide-07.png",
+      "bytes": 58995,
+      "qa": {
+        "verdict": "pass",
+        "checks": {
+          "has_frame": true,
+          "no_unfilled_slots": true,
+          "has_page_badge": true,
+          "page_badge_in_bounds": true,
+          "body_title_present": true,
+          "body_title_in_bounds": true,
+          "body_title_no_overflow": true,
+          "body_text_present": true,
+          "body_text_in_bounds": true,
+          "body_text_no_overflow": true,
+          "icon_hero_visible": true,
+          "icon_has_content": true,
+          "icon_not_placeholder": true
+        },
+        "issues": []
+      },
+      "fingerprint": {
+        "layout": "body",
+        "elements": {
+          ".page-badge": {
+            "x": 87,
+            "y": 87,
+            "w": 63,
+            "h": 44
+          },
+          ".body-title": {
+            "x": 119,
+            "y": 287,
+            "w": 842,
+            "h": 70
+          },
+          ".body-text": {
+            "x": 119,
+            "y": 389,
+            "w": 842,
+            "h": 146
+          },
+          ".icon-hero": {
+            "x": 360,
+            "y": 831,
+            "w": 360,
+            "h": 360
+          }
+        }
+      }
+    },
+    {
+      "index": 7,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/test-output/slide-08.png",
+      "bytes": 55906,
+      "qa": {
+        "verdict": "pass",
+        "checks": {
+          "has_frame": true,
+          "no_unfilled_slots": true,
+          "has_page_badge": true,
+          "page_badge_in_bounds": true,
+          "body_title_present": true,
+          "body_title_in_bounds": true,
+          "body_title_no_overflow": true,
+          "body_text_present": true,
+          "body_text_in_bounds": true,
+          "body_text_no_overflow": true,
+          "icon_hero_visible": true,
+          "icon_has_content": true,
+          "icon_not_placeholder": true
+        },
+        "issues": []
+      },
+      "fingerprint": {
+        "layout": "body",
+        "elements": {
+          ".page-badge": {
+            "x": 87,
+            "y": 87,
+            "w": 63,
+            "h": 44
+          },
+          ".body-title": {
+            "x": 119,
+            "y": 287,
+            "w": 842,
+            "h": 70
+          },
+          ".body-text": {
+            "x": 119,
+            "y": 389,
+            "w": 842,
+            "h": 97
+          },
+          ".icon-hero": {
+            "x": 360,
+            "y": 831,
+            "w": 360,
+            "h": 360
+          }
+        }
+      }
+    },
+    {
+      "index": 8,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/test-output/slide-09.png",
+      "bytes": 53231,
+      "qa": {
+        "verdict": "pass",
+        "checks": {
+          "has_frame": true,
+          "no_unfilled_slots": true,
+          "has_page_badge": true,
+          "page_badge_in_bounds": true,
+          "body_title_present": true,
+          "body_title_in_bounds": true,
+          "body_title_no_overflow": true,
+          "body_text_present": true,
+          "body_text_in_bounds": true,
+          "body_text_no_overflow": true,
+          "icon_hero_visible": true,
+          "icon_has_content": true,
+          "icon_not_placeholder": true
+        },
+        "issues": []
+      },
+      "fingerprint": {
+        "layout": "body",
+        "elements": {
+          ".page-badge": {
+            "x": 87,
+            "y": 87,
+            "w": 63,
+            "h": 44
+          },
+          ".body-title": {
+            "x": 119,
+            "y": 287,
+            "w": 842,
+            "h": 70
+          },
+          ".body-text": {
+            "x": 119,
+            "y": 389,
+            "w": 842,
+            "h": 146
+          },
+          ".icon-hero": {
+            "x": 360,
+            "y": 831,
+            "w": 360,
+            "h": 360
+          }
+        }
+      }
+    },
+    {
+      "index": 9,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/test-output/slide-10.png",
+      "bytes": 58933,
+      "qa": {
+        "verdict": "pass",
+        "checks": {
+          "has_frame": true,
+          "no_unfilled_slots": true,
+          "has_page_badge": true,
+          "page_badge_in_bounds": true,
+          "body_title_present": true,
+          "body_title_in_bounds": true,
+          "body_title_no_overflow": true,
+          "body_text_present": true,
+          "body_text_in_bounds": true,
+          "body_text_no_overflow": true,
+          "icon_hero_visible": true,
+          "icon_has_content": true,
+          "icon_not_placeholder": true
+        },
+        "issues": []
+      },
+      "fingerprint": {
+        "layout": "body",
+        "elements": {
+          ".page-badge": {
+            "x": 87,
+            "y": 87,
+            "w": 63,
+            "h": 44
+          },
+          ".body-title": {
+            "x": 119,
+            "y": 287,
+            "w": 842,
+            "h": 141
+          },
+          ".body-text": {
+            "x": 119,
+            "y": 460,
+            "w": 842,
+            "h": 146
+          },
+          ".icon-hero": {
+            "x": 360,
+            "y": 831,
+            "w": 360,
+            "h": 360
+          }
+        }
+      }
+    }
+  ],
+  "carouselQa": {
+    "verdict": "needs-review",
+    "issues": [
+      "slides 2 and 3 have nearly identical composition (sim=0.96)",
+      "slides 3 and 4 have nearly identical composition (sim=1.00)",
+      "slides 4 and 5 have nearly identical composition (sim=0.96)",
+      "slides 5 and 6 have nearly identical composition (sim=1.00)",
+      "slides 6 and 7 have nearly identical composition (sim=1.00)",
+      "slides 7 and 8 have nearly identical composition (sim=0.99)",
+      "slides 8 and 9 have nearly identical composition (sim=0.99)",
+      "slides 9 and 10 have nearly identical composition (sim=0.97)"
+    ],
+    "adjacencyChecks": [
+      {
+        "between": [
+          1,
+          2
+        ],
+        "similarity": 0
+      },
+      {
+        "between": [
+          2,
+          3
+        ],
+        "similarity": 0.9606995884773663
+      },
+      {
+        "between": [
+          3,
+          4
+        ],
+        "similarity": 1
+      },
+      {
+        "between": [
+          4,
+          5
+        ],
+        "similarity": 0.9606995884773663
+      },
+      {
+        "between": [
+          5,
+          6
+        ],
+        "similarity": 1
+      },
+      {
+        "between": [
+          6,
+          7
+        ],
+        "similarity": 1
+      },
+      {
+        "between": [
+          7,
+          8
+        ],
+        "similarity": 0.989917695473251
+      },
+      {
+        "between": [
+          8,
+          9
+        ],
+        "similarity": 0.989917695473251
+      },
+      {
+        "between": [
+          9,
+          10
+        ],
+        "similarity": 0.9707818930041152
+      }
+    ]
+  }
+}
