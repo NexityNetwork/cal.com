@@ -2,8 +2,8 @@
   "slides": [
     {
       "index": 0,
-      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/observability-stack/slide-01.png",
-      "bytes": 99891,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/money-and-meaning/slide-01.png",
+      "bytes": 347352,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -18,8 +18,8 @@
     },
     {
       "index": 1,
-      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/observability-stack/slide-02.png",
-      "bytes": 101162,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/money-and-meaning/slide-02.png",
+      "bytes": 190435,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -34,8 +34,8 @@
     },
     {
       "index": 2,
-      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/observability-stack/slide-03.png",
-      "bytes": 97174,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/money-and-meaning/slide-03.png",
+      "bytes": 186294,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -50,8 +50,8 @@
     },
     {
       "index": 3,
-      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/observability-stack/slide-04.png",
-      "bytes": 107307,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/money-and-meaning/slide-04.png",
+      "bytes": 193366,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -66,8 +66,8 @@
     },
     {
       "index": 4,
-      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/observability-stack/slide-05.png",
-      "bytes": 97535,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/money-and-meaning/slide-05.png",
+      "bytes": 193982,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -82,8 +82,8 @@
     },
     {
       "index": 5,
-      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/observability-stack/slide-06.png",
-      "bytes": 99590,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/money-and-meaning/slide-06.png",
+      "bytes": 191179,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -98,8 +98,8 @@
     },
     {
       "index": 6,
-      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/observability-stack/slide-07.png",
-      "bytes": 104315,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/money-and-meaning/slide-07.png",
+      "bytes": 194338,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -114,8 +114,8 @@
     },
     {
       "index": 7,
-      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/observability-stack/slide-08.png",
-      "bytes": 221353,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/money-and-meaning/slide-08.png",
+      "bytes": 433239,
       "qa": {
         "verdict": "pass",
         "checks": {

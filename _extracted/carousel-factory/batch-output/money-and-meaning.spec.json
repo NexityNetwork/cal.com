@@ -1,0 +1,113 @@
+{
+  "id": "money-and-meaning",
+  "brand": "MERIDIAN",
+  "brief": "How the wealthiest people I know think about money, meaning, and enough — 6 lessons.",
+  "theme": "cream-gold",
+  "slides": [
+    {
+      "layoutId": "cover-cream-gold",
+      "slots": {
+        "brand": "MERIDIAN",
+        "issueLabel": "No. 01",
+        "eyebrow": "ON MONEY & MEANING",
+        "titleLine1": "The",
+        "titleLine2": "Quiet",
+        "titleLine3": "Rules",
+        "subtitle": "A private look at how the truly wealthy define enough, purpose, and peace.",
+        "handle": "@themeridianletter",
+        "slideCount": "6"
+      }
+    },
+    {
+      "layoutId": "body-cream-gold",
+      "slots": {
+        "brand": "MERIDIAN",
+        "pageOf": "ii / viii",
+        "number": "I",
+        "numberLabel": "Lesson",
+        "titleMain": "Money Is",
+        "titleItalic": "Optionality",
+        "body": "The richest minds I know do not count dollars; they count choices. Wealth, to them, is the quiet luxury of deciding how to spend a Tuesday.",
+        "handle": "@themeridianletter"
+      }
+    },
+    {
+      "layoutId": "body-cream-gold",
+      "slots": {
+        "brand": "MERIDIAN",
+        "pageOf": "iii / viii",
+        "number": "II",
+        "numberLabel": "Lesson",
+        "titleMain": "Define Your",
+        "titleItalic": "Enough",
+        "body": "There is no universal number that signals arrival. The wise set their own finish line early, then spend the surplus on time and attention.",
+        "handle": "@themeridianletter"
+      }
+    },
+    {
+      "layoutId": "body-cream-gold",
+      "slots": {
+        "brand": "MERIDIAN",
+        "pageOf": "iv / viii",
+        "number": "III",
+        "numberLabel": "Lesson",
+        "titleMain": "Meaning Over",
+        "titleItalic": "Margin",
+        "body": "Once the basics are secured, every additional dollar chases meaning, not margin. Purpose becomes the only asset that compounds indefinitely.",
+        "handle": "@themeridianletter"
+      }
+    },
+    {
+      "layoutId": "body-cream-gold",
+      "slots": {
+        "brand": "MERIDIAN",
+        "pageOf": "v / viii",
+        "number": "IV",
+        "numberLabel": "Lesson",
+        "titleMain": "Silence Is",
+        "titleItalic": "Wealth",
+        "body": "Old money whispers. The most secure fortunes avoid announcement, understanding that privacy is the last true luxury a spotlight cannot buy.",
+        "handle": "@themeridianletter"
+      }
+    },
+    {
+      "layoutId": "body-cream-gold",
+      "slots": {
+        "brand": "MERIDIAN",
+        "pageOf": "vi / viii",
+        "number": "V",
+        "numberLabel": "Lesson",
+        "titleMain": "Time as",
+        "titleItalic": "Denominator",
+        "body": "The wealthy do not trade time for money; they arbitrate it. Every investment is weighed against the irreplaceable currency of a finite life.",
+        "handle": "@themeridianletter"
+      }
+    },
+    {
+      "layoutId": "body-cream-gold",
+      "slots": {
+        "brand": "MERIDIAN",
+        "pageOf": "vii / viii",
+        "number": "VI",
+        "numberLabel": "Lesson",
+        "titleMain": "Legacy Is",
+        "titleItalic": "Lived Now",
+        "body": "Estate plans matter less than the example set at dinner. The richest lives I know are spent modeling values, not merely funding them.",
+        "handle": "@themeridianletter"
+      }
+    },
+    {
+      "layoutId": "cta-cream-gold",
+      "slots": {
+        "brand": "MERIDIAN",
+        "pageOf": "viii / viii",
+        "eyebrow": "A FINAL WORD",
+        "headlineMain": "Save the",
+        "headlineItalic": "Wisdom",
+        "body": "Which lesson will you live first? Share your quiet commitment below.",
+        "buttonLabel": "SAVE THIS POST",
+        "handle": "@themeridianletter"
+      }
+    }
+  ]
+}

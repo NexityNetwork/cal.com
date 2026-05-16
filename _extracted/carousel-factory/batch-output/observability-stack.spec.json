@@ -1,25 +1,25 @@
 {
   "id": "observability-stack",
-  "brand": "StackWatch",
+  "brand": "tracebound",
   "brief": "The observability stack that cut our P99 latency by 40% — 6 tools, real numbers.",
   "theme": "dark-navy",
   "slides": [
     {
       "layoutId": "cover-dark-navy",
       "slots": {
-        "brand": "StackWatch",
-        "versionLabel": "2026 Edition",
-        "prompt": "bash install.sh --stack=observability --version=2.0",
+        "brand": "tracebound",
+        "versionLabel": "v2026.1",
+        "prompt": "npm run observe -- --target=prod --cut-latency",
         "headLine1": "The",
-        "headLine2": "Stack",
-        "headLine3": "That Cuts",
-        "subline": "We rebuilt our observability stack and cut P99 latency by 40%. Six tools, real metrics, zero guesswork.",
+        "headLine2": "O11y",
+        "headLine3": "Stack",
+        "subline": "How we dropped P99 latency by 40% using six open-source tools and one collector.",
         "stat1Num": "40%",
-        "stat1Label": "P99 latency down",
         "stat2Num": "6",
-        "stat2Label": "Tools in stack",
-        "stat3Num": "120ms",
-        "stat3Label": "Avg time saved",
+        "stat3Num": "12ms",
+        "stat1Label": "P99 Latency Cut",
+        "stat2Label": "Six Core Tools",
+        "stat3Label": "Avg Trace Span",
         "ctaLabel": "Read the thread",
         "totalSlides": "8"
       }
@@ -27,99 +27,99 @@
     {
       "layoutId": "body-dark-navy",
       "slots": {
-        "brand": "StackWatch",
+        "brand": "tracebound",
         "pageOf": "02/08",
-        "stepLabel": "// auto-instrument every service before deploying",
+        "stepLabel": "# instrument every service with otel",
         "number": "1",
-        "titleMain": "Auto Instrument",
-        "titleOrange": "Everything",
-        "body": "OpenTelemetry auto-instrumented our services. One SDK, no vendor lock-in, and full context propagation across all twelve microservices.",
+        "titleMain": "Unified",
+        "titleOrange": "Telemetry",
+        "body": "OpenTelemetry collectors ingest traces, metrics, and logs with zero code changes via sidecars. We attached it to every service mesh proxy.",
         "codePill": "otelcol --config=config.yaml",
-        "handle": "@stackwatch"
+        "handle": "@tracebound"
       }
     },
     {
       "layoutId": "body-dark-navy",
       "slots": {
-        "brand": "StackWatch",
+        "brand": "tracebound",
         "pageOf": "03/08",
-        "stepLabel": "// scrape metrics from every cluster",
+        "stepLabel": "# scrape red metrics from every pod",
         "number": "2",
-        "titleMain": "Time Series",
-        "titleOrange": "Storage",
-        "body": "Prometheus TSDB ingests 50K samples per second. We federated edge clusters and cut cardinality bloat with recording rules.",
-        "codePill": "promtool check rules /etc/prometheus.yml",
-        "handle": "@stackwatch"
+        "titleMain": "RED",
+        "titleOrange": "Metrics",
+        "body": "Prometheus pulls RED metrics from every pod every 15s. We alert on rate, errors, and duration before users notice.",
+        "codePill": "rate(http_req_duration[5m])",
+        "handle": "@tracebound"
       }
     },
     {
       "layoutId": "body-dark-navy",
       "slots": {
-        "brand": "StackWatch",
+        "brand": "tracebound",
         "pageOf": "04/08",
-        "stepLabel": "// visualize data before you optimize",
+        "stepLabel": "# visualize golden signals in dashboards",
         "number": "3",
-        "titleMain": "Single Pane",
-        "titleOrange": "Visibility",
-        "body": "Grafana unified logs, metrics, and traces. Custom latency heatmaps exposed the 99th percentile outliers in real time.",
+        "titleMain": "Golden",
+        "titleOrange": "Dashboards",
+        "body": "Grafana renders live latency heatmaps and error budgets in one pane. We pinned P99 panels to the NOC wall.",
         "codePill": "grafana-cli plugins install",
-        "handle": "@stackwatch"
+        "handle": "@tracebound"
       }
     },
     {
       "layoutId": "body-dark-navy",
       "slots": {
-        "brand": "StackWatch",
+        "brand": "tracebound",
         "pageOf": "05/08",
-        "stepLabel": "// trace every request end to end",
+        "stepLabel": "# trace requests end to end",
         "number": "4",
-        "titleMain": "Distributed Trace",
-        "titleOrange": "Depth",
-        "body": "Jaeger trace comparison highlighted a 400ms N+1 query. We fixed the hot path and watched the P99 drop immediately.",
-        "codePill": "jaeger-all-in-one --query.base-path=/jaeger",
-        "handle": "@stackwatch"
+        "titleMain": "Deep",
+        "titleOrange": "Traces",
+        "body": "Jaeger maps distributed traces across 14 microservices. We found the 40% bottleneck in a single N+1 query span.",
+        "codePill": "jaeger-query --query.base-path=/",
+        "handle": "@tracebound"
       }
     },
     {
       "layoutId": "body-dark-navy",
       "slots": {
-        "brand": "StackWatch",
+        "brand": "tracebound",
         "pageOf": "06/08",
-        "stepLabel": "// pipeline logs with zero sidecars",
+        "stepLabel": "# correlate logs and traces by id",
         "number": "5",
-        "titleMain": "Stream Pipeline",
-        "titleOrange": "Rewrite",
-        "body": "Vector replaced Fluent Bit. One agent, zero sidecar tax, and 30% lower node CPU with backpressure-aware routing.",
-        "codePill": "vector validate --config-dir ./vector",
-        "handle": "@stackwatch"
+        "titleMain": "Log",
+        "titleOrange": "Context",
+        "body": "Loki indexes logs by trace ID without full-text overhead. We jump from a slow span to the exact error line instantly.",
+        "codePill": "{app=\\\"api\\\"} |= \\\"trace_id\\\"",
+        "handle": "@tracebound"
       }
     },
     {
       "layoutId": "body-dark-navy",
       "slots": {
-        "brand": "StackWatch",
+        "brand": "tracebound",
         "pageOf": "07/08",
-        "stepLabel": "// alert on symptoms never noise",
+        "stepLabel": "# alert on symptoms and not noise",
         "number": "6",
-        "titleMain": "Symptom Based",
+        "titleMain": "Smart",
         "titleOrange": "Alerts",
-        "body": "Alertmanager routes by severity. P99 SLO burn-rate alerts fire in two minutes, not after the outage trends on Twitter.",
-        "codePill": "amtool check-config /etc/alertmanager.yml",
-        "handle": "@stackwatch"
+        "body": "Alertmanager routes high-cardinality alerts to Slack and PagerDuty with zero flapping. We page only on SLO burn rate.",
+        "codePill": "amtool check-config alert.yml",
+        "handle": "@tracebound"
       }
     },
     {
       "layoutId": "cta-dark-navy",
       "slots": {
-        "brand": "StackWatch",
+        "brand": "tracebound",
         "pageOf": "08/08",
-        "terminalTag": "git clone stackwatch/observability && make deploy",
-        "headLine1": "Ship",
-        "headLine2": "Faster",
-        "body": "Steal this stack. Drop your email for the Terraform modules and dashboard JSON exports.",
-        "buttonLabel": "Get the modules",
+        "terminalTag": "curl stack.sh | bash --mode=observe",
+        "headLine1": "Cut",
+        "headLine2": "Latency",
+        "body": "Deploy this six-tool observability stack and start measuring what matters.",
+        "buttonLabel": "Clone Stack",
         "secondaryNote": "follow for more threads",
-        "handle": "@stackwatch"
+        "handle": "@tracebound"
       }
     }
   ]
