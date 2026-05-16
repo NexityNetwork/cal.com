@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;1,400;1,500&family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
+<style>
+  *{margin:0;padding:0;box-sizing:border-box;}
+  html,body{width:1080px;height:1350px;overflow:hidden;background:radial-gradient(ellipse at 30% 30%, #f1ddee 0%, #c89dcf 45%, #8a4f9a 100%);font-family:"Cormorant Garamond",serif;color:#3a1d4a;-webkit-font-smoothing:antialiased;}
+  .top-line{position:absolute;top:80px;left:0;right:60px;display:flex;align-items:center;}
+  .line{flex:1;height:1px;background:#fff;}
+  .page{font-family:"Inter",sans-serif;font-size:22px;font-weight:400;color:#fff;margin-left:24px;letter-spacing:0.06em;}
+  .search-card{position:absolute;top:50%;left:120px;right:120px;transform:translateY(-50%);background:#fff;border-radius:50px;padding:34px 50px;display:flex;align-items:center;justify-content:space-between;box-shadow:0 30px 80px rgba(78,34,90,0.25);}
+  .search-text{font-style:italic;font-size:42px;font-weight:400;color:#5a2b6e;line-height:1.0;}
+  .search-icon{font-size:38px;color:#5a2b6e;}
+  .arrow-row{position:absolute;top:calc(50% + 90px);left:0;right:0;display:flex;align-items:center;padding-right:380px;}
+  .arrow-line{flex:1;height:1px;background:#fff;}
+  .arrow-head{font-family:"Inter",sans-serif;font-size:34px;color:#fff;margin-left:-8px;font-weight:300;}
+  .handle{position:absolute;bottom:80px;left:80px;font-family:"Cormorant Garamond",serif;font-style:italic;font-size:30px;font-weight:400;color:#fff;letter-spacing:0.08em;}
+  .brand{position:absolute;bottom:80px;right:80px;font-family:"Inter",sans-serif;font-size:18px;font-weight:500;color:#fff;letter-spacing:0.2em;text-transform:uppercase;}
+</style></head>
+<body>
+  <div class="top-line"><div class="line"></div><div class="page">{{pageOf}}</div></div>
+  <div class="search-card">
+    <div class="search-text">{{searchQuery}}</div>
+    <div class="search-icon">⌕</div>
+  </div>
+  <div class="arrow-row"><div class="arrow-line"></div><div class="arrow-head">→</div></div>
+  <div class="handle">{{handle}}</div>
+  <div class="brand">{{brand}}</div>
+</body></html>

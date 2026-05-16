@@ -42,6 +42,10 @@ const FAMILY_LAYOUTS = {
   "bold-split":       { cover: "cover-bold-split",      body: "body-bold-split",      cta: "cta-bold-split" },
   "condensed-pill":   { cover: "cover-condensed-pill",  body: "body-condensed-pill",  cta: "cta-condensed-pill" },
   "photo-split":      { cover: "cover-photo-split",     body: "body-photo-split",     cta: "cta-photo-split" },
+  "y2k-window":       { cover: "cover-y2k-window",      body: "body-y2k-window",      cta: "cta-y2k-window" },
+  "purple-mist":      { cover: "cover-purple-mist",     body: "body-purple-mist",     cta: "cta-purple-mist" },
+  "paper-fold":       { cover: "cover-paper-fold",      body: "body-paper-fold",      cta: "cta-paper-fold" },
+  "blue-italic":      { cover: "cover-blue-italic",     body: "body-blue-italic",     cta: "cta-blue-italic" },
 };
 
 // CTA slot conventions, shared by all families:
@@ -92,6 +96,22 @@ CTA   cta-condensed-pill: brand, eyebrow (2-3 words uppercase letter-spaced "YOU
 COVER cover-photo-split: brand, headline (5-9 words sentence case, fits in 2-3 lines), swipeNote (short instruction, 5-9 words like "Swipe to see the 7 lies brands still believe").
 BODY  body-photo-split: brand, number ("01"-"06"), eyebrow (2-3 words uppercase letter-spaced like "LIE NUMBER" or "STEP" or "TRUTH"), title (3-6 words sentence case), body (2-3 sentences ≤45 words editorial).
 CTA   cta-photo-split: brand, quote (5-9 word punchy quote overlaid on top photo), eyebrow (2-3 words uppercase "YOUR MOVE"/"READY?"), headline (4-7 words sentence case), buttonLabel (2-4 words like "Save this post"), author.`,
+  "y2k-window": `Layouts (peach background, browser-window white card with lime tab + purple drop shadow + chunky black borders — Y2K creator):
+COVER cover-y2k-window: authorInitials (2 letters), authorName, handle, number (digit like "5"), firstWord (1 word, e.g. "Time"), secondLine (1-2 words in purple, e.g. "Management"), thirdLine (1-2 words in purple, e.g. "Tips"), subtitle (3-6 words on small peach chip, e.g. "For Busy Professionals"), websiteUrl (domain like "reallygreatsite.com").
+BODY  body-y2k-window: authorInitials, authorName, handle, number ("1"-"6" plain), title (2-4 words, purple accent, e.g. "Prioritize Important Tasks"), body (1-2 sentences ≤30 words), websiteUrl.
+CTA   cta-y2k-window: authorInitials, authorName, handle, eyebrow (uppercase 2-3 words like "YOUR TURN"), headlineMain (1-2 ALL CAPS words black), accentLine (1-2 ALL CAPS words purple), body (1-2 sentences ≤30 words), buttonLabel (2-4 words like "Save this post"), websiteUrl.`,
+  "purple-mist": `Layouts (radial purple-to-pink gradient bg, floating white pill cards, italic Cormorant serif, thin white lines — calming wellness):
+COVER cover-purple-mist: brand (ALL CAPS letter-spaced), handle, pageOf "1 / 7", searchQuery (5-8 word italic-serif "search bar" phrasing of the topic, e.g. "How to relax when stressed").
+BODY  body-purple-mist: brand, handle, pageOf, stepLabel (uppercase "STEP ONE:" / "STEP TWO:" style), body (1-2 italic-serif sentences ≤30 words centered).
+CTA   cta-purple-mist: brand, handle, eyebrow (uppercase 2-3 words spaced "YOUR RITUAL"), headline (3-5 italic words like "Begin again, gently"), body (1-2 italic-serif sentences ≤30 words), buttonLabel (2-4 uppercase words like "Save This Ritual").`,
+  "paper-fold": `Layouts (cream paper bg with faint horizontal fold + vertical creases, bold sans-serif, orange marker pill highlight, handwritten Caveat accents, hand-drawn orange doodle arrow — editorial entrepreneurship):
+COVER cover-paper-fold: eyebrow (1 uppercase category word like "ENTREPRENEURSHIP" or "PRODUCTIVITY"), headline (6-12 words 3-4 lines bold), ctaText (2-3 handwritten words like "Check details"), author (studio/brand name).
+BODY  body-paper-fold: eyebrow (uppercase category), pageOf, number ("01"-"06"), numberLabel (handwritten 1-2 words like "Tip" or "Step"), title (3-5 words), body (2-3 sentences ≤50 words; include 2-3 words wrapped in <span class="highlight">…</span> for orange marker highlight), author.
+CTA   cta-paper-fold: eyebrow (uppercase 2-3 words like "YOUR TURN"), headline (4-7 bold words), body (1-2 sentences ≤30 words), buttonLabel (2-4 handwritten words like "Get the guide"), author.`,
+  "blue-italic": `Layouts (off-white background, slate-blue Fraunces italic display + slate-blue Inter body + lavender strip highlight + half-circle accent + author chip — content strategist / consultant):
+COVER cover-blue-italic: handle, websiteUrl ("www.x.com" italic), accentLine (1-3 italic-serif words like "3 Tips" / "5 Steps"), sub1 (3-5 words continuing the sentence, e.g. "For becoming"), sub2 (3-5 words, e.g. "a content creator"), strip (3-6 ALL CAPS spaced words, e.g. "IN TODAY'S WORLD"), authorInitials (2 letters), authorName, authorRole (e.g. "Content Strategist").
+BODY  body-blue-italic: handle, websiteUrl, number (italic-serif "1"-"6"), numberLabel (1-2 words like "Step" or "Tip"), title (4-7 words), stripText (2-4 ALL CAPS words), body (2-3 sentences ≤40 words), authorInitials, authorName, authorRole.
+CTA   cta-blue-italic: handle, websiteUrl, eyebrow (uppercase 2-3 spaced words "YOUR TURN"), headline (3-5 italic-serif words), body (1-2 sentences ≤30 words), buttonLabel (2-4 words like "Book a call"), authorInitials, authorName, authorRole.`,
 };
 
 const PROMPT_TEMPLATE = (brief, family) => `You are a carousel planner.
@@ -210,6 +230,34 @@ const BRIEFS = [
   { id: "rebrand-mistakes-split",     family: "photo-split", text: "6 rebrand mistakes that cost startups their best customers." },
   { id: "content-strategy-split",     family: "photo-split", text: "The content strategy that took a B2B brand from 0 to 1M views/year." },
   { id: "client-onboarding-split",    family: "photo-split", text: "The 6-step client onboarding flow that cut churn by 40%." },
+
+  // y2k-window (productivity / time management / creator tips for busy professionals)
+  { id: "time-mgmt-y2k",          family: "y2k-window", text: "5 Time Management Tips for busy professionals who hate calendars." },
+  { id: "deep-focus-y2k",         family: "y2k-window", text: "5 Deep Focus rituals to ship more in fewer hours." },
+  { id: "notion-stack-y2k",       family: "y2k-window", text: "5 Notion Templates every creator uses to run their business." },
+  { id: "morning-stack-y2k",      family: "y2k-window", text: "5 Morning Habits that quietly 10x your week." },
+  { id: "creator-tools-y2k",      family: "y2k-window", text: "5 Free Tools every creator uses to ship daily content." },
+
+  // purple-mist (calming / wellness / mindfulness rituals)
+  { id: "relax-mist",             family: "purple-mist", text: "How to relax when stressed — 5 mindful steps from a therapist." },
+  { id: "sleep-mist",             family: "purple-mist", text: "5 steps to fall asleep faster on anxious nights." },
+  { id: "morning-mist",           family: "purple-mist", text: "5 gentle morning rituals to start the day grounded." },
+  { id: "self-talk-mist",         family: "purple-mist", text: "How to rewrite negative self-talk — 5 calm practices." },
+  { id: "boundaries-mist",        family: "purple-mist", text: "5 soft boundaries that protect your peace without losing people." },
+
+  // paper-fold (founder editorial — checklists, frameworks, entrepreneurial)
+  { id: "founder-checklist-paper",  family: "paper-fold", text: "The Founder's Daily Checklist: how I stay focused and sane." },
+  { id: "first-hire-paper",         family: "paper-fold", text: "The first 5 hires that change everything in your startup." },
+  { id: "raise-money-paper",        family: "paper-fold", text: "How to raise your first round — 6 lessons from a 2nd-time founder." },
+  { id: "validate-idea-paper",      family: "paper-fold", text: "How to validate a startup idea in 14 days — 6 concrete tests." },
+  { id: "weekly-review-paper",      family: "paper-fold", text: "The weekly review framework every founder needs (and most skip)." },
+
+  // blue-italic (consultant / content strategist / B2B professional)
+  { id: "content-creator-blue",     family: "blue-italic", text: "3 Tips for becoming a content creator in today's world." },
+  { id: "consultant-pricing-blue",  family: "blue-italic", text: "How to price consulting work — 5 frameworks that get you paid." },
+  { id: "personal-brand-blue",      family: "blue-italic", text: "5 mistakes killing your personal brand — and what to do instead." },
+  { id: "linkedin-strategy-blue",   family: "blue-italic", text: "The LinkedIn strategy that built me a 6-figure consulting pipeline." },
+  { id: "discovery-call-blue",      family: "blue-italic", text: "How to run a discovery call that closes — 6 questions to ask." },
 ];
 
 // ─── Kimi planner with retry on JSON parse failure ─────────────────────────
@@ -257,11 +305,14 @@ async function pmap(items, limit, fn) {
 // ─── Run ───────────────────────────────────────────────────────────────────
 
 await mkdir(OUT, { recursive: true });
-console.log(`→ Generating ${BRIEFS.length} carousels with concurrency=${CONCURRENCY}`);
+// FAMILIES env var (comma-separated) optionally filters BRIEFS down to those families only.
+const FAMILY_FILTER = process.env.FAMILIES ? new Set(process.env.FAMILIES.split(",").map((s) => s.trim())) : null;
+const RUN_BRIEFS = FAMILY_FILTER ? BRIEFS.filter((b) => FAMILY_FILTER.has(b.family)) : BRIEFS;
+console.log(`→ Generating ${RUN_BRIEFS.length} carousels with concurrency=${CONCURRENCY}${FAMILY_FILTER ? ` (families: ${[...FAMILY_FILTER].join(",")})` : ""}`);
 const startedAt = Date.now();
 
-const results = await pmap(BRIEFS, CONCURRENCY, async ({ id, family, text }, idx) => {
-  const tag = `[${idx + 1}/${BRIEFS.length}] ${id} [${family}]`;
+const results = await pmap(RUN_BRIEFS, CONCURRENCY, async ({ id, family, text }, idx) => {
+  const tag = `[${idx + 1}/${RUN_BRIEFS.length}] ${id} [${family}]`;
   try {
     const spec = await plan(text, family);
     spec.id = id;

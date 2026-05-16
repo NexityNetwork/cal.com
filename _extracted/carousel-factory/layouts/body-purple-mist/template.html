@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;1,400;1,500&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>
+  *{margin:0;padding:0;box-sizing:border-box;}
+  html,body{width:1080px;height:1350px;overflow:hidden;background:radial-gradient(ellipse at 30% 30%, #f1ddee 0%, #c89dcf 45%, #8a4f9a 100%);font-family:"Cormorant Garamond",serif;color:#3a1d4a;-webkit-font-smoothing:antialiased;}
+  .top-line{position:absolute;top:80px;left:0;right:60px;display:flex;align-items:center;}
+  .line{flex:1;height:1px;background:#fff;}
+  .page{font-family:"Inter",sans-serif;font-size:22px;font-weight:400;color:#fff;margin-left:24px;letter-spacing:0.06em;}
+  .card{position:absolute;top:50%;left:120px;right:120px;transform:translateY(-50%);background:#fff;border-radius:30px;padding:60px 60px;text-align:center;box-shadow:0 30px 80px rgba(78,34,90,0.22);}
+  .step-eyebrow{font-family:"Inter",sans-serif;font-size:42px;font-weight:400;color:#5a2b6e;letter-spacing:0.12em;text-transform:uppercase;margin-bottom:28px;}
+  .step-body{font-family:"Cormorant Garamond",serif;font-size:34px;font-weight:400;color:#5a2b6e;line-height:1.4;}
+  .wavy{position:absolute;bottom:280px;left:80px;right:80px;height:60px;}
+  .wavy svg{width:100%;height:100%;}
+  .handle{position:absolute;bottom:80px;left:80px;font-family:"Cormorant Garamond",serif;font-style:italic;font-size:30px;font-weight:400;color:#fff;letter-spacing:0.08em;}
+  .brand{position:absolute;bottom:80px;right:80px;font-family:"Inter",sans-serif;font-size:18px;font-weight:500;color:#fff;letter-spacing:0.2em;text-transform:uppercase;}
+</style></head>
+<body>
+  <div class="top-line"><div class="line"></div><div class="page">{{pageOf}}</div></div>
+  <div class="card">
+    <div class="step-eyebrow">{{stepLabel}}</div>
+    <div class="step-body">{{body}}</div>
+  </div>
+  <div class="wavy">
+    <svg viewBox="0 0 1080 60" preserveAspectRatio="none">
+      <path d="M 0 30 Q 90 0 180 30 T 360 30 T 540 30 T 720 30 T 900 30 T 1080 30" stroke="#fff" stroke-width="1.5" fill="none"/>
+      <polyline points="1060,20 1080,30 1060,40" stroke="#fff" stroke-width="1.5" fill="none"/>
+    </svg>
+  </div>
+  <div class="handle">{{handle}}</div>
+  <div class="brand">{{brand}}</div>
+</body></html>

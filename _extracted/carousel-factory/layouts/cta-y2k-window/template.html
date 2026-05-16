@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;700;800&family=Inter:wght@500;600;700&display=swap" rel="stylesheet">
+<style>
+  *{margin:0;padding:0;box-sizing:border-box;}
+  html,body{width:1080px;height:1350px;overflow:hidden;background:#fce7d3;font-family:"Plus Jakarta Sans",sans-serif;color:#0a0a0a;-webkit-font-smoothing:antialiased;}
+  .sparkle{position:absolute;top:-80px;right:-120px;width:520px;height:520px;background:#d6f548;clip-path:polygon(50% 0%,58% 18%,80% 10%,72% 32%,95% 35%,76% 50%,95% 65%,72% 68%,80% 90%,58% 82%,50% 100%,42% 82%,20% 90%,28% 68%,5% 65%,24% 50%,5% 35%,28% 32%,20% 10%,42% 18%);}
+  .swirl{position:absolute;bottom:-140px;left:-80px;width:380px;height:380px;border:18px solid #c4a8e8;border-radius:50%;border-bottom-color:transparent;border-right-color:transparent;transform:rotate(35deg);}
+  .top-row{position:absolute;top:60px;left:60px;display:flex;align-items:center;gap:20px;z-index:5;}
+  .avatar{width:80px;height:80px;border-radius:50%;background:#c4a8e8;display:flex;align-items:center;justify-content:center;font-size:30px;font-weight:800;color:#0a0a0a;border:3px solid #0a0a0a;}
+  .who .name{font-weight:800;font-size:30px;line-height:1.1;}
+  .who .handle{font-weight:500;font-size:24px;color:#0a0a0a;}
+  .window{position:absolute;top:50%;left:80px;right:80px;transform:translateY(-50%);background:#fff;border:8px solid #0a0a0a;border-radius:28px;box-shadow:18px 18px 0 #c4a8e8;}
+  .tab-bar{height:90px;background:#d6f548;border-bottom:8px solid #0a0a0a;border-radius:18px 18px 0 0;padding:0 30px;display:flex;align-items:center;gap:14px;}
+  .dot{width:24px;height:24px;background:#c4a8e8;border:3px solid #0a0a0a;border-radius:50%;}
+  .content{padding:60px 50px 70px;position:relative;text-align:center;}
+  .eyebrow{font-size:24px;font-weight:700;letter-spacing:0.2em;text-transform:uppercase;color:#0a0a0a;background:#d6f548;display:inline-block;padding:8px 20px;border:3px solid #0a0a0a;border-radius:14px;margin-bottom:30px;}
+  .headline{font-size:110px;font-weight:800;line-height:0.95;letter-spacing:-3px;color:#0a0a0a;margin-bottom:14px;}
+  .accent{display:block;color:#c4a8e8;font-size:96px;line-height:1.0;}
+  .body{font-size:28px;font-weight:500;line-height:1.4;color:#0a0a0a;max-width:760px;margin:30px auto 36px;}
+  .cta{display:inline-block;padding:22px 44px;background:#0a0a0a;color:#d6f548;border-radius:50px;font-size:26px;font-weight:700;letter-spacing:0.04em;border:4px solid #0a0a0a;}
+  .searchbar{position:absolute;bottom:55px;left:60px;right:60px;display:flex;align-items:center;gap:14px;}
+  .search-icon{width:60px;height:60px;background:#d6f548;border:4px solid #0a0a0a;border-radius:30px;display:flex;align-items:center;justify-content:center;font-size:26px;font-weight:700;}
+  .search-pill{flex:1;height:60px;border:4px solid #0a0a0a;border-radius:30px;display:flex;align-items:center;padding:0 28px;font-size:24px;font-weight:600;color:#0a0a0a;background:#fff;}
+</style></head>
+<body>
+  <div class="sparkle"></div>
+  <div class="swirl"></div>
+  <div class="top-row">
+    <div class="avatar">{{authorInitials}}</div>
+    <div class="who"><div class="name">{{authorName}}</div><div class="handle">{{handle}}</div></div>
+  </div>
+  <div class="window">
+    <div class="tab-bar"><div class="dot"></div><div class="dot"></div><div class="dot"></div></div>
+    <div class="content">
+      <div class="eyebrow">{{eyebrow}}</div>
+      <div class="headline">{{headlineMain}}<span class="accent">{{accentLine}}</span></div>
+      <div class="body">{{body}}</div>
+      <div class="cta">{{buttonLabel}} →</div>
+    </div>
+  </div>
+  <div class="searchbar">
+    <div class="search-icon">⌕</div>
+    <div class="search-pill">{{websiteUrl}}</div>
+  </div>
+</body></html>

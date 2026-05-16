@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800;900&family=Caveat:wght@500;700&display=swap" rel="stylesheet">
+<style>
+  *{margin:0;padding:0;box-sizing:border-box;}
+  html,body{width:1080px;height:1350px;overflow:hidden;background:#f4f0e8;font-family:"Inter",sans-serif;color:#0a0a0a;-webkit-font-smoothing:antialiased;}
+  .fold-h{position:absolute;top:340px;left:0;right:0;height:1px;background:rgba(0,0,0,0.06);}
+  .fold-v{position:absolute;top:0;bottom:0;width:1px;background:rgba(0,0,0,0.06);}
+  .fold-v.l{left:36%;}
+  .fold-v.r{right:6%;}
+  .shadow-h{position:absolute;top:330px;left:0;right:0;height:60px;background:linear-gradient(180deg,transparent,rgba(0,0,0,0.04));}
+  .top-row{position:absolute;top:80px;left:80px;right:80px;display:flex;justify-content:space-between;align-items:center;font-size:22px;font-weight:600;color:#0a0a0a;letter-spacing:0.04em;}
+  .top-eyebrow{font-size:22px;font-weight:600;letter-spacing:0.3em;text-transform:uppercase;color:#ee6b1a;}
+  .num-row{position:absolute;top:200px;left:80px;display:flex;align-items:baseline;gap:30px;}
+  .num{font-size:240px;font-weight:900;line-height:0.85;letter-spacing:-6px;color:#0a0a0a;}
+  .num-tag{font-family:"Caveat",cursive;font-size:54px;color:#ee6b1a;line-height:1;font-weight:700;transform:rotate(-3deg);}
+  .title{position:absolute;top:530px;left:80px;right:80px;font-size:78px;font-weight:800;line-height:1.0;letter-spacing:-2px;color:#0a0a0a;}
+  .body{position:absolute;top:810px;left:80px;right:80px;font-size:30px;line-height:1.5;color:#0a0a0a;font-weight:400;}
+  .highlight{position:relative;display:inline;background:linear-gradient(transparent 60%, rgba(238,107,26,0.45) 60%);padding:0 4px;}
+  .author{position:absolute;bottom:80px;left:80px;font-size:22px;font-weight:700;color:#0a0a0a;}
+  .swipe{position:absolute;bottom:80px;right:80px;font-family:"Caveat",cursive;font-size:38px;color:#ee6b1a;font-weight:700;}
+</style></head>
+<body>
+  <div class="fold-h"></div>
+  <div class="shadow-h"></div>
+  <div class="fold-v l"></div>
+  <div class="fold-v r"></div>
+  <div class="top-row"><div class="top-eyebrow">{{eyebrow}}</div><div>{{pageOf}}</div></div>
+  <div class="num-row"><div class="num">{{number}}</div><div class="num-tag">{{numberLabel}}</div></div>
+  <div class="title">{{title}}</div>
+  <div class="body">{{body}}</div>
+  <div class="author">{{author}}</div>
+  <div class="swipe">swipe →</div>
+</body></html>

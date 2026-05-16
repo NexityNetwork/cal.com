@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;1,400;1,500&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>
+  *{margin:0;padding:0;box-sizing:border-box;}
+  html,body{width:1080px;height:1350px;overflow:hidden;background:radial-gradient(ellipse at 30% 30%, #f1ddee 0%, #c89dcf 45%, #8a4f9a 100%);font-family:"Cormorant Garamond",serif;color:#3a1d4a;-webkit-font-smoothing:antialiased;}
+  .top-line{position:absolute;top:80px;left:0;right:60px;display:flex;align-items:center;}
+  .line{flex:1;height:1px;background:#fff;}
+  .page{font-family:"Inter",sans-serif;font-size:22px;font-weight:400;color:#fff;margin-left:24px;letter-spacing:0.06em;}
+  .center{position:absolute;top:50%;left:120px;right:120px;transform:translateY(-50%);text-align:center;}
+  .eyebrow{font-family:"Inter",sans-serif;font-size:22px;font-weight:500;letter-spacing:0.32em;text-transform:uppercase;color:#fff;margin-bottom:30px;}
+  .headline{font-family:"Cormorant Garamond",serif;font-size:130px;font-style:italic;font-weight:400;line-height:0.95;color:#fff;letter-spacing:-2px;margin-bottom:40px;}
+  .body-card{background:#fff;border-radius:24px;padding:36px 44px;font-family:"Cormorant Garamond",serif;font-size:28px;font-weight:400;color:#5a2b6e;line-height:1.4;margin-bottom:40px;font-style:italic;}
+  .cta{display:inline-flex;align-items:center;gap:16px;padding:22px 44px;background:#fff;color:#5a2b6e;border-radius:50px;font-family:"Inter",sans-serif;font-size:22px;font-weight:600;letter-spacing:0.15em;text-transform:uppercase;box-shadow:0 16px 40px rgba(78,34,90,0.25);}
+  .cta-arrow{font-size:24px;}
+  .handle{position:absolute;bottom:80px;left:80px;font-family:"Cormorant Garamond",serif;font-style:italic;font-size:30px;font-weight:400;color:#fff;letter-spacing:0.08em;}
+  .brand{position:absolute;bottom:80px;right:80px;font-family:"Inter",sans-serif;font-size:18px;font-weight:500;color:#fff;letter-spacing:0.2em;text-transform:uppercase;}
+</style></head>
+<body>
+  <div class="top-line"><div class="line"></div><div class="page">END</div></div>
+  <div class="center">
+    <div class="eyebrow">{{eyebrow}}</div>
+    <div class="headline">{{headline}}</div>
+    <div class="body-card">{{body}}</div>
+    <div class="cta">{{buttonLabel}}<span class="cta-arrow">→</span></div>
+  </div>
+  <div class="handle">{{handle}}</div>
+  <div class="brand">{{brand}}</div>
+</body></html>

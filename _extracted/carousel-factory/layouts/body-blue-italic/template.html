@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@1,144,500;1,144,700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  *{margin:0;padding:0;box-sizing:border-box;}
+  html,body{width:1080px;height:1350px;overflow:hidden;background:#f1f1ee;font-family:"Inter",sans-serif;color:#2b3973;-webkit-font-smoothing:antialiased;}
+  .half-circle{position:absolute;top:-220px;left:-220px;width:480px;height:480px;background:#a4b1da;border-radius:50%;}
+  .top{position:absolute;top:80px;left:80px;right:80px;display:flex;justify-content:space-between;align-items:center;font-size:24px;color:#2b3973;}
+  .handle{font-weight:500;}
+  .url{font-family:"Fraunces",serif;font-style:italic;font-weight:500;font-size:26px;}
+  .num-block{position:absolute;top:230px;left:80px;right:80px;display:flex;align-items:baseline;gap:30px;}
+  .num{font-family:"Fraunces",serif;font-style:italic;font-weight:500;font-size:200px;color:#2b3973;line-height:0.9;letter-spacing:-6px;}
+  .num-label{font-size:32px;font-weight:600;color:#2b3973;padding-bottom:24px;letter-spacing:0.04em;}
+  .title{position:absolute;top:500px;left:80px;right:80px;font-size:74px;font-weight:600;color:#2b3973;line-height:1.05;letter-spacing:-1.5px;}
+  .strip{position:absolute;top:770px;left:80px;display:inline-block;padding:10px 22px;background:#a4b1da;color:#2b3973;font-size:24px;font-weight:600;letter-spacing:0.2em;text-transform:uppercase;}
+  .body{position:absolute;top:870px;left:80px;right:80px;font-size:28px;line-height:1.5;color:#2b3973;font-weight:400;}
+  .author{position:absolute;bottom:80px;left:80px;display:flex;align-items:center;gap:18px;}
+  .avatar{width:60px;height:60px;border-radius:50%;background:#a4b1da;border:2px solid #2b3973;display:flex;align-items:center;justify-content:center;font-weight:700;color:#2b3973;font-size:22px;}
+  .author-info .name{font-size:24px;font-weight:700;color:#2b3973;}
+  .author-info .role{font-size:18px;font-weight:500;color:#2b3973;}
+  .swipe{position:absolute;bottom:84px;right:80px;font-size:24px;font-weight:500;color:#2b3973;}
+</style></head>
+<body>
+  <div class="half-circle"></div>
+  <div class="top">
+    <div class="handle">{{handle}}</div>
+    <div class="url">{{websiteUrl}}</div>
+  </div>
+  <div class="num-block">
+    <div class="num">{{number}}</div>
+    <div class="num-label">{{numberLabel}}</div>
+  </div>
+  <div class="title">{{title}}</div>
+  <div class="strip">{{stripText}}</div>
+  <div class="body">{{body}}</div>
+  <div class="author">
+    <div class="avatar">{{authorInitials}}</div>
+    <div class="author-info">
+      <div class="name">{{authorName}}</div>
+      <div class="role">{{authorRole}}</div>
+    </div>
+  </div>
+  <div class="swipe">Swipe ☞</div>
+</body></html>

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@1,144,500;1,144,700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  *{margin:0;padding:0;box-sizing:border-box;}
+  html,body{width:1080px;height:1350px;overflow:hidden;background:#f1f1ee;font-family:"Inter",sans-serif;color:#2b3973;-webkit-font-smoothing:antialiased;}
+  .half-circle{position:absolute;bottom:-280px;right:-280px;width:560px;height:560px;background:#5263a6;border-radius:50%;}
+  .top{position:absolute;top:80px;left:80px;right:80px;display:flex;justify-content:space-between;align-items:center;font-size:24px;color:#2b3973;}
+  .handle{font-weight:500;}
+  .url{font-family:"Fraunces",serif;font-style:italic;font-weight:500;font-size:26px;}
+  .center{position:absolute;top:50%;left:80px;right:80px;transform:translateY(-50%);}
+  .eyebrow{font-size:22px;font-weight:600;letter-spacing:0.32em;text-transform:uppercase;color:#2b3973;margin-bottom:30px;}
+  .headline{font-family:"Fraunces",serif;font-style:italic;font-weight:500;font-size:140px;color:#2b3973;line-height:0.98;letter-spacing:-3px;margin-bottom:36px;}
+  .body{font-size:30px;font-weight:400;color:#2b3973;line-height:1.45;max-width:780px;margin-bottom:50px;}
+  .cta{display:inline-flex;align-items:center;gap:14px;padding:22px 42px;background:#2b3973;color:#f1f1ee;border-radius:14px;font-size:24px;font-weight:600;letter-spacing:0.06em;}
+  .author{position:absolute;bottom:80px;left:80px;display:flex;align-items:center;gap:18px;}
+  .avatar{width:60px;height:60px;border-radius:50%;background:#a4b1da;border:2px solid #2b3973;display:flex;align-items:center;justify-content:center;font-weight:700;color:#2b3973;font-size:22px;}
+  .author-info .name{font-size:24px;font-weight:700;color:#2b3973;}
+  .author-info .role{font-size:18px;font-weight:500;color:#2b3973;}
+  .end{position:absolute;bottom:84px;right:80px;font-size:24px;font-weight:600;letter-spacing:0.2em;text-transform:uppercase;color:#2b3973;}
+</style></head>
+<body>
+  <div class="half-circle"></div>
+  <div class="top">
+    <div class="handle">{{handle}}</div>
+    <div class="url">{{websiteUrl}}</div>
+  </div>
+  <div class="center">
+    <div class="eyebrow">{{eyebrow}}</div>
+    <div class="headline">{{headline}}</div>
+    <div class="body">{{body}}</div>
+    <div class="cta">{{buttonLabel}} →</div>
+  </div>
+  <div class="author">
+    <div class="avatar">{{authorInitials}}</div>
+    <div class="author-info">
+      <div class="name">{{authorName}}</div>
+      <div class="role">{{authorRole}}</div>
+    </div>
+  </div>
+  <div class="end">END</div>
+</body></html>

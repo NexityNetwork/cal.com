@@ -1,3 +1,7 @@
 data/slides/
+data/canva-slides/
 data/manifest.jsonl
+data/canva-manifest.jsonl
 node_modules/
+package-lock.json
+package.json

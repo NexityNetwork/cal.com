@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800;900&family=Caveat:wght@500;700&display=swap" rel="stylesheet">
+<style>
+  *{margin:0;padding:0;box-sizing:border-box;}
+  html,body{width:1080px;height:1350px;overflow:hidden;background:#f4f0e8;font-family:"Inter",sans-serif;color:#0a0a0a;-webkit-font-smoothing:antialiased;}
+  .fold-h{position:absolute;top:340px;left:0;right:0;height:1px;background:rgba(0,0,0,0.06);}
+  .fold-v{position:absolute;top:0;bottom:0;width:1px;background:rgba(0,0,0,0.06);}
+  .fold-v.l{left:36%;}
+  .fold-v.r{right:6%;}
+  .shadow-h{position:absolute;top:330px;left:0;right:0;height:60px;background:linear-gradient(180deg,transparent,rgba(0,0,0,0.04));}
+  .eyebrow{position:absolute;top:120px;left:0;right:0;text-align:center;font-size:24px;font-weight:600;letter-spacing:0.38em;text-transform:uppercase;color:#ee6b1a;}
+  .center{position:absolute;top:50%;left:80px;right:80px;transform:translateY(-50%);text-align:center;}
+  .headline{font-size:110px;font-weight:800;line-height:1.0;letter-spacing:-3px;color:#0a0a0a;margin-bottom:80px;}
+  .cta-row{position:relative;display:inline-block;}
+  .cta-marker{display:inline-block;padding:24px 60px;background:#ee6b1a;border-radius:50px;font-family:"Caveat",cursive;font-size:42px;font-weight:700;color:#0a0a0a;line-height:1;position:relative;transform:rotate(-1.5deg);box-shadow:0 4px 0 rgba(0,0,0,0.04);}
+  .doodle-arrow{position:absolute;top:-30px;right:-130px;width:140px;height:140px;}
+  .author{position:absolute;bottom:90px;left:0;right:0;text-align:center;font-size:26px;font-weight:700;color:#0a0a0a;}
+</style></head>
+<body>
+  <div class="fold-h"></div>
+  <div class="shadow-h"></div>
+  <div class="fold-v l"></div>
+  <div class="fold-v r"></div>
+  <div class="eyebrow">{{eyebrow}}</div>
+  <div class="center">
+    <div class="headline">{{headline}}</div>
+    <div class="cta-row">
+      <span class="cta-marker">{{ctaText}}</span>
+      <svg class="doodle-arrow" viewBox="0 0 140 140">
+        <path d="M 10 110 C 30 70, 70 50, 100 70 C 130 90, 80 100, 70 80 C 60 60, 100 30, 130 20" stroke="#ee6b1a" stroke-width="7" fill="none" stroke-linecap="round"/>
+        <polyline points="115,8 132,18 122,38" stroke="#ee6b1a" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
+    </div>
+  </div>
+  <div class="author">{{author}}</div>
+</body></html>
