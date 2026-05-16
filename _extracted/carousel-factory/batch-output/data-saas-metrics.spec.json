@@ -1,0 +1,193 @@
+{
+  "id": "data-saas-metrics",
+  "brand": "SaaS Benchmarks",
+  "brief": "The 6 SaaS metrics that actually predict survival — with industry medians.",
+  "theme": "data-table",
+  "slides": [
+    {
+      "layoutId": "cover-data-table",
+      "slots": {
+        "pageOf": "1 / 8",
+        "authorInitials": "TK",
+        "authorName": "Tristan K.",
+        "handle": "@tristank",
+        "avatarBg1": "#c4541f",
+        "avatarBg2": "#1a2e35",
+        "eyebrow": "BY THE NUMBERS",
+        "titleLine1": "6 METRICS THAT",
+        "titleAccent": "PREDICT SURVIVAL",
+        "tableHeader": "METRIC",
+        "row1Label": "NRR",
+        "row2Label": "CAC Payback",
+        "row3Label": "Rule of 40",
+        "row1Value": "105%",
+        "row2Value": "15 MO",
+        "row3Value": "40%",
+        "row1Pct": 95,
+        "row2Pct": 65,
+        "row3Pct": 45
+      }
+    },
+    {
+      "layoutId": "body-data-table",
+      "slots": {
+        "pageOf": "2 / 8",
+        "authorInitials": "TK",
+        "authorName": "Tristan K.",
+        "handle": "@tristank",
+        "avatarBg1": "#c4541f",
+        "avatarBg2": "#1a2e35",
+        "number": "01",
+        "numberLabel": "METRIC",
+        "title": "NET REVENUE RETENTION",
+        "metric1Label": "Median",
+        "metric2Label": "Top Quartile",
+        "metric3Label": "Elite",
+        "metric1Value": "105%",
+        "metric2Value": "120%",
+        "metric3Value": "140%",
+        "metric1Pct": 70,
+        "metric2Pct": 85,
+        "metric3Pct": 100,
+        "body": "NRR above 100% means customers expand faster than they churn. It is the purest signal of product-market fit."
+      }
+    },
+    {
+      "layoutId": "body-data-table",
+      "slots": {
+        "pageOf": "3 / 8",
+        "authorInitials": "TK",
+        "authorName": "Tristan K.",
+        "handle": "@tristank",
+        "avatarBg1": "#c4541f",
+        "avatarBg2": "#1a2e35",
+        "number": "02",
+        "numberLabel": "METRIC",
+        "title": "GROSS REVENUE RETENTION",
+        "metric1Label": "Median",
+        "metric2Label": "Top Quartile",
+        "metric3Label": "Elite",
+        "metric1Value": "88%",
+        "metric2Value": "95%",
+        "metric3Value": "98%",
+        "metric1Pct": 85,
+        "metric2Pct": 95,
+        "metric3Pct": 100,
+        "body": "GRR measures revenue kept from existing customers before expansions. Falling below 80% usually signals a leaky bucket."
+      }
+    },
+    {
+      "layoutId": "body-data-table",
+      "slots": {
+        "pageOf": "4 / 8",
+        "authorInitials": "TK",
+        "authorName": "Tristan K.",
+        "handle": "@tristank",
+        "avatarBg1": "#c4541f",
+        "avatarBg2": "#1a2e35",
+        "number": "03",
+        "numberLabel": "METRIC",
+        "title": "CAC PAYBACK PERIOD",
+        "metric1Label": "Median",
+        "metric2Label": "Top Quartile",
+        "metric3Label": "Elite",
+        "metric1Value": "15 MO",
+        "metric2Value": "10 MO",
+        "metric3Value": "6 MO",
+        "metric1Pct": 60,
+        "metric2Pct": 80,
+        "metric3Pct": 100,
+        "body": "Shorter payback periods preserve cash and reduce risk. Aim to recover sales and marketing spend within twelve months."
+      }
+    },
+    {
+      "layoutId": "body-data-table",
+      "slots": {
+        "pageOf": "5 / 8",
+        "authorInitials": "TK",
+        "authorName": "Tristan K.",
+        "handle": "@tristank",
+        "avatarBg1": "#c4541f",
+        "avatarBg2": "#1a2e35",
+        "number": "04",
+        "numberLabel": "METRIC",
+        "title": "LTV TO CAC RATIO",
+        "metric1Label": "Median",
+        "metric2Label": "Top Quartile",
+        "metric3Label": "Elite",
+        "metric1Value": "3x",
+        "metric2Value": "5x",
+        "metric3Value": "8x",
+        "metric1Pct": 40,
+        "metric2Pct": 65,
+        "metric3Pct": 100,
+        "body": "A 3:1 ratio is the minimum viable threshold. Below that, you're spending too much to acquire each dollar of revenue."
+      }
+    },
+    {
+      "layoutId": "body-data-table",
+      "slots": {
+        "pageOf": "6 / 8",
+        "authorInitials": "TK",
+        "authorName": "Tristan K.",
+        "handle": "@tristank",
+        "avatarBg1": "#c4541f",
+        "avatarBg2": "#1a2e35",
+        "number": "05",
+        "numberLabel": "METRIC",
+        "title": "RULE OF FORTY",
+        "metric1Label": "Median",
+        "metric2Label": "Top Quartile",
+        "metric3Label": "Elite",
+        "metric1Value": "25%",
+        "metric2Value": "40%",
+        "metric3Value": "65%",
+        "metric1Pct": 40,
+        "metric2Pct": 65,
+        "metric3Pct": 100,
+        "body": "Growth rate plus profit margin should exceed 40%. It balances scaling fast with sustainable cash management."
+      }
+    },
+    {
+      "layoutId": "body-data-table",
+      "slots": {
+        "pageOf": "7 / 8",
+        "authorInitials": "TK",
+        "authorName": "Tristan K.",
+        "handle": "@tristank",
+        "avatarBg1": "#c4541f",
+        "avatarBg2": "#1a2e35",
+        "number": "06",
+        "numberLabel": "METRIC",
+        "title": "GROSS MARGIN PROFILE",
+        "metric1Label": "Median",
+        "metric2Label": "Top Quartile",
+        "metric3Label": "Elite",
+        "metric1Value": "72%",
+        "metric2Value": "80%",
+        "metric3Value": "88%",
+        "metric1Pct": 75,
+        "metric2Pct": 85,
+        "metric3Pct": 95,
+        "body": "High gross margins fund R&D and sales engines. Below 70% makes classic SaaS unit economics difficult to sustain."
+      }
+    },
+    {
+      "layoutId": "cta-data-table",
+      "slots": {
+        "pageOf": "8 / 8",
+        "authorInitials": "TK",
+        "authorName": "Tristan K.",
+        "handle": "@tristank",
+        "avatarBg1": "#c4541f",
+        "avatarBg2": "#1a2e35",
+        "bigStat": "40%",
+        "eyebrow": "THE RESULT",
+        "headlineLine1": "TRACK THESE",
+        "headlineLine2": "6 METRICS",
+        "body": "Founders who monitor these benchmarks make sharper capital decisions and outlast downturns.",
+        "buttonLabel": "AUDIT YOUR METRICS"
+      }
+    }
+  ]
+}

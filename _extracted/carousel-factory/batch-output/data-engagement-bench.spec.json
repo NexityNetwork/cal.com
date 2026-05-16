@@ -1,0 +1,193 @@
+{
+  "id": "data-engagement-bench",
+  "brand": "Morgan Riley",
+  "brief": "Engagement benchmarks for 2026 — what good, average, and trash actually look like.",
+  "theme": "data-table",
+  "slides": [
+    {
+      "layoutId": "cover-data-table",
+      "slots": {
+        "pageOf": "1 / 8",
+        "authorInitials": "MR",
+        "authorName": "Morgan Riley",
+        "handle": "@morganriley",
+        "avatarBg1": "#c4541f",
+        "avatarBg2": "#f5f1e8",
+        "eyebrow": "BY THE NUMBERS",
+        "titleLine1": "ENGAGEMENT BENCHMARKS",
+        "titleAccent": "FOR 2026",
+        "tableHeader": "CHANNEL",
+        "row1Label": "Email",
+        "row2Label": "LinkedIn",
+        "row3Label": "TikTok",
+        "row1Value": "50%",
+        "row2Value": "10%",
+        "row3Value": "15%",
+        "row1Pct": 100,
+        "row2Pct": 20,
+        "row3Pct": 30
+      }
+    },
+    {
+      "layoutId": "body-data-table",
+      "slots": {
+        "pageOf": "2 / 8",
+        "authorInitials": "MR",
+        "authorName": "Morgan Riley",
+        "handle": "@morganriley",
+        "avatarBg1": "#c4541f",
+        "avatarBg2": "#f5f1e8",
+        "number": "01",
+        "numberLabel": "FINDING",
+        "title": "LINKEDIN PERSONAL POSTS",
+        "metric1Label": "Good",
+        "metric2Label": "Average",
+        "metric3Label": "Trash",
+        "metric1Value": "12%+",
+        "metric2Value": "4%",
+        "metric3Value": "<1%",
+        "metric1Pct": 100,
+        "metric2Pct": 33,
+        "metric3Pct": 8,
+        "body": "Personal accounts outperform pages. Text-only thought leadership still drives the highest comment ratios in B2B."
+      }
+    },
+    {
+      "layoutId": "body-data-table",
+      "slots": {
+        "pageOf": "3 / 8",
+        "authorInitials": "MR",
+        "authorName": "Morgan Riley",
+        "handle": "@morganriley",
+        "avatarBg1": "#c4541f",
+        "avatarBg2": "#f5f1e8",
+        "number": "02",
+        "numberLabel": "FINDING",
+        "title": "INSTAGRAM REELS REACH",
+        "metric1Label": "Good",
+        "metric2Label": "Average",
+        "metric3Label": "Trash",
+        "metric1Value": "8%+",
+        "metric2Value": "3%",
+        "metric3Value": "<0.5%",
+        "metric1Pct": 100,
+        "metric2Pct": 38,
+        "metric3Pct": 6,
+        "body": "Reels under 15 seconds hold attention best. Saves now outweigh likes in the 2026 algorithm."
+      }
+    },
+    {
+      "layoutId": "body-data-table",
+      "slots": {
+        "pageOf": "4 / 8",
+        "authorInitials": "MR",
+        "authorName": "Morgan Riley",
+        "handle": "@morganriley",
+        "avatarBg1": "#c4541f",
+        "avatarBg2": "#f5f1e8",
+        "number": "03",
+        "numberLabel": "FINDING",
+        "title": "TIKTOK ENGAGEMENT RATE",
+        "metric1Label": "Good",
+        "metric2Label": "Average",
+        "metric3Label": "Trash",
+        "metric1Value": "18%+",
+        "metric2Value": "7%",
+        "metric3Value": "<2%",
+        "metric1Pct": 100,
+        "metric2Pct": 39,
+        "metric3Pct": 11,
+        "body": "Hook rate in the first second determines everything. Accounts posting daily see 3x the median reach."
+      }
+    },
+    {
+      "layoutId": "body-data-table",
+      "slots": {
+        "pageOf": "5 / 8",
+        "authorInitials": "MR",
+        "authorName": "Morgan Riley",
+        "handle": "@morganriley",
+        "avatarBg1": "#c4541f",
+        "avatarBg2": "#f5f1e8",
+        "number": "04",
+        "numberLabel": "FINDING",
+        "title": "YOUTUBE LONG-FORM AVD",
+        "metric1Label": "Good",
+        "metric2Label": "Average",
+        "metric3Label": "Trash",
+        "metric1Value": "55%+",
+        "metric2Value": "28%",
+        "metric3Value": "<10%",
+        "metric1Pct": 100,
+        "metric2Pct": 51,
+        "metric3Pct": 18,
+        "body": "Average View Duration is the king metric. Videos over 12 minutes monetize 40% better than shorts."
+      }
+    },
+    {
+      "layoutId": "body-data-table",
+      "slots": {
+        "pageOf": "6 / 8",
+        "authorInitials": "MR",
+        "authorName": "Morgan Riley",
+        "handle": "@morganriley",
+        "avatarBg1": "#c4541f",
+        "avatarBg2": "#f5f1e8",
+        "number": "05",
+        "numberLabel": "FINDING",
+        "title": "EMAIL OPEN RATES",
+        "metric1Label": "Good",
+        "metric2Label": "Average",
+        "metric3Label": "Trash",
+        "metric1Value": "55%+",
+        "metric2Value": "32%",
+        "metric3Value": "<15%",
+        "metric1Pct": 100,
+        "metric2Pct": 58,
+        "metric3Pct": 27,
+        "body": "Subject line personalization lifts opens by 28%. Send time optimization matters more than list size."
+      }
+    },
+    {
+      "layoutId": "body-data-table",
+      "slots": {
+        "pageOf": "7 / 8",
+        "authorInitials": "MR",
+        "authorName": "Morgan Riley",
+        "handle": "@morganriley",
+        "avatarBg1": "#c4541f",
+        "avatarBg2": "#f5f1e8",
+        "number": "06",
+        "numberLabel": "FINDING",
+        "title": "X IMPRESSION TO REPLY",
+        "metric1Label": "Good",
+        "metric2Label": "Average",
+        "metric3Label": "Trash",
+        "metric1Value": "4%+",
+        "metric2Value": "1.2%",
+        "metric3Value": "<0.3%",
+        "metric1Pct": 100,
+        "metric2Pct": 30,
+        "metric3Pct": 8,
+        "body": "Reply ratio is the new engagement metric. Threads with strong hooks generate 5x the profile follows."
+      }
+    },
+    {
+      "layoutId": "cta-data-table",
+      "slots": {
+        "pageOf": "8 / 8",
+        "authorInitials": "MR",
+        "authorName": "Morgan Riley",
+        "handle": "@morganriley",
+        "avatarBg1": "#c4541f",
+        "avatarBg2": "#f5f1e8",
+        "bigStat": "10x",
+        "eyebrow": "THE RESULT",
+        "headlineLine1": "BENCHMARK YOUR",
+        "headlineLine2": "CONTENT NOW",
+        "body": "Stop guessing and start growing. Compare your stats against these 2026 standards today.",
+        "buttonLabel": "GET THE FULL REPORT"
+      }
+    }
+  ]
+}
