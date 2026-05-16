@@ -1,0 +1,140 @@
+{
+  "id": "cream3d-money-printer",
+  "brand": "Morgan Vale",
+  "brief": "Turn your website into a money printer — 6 conversion patterns that pay you while you sleep.",
+  "theme": "cream-3d",
+  "slides": [
+    {
+      "layoutId": "cover-cream-3d",
+      "slots": {
+        "pageOf": "1 / 8",
+        "authorInitials": "MV",
+        "authorName": "Morgan Vale",
+        "handle": "@morganvale",
+        "avatarBg1": "#c4541f",
+        "avatarBg2": "#e07838",
+        "titleLine1": "Turn Your Website",
+        "titleAccent": "Money Printer",
+        "badgeText": "Read in 5 minutes"
+      }
+    },
+    {
+      "layoutId": "body-cream-3d",
+      "slots": {
+        "pageOf": "2 / 8",
+        "authorInitials": "MV",
+        "authorName": "Morgan Vale",
+        "handle": "@morganvale",
+        "avatarBg1": "#c4541f",
+        "avatarBg2": "#e07838",
+        "numberLabel": "PATTERN 01",
+        "title": "Erase Every Objection",
+        "body": "Remove risk with bold guarantees and trial offers. Shoppers buy faster when they feel safe.",
+        "tipLabel": "PRO TIP",
+        "tipBody": "Double your guarantee period to slash refunds.",
+        "shapeLabel": "Trust multiplier"
+      }
+    },
+    {
+      "layoutId": "body-cream-3d",
+      "slots": {
+        "pageOf": "3 / 8",
+        "authorInitials": "MV",
+        "authorName": "Morgan Vale",
+        "handle": "@morganvale",
+        "avatarBg1": "#c4541f",
+        "avatarBg2": "#e07838",
+        "numberLabel": "PATTERN 02",
+        "title": "Stack The Upsell",
+        "body": "Offer a complementary upgrade right after the checkout click. Small bumps add 20–30% revenue instantly.",
+        "tipLabel": "PRO TIP",
+        "tipBody": "Price the bump at 15–30% of the main offer.",
+        "shapeLabel": "Revenue booster"
+      }
+    },
+    {
+      "layoutId": "body-cream-3d",
+      "slots": {
+        "pageOf": "4 / 8",
+        "authorInitials": "MV",
+        "authorName": "Morgan Vale",
+        "handle": "@morganvale",
+        "avatarBg1": "#c4541f",
+        "avatarBg2": "#e07838",
+        "numberLabel": "PATTERN 03",
+        "title": "Catch The Exit",
+        "body": "Trigger a last-chance offer when the mouse heads to close. This recaptures 10–15% of abandoning visitors.",
+        "tipLabel": "PRO TIP",
+        "tipBody": "Lead with a surprise discount, not an email gate.",
+        "shapeLabel": "Lead recovery"
+      }
+    },
+    {
+      "layoutId": "body-cream-3d",
+      "slots": {
+        "pageOf": "5 / 8",
+        "authorInitials": "MV",
+        "authorName": "Morgan Vale",
+        "handle": "@morganvale",
+        "avatarBg1": "#c4541f",
+        "avatarBg2": "#e07838",
+        "numberLabel": "PATTERN 04",
+        "title": "Add Real Scarcity",
+        "body": "Show genuine stock counters or limited-time deadlines. Urgency forces faster decisions than persuasion alone.",
+        "tipLabel": "PRO TIP",
+        "tipBody": "Never fake scarcity because trust dies when timers reset.",
+        "shapeLabel": "Urgency engine"
+      }
+    },
+    {
+      "layoutId": "body-cream-3d",
+      "slots": {
+        "pageOf": "6 / 8",
+        "authorInitials": "MV",
+        "authorName": "Morgan Vale",
+        "handle": "@morganvale",
+        "avatarBg1": "#c4541f",
+        "avatarBg2": "#e07838",
+        "numberLabel": "PATTERN 05",
+        "title": "Prove The Result",
+        "body": "Place recent sales notifications and star reviews near your buttons. Proof cuts doubt before it becomes hesitation.",
+        "tipLabel": "PRO TIP",
+        "tipBody": "Update timestamps to just now for maximum impact.",
+        "shapeLabel": "Credibility loop"
+      }
+    },
+    {
+      "layoutId": "body-cream-3d",
+      "slots": {
+        "pageOf": "7 / 8",
+        "authorInitials": "MV",
+        "authorName": "Morgan Vale",
+        "handle": "@morganvale",
+        "avatarBg1": "#c4541f",
+        "avatarBg2": "#e07838",
+        "numberLabel": "PATTERN 06",
+        "title": "Build Recurring Revenue",
+        "body": "Convert one-time buyers into monthly members with a value-packed subscription. Recurring cash smooths out feast-or-famine cycles.",
+        "tipLabel": "PRO TIP",
+        "tipBody": "Anchor the yearly plan at 2x the monthly price to nudge annual commits.",
+        "shapeLabel": "Cash flow growth"
+      }
+    },
+    {
+      "layoutId": "cta-cream-3d",
+      "slots": {
+        "pageOf": "8 / 8",
+        "authorInitials": "MV",
+        "authorName": "Morgan Vale",
+        "handle": "@morganvale",
+        "avatarBg1": "#c4541f",
+        "avatarBg2": "#e07838",
+        "eyebrow": "YOUR MOVE",
+        "headlineLine1": "Start Printing",
+        "headlineAccent": "Cash Tonight",
+        "body": "Pick one pattern and deploy it before midnight. Your website should work while you sleep.",
+        "buttonLabel": "Upgrade My Site Now"
+      }
+    }
+  ]
+}

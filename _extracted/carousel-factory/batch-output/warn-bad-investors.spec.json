@@ -1,0 +1,135 @@
+{
+  "id": "warn-bad-investors",
+  "brand": "Marcus K.",
+  "brief": "6 investor red flags founders learn the hard way — avoid these at all costs.",
+  "theme": "black-warning",
+  "slides": [
+    {
+      "layoutId": "cover-black-warning",
+      "slots": {
+        "warningLabel": "DON'T MAKE THIS MISTAKE",
+        "headlineLine1": "Stop Ignoring",
+        "headlineLine2": "These Red Flags",
+        "headlineAccent": "Investors See",
+        "body": "Six warning signs that silently kill deals before founders even realize what went wrong.",
+        "authorInitials": "MK",
+        "authorName": "Marcus K.",
+        "handle": "@marcuskventures",
+        "avatarBg1": "#ff4757",
+        "avatarBg2": "#2f3542"
+      }
+    },
+    {
+      "layoutId": "body-black-warning",
+      "slots": {
+        "pageOf": "1 / 6",
+        "number": "1",
+        "titleLine1": "Solve a Real",
+        "titleAccent": "Pain Point",
+        "body": "Investors hear hundreds of pitches monthly. If your startup doesn't address a burning problem, they tune out instantly and move on.",
+        "quote": "'Nice to have' products rarely get funded.",
+        "authorInitials": "MK",
+        "authorName": "Marcus K.",
+        "handle": "@marcuskventures",
+        "avatarBg1": "#ff4757",
+        "avatarBg2": "#2f3542"
+      }
+    },
+    {
+      "layoutId": "body-black-warning",
+      "slots": {
+        "pageOf": "2 / 6",
+        "number": "2",
+        "titleLine1": "Fantasy Hockey Stick",
+        "titleAccent": "Projections Fail",
+        "body": "Wild revenue forecasts without grounded assumptions destroy credibility instantly. Investors prefer conservative models based on real traction data and logic.",
+        "quote": "Hope is not a financial strategy.",
+        "authorInitials": "MK",
+        "authorName": "Marcus K.",
+        "handle": "@marcuskventures",
+        "avatarBg1": "#ff4757",
+        "avatarBg2": "#2f3542"
+      }
+    },
+    {
+      "layoutId": "body-black-warning",
+      "slots": {
+        "pageOf": "3 / 6",
+        "number": "3",
+        "titleLine1": "You Can't Build",
+        "titleAccent": "It Alone",
+        "body": "A brilliant idea means nothing without execution. Solo founders or thin teams signal risk, burnout, and critical skill gaps to investors.",
+        "quote": "Investors bet on teams, not just ideas.",
+        "authorInitials": "MK",
+        "authorName": "Marcus K.",
+        "handle": "@marcuskventures",
+        "avatarBg1": "#ff4757",
+        "avatarBg2": "#2f3542"
+      }
+    },
+    {
+      "layoutId": "body-black-warning",
+      "slots": {
+        "pageOf": "4 / 6",
+        "number": "4",
+        "titleLine1": "Ignoring Unit",
+        "titleAccent": "Economics Kills",
+        "body": "Losing money on every sale with no clear path to positive margins is a death sentence. Scale magnifies losses, not magic.",
+        "quote": "You can't growth-hack your way to profit.",
+        "authorInitials": "MK",
+        "authorName": "Marcus K.",
+        "handle": "@marcuskventures",
+        "avatarBg1": "#ff4757",
+        "avatarBg2": "#2f3542"
+      }
+    },
+    {
+      "layoutId": "body-black-warning",
+      "slots": {
+        "pageOf": "5 / 6",
+        "number": "5",
+        "titleLine1": "A Dirty Cap",
+        "titleAccent": "Table Scares",
+        "body": "Overly complex equity splits, dead cofounders, or excessive early advisors dilute value. Clean ownership structures prove you think long-term.",
+        "quote": "Messy equity signals messy decision making.",
+        "authorInitials": "MK",
+        "authorName": "Marcus K.",
+        "handle": "@marcuskventures",
+        "avatarBg1": "#ff4757",
+        "avatarBg2": "#2f3542"
+      }
+    },
+    {
+      "layoutId": "body-black-warning",
+      "slots": {
+        "pageOf": "6 / 6",
+        "number": "6",
+        "titleLine1": "Saying You Have",
+        "titleAccent": "No Competition",
+        "body": "Claiming a blue ocean without competitors reveals arrogance and poor research. Every market has alternatives, even if they are indirect.",
+        "quote": "Ignorance of competition is not a moat.",
+        "authorInitials": "MK",
+        "authorName": "Marcus K.",
+        "handle": "@marcuskventures",
+        "avatarBg1": "#ff4757",
+        "avatarBg2": "#2f3542"
+      }
+    },
+    {
+      "layoutId": "cta-black-warning",
+      "slots": {
+        "pageOf": "8 / 8",
+        "eyebrow": "LAST WARNING",
+        "headlineLine1": "Fix These",
+        "headlineAccent": "Before You Pitch",
+        "body": "Review your deck tonight and remove these red flags before your next investor meeting. First impressions are irreversible.",
+        "buttonLabel": "Audit your deck today",
+        "authorInitials": "MK",
+        "authorName": "Marcus K.",
+        "handle": "@marcuskventures",
+        "avatarBg1": "#ff4757",
+        "avatarBg2": "#2f3542"
+      }
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "id": "cream3d-side-income",
+  "brand": "Solo Founder Stack",
+  "brief": "6 side-income streams a solo founder can ship in a weekend — real numbers.",
+  "theme": "cream-3d",
+  "slides": [
+    {
+      "layoutId": "cover-cream-3d",
+      "slots": {
+        "pageOf": "1 / 8",
+        "authorInitials": "TK",
+        "authorName": "Tomi K.",
+        "handle": "@tomiknows",
+        "avatarBg1": "#c4541f",
+        "avatarBg2": "#e07838",
+        "titleLine1": "Six Solo Streams",
+        "titleAccent": "Ship Fast",
+        "badgeText": "Read in 5 minutes"
+      }
+    },
+    {
+      "layoutId": "body-cream-3d",
+      "slots": {
+        "pageOf": "2 / 8",
+        "authorInitials": "TK",
+        "authorName": "Tomi K.",
+        "handle": "@tomiknows",
+        "avatarBg1": "#c4541f",
+        "avatarBg2": "#e07838",
+        "numberLabel": "STREAM 01",
+        "title": "Sell a Notion Template",
+        "body": "Build a productivity dashboard in 6 hours. Price it at $19–$49 and list on Gumroad. One creator cleared $8K in a single month with zero ad spend.",
+        "tipLabel": "PRO TIP",
+        "tipBody": "Validate first: tweet the mockup and pre-sell five copies before you build.",
+        "shapeLabel": "Digital product"
+      }
+    },
+    {
+      "layoutId": "body-cream-3d",
+      "slots": {
+        "pageOf": "3 / 8",
+        "authorInitials": "TK",
+        "authorName": "Tomi K.",
+        "handle": "@tomiknows",
+        "avatarBg1": "#c4541f",
+        "avatarBg2": "#e07838",
+        "numberLabel": "STREAM 02",
+        "title": "Ship a Micro-SaaS Tool",
+        "body": "Spin up a single-feature API wrapper with Next.js in one weekend. Charge $9 per month. A solo dev hit $2.3K MRR in 90 days solving one painful CSV task.",
+        "tipLabel": "PRO TIP",
+        "tipBody": "Use Stripe Checkout and Vercel to avoid devops entirely.",
+        "shapeLabel": "Recurring revenue"
+      }
+    },
+    {
+      "layoutId": "body-cream-3d",
+      "slots": {
+        "pageOf": "4 / 8",
+        "authorInitials": "TK",
+        "authorName": "Tomi K.",
+        "handle": "@tomiknows",
+        "avatarBg1": "#c4541f",
+        "avatarBg2": "#e07838",
+        "numberLabel": "STREAM 03",
+        "title": "Launch a Paid Newsletter",
+        "body": "Curate niche insights for founders and gate the deep dives. Substack makes billing trivial. Top solo writers earn $5K–$20K monthly inside six months.",
+        "tipLabel": "PRO TIP",
+        "tipBody": "Write three free posts first, then flip the paywall on the fourth.",
+        "shapeLabel": "Audience cashflow"
+      }
+    },
+    {
+      "layoutId": "body-cream-3d",
+      "slots": {
+        "pageOf": "5 / 8",
+        "authorInitials": "TK",
+        "authorName": "Tomi K.",
+        "handle": "@tomiknows",
+        "avatarBg1": "#c4541f",
+        "avatarBg2": "#e07838",
+        "numberLabel": "STREAM 04",
+        "title": "Drop a UI Icon Pack",
+        "body": "Design 60 icons in Figma, export as SVG and font. Sell on Creative Market for $29 per license. One designer netted $4K in the opening weekend.",
+        "tipLabel": "PRO TIP",
+        "tipBody": "Target a trending framework like Tailwind or Framer.",
+        "shapeLabel": "Design asset"
+      }
+    },
+    {
+      "layoutId": "body-cream-3d",
+      "slots": {
+        "pageOf": "6 / 8",
+        "authorInitials": "TK",
+        "authorName": "Tomi K.",
+        "handle": "@tomiknows",
+        "avatarBg1": "#c4541f",
+        "avatarBg2": "#e07838",
+        "numberLabel": "STREAM 05",
+        "title": "Sell Weekend Audits",
+        "body": "Offer a 48-hour teardown of landing pages or onboarding flows. Price at $300–$500. Founders pay for speed and a fresh pair of eyes.",
+        "tipLabel": "PRO TIP",
+        "tipBody": "Record a Loom instead of a PDF to cut delivery time in half.",
+        "shapeLabel": "Service income"
+      }
+    },
+    {
+      "layoutId": "body-cream-3d",
+      "slots": {
+        "pageOf": "7 / 8",
+        "authorInitials": "TK",
+        "authorName": "Tomi K.",
+        "handle": "@tomiknows",
+        "avatarBg1": "#c4541f",
+        "avatarBg2": "#e07838",
+        "numberLabel": "STREAM 06",
+        "title": "Publish a Mini Ebook",
+        "body": "Compile your top 20 tweets into a tactical PDF using Canva. Sell it for $15. A founder shipped one in a day and made $1,200 the first week.",
+        "tipLabel": "PRO TIP",
+        "tipBody": "Add a Notion bonus to double perceived value instantly.",
+        "shapeLabel": "Info product"
+      }
+    },
+    {
+      "layoutId": "cta-cream-3d",
+      "slots": {
+        "pageOf": "8 / 8",
+        "authorInitials": "TK",
+        "authorName": "Tomi K.",
+        "handle": "@tomiknows",
+        "avatarBg1": "#c4541f",
+        "avatarBg2": "#e07838",
+        "eyebrow": "YOUR MOVE",
+        "headlineLine1": "Pick One",
+        "headlineAccent": "Ship This Weekend",
+        "body": "Stop researching and start building. Reply with the number you are launching first.",
+        "buttonLabel": "Save This Carousel"
+      }
+    }
+  ]
+}
