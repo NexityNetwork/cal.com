@@ -1,0 +1,119 @@
+{
+  "id": "creator-os",
+  "brand": "Creator OS",
+  "brief": "The creator OS that runs my 6-figure newsletter — tools, flows, nightly habits.",
+  "theme": "neon-dark",
+  "slides": [
+    {
+      "layoutId": "cover-neon-dark",
+      "slots": {
+        "handle": "@creator",
+        "badgeLabel": "CREATOR OS",
+        "tag": "THREAD",
+        "neonWord": "BUILD",
+        "headlineLine2": "the machine",
+        "tealLine": "that scales",
+        "subline": "The exact tools, flows and nightly habits behind a 6-figure newsletter. No fluff.",
+        "ctaLabel": "Read the thread",
+        "totalSlides": "7"
+      }
+    },
+    {
+      "layoutId": "body-neon-dark",
+      "slots": {
+        "handle": "@creator",
+        "pageOf": "02 / 07",
+        "number": "1",
+        "titleLabel": "THE STACK",
+        "titleMain": "One tool",
+        "titleAccent": "rules all",
+        "body": "Notion runs my entire editorial calendar, content pipeline and sponsor tracker. One database, zero chaos.",
+        "slideNum": "02",
+        "totalSlides": "7"
+      }
+    },
+    {
+      "layoutId": "body-neon-dark",
+      "slots": {
+        "handle": "@creator",
+        "pageOf": "03 / 07",
+        "number": "2",
+        "titleLabel": "THE FLOW",
+        "titleMain": "Capture ideas",
+        "titleAccent": "in seconds",
+        "body": "Voice memos while walking. Auto-transcribed into Notion. By morning, raw thoughts become outlined drafts.",
+        "slideNum": "03",
+        "totalSlides": "7"
+      }
+    },
+    {
+      "layoutId": "body-neon-dark",
+      "slots": {
+        "handle": "@creator",
+        "pageOf": "04 / 07",
+        "number": "3",
+        "titleLabel": "NIGHT SHIFT",
+        "titleMain": "Prep tomorrow",
+        "titleAccent": "tonight",
+        "body": "Every night I queue the next day's send, write the hook, and close the laptop. Mornings are for execution only.",
+        "slideNum": "04",
+        "totalSlides": "7"
+      }
+    },
+    {
+      "layoutId": "body-neon-dark",
+      "slots": {
+        "handle": "@creator",
+        "pageOf": "05 / 07",
+        "number": "4",
+        "titleLabel": "GROWTH LOOP",
+        "titleMain": "Readers multiply",
+        "titleAccent": "on autopilot",
+        "body": "A dedicated landing page, a lead magnet, and one CTA at the bottom of every issue. Simple, relentless, profitable.",
+        "slideNum": "05",
+        "totalSlides": "7"
+      }
+    },
+    {
+      "layoutId": "body-neon-dark",
+      "slots": {
+        "handle": "@creator",
+        "pageOf": "06 / 07",
+        "number": "5",
+        "titleLabel": "WEEKLY AUDIT",
+        "titleMain": "Data tells",
+        "titleAccent": "the truth",
+        "body": "Open rate, click rate, reply rate. I review them every Sunday for fifteen minutes, then adjust the next week.",
+        "slideNum": "06",
+        "totalSlides": "7"
+      }
+    },
+    {
+      "layoutId": "body-neon-dark",
+      "slots": {
+        "handle": "@creator",
+        "pageOf": "07 / 07",
+        "number": "6",
+        "titleLabel": "THE BUSINESS",
+        "titleMain": "Sponsors come",
+        "titleAccent": "to me",
+        "body": "A Notion CRM tracks inbound, rates, and deadlines. I never chase. The system qualifies brands while I sleep.",
+        "slideNum": "07",
+        "totalSlides": "7"
+      }
+    },
+    {
+      "layoutId": "cta-neon-dark",
+      "slots": {
+        "handle": "@creator",
+        "pageOf": "08 / 07",
+        "eyebrow": "YOUR MOVE",
+        "headlineNeon": "SAVE",
+        "headlineWhite": "this post",
+        "body": "Steal this system, adapt it, and start building your own newsletter empire tonight.",
+        "buttonLabel": "Save this post",
+        "secondaryLabel": "// follow @creator"
+      }
+    }
+  ]
+}

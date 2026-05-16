@@ -1,0 +1,113 @@
+{
+  "id": "slow-growth",
+  "brand": "Slow Foundry",
+  "brief": "6 principles of slow growth — building a business that doesn't devour your life.",
+  "theme": "terracotta",
+  "slides": [
+    {
+      "layoutId": "cover-terracotta",
+      "slots": {
+        "eyebrow": "FOUNDER",
+        "titleLine1": "Slow",
+        "titleLine2": "Growth,",
+        "titleLine3": "Real Life",
+        "subtitle": "Six principles to build a calm, profitable business that honors your energy and the life you want.",
+        "ctaLabel": "Read below",
+        "handle": "@slowfoundry",
+        "author": "Slow Foundry",
+        "slideCount": "6"
+      }
+    },
+    {
+      "layoutId": "body-terracotta",
+      "slots": {
+        "author": "Slow Foundry",
+        "pageOf": "1/6",
+        "number": "01",
+        "numberLabel": "Principle",
+        "titleMain": "Protect Your",
+        "titleItalic": "Deep Work",
+        "body": "Guard the hours where you actually build. Constant availability fragments your mind and steals the focus that moves real work forward. Schedule creation time like it is your most important meeting.",
+        "handle": "@slowfoundry"
+      }
+    },
+    {
+      "layoutId": "body-terracotta",
+      "slots": {
+        "author": "Slow Foundry",
+        "pageOf": "2/6",
+        "number": "02",
+        "numberLabel": "Truth",
+        "titleMain": "Boundaries Beat",
+        "titleItalic": "Burnout",
+        "body": "You cannot pour from an empty cup, yet founders ignore this daily. Set clear hours and honor them without guilt. A business that respects your limits will outlast one that ignores them.",
+        "handle": "@slowfoundry"
+      }
+    },
+    {
+      "layoutId": "body-terracotta",
+      "slots": {
+        "author": "Slow Foundry",
+        "pageOf": "3/6",
+        "number": "03",
+        "numberLabel": "Shift",
+        "titleMain": "Profit Over",
+        "titleItalic": "Pace",
+        "body": "Growth for growth's sake is a trap that exhausts your resources. Choose sustainable margins and mindful scaling over vanity metrics. A slower profit is still real money—and real freedom.",
+        "handle": "@slowfoundry"
+      }
+    },
+    {
+      "layoutId": "body-terracotta",
+      "slots": {
+        "author": "Slow Foundry",
+        "pageOf": "4/6",
+        "number": "04",
+        "numberLabel": "Rule",
+        "titleMain": "Systems Create",
+        "titleItalic": "Slack",
+        "body": "Manual effort does not make you noble; it makes you tired. Build simple processes that handle repetitive tasks without your presence. True leverage comes from the space systems open up.",
+        "handle": "@slowfoundry"
+      }
+    },
+    {
+      "layoutId": "body-terracotta",
+      "slots": {
+        "author": "Slow Foundry",
+        "pageOf": "5/6",
+        "number": "05",
+        "numberLabel": "Habit",
+        "titleMain": "Rest is",
+        "titleItalic": "Resource",
+        "body": "Downtime is not the opposite of productivity; it is its foundation. Sleep, walks, and stillness replenish the judgment you sell to clients. Protect rest with the same rigor you protect revenue.",
+        "handle": "@slowfoundry"
+      }
+    },
+    {
+      "layoutId": "body-terracotta",
+      "slots": {
+        "author": "Slow Foundry",
+        "pageOf": "6/6",
+        "number": "06",
+        "numberLabel": "Wisdom",
+        "titleMain": "Serve Your",
+        "titleItalic": "Season",
+        "body": "Your business should flex around your life, not flatten it. There are seasons for sprinting and seasons for tending. Honor where you are, and let your ambition match your capacity.",
+        "handle": "@slowfoundry"
+      }
+    },
+    {
+      "layoutId": "cta-terracotta",
+      "slots": {
+        "author": "Slow Foundry",
+        "pageOf": "8/8",
+        "eyebrow": "YOUR TURN",
+        "headlineMain": "Begin Your",
+        "headlineItalic": "slow growth",
+        "body": "Pick one principle and practice it this week. Small shifts compound into a business that truly fits your life.",
+        "buttonLabel": "Save this post",
+        "handle": "@slowfoundry"
+      }
+    }
+  ]
+}

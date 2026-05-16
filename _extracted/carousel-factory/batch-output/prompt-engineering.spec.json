@@ -1,0 +1,119 @@
+{
+  "id": "prompt-engineering",
+  "brand": "NeonPrompt",
+  "brief": "5 prompt engineering patterns that separate amateurs from pros in 2026.",
+  "theme": "neon-dark",
+  "slides": [
+    {
+      "layoutId": "cover-neon-dark",
+      "slots": {
+        "handle": "@neonprompt",
+        "badgeLabel": "AI WORKFLOW",
+        "tag": "THREAD",
+        "neonWord": "STOP",
+        "headlineLine2": "guessing prompts",
+        "tealLine": "in 2026",
+        "subline": "Five engineering patterns that turn lazy prompts into precision instruments. Master them before the algorithm masters you.",
+        "ctaLabel": "Read the thread",
+        "totalSlides": "8"
+      }
+    },
+    {
+      "layoutId": "body-neon-dark",
+      "slots": {
+        "handle": "@neonprompt",
+        "pageOf": "02 / 08",
+        "number": "1",
+        "titleLabel": "MINDSET",
+        "titleMain": "Amateurs ask.",
+        "titleAccent": "Pros engineer.",
+        "body": "In 2026, chat is not a search bar. Pros treat prompts as executable code, not polite requests. Structure wins.",
+        "slideNum": "02",
+        "totalSlides": "8"
+      }
+    },
+    {
+      "layoutId": "body-neon-dark",
+      "slots": {
+        "handle": "@neonprompt",
+        "pageOf": "03 / 08",
+        "number": "2",
+        "titleLabel": "PATTERN 01",
+        "titleMain": "Meta-prompt your",
+        "titleAccent": "prompt first",
+        "body": "Before generating output, ask the model to critique and rewrite your prompt for clarity. A sharper input always guarantees a sharper result.",
+        "slideNum": "03",
+        "totalSlides": "8"
+      }
+    },
+    {
+      "layoutId": "body-neon-dark",
+      "slots": {
+        "handle": "@neonprompt",
+        "pageOf": "04 / 08",
+        "number": "3",
+        "titleLabel": "PATTERN 02",
+        "titleMain": "Split into",
+        "titleAccent": "parallel agents",
+        "body": "Don't dump complex tasks into one prompt. Break them into specialized sub-agents that run in parallel, then synthesize their outputs into one coherent final draft.",
+        "slideNum": "04",
+        "totalSlides": "8"
+      }
+    },
+    {
+      "layoutId": "body-neon-dark",
+      "slots": {
+        "handle": "@neonprompt",
+        "pageOf": "05 / 08",
+        "number": "4",
+        "titleLabel": "PATTERN 03",
+        "titleMain": "Anchor with",
+        "titleAccent": "live examples",
+        "body": "Static few-shot is dead. Inject dynamically retrieved examples that match the current context. Relevance beats volume when you want consistent tone and format.",
+        "slideNum": "05",
+        "totalSlides": "8"
+      }
+    },
+    {
+      "layoutId": "body-neon-dark",
+      "slots": {
+        "handle": "@neonprompt",
+        "pageOf": "06 / 08",
+        "number": "5",
+        "titleLabel": "PATTERN 04",
+        "titleMain": "Force red-team",
+        "titleAccent": "verification",
+        "body": "Ask the model to argue against its own answer before finalizing. One adversarial pass catches hallucinations, logic gaps, and bias that linear generation misses.",
+        "slideNum": "06",
+        "totalSlides": "8"
+      }
+    },
+    {
+      "layoutId": "body-neon-dark",
+      "slots": {
+        "handle": "@neonprompt",
+        "pageOf": "07 / 08",
+        "number": "6",
+        "titleLabel": "PATTERN 05",
+        "titleMain": "Budget your",
+        "titleAccent": "context tokens",
+        "body": "Treat your context window like RAM. Explicitly allocate tokens to role, constraints, examples, and output format. Waste nothing, gain precision.",
+        "slideNum": "07",
+        "totalSlides": "8"
+      }
+    },
+    {
+      "layoutId": "cta-neon-dark",
+      "slots": {
+        "handle": "@neonprompt",
+        "pageOf": "08 / 08",
+        "eyebrow": "YOUR MOVE",
+        "headlineNeon": "SAVE",
+        "headlineWhite": "this thread",
+        "body": "Start engineering your prompts like a pro. The amateurs are already falling behind.",
+        "buttonLabel": "Save this post",
+        "secondaryLabel": "// follow @neonprompt"
+      }
+    }
+  ]
+}

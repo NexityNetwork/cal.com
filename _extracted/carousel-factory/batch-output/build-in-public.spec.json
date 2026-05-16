@@ -1,0 +1,119 @@
+{
+  "id": "build-in-public",
+  "brand": "Creator",
+  "brief": "Why building in public compounded faster than ads — 6 lessons from 0 to 80K.",
+  "theme": "neon-dark",
+  "slides": [
+    {
+      "layoutId": "cover-neon-dark",
+      "slots": {
+        "handle": "@handle",
+        "badgeLabel": "CASE STUDY",
+        "tag": "THREAD",
+        "neonWord": "BUILD",
+        "headlineLine2": "in public",
+        "tealLine": "not ads",
+        "subline": "I went from 0 to 80K by building in public. Here are 6 lessons that compounded faster than any ad spend.",
+        "ctaLabel": "Read the thread",
+        "totalSlides": "7"
+      }
+    },
+    {
+      "layoutId": "body-neon-dark",
+      "slots": {
+        "handle": "@handle",
+        "pageOf": "02 / 07",
+        "number": "1",
+        "titleLabel": "THE PROCESS",
+        "titleMain": "Document don't",
+        "titleAccent": "create",
+        "body": "Share your messy process, not just polished results. People follow journeys, not highlight reels.",
+        "slideNum": "02",
+        "totalSlides": "7"
+      }
+    },
+    {
+      "layoutId": "body-neon-dark",
+      "slots": {
+        "handle": "@handle",
+        "pageOf": "03 / 07",
+        "number": "2",
+        "titleLabel": "CONSISTENCY",
+        "titleMain": "Show up",
+        "titleAccent": "every day",
+        "body": "Virality is a lottery; consistency is a skill. One post a day builds more trust than one viral hit a month.",
+        "slideNum": "03",
+        "totalSlides": "7"
+      }
+    },
+    {
+      "layoutId": "body-neon-dark",
+      "slots": {
+        "handle": "@handle",
+        "pageOf": "04 / 07",
+        "number": "3",
+        "titleLabel": "TEACHING",
+        "titleMain": "Teach what you",
+        "titleAccent": "just learned",
+        "body": "You don't need to be an expert to teach. Sharing yesterday's lesson compounds into tomorrow's authority.",
+        "slideNum": "04",
+        "totalSlides": "7"
+      }
+    },
+    {
+      "layoutId": "body-neon-dark",
+      "slots": {
+        "handle": "@handle",
+        "pageOf": "05 / 07",
+        "number": "4",
+        "titleLabel": "ENGAGEMENT",
+        "titleMain": "Reply like a",
+        "titleAccent": "real human",
+        "body": "Don't just broadcast. Reply to every comment like you're texting a friend. Conversations build communities.",
+        "slideNum": "05",
+        "totalSlides": "7"
+      }
+    },
+    {
+      "layoutId": "body-neon-dark",
+      "slots": {
+        "handle": "@handle",
+        "pageOf": "06 / 07",
+        "number": "5",
+        "titleLabel": "METRICS",
+        "titleMain": "Share the",
+        "titleAccent": "ugly numbers",
+        "body": "Post your zero-dollar revenue and your failures. Radical transparency turns lurkers into loyal fans.",
+        "slideNum": "06",
+        "totalSlides": "7"
+      }
+    },
+    {
+      "layoutId": "body-neon-dark",
+      "slots": {
+        "handle": "@handle",
+        "pageOf": "07 / 07",
+        "number": "6",
+        "titleLabel": "ADVOCATES",
+        "titleMain": "Turn fans into",
+        "titleAccent": "your army",
+        "body": "An audience watches; a community shares. Give your people wins and they will market for you.",
+        "slideNum": "07",
+        "totalSlides": "7"
+      }
+    },
+    {
+      "layoutId": "cta-neon-dark",
+      "slots": {
+        "handle": "@handle",
+        "pageOf": "08 / 07",
+        "eyebrow": "YOUR MOVE",
+        "headlineNeon": "SAVE",
+        "headlineWhite": "this post",
+        "body": "Start building in public today. Your future audience is waiting for the real you.",
+        "buttonLabel": "Save this post",
+        "secondaryLabel": "// follow @handle"
+      }
+    }
+  ]
+}
