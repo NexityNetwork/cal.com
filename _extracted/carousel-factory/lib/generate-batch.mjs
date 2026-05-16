@@ -1,8 +1,10 @@
 /**
- * Generate N carousels using Kimi K2.6 on Workers AI + the existing
- * compose → render → dom-qa pipeline. Each brief is paired with a
- * layout *family* (ember-dark or beige-paper); the planner sees only
- * the layouts in that family.
+ * Parallel batch generator. Kimi K2.6 plans + Playwright renders +
+ * DOM-QA, with up to N concurrent briefs.
+ *
+ * Usage:
+ *   CF_ACCOUNT_ID=... CF_AUTH_EMAIL=... CF_AUTH_KEY=... \
+ *   CONCURRENCY=5 node lib/generate-batch.mjs
  */
 import { compose } from "./compose.js";
 import { renderAndQa } from "./dom-qa.mjs";
@@ -12,6 +14,7 @@ import { resolve } from "node:path";
 const ACCT = process.env.CF_ACCOUNT_ID;
 const CF_EMAIL = process.env.CF_AUTH_EMAIL;
 const CF_KEY = process.env.CF_AUTH_KEY;
+const CONCURRENCY = Number(process.env.CONCURRENCY || 5);
 if (!ACCT || !CF_EMAIL || !CF_KEY) {
   throw new Error("Set CF_ACCOUNT_ID, CF_AUTH_EMAIL, CF_AUTH_KEY env vars");
 }
@@ -26,181 +29,168 @@ const FACTORY = resolve(import.meta.dirname, "..");
 const LAYOUTS = resolve(FACTORY, "layouts");
 const OUT = resolve(FACTORY, "batch-output");
 
-// ─── Layout families ───────────────────────────────────────────────────────
-
-const FAMILY_PROMPTS = {
-  "ember-dark": `Available layouts (dark ember theme):
-
-LAYOUT cover-display-cta — FIRST slide only.
-  pageNumber: "01"
-  headlineLine1: first half, max 5 words
-  headlineLine2: second half, max 4 words
-  accentSuffix: typically "." or "!" — orange after line 2
-
-LAYOUT body-icon-centered — body slides.
-  pageNumber: "02", "03", ... (2-digit)
-  title: "N. Subject, the role" works well. Max 7 words.
-  body: 1-3 sentences, max 35 words. Specific concrete language. No filler ("elevate", "leverage", "transform", "unleash").
-  iconSlug: simple-icons slug. Valid: notion, github, stripe, supabase, cloudflare, slack, discord, gmail, googlemeet, zoom, instagram, youtube, tiktok, x, openai, anthropic, vercel, nextdotjs, react, typescript, postgresql, redis, docker, figma, framer, linear, raycast, langchain, mongodb, airtable, zapier, calendly, loom, miro
-  iconColor: hex, optional, defaults to white.`,
-  "beige-paper": `Available layouts (cream/beige serif theme):
-
-LAYOUT cover-beige-serif — FIRST slide only.
-  brand: brand name (e.g. "Studio Atlas", "Salford & Co.", "Ultron")
-  headline: full headline, 6-12 words. Cormorant Garamond serif at 78px.
-  slideCountHero: the body-slide count as a single digit, e.g. "6"
-
-LAYOUT body-beige-bubble — body slides.
-  brand: same brand name as cover
-  number: "01", "02", ... (2-digit)
-  title: short tip name, 2-4 words, serif looks elegant
-  body: 2-4 sentence supporting paragraph, max 50 words. Editorial tone.
-  handle: "@<brand-handle>"
-  domain: "<brand-domain>.com"`,
-  "linkedin-pro": `Available layouts (LinkedIn pro — white grid + bold sans + colored hero card):
-
-LAYOUT cover-linkedin-pro — FIRST slide only.
-  author: full name (e.g. "Avery Davis", "Maya Chen")
-  badgeText: e.g. "LINKEDIN CAROUSEL POST" or "SAVE THIS POST"
-  pageNumber: "1"
-  accentColor: hex for the page-number circle + sparkle badge. Vibrant colors: "#4f3df5" purple, "#0a66c2" linkedin blue, "#e85d04" warm orange, "#10b981" green.
-  headline: 4-8 word punchy hook
-  heroSymbol: a single emoji or 1-2 character symbol to put inside the hero card, e.g. "AI", "$", "✦", "→"
-  heroBg: hex for hero card gradient start (lighter, suggests the topic)
-  heroBg2: hex for hero card gradient end (slightly darker)
-  body: 2-3 sentence supporting paragraph at bottom, max 35 words
-
-LAYOUT body-linkedin-pro — body slides.
-  author: same as cover
-  badgeText: same as cover
-  pageNumber: "2", "3", ... (1-digit)
-  accentColor: same hex as cover
-  title: 3-6 word title, big bold centered
-  body: 2-3 sentence supporting paragraph, max 35 words
-  heroSymbol: short symbol in hero card
-  heroBg / heroBg2: same gradient colors as cover (consistency)
-  labelText: a short repeating phrase at the bottom pill (e.g. "Artificial Intelligence", "Future of Work")`,
-  "noir-yellow": `Available layouts (dark noir + yellow editorial serif):
-
-LAYOUT cover-noir-yellow — FIRST slide only.
-  brand: brand name in serif (e.g. "Salford & Co.", "Atlas Field", "House of Echo")
-  scriptPrefix: tiny script word, often a connector like "How", "Why", "On", "The" — handwritten cursive feel
-  displayLine1: ALL CAPS first chunk (5-8 chars)
-  displayLine2: ALL CAPS second chunk (5-12 chars)
-  displayLine3: ALL CAPS third chunk + ending punctuation (5-12 chars)
-  scriptTagline: full short tagline in script (5-9 words), e.g. "work smarter, not harder"
-  handle: "@<handle>"
-  slideId: "Slide 01"
-
-LAYOUT body-noir-yellow — body slides.
-  brand: same as cover
-  scriptPrefix: small script intro word (e.g. "Focus", "Begin", "Try")
-  displayLine1: ALL CAPS chunk
-  displayLine2: ALL CAPS chunk
-  displayLine3: ALL CAPS chunk
-  body: 2-4 sentence editorial paragraph, max 45 words
-  handle: same as cover
-  slideId: e.g. "Slide 02"`,
-};
+// ─── Layout families & prompts ─────────────────────────────────────────────
 
 const FAMILY_LAYOUTS = {
-  "ember-dark":  { cover: "cover-display-cta",   body: "body-icon-centered" },
-  "beige-paper": { cover: "cover-beige-serif",   body: "body-beige-bubble" },
-  "linkedin-pro":{ cover: "cover-linkedin-pro",  body: "body-linkedin-pro" },
-  "noir-yellow": { cover: "cover-noir-yellow",   body: "body-noir-yellow" },
+  "ember-dark":       { cover: "cover-display-cta",     body: "body-icon-centered" },
+  "beige-paper":      { cover: "cover-beige-serif",     body: "body-beige-bubble" },
+  "linkedin-pro":     { cover: "cover-linkedin-pro",    body: "body-linkedin-pro" },
+  "noir-yellow":      { cover: "cover-noir-yellow",     body: "body-noir-yellow" },
+  "dark-green-serif": { cover: "cover-dark-green-serif",body: "body-dark-green-serif" },
+};
+
+const FAMILY_PROMPTS = {
+  "ember-dark": `Layouts (dark ember theme):
+LAYOUT cover-display-cta (FIRST): pageNumber "01", headlineLine1 (≤5 words), headlineLine2 (≤4 words), accentSuffix ("." or "!").
+LAYOUT body-icon-centered (body): pageNumber ("02" etc), title ("N. Subject, the role", ≤7 words), body (1-3 sentences, ≤35 words, specific, no fluff), iconSlug (notion github stripe supabase cloudflare slack discord gmail googlemeet zoom instagram youtube tiktok x openai anthropic vercel nextdotjs react typescript postgresql redis docker figma linear raycast langchain airtable zapier calendly loom), iconColor (hex, optional).`,
+  "beige-paper": `Layouts (cream beige serif):
+LAYOUT cover-beige-serif (FIRST): brand, headline (6-12 words), slideCountHero (single digit "6").
+LAYOUT body-beige-bubble (body): brand, number ("01"), title (2-4 words), body (2-4 sentences ≤50 words editorial), handle "@x", domain "x.com".`,
+  "linkedin-pro": `Layouts (LinkedIn pro — white grid + bold sans + colored hero):
+LAYOUT cover-linkedin-pro (FIRST): author (name), badgeText ("LINKEDIN CAROUSEL POST" or "SAVE THIS POST"), pageNumber "1", accentColor (vibrant hex: #4f3df5 #0a66c2 #e85d04 #10b981 #ec4899), headline (4-8 words), heroSymbol (1-2 chars like "AI" "$" "✦"), heroBg + heroBg2 (gradient hex pair matching accent family), body (2-3 sentences ≤35 words).
+LAYOUT body-linkedin-pro (body): same top-bar fields (author/badgeText/accentColor); pageNumber "2"+; title (3-6 words); body (≤35 words); heroSymbol; heroBg + heroBg2 (same as cover); labelText (short repeating bottom phrase).`,
+  "noir-yellow": `Layouts (dark noir + yellow editorial serif):
+LAYOUT cover-noir-yellow (FIRST): brand, scriptPrefix (1 word handwritten "How"/"Why"/"On"/"The"), displayLine1/2/3 (3 ALL CAPS chunks), scriptTagline (5-9 word handwritten line), handle "@x", slideId "Slide 01".
+LAYOUT body-noir-yellow (body): brand, scriptPrefix (1 word "Focus"/"Try"/"Begin"), displayLine1/2/3 (3 ALL CAPS chunks), body (2-4 sentences ≤45 words), handle, slideId "Slide 0N".`,
+  "dark-green-serif": `Layouts (dark forest green + cream serif + mono accents):
+LAYOUT cover-dark-green-serif (FIRST): brand (ALL CAPS), pageOf "01 OF 06", headline (3-6 words including question mark optional, e.g. "Why Matcha?"), subtitle (5-12 words, casual), stickerText (2-3 words for the orange sticker, e.g. "FOR YOU"), handle ("@handle").
+LAYOUT body-dark-green-serif (body): brand, pageOf "0N OF 06", number ("01"), title (3-6 words), body (2-4 sentences ≤50 words mono typewriter feel), handle.`,
 };
 
 const PROMPT_TEMPLATE = (brief, family) => `You are a carousel planner.
-
 ${FAMILY_PROMPTS[family]}
 
 BRIEF: ${brief}
 
-Generate a 7-slide carousel: 1 cover + 6 body slides. Output ONLY valid JSON,
-no markdown fences, no thinking out loud.
-
+Generate a 7-slide carousel (1 cover + 6 body). Output ONLY valid JSON, no fences.
 Schema:
 {
-  "id": "<short-kebab>",
-  "brand": "<brand-name>",
-  "brief": "<the brief>",
-  "theme": "${family}",
-  "slides": [
+  "id":"<short-kebab>",
+  "brand":"<name>",
+  "brief":"${brief}",
+  "theme":"${family}",
+  "slides":[
     {"layoutId":"${FAMILY_LAYOUTS[family].cover}","slots":{...}},
     {"layoutId":"${FAMILY_LAYOUTS[family].body}","slots":{...}},
     ...
   ]
 }`;
 
-// ─── Briefs paired with layout families ────────────────────────────────────
+// ─── Briefs (5 families × ~7 briefs each = ~35 carousels) ──────────────────
 
 const BRIEFS = [
-  // ember-dark (already had 3)
-  { id: "claude-code-stack",        family: "ember-dark",   text: "The Claude Code stack a one-person founder uses to ship like a 10-person team." },
-  { id: "ai-agents-replace-saas",   family: "ember-dark",   text: "5 SaaS categories AI agents are killing in 2026 — and what to build instead." },
-  { id: "founder-mistakes",         family: "ember-dark",   text: "8 mistakes I made as a first-time founder that cost me $250K." },
-  // beige-paper
-  { id: "productivity-tips-beige",  family: "beige-paper",  text: "6 simple productivity tips from a designer who built a 7-figure studio. Calm, editorial tone." },
-  { id: "morning-rituals-beige",    family: "beige-paper",  text: "5 morning rituals that changed how I run my business. Quiet, mindful, specific." },
-  { id: "writing-tips-beige",       family: "beige-paper",  text: "6 writing tips for founders who hate writing." },
-  // linkedin-pro
-  { id: "ai-shaping-business-li",   family: "linkedin-pro", text: "How AI is shaping future business — 6 ways every founder should know. LinkedIn audience." },
-  { id: "remote-work-li",           family: "linkedin-pro", text: "The 6 habits of the highest-performing remote teams in 2026." },
-  { id: "saas-pricing-li",          family: "linkedin-pro", text: "5 SaaS pricing models that print money in 2026. LinkedIn tactical breakdown." },
-  // noir-yellow
-  { id: "burnout-noir",             family: "noir-yellow",  text: "How to boost productivity without burnout. Editorial, premium, lit-mag tone." },
-  { id: "deep-work-noir",           family: "noir-yellow",  text: "The 5 quiet rituals of writers who do their best work. Slow, deliberate voice." },
-  { id: "ambition-noir",            family: "noir-yellow",  text: "Why ambition is overrated — 6 reframes from people who burned out and started over." },
+  // ember-dark (dev / startup / agents)
+  { id: "claude-code-stack",      family: "ember-dark", text: "The Claude Code stack a one-person founder uses to ship like a 10-person team." },
+  { id: "ai-replaces-saas",       family: "ember-dark", text: "5 SaaS categories AI agents are killing in 2026 — and what to build instead." },
+  { id: "founder-mistakes",       family: "ember-dark", text: "8 mistakes I made as a first-time founder that cost me $250K." },
+  { id: "internal-tools",         family: "ember-dark", text: "6 internal tools every AI startup ships in week 1 — concrete examples." },
+  { id: "agent-orchestration",    family: "ember-dark", text: "How we orchestrate 12 agents in production. Tools, patterns, gotchas." },
+  { id: "infra-stack-2026",       family: "ember-dark", text: "The new infra stack for AI startups in 2026 — bye Heroku, hello Cloudflare." },
+  { id: "shipping-fast-stack",    family: "ember-dark", text: "7 tools that turn one engineer into a team. Names, urls, why each matters." },
+
+  // beige-paper (editorial / mindful / writer-founder)
+  { id: "productivity-tips",      family: "beige-paper", text: "6 productivity tips from a designer who built a 7-figure studio." },
+  { id: "morning-rituals",        family: "beige-paper", text: "5 morning rituals that changed how I run my business." },
+  { id: "writing-tips",           family: "beige-paper", text: "6 writing tips for founders who hate writing." },
+  { id: "deep-work",              family: "beige-paper", text: "How to protect 4 hours of deep work in a calendar full of meetings." },
+  { id: "saying-no",              family: "beige-paper", text: "5 lessons on saying no — from a founder who used to say yes to everything." },
+  { id: "reading-list",           family: "beige-paper", text: "6 books that quietly changed how I run a company. Why each one mattered." },
+  { id: "calm-company",           family: "beige-paper", text: "What it means to run a calm company in a hustle-culture world." },
+
+  // linkedin-pro (B2B SaaS / leadership)
+  { id: "ai-shaping-business",    family: "linkedin-pro", text: "How AI is shaping future business — 6 ways every founder should know." },
+  { id: "remote-work",            family: "linkedin-pro", text: "The 6 habits of the highest-performing remote teams in 2026." },
+  { id: "saas-pricing",           family: "linkedin-pro", text: "5 SaaS pricing models that print money in 2026. Tactical breakdown." },
+  { id: "hiring-engineers",       family: "linkedin-pro", text: "What we look for when hiring engineers in 2026 (it's not coding tests)." },
+  { id: "first-100-customers",    family: "linkedin-pro", text: "How we got our first 100 customers — no ads, no SEO, just 6 channels." },
+  { id: "linkedin-content-loop",  family: "linkedin-pro", text: "The LinkedIn content loop that built a 50K following in 6 months." },
+  { id: "selling-to-cios",        family: "linkedin-pro", text: "5 things that actually close enterprise deals — from a 7-figure sales leader." },
+
+  // noir-yellow (editorial / literary / meditative)
+  { id: "burnout",                family: "noir-yellow", text: "How to boost productivity without burnout. Editorial, lit-mag tone." },
+  { id: "deep-work-noir",         family: "noir-yellow", text: "The 5 quiet rituals of writers who do their best work." },
+  { id: "ambition",               family: "noir-yellow", text: "Why ambition is overrated — 6 reframes from people who burned out and started over." },
+  { id: "craft-vs-hustle",        family: "noir-yellow", text: "Craft over hustle: 6 things makers know that hustlers don't." },
+  { id: "quiet-confidence",       family: "noir-yellow", text: "The 5 marks of quiet confidence — from people who don't post." },
+  { id: "slow-business",          family: "noir-yellow", text: "How to build a slow business that pays well and never burns out." },
+  { id: "writer-rituals",         family: "noir-yellow", text: "The morning routines of 6 writers who shipped a book in 12 months." },
+
+  // dark-green-serif (lifestyle / wellness / niche brand)
+  { id: "matcha-why",             family: "dark-green-serif", text: "Why matcha — the green tea that's more than a trend. Lifestyle brand carousel." },
+  { id: "wellness-stack",         family: "dark-green-serif", text: "My wellness stack — 5 things that actually moved the needle." },
+  { id: "skincare-truth",         family: "dark-green-serif", text: "5 things the skincare industry doesn't want you to know." },
+  { id: "supplements",            family: "dark-green-serif", text: "6 supplements I actually still take after 3 years of testing." },
+  { id: "sleep-rituals",          family: "dark-green-serif", text: "The 5-step sleep ritual that fixed my insomnia." },
+  { id: "kitchen-tools",          family: "dark-green-serif", text: "6 kitchen tools that replaced 30 — minimalist home cook edition." },
+  { id: "morning-walk",           family: "dark-green-serif", text: "Why a 20-minute morning walk beat my $400 wearable." },
 ];
 
-// ─── Kimi planner ──────────────────────────────────────────────────────────
+// ─── Kimi planner with retry on JSON parse failure ─────────────────────────
 
 async function plan(brief, family) {
-  const res = await fetch(KIMI_URL, {
-    method: "POST",
-    headers: AUTH,
-    body: JSON.stringify({
-      messages: [{ role: "user", content: PROMPT_TEMPLATE(brief, family) }],
-      max_tokens: 8000,
-      temperature: 0.6,
-    }),
-  });
-  const data = await res.json();
-  if (!data.success) throw new Error(`Kimi err: ${JSON.stringify(data.errors).slice(0, 300)}`);
-  let content =
-    data.result?.choices?.[0]?.message?.content ??
-    data.result?.response ??
-    "";
-  if (!content) {
-    const finish = data.result?.choices?.[0]?.finish_reason;
-    throw new Error(`Empty Kimi response (finish=${finish})`);
+  for (let attempt = 1; attempt <= 2; attempt++) {
+    const res = await fetch(KIMI_URL, {
+      method: "POST",
+      headers: AUTH,
+      body: JSON.stringify({
+        messages: [{ role: "user", content: PROMPT_TEMPLATE(brief, family) }],
+        max_tokens: 8000,
+        temperature: 0.7,
+      }),
+    });
+    const data = await res.json();
+    if (!data.success) throw new Error(`Kimi err: ${JSON.stringify(data.errors).slice(0, 300)}`);
+    let content = data.result?.choices?.[0]?.message?.content ?? data.result?.response ?? "";
+    if (!content) {
+      if (attempt === 2) throw new Error(`Empty Kimi response after retry (finish=${data.result?.choices?.[0]?.finish_reason})`);
+      continue;
+    }
+    content = content.replace(/^```json\s*/i, "").replace(/^```\s*/i, "").replace(/```\s*$/i, "").trim();
+    try { return JSON.parse(content); } catch (e) {
+      if (attempt === 2) throw new Error(`JSON parse failed: ${e.message}`);
+    }
   }
-  content = content.replace(/^```json\s*/i, "").replace(/^```\s*/i, "").replace(/```\s*$/i, "").trim();
-  return JSON.parse(content);
+}
+
+// ─── Concurrency limiter ────────────────────────────────────────────────────
+
+async function pmap(items, limit, fn) {
+  const out = new Array(items.length);
+  let next = 0;
+  async function worker() {
+    while (next < items.length) {
+      const i = next++;
+      out[i] = await fn(items[i], i);
+    }
+  }
+  await Promise.all(Array.from({ length: Math.min(limit, items.length) }, worker));
+  return out;
 }
 
 // ─── Run ───────────────────────────────────────────────────────────────────
 
 await mkdir(OUT, { recursive: true });
+console.log(`→ Generating ${BRIEFS.length} carousels with concurrency=${CONCURRENCY}`);
+const startedAt = Date.now();
 
-for (const { id, family, text } of BRIEFS) {
-  console.log(`\n→ ${id}  [${family}]`);
+const results = await pmap(BRIEFS, CONCURRENCY, async ({ id, family, text }, idx) => {
+  const tag = `[${idx + 1}/${BRIEFS.length}] ${id} [${family}]`;
   try {
-    console.log("  planning...");
     const spec = await plan(text, family);
     spec.id = id;
     await writeFile(resolve(OUT, `${id}.spec.json`), JSON.stringify(spec, null, 2));
-
-    console.log("  composing + rendering...");
     const htmls = await compose(spec, { layoutsDir: LAYOUTS });
     const dir = resolve(OUT, id);
-    const result = await renderAndQa(htmls, dir, { concurrency: 3 });
-
-    const pass = result.slides.filter((s) => s.qa.verdict === "pass").length;
-    console.log(`  ✓ ${pass}/${result.slides.length} slides pass  ·  carousel ${result.carouselQa.verdict}`);
-  } catch (err) {
-    console.error(`  ✗ ${err.message}`);
+    const r = await renderAndQa(htmls, dir, { concurrency: 2 });
+    const pass = r.slides.filter((s) => s.qa.verdict === "pass").length;
+    console.log(`✓ ${tag} — ${pass}/${r.slides.length} pass · ${r.carouselQa.verdict}`);
+    return { id, status: "ok", pass, total: r.slides.length };
+  } catch (e) {
+    console.log(`✗ ${tag} — ${e.message}`);
+    return { id, status: "err", error: e.message };
   }
-}
+});
 
-console.log(`\nAll outputs in ${OUT}/`);
+const dur = ((Date.now() - startedAt) / 1000).toFixed(1);
+const ok = results.filter((r) => r.status === "ok").length;
+console.log(`\nDone in ${dur}s — ${ok}/${results.length} succeeded.`);
