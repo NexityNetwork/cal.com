@@ -1,35 +1,35 @@
 {
   "id": "bad-good-great-pricing",
-  "brand": "Monet",
+  "brand": "Morgan K.",
   "brief": "Bad vs Good vs Great pricing — 6 patterns that separate $99 from $9,900 offers.",
   "theme": "grid-italic",
   "slides": [
     {
       "layoutId": "cover-grid-italic",
       "slots": {
-        "topic": "Premium Pricing",
-        "preLine": "What always separates",
+        "topic": "Pricing Patterns",
+        "preLine": "What separates your pricing",
         "word1": "BAD",
         "word2": "Good",
         "word3": "Great",
-        "authorInitials": "VM",
-        "authorName": "Vera Monet",
+        "authorInitials": "MK",
+        "authorName": "Morgan K.",
         "authorRole": "Pricing Strategist",
-        "handle": "@veramonet"
+        "handle": "@morgankprice"
       }
     },
     {
       "layoutId": "body-grid-italic",
       "slots": {
         "number": "1",
-        "preLabel": "Pattern One",
-        "titleMain": "Price the Result",
-        "titleAccent": "never hours",
-        "titleUnderline": "value first",
-        "body": "Bad freelancers charge by the hour, punishing efficiency. Good creators sell fixed projects. Great consultants price against the revenue or cost savings they generate.",
-        "note": "If your client wins big, you win big. Tie your fee to their upside.",
-        "authorInitials": "VM",
-        "authorName": "Vera Monet",
+        "preLabel": "Pattern No.",
+        "titleMain": "Price Needs",
+        "titleAccent": "Context",
+        "titleUnderline": "Not Numbers",
+        "body": "A standalone price is just a number. Great offers anchor value against the cost of inaction or expensive alternatives, making the fee feel trivial by comparison.",
+        "note": "Always show the premium option first.",
+        "authorInitials": "MK",
+        "authorName": "Morgan K.",
         "pageOf": "2 / 8"
       }
     },
@@ -37,14 +37,14 @@
       "layoutId": "body-grid-italic",
       "slots": {
         "number": "2",
-        "preLabel": "Pattern Two",
-        "titleMain": "Reverse the Risk",
-        "titleAccent": "bold promise",
-        "titleUnderline": "guaranteed results",
-        "body": "Bad offers say 'no refunds.' Good ones include a 30-day guarantee. Great deals offer conditional assurances that only trigger if milestones are missed.",
-        "note": "A strong guarantee signals confidence and filters serious buyers.",
-        "authorInitials": "VM",
-        "authorName": "Vera Monet",
+        "preLabel": "Pattern No.",
+        "titleMain": "Reverse The",
+        "titleAccent": "Buyer's Risk",
+        "titleUnderline": "Not Features",
+        "body": "Good sellers list benefits. Great sellers absorb risk with bold guarantees, transforming the buyer's question from can I afford this to can I afford to wait.",
+        "note": "The stronger the guarantee, the higher the price.",
+        "authorInitials": "MK",
+        "authorName": "Morgan K.",
         "pageOf": "3 / 8"
       }
     },
@@ -52,14 +52,14 @@
       "layoutId": "body-grid-italic",
       "slots": {
         "number": "3",
-        "preLabel": "Pattern Three",
-        "titleMain": "Own the Niche",
-        "titleAccent": "authority sells",
-        "titleUnderline": "specific expertise",
-        "body": "Bad agencies serve everyone. Good shops focus on one industry. Great firms define an entirely new category where they are the only logical choice.",
-        "note": "Specialization removes price comparison. You become the benchmark.",
-        "authorInitials": "VM",
-        "authorName": "Vera Monet",
+        "preLabel": "Pattern No.",
+        "titleMain": "Sell The",
+        "titleAccent": "Outcome",
+        "titleUnderline": "Not Process",
+        "body": "Bad pricing charges for hours and deliverables. Great pricing charges for the transformation, revenue lift, or status gained, never the labor involved.",
+        "note": "Clients buy futures, not tasks.",
+        "authorInitials": "MK",
+        "authorName": "Morgan K.",
         "pageOf": "4 / 8"
       }
     },
@@ -67,14 +67,14 @@
       "layoutId": "body-grid-italic",
       "slots": {
         "number": "4",
-        "preLabel": "Pattern Four",
-        "titleMain": "Show Real Proof",
-        "titleAccent": "numbers win",
-        "titleUnderline": "documented roi",
-        "body": "Bad proposals rely on vague promises. Good sellers share testimonials. Great leaders present case studies with exact metrics, timelines, and client names.",
-        "note": "Specific proof justifies specific prices. Vague claims attract haggling.",
-        "authorInitials": "VM",
-        "authorName": "Vera Monet",
+        "preLabel": "Pattern No.",
+        "titleMain": "Engineer Real",
+        "titleAccent": "Scarcity",
+        "titleUnderline": "Desire",
+        "body": "Open calendars signal desperation. Great offers use limited seats, application filters, or waitlists to frame access as a privilege worth paying premium rates for.",
+        "note": "Easy to buy is hard to value.",
+        "authorInitials": "MK",
+        "authorName": "Morgan K.",
         "pageOf": "5 / 8"
       }
     },
@@ -82,14 +82,14 @@
       "layoutId": "body-grid-italic",
       "slots": {
         "number": "5",
-        "preLabel": "Pattern Five",
-        "titleMain": "Curate the Offer",
-        "titleAccent": "less choice",
-        "titleUnderline": "premium tier",
-        "body": "Bad menus list ten options. Good sellers use three tiers. Great advisors design one bespoke package that feels irreplaceable and scarce.",
-        "note": "Scarcity and customization support premium positioning better than discounts.",
-        "authorInitials": "VM",
-        "authorName": "Vera Monet",
+        "preLabel": "Pattern No.",
+        "titleMain": "Three Tiers",
+        "titleAccent": "Guide",
+        "titleUnderline": "Choice",
+        "body": "One option forces a yes or no. Great pricing presents three tiers where the middle feels sensible and the premium becomes an aspirational anchor.",
+        "note": "Most buyers choose the middle.",
+        "authorInitials": "MK",
+        "authorName": "Morgan K.",
         "pageOf": "6 / 8"
       }
     },
@@ -97,14 +97,14 @@
       "layoutId": "body-grid-italic",
       "slots": {
         "number": "6",
-        "preLabel": "Pattern Six",
-        "titleMain": "Filter With",
-        "titleAccent": "paid audits",
-        "titleUnderline": "before proposals",
-        "body": "Bad sellers take any call. Good consultants use a qualification form. Great experts charge for a diagnostic audit that converts into the main engagement.",
-        "note": "A paid discovery call proves budget exists and establishes your expertise.",
-        "authorInitials": "VM",
-        "authorName": "Vera Monet",
+        "preLabel": "Pattern No.",
+        "titleMain": "Frame The",
+        "titleAccent": "Investment",
+        "titleUnderline": "Not Cost",
+        "body": "Bad offers emphasize the expense leaving their wallet. Great pricing frames the fee as capital allocation toward growth, positioning spend as strategic, not indulgent.",
+        "note": "ROI language justifies premium fees.",
+        "authorInitials": "MK",
+        "authorName": "Morgan K.",
         "pageOf": "7 / 8"
       }
     },
@@ -112,13 +112,13 @@
       "layoutId": "cta-grid-italic",
       "slots": {
         "eyebrow": "Now the only question is",
-        "headlineMain": "Which one",
-        "headlineAccent": "to change first",
-        "body": "Pick one tactic and implement it this week. Small shifts in positioning create massive jumps in profit.",
+        "headlineMain": "Which Pattern",
+        "headlineAccent": "Will You Test",
+        "body": "Steal these six shifts and watch your next offer convert at prices that finally match your expertise.",
         "buttonLabel": "Save this post",
-        "authorInitials": "VM",
-        "authorName": "Vera Monet",
-        "handle": "@veramonet"
+        "authorInitials": "MK",
+        "authorName": "Morgan K.",
+        "handle": "@morgankprice"
       }
     }
   ]
