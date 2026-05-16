@@ -1,6 +1,6 @@
 {
   "id": "ai-replaces-saas",
-  "brand": "Agent Index",
+  "brand": "AgentStack",
   "brief": "5 SaaS categories AI agents are killing in 2026 — and what to build instead.",
   "theme": "ember-dark",
   "slides": [
@@ -8,69 +8,74 @@
       "layoutId": "cover-display-cta",
       "slots": {
         "pageNumber": "01",
-        "headlineLine1": "5 SaaS Categories",
-        "headlineLine2": "AI Agents Kill",
-        "accentSuffix": "!"
+        "headlineLine1": "AI kills SaaS",
+        "headlineLine2": "Build what survives",
+        "accentSuffix": "."
       }
     },
     {
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "02",
-        "title": "1. Airtable, the organizer",
-        "body": "Static grids and manual tagging become obsolete. Build autonomous context engines that ingest conversations, update records, and surface insights without human data entry.",
-        "iconSlug": "airtable",
-        "iconColor": "#F59E0B"
+        "title": "1. CRM, the dying database",
+        "body": "Static contact lists are dead. Build an AI relationship agent that updates itself, schedules follow-ups, and drafts context-aware emails without manual entry.",
+        "iconSlug": "airtable"
       }
     },
     {
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "03",
-        "title": "2. Zapier, the connector",
-        "body": "Pre-defined zaps break when agents need to reason. Build agentic orchestration that negotiates APIs, handles retries, and self-heals without hardcoded paths.",
-        "iconSlug": "zapier",
-        "iconColor": "#EF4444"
+        "title": "2. Task boards, the stale tracker",
+        "body": "Kanban cards don't execute code. Ship an agentic project layer that assigns tasks, predicts blockers, and autonomously resolves dependencies across teams.",
+        "iconSlug": "linear"
       }
     },
     {
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "04",
-        "title": "3. Slack, the distractor",
-        "body": "Channel noise and manual updates drain productivity. Build agent-to-agent protocols that resolve issues, schedule actions, and only ping humans for exceptions.",
-        "iconSlug": "slack",
-        "iconColor": "#36C5F0"
+        "title": "3. Chatbots, the scripted gatekeeper",
+        "body": "FAQ trees frustrate users. Replace them with autonomous support engineers that debug issues, trigger refunds, and rewrite docs using live product context.",
+        "iconSlug": "discord"
       }
     },
     {
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "05",
-        "title": "4. Loom, the recorder",
-        "body": "Recording your screen for every explanation does not scale. Build on-demand synthetic video agents that generate personalized walkthroughs from a single prompt.",
-        "iconSlug": "loom",
-        "iconColor": "#8B5CF6"
+        "title": "4. Dashboards, the passive report",
+        "body": "Charts don't close deals. Sell narrative intelligence agents that query metrics, draft board summaries, and recommend pricing changes in plain English.",
+        "iconSlug": "zapier"
       }
     },
     {
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "06",
-        "title": "5. Linear, the tracker",
-        "body": "Backlog grooming and manual status checks slow teams. Build execution backplanes that auto-delegate tasks, verify deliverables, and reprioritize based on live context.",
-        "iconSlug": "linear",
-        "iconColor": "#6366F1"
+        "title": "5. Expense tools, the manual inbox",
+        "body": "Receipt chasing wastes hours. Launch finance agents that audit subscriptions, negotiate vendor bills, and forecast burn from unstructured Slack threads.",
+        "iconSlug": "stripe"
       }
     },
     {
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "07",
-        "title": "6. You, the orchestrator",
-        "body": "The winners in 2026 do not sell seats. Sell agent infrastructure: memory, auth, tool-use, and verifiable outcomes that replace entire SaaS categories.",
-        "iconSlug": "langchain",
-        "iconColor": "#34D399"
+        "title": "6. Infrastructure, the real moat",
+        "body": "Don't rebuild another SaaS UI. Build the memory layer, agent router, and trust framework that lets every company spawn its own vertical AI workforce.",
+        "iconSlug": "supabase"
+      }
+    },
+    {
+      "layoutId": "cta-display-cta",
+      "slots": {
+        "pageNumber": "08",
+        "eyebrow": "YOUR MOVE",
+        "headline": "Build the agent layer.",
+        "subline": "SaaS is becoming invisible. The winners in 2026 sell outcomes, not seats.",
+        "buttonLabel": "DM 'stack'",
+        "handle": "@agentstack"
       }
     }
   ]

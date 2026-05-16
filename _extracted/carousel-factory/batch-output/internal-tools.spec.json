@@ -1,6 +1,6 @@
 {
   "id": "internal-tools",
-  "brand": "Stack Primer",
+  "brand": "stackmode",
   "brief": "6 internal tools every AI startup ships in week 1 — concrete examples.",
   "theme": "ember-dark",
   "slides": [
@@ -8,8 +8,8 @@
       "layoutId": "cover-display-cta",
       "slots": {
         "pageNumber": "01",
-        "headlineLine1": "6 Internal AI Tools",
-        "headlineLine2": "Shipped Day One",
+        "headlineLine1": "6 Internal Tools",
+        "headlineLine2": "AI Startups Ship",
         "accentSuffix": "!"
       }
     },
@@ -17,60 +17,71 @@
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "02",
-        "title": "1. Prompt Lab, the playground",
-        "body": "A shared sandbox where engineers version-test system prompts against live traffic, logging latency and failure rates for every variant.",
+        "title": "1. Prompt Lab, the sandbox",
+        "body": "A shared workspace to version-test system prompts against real inputs. Prevents regression when models update.",
         "iconSlug": "openai",
-        "iconColor": "#FF5F1F"
+        "iconColor": "#10A37F"
       }
     },
     {
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "03",
-        "title": "2. Context Store, the memory",
-        "body": "PostgreSQL with pgvector stores user chat history and document embeddings; retrieval rules are tuned per customer so replies stay context-aware.",
+        "title": "2. Ingest Pipe, the memory",
+        "body": "Chunks product docs and Slack exports, embeds them into pgvector, and refreshes the index every night.",
         "iconSlug": "postgresql",
-        "iconColor": "#FF5F1F"
+        "iconColor": "#336791"
       }
     },
     {
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "04",
-        "title": "3. Eval Runner, the judge",
-        "body": "GitHub Action that runs 200 labeled examples through each candidate model, outputting a diff when accuracy drops below the previous baseline.",
-        "iconSlug": "github",
-        "iconColor": "#FF5F1F"
+        "title": "3. Slack Bot, the oracle",
+        "body": "Answers employee questions using RAG over internal Notion pages. Lives in a private #ai-support channel.",
+        "iconSlug": "slack",
+        "iconColor": "#36C5F0"
       }
     },
     {
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "05",
-        "title": "4. Cost Guard, the monitor",
-        "body": "Real-time dashboard tracking token spend per user and endpoint, paging the team when any experiment burns more than fifty dollars an hour.",
-        "iconSlug": "stripe",
-        "iconColor": "#FF5F1F"
+        "title": "4. Eval Queue, the filter",
+        "body": "Routes 10% of production LLM outputs into a daily human review board. Flags hallucinations and regressions.",
+        "iconSlug": "linear",
+        "iconColor": "#5E6AD2"
       }
     },
     {
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "06",
-        "title": "5. Ingest Pipe, the crawler",
-        "body": "Cloudflare Worker that chunks new PDFs and sitemap pages into embeddings, upserting them into the vector index every six hours on schedule.",
-        "iconSlug": "cloudflare",
-        "iconColor": "#FF5F1F"
+        "title": "5. Cost Guard, the meter",
+        "body": "Tracks per-feature token spend by model and user. Pings Slack when experiments exceed a $50 budget.",
+        "iconSlug": "stripe",
+        "iconColor": "#635BFF"
       }
     },
     {
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "07",
-        "title": "6. Deploy Bot, the shipper",
-        "body": "Slash command in Slack that kicks off fine-tuning jobs, promotes the winning checkpoint to production, and posts the latency delta in thread.",
-        "iconSlug": "slack",
-        "iconColor": "#FF5F1F"
+        "title": "6. Sync Scribe, the archive",
+        "body": "Records standups, writes structured tickets, and updates the wiki. Surfaces decisions in search.",
+        "iconSlug": "loom",
+        "iconColor": "#5523E0"
+      }
+    },
+    {
+      "layoutId": "cta-display-cta",
+      "slots": {
+        "pageNumber": "08",
+        "eyebrow": "YOUR MOVE",
+        "headline": "Build Your Week-1 Stack",
+        "subline": "Save this checklist and ship your internal AI toolkit before your next standup.",
+        "buttonLabel": "Save this post",
+        "handle": "@stackmode"
       }
     }
   ]

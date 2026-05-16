@@ -1,6 +1,6 @@
 {
   "id": "agent-orchestration",
-  "brand": "Orbit",
+  "brand": "StackShift",
   "brief": "How we orchestrate 12 agents in production. Tools, patterns, gotchas.",
   "theme": "ember-dark",
   "slides": [
@@ -8,69 +8,80 @@
       "layoutId": "cover-display-cta",
       "slots": {
         "pageNumber": "01",
-        "headlineLine1": "Orchestrate 12 Agents",
+        "headlineLine1": "Orchestrating Twelve Agents",
         "headlineLine2": "In Production",
-        "accentSuffix": "!"
+        "accentSuffix": "."
       }
     },
     {
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "02",
-        "title": "1. Router, the Gatekeeper",
-        "body": "We route requests via a central LLM router that picks the right model based on latency, cost, and capability constraints.",
-        "iconSlug": "cloudflare",
-        "iconColor": "#F97316"
+        "title": "1. Router, the traffic cop",
+        "body": "We use a state machine to route requests. It assigns tasks based on intent, not just keywords. This prevents agent collisions.",
+        "iconSlug": "langchain",
+        "iconColor": "#FF5C00"
       }
     },
     {
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "03",
-        "title": "2. State, the Single Source",
-        "body": "Postgres locks agent state, checkpoints memory, and prevents race conditions when multiple workers touch the same thread.",
-        "iconSlug": "postgresql",
-        "iconColor": "#F97316"
+        "title": "2. Bus, the nervous system",
+        "body": "Agents publish events to a Redis stream. Consumers pick up jobs asynchronously. This decouples workloads and keeps latency low.",
+        "iconSlug": "redis",
+        "iconColor": "#FF5C00"
       }
     },
     {
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "04",
-        "title": "3. Workers, the Async Queue",
-        "body": "Redis Streams fan out tasks to twelve specialized workers with consumer groups, backpressure, and dead-letter retries built in.",
-        "iconSlug": "redis",
-        "iconColor": "#F97316"
+        "title": "3. Postgres, the memory bank",
+        "body": "We store agent state and thread history in PostgreSQL. Row-level locking prevents race conditions when multiple agents update shared context.",
+        "iconSlug": "postgresql",
+        "iconColor": "#FF5C00"
       }
     },
     {
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "05",
-        "title": "4. Tools, the API Mesh",
-        "body": "Every agent calls typed tools via an internal tRPC mesh with schema validation, timeouts, and circuit breakers enforced upstream.",
-        "iconSlug": "typescript",
-        "iconColor": "#F97316"
+        "title": "4. Docker, the isolation unit",
+        "body": "Each agent runs in its own container. Resource caps stop one runaway process from starving the fleet. Health checks restart failures fast.",
+        "iconSlug": "docker",
+        "iconColor": "#FF5C00"
       }
     },
     {
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "06",
-        "title": "5. Evals, the Guardrails",
-        "body": "We run 200+ pytest evals on every deploy: hallucination checks, tool-call accuracy, and output schema compliance against golden sets.",
-        "iconSlug": "github",
-        "iconColor": "#F97316"
+        "title": "5. Slack, the alert channel",
+        "body": "We stream structured logs to a dedicated Slack channel. Engineers get paged when error rates spike. Context threads speed up debugging.",
+        "iconSlug": "slack",
+        "iconColor": "#FF5C00"
       }
     },
     {
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "07",
-        "title": "6. Logs, the Flight Recorder",
-        "body": "Structured traces ship to Loki with span IDs linking LLM calls, tool executions, and state diffs for instant replay.",
-        "iconSlug": "loom",
-        "iconColor": "#F97316"
+        "title": "6. Prompts, the hidden code",
+        "body": "Version control your prompts like any other dependency. A single wording drift can break an entire agent pipeline. Regression tests catch this.",
+        "iconSlug": "openai",
+        "iconColor": "#FF5C00"
+      }
+    },
+    {
+      "layoutId": "cta-display-cta",
+      "slots": {
+        "pageNumber": "08",
+        "eyebrow": "YOUR MOVE",
+        "headline": "Build Your Agent Fleet",
+        "subline": "Steal our stack and patterns. DM 'stack' for the full architecture doc.",
+        "buttonLabel": "DM 'stack'",
+        "handle": "@stackshift"
       }
     }
   ]

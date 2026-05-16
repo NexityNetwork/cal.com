@@ -1,81 +1,92 @@
 {
   "id": "productivity-tips",
-  "brand": "STUDIO",
+  "brand": "STUDIO FLOW",
   "brief": "6 productivity tips from a designer who built a 7-figure studio.",
   "theme": "beige-paper",
   "slides": [
     {
       "layoutId": "cover-beige-serif",
       "slots": {
-        "brand": "STUDIO",
-        "headline": "6 productivity habits that built a 7-figure design studio",
+        "brand": "STUDIO FLOW",
+        "headline": "Six productivity habits that scaled my studio to seven figures.",
         "slideCountHero": "6"
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "STUDIO",
+        "brand": "STUDIO FLOW",
         "number": "01",
         "title": "Time-block deep work",
-        "body": "Protect three hours daily for focused design without meetings or notifications. This single habit will 10x your creative output faster than any new app.",
-        "handle": "@studio",
-        "domain": "studio.com"
+        "body": "Protect three-hour windows for design without Slack or email. Your best creative output demands uninterrupted focus. Treat these blocks as non-negotiable client meetings.",
+        "handle": "@designlead",
+        "domain": "designlead.com"
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "STUDIO",
+        "brand": "STUDIO FLOW",
         "number": "02",
-        "title": "Build template libraries",
-        "body": "Stop designing from scratch by saving every repeated asset as a reusable component. Your future self will thank you when deadlines hit hard.",
-        "handle": "@studio",
-        "domain": "studio.com"
+        "title": "Build design systems",
+        "body": "Reusable components cut delivery time in half immediately. Start with type, color, and spacing rules every project shares. Consistency is a profit multiplier.",
+        "handle": "@designlead",
+        "domain": "designlead.com"
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "STUDIO",
+        "brand": "STUDIO FLOW",
         "number": "03",
-        "title": "Batch client feedback",
-        "body": "Check emails only twice daily to avoid context switching that fragments your creative flow. Guard your attention like your most valuable billable hour.",
-        "handle": "@studio",
-        "domain": "studio.com"
+        "title": "Automate onboarding early",
+        "body": "Use templates for contracts, briefs, and welcome emails. Automation removes repetitive admin so you can bill for creativity, not inbox management.",
+        "handle": "@designlead",
+        "domain": "designlead.com"
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "STUDIO",
+        "brand": "STUDIO FLOW",
         "number": "04",
-        "title": "Automate admin tasks",
-        "body": "Use simple workflows to handle invoicing, scheduling, and file organization without lifting a finger. Free up brain space for the work that actually pays.",
-        "handle": "@studio",
-        "domain": "studio.com"
+        "title": "Kill scope creep fast",
+        "body": "Define deliverables in writing before any work begins. When requests drift, quote a change order same-day. Boundaries protect margins and sanity.",
+        "handle": "@designlead",
+        "domain": "designlead.com"
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "STUDIO",
+        "brand": "STUDIO FLOW",
         "number": "05",
-        "title": "Reject scope creep",
-        "body": "Define project boundaries in writing before you open any design software. Protecting your time is how you scale without burning out.",
-        "handle": "@studio",
-        "domain": "studio.com"
+        "title": "Batch admin tasks",
+        "body": "Group invoicing, emails, and updates into one afternoon. Switching contexts kills momentum; batching keeps the rest of your week free for making.",
+        "handle": "@designlead",
+        "domain": "designlead.com"
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "STUDIO",
+        "brand": "STUDIO FLOW",
         "number": "06",
-        "title": "Review weekly goals",
-        "body": "Zoom out every Friday to measure progress against quarterly goals instead of sweating inbox zero. Strategy beats busywork every single time.",
-        "handle": "@studio",
-        "domain": "studio.com"
+        "title": "Protect your mornings",
+        "body": "Tackle your hardest creative work before noon. Willpower depletes as the day progresses, so guard early hours like they are billable gold.",
+        "handle": "@designlead",
+        "domain": "designlead.com"
+      }
+    },
+    {
+      "layoutId": "cta-beige-serif",
+      "slots": {
+        "brand": "STUDIO FLOW",
+        "eyebrow": "READY TO SCALE",
+        "headline": "Build a studio that runs itself.",
+        "body": "Steal the exact templates and systems I used to grow. Your creative business deserves better margins.",
+        "buttonLabel": "GET THE TEMPLATES",
+        "handle": "@designlead"
       }
     }
   ]

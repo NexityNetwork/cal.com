@@ -1,6 +1,6 @@
 {
   "id": "shipping-fast-stack",
-  "brand": "Solo Stack",
+  "brand": "SoloStack",
   "brief": "7 tools that turn one engineer into a team. Names, urls, why each matters.",
   "theme": "ember-dark",
   "slides": [
@@ -8,69 +8,74 @@
       "layoutId": "cover-display-cta",
       "slots": {
         "pageNumber": "01",
-        "headlineLine1": "One Engineer",
-        "headlineLine2": "One Whole Team",
-        "accentSuffix": "."
+        "headlineLine1": "One Dev Army",
+        "headlineLine2": "Full Stack Crew",
+        "accentSuffix": "!"
       }
     },
     {
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "02",
-        "title": "2. Vercel, the platform engineer",
-        "body": "Vercel ships every commit to a global edge network (vercel.com). It handles CI/CD, previews, and scaling so you skip hiring a DevOps engineer.",
-        "iconSlug": "vercel",
-        "iconColor": "#ffffff"
+        "title": "1. GitHub, the collaborator",
+        "body": "Actions run CI, Issues track bugs, and Copilot reviews code so you ship without a dev team.",
+        "iconSlug": "github"
       }
     },
     {
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "03",
-        "title": "3. Supabase, the backend engineer",
-        "body": "Supabase gives you Postgres, auth, and edge functions in one platform (supabase.com). It replaces a backend team and scales without ops overhead.",
-        "iconSlug": "supabase",
-        "iconColor": "#3ecf8e"
+        "title": "2. Vercel, the platform",
+        "body": "Preview deployments, edge functions, and analytics replace a frontend platform engineer on every push.",
+        "iconSlug": "vercel"
       }
     },
     {
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "04",
-        "title": "4. GitHub, the code reviewer",
-        "body": "GitHub hosts code, runs CI checks, and manages pull requests with built-in review (github.com). It acts as your entire engineering workflow layer.",
-        "iconSlug": "github",
-        "iconColor": "#ffffff"
+        "title": "3. Notion, the brain",
+        "body": "Docs, roadmaps, and wikis in one hub eliminate the need for a dedicated PM or writer.",
+        "iconSlug": "notion"
       }
     },
     {
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "05",
-        "title": "5. Linear, the project manager",
-        "body": "Linear turns bugs and features into a clean roadmap with automatic cycles (linear.app). It replaces a product manager keeping the ship on track.",
-        "iconSlug": "linear",
-        "iconColor": "#5e6ad2"
+        "title": "4. Linear, the planner",
+        "body": "Cycles, prioritization, and GitHub sync automate sprint planning so you never need a scrum master.",
+        "iconSlug": "linear"
       }
     },
     {
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "06",
-        "title": "6. Stripe, the billing engineer",
-        "body": "Stripe handles subscriptions, invoicing, and tax compliance out of the box (stripe.com). It replaces a finance engineer building billing from scratch.",
-        "iconSlug": "stripe",
-        "iconColor": "#635bff"
+        "title": "5. Stripe, the billing",
+        "body": "Stripe handles invoicing, tax, and global payments out of the box, removing finance and ops overhead.",
+        "iconSlug": "stripe"
       }
     },
     {
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "07",
-        "title": "7. Zapier, the integrations engineer",
-        "body": "Zapier connects your stack and automates workflows across 5,000+ apps (zapier.com). It replaces an integrations engineer writing endless glue code.",
-        "iconSlug": "zapier",
-        "iconColor": "#ff4a00"
+        "title": "6. Figma, the designer",
+        "body": "Design, prototype, and handoff in the browser replaces a UI designer and keeps assets developer-ready.",
+        "iconSlug": "figma"
+      }
+    },
+    {
+      "layoutId": "cta-display-cta",
+      "slots": {
+        "pageNumber": "08",
+        "eyebrow": "YOUR MOVE",
+        "headline": "Deploy Your Solo Stack",
+        "subline": "Grab this stack and ship products faster than most funded teams.",
+        "buttonLabel": "Save this post",
+        "handle": "@yourhandle"
       }
     }
   ]

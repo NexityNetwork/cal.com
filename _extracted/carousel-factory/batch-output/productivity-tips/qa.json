@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/productivity-tips/slide-01.png",
-      "bytes": 100713,
+      "bytes": 106035,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -23,7 +23,7 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/productivity-tips/slide-02.png",
-      "bytes": 329363,
+      "bytes": 340771,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -43,7 +43,7 @@
     {
       "index": 2,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/productivity-tips/slide-03.png",
-      "bytes": 328047,
+      "bytes": 336790,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -63,7 +63,7 @@
     {
       "index": 3,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/productivity-tips/slide-04.png",
-      "bytes": 330311,
+      "bytes": 336239,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -83,7 +83,7 @@
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/productivity-tips/slide-05.png",
-      "bytes": 329847,
+      "bytes": 335661,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -103,7 +103,7 @@
     {
       "index": 5,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/productivity-tips/slide-06.png",
-      "bytes": 326548,
+      "bytes": 330686,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -123,7 +123,27 @@
     {
       "index": 6,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/productivity-tips/slide-07.png",
-      "bytes": 335120,
+      "bytes": 334041,
+      "qa": {
+        "verdict": "fail",
+        "checks": {
+          "has_frame": false,
+          "no_unfilled_slots": true,
+          "has_page_badge": false
+        },
+        "issues": [
+          "missing .frame container"
+        ]
+      },
+      "fingerprint": {
+        "layout": "unknown",
+        "elements": {}
+      }
+    },
+    {
+      "index": 7,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/productivity-tips/slide-08.png",
+      "bytes": 65101,
       "qa": {
         "verdict": "fail",
         "checks": {
@@ -184,6 +204,13 @@
         "between": [
           6,
           7
+        ],
+        "similarity": 0
+      },
+      {
+        "between": [
+          7,
+          8
         ],
         "similarity": 0
       }

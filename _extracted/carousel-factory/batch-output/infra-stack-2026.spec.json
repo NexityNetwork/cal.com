@@ -8,8 +8,8 @@
       "layoutId": "cover-display-cta",
       "slots": {
         "pageNumber": "01",
-        "headlineLine1": "Bye Heroku",
-        "headlineLine2": "Hello Cloudflare",
+        "headlineLine1": "The AI Startup Stack",
+        "headlineLine2": "Built for 2026",
         "accentSuffix": "!"
       }
     },
@@ -17,8 +17,8 @@
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "02",
-        "title": "1. Cloudflare, The Edge",
-        "body": "Host globally on Workers. Cut egress costs and slash cold starts to zero.",
+        "title": "1. Cloudflare, the edge layer",
+        "body": "Ditch Heroku. Deploy Workers close to users for sub-50ms cold starts and zero scaling limits. Your backend now lives on 300+ cities.",
         "iconSlug": "cloudflare",
         "iconColor": "#F38020"
       }
@@ -27,8 +27,8 @@
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "03",
-        "title": "2. Supabase, The Database",
-        "body": "Postgres with auth, storage, and realtime. Run vector queries via pgvector without a second vendor.",
+        "title": "2. Supabase, the Postgres backend",
+        "body": "Managed Postgres with realtime websockets, vector extensions for RAG, and Row Level Security. Stop babysitting database clusters.",
         "iconSlug": "supabase",
         "iconColor": "#3ECF8E"
       }
@@ -37,8 +37,8 @@
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "04",
-        "title": "3. Vercel, The Frontend",
-        "body": "Ship Next.js apps with AI SDK streaming. Preview every pull request automatically.",
+        "title": "3. Vercel, the frontend engine",
+        "body": "Ship Next.js apps with global CDN, instant previews, and edge middleware. Frontend deploys in seconds, not minutes.",
         "iconSlug": "vercel",
         "iconColor": "#FFFFFF"
       }
@@ -47,18 +47,8 @@
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "05",
-        "title": "4. Stripe, The Billing",
-        "body": "Meter usage and charge per token. Stripe handles invoicing, tax, and failed payments.",
-        "iconSlug": "stripe",
-        "iconColor": "#635BFF"
-      }
-    },
-    {
-      "layoutId": "body-icon-centered",
-      "slots": {
-        "pageNumber": "06",
-        "title": "5. OpenAI, The Brain",
-        "body": "Call GPT-4o and embeddings via API. No GPU servers, no midnight paging.",
+        "title": "4. OpenAI, the model layer",
+        "body": "GPT-5 and o3 reasoning APIs handle inference without self-hosted GPUs. Pay per token and scale to millions of requests.",
         "iconSlug": "openai",
         "iconColor": "#10A37F"
       }
@@ -66,11 +56,32 @@
     {
       "layoutId": "body-icon-centered",
       "slots": {
+        "pageNumber": "06",
+        "title": "5. LangChain, the AI glue",
+        "body": "Chain prompts, tools, and retrieval into reliable agents. It turns raw LLM calls into production-grade workflows fast.",
+        "iconSlug": "langchain",
+        "iconColor": "#FF5F1F"
+      }
+    },
+    {
+      "layoutId": "body-icon-centered",
+      "slots": {
         "pageNumber": "07",
-        "title": "6. GitHub, The Pipeline",
-        "body": "Store code, run Actions, and review PRs. The entire team ships from one place.",
-        "iconSlug": "github",
-        "iconColor": "#FFFFFF"
+        "title": "6. Stripe, the revenue engine",
+        "body": "Billing, subscriptions, and usage-based pricing out of the box. Focus on product while Stripe handles global payments compliance.",
+        "iconSlug": "stripe",
+        "iconColor": "#635BFF"
+      }
+    },
+    {
+      "layoutId": "cta-display-cta",
+      "slots": {
+        "pageNumber": "08",
+        "eyebrow": "YOUR MOVE",
+        "headline": "Ship your AI startup today",
+        "subline": "Save this framework and start building on the edge. No Heroku required.",
+        "buttonLabel": "Save this post",
+        "handle": "@stackshift"
       }
     }
   ]
