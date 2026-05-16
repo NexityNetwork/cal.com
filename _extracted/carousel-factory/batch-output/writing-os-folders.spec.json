@@ -1,0 +1,174 @@
+{
+  "id": "writing-os-folders",
+  "brand": "Writing OS",
+  "brief": "The writing OS that ships me a newsletter every Friday — 3 folders, one Claude command.",
+  "theme": "second-brain",
+  "slides": [
+    {
+      "layoutId": "cover-second-brain",
+      "slots": {
+        "filename": "NEWSLETTER_OS.sys",
+        "bigNumber": "3",
+        "bigLabel": "Folders",
+        "folderDesc": "inbox + drafts + shipped",
+        "headlineMain": "I Built My",
+        "headlineAccent": "Newsletter OS",
+        "headlineLine2": "With 3 Folders",
+        "subLine1": "It's not an app. It's not a plugin.",
+        "subLine2": "It's just",
+        "subAccent": "3 folders",
+        "subTail": "and one command."
+      }
+    },
+    {
+      "layoutId": "body-second-brain",
+      "slots": {
+        "eyebrow": "SYSTEM",
+        "number": "01",
+        "title": "Newsletter OS",
+        "terminalPath": "~/newsletter-os",
+        "term1Cmd": "mkdir",
+        "term1Arg": "inbox/",
+        "term2Cmd": "mkdir",
+        "term2Arg": "drafts/",
+        "term3Cmd": "mkdir",
+        "term3Arg": "shipped/",
+        "quote": "That's the entire architecture right there.",
+        "card1Key": "inbox/",
+        "card1Desc": "Capture every raw idea and link instantly.",
+        "card2Key": "drafts/",
+        "card2Desc": "Develop outlines and write your weekly essay.",
+        "card3Key": "shipped/",
+        "card3Desc": "Archive published newsletters and track growth.",
+        "nextNote": "How to capture raw ideas"
+      }
+    },
+    {
+      "layoutId": "body-second-brain",
+      "slots": {
+        "eyebrow": "STEP",
+        "number": "02",
+        "title": "Capture Raw",
+        "terminalPath": "~/newsletter-os/inbox",
+        "term1Cmd": "touch",
+        "term1Arg": "idea-001.md",
+        "term2Cmd": "touch",
+        "term2Arg": "link-002.md",
+        "term3Cmd": "touch",
+        "term3Arg": "quote-003.md",
+        "quote": "Dump it all here without any judgment.",
+        "card1Key": "ideas/",
+        "card1Desc": "Fleeting thoughts and random sparks of insight.",
+        "card2Key": "links/",
+        "card2Desc": "Articles, tweets, and sources worth saving.",
+        "card3Key": "snippets/",
+        "card3Desc": "Quotes, data points, and phrases you love.",
+        "nextNote": "Develop into drafts"
+      }
+    },
+    {
+      "layoutId": "body-second-brain",
+      "slots": {
+        "eyebrow": "STEP",
+        "number": "03",
+        "title": "Develop Drafts",
+        "terminalPath": "~/newsletter-os/drafts",
+        "term1Cmd": "cp",
+        "term1Arg": "inbox/* drafts/",
+        "term2Cmd": "vim",
+        "term2Arg": "friday-newsletter.md",
+        "term3Cmd": "touch",
+        "term3Arg": "drafts/outline.md",
+        "quote": "Connect the dots until it sings.",
+        "card1Key": "outline/",
+        "card1Desc": "Structure your narrative before you write.",
+        "card2Key": "write/",
+        "card2Desc": "Fill the sections with stories and proof.",
+        "card3Key": "edit/",
+        "card3Desc": "Cut the fluff and sharpen every line.",
+        "nextNote": "Run the Claude command"
+      }
+    },
+    {
+      "layoutId": "body-second-brain",
+      "slots": {
+        "eyebrow": "STEP",
+        "number": "04",
+        "title": "Claude Command",
+        "terminalPath": "~/newsletter-os",
+        "term1Cmd": "cat",
+        "term1Arg": "drafts/*.md",
+        "term2Cmd": "claude",
+        "term2Arg": "--prompt newsletter.sys",
+        "term3Cmd": "mv",
+        "term3Arg": "output.html shipped/",
+        "quote": "One prompt turns chaos into publish.",
+        "card1Key": "prompt/",
+        "card1Desc": "A single system prompt for your voice.",
+        "card2Key": "polish/",
+        "card2Desc": "Claude edits, formats, and builds the HTML.",
+        "card3Key": "export/",
+        "card3Desc": "Copy-paste ready for your email platform.",
+        "nextNote": "Ship it every Friday"
+      }
+    },
+    {
+      "layoutId": "body-second-brain",
+      "slots": {
+        "eyebrow": "STEP",
+        "number": "05",
+        "title": "Ship Weekly",
+        "terminalPath": "~/newsletter-os/shipped",
+        "term1Cmd": "cp",
+        "term1Arg": "drafts/final.md shipped/",
+        "term2Cmd": "git",
+        "term2Arg": "commit -m 'ship'",
+        "term3Cmd": "echo",
+        "term3Arg": "\"Week 42 done.\"",
+        "quote": "Your archive of everything you shipped.",
+        "card1Key": "archive/",
+        "card1Desc": "Every newsletter saved with a dated filename.",
+        "card2Key": "assets/",
+        "card2Desc": "Images, headers, and media for each issue.",
+        "card3Key": "metrics/",
+        "card3Desc": "Open rates and growth notes over time.",
+        "nextNote": "Repeat the loop"
+      }
+    },
+    {
+      "layoutId": "body-second-brain",
+      "slots": {
+        "eyebrow": "SYSTEM",
+        "number": "06",
+        "title": "Weekly Loop",
+        "terminalPath": "~/newsletter-os",
+        "term1Cmd": "ls",
+        "term1Arg": "shipped/ | wc -l",
+        "term2Cmd": "git",
+        "term2Arg": "tag week-42",
+        "term3Cmd": "echo",
+        "term3Arg": "\"Next Friday loading...\"",
+        "quote": "Rinse and repeat every single week.",
+        "card1Key": "collect/",
+        "card1Desc": "Monday to Thursday: fill the inbox.",
+        "card2Key": "draft/",
+        "card2Desc": "Thursday morning: build the narrative.",
+        "card3Key": "ship/",
+        "card3Desc": "Friday morning: run Claude and send.",
+        "nextNote": "Build your own today"
+      }
+    },
+    {
+      "layoutId": "cta-second-brain",
+      "slots": {
+        "filename": "NEWSLETTER_OS.sys",
+        "eyebrow": "YOUR TURN",
+        "headlineMain": "Build Your",
+        "headlineAccent": "Newsletter OS",
+        "body": "Steal this 3-folder system. Save this post and drop a 🧠 if you want the exact Claude prompt I run every Friday.",
+        "buttonLabel": "Save this post",
+        "handle": "@writersys"
+      }
+    }
+  ]
+}

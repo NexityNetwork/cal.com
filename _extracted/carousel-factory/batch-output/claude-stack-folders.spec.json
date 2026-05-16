@@ -1,0 +1,174 @@
+{
+  "id": "claude-stack-folders",
+  "brand": "Claude Stack",
+  "brief": "The Claude Code folder structure that runs my whole business — agents, hooks, skills.",
+  "theme": "second-brain",
+  "slides": [
+    {
+      "layoutId": "cover-second-brain",
+      "slots": {
+        "filename": "CLAUDE_STACK.sys",
+        "bigNumber": "3",
+        "bigLabel": "Folders",
+        "folderDesc": "agents + hooks + skills",
+        "headlineMain": "I Built My",
+        "headlineAccent": "Agent Stack",
+        "headlineLine2": "With 3 Folders",
+        "subLine1": "It's not an app. It's not a plugin.",
+        "subLine2": "It's just",
+        "subAccent": "3 folders",
+        "subTail": "on your computer."
+      }
+    },
+    {
+      "layoutId": "body-second-brain",
+      "slots": {
+        "eyebrow": "SYSTEM",
+        "number": "01",
+        "title": "Three Folders",
+        "terminalPath": "~/claude-stack",
+        "term1Cmd": "mkdir",
+        "term1Arg": "agents/",
+        "term2Cmd": "mkdir",
+        "term2Arg": "hooks/",
+        "term3Cmd": "mkdir",
+        "term3Arg": "skills/",
+        "quote": "That's the entire architecture, nothing more.",
+        "card1Key": "agents/",
+        "card1Desc": "Specialist workers that run tasks end-to-end.",
+        "card2Key": "hooks/",
+        "card2Desc": "Event triggers that fire agents automatically.",
+        "card3Key": "skills/",
+        "card3Desc": "Reusable scripts the whole stack shares.",
+        "nextNote": "Meet your agents next."
+      }
+    },
+    {
+      "layoutId": "body-second-brain",
+      "slots": {
+        "eyebrow": "STEP",
+        "number": "02",
+        "title": "Agents Folder",
+        "terminalPath": "~/claude-stack/agents",
+        "term1Cmd": "touch",
+        "term1Arg": "onboard.md",
+        "term2Cmd": "touch",
+        "term2Arg": "writer.md",
+        "term3Cmd": "touch",
+        "term3Arg": "coder.md",
+        "quote": "Each agent is a prompt with a job.",
+        "card1Key": "onboard",
+        "card1Desc": "Handles new client intake and discovery calls.",
+        "card2Key": "writer",
+        "card2Desc": "Drafts content, emails, and sales copy.",
+        "card3Key": "coder",
+        "card3Desc": "Ships features, reviews, and debugs code.",
+        "nextNote": "Automate with hooks."
+      }
+    },
+    {
+      "layoutId": "body-second-brain",
+      "slots": {
+        "eyebrow": "STEP",
+        "number": "03",
+        "title": "Hooks Folder",
+        "terminalPath": "~/claude-stack/hooks",
+        "term1Cmd": "touch",
+        "term1Arg": "pre-commit",
+        "term2Cmd": "touch",
+        "term2Arg": "cron.sh",
+        "term3Cmd": "touch",
+        "term3Arg": "webhook.js",
+        "quote": "Events that trigger agents without you.",
+        "card1Key": "pre-commit",
+        "card1Desc": "Runs tests and linting before every push.",
+        "card2Key": "cron",
+        "card2Desc": "Schedules daily reports and backups.",
+        "card3Key": "webhook",
+        "card3Desc": "Listens for form fills and fires agents.",
+        "nextNote": "Sharpen your skills."
+      }
+    },
+    {
+      "layoutId": "body-second-brain",
+      "slots": {
+        "eyebrow": "STEP",
+        "number": "04",
+        "title": "Skills Folder",
+        "terminalPath": "~/claude-stack/skills",
+        "term1Cmd": "touch",
+        "term1Arg": "search.py",
+        "term2Cmd": "touch",
+        "term2Arg": "scrape.js",
+        "term3Cmd": "touch",
+        "term3Arg": "parse.py",
+        "quote": "One tool, used by every agent.",
+        "card1Key": "search",
+        "card1Desc": "Semantic search across docs and notes.",
+        "card2Key": "scrape",
+        "card2Desc": "Pulls data from any site into markdown.",
+        "card3Key": "parse",
+        "card3Desc": "Reads PDFs, CSVs, and attachments.",
+        "nextNote": "Wire them together."
+      }
+    },
+    {
+      "layoutId": "body-second-brain",
+      "slots": {
+        "eyebrow": "SYSTEM",
+        "number": "05",
+        "title": "The Loop",
+        "terminalPath": "~/claude-stack",
+        "term1Cmd": "ls",
+        "term1Arg": "hooks/",
+        "term2Cmd": "ls",
+        "term2Arg": "agents/",
+        "term3Cmd": "ls",
+        "term3Arg": "skills/",
+        "quote": "They talk through the file system.",
+        "card1Key": "trigger",
+        "card1Desc": "Hooks detect events and queue tasks.",
+        "card2Key": "route",
+        "card2Desc": "Agents pick jobs from the queue.",
+        "card3Key": "ship",
+        "card3Desc": "Skills execute and write outputs.",
+        "nextNote": "Boot the system."
+      }
+    },
+    {
+      "layoutId": "body-second-brain",
+      "slots": {
+        "eyebrow": "STEP",
+        "number": "06",
+        "title": "Boot It Up",
+        "terminalPath": "~/claude-stack",
+        "term1Cmd": "claude",
+        "term1Arg": "init",
+        "term2Cmd": "claude",
+        "term2Arg": "run",
+        "term3Cmd": "claude",
+        "term3Arg": "deploy",
+        "quote": "One command starts the whole business.",
+        "card1Key": "init",
+        "card1Desc": "Scaffolds agents, hooks, and skills.",
+        "card2Key": "run",
+        "card2Desc": "Starts the local event loop.",
+        "card3Key": "deploy",
+        "card3Desc": "Pushes to production in seconds.",
+        "nextNote": "Build yours today."
+      }
+    },
+    {
+      "layoutId": "cta-second-brain",
+      "slots": {
+        "filename": "CLAUDE_STACK.sys",
+        "eyebrow": "YOUR TURN",
+        "headlineMain": "Build Your",
+        "headlineAccent": "Agent Stack",
+        "body": "Clone the structure, fill your 3 folders, and let Claude Code run your business while you sleep.",
+        "buttonLabel": "Save this post",
+        "handle": "@claude_stack"
+      }
+    }
+  ]
+}
