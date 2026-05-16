@@ -1,0 +1,112 @@
+{
+  "id": "ai-shaping-business",
+  "brand": "Alex Morgan",
+  "brief": "How AI is shaping future business — 6 ways every founder should know.",
+  "theme": "linkedin-pro",
+  "slides": [
+    {
+      "layoutId": "cover-linkedin-pro",
+      "slots": {
+        "author": "Alex Morgan",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "1",
+        "accentColor": "#0a66c2",
+        "headline": "AI Is Reshaping Business Forever",
+        "heroSymbol": "AI",
+        "heroBg": "#0a66c2",
+        "heroBg2": "#3b82f6",
+        "body": "Artificial intelligence is no longer optional for modern founders. Here are six powerful shifts you must leverage to stay ahead."
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Alex Morgan",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "2",
+        "accentColor": "#0a66c2",
+        "title": "Automate Repetitive Operations",
+        "body": "AI agents handle invoicing, support, and scheduling without burnout. Founders reclaim hours to focus on strategy and growth.",
+        "heroSymbol": "01",
+        "heroBg": "#0a66c2",
+        "heroBg2": "#3b82f6",
+        "labelText": "SAVE THIS POST"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Alex Morgan",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "3",
+        "accentColor": "#0a66c2",
+        "title": "Personalize Every Customer Journey",
+        "body": "Machine learning tailors recommendations and messaging in real time. This boosts conversion rates and builds lasting loyalty.",
+        "heroSymbol": "02",
+        "heroBg": "#0a66c2",
+        "heroBg2": "#3b82f6",
+        "labelText": "SAVE THIS POST"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Alex Morgan",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "4",
+        "accentColor": "#0a66c2",
+        "title": "Predict Market Trends Early",
+        "body": "Predictive analytics spot demand shifts before competitors react. Founders can allocate capital smarter and reduce wasted spend.",
+        "heroSymbol": "03",
+        "heroBg": "#0a66c2",
+        "heroBg2": "#3b82f6",
+        "labelText": "SAVE THIS POST"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Alex Morgan",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "5",
+        "accentColor": "#0a66c2",
+        "title": "Scale Content and Creative",
+        "body": "Generative AI drafts copy, designs, and video scripts in minutes. Small teams now produce at enterprise-level velocity daily.",
+        "heroSymbol": "04",
+        "heroBg": "#0a66c2",
+        "heroBg2": "#3b82f6",
+        "labelText": "SAVE THIS POST"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Alex Morgan",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "6",
+        "accentColor": "#0a66c2",
+        "title": "Accelerate Smart Decision Making",
+        "body": "Decision intelligence tools surface insights from messy data instantly. Leaders move from gut feelings to confident, evidence-based choices.",
+        "heroSymbol": "05",
+        "heroBg": "#0a66c2",
+        "heroBg2": "#3b82f6",
+        "labelText": "SAVE THIS POST"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Alex Morgan",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "7",
+        "accentColor": "#0a66c2",
+        "title": "Build Future-Ready Teams",
+        "body": "AI augments talent rather than replacing it entirely. Founders must reskill teams to manage machines and unlock creativity.",
+        "heroSymbol": "06",
+        "heroBg": "#0a66c2",
+        "heroBg2": "#3b82f6",
+        "labelText": "SAVE THIS POST"
+      }
+    }
+  ]
+}

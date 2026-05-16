@@ -1,0 +1,112 @@
+{
+  "id": "selling-to-cios",
+  "brand": "Marcus Reid",
+  "brief": "5 things that actually close enterprise deals — from a 7-figure sales leader.",
+  "theme": "linkedin-pro",
+  "slides": [
+    {
+      "layoutId": "cover-linkedin-pro",
+      "slots": {
+        "author": "Marcus Reid",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "1",
+        "accentColor": "#4f3df5",
+        "headline": "5 Closers That Win Enterprise Deals",
+        "heroSymbol": "✦",
+        "heroBg": "#2e1065",
+        "heroBg2": "#4f3df5",
+        "body": "I’ve closed 7-figure contracts for a decade. These five moves separate the reps who win from those who ghost after procurement."
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Marcus Reid",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "2",
+        "accentColor": "#4f3df5",
+        "title": "Map Your Economic Buyer",
+        "body": "Don't stop at the user. Identify who controls budget, who signs, and who cares about ROI. Then sell to all three.",
+        "heroSymbol": "1",
+        "heroBg": "#2e1065",
+        "heroBg2": "#4f3df5",
+        "labelText": "ENTERPRISE CLOSERS"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Marcus Reid",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "3",
+        "accentColor": "#4f3df5",
+        "title": "Quantify The Business Pain",
+        "body": "If you can't put a dollar cost on their problem, you're just another vendor. Build the business case together.",
+        "heroSymbol": "2",
+        "heroBg": "#2e1065",
+        "heroBg2": "#4f3df5",
+        "labelText": "ENTERPRISE CLOSERS"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Marcus Reid",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "4",
+        "accentColor": "#4f3df5",
+        "title": "Multithread The Account",
+        "body": "Single-threaded deals die in reorgs. Build three relationships minimum so one departure doesn't kill momentum.",
+        "heroSymbol": "3",
+        "heroBg": "#2e1065",
+        "heroBg2": "#4f3df5",
+        "labelText": "ENTERPRISE CLOSERS"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Marcus Reid",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "5",
+        "accentColor": "#4f3df5",
+        "title": "Sell The Internal Meeting",
+        "body": "Your champion isn't a salesperson. Give them the deck, the narrative, and the objections to handle inside their company.",
+        "heroSymbol": "4",
+        "heroBg": "#2e1065",
+        "heroBg2": "#4f3df5",
+        "labelText": "ENTERPRISE CLOSERS"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Marcus Reid",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "6",
+        "accentColor": "#4f3df5",
+        "title": "Control The Procurement Timeline",
+        "body": "Never let legal or security become a black hole. Set weekly milestones and assign owners to every block.",
+        "heroSymbol": "5",
+        "heroBg": "#2e1065",
+        "heroBg2": "#4f3df5",
+        "labelText": "ENTERPRISE CLOSERS"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Marcus Reid",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "7",
+        "accentColor": "#4f3df5",
+        "title": "Start Using These Today",
+        "body": "Pick the gap in your current deals and apply it this week. The best reps iterate fast.",
+        "heroSymbol": "✦",
+        "heroBg": "#2e1065",
+        "heroBg2": "#4f3df5",
+        "labelText": "ENTERPRISE CLOSERS"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;800;900&display=swap" rel="stylesheet">
+<style>
+  *{margin:0;padding:0;box-sizing:border-box;}
+  html,body{width:1080px;height:1350px;overflow:hidden;background:#fbe5c3;font-family:"Inter",sans-serif;-webkit-font-smoothing:antialiased;
+    background-image:linear-gradient(to right,#1a1a1a 1px,transparent 1px),linear-gradient(to bottom,#1a1a1a 1px,transparent 1px);
+    background-size:108px 108px;background-position:-1px -1px;}
+  .coil{position:absolute;top:80px;left:80px;width:220px;height:90px;}
+  .coil svg{width:100%;height:100%;}
+  .globe{position:absolute;top:90px;right:80px;width:90px;height:90px;border:2px solid #1a1a1a;border-radius:50%;display:flex;align-items:center;justify-content:center;}
+  .globe::before,.globe::after{content:"";position:absolute;border:2px solid #1a1a1a;}
+  .globe::before{width:30px;height:90px;border-radius:50%;}
+  .globe::after{width:90px;height:30px;border-radius:50%;}
+  .globe-h{position:absolute;left:0;right:0;top:50%;height:0;border-top:2px solid #1a1a1a;}
+  .card{position:absolute;top:340px;left:80px;right:80px;height:560px;background:#d6f06e;border:1.5px solid #1a1a1a;border-radius:48px;
+    display:flex;align-items:center;justify-content:center;padding:60px;
+    box-shadow:14px 14px 0 rgba(255,255,255,0.6),14px 14px 0 1.5px #1a1a1a;}
+  .title{font-size:152px;font-weight:900;letter-spacing:-3px;line-height:0.96;color:#1a1a1a;text-align:center;text-transform:capitalize;}
+  .cta-pill{position:absolute;left:80px;right:80px;bottom:200px;height:96px;background:#e9d6f4;border:1.5px solid #1a1a1a;border-radius:48px;
+    display:flex;align-items:center;justify-content:space-between;padding:0 36px 0 48px;
+    box-shadow:10px 10px 0 rgba(255,255,255,0.6),10px 10px 0 1.5px #1a1a1a;}
+  .cta-pill .text{font-size:32px;font-weight:500;color:#1a1a1a;}
+  .cta-pill .arrow{width:60px;height:60px;background:#ff7e34;border:1.5px solid #1a1a1a;border-radius:50%;display:flex;align-items:center;justify-content:center;color:#1a1a1a;font-size:30px;font-weight:700;}
+  .handle{position:absolute;bottom:80px;left:80px;font-size:30px;font-weight:500;color:#1a1a1a;}
+</style></head>
+<body>
+  <div class="coil"><svg viewBox="0 0 220 90" xmlns="http://www.w3.org/2000/svg"><path d="M5,45 q25,-40 50,0 t50,0 t50,0 t50,0 l-15,-10 M205,45 l-10,10" fill="none" stroke="#1a1a1a" stroke-width="2.5"/></svg></div>
+  <div class="globe"><div class="globe-h"></div></div>
+  <div class="card"><div class="title">{{title}}</div></div>
+  <div class="cta-pill"><span class="text">{{ctaText}}</span><span class="arrow">→</span></div>
+  <div class="handle">{{handle}}</div>
+</body></html>

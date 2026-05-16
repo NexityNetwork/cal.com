@@ -1,0 +1,99 @@
+{
+  "id": "ambition",
+  "brand": "THE RECLAIM",
+  "brief": "Why ambition is overrated — 6 reframes from people who burned out and started over.",
+  "theme": "noir-yellow",
+  "slides": [
+    {
+      "layoutId": "cover-noir-yellow",
+      "slots": {
+        "brand": "THE RECLAIM",
+        "scriptPrefix": "Why",
+        "displayLine1": "AMBITION",
+        "displayLine2": "IS",
+        "displayLine3": "OVERRATED",
+        "scriptTagline": "From people who burned out and started over",
+        "handle": "@the.reclaim",
+        "slideId": "Slide 01"
+      }
+    },
+    {
+      "layoutId": "body-noir-yellow",
+      "slots": {
+        "brand": "THE RECLAIM",
+        "scriptPrefix": "Focus",
+        "displayLine1": "REST",
+        "displayLine2": "IS",
+        "displayLine3": "PRODUCTION",
+        "body": "Burnout taught her that stillness isn't laziness; it's maintenance. She cut her hours in half and doubled her output. Recovery became her competitive advantage.",
+        "handle": "@the.reclaim",
+        "slideId": "Slide 02"
+      }
+    },
+    {
+      "layoutId": "body-noir-yellow",
+      "slots": {
+        "brand": "THE RECLAIM",
+        "scriptPrefix": "Try",
+        "displayLine1": "ENOUGH",
+        "displayLine2": "IS",
+        "displayLine3": "THE GOAL",
+        "body": "He chased promotions until his body forced a stop. Now he defines success by boundaries kept, not titles earned. Peace replaced prestige.",
+        "handle": "@the.reclaim",
+        "slideId": "Slide 03"
+      }
+    },
+    {
+      "layoutId": "body-noir-yellow",
+      "slots": {
+        "brand": "THE RECLAIM",
+        "scriptPrefix": "Begin",
+        "displayLine1": "QUITTING",
+        "displayLine2": "IS",
+        "displayLine3": "STRATEGIC",
+        "body": "She left a corner office to rebuild her health. Walking away wasn't failure; it was the first honest career move she made.",
+        "handle": "@the.reclaim",
+        "slideId": "Slide 04"
+      }
+    },
+    {
+      "layoutId": "body-noir-yellow",
+      "slots": {
+        "brand": "THE RECLAIM",
+        "scriptPrefix": "Focus",
+        "displayLine1": "SLOW",
+        "displayLine2": "IS",
+        "displayLine3": "THE POINT",
+        "body": "After collapse, he stopped glorifying hustle. He now measures weeks by presence, not productivity. The work didn't suffer; his ego did.",
+        "handle": "@the.reclaim",
+        "slideId": "Slide 05"
+      }
+    },
+    {
+      "layoutId": "body-noir-yellow",
+      "slots": {
+        "brand": "THE RECLAIM",
+        "scriptPrefix": "Try",
+        "displayLine1": "JOY",
+        "displayLine2": "IS",
+        "displayLine3": "DISCIPLINE",
+        "body": "She scheduled pleasure like meetings until it became natural. Burnout revealed that a life without play is just a poorly managed burnout cycle.",
+        "handle": "@the.reclaim",
+        "slideId": "Slide 06"
+      }
+    },
+    {
+      "layoutId": "body-noir-yellow",
+      "slots": {
+        "brand": "THE RECLAIM",
+        "scriptPrefix": "Begin",
+        "displayLine1": "YOU",
+        "displayLine2": "ARE NOT",
+        "displayLine3": "YOUR ROLE",
+        "body": "He wrapped his identity in his job and unraveled when it ended. Rebuilding meant separating worth from work. He finally felt whole.",
+        "handle": "@the.reclaim",
+        "slideId": "Slide 07"
+      }
+    }
+  ]
+}

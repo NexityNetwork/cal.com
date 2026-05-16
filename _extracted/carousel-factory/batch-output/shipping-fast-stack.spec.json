@@ -1,0 +1,77 @@
+{
+  "id": "shipping-fast-stack",
+  "brand": "SoloStack",
+  "brief": "7 tools that turn one engineer into a team. Names, urls, why each matters.",
+  "theme": "ember-dark",
+  "slides": [
+    {
+      "layoutId": "cover-display-cta",
+      "slots": {
+        "pageNumber": "01",
+        "headlineLine1": "Stack like a team",
+        "headlineLine2": "With these tools",
+        "accentSuffix": "!"
+      }
+    },
+    {
+      "layoutId": "body-icon-centered",
+      "slots": {
+        "pageNumber": "02",
+        "title": "1. GitHub, the codebase",
+        "body": "Host code, review PRs, and automate CI/CD so you ship like a full engineering team.",
+        "iconSlug": "github",
+        "iconColor": "#FFFFFF"
+      }
+    },
+    {
+      "layoutId": "body-icon-centered",
+      "slots": {
+        "pageNumber": "03",
+        "title": "2. Vercel, the deployer",
+        "body": "Preview every push and deploy globally in seconds without waiting on an ops teammate.",
+        "iconSlug": "vercel",
+        "iconColor": "#FFFFFF"
+      }
+    },
+    {
+      "layoutId": "body-icon-centered",
+      "slots": {
+        "pageNumber": "04",
+        "title": "3. Linear, the planner",
+        "body": "Plan sprints, track bugs, and prioritize tasks with the speed of a dedicated product manager.",
+        "iconSlug": "linear",
+        "iconColor": "#FF9F43"
+      }
+    },
+    {
+      "layoutId": "body-icon-centered",
+      "slots": {
+        "pageNumber": "05",
+        "title": "4. Figma, the designer",
+        "body": "Draft UI, prototype flows, and hand off specs without hiring a visual designer.",
+        "iconSlug": "figma",
+        "iconColor": "#FF7F50"
+      }
+    },
+    {
+      "layoutId": "body-icon-centered",
+      "slots": {
+        "pageNumber": "06",
+        "title": "5. Supabase, the backend",
+        "body": "Spin up Postgres, auth, and APIs in minutes to skip hiring a platform engineer.",
+        "iconSlug": "supabase",
+        "iconColor": "#2ECC71"
+      }
+    },
+    {
+      "layoutId": "body-icon-centered",
+      "slots": {
+        "pageNumber": "07",
+        "title": "6. Slack, the HQ",
+        "body": "Centralize alerts, client messages, and daily standups so nothing slips through the cracks.",
+        "iconSlug": "slack",
+        "iconColor": "#FF6B6B"
+      }
+    }
+  ]
+}

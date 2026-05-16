@@ -1,0 +1,85 @@
+{
+  "id": "skincare-truth",
+  "brand": "BARETRUTH",
+  "brief": "5 things the skincare industry doesn't want you to know.",
+  "theme": "dark-green-serif",
+  "slides": [
+    {
+      "layoutId": "cover-dark-green-serif",
+      "slots": {
+        "brand": "BARETRUTH",
+        "pageOf": "01 OF 07",
+        "headline": "What Are They Hiding?",
+        "subtitle": "Five truths the beauty industry hopes you never discover.",
+        "stickerText": "READ THIS",
+        "handle": "@baretruth"
+      }
+    },
+    {
+      "layoutId": "body-dark-green-serif",
+      "slots": {
+        "brand": "BARETRUTH",
+        "pageOf": "02 OF 07",
+        "number": "01",
+        "title": "You Don't Need Ten Steps",
+        "body": "Cleanser, moisturizer, and sunscreen handle ninety percent of concerns. Extra layers dilute actives and irritate barriers. Fewer steps mean less waste and better results.",
+        "handle": "@baretruth"
+      }
+    },
+    {
+      "layoutId": "body-dark-green-serif",
+      "slots": {
+        "brand": "BARETRUTH",
+        "pageOf": "03 OF 07",
+        "number": "02",
+        "title": "Price Is Mostly Marketing",
+        "body": "Luxury packaging and celebrity endorsements inflate cost, not quality. Drugstore formulas often use identical active ingredients. Your wallet deserves better than pretty bottles.",
+        "handle": "@baretruth"
+      }
+    },
+    {
+      "layoutId": "body-dark-green-serif",
+      "slots": {
+        "brand": "BARETRUTH",
+        "pageOf": "04 OF 07",
+        "number": "03",
+        "title": "Natural Can Still Harm",
+        "body": "Essential oils and lemon juice burn and sensitize skin. Clean beauty lacks regulation, so 'plant-based' does not mean safe. Patch test everything, always.",
+        "handle": "@baretruth"
+      }
+    },
+    {
+      "layoutId": "body-dark-green-serif",
+      "slots": {
+        "brand": "BARETRUTH",
+        "pageOf": "05 OF 07",
+        "number": "04",
+        "title": "Your Barrier Does Everything",
+        "body": "A damaged barrier triggers acne, redness, and rapid aging. Harsh exfoliants strip this shield instead of helping it. Repair first, then treat.",
+        "handle": "@baretruth"
+      }
+    },
+    {
+      "layoutId": "body-dark-green-serif",
+      "slots": {
+        "brand": "BARETRUTH",
+        "pageOf": "06 OF 07",
+        "number": "05",
+        "title": "Consistency Beats Trendy Hype",
+        "body": "Chasing every viral ingredient resets your progress to zero. Skin needs weeks, not days, to show real change. Pick basics and stick with them.",
+        "handle": "@baretruth"
+      }
+    },
+    {
+      "layoutId": "body-dark-green-serif",
+      "slots": {
+        "brand": "BARETRUTH",
+        "pageOf": "07 OF 07",
+        "number": "06",
+        "title": "Your Next Move",
+        "body": "Stop buying fear and start trusting your skin. Share this with anyone drowning in expensive bottles. Knowledge is the only ingredient you need.",
+        "handle": "@baretruth"
+      }
+    }
+  ]
+}

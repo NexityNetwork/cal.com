@@ -1,6 +1,6 @@
 {
   "id": "agent-orchestration",
-  "brand": "AgentOps",
+  "brand": "Orbit",
   "brief": "How we orchestrate 12 agents in production. Tools, patterns, gotchas.",
   "theme": "ember-dark",
   "slides": [
@@ -8,7 +8,7 @@
       "layoutId": "cover-display-cta",
       "slots": {
         "pageNumber": "01",
-        "headlineLine1": "12 Agents",
+        "headlineLine1": "Orchestrate 12 Agents",
         "headlineLine2": "In Production",
         "accentSuffix": "!"
       }
@@ -17,60 +17,60 @@
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "02",
-        "title": "1. Architecture, the foundation",
-        "body": "We run 12 specialized agents across three worker nodes using a central message bus. Each agent owns a single domain and publishes structured events.",
-        "iconSlug": "langchain",
-        "iconColor": "#FF6B6B"
+        "title": "1. Router, the Gatekeeper",
+        "body": "We route requests via a central LLM router that picks the right model based on latency, cost, and capability constraints.",
+        "iconSlug": "cloudflare",
+        "iconColor": "#F97316"
       }
     },
     {
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "03",
-        "title": "2. Orchestrator, the conductor",
-        "body": "A state machine routes tasks using Redis Streams as the backbone. Agents pull jobs, not push, preventing cascade failures.",
-        "iconSlug": "redis",
-        "iconColor": "#FF4438"
+        "title": "2. State, the Single Source",
+        "body": "Postgres locks agent state, checkpoints memory, and prevents race conditions when multiple workers touch the same thread.",
+        "iconSlug": "postgresql",
+        "iconColor": "#F97316"
       }
     },
     {
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "04",
-        "title": "3. Protocol, the contract",
-        "body": "Every agent speaks JSON over gRPC with strict schemas. Shared context lives in PostgreSQL, not in-memory, for recovery.",
-        "iconSlug": "postgresql",
-        "iconColor": "#336791"
+        "title": "3. Workers, the Async Queue",
+        "body": "Redis Streams fan out tasks to twelve specialized workers with consumer groups, backpressure, and dead-letter retries built in.",
+        "iconSlug": "redis",
+        "iconColor": "#F97316"
       }
     },
     {
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "05",
-        "title": "4. Telemetry, the watchdog",
-        "body": "We trace every agent call with OpenTelemetry and pipe logs into Loki. Alerts fire when latency exceeds 2s.",
-        "iconSlug": "slack",
-        "iconColor": "#E01E5A"
+        "title": "4. Tools, the API Mesh",
+        "body": "Every agent calls typed tools via an internal tRPC mesh with schema validation, timeouts, and circuit breakers enforced upstream.",
+        "iconSlug": "typescript",
+        "iconColor": "#F97316"
       }
     },
     {
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "06",
-        "title": "5. Gotchas, the lessons",
-        "body": "Agent loops burn tokens fast. We cap retries at three and enforce a kill switch via circuit breakers.",
-        "iconSlug": "openai",
-        "iconColor": "#10A37F"
+        "title": "5. Evals, the Guardrails",
+        "body": "We run 200+ pytest evals on every deploy: hallucination checks, tool-call accuracy, and output schema compliance against golden sets.",
+        "iconSlug": "github",
+        "iconColor": "#F97316"
       }
     },
     {
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "07",
-        "title": "6. Deploy, the pipeline",
-        "body": "Each agent deploys as a Docker container via GitHub Actions. We version prompts separately from code for safety.",
-        "iconSlug": "docker",
-        "iconColor": "#0DB7ED"
+        "title": "6. Logs, the Flight Recorder",
+        "body": "Structured traces ship to Loki with span IDs linking LLM calls, tool executions, and state diffs for instant replay.",
+        "iconSlug": "loom",
+        "iconColor": "#F97316"
       }
     }
   ]

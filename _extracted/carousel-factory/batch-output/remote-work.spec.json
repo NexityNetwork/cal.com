@@ -1,0 +1,112 @@
+{
+  "id": "remote-work",
+  "brand": "Morgan Chen",
+  "brief": "The 6 habits of the highest-performing remote teams in 2026.",
+  "theme": "linkedin-pro",
+  "slides": [
+    {
+      "layoutId": "cover-linkedin-pro",
+      "slots": {
+        "author": "Morgan Chen",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "1",
+        "accentColor": "#4f3df5",
+        "headline": "6 Habits of Elite Remote Teams",
+        "heroSymbol": "✦",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#8b5cf6",
+        "body": "The highest-performing remote teams in 2026 share six powerful habits. Steal their playbook to build a faster, happier, more resilient team."
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Morgan Chen",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "2",
+        "accentColor": "#4f3df5",
+        "title": "Prioritize Async by Default",
+        "body": "Replace endless Zoom calls with structured written updates. Top teams default to Loom and docs before scheduling a meeting.",
+        "heroSymbol": "✉",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#8b5cf6",
+        "labelText": "THE 2026 PLAYBOOK"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Morgan Chen",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "3",
+        "accentColor": "#4f3df5",
+        "title": "Sacred Deep Work Blocks",
+        "body": "Calendar-free mornings are non-negotiable for elite performers. Protecting focus time drives higher quality output in fewer hours.",
+        "heroSymbol": "⏱",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#8b5cf6",
+        "labelText": "THE 2026 PLAYBOOK"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Morgan Chen",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "4",
+        "accentColor": "#4f3df5",
+        "title": "Write It Down First",
+        "body": "Decisions live in shared docs, not private DMs. A searchable knowledge base prevents repeated questions and speeds onboarding.",
+        "heroSymbol": "☰",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#8b5cf6",
+        "labelText": "THE 2026 PLAYBOOK"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Morgan Chen",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "5",
+        "accentColor": "#4f3df5",
+        "title": "Outcomes Over Hours",
+        "body": "The best teams measure results, not time online. Clear KPIs give people autonomy to work when they are most effective.",
+        "heroSymbol": "%",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#8b5cf6",
+        "labelText": "THE 2026 PLAYBOOK"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Morgan Chen",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "6",
+        "accentColor": "#4f3df5",
+        "title": "Intentional Human Connection",
+        "body": "High trust comes from curated virtual rituals, not forced fun. Brief, purposeful social moments strengthen bonds across time zones.",
+        "heroSymbol": "♡",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#8b5cf6",
+        "labelText": "THE 2026 PLAYBOOK"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Morgan Chen",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "7",
+        "accentColor": "#4f3df5",
+        "title": "AI-First Daily Workflows",
+        "body": "Top performers automate note-taking, scheduling, and reporting. They leverage AI agents to handle noise so humans can create.",
+        "heroSymbol": "AI",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#8b5cf6",
+        "labelText": "THE 2026 PLAYBOOK"
+      }
+    }
+  ]
+}

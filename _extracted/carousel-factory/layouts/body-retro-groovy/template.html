@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;800;900&display=swap" rel="stylesheet">
+<style>
+  *{margin:0;padding:0;box-sizing:border-box;}
+  html,body{width:1080px;height:1350px;overflow:hidden;background:#fbe5c3;font-family:"Inter",sans-serif;-webkit-font-smoothing:antialiased;
+    background-image:linear-gradient(to right,#1a1a1a 1px,transparent 1px),linear-gradient(to bottom,#1a1a1a 1px,transparent 1px);
+    background-size:108px 108px;background-position:-1px -1px;}
+  .top-bar{position:absolute;top:80px;left:80px;right:80px;display:flex;align-items:center;justify-content:space-between;}
+  .num-pill{height:64px;padding:0 28px;background:#e9d6f4;border:1.5px solid #1a1a1a;border-radius:32px;
+    display:flex;align-items:center;font-size:28px;font-weight:700;color:#1a1a1a;
+    box-shadow:8px 8px 0 rgba(255,255,255,0.5),8px 8px 0 1.5px #1a1a1a;}
+  .globe{width:64px;height:64px;border:2px solid #1a1a1a;border-radius:50%;display:flex;align-items:center;justify-content:center;}
+  .globe-h{position:absolute;left:0;right:0;top:50%;height:0;border-top:2px solid #1a1a1a;}
+  .title-card{position:absolute;top:240px;left:80px;right:80px;background:#d6f06e;border:1.5px solid #1a1a1a;border-radius:40px;padding:64px 56px;
+    box-shadow:14px 14px 0 rgba(255,255,255,0.6),14px 14px 0 1.5px #1a1a1a;}
+  .title{font-size:96px;font-weight:900;line-height:0.95;letter-spacing:-2.2px;color:#1a1a1a;text-transform:capitalize;}
+  .body{position:absolute;top:800px;left:80px;right:80px;font-size:36px;font-weight:500;line-height:1.4;color:#1a1a1a;}
+  .footer{position:absolute;bottom:80px;left:80px;right:80px;display:flex;align-items:center;justify-content:space-between;}
+  .handle{font-size:28px;font-weight:500;color:#1a1a1a;}
+  .swipe-pill{height:72px;padding:0 30px;background:#1a1a1a;color:#fbe5c3;border-radius:36px;
+    display:flex;align-items:center;gap:14px;font-size:26px;font-weight:600;letter-spacing:0.02em;}
+</style></head>
+<body>
+  <div class="top-bar">
+    <div class="num-pill">{{number}}</div>
+    <div class="globe" style="position:relative;"><div class="globe-h"></div></div>
+  </div>
+  <div class="title-card"><div class="title">{{title}}</div></div>
+  <div class="body">{{body}}</div>
+  <div class="footer">
+    <div class="handle">{{handle}}</div>
+    <div class="swipe-pill">SWIPE →</div>
+  </div>
+</body></html>

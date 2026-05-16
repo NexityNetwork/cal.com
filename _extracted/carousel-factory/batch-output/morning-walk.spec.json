@@ -1,0 +1,85 @@
+{
+  "id": "morning-walk",
+  "brand": "GROUNDWORK",
+  "brief": "Why a 20-minute morning walk beat my $400 wearable.",
+  "theme": "dark-green-serif",
+  "slides": [
+    {
+      "layoutId": "cover-dark-green-serif",
+      "slots": {
+        "brand": "GROUNDWORK",
+        "pageOf": "01 OF 07",
+        "headline": "Why My Walk Won",
+        "subtitle": "How a free morning habit outperformed expensive metrics.",
+        "stickerText": "FREE FIX",
+        "handle": "@groundwork"
+      }
+    },
+    {
+      "layoutId": "body-dark-green-serif",
+      "slots": {
+        "brand": "GROUNDWORK",
+        "pageOf": "02 OF 07",
+        "number": "01",
+        "title": "The $400 Promise",
+        "body": "I bought the latest tracker hoping for a health revolution. It counted steps, stress, and sleep with clinical precision. The app dashboard looked like mission control. I waited for the magic to happen.",
+        "handle": "@groundwork"
+      }
+    },
+    {
+      "layoutId": "body-dark-green-serif",
+      "slots": {
+        "brand": "GROUNDWORK",
+        "pageOf": "03 OF 07",
+        "number": "02",
+        "title": "Too Much Data",
+        "body": "Instead of clarity, I got anxiety about my recovery score. I spent more time checking charts than actually moving my body. The wearable became another screen demanding my attention. My health felt like a stock market report.",
+        "handle": "@groundwork"
+      }
+    },
+    {
+      "layoutId": "body-dark-green-serif",
+      "slots": {
+        "brand": "GROUNDWORK",
+        "pageOf": "04 OF 07",
+        "number": "03",
+        "title": "The Simple Test",
+        "body": "I parked the watch and laced up my shoes at dawn. Twenty minutes. No metrics, no heart rate zones, just pavement and breath. It felt suspiciously like freedom. I decided to give it thirty days.",
+        "handle": "@groundwork"
+      }
+    },
+    {
+      "layoutId": "body-dark-green-serif",
+      "slots": {
+        "brand": "GROUNDWORK",
+        "pageOf": "05 OF 07",
+        "number": "04",
+        "title": "My Body Changed",
+        "body": "My sleep deepened without a gadget reminding me I failed. Energy lasted through the afternoon slump without caffeine. My knees stopped complaining. The doctor shrugged and said whatever I was doing worked.",
+        "handle": "@groundwork"
+      }
+    },
+    {
+      "layoutId": "body-dark-green-serif",
+      "slots": {
+        "brand": "GROUNDWORK",
+        "pageOf": "06 OF 07",
+        "number": "05",
+        "title": "My Mind Cleared",
+        "body": "Morning light became my meditation before the emails invaded. I noticed birds, weather, and my own thoughts again. The walk created a boundary the wearable never could. Sanity does not require a charging cable.",
+        "handle": "@groundwork"
+      }
+    },
+    {
+      "layoutId": "body-dark-green-serif",
+      "slots": {
+        "brand": "GROUNDWORK",
+        "pageOf": "07 OF 07",
+        "number": "06",
+        "title": "Simple Always Wins",
+        "body": "The wearable is not evil, but it is optional. The walk costs nothing and demands no firmware updates. If you want to feel better, start with shoes. Data is useless without consistent action.",
+        "handle": "@groundwork"
+      }
+    }
+  ]
+}

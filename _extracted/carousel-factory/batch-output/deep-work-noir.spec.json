@@ -1,0 +1,99 @@
+{
+  "id": "deep-work-noir",
+  "brand": "THE DRAFT",
+  "brief": "The 5 quiet rituals of writers who do their best work.",
+  "theme": "noir-yellow",
+  "slides": [
+    {
+      "layoutId": "cover-noir-yellow",
+      "slots": {
+        "brand": "THE DRAFT",
+        "scriptPrefix": "The",
+        "displayLine1": "5 QUIET",
+        "displayLine2": "RITUALS OF",
+        "displayLine3": "GREAT WRITERS",
+        "scriptTagline": "Small habits that shape extraordinary pages",
+        "handle": "@thedraft",
+        "slideId": "Slide 01"
+      }
+    },
+    {
+      "layoutId": "body-noir-yellow",
+      "slots": {
+        "brand": "THE DRAFT",
+        "scriptPrefix": "Begin",
+        "displayLine1": "BEFORE THE",
+        "displayLine2": "FIRST WORD",
+        "displayLine3": "EVER COMES",
+        "body": "The best writing rarely begins at the keyboard. It starts in stillness. These five quiet rituals create the conditions where exceptional work can emerge.",
+        "handle": "@thedraft",
+        "slideId": "Slide 02"
+      }
+    },
+    {
+      "layoutId": "body-noir-yellow",
+      "slots": {
+        "brand": "THE DRAFT",
+        "scriptPrefix": "Try",
+        "displayLine1": "EMPTY THE",
+        "displayLine2": "MIND FIRST",
+        "displayLine3": "EVERY MORNING",
+        "body": "Write three pages of stream-of-consciousness before sunrise. Do not edit. This clears the mental debris and makes room for clarity.",
+        "handle": "@thedraft",
+        "slideId": "Slide 03"
+      }
+    },
+    {
+      "layoutId": "body-noir-yellow",
+      "slots": {
+        "brand": "THE DRAFT",
+        "scriptPrefix": "Focus",
+        "displayLine1": "WALK IN",
+        "displayLine2": "SILENCE BEFORE",
+        "displayLine3": "YOU WRITE",
+        "body": "A twenty-minute walk without headphones untangles narrative knots. Movement quiets the editor in your head so the creator can speak.",
+        "handle": "@thedraft",
+        "slideId": "Slide 04"
+      }
+    },
+    {
+      "layoutId": "body-noir-yellow",
+      "slots": {
+        "brand": "THE DRAFT",
+        "scriptPrefix": "Begin",
+        "displayLine1": "SAME TIME",
+        "displayLine2": "SAME PLACE",
+        "displayLine3": "SAME SIGNAL",
+        "body": "Ritual is an anchor. When you return to the same chair at the same hour, your brain shifts into writing mode automatically.",
+        "handle": "@thedraft",
+        "slideId": "Slide 05"
+      }
+    },
+    {
+      "layoutId": "body-noir-yellow",
+      "slots": {
+        "brand": "THE DRAFT",
+        "scriptPrefix": "Try",
+        "displayLine1": "READ ONE",
+        "displayLine2": "PAGE OF",
+        "displayLine3": "GREAT PROSE",
+        "body": "Read a paragraph of masterful writing before you begin. It tunes your ear to rhythm and reminds you what language is capable of.",
+        "handle": "@thedraft",
+        "slideId": "Slide 06"
+      }
+    },
+    {
+      "layoutId": "body-noir-yellow",
+      "slots": {
+        "brand": "THE DRAFT",
+        "scriptPrefix": "Focus",
+        "displayLine1": "STOP WHEN",
+        "displayLine2": "YOU KNOW",
+        "displayLine3": "WHAT COMES NEXT",
+        "body": "Hemingway left the last sentence unfinished. It guarantees you return with momentum instead of staring at a blank page the next morning.",
+        "handle": "@thedraft",
+        "slideId": "Slide 07"
+      }
+    }
+  ]
+}

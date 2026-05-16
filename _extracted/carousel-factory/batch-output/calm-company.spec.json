@@ -1,0 +1,82 @@
+{
+  "id": "calm-company",
+  "brand": "QuietCraft",
+  "brief": "What it means to run a calm company in a hustle-culture world.",
+  "theme": "beige-paper",
+  "slides": [
+    {
+      "layoutId": "cover-beige-serif",
+      "slots": {
+        "brand": "QuietCraft",
+        "headline": "How to Build a Calm Company in a Hustle-Culture World",
+        "slideCountHero": "6"
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "QuietCraft",
+        "number": "01",
+        "title": "Reject the Grind",
+        "body": "Hustle culture worships busyness as a badge of honor. A calm company measures success by clarity, not chaos. You don't need to outwork everyone to win.",
+        "handle": "@quietcraft",
+        "domain": "quietcraft.com"
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "QuietCraft",
+        "number": "02",
+        "title": "Protect Deep Work",
+        "body": "Constant context switching destroys creativity and strategic thinking. Guard uninterrupted blocks of time like the essential assets they are. Your best ideas need silence to surface.",
+        "handle": "@quietcraft",
+        "domain": "quietcraft.com"
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "QuietCraft",
+        "number": "03",
+        "title": "Hire for Maturity",
+        "body": "Calm teams are built on trust, not micromanagement. Hire adults who own their responsibilities and communicate with honesty. Autonomy thrives where ego is checked at the door.",
+        "handle": "@quietcraft",
+        "domain": "quietcraft.com"
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "QuietCraft",
+        "number": "04",
+        "title": "Embrace Async First",
+        "body": "Synchronous meetings often serve performance rather than progress. Write things down, document decisions clearly, and let people contribute on their own schedule. Clarity beats presence.",
+        "handle": "@quietcraft",
+        "domain": "quietcraft.com"
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "QuietCraft",
+        "number": "05",
+        "title": "Profit Over Growth",
+        "body": "Unsustainable scaling creates anxiety and brittle systems. A calm company prioritizes profitability and customer depth over vanity metrics. Grow only as fast as your values allow.",
+        "handle": "@quietcraft",
+        "domain": "quietcraft.com"
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "QuietCraft",
+        "number": "06",
+        "title": "Rest Is Strategy",
+        "body": "Burnout is not a sustainable competitive advantage. Build sustainable rhythms, encourage real vacations, and model boundaries from the top. Endurance requires recovery.",
+        "handle": "@quietcraft",
+        "domain": "quietcraft.com"
+      }
+    }
+  ]
+}

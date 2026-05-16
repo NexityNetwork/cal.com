@@ -1,0 +1,85 @@
+{
+  "id": "wellness-stack",
+  "brand": "WELLNESS CODE",
+  "brief": "My wellness stack — 5 things that actually moved the needle.",
+  "theme": "dark-green-serif",
+  "slides": [
+    {
+      "layoutId": "cover-dark-green-serif",
+      "slots": {
+        "brand": "WELLNESS CODE",
+        "pageOf": "01 OF 07",
+        "headline": "What Actually Works?",
+        "subtitle": "5 habits that changed my energy, sleep, and focus for good.",
+        "stickerText": "FOR YOU",
+        "handle": "@wellnesscode"
+      }
+    },
+    {
+      "layoutId": "body-dark-green-serif",
+      "slots": {
+        "brand": "WELLNESS CODE",
+        "pageOf": "02 OF 07",
+        "number": "01",
+        "title": "Morning Sunlight First",
+        "body": "Ten minutes within an hour of waking. No phone, no sunglasses, just sky. It anchors your cortisol and sets your circadian clock for better sleep tonight.",
+        "handle": "@wellnesscode"
+      }
+    },
+    {
+      "layoutId": "body-dark-green-serif",
+      "slots": {
+        "brand": "WELLNESS CODE",
+        "pageOf": "03 OF 07",
+        "number": "02",
+        "title": "Magnesium Before Bed",
+        "body": "Not all forms are equal. I use glycinate for calm and sleep depth. It's the one supplement I notice when I skip it.",
+        "handle": "@wellnesscode"
+      }
+    },
+    {
+      "layoutId": "body-dark-green-serif",
+      "slots": {
+        "brand": "WELLNESS CODE",
+        "pageOf": "04 OF 07",
+        "number": "03",
+        "title": "Protein At Every Meal",
+        "body": "Aiming for 30g within 30 minutes of waking stabilized my energy. No more 11am crashes or ravenous late-night snacking.",
+        "handle": "@wellnesscode"
+      }
+    },
+    {
+      "layoutId": "body-dark-green-serif",
+      "slots": {
+        "brand": "WELLNESS CODE",
+        "pageOf": "05 OF 07",
+        "number": "04",
+        "title": "Walking After Eating",
+        "body": "A ten-minute post-meal walk flattens glucose spikes better than any hack. It's free, quiet time that doubles as digestion support.",
+        "handle": "@wellnesscode"
+      }
+    },
+    {
+      "layoutId": "body-dark-green-serif",
+      "slots": {
+        "brand": "WELLNESS CODE",
+        "pageOf": "06 OF 07",
+        "number": "05",
+        "title": "Digital Sunset Hour",
+        "body": "Screens off by 9pm. Amber lights and a book replace the scroll. My sleep latency dropped from forty minutes to under ten.",
+        "handle": "@wellnesscode"
+      }
+    },
+    {
+      "layoutId": "body-dark-green-serif",
+      "slots": {
+        "brand": "WELLNESS CODE",
+        "pageOf": "07 OF 07",
+        "number": "06",
+        "title": "Stack Them Together",
+        "body": "These five aren't fancy. They're consistent. The magic is in the synergy: light, minerals, movement, food, and rest working as one system.",
+        "handle": "@wellnesscode"
+      }
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "id": "internal-tools",
-  "brand": "Stackwise",
+  "brand": "Stack Primer",
   "brief": "6 internal tools every AI startup ships in week 1 — concrete examples.",
   "theme": "ember-dark",
   "slides": [
@@ -8,8 +8,8 @@
       "layoutId": "cover-display-cta",
       "slots": {
         "pageNumber": "01",
-        "headlineLine1": "Week One Stack",
-        "headlineLine2": "Six Internal Tools",
+        "headlineLine1": "6 Internal AI Tools",
+        "headlineLine2": "Shipped Day One",
         "accentSuffix": "!"
       }
     },
@@ -17,60 +17,60 @@
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "02",
-        "title": "1. Slack, the alert hub",
-        "body": "Pipe model failures and deployment notices into a single channel so the team reacts in seconds, not hours.",
-        "iconSlug": "slack",
-        "iconColor": "#F97316"
+        "title": "1. Prompt Lab, the playground",
+        "body": "A shared sandbox where engineers version-test system prompts against live traffic, logging latency and failure rates for every variant.",
+        "iconSlug": "openai",
+        "iconColor": "#FF5F1F"
       }
     },
     {
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "03",
-        "title": "2. Notion, the prompt vault",
-        "body": "Centralize every system prompt, few-shot example, and output template so context stays consistent across experiments.",
-        "iconSlug": "notion",
-        "iconColor": "#F97316"
+        "title": "2. Context Store, the memory",
+        "body": "PostgreSQL with pgvector stores user chat history and document embeddings; retrieval rules are tuned per customer so replies stay context-aware.",
+        "iconSlug": "postgresql",
+        "iconColor": "#FF5F1F"
       }
     },
     {
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "04",
-        "title": "3. GitHub, the code gate",
-        "body": "Enforce pre-commit hooks, type checks, and LLM-generated test coverage before any branch reaches main.",
+        "title": "3. Eval Runner, the judge",
+        "body": "GitHub Action that runs 200 labeled examples through each candidate model, outputting a diff when accuracy drops below the previous baseline.",
         "iconSlug": "github",
-        "iconColor": "#F97316"
+        "iconColor": "#FF5F1F"
       }
     },
     {
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "05",
-        "title": "4. Linear, the task router",
-        "body": "Tag bugs by model version and customer segment so engineers know exactly what to fix first.",
-        "iconSlug": "linear",
-        "iconColor": "#F97316"
+        "title": "4. Cost Guard, the monitor",
+        "body": "Real-time dashboard tracking token spend per user and endpoint, paging the team when any experiment burns more than fifty dollars an hour.",
+        "iconSlug": "stripe",
+        "iconColor": "#FF5F1F"
       }
     },
     {
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "06",
-        "title": "5. Supabase, the data layer",
-        "body": "Store user sessions, embeddings, and metadata in one Postgres instance with Row Level Security enabled.",
-        "iconSlug": "supabase",
-        "iconColor": "#F97316"
+        "title": "5. Ingest Pipe, the crawler",
+        "body": "Cloudflare Worker that chunks new PDFs and sitemap pages into embeddings, upserting them into the vector index every six hours on schedule.",
+        "iconSlug": "cloudflare",
+        "iconColor": "#FF5F1F"
       }
     },
     {
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "07",
-        "title": "6. Loom, the stand-in",
-        "body": "Record two-minute demos of model behavior to replace daily standups and keep remote teams aligned.",
-        "iconSlug": "loom",
-        "iconColor": "#F97316"
+        "title": "6. Deploy Bot, the shipper",
+        "body": "Slash command in Slack that kicks off fine-tuning jobs, promotes the winning checkpoint to production, and posts the latency delta in thread.",
+        "iconSlug": "slack",
+        "iconColor": "#FF5F1F"
       }
     }
   ]

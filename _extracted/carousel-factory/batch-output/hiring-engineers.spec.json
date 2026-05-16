@@ -1,0 +1,112 @@
+{
+  "id": "hiring-engineers",
+  "brand": "FutureStack",
+  "brief": "What we look for when hiring engineers in 2026 (it's not coding tests).",
+  "theme": "linkedin-pro",
+  "slides": [
+    {
+      "layoutId": "cover-linkedin-pro",
+      "slots": {
+        "author": "Sarah Chen",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "1",
+        "accentColor": "#4f3df5",
+        "headline": "How We Hire Engineers in 2026",
+        "heroSymbol": "26",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#8b5cf6",
+        "body": "Coding tests are out. Here's what top engineering teams actually look for when hiring elite talent this year."
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Sarah Chen",
+        "badgeText": "SAVE THIS POST",
+        "accentColor": "#4f3df5",
+        "pageNumber": "2",
+        "title": "Systems Thinking First",
+        "body": "We give messy real-world scenarios and watch how candidates decompose complexity before writing a single line.",
+        "heroSymbol": "ST",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#8b5cf6",
+        "labelText": "HIRE DIFFERENTLY"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Sarah Chen",
+        "badgeText": "SAVE THIS POST",
+        "accentColor": "#4f3df5",
+        "pageNumber": "3",
+        "title": "Collaboration Over Speed",
+        "body": "The best engineers ask questions early. We pair program on unfamiliar codebases to see communication in action.",
+        "heroSymbol": "CP",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#8b5cf6",
+        "labelText": "HIRE DIFFERENTLY"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Sarah Chen",
+        "badgeText": "SAVE THIS POST",
+        "accentColor": "#4f3df5",
+        "pageNumber": "4",
+        "title": "Learn in Real Time",
+        "body": "Tech changes fast. We care more about how you navigate docs, debug unknown stacks, and adapt on the fly.",
+        "heroSymbol": "LR",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#8b5cf6",
+        "labelText": "HIRE DIFFERENTLY"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Sarah Chen",
+        "badgeText": "SAVE THIS POST",
+        "accentColor": "#4f3df5",
+        "pageNumber": "5",
+        "title": "Own the Outcome",
+        "body": "We look for engineers who chase root causes, not ticket closures. Do you fix the bug or the system?",
+        "heroSymbol": "OW",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#8b5cf6",
+        "labelText": "HIRE DIFFERENTLY"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Sarah Chen",
+        "badgeText": "SAVE THIS POST",
+        "accentColor": "#4f3df5",
+        "pageNumber": "6",
+        "title": "User Empathy Matters",
+        "body": "Great code solves human problems. We ask candidates to explain who benefits and why the feature exists.",
+        "heroSymbol": "UE",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#8b5cf6",
+        "labelText": "HIRE DIFFERENTLY"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Sarah Chen",
+        "badgeText": "SAVE THIS POST",
+        "accentColor": "#4f3df5",
+        "pageNumber": "7",
+        "title": "Build the Future",
+        "body": "The 2026 engineering interview is a conversation, not an exam. Ready to rethink your hiring process?",
+        "heroSymbol": "BF",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#8b5cf6",
+        "labelText": "HIRE DIFFERENTLY"
+      }
+    }
+  ]
+}

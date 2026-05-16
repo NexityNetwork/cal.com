@@ -1,0 +1,77 @@
+{
+  "id": "founder-mistakes",
+  "brand": "Founder Memo",
+  "brief": "8 mistakes I made as a first-time founder that cost me $250K.",
+  "theme": "ember-dark",
+  "slides": [
+    {
+      "layoutId": "cover-display-cta",
+      "slots": {
+        "pageNumber": "01",
+        "headlineLine1": "8 Founder Mistakes",
+        "headlineLine2": "Cost Me $250K",
+        "accentSuffix": "!"
+      }
+    },
+    {
+      "layoutId": "body-icon-centered",
+      "slots": {
+        "pageNumber": "02",
+        "title": "1. Hiring Too Fast",
+        "body": "I hired five people before validating demand. Payroll burned $18K monthly while revenue stayed flat. Hire only after traction is undeniable.",
+        "iconSlug": "slack",
+        "iconColor": "#FF4D00"
+      }
+    },
+    {
+      "layoutId": "body-icon-centered",
+      "slots": {
+        "pageNumber": "03",
+        "title": "2. No Customer Calls",
+        "body": "I spent six months building features nobody wanted. Talk to ten prospects before writing a single line of production code.",
+        "iconSlug": "googlemeet",
+        "iconColor": "#FF4D00"
+      }
+    },
+    {
+      "layoutId": "body-icon-centered",
+      "slots": {
+        "pageNumber": "04",
+        "title": "3. Paid Ads Too Early",
+        "body": "I burned $40K on Instagram ads for a leaky funnel. Fix conversion and retention before you spend a dollar on acquisition.",
+        "iconSlug": "instagram",
+        "iconColor": "#FF4D00"
+      }
+    },
+    {
+      "layoutId": "body-icon-centered",
+      "slots": {
+        "pageNumber": "05",
+        "title": "4. Ignoring Burn Rate",
+        "body": "I mixed personal and business funds with zero budget tracking. Know your exact runway every Monday morning without exception.",
+        "iconSlug": "stripe",
+        "iconColor": "#FF4D00"
+      }
+    },
+    {
+      "layoutId": "body-icon-centered",
+      "slots": {
+        "pageNumber": "06",
+        "title": "5. Shipping Too Late",
+        "body": "I rewrote the stack three times chasing perfect architecture. Launch an embarrassing MVP in weeks, not a polished product in months.",
+        "iconSlug": "vercel",
+        "iconColor": "#FF4D00"
+      }
+    },
+    {
+      "layoutId": "body-icon-centered",
+      "slots": {
+        "pageNumber": "07",
+        "title": "6. Yes To Everyone",
+        "body": "I built custom features for every enterprise prospect. One-off requests killed our roadmap. Learn to say no early.",
+        "iconSlug": "linear",
+        "iconColor": "#FF4D00"
+      }
+    }
+  ]
+}

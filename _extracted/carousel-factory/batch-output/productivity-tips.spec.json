@@ -1,0 +1,82 @@
+{
+  "id": "productivity-tips",
+  "brand": "STUDIO",
+  "brief": "6 productivity tips from a designer who built a 7-figure studio.",
+  "theme": "beige-paper",
+  "slides": [
+    {
+      "layoutId": "cover-beige-serif",
+      "slots": {
+        "brand": "STUDIO",
+        "headline": "6 productivity habits that built a 7-figure design studio",
+        "slideCountHero": "6"
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "STUDIO",
+        "number": "01",
+        "title": "Time-block deep work",
+        "body": "Protect three hours daily for focused design without meetings or notifications. This single habit will 10x your creative output faster than any new app.",
+        "handle": "@studio",
+        "domain": "studio.com"
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "STUDIO",
+        "number": "02",
+        "title": "Build template libraries",
+        "body": "Stop designing from scratch by saving every repeated asset as a reusable component. Your future self will thank you when deadlines hit hard.",
+        "handle": "@studio",
+        "domain": "studio.com"
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "STUDIO",
+        "number": "03",
+        "title": "Batch client feedback",
+        "body": "Check emails only twice daily to avoid context switching that fragments your creative flow. Guard your attention like your most valuable billable hour.",
+        "handle": "@studio",
+        "domain": "studio.com"
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "STUDIO",
+        "number": "04",
+        "title": "Automate admin tasks",
+        "body": "Use simple workflows to handle invoicing, scheduling, and file organization without lifting a finger. Free up brain space for the work that actually pays.",
+        "handle": "@studio",
+        "domain": "studio.com"
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "STUDIO",
+        "number": "05",
+        "title": "Reject scope creep",
+        "body": "Define project boundaries in writing before you open any design software. Protecting your time is how you scale without burning out.",
+        "handle": "@studio",
+        "domain": "studio.com"
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "STUDIO",
+        "number": "06",
+        "title": "Review weekly goals",
+        "body": "Zoom out every Friday to measure progress against quarterly goals instead of sweating inbox zero. Strategy beats busywork every single time.",
+        "handle": "@studio",
+        "domain": "studio.com"
+      }
+    }
+  ]
+}

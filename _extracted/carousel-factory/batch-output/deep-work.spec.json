@@ -1,0 +1,82 @@
+{
+  "id": "deep-work",
+  "brand": "DeepWork",
+  "brief": "How to protect 4 hours of deep work in a calendar full of meetings.",
+  "theme": "beige-paper",
+  "slides": [
+    {
+      "layoutId": "cover-beige-serif",
+      "slots": {
+        "brand": "DeepWork",
+        "headline": "How to Protect Four Hours of Deep Work Daily",
+        "slideCountHero": "6"
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "DeepWork",
+        "number": "01",
+        "title": "Audit Your Calendar",
+        "body": "Scan your week for low-priority meetings that steal focus. Cancel or delegate anything that doesn't require your direct input. Reclaiming these slots is the first step toward protected deep work.",
+        "handle": "@x",
+        "domain": "x.com"
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "DeepWork",
+        "number": "02",
+        "title": "Block Deep Work",
+        "body": "Treat your deep-work block like an immovable client meeting. Place it on your calendar at the same time each day. Consistency trains colleagues to respect your focus hours.",
+        "handle": "@x",
+        "domain": "x.com"
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "DeepWork",
+        "number": "03",
+        "title": "Set Clear Boundaries",
+        "body": "Share your focus hours with your team so expectations are clear. Turn on do-not-disturb and close email during these blocks. Boundaries only work when you enforce them visibly.",
+        "handle": "@x",
+        "domain": "x.com"
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "DeepWork",
+        "number": "04",
+        "title": "Batch Meetings Together",
+        "body": "Cluster calls into one or two afternoons rather than scattering them. Batching preserves longer uninterrupted stretches for demanding projects. Your brain switches gears less often, saving mental energy.",
+        "handle": "@x",
+        "domain": "x.com"
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "DeepWork",
+        "number": "05",
+        "title": "Default to Async",
+        "body": "Replace status meetings with brief written updates or recorded videos. Async communication keeps everyone informed without real-time disruption. Reserve live meetings for decisions that genuinely require discussion.",
+        "handle": "@x",
+        "domain": "x.com"
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "DeepWork",
+        "number": "06",
+        "title": "Protect Your Energy",
+        "body": "Schedule deep work during your peak cognitive hours, usually mornings. Avoid back-to-back meetings before your focus block. Guarding this time is how you produce your best work.",
+        "handle": "@x",
+        "domain": "x.com"
+      }
+    }
+  ]
+}

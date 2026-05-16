@@ -1,6 +1,6 @@
 {
   "id": "claude-code-stack",
-  "brand": "Solo Founder Stack",
+  "brand": "SoloStack",
   "brief": "The Claude Code stack a one-person founder uses to ship like a 10-person team.",
   "theme": "ember-dark",
   "slides": [
@@ -8,63 +8,69 @@
       "layoutId": "cover-display-cta",
       "slots": {
         "pageNumber": "01",
-        "headlineLine1": "Ship Like a Team",
+        "headlineLine1": "Ship Like Ten",
         "headlineLine2": "With Claude Code",
-        "accentSuffix": "!"
+        "accentSuffix": "."
       }
     },
     {
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "02",
-        "title": "1. Anthropic, the engine",
-        "body": "Claude Code lives in your terminal. It reads, edits, and tests code across your entire codebase without context switching.",
-        "iconSlug": "anthropic"
+        "title": "1. Figma, the designer",
+        "body": "Design wireframes and high-fidelity UI in Figma. Ship prototypes fast without waiting on a design team.",
+        "iconSlug": "figma",
+        "iconColor": "#F24E1E"
       }
     },
     {
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "03",
-        "title": "2. GitHub, the workflow",
-        "body": "Store code, run CI/CD, and manage releases. Actions auto-deploy on every push so you never touch production manually.",
-        "iconSlug": "github"
+        "title": "2. Next.js, the frontend",
+        "body": "Build the UI with Next.js App Router, React Server Components, and TypeScript for type-safe, fast pages.",
+        "iconSlug": "nextdotjs",
+        "iconColor": "#FFFFFF"
       }
     },
     {
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "04",
-        "title": "3. Next.js, the frontend",
-        "body": "App Router, Server Components, and API routes in one framework. Vercel edge caching delivers sub-second loads globally.",
-        "iconSlug": "nextdotjs"
+        "title": "3. Supabase, the backend",
+        "body": "Use Supabase for Postgres, auth, and real-time subscriptions. Stop managing infrastructure and just write product logic.",
+        "iconSlug": "supabase",
+        "iconColor": "#3ECF8E"
       }
     },
     {
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "05",
-        "title": "4. Supabase, the backend",
-        "body": "Postgres database, auth, and real-time subscriptions without ops. Row-level security handles permissions while you focus on features.",
-        "iconSlug": "supabase"
+        "title": "4. Claude, the engineer",
+        "body": "Let Claude Code write, debug, and refactor across your codebase. It handles boilerplate so you focus on logic.",
+        "iconSlug": "anthropic",
+        "iconColor": "#D97757"
       }
     },
     {
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "06",
-        "title": "5. Vercel, the platform",
-        "body": "Zero-config deployments with preview branches for every PR. Analytics and speed insights keep performance visible without extra tools.",
-        "iconSlug": "vercel"
+        "title": "5. Vercel, the deployer",
+        "body": "Deploy to Vercel for global edge CDN, preview branches, and zero-config CI. Push to main and go live instantly.",
+        "iconSlug": "vercel",
+        "iconColor": "#FFFFFF"
       }
     },
     {
       "layoutId": "body-icon-centered",
       "slots": {
         "pageNumber": "07",
-        "title": "6. Stripe, the revenue",
-        "body": "Billing, subscriptions, and invoicing with webhook-synced events. Claude writes the integration logic while you verify the dashboard.",
-        "iconSlug": "stripe"
+        "title": "6. Linear, the tracker",
+        "body": "Track tasks and sprints in Linear. Keep a tight feedback loop without standups or project-management overhead.",
+        "iconSlug": "linear",
+        "iconColor": "#5E6AD2"
       }
     }
   ]

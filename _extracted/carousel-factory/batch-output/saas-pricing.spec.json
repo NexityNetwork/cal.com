@@ -1,0 +1,112 @@
+{
+  "id": "saas-pricing",
+  "brand": "Alex Chen",
+  "brief": "5 SaaS pricing models that print money in 2026. Tactical breakdown.",
+  "theme": "linkedin-pro",
+  "slides": [
+    {
+      "layoutId": "cover-linkedin-pro",
+      "slots": {
+        "author": "Alex Chen",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "1",
+        "accentColor": "#4f3df5",
+        "headline": "Pricing Models That Print Money in 2026",
+        "heroSymbol": "$",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#7c3aed",
+        "body": "The right pricing strategy can double revenue without adding users. Here are five battle-tested models for the year ahead."
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Alex Chen",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "2",
+        "accentColor": "#4f3df5",
+        "title": "Why Pricing Beats Promotion",
+        "body": "Most SaaS teams obsess over acquisition and ignore monetization. A pricing tweak often outperforms a million-dollar ad campaign.",
+        "heroSymbol": "✦",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#7c3aed",
+        "labelText": "PRINT MONEY"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Alex Chen",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "3",
+        "accentColor": "#4f3df5",
+        "title": "Usage-Based Billing",
+        "body": "Charge by API calls, storage, or widgets consumed. Revenue scales automatically with customer growth and drives net revenue retention.",
+        "heroSymbol": "⚡",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#7c3aed",
+        "labelText": "PRINT MONEY"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Alex Chen",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "4",
+        "accentColor": "#4f3df5",
+        "title": "Good-Better-Best Tiers",
+        "body": "Three options anchor value and nudge buyers to the middle tier. It simplifies decisions while maximizing average contract value.",
+        "heroSymbol": "3",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#7c3aed",
+        "labelText": "PRINT MONEY"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Alex Chen",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "5",
+        "accentColor": "#4f3df5",
+        "title": "Freemium to Enterprise",
+        "body": "Let users self-serve and upgrade naturally. The free tier acts as a lead magnet converting power users into annual contracts.",
+        "heroSymbol": "PL",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#7c3aed",
+        "labelText": "PRINT MONEY"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Alex Chen",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "6",
+        "accentColor": "#4f3df5",
+        "title": "Hybrid Seat Bundles",
+        "body": "Blend a base platform fee with usage overages. This locks in committed revenue while capturing upside as adoption expands.",
+        "heroSymbol": "H",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#7c3aed",
+        "labelText": "PRINT MONEY"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Alex Chen",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "7",
+        "accentColor": "#4f3df5",
+        "title": "Outcome-Based Pricing",
+        "body": "Charge a percentage of revenue or savings you generate. When the customer wins, you win. It aligns incentives perfectly.",
+        "heroSymbol": "%",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#7c3aed",
+        "labelText": "PRINT MONEY"
+      }
+    }
+  ]
+}

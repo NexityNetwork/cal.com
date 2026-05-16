@@ -1,0 +1,85 @@
+{
+  "id": "sleep-rituals",
+  "brand": "NIGHTWELL",
+  "brief": "The 5-step sleep ritual that fixed my insomnia.",
+  "theme": "dark-green-serif",
+  "slides": [
+    {
+      "layoutId": "cover-dark-green-serif",
+      "slots": {
+        "brand": "NIGHTWELL",
+        "pageOf": "01 OF 07",
+        "headline": "The Sleep Fix?",
+        "subtitle": "The evening routine that finally worked.",
+        "stickerText": "TRY THIS",
+        "handle": "@nightwell"
+      }
+    },
+    {
+      "layoutId": "body-dark-green-serif",
+      "slots": {
+        "brand": "NIGHTWELL",
+        "pageOf": "02 OF 07",
+        "number": "01",
+        "title": "Cut Caffeine Early",
+        "body": "Stop caffeine after 2 PM. It lingers in your system longer than you think, blocking adenosine.",
+        "handle": "@nightwell"
+      }
+    },
+    {
+      "layoutId": "body-dark-green-serif",
+      "slots": {
+        "brand": "NIGHTWELL",
+        "pageOf": "03 OF 07",
+        "number": "02",
+        "title": "Digital Sunset Rule",
+        "body": "No screens one hour before bed. Blue light suppresses melatonin and keeps your brain wired.",
+        "handle": "@nightwell"
+      }
+    },
+    {
+      "layoutId": "body-dark-green-serif",
+      "slots": {
+        "brand": "NIGHTWELL",
+        "pageOf": "04 OF 07",
+        "number": "03",
+        "title": "Cool Your Room Down",
+        "body": "Set thermostat to 65 degrees. A cooler core tells your body it's time to hibernate.",
+        "handle": "@nightwell"
+      }
+    },
+    {
+      "layoutId": "body-dark-green-serif",
+      "slots": {
+        "brand": "NIGHTWELL",
+        "pageOf": "05 OF 07",
+        "number": "04",
+        "title": "Try Box Breathing",
+        "body": "Inhale four counts, hold, exhale, hold. Repeat ten times to shift into parasympathetic mode.",
+        "handle": "@nightwell"
+      }
+    },
+    {
+      "layoutId": "body-dark-green-serif",
+      "slots": {
+        "brand": "NIGHTWELL",
+        "pageOf": "06 OF 07",
+        "number": "05",
+        "title": "Same Time Daily",
+        "body": "Wake up at the same time every day. Consistency anchors your circadian rhythm better than anything.",
+        "handle": "@nightwell"
+      }
+    },
+    {
+      "layoutId": "body-dark-green-serif",
+      "slots": {
+        "brand": "NIGHTWELL",
+        "pageOf": "07 OF 07",
+        "number": "06",
+        "title": "Wake Up Rested",
+        "body": "Stack these five steps for one week. Your brain will relearn how to fall asleep fast.",
+        "handle": "@nightwell"
+      }
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "id": "burnout",
+  "brand": "The Midnight Edit",
+  "brief": "How to boost productivity without burnout. Editorial, lit-mag tone.",
+  "theme": "noir-yellow",
+  "slides": [
+    {
+      "layoutId": "cover-noir-yellow",
+      "slots": {
+        "brand": "The Midnight Edit",
+        "scriptPrefix": "How",
+        "displayLine1": "TO WORK",
+        "displayLine2": "WITHOUT",
+        "displayLine3": "BURNING OUT",
+        "scriptTagline": "An editor’s note on surviving your own ambition",
+        "handle": "@themidnightedit",
+        "slideId": "Slide 01"
+      }
+    },
+    {
+      "layoutId": "body-noir-yellow",
+      "slots": {
+        "brand": "The Midnight Edit",
+        "scriptPrefix": "Focus",
+        "displayLine1": "ON THE",
+        "displayLine2": "DEEP WORK",
+        "displayLine3": "NOT THE CHAOS",
+        "body": "Burnout feeds on the illusion of constant motion. Choose the task that demands your full mind, and let the inbox wait.",
+        "handle": "@themidnightedit",
+        "slideId": "Slide 02"
+      }
+    },
+    {
+      "layoutId": "body-noir-yellow",
+      "slots": {
+        "brand": "The Midnight Edit",
+        "scriptPrefix": "Try",
+        "displayLine1": "RUTHLESS",
+        "displayLine2": "SCHEDULE",
+        "displayLine3": "BLOCKING",
+        "body": "Treat your calendar like a short story: every scene must earn its place. If the meeting lacks a plot, delete it.",
+        "handle": "@themidnightedit",
+        "slideId": "Slide 03"
+      }
+    },
+    {
+      "layoutId": "body-noir-yellow",
+      "slots": {
+        "brand": "The Midnight Edit",
+        "scriptPrefix": "Begin",
+        "displayLine1": "WITH A",
+        "displayLine2": "SINGLE",
+        "displayLine3": "SENTENCE",
+        "body": "The blank page is less frightening than the thought of finishing the whole novel. Write one true line, then stop.",
+        "handle": "@themidnightedit",
+        "slideId": "Slide 04"
+      }
+    },
+    {
+      "layoutId": "body-noir-yellow",
+      "slots": {
+        "brand": "The Midnight Edit",
+        "scriptPrefix": "Focus",
+        "displayLine1": "REST AS",
+        "displayLine2": "CRAFT",
+        "displayLine3": "NOT REWARD",
+        "body": "Sleep is not the epilogue; it is the editing bay where the day gets cut into sense. Guard it fiercely.",
+        "handle": "@themidnightedit",
+        "slideId": "Slide 05"
+      }
+    },
+    {
+      "layoutId": "body-noir-yellow",
+      "slots": {
+        "brand": "The Midnight Edit",
+        "scriptPrefix": "Try",
+        "displayLine1": "THE TWO",
+        "displayLine2": "MINUTE",
+        "displayLine3": "THRESHOLD",
+        "body": "If it takes less time than brewing a cup of black coffee, do it now. Procrastination is a thief in noir.",
+        "handle": "@themidnightedit",
+        "slideId": "Slide 06"
+      }
+    },
+    {
+      "layoutId": "body-noir-yellow",
+      "slots": {
+        "brand": "The Midnight Edit",
+        "scriptPrefix": "Begin",
+        "displayLine1": "ENDING",
+        "displayLine2": "AT THE",
+        "displayLine3": "RIGHT TIME",
+        "body": "Productivity is measured not by the chapters you write, but by knowing when to close the book. Walk away cleanly.",
+        "handle": "@themidnightedit",
+        "slideId": "Slide 07"
+      }
+    }
+  ]
+}

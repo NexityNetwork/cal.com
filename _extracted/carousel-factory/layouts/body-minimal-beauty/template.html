@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Italiana&family=Inter:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  *{margin:0;padding:0;box-sizing:border-box;}
+  html,body{width:1080px;height:1350px;overflow:hidden;background:#e7dfd0;font-family:"Inter",sans-serif;color:#1a1a1a;-webkit-font-smoothing:antialiased;}
+  .top-bar{position:absolute;top:64px;left:80px;right:80px;display:flex;align-items:center;justify-content:space-between;font-size:24px;font-weight:400;color:#1a1a1a;}
+  .number-tag{position:absolute;top:250px;left:0;right:0;text-align:center;font-size:24px;font-weight:500;letter-spacing:0.18em;text-transform:uppercase;color:#1a1a1a;}
+  .display-title{position:absolute;top:330px;left:80px;right:80px;font-family:"Italiana",serif;font-size:140px;line-height:0.96;letter-spacing:-0.005em;text-align:center;text-transform:uppercase;color:#1a1a1a;}
+  .body{position:absolute;bottom:240px;left:140px;right:140px;text-align:center;font-size:30px;font-weight:400;line-height:1.55;color:#1a1a1a;}
+  .arrow{position:absolute;bottom:100px;left:0;right:0;text-align:center;font-size:42px;color:#1a1a1a;}
+</style></head>
+<body>
+  <div class="top-bar"><div>{{handle}}</div><div>{{author}}</div></div>
+  <div class="number-tag">{{number}}</div>
+  <div class="display-title">{{title}}</div>
+  <div class="body">{{body}}</div>
+  <div class="arrow">⟶</div>
+</body></html>

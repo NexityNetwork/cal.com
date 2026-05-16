@@ -1,0 +1,85 @@
+{
+  "id": "supplements",
+  "brand": "WELL THEORY",
+  "brief": "6 supplements I actually still take after 3 years of testing.",
+  "theme": "dark-green-serif",
+  "slides": [
+    {
+      "layoutId": "cover-dark-green-serif",
+      "slots": {
+        "brand": "WELL THEORY",
+        "pageOf": "01 OF 07",
+        "headline": "Which Supplements Actually Work?",
+        "subtitle": "Three years of testing. These six are still on my shelf.",
+        "stickerText": "MY PROTOCOL",
+        "handle": "@welltheory"
+      }
+    },
+    {
+      "layoutId": "body-dark-green-serif",
+      "slots": {
+        "brand": "WELL THEORY",
+        "pageOf": "01 OF 06",
+        "number": "01",
+        "title": "Magnesium Glycinate Daily",
+        "body": "I take this every night. It calms my nervous system and improves sleep quality without the laxative effect of other forms. Total game changer.",
+        "handle": "@welltheory"
+      }
+    },
+    {
+      "layoutId": "body-dark-green-serif",
+      "slots": {
+        "brand": "WELL THEORY",
+        "pageOf": "02 OF 06",
+        "number": "02",
+        "title": "Omega-3 Fatty Acids",
+        "body": "For brain fog and joint health. I look for high EPA with third-party testing. The difference in my focus is noticeable by noon.",
+        "handle": "@welltheory"
+      }
+    },
+    {
+      "layoutId": "body-dark-green-serif",
+      "slots": {
+        "brand": "WELL THEORY",
+        "pageOf": "03 OF 06",
+        "number": "03",
+        "title": "Vitamin D3 and K2",
+        "body": "Non-negotiable in winter months. The K2 directs calcium to bones instead of arteries. My levels finally stayed optimal year-round.",
+        "handle": "@welltheory"
+      }
+    },
+    {
+      "layoutId": "body-dark-green-serif",
+      "slots": {
+        "brand": "WELL THEORY",
+        "pageOf": "04 OF 06",
+        "number": "04",
+        "title": "Micronized Creatine Monohydrate",
+        "body": "Not just for gym bros. One scoop daily supports cognitive function and lean muscle. It is the most researched supplement for a reason.",
+        "handle": "@welltheory"
+      }
+    },
+    {
+      "layoutId": "body-dark-green-serif",
+      "slots": {
+        "brand": "WELL THEORY",
+        "pageOf": "05 OF 06",
+        "number": "05",
+        "title": "KSM-66 Ashwagandha Root",
+        "body": "I cycle this for stress management. It genuinely lowers my cortisol and takes the edge off busy weeks. Two months on, one month off.",
+        "handle": "@welltheory"
+      }
+    },
+    {
+      "layoutId": "body-dark-green-serif",
+      "slots": {
+        "brand": "WELL THEORY",
+        "pageOf": "06 OF 06",
+        "number": "06",
+        "title": "Methylated Vitamin B-Complex",
+        "body": "For energy metabolism and mood stability. The methylated forms absorb better, especially if you have MTHFR variants. I notice when I skip it.",
+        "handle": "@welltheory"
+      }
+    }
+  ]
+}

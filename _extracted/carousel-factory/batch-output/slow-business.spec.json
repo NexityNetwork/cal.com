@@ -1,0 +1,99 @@
+{
+  "id": "slow-business",
+  "brand": "SLOW CO.",
+  "brief": "How to build a slow business that pays well and never burns out.",
+  "theme": "noir-yellow",
+  "slides": [
+    {
+      "layoutId": "cover-noir-yellow",
+      "slots": {
+        "brand": "SLOW CO.",
+        "scriptPrefix": "How",
+        "displayLine1": "TO BUILD",
+        "displayLine2": "A SLOW",
+        "displayLine3": "BUSINESS",
+        "scriptTagline": "That pays well and never burns out",
+        "handle": "@slowfounder",
+        "slideId": "Slide 01"
+      }
+    },
+    {
+      "layoutId": "body-noir-yellow",
+      "slots": {
+        "brand": "SLOW CO.",
+        "scriptPrefix": "Focus",
+        "displayLine1": "ONE",
+        "displayLine2": "PREMIUM",
+        "displayLine3": "OFFER",
+        "body": "Stop splitting your energy across ten mediocre products. Build one exceptional offer that solves a painful problem deeply. Charge more and deliver slowly with care.",
+        "handle": "@slowfounder",
+        "slideId": "Slide 02"
+      }
+    },
+    {
+      "layoutId": "body-noir-yellow",
+      "slots": {
+        "brand": "SLOW CO.",
+        "scriptPrefix": "Try",
+        "displayLine1": "RAISE",
+        "displayLine2": "YOUR",
+        "displayLine3": "PRICES",
+        "body": "Low prices attract high-maintenance clients who drain your calendar. Double your rate and filter for customers who respect your time and expertise. Fewer clients, richer margins, calmer days.",
+        "handle": "@slowfounder",
+        "slideId": "Slide 03"
+      }
+    },
+    {
+      "layoutId": "body-noir-yellow",
+      "slots": {
+        "brand": "SLOW CO.",
+        "scriptPrefix": "Begin",
+        "displayLine1": "AUTOMATE",
+        "displayLine2": "THE",
+        "displayLine3": "REPEATABLE",
+        "body": "Slow business does not mean manual chaos. Document every repeated task and let tools handle the busywork. Your creativity should be the only bottleneck.",
+        "handle": "@slowfounder",
+        "slideId": "Slide 04"
+      }
+    },
+    {
+      "layoutId": "body-noir-yellow",
+      "slots": {
+        "brand": "SLOW CO.",
+        "scriptPrefix": "Focus",
+        "displayLine1": "ASYNC",
+        "displayLine2": "OVER",
+        "displayLine3": "MEETINGS",
+        "body": "Real-time calls destroy deep work and stretch your day. Replace status updates with clear written briefs and Loom videos. Protect your calendar like a vault.",
+        "handle": "@slowfounder",
+        "slideId": "Slide 05"
+      }
+    },
+    {
+      "layoutId": "body-noir-yellow",
+      "slots": {
+        "brand": "SLOW CO.",
+        "scriptPrefix": "Try",
+        "displayLine1": "SAY",
+        "displayLine2": "NO",
+        "displayLine3": "OFTEN",
+        "body": "Every yes to bad fit work is a no to your health. Reject urgency culture and set boundaries around your hours. Slowness is a strategy, not a weakness.",
+        "handle": "@slowfounder",
+        "slideId": "Slide 06"
+      }
+    },
+    {
+      "layoutId": "body-noir-yellow",
+      "slots": {
+        "brand": "SLOW CO.",
+        "scriptPrefix": "Begin",
+        "displayLine1": "DESIGN",
+        "displayLine2": "YOUR",
+        "displayLine3": "HOURS",
+        "body": "Build the business around the life you actually want to live. Work four hours or four days, but never let the empire own you. Profit is pointless without peace.",
+        "handle": "@slowfounder",
+        "slideId": "Slide 07"
+      }
+    }
+  ]
+}

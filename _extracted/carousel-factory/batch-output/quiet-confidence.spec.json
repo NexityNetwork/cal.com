@@ -1,0 +1,99 @@
+{
+  "id": "quiet-confidence",
+  "brand": "THE QUIET",
+  "brief": "The 5 marks of quiet confidence — from people who don't post.",
+  "theme": "noir-yellow",
+  "slides": [
+    {
+      "layoutId": "cover-noir-yellow",
+      "slots": {
+        "brand": "THE QUIET",
+        "scriptPrefix": "The",
+        "displayLine1": "5 MARKS OF",
+        "displayLine2": "QUIET",
+        "displayLine3": "CONFIDENCE",
+        "scriptTagline": "from people who never need to prove it",
+        "handle": "@thequiet",
+        "slideId": "Slide 01"
+      }
+    },
+    {
+      "layoutId": "body-noir-yellow",
+      "slots": {
+        "brand": "THE QUIET",
+        "scriptPrefix": "Focus",
+        "displayLine1": "THEY DON'T",
+        "displayLine2": "POST THEIR",
+        "displayLine3": "POWER",
+        "body": "Quiet confidence shows up in behavior, not broadcasts. Here are five unmistakable signs you've seen but never scrolled past.",
+        "handle": "@thequiet",
+        "slideId": "Slide 02"
+      }
+    },
+    {
+      "layoutId": "body-noir-yellow",
+      "slots": {
+        "brand": "THE QUIET",
+        "scriptPrefix": "Focus",
+        "displayLine1": "THEY LISTEN",
+        "displayLine2": "MORE THAN",
+        "displayLine3": "THEY SPEAK",
+        "body": "In rooms full of noise, they stay still. Their silence isn't empty; it's evidence of self-assurance.",
+        "handle": "@thequiet",
+        "slideId": "Slide 03"
+      }
+    },
+    {
+      "layoutId": "body-noir-yellow",
+      "slots": {
+        "brand": "THE QUIET",
+        "scriptPrefix": "Try",
+        "displayLine1": "NO NEED FOR",
+        "displayLine2": "THE LAST",
+        "displayLine3": "WORD",
+        "body": "They argue to clarify, not to win. Ego doesn't drive the conversation; understanding does.",
+        "handle": "@thequiet",
+        "slideId": "Slide 04"
+      }
+    },
+    {
+      "layoutId": "body-noir-yellow",
+      "slots": {
+        "brand": "THE QUIET",
+        "scriptPrefix": "Begin",
+        "displayLine1": "SLOW MOVES",
+        "displayLine2": "UNDER",
+        "displayLine3": "PRESSURE",
+        "body": "When chaos rises, their pace stays deliberate. Urgency is a trap they refuse to enter.",
+        "handle": "@thequiet",
+        "slideId": "Slide 05"
+      }
+    },
+    {
+      "layoutId": "body-noir-yellow",
+      "slots": {
+        "brand": "THE QUIET",
+        "scriptPrefix": "Focus",
+        "displayLine1": "PRIVATE",
+        "displayLine2": "VICTORIES",
+        "displayLine3": "ONLY",
+        "body": "Wins are felt deeply, not documented. Their satisfaction never depends on a like count.",
+        "handle": "@thequiet",
+        "slideId": "Slide 06"
+      }
+    },
+    {
+      "layoutId": "body-noir-yellow",
+      "slots": {
+        "brand": "THE QUIET",
+        "scriptPrefix": "Try",
+        "displayLine1": "SUBSTANCE",
+        "displayLine2": "OVER",
+        "displayLine3": "STATUS",
+        "body": "Titles and trends don't impress them. They build what matters while others perform for cameras.",
+        "handle": "@thequiet",
+        "slideId": "Slide 07"
+      }
+    }
+  ]
+}

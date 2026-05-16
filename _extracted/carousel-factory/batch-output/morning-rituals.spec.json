@@ -1,0 +1,82 @@
+{
+  "id": "morning-rituals",
+  "brand": "FounderNotes",
+  "brief": "5 morning rituals that changed how I run my business.",
+  "theme": "beige-paper",
+  "slides": [
+    {
+      "layoutId": "cover-beige-serif",
+      "slots": {
+        "brand": "FounderNotes",
+        "headline": "Morning Rituals That Changed How I Run My Business",
+        "slideCountHero": "6"
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "FounderNotes",
+        "number": "01",
+        "title": "No Phone Rule",
+        "body": "I keep my phone off until 9 AM. This protects my first hour for deep thinking. Clarity compounds faster than notifications.",
+        "handle": "@foundernotes",
+        "domain": "foundernotes.com"
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "FounderNotes",
+        "number": "02",
+        "title": "Cold Water Reset",
+        "body": "A two-minute cold shower shocks my nervous system awake. It trains my mind to embrace discomfort early. Decisions feel lighter all day.",
+        "handle": "@foundernotes",
+        "domain": "foundernotes.com"
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "FounderNotes",
+        "number": "03",
+        "title": "Single Priority Block",
+        "body": "I calendar one three-hour block for my hardest task. No meetings, no Slack, just focused execution. Everything else waits patiently.",
+        "handle": "@foundernotes",
+        "domain": "foundernotes.com"
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "FounderNotes",
+        "number": "04",
+        "title": "Movement Before Email",
+        "body": "Twenty minutes of stretching or walking clears mental cobwebs. Physical momentum creates psychological momentum. I arrive at my desk ready.",
+        "handle": "@foundernotes",
+        "domain": "foundernotes.com"
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "FounderNotes",
+        "number": "05",
+        "title": "Journal One Truth",
+        "body": "I write three lines on what actually matters today. This cuts through the noise of urgent requests. Intention replaces reactivity.",
+        "handle": "@foundernotes",
+        "domain": "foundernotes.com"
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "FounderNotes",
+        "number": "06",
+        "title": "Tea And Presence",
+        "body": "I brew loose-leaf tea and breathe for five minutes. The ritual signals my brain that work begins. Calm is my first profit.",
+        "handle": "@foundernotes",
+        "domain": "foundernotes.com"
+      }
+    }
+  ]
+}

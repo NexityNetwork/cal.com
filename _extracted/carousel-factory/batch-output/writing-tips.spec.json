@@ -1,0 +1,82 @@
+{
+  "id": "writing-tips",
+  "brand": "Draftform",
+  "brief": "6 writing tips for founders who hate writing.",
+  "theme": "beige-paper",
+  "slides": [
+    {
+      "layoutId": "cover-beige-serif",
+      "slots": {
+        "brand": "Draftform",
+        "headline": "Six writing tips for founders who despise the blank page",
+        "slideCountHero": "6"
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "Draftform",
+        "number": "01",
+        "title": "Talk It Out",
+        "body": "Record yourself explaining the idea, then transcribe the audio. Your natural voice is clearer than forced prose. Edit the transcript into clean copy.",
+        "handle": "@draftform",
+        "domain": "draftform.com"
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "Draftform",
+        "number": "02",
+        "title": "Steal a Structure",
+        "body": "Start with a proven outline instead of a blank screen. Fill in the sections one by one. Constraints make writing faster and less painful.",
+        "handle": "@draftform",
+        "domain": "draftform.com"
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "Draftform",
+        "number": "03",
+        "title": "Write a Bad Draft",
+        "body": "Give yourself permission to write the worst version first. You can't edit what doesn't exist. A rough draft is a necessary starting point.",
+        "handle": "@draftform",
+        "domain": "draftform.com"
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "Draftform",
+        "number": "04",
+        "title": "Argue With AI",
+        "body": "Tell an AI your point and ask it to poke holes. Defending your idea sharpens your message. Then capture the winning sentences.",
+        "handle": "@draftform",
+        "domain": "draftform.com"
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "Draftform",
+        "number": "05",
+        "title": "Cut Half the Words",
+        "body": "Founders overwrite because they fear sounding simple. Cut every sentence in half. Brevity builds trust and respects your reader's time.",
+        "handle": "@draftform",
+        "domain": "draftform.com"
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "Draftform",
+        "number": "06",
+        "title": "Write to One Person",
+        "body": "Pick a single customer and write them a letter. Personal focus removes corporate fluff. The result will resonate with many.",
+        "handle": "@draftform",
+        "domain": "draftform.com"
+      }
+    }
+  ]
+}

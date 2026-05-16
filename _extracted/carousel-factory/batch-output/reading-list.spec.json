@@ -1,0 +1,82 @@
+{
+  "id": "reading-list",
+  "brand": "The Founder's Shelf",
+  "brief": "6 books that quietly changed how I run a company. Why each one mattered.",
+  "theme": "beige-paper",
+  "slides": [
+    {
+      "layoutId": "cover-beige-serif",
+      "slots": {
+        "brand": "The Founder's Shelf",
+        "headline": "Six Books That Quietly Changed How I Lead",
+        "slideCountHero": "6"
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "The Founder's Shelf",
+        "number": "01",
+        "title": "The Effective Executive",
+        "body": "Drucker taught me that effectiveness is a practice, not a personality. I stopped glorifying busywork and started protecting deep-thinking time for the team. It reshaped our entire operating rhythm.",
+        "handle": "@x",
+        "domain": "x.com"
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "The Founder's Shelf",
+        "number": "02",
+        "title": "High Output Management",
+        "body": "Grove showed me that a manager's output is the output of their team. I began measuring my impact by the multipliers I enabled, not tasks I completed. That shift alone changed every hiring decision.",
+        "handle": "@x",
+        "domain": "x.com"
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "The Founder's Shelf",
+        "number": "03",
+        "title": "Turn the Ship Around",
+        "body": "Marquet's leader-leader model replaced my instinct to command with a habit of delegating intent. Crew members became owners, and our decision speed tripled without sacrificing clarity. Trust became our competitive advantage.",
+        "handle": "@x",
+        "domain": "x.com"
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "The Founder's Shelf",
+        "number": "04",
+        "title": "Thinking in Bets",
+        "body": "Duke taught me to separate decision quality from outcome luck. We now review process, not just results, which calmed our blame culture and sped up honest post-mortems. Clarity replaced hindsight bias.",
+        "handle": "@x",
+        "domain": "x.com"
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "The Founder's Shelf",
+        "number": "05",
+        "title": "Radical Candor",
+        "body": "Scott gave me language for caring personally while challenging directly. I stopped avoiding hard conversations, and my team finally got the feedback they needed to grow. Silence is not kindness.",
+        "handle": "@x",
+        "domain": "x.com"
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "The Founder's Shelf",
+        "number": "06",
+        "title": "The Infinite Game",
+        "body": "Sinek reminded me that no business truly wins; it only stays in play. I moved from beating competitors to outlasting them through purpose and resilient culture. The goal is continuity, not conquest.",
+        "handle": "@x",
+        "domain": "x.com"
+      }
+    }
+  ]
+}

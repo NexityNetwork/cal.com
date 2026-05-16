@@ -37,6 +37,9 @@ const FAMILY_LAYOUTS = {
   "linkedin-pro":     { cover: "cover-linkedin-pro",    body: "body-linkedin-pro" },
   "noir-yellow":      { cover: "cover-noir-yellow",     body: "body-noir-yellow" },
   "dark-green-serif": { cover: "cover-dark-green-serif",body: "body-dark-green-serif" },
+  "retro-groovy":     { cover: "cover-retro-groovy",    body: "body-retro-groovy" },
+  "minimal-beauty":   { cover: "cover-minimal-beauty",  body: "body-minimal-beauty" },
+  "bold-split":       { cover: "cover-bold-split",      body: "body-bold-split" },
 };
 
 const FAMILY_PROMPTS = {
@@ -55,6 +58,15 @@ LAYOUT body-noir-yellow (body): brand, scriptPrefix (1 word "Focus"/"Try"/"Begin
   "dark-green-serif": `Layouts (dark forest green + cream serif + mono accents):
 LAYOUT cover-dark-green-serif (FIRST): brand (ALL CAPS), pageOf "01 OF 06", headline (3-6 words including question mark optional, e.g. "Why Matcha?"), subtitle (5-12 words, casual), stickerText (2-3 words for the orange sticker, e.g. "FOR YOU"), handle ("@handle").
 LAYOUT body-dark-green-serif (body): brand, pageOf "0N OF 06", number ("01"), title (3-6 words), body (2-4 sentences ≤50 words mono typewriter feel), handle.`,
+  "retro-groovy": `Layouts (cream + thin black grid + lime-green rounded card + lavender CTA pill — Y2K retro):
+LAYOUT cover-retro-groovy (FIRST): title (2-4 words, sentence case, FITS LARGE in lime card), ctaText (4-7 words subtitle in lavender pill, e.g. "Transforming clicks into customers"), handle ("@handle").
+LAYOUT body-retro-groovy (body): number ("01"), title (2-4 words capitalized, fits big lime card), body (2-3 sentences ≤40 words, casual), handle.`,
+  "minimal-beauty": `Layouts (warm beige + ultra-thin Italiana display serif ALL CAPS — luxury beauty brand):
+LAYOUT cover-minimal-beauty (FIRST): handle ("@reallygreatsite"), author (full name, e.g. "Olivia Wilson"), role (e.g. "SKIN SPECIALIST"), titleLine1/Line2/Line3 (3 ALL CAPS chunks of 1-3 words each), subtitle (4-8 words ALL CAPS spaced).
+LAYOUT body-minimal-beauty (body): handle, author, number ("STEP 01" or "01 / 05"), title (ALL CAPS 2-4 words display), body (2-3 sentences ≤40 words sentence case, calm).`,
+  "bold-split": `Layouts (split canvas — cream LEFT + dark slate RIGHT, massive condensed Oswald display):
+LAYOUT cover-bold-split (FIRST): title (4-7 word ALL CAPS condensed, wraps to 3-4 lines, e.g. "HOW TO BOOST YOUR CONFIDENCE EVERY DAY"), handle ("@handle").
+LAYOUT body-bold-split (body): number ("01"), title (3-5 words ALL CAPS condensed), body (2-3 sentences ≤40 words), handle.`,
 };
 
 const PROMPT_TEMPLATE = (brief, family) => `You are a carousel planner.
@@ -123,6 +135,33 @@ const BRIEFS = [
   { id: "sleep-rituals",          family: "dark-green-serif", text: "The 5-step sleep ritual that fixed my insomnia." },
   { id: "kitchen-tools",          family: "dark-green-serif", text: "6 kitchen tools that replaced 30 — minimalist home cook edition." },
   { id: "morning-walk",           family: "dark-green-serif", text: "Why a 20-minute morning walk beat my $400 wearable." },
+
+  // retro-groovy (Y2K marketing / fun brand)
+  { id: "marketing-plan-groovy",  family: "retro-groovy", text: "A 6-step digital marketing plan that transforms clicks into customers." },
+  { id: "brand-launch-groovy",    family: "retro-groovy", text: "How to launch a brand in 7 days — the no-BS playbook." },
+  { id: "tiktok-growth-groovy",   family: "retro-groovy", text: "5 unhinged TikTok hooks that 10x'd our growth." },
+  { id: "no-code-stack-groovy",   family: "retro-groovy", text: "The 6-tool no-code stack that runs my $30K/mo business." },
+  { id: "side-hustle-groovy",     family: "retro-groovy", text: "The 5 side hustles printing money in 2026 — fun edition." },
+  { id: "email-funnel-groovy",    family: "retro-groovy", text: "How to build an email funnel that converts at 9%." },
+  { id: "viral-content-groovy",   family: "retro-groovy", text: "6 viral content formats every creator should steal." },
+
+  // minimal-beauty (skincare / wellness / luxury)
+  { id: "glow-skin-beauty",       family: "minimal-beauty", text: "How to have a perfect glow skin — 5 steps from a dermatologist." },
+  { id: "anti-aging-beauty",      family: "minimal-beauty", text: "The 6 anti-aging habits actually backed by science." },
+  { id: "sunscreen-beauty",       family: "minimal-beauty", text: "Why sunscreen is the only product that matters — and how to pick one." },
+  { id: "minimal-routine-beauty", family: "minimal-beauty", text: "The 5-product skincare routine that replaced my 14-step regimen." },
+  { id: "skincare-myths-beauty",  family: "minimal-beauty", text: "5 skincare myths a board-certified specialist wants you to stop believing." },
+  { id: "luxury-self-care-beauty",family: "minimal-beauty", text: "6 luxurious self-care rituals that cost less than a coffee." },
+  { id: "scalp-care-beauty",      family: "minimal-beauty", text: "The 5 scalp habits dermatologists wish you'd adopt this year." },
+
+  // bold-split (confidence / self-development / loud)
+  { id: "confidence-bold",        family: "bold-split", text: "How to boost your confidence every day — 6 hard truths." },
+  { id: "kill-self-doubt-bold",   family: "bold-split", text: "5 ways to kill self-doubt before it kills you." },
+  { id: "be-disliked-bold",       family: "bold-split", text: "Why you should aim to be disliked by 50% of your audience." },
+  { id: "mindset-shifts-bold",    family: "bold-split", text: "6 mindset shifts that changed everything for me at 30." },
+  { id: "boundaries-bold",        family: "bold-split", text: "How to set boundaries without losing the people you love." },
+  { id: "quit-people-pleasing-bold", family: "bold-split", text: "5 signs you're a people pleaser and how to stop today." },
+  { id: "discipline-over-motivation-bold", family: "bold-split", text: "Why discipline always beats motivation — 6 examples." },
 ];
 
 // ─── Kimi planner with retry on JSON parse failure ─────────────────────────

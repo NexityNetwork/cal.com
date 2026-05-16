@@ -1,0 +1,112 @@
+{
+  "id": "linkedin-content-loop",
+  "brand": "Jordan Miles",
+  "brief": "The LinkedIn content loop that built a 50K following in 6 months.",
+  "theme": "linkedin-pro",
+  "slides": [
+    {
+      "layoutId": "cover-linkedin-pro",
+      "slots": {
+        "author": "Jordan Miles",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "1",
+        "accentColor": "#4f3df5",
+        "headline": "The Content Loop Behind 50K Followers",
+        "heroSymbol": "50",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#8b5cf6",
+        "body": "This exact system took me from zero to 50,000 followers in six months. Steal the framework below."
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Jordan Miles",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "accentColor": "#4f3df5",
+        "pageNumber": "2",
+        "title": "Start With a Bold Hook",
+        "body": "Your first line must stop the scroll. Use a strong opinion, a number, or a contrarian take to pull readers in.",
+        "heroSymbol": "01",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#8b5cf6",
+        "labelText": "SAVE THIS POST"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Jordan Miles",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "accentColor": "#4f3df5",
+        "pageNumber": "3",
+        "title": "Share a Personal Story",
+        "body": "People connect with people, not faceless brands. Tell a quick story that shows the struggle before the solution.",
+        "heroSymbol": "02",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#8b5cf6",
+        "labelText": "SAVE THIS POST"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Jordan Miles",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "accentColor": "#4f3df5",
+        "pageNumber": "4",
+        "title": "Drop the Actionable Framework",
+        "body": "Give away the step-by-step process. Make it so practical that readers feel compelled to save the post for later.",
+        "heroSymbol": "03",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#8b5cf6",
+        "labelText": "SAVE THIS POST"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Jordan Miles",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "accentColor": "#4f3df5",
+        "pageNumber": "5",
+        "title": "Design Simple Carousels",
+        "body": "Break complex ideas into swipeable slides. Visual repetition trains the algorithm and keeps your audience coming back daily.",
+        "heroSymbol": "04",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#8b5cf6",
+        "labelText": "SAVE THIS POST"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Jordan Miles",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "accentColor": "#4f3df5",
+        "pageNumber": "6",
+        "title": "Ask for Engagement",
+        "body": "End every post with a question. Comments signal relevance to LinkedIn, which pushes your content to a wider network.",
+        "heroSymbol": "05",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#8b5cf6",
+        "labelText": "SAVE THIS POST"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Jordan Miles",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "accentColor": "#4f3df5",
+        "pageNumber": "7",
+        "title": "Repeat for 180 Days",
+        "body": "Consistency compounds. Publish this loop daily for six months, and watch your following grow from strangers to true fans.",
+        "heroSymbol": "06",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#8b5cf6",
+        "labelText": "SAVE THIS POST"
+      }
+    }
+  ]
+}

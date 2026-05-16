@@ -1,0 +1,85 @@
+{
+  "id": "kitchen-tools",
+  "brand": "MINIMALIST TABLE",
+  "brief": "6 kitchen tools that replaced 30 — minimalist home cook edition.",
+  "theme": "dark-green-serif",
+  "slides": [
+    {
+      "layoutId": "cover-dark-green-serif",
+      "slots": {
+        "brand": "MINIMALIST TABLE",
+        "pageOf": "01 OF 07",
+        "headline": "Too Many Tools?",
+        "subtitle": "Six swaps that cleared my counters and my head.",
+        "stickerText": "CLEAN SPACE",
+        "handle": "@minimalisttable"
+      }
+    },
+    {
+      "layoutId": "body-dark-green-serif",
+      "slots": {
+        "brand": "MINIMALIST TABLE",
+        "pageOf": "02 OF 07",
+        "number": "01",
+        "title": "One Chef's Knife",
+        "body": "A single sharp blade handles slicing, dicing, mincing, and even peeling. Ditch the block, scissors, and gadgets. One knife, zero clutter.",
+        "handle": "@minimalisttable"
+      }
+    },
+    {
+      "layoutId": "body-dark-green-serif",
+      "slots": {
+        "brand": "MINIMALIST TABLE",
+        "pageOf": "03 OF 07",
+        "number": "02",
+        "title": "Cast Iron Skillet",
+        "body": "Sear, bake, roast, and grill in one pan. It replaces nonstick, grill pans, and roasting dishes. Oven-safe and built to last.",
+        "handle": "@minimalisttable"
+      }
+    },
+    {
+      "layoutId": "body-dark-green-serif",
+      "slots": {
+        "brand": "MINIMALIST TABLE",
+        "pageOf": "04 OF 07",
+        "number": "03",
+        "title": "Heavy Dutch Oven",
+        "body": "Braise stews, bake bread, cook rice, and slow-cook meals. One pot takes over for the slow cooker, rice maker, and stockpot.",
+        "handle": "@minimalisttable"
+      }
+    },
+    {
+      "layoutId": "body-dark-green-serif",
+      "slots": {
+        "brand": "MINIMALIST TABLE",
+        "pageOf": "05 OF 07",
+        "number": "04",
+        "title": "Box Grater Only",
+        "body": "Zest citrus, shred cheese, slice veggies, and mince garlic. No need for separate zesters, presses, or mandolines. Four sides, endless jobs.",
+        "handle": "@minimalisttable"
+      }
+    },
+    {
+      "layoutId": "body-dark-green-serif",
+      "slots": {
+        "brand": "MINIMALIST TABLE",
+        "pageOf": "06 OF 07",
+        "number": "05",
+        "title": "One Immersion Blender",
+        "body": "Blend soups, whip cream, chop herbs, and froth milk directly in the pot. It replaces the blender, processor, and whisk.",
+        "handle": "@minimalisttable"
+      }
+    },
+    {
+      "layoutId": "body-dark-green-serif",
+      "slots": {
+        "brand": "MINIMALIST TABLE",
+        "pageOf": "07 OF 07",
+        "number": "06",
+        "title": "Half Sheet Pan",
+        "body": "Roast proteins, bake cookies, crisp pizza, and catch drips. One rimmed pan covers roasting pans, baking trays, and pizza stones.",
+        "handle": "@minimalisttable"
+      }
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": "first-100-customers",
+  "brand": "GrowthStack",
+  "brief": "How we got our first 100 customers — no ads, no SEO, just 6 channels.",
+  "theme": "linkedin-pro",
+  "slides": [
+    {
+      "layoutId": "cover-linkedin-pro",
+      "slots": {
+        "author": "Alex Chen",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "1",
+        "accentColor": "#4f3df5",
+        "headline": "100 Customers With Zero Ad Spend",
+        "heroSymbol": "0$",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#a855f7",
+        "body": "We skipped ads and SEO. Instead, we used six organic channels to land our first 100 paying customers in 90 days."
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Alex Chen",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "2",
+        "accentColor": "#4f3df5",
+        "title": "LinkedIn Direct Outreach",
+        "body": "We identified 500 ideal prospects and sent personalized connection requests. Thirty percent accepted, and ten became paying customers.",
+        "heroSymbol": "DM",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#a855f7",
+        "labelText": "No ads. No SEO."
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Alex Chen",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "3",
+        "accentColor": "#4f3df5",
+        "title": "Engage Niche Communities",
+        "body": "We joined Slack and Reddit groups where our target audience hung out. We answered questions and shared value daily, never pitching.",
+        "heroSymbol": "SO",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#a855f7",
+        "labelText": "No ads. No SEO."
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Alex Chen",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "4",
+        "accentColor": "#4f3df5",
+        "title": "Launch on Product Hunt",
+        "body": "We crafted a compelling maker story and launched on a Tuesday. The exposure brought 2,000 visitors and converted twelve customers.",
+        "heroSymbol": "PH",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#a855f7",
+        "labelText": "No ads. No SEO."
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Alex Chen",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "5",
+        "accentColor": "#4f3df5",
+        "title": "Partner With Complementary Tools",
+        "body": "We reached out to founders of tools our users already loved. A simple integration page swap sent qualified traffic our way.",
+        "heroSymbol": "PR",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#a855f7",
+        "labelText": "No ads. No SEO."
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Alex Chen",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "6",
+        "accentColor": "#4f3df5",
+        "title": "Build a Referral Loop",
+        "body": "We gave every user one free month for each successful referral. Our first ten customers brought in three friends each.",
+        "heroSymbol": "RF",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#a855f7",
+        "labelText": "No ads. No SEO."
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Alex Chen",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "7",
+        "accentColor": "#4f3df5",
+        "title": "Targeted Cold Email",
+        "body": "We scraped public lists of startups hiring for related roles. A short, honest pitch landed us our final twenty customers.",
+        "heroSymbol": "EM",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#a855f7",
+        "labelText": "No ads. No SEO."
+      }
+    }
+  ]
+}

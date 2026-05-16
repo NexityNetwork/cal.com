@@ -1,0 +1,192 @@
+{
+  "slides": [
+    {
+      "index": 0,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/quiet-confidence/slide-01.png",
+      "bytes": 163172,
+      "qa": {
+        "verdict": "fail",
+        "checks": {
+          "has_frame": false,
+          "no_unfilled_slots": true,
+          "has_page_badge": false
+        },
+        "issues": [
+          "missing .frame container"
+        ]
+      },
+      "fingerprint": {
+        "layout": "unknown",
+        "elements": {}
+      }
+    },
+    {
+      "index": 1,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/quiet-confidence/slide-02.png",
+      "bytes": 242927,
+      "qa": {
+        "verdict": "fail",
+        "checks": {
+          "has_frame": false,
+          "no_unfilled_slots": true,
+          "has_page_badge": false
+        },
+        "issues": [
+          "missing .frame container"
+        ]
+      },
+      "fingerprint": {
+        "layout": "unknown",
+        "elements": {}
+      }
+    },
+    {
+      "index": 2,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/quiet-confidence/slide-03.png",
+      "bytes": 238898,
+      "qa": {
+        "verdict": "fail",
+        "checks": {
+          "has_frame": false,
+          "no_unfilled_slots": true,
+          "has_page_badge": false
+        },
+        "issues": [
+          "missing .frame container"
+        ]
+      },
+      "fingerprint": {
+        "layout": "unknown",
+        "elements": {}
+      }
+    },
+    {
+      "index": 3,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/quiet-confidence/slide-04.png",
+      "bytes": 233864,
+      "qa": {
+        "verdict": "fail",
+        "checks": {
+          "has_frame": false,
+          "no_unfilled_slots": true,
+          "has_page_badge": false
+        },
+        "issues": [
+          "missing .frame container"
+        ]
+      },
+      "fingerprint": {
+        "layout": "unknown",
+        "elements": {}
+      }
+    },
+    {
+      "index": 4,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/quiet-confidence/slide-05.png",
+      "bytes": 241475,
+      "qa": {
+        "verdict": "fail",
+        "checks": {
+          "has_frame": false,
+          "no_unfilled_slots": true,
+          "has_page_badge": false
+        },
+        "issues": [
+          "missing .frame container"
+        ]
+      },
+      "fingerprint": {
+        "layout": "unknown",
+        "elements": {}
+      }
+    },
+    {
+      "index": 5,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/quiet-confidence/slide-06.png",
+      "bytes": 231400,
+      "qa": {
+        "verdict": "fail",
+        "checks": {
+          "has_frame": false,
+          "no_unfilled_slots": true,
+          "has_page_badge": false
+        },
+        "issues": [
+          "missing .frame container"
+        ]
+      },
+      "fingerprint": {
+        "layout": "unknown",
+        "elements": {}
+      }
+    },
+    {
+      "index": 6,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/quiet-confidence/slide-07.png",
+      "bytes": 232605,
+      "qa": {
+        "verdict": "fail",
+        "checks": {
+          "has_frame": false,
+          "no_unfilled_slots": true,
+          "has_page_badge": false
+        },
+        "issues": [
+          "missing .frame container"
+        ]
+      },
+      "fingerprint": {
+        "layout": "unknown",
+        "elements": {}
+      }
+    }
+  ],
+  "carouselQa": {
+    "verdict": "pass",
+    "issues": [],
+    "adjacencyChecks": [
+      {
+        "between": [
+          1,
+          2
+        ],
+        "similarity": 0
+      },
+      {
+        "between": [
+          2,
+          3
+        ],
+        "similarity": 0
+      },
+      {
+        "between": [
+          3,
+          4
+        ],
+        "similarity": 0
+      },
+      {
+        "between": [
+          4,
+          5
+        ],
+        "similarity": 0
+      },
+      {
+        "between": [
+          5,
+          6
+        ],
+        "similarity": 0
+      },
+      {
+        "between": [
+          6,
+          7
+        ],
+        "similarity": 0
+      }
+    ]
+  }
+}
