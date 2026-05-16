@@ -1,113 +1,113 @@
 {
   "id": "4-pillars-context",
-  "brand": "Context Engineering",
+  "brand": "Context Labs",
   "brief": "The 4 pillars of context engineering — what you load, when, in what order, and why.",
   "theme": "black-mindmap",
   "slides": [
     {
       "layoutId": "cover-black-mindmap",
       "slots": {
-        "handle": "@handle",
+        "handle": "@contextlabs",
         "pageLabel": "01 / 08",
         "eyebrow": "SAVE THIS",
         "headlineLine1": "The 4 Pillars of",
         "headlineLine2": "Context Engineering",
-        "swipeNote": "swipe to see all 4"
+        "swipeNote": "swipe to see all 6"
       }
     },
     {
       "layoutId": "body-black-mindmap",
       "slots": {
-        "handle": "@handle",
+        "handle": "@contextlabs",
         "pageLabel": "02 / 08",
         "number": "1",
-        "title": "Load",
-        "pill1": "Relevant docs",
-        "pill2": "Full files",
-        "pill3": "No filtering",
-        "pill4": "Noise",
-        "pill5": "Bloat"
+        "title": "Sources",
+        "pill1": "Fresh docs",
+        "pill2": "Stale data",
+        "pill3": "Full dumps",
+        "pill4": "Raw noise",
+        "pill5": "No filter"
       }
     },
     {
       "layoutId": "body-black-mindmap",
       "slots": {
-        "handle": "@handle",
+        "handle": "@contextlabs",
         "pageLabel": "03 / 08",
         "number": "2",
         "title": "Timing",
-        "pill1": "Right moment",
-        "pill2": "Too early",
-        "pill3": "Too late",
-        "pill4": "Missed",
-        "pill5": "Lag"
+        "pill1": "Early load",
+        "pill2": "Late adds",
+        "pill3": "Mid stream",
+        "pill4": "Random drops",
+        "pill5": "No plan"
       }
     },
     {
       "layoutId": "body-black-mindmap",
       "slots": {
-        "handle": "@handle",
+        "handle": "@contextlabs",
         "pageLabel": "04 / 08",
         "number": "3",
-        "title": "Order",
-        "pill1": "Priority first",
-        "pill2": "Random dump",
+        "title": "Sequence",
+        "pill1": "Priority top",
+        "pill2": "Jumbled docs",
         "pill3": "Flat list",
-        "pill4": "Jumble",
-        "pill5": "Chaos"
+        "pill4": "No rank",
+        "pill5": "Lost lead"
       }
     },
     {
       "layoutId": "body-black-mindmap",
       "slots": {
-        "handle": "@handle",
+        "handle": "@contextlabs",
         "pageLabel": "05 / 08",
         "number": "4",
         "title": "Intent",
         "pill1": "Clear goal",
         "pill2": "Vague ask",
         "pill3": "No outcome",
-        "pill4": "Drift",
-        "pill5": "Blur"
+        "pill4": "Weak task",
+        "pill5": "No user"
       }
     },
     {
       "layoutId": "body-black-mindmap",
       "slots": {
-        "handle": "@handle",
+        "handle": "@contextlabs",
         "pageLabel": "06 / 08",
         "number": "5",
-        "title": "Mistakes",
-        "pill1": "Context bloat",
-        "pill2": "Wrong order",
-        "pill3": "Missing why",
-        "pill4": "Spam",
-        "pill5": "Skip"
+        "title": "Format",
+        "pill1": "Tagged blocks",
+        "pill2": "Wall text",
+        "pill3": "No headers",
+        "pill4": "Broken xml",
+        "pill5": "No schema"
       }
     },
     {
       "layoutId": "body-black-mindmap",
       "slots": {
-        "handle": "@handle",
+        "handle": "@contextlabs",
         "pageLabel": "07 / 08",
         "number": "6",
-        "title": "System",
-        "pill1": "Audit first",
-        "pill2": "Test order",
-        "pill3": "Track output",
-        "pill4": "Iterate",
-        "pill5": "Ship"
+        "title": "Relevance",
+        "pill1": "Top matches",
+        "pill2": "Low scores",
+        "pill3": "Off topic",
+        "pill4": "Skewed rank",
+        "pill5": "Wrong match"
       }
     },
     {
       "layoutId": "cta-black-mindmap",
       "slots": {
-        "handle": "@handle",
+        "handle": "@contextlabs",
         "pageLabel": "08 / 08",
         "eyebrow": "YOUR MOVE",
         "headlineLine1": "Engineer Your",
-        "headlineLine2": "Context Now",
-        "body": "Stop guessing what the model sees. Engineer context using load, timing, order, and intent.",
+        "headlineLine2": "Context Stack",
+        "body": "Stop guessing what the model sees. Load the right context at the right time.",
         "buttonLabel": "Save this post",
         "closing": "Tag a builder"
       }

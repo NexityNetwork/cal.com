@@ -12,7 +12,7 @@
         "eyebrow": "SAVE THIS",
         "headlineLine1": "The 4 Pillars of",
         "headlineLine2": "AI Evals",
-        "swipeNote": "swipe to see the stack"
+        "swipeNote": "swipe to explore all 4"
       }
     },
     {
@@ -22,11 +22,11 @@
         "pageLabel": "02 / 08",
         "number": "1",
         "title": "Tests",
-        "pill1": "Unit cases",
-        "pill2": "Edge checks",
-        "pill3": "Regression",
-        "pill4": "Coverage",
-        "pill5": "CI"
+        "pill1": "Unit tests",
+        "pill2": "Regression suite",
+        "pill3": "Edge cases",
+        "pill4": "Red teaming",
+        "pill5": "Sandbox"
       }
     },
     {
@@ -36,11 +36,11 @@
         "pageLabel": "03 / 08",
         "number": "2",
         "title": "Traces",
-        "pill1": "Request spans",
-        "pill2": "Latency peaks",
-        "pill3": "Token counts",
-        "pill4": "Tags",
-        "pill5": "Logs"
+        "pill1": "Session logs",
+        "pill2": "Token counts",
+        "pill3": "Latency tags",
+        "pill4": "Trace ID",
+        "pill5": "Spans"
       }
     },
     {
@@ -50,11 +50,11 @@
         "pageLabel": "04 / 08",
         "number": "3",
         "title": "Scorers",
-        "pill1": "Human labels",
-        "pill2": "Model judge",
-        "pill3": "Exact match",
-        "pill4": "Rubric",
-        "pill5": "Grade"
+        "pill1": "LLM judges",
+        "pill2": "Exact match",
+        "pill3": "Rubric scores",
+        "pill4": "Human loop",
+        "pill5": "Threshold"
       }
     },
     {
@@ -64,11 +64,11 @@
         "pageLabel": "05 / 08",
         "number": "4",
         "title": "Drift",
-        "pill1": "Input shift",
+        "pill1": "Input drift",
         "pill2": "Output decay",
-        "pill3": "Concept gap",
-        "pill4": "Alert",
-        "pill5": "Fix"
+        "pill3": "Model swaps",
+        "pill4": "P95 shift",
+        "pill5": "Alerts"
       }
     },
     {
@@ -77,12 +77,12 @@
         "handle": "@evals",
         "pageLabel": "06 / 08",
         "number": "5",
-        "title": "Stack",
-        "pill1": "Connected flow",
-        "pill2": "Fast feedback",
-        "pill3": "Auto deploy",
-        "pill4": "Sync",
-        "pill5": "Loop"
+        "title": "Gate",
+        "pill1": "PR checks",
+        "pill2": "Staging evals",
+        "pill3": "Auto block",
+        "pill4": "CI pass",
+        "pill5": "Release"
       }
     },
     {
@@ -91,12 +91,12 @@
         "handle": "@evals",
         "pageLabel": "07 / 08",
         "number": "6",
-        "title": "Ship",
-        "pill1": "Merge gates",
-        "pill2": "Eval first",
-        "pill3": "Daily runs",
-        "pill4": "Pass",
-        "pill5": "Release"
+        "title": "Loop",
+        "pill1": "Live logs",
+        "pill2": "New tests",
+        "pill3": "Diff check",
+        "pill4": "Replay",
+        "pill5": "Patch"
       }
     },
     {
@@ -105,11 +105,11 @@
         "handle": "@evals",
         "pageLabel": "08 / 08",
         "eyebrow": "YOUR MOVE",
-        "headlineLine1": "Build the eval",
-        "headlineLine2": "stack today",
-        "body": "Ship AI features faster with tests, traces, scorers, and drift detection.",
+        "headlineLine1": "Ship AI with",
+        "headlineLine2": "Total Confidence",
+        "body": "Build your eval stack before the next deploy. No more flying blind in production.",
         "buttonLabel": "Save this post",
-        "closing": "Tag your team below"
+        "closing": "Tag your team"
       }
     }
   ]

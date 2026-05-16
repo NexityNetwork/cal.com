@@ -1,0 +1,125 @@
+{
+  "id": "bad-good-great-agents",
+  "brand": "Claude",
+  "brief": "Bad vs Good vs Great agents — observability, evals, fallbacks compared side by side.",
+  "theme": "grid-italic",
+  "slides": [
+    {
+      "layoutId": "cover-grid-italic",
+      "slots": {
+        "topic": "AI Agents",
+        "preLine": "Here is what separates",
+        "word1": "BAD",
+        "word2": "Good",
+        "word3": "Great",
+        "authorInitials": "TK",
+        "authorName": "T. Kincaid",
+        "authorRole": "AI Engineer",
+        "handle": "@tkincaid"
+      }
+    },
+    {
+      "layoutId": "body-grid-italic",
+      "slots": {
+        "number": "1",
+        "preLabel": "Tip No.",
+        "titleMain": "Observe Everything",
+        "titleAccent": "Trace It",
+        "titleUnderline": "In Production",
+        "body": "Bad agents log to console and pray. Good agents write structured events. Great agents emit distributed traces with full context replay.",
+        "note": "Use OpenTelemetry. Your future self will thank you.",
+        "authorInitials": "TK",
+        "authorName": "T. Kincaid",
+        "pageOf": "2 / 8"
+      }
+    },
+    {
+      "layoutId": "body-grid-italic",
+      "slots": {
+        "number": "2",
+        "preLabel": "Tip No.",
+        "titleMain": "Evaluate Rigorously",
+        "titleAccent": "Online First",
+        "titleUnderline": "Always",
+        "body": "Bad agents ship on vibes. Good agents run static unit tests. Great agents measure task-completion rates on live traffic with automatic regression gates.",
+        "note": "Evals are not QA. They are the product.",
+        "authorInitials": "TK",
+        "authorName": "T. Kincaid",
+        "pageOf": "3 / 8"
+      }
+    },
+    {
+      "layoutId": "body-grid-italic",
+      "slots": {
+        "number": "3",
+        "preLabel": "Tip No.",
+        "titleMain": "Fail Gracefully",
+        "titleAccent": "Circuit Break",
+        "titleUnderline": "Then Escalate",
+        "body": "Bad agents throw opaque errors. Good agents retry with backoff. Great agents degrade scope, preserve state, and escalate to humans with full context.",
+        "note": "Fallbacks are features, not bugs to hide.",
+        "authorInitials": "TK",
+        "authorName": "T. Kincaid",
+        "pageOf": "4 / 8"
+      }
+    },
+    {
+      "layoutId": "body-grid-italic",
+      "slots": {
+        "number": "4",
+        "preLabel": "Tip No.",
+        "titleMain": "State Replay",
+        "titleAccent": "Trace Nodes",
+        "titleUnderline": "On Demand",
+        "body": "Bad agents hide inside a black box. Good agents print intermediate steps. Great agents expose checkpointed states you can replay at any node.",
+        "note": "If you cannot replay it, you cannot fix it.",
+        "authorInitials": "TK",
+        "authorName": "T. Kincaid",
+        "pageOf": "5 / 8"
+      }
+    },
+    {
+      "layoutId": "body-grid-italic",
+      "slots": {
+        "number": "5",
+        "preLabel": "Tip No.",
+        "titleMain": "Iterate Safely",
+        "titleAccent": "Compare Prompts",
+        "titleUnderline": "In Shadow",
+        "body": "Bad agents change prompts in production. Good agents run offline benchmarks. Great agents shadow-test new chains against live traffic without user impact.",
+        "note": "Shadow mode is the only honest A/B test.",
+        "authorInitials": "TK",
+        "authorName": "T. Kincaid",
+        "pageOf": "6 / 8"
+      }
+    },
+    {
+      "layoutId": "body-grid-italic",
+      "slots": {
+        "number": "6",
+        "preLabel": "Tip No.",
+        "titleMain": "Own The Loop",
+        "titleAccent": "Human Review",
+        "titleUnderline": "Built In",
+        "body": "Bad agents pretend to be autonomous. Good agents ask for help occasionally. Great agents route uncertainty to reviewers and learn from every correction.",
+        "note": "The best agents know when they do not know.",
+        "authorInitials": "TK",
+        "authorName": "T. Kincaid",
+        "pageOf": "7 / 8"
+      }
+    },
+    {
+      "layoutId": "cta-grid-italic",
+      "slots": {
+        "eyebrow": "Now the only question is",
+        "headlineMain": "Which Are You",
+        "headlineAccent": "Building Today",
+        "body": "Great agents are not luck. They are observable, evaluated, and resilient by design. Start with one layer tomorrow.",
+        "buttonLabel": "Save this post",
+        "authorInitials": "TK",
+        "authorName": "T. Kincaid",
+        "handle": "@tkincaid"
+      }
+    }
+  ]
+}
