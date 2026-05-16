@@ -1,0 +1,170 @@
+{
+  "id": "tool-list-newsletter-stk",
+  "brand": "Alex R.",
+  "brief": "The 5-tool newsletter stack pulling $40K/mo on autopilot — names and prices.",
+  "theme": "tool-list",
+  "slides": [
+    {
+      "layoutId": "cover-tool-list",
+      "slots": {
+        "pageOf": "1 / 8",
+        "authorInitials": "AR",
+        "authorName": "Alex R.",
+        "handle": "@alexrn",
+        "avatarBg1": "#ff5a28",
+        "avatarBg2": "#0f0f0f",
+        "eyebrow": "5 TOOLS YOU NEED",
+        "headlineLine1": "THE NEWSLETTER",
+        "headlineAccent": "STACK",
+        "tool1Glyph": "B",
+        "tool2Glyph": "N",
+        "tool3Glyph": "C",
+        "tool4Glyph": "G",
+        "tool5Glyph": "$"
+      }
+    },
+    {
+      "layoutId": "body-tool-list",
+      "slots": {
+        "pageOf": "2 / 8",
+        "authorInitials": "AR",
+        "authorName": "Alex R.",
+        "handle": "@alexrn",
+        "avatarBg1": "#ff5a28",
+        "avatarBg2": "#0f0f0f",
+        "number": "01",
+        "toolGlyph": "B",
+        "toolCategory": "EMAIL",
+        "toolName": "beehiiv",
+        "toolTagline": "Newsletter platform built for growth",
+        "body": "Publish, monetize, and scale with built-in referrals and ad networks. It replaces a dozen tools.",
+        "feat1Key": "PRICE",
+        "feat1Val": "Free / $39/mo",
+        "feat2Key": "BEST FOR",
+        "feat2Val": "Newsletter growth"
+      }
+    },
+    {
+      "layoutId": "body-tool-list",
+      "slots": {
+        "pageOf": "3 / 8",
+        "authorInitials": "AR",
+        "authorName": "Alex R.",
+        "handle": "@alexrn",
+        "avatarBg1": "#ff5a28",
+        "avatarBg2": "#0f0f0f",
+        "number": "02",
+        "toolGlyph": "N",
+        "toolCategory": "OPS",
+        "toolName": "Notion",
+        "toolTagline": "All-in-one content workspace",
+        "body": "Plan issues, manage sponsors, and store research in flexible databases. One hub for your entire operation.",
+        "feat1Key": "PRICE",
+        "feat1Val": "Free / $8/mo",
+        "feat2Key": "BEST FOR",
+        "feat2Val": "Editorial calendars"
+      }
+    },
+    {
+      "layoutId": "body-tool-list",
+      "slots": {
+        "pageOf": "4 / 8",
+        "authorInitials": "AR",
+        "authorName": "Alex R.",
+        "handle": "@alexrn",
+        "avatarBg1": "#ff5a28",
+        "avatarBg2": "#0f0f0f",
+        "number": "03",
+        "toolGlyph": "C",
+        "toolCategory": "DESIGN",
+        "toolName": "Canva",
+        "toolTagline": "Drag-and-drop visual creator",
+        "body": "Build headers, carousels, and lead magnets without hiring a designer. Speed up your creative workflow.",
+        "feat1Key": "PRICE",
+        "feat1Val": "Free / $13/mo",
+        "feat2Key": "BEST FOR",
+        "feat2Val": "Solo creators"
+      }
+    },
+    {
+      "layoutId": "body-tool-list",
+      "slots": {
+        "pageOf": "5 / 8",
+        "authorInitials": "AR",
+        "authorName": "Alex R.",
+        "handle": "@alexrn",
+        "avatarBg1": "#ff5a28",
+        "avatarBg2": "#0f0f0f",
+        "number": "04",
+        "toolGlyph": "G",
+        "toolCategory": "WRITING",
+        "toolName": "ChatGPT",
+        "toolTagline": "AI drafting and research assistant",
+        "body": "Outline issues, rewrite hooks, and draft sponsor outreach emails in seconds. It is your 24/7 copywriter.",
+        "feat1Key": "PRICE",
+        "feat1Val": "$20/mo",
+        "feat2Key": "BEST FOR",
+        "feat2Val": "Speed & volume"
+      }
+    },
+    {
+      "layoutId": "body-tool-list",
+      "slots": {
+        "pageOf": "6 / 8",
+        "authorInitials": "AR",
+        "authorName": "Alex R.",
+        "handle": "@alexrn",
+        "avatarBg1": "#ff5a28",
+        "avatarBg2": "#0f0f0f",
+        "number": "05",
+        "toolGlyph": "$",
+        "toolCategory": "PAYMENTS",
+        "toolName": "Stripe",
+        "toolTagline": "Revenue infrastructure for creators",
+        "body": "Collect subscriptions, send invoices, and automate tax compliance globally. Stripe handles the money so you don't.",
+        "feat1Key": "PRICE",
+        "feat1Val": "2.9% + 30¢",
+        "feat2Key": "BEST FOR",
+        "feat2Val": "Recurring revenue"
+      }
+    },
+    {
+      "layoutId": "body-tool-list",
+      "slots": {
+        "pageOf": "7 / 8",
+        "authorInitials": "AR",
+        "authorName": "Alex R.",
+        "handle": "@alexrn",
+        "avatarBg1": "#ff5a28",
+        "avatarBg2": "#0f0f0f",
+        "number": "06",
+        "toolGlyph": "Σ",
+        "toolCategory": "STACK",
+        "toolName": "Total Stack",
+        "toolTagline": "Monthly cost to run everything",
+        "body": "Run the entire $40K/mo newsletter machine for under $100 a month. This is the cost of one dinner.",
+        "feat1Key": "MONTHLY",
+        "feat1Val": "~$80/mo",
+        "feat2Key": "ROI",
+        "feat2Val": "$40K/mo"
+      }
+    },
+    {
+      "layoutId": "cta-tool-list",
+      "slots": {
+        "pageOf": "8 / 8",
+        "authorInitials": "AR",
+        "authorName": "Alex R.",
+        "handle": "@alexrn",
+        "avatarBg1": "#ff5a28",
+        "avatarBg2": "#0f0f0f",
+        "eyebrow": "PICK YOUR STACK",
+        "headlineLine1": "BUILD YOUR",
+        "headlineAccent": "MONEY MACHINE",
+        "body": "Steal this exact stack and start growing your newsletter on autopilot today.",
+        "buttonLabel": "GET THE FULL GUIDE",
+        "secondaryLabel": "SAVE FOR LATER"
+      }
+    }
+  ]
+}

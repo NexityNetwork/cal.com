@@ -1,0 +1,177 @@
+{
+  "id": "flow-funnel-flow",
+  "brand": "FunnelCraft",
+  "brief": "The 4-step funnel that turns cold traffic into recurring revenue — full diagram.",
+  "theme": "flowchart",
+  "slides": [
+    {
+      "layoutId": "cover-flowchart",
+      "slots": {
+        "pageOf": "1 / 8",
+        "authorInitials": "JD",
+        "authorName": "Jordan Doe",
+        "handle": "@jordandoe",
+        "avatarBg1": "#3a5eef",
+        "avatarBg2": "#f4eee2",
+        "eyebrow": "FUNNEL DESIGN",
+        "titleLine1": "Cold Traffic to",
+        "titleAccent": "Recurring Revenue",
+        "node1": "Attract qualified visitors",
+        "node2": "Capture targeted leads",
+        "node3": "Convert to first sale",
+        "node4": "Retain with subscription"
+      }
+    },
+    {
+      "layoutId": "body-flowchart",
+      "slots": {
+        "pageOf": "2 / 8",
+        "authorInitials": "JD",
+        "authorName": "Jordan Doe",
+        "handle": "@jordandoe",
+        "avatarBg1": "#3a5eef",
+        "avatarBg2": "#f4eee2",
+        "number": "01",
+        "numberLabel": "SYSTEM",
+        "title": "The Revenue Engine Blueprint",
+        "body": "Most brands chase vanity metrics. This four-step system converts strangers into predictable monthly recurring revenue by design.",
+        "step1Num": "01",
+        "step1Label": "Attract Traffic",
+        "step2Num": "02",
+        "step2Label": "Capture Leads",
+        "step3Num": "03",
+        "step3Label": "Monetize Fast",
+        "takeaway": "Revenue is a function of intentional flow, not luck."
+      }
+    },
+    {
+      "layoutId": "body-flowchart",
+      "slots": {
+        "pageOf": "3 / 8",
+        "authorInitials": "JD",
+        "authorName": "Jordan Doe",
+        "handle": "@jordandoe",
+        "avatarBg1": "#3a5eef",
+        "avatarBg2": "#f4eee2",
+        "number": "02",
+        "numberLabel": "STEP",
+        "title": "Attract High-Intent Traffic",
+        "body": "Stop broadcasting to everyone. Use paid ads and SEO to drive cold audiences to a problem-aware landing page that qualifies before they enter.",
+        "step1Num": "01",
+        "step1Label": "Target Pain",
+        "step2Num": "02",
+        "step2Label": "Drive Clicks",
+        "step3Num": "03",
+        "step3Label": "Qualify Fast",
+        "takeaway": "Traffic is expensive; intent is profitable."
+      }
+    },
+    {
+      "layoutId": "body-flowchart",
+      "slots": {
+        "pageOf": "4 / 8",
+        "authorInitials": "JD",
+        "authorName": "Jordan Doe",
+        "handle": "@jordandoe",
+        "avatarBg1": "#3a5eef",
+        "avatarBg2": "#f4eee2",
+        "number": "03",
+        "numberLabel": "STEP",
+        "title": "Convert Visitors to Leads",
+        "body": "Offer a high-value lead magnet in exchange for an email address. Segment by pain point so every follow-up message feels personally relevant.",
+        "step1Num": "01",
+        "step1Label": "Lead Magnet",
+        "step2Num": "02",
+        "step2Label": "Micro Commit",
+        "step3Num": "03",
+        "step3Label": "Tag & Segment",
+        "takeaway": "A segmented list beats a massive list."
+      }
+    },
+    {
+      "layoutId": "body-flowchart",
+      "slots": {
+        "pageOf": "5 / 8",
+        "authorInitials": "JD",
+        "authorName": "Jordan Doe",
+        "handle": "@jordandoe",
+        "avatarBg1": "#3a5eef",
+        "avatarBg2": "#f4eee2",
+        "number": "04",
+        "numberLabel": "STEP",
+        "title": "Monetize With Core Offer",
+        "body": "Present a low-risk entry product immediately after opt-in. Follow with an upsell path that solves the full problem and accelerates trust.",
+        "step1Num": "01",
+        "step1Label": "Tripwire Offer",
+        "step2Num": "02",
+        "step2Label": "Upsell Path",
+        "step3Num": "03",
+        "step3Label": "Core Product",
+        "takeaway": "Profitability lives in the ascension model."
+      }
+    },
+    {
+      "layoutId": "body-flowchart",
+      "slots": {
+        "pageOf": "6 / 8",
+        "authorInitials": "JD",
+        "authorName": "Jordan Doe",
+        "handle": "@jordandoe",
+        "avatarBg1": "#3a5eef",
+        "avatarBg2": "#f4eee2",
+        "number": "05",
+        "numberLabel": "STEP",
+        "title": "Retain and Expand Revenue",
+        "body": "Shift one-time buyers into recurring members through onboarding that guarantees quick wins. Automate expansion offers at usage milestones.",
+        "step1Num": "01",
+        "step1Label": "Quick Wins",
+        "step2Num": "02",
+        "step2Label": "Recurring Tier",
+        "step3Num": "03",
+        "step3Label": "Expand LTV",
+        "takeaway": "Retention is the new acquisition."
+      }
+    },
+    {
+      "layoutId": "body-flowchart",
+      "slots": {
+        "pageOf": "7 / 8",
+        "authorInitials": "JD",
+        "authorName": "Jordan Doe",
+        "handle": "@jordandoe",
+        "avatarBg1": "#3a5eef",
+        "avatarBg2": "#f4eee2",
+        "number": "06",
+        "numberLabel": "LOOP",
+        "title": "Optimize the Full Stack",
+        "body": "Audit conversion rates at every node weekly. Small improvements across all four steps compound into exponential revenue growth over time.",
+        "step1Num": "01",
+        "step1Label": "Measure Data",
+        "step2Num": "02",
+        "step2Label": "Remove Friction",
+        "step3Num": "03",
+        "step3Label": "Scale Spend",
+        "takeaway": "Tiny leaks sink billion-dollar funnels."
+      }
+    },
+    {
+      "layoutId": "cta-flowchart",
+      "slots": {
+        "pageOf": "8 / 8",
+        "authorInitials": "JD",
+        "authorName": "Jordan Doe",
+        "handle": "@jordandoe",
+        "avatarBg1": "#3a5eef",
+        "avatarBg2": "#f4eee2",
+        "eyebrow": "START BUILDING",
+        "headlineLine1": "Build Your",
+        "headlineAccent": "Revenue Funnel",
+        "node1": "Map Flow",
+        "node2": "Launch Fast",
+        "node3": "Scale MRR",
+        "body": "Steal the exact framework and implement it this week. Join thousands of founders turning traffic into predictable recurring revenue.",
+        "buttonLabel": "Get the Free Playbook"
+      }
+    }
+  ]
+}

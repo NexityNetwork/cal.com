@@ -1,0 +1,170 @@
+{
+  "id": "tool-list-design-stack",
+  "brand": "Milo Design Co.",
+  "brief": "The 5-tool design stack that produced our entire brand identity in a weekend.",
+  "theme": "tool-list",
+  "slides": [
+    {
+      "layoutId": "cover-tool-list",
+      "slots": {
+        "pageOf": "1 / 8",
+        "authorInitials": "MK",
+        "authorName": "Milo K.",
+        "handle": "@milo.design",
+        "avatarBg1": "#ff5a28",
+        "avatarBg2": "#ff8c61",
+        "eyebrow": "5 TOOLS YOU NEED",
+        "headlineLine1": "BRAND IDENTITY IN",
+        "headlineAccent": "A WEEKEND",
+        "tool1Glyph": "F",
+        "tool2Glyph": "M",
+        "tool3Glyph": "W",
+        "tool4Glyph": "R",
+        "tool5Glyph": "N"
+      }
+    },
+    {
+      "layoutId": "body-tool-list",
+      "slots": {
+        "pageOf": "2 / 8",
+        "authorInitials": "MK",
+        "authorName": "Milo K.",
+        "handle": "@milo.design",
+        "avatarBg1": "#ff5a28",
+        "avatarBg2": "#ff8c61",
+        "number": "01",
+        "toolGlyph": "F",
+        "toolCategory": "DESIGN",
+        "toolName": "Figma",
+        "toolTagline": "Design tool for product teams",
+        "body": "We mapped our entire visual system here. Colors, type, components, and responsive layouts all in one file.",
+        "feat1Key": "PRICE",
+        "feat1Val": "Free / $12/mo",
+        "feat2Key": "BEST FOR",
+        "feat2Val": "UI & systems"
+      }
+    },
+    {
+      "layoutId": "body-tool-list",
+      "slots": {
+        "pageOf": "3 / 8",
+        "authorInitials": "MK",
+        "authorName": "Milo K.",
+        "handle": "@milo.design",
+        "avatarBg1": "#ff5a28",
+        "avatarBg2": "#ff8c61",
+        "number": "02",
+        "toolGlyph": "M",
+        "toolCategory": "IMAGERY",
+        "toolName": "Midjourney",
+        "toolTagline": "AI image generation for moodboards",
+        "body": "Generated hero textures and campaign concepts in hours instead of weeks. Perfect for rapid visual exploration.",
+        "feat1Key": "PRICE",
+        "feat1Val": "$10 / $30/mo",
+        "feat2Key": "BEST FOR",
+        "feat2Val": "Concept art"
+      }
+    },
+    {
+      "layoutId": "body-tool-list",
+      "slots": {
+        "pageOf": "4 / 8",
+        "authorInitials": "MK",
+        "authorName": "Milo K.",
+        "handle": "@milo.design",
+        "avatarBg1": "#ff5a28",
+        "avatarBg2": "#ff8c61",
+        "number": "03",
+        "toolGlyph": "W",
+        "toolCategory": "WEB",
+        "toolName": "Webflow",
+        "toolTagline": "No-code site builder for brands",
+        "body": "Published our marketing site straight from Figma frames. CMS handles blog and case studies without a developer.",
+        "feat1Key": "PRICE",
+        "feat1Val": "Free / $18/mo",
+        "feat2Key": "BEST FOR",
+        "feat2Val": "Marketing sites"
+      }
+    },
+    {
+      "layoutId": "body-tool-list",
+      "slots": {
+        "pageOf": "5 / 8",
+        "authorInitials": "MK",
+        "authorName": "Milo K.",
+        "handle": "@milo.design",
+        "avatarBg1": "#ff5a28",
+        "avatarBg2": "#ff8c61",
+        "number": "04",
+        "toolGlyph": "R",
+        "toolCategory": "MOTION",
+        "toolName": "Rive",
+        "toolTagline": "Interactive motion design tool",
+        "body": "Built a living logo and micro-interactions that export lightweight for web and mobile. No After Effects needed.",
+        "feat1Key": "PRICE",
+        "feat1Val": "Free / $10/mo",
+        "feat2Key": "BEST FOR",
+        "feat2Val": "Interactive motion"
+      }
+    },
+    {
+      "layoutId": "body-tool-list",
+      "slots": {
+        "pageOf": "6 / 8",
+        "authorInitials": "MK",
+        "authorName": "Milo K.",
+        "handle": "@milo.design",
+        "avatarBg1": "#ff5a28",
+        "avatarBg2": "#ff8c61",
+        "number": "05",
+        "toolGlyph": "N",
+        "toolCategory": "DOCS",
+        "toolName": "Notion",
+        "toolTagline": "Brand wiki and team hub",
+        "body": "Housed our guidelines, voice notes, and asset library. The single source of truth for designers and writers.",
+        "feat1Key": "PRICE",
+        "feat1Val": "Free / $8/mo",
+        "feat2Key": "BEST FOR",
+        "feat2Val": "Brand guidelines"
+      }
+    },
+    {
+      "layoutId": "body-tool-list",
+      "slots": {
+        "pageOf": "7 / 8",
+        "authorInitials": "MK",
+        "authorName": "Milo K.",
+        "handle": "@milo.design",
+        "avatarBg1": "#ff5a28",
+        "avatarBg2": "#ff8c61",
+        "number": "06",
+        "toolGlyph": "◉",
+        "toolCategory": "WORKFLOW",
+        "toolName": "The Weekend Stack",
+        "toolTagline": "From zero to launched in 48 hours",
+        "body": "Figma for pixels, Midjourney for assets, Webflow for the site, Rive for motion, and Notion for the rules.",
+        "feat1Key": "TOTAL COST",
+        "feat1Val": "$0–$58/mo",
+        "feat2Key": "TIME",
+        "feat2Val": "One weekend"
+      }
+    },
+    {
+      "layoutId": "cta-tool-list",
+      "slots": {
+        "pageOf": "8 / 8",
+        "authorInitials": "MK",
+        "authorName": "Milo K.",
+        "handle": "@milo.design",
+        "avatarBg1": "#ff5a28",
+        "avatarBg2": "#ff8c61",
+        "eyebrow": "PICK YOUR STACK",
+        "headlineLine1": "BUILD A BRAND",
+        "headlineAccent": "THAT STANDS OUT",
+        "body": "Steal our exact workflow and launch your identity this weekend. No agency required.",
+        "buttonLabel": "Get the Free Guide",
+        "secondaryLabel": "View Pricing"
+      }
+    }
+  ]
+}
