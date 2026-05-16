@@ -1,0 +1,125 @@
+{
+  "id": "bad-good-great-hooks",
+  "brand": "Jordan Doe",
+  "brief": "Bad vs Good vs Great hooks — the 6 patterns top creators use to stop the scroll.",
+  "theme": "grid-italic",
+  "slides": [
+    {
+      "layoutId": "cover-grid-italic",
+      "slots": {
+        "topic": "Scroll-Stopping Hooks",
+        "preLine": "What actually separates",
+        "word1": "BAD",
+        "word2": "Good",
+        "word3": "Great",
+        "authorInitials": "JD",
+        "authorName": "Jordan Doe",
+        "authorRole": "Content Strategist",
+        "handle": "@jordandoe"
+      }
+    },
+    {
+      "layoutId": "body-grid-italic",
+      "slots": {
+        "number": "1",
+        "preLabel": "Pattern No.",
+        "titleMain": "The Curiosity",
+        "titleAccent": "Gap",
+        "titleUnderline": "Open Loop",
+        "body": "Bad hooks give the answer immediately. Good hooks ask a question. Great hooks open a loop your brain must close.",
+        "note": "Leave the payoff for slide two, not the first line.",
+        "authorInitials": "JD",
+        "authorName": "Jordan Doe",
+        "pageOf": "2 / 8"
+      }
+    },
+    {
+      "layoutId": "body-grid-italic",
+      "slots": {
+        "number": "2",
+        "preLabel": "Pattern No.",
+        "titleMain": "The Problem",
+        "titleAccent": "Agitate",
+        "titleUnderline": "Unspoken Fear",
+        "body": "Bad hooks mention a pain point. Good hooks describe the struggle. Great hooks agitate the fear they only admit at midnight.",
+        "note": "Speak to the 2 a.m. thoughts, not the 9 a.m. persona.",
+        "authorInitials": "JD",
+        "authorName": "Jordan Doe",
+        "pageOf": "3 / 8"
+      }
+    },
+    {
+      "layoutId": "body-grid-italic",
+      "slots": {
+        "number": "3",
+        "preLabel": "Pattern No.",
+        "titleMain": "The Contrarian",
+        "titleAccent": "Reframe",
+        "titleUnderline": "Sacred Cow",
+        "body": "Bad hooks agree with the crowd. Good hooks disagree politely. Great hooks torch a sacred cow and rebuild the altar.",
+        "note": "If it doesn't make someone nervous, it's not contrarian.",
+        "authorInitials": "JD",
+        "authorName": "Jordan Doe",
+        "pageOf": "4 / 8"
+      }
+    },
+    {
+      "layoutId": "body-grid-italic",
+      "slots": {
+        "number": "4",
+        "preLabel": "Pattern No.",
+        "titleMain": "The Story",
+        "titleAccent": "Climax",
+        "titleUnderline": "Cold Open",
+        "body": "Bad hooks announce a story. Good hooks start in the middle. Great hooks drop you into the climax without warning.",
+        "note": "Begin where the emotion is highest, then rewind.",
+        "authorInitials": "JD",
+        "authorName": "Jordan Doe",
+        "pageOf": "5 / 8"
+      }
+    },
+    {
+      "layoutId": "body-grid-italic",
+      "slots": {
+        "number": "5",
+        "preLabel": "Pattern No.",
+        "titleMain": "The Proof",
+        "titleAccent": "Specificity",
+        "titleUnderline": "Absurd Stat",
+        "body": "Bad hooks say trust me. Good hooks cite a study. Great hooks share a specific stat that feels almost unbelievable.",
+        "note": "87.3% beats most people every time.",
+        "authorInitials": "JD",
+        "authorName": "Jordan Doe",
+        "pageOf": "6 / 8"
+      }
+    },
+    {
+      "layoutId": "body-grid-italic",
+      "slots": {
+        "number": "6",
+        "preLabel": "Pattern No.",
+        "titleMain": "The Empathy",
+        "titleAccent": "Mirror",
+        "titleUnderline": "Exact Feeling",
+        "body": "Bad hooks say I get it. Good hooks name the problem. Great hooks describe the exact feeling on a Sunday night.",
+        "note": "If they nod, they stop scrolling.",
+        "authorInitials": "JD",
+        "authorName": "Jordan Doe",
+        "pageOf": "7 / 8"
+      }
+    },
+    {
+      "layoutId": "cta-grid-italic",
+      "slots": {
+        "eyebrow": "Now the only question is",
+        "headlineMain": "Which hook",
+        "headlineAccent": "will you test",
+        "body": "Save these patterns and rewrite your next hook before lunch.",
+        "buttonLabel": "Save this post",
+        "authorInitials": "JD",
+        "authorName": "Jordan Doe",
+        "handle": "@jordandoe"
+      }
+    }
+  ]
+}

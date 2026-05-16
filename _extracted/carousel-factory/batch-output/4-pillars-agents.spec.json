@@ -1,113 +1,113 @@
 {
   "id": "4-pillars-agents",
-  "brand": "AgentPulse",
+  "brand": "AgentForge",
   "brief": "The 4 pillars of production-ready AI agents (prompt, tools, memory, eval).",
   "theme": "black-mindmap",
   "slides": [
     {
       "layoutId": "cover-black-mindmap",
       "slots": {
-        "handle": "@agentpulse",
+        "handle": "@agentcraft",
         "pageLabel": "01 / 08",
         "eyebrow": "SAVE THIS",
         "headlineLine1": "The 4 Pillars of",
         "headlineLine2": "AI Agents",
-        "swipeNote": "swipe to see all 4"
+        "swipeNote": "swipe to explore all"
       }
     },
     {
       "layoutId": "body-black-mindmap",
       "slots": {
-        "handle": "@agentpulse",
+        "handle": "@agentcraft",
         "pageLabel": "02 / 08",
         "number": "1",
         "title": "Prompt",
         "pill1": "Vague prompts",
         "pill2": "No constraints",
         "pill3": "Passive language",
-        "pill4": "No examples",
+        "pill4": "Over-explaining",
         "pill5": "No focus"
       }
     },
     {
       "layoutId": "body-black-mindmap",
       "slots": {
-        "handle": "@agentpulse",
+        "handle": "@agentcraft",
         "pageLabel": "03 / 08",
         "number": "2",
         "title": "Tools",
-        "pill1": "Wrong tools",
-        "pill2": "No timeout",
-        "pill3": "Bad schemas",
-        "pill4": "No retries",
-        "pill5": "Slow calls"
+        "pill1": "Wrong tool pick",
+        "pill2": "No auth layer",
+        "pill3": "Missing retries",
+        "pill4": "No timeouts",
+        "pill5": "Hardcoded schema"
       }
     },
     {
       "layoutId": "body-black-mindmap",
       "slots": {
-        "handle": "@agentpulse",
+        "handle": "@agentcraft",
         "pageLabel": "04 / 08",
         "number": "3",
         "title": "Memory",
-        "pill1": "No history",
-        "pill2": "Lost context",
-        "pill3": "Bad retrieval",
-        "pill4": "Stale cache",
-        "pill5": "No cleanup"
+        "pill1": "Lost context",
+        "pill2": "Flat storage",
+        "pill3": "Poor retrieval",
+        "pill4": "No summaries",
+        "pill5": "Wrong embeddings"
       }
     },
     {
       "layoutId": "body-black-mindmap",
       "slots": {
-        "handle": "@agentpulse",
+        "handle": "@agentcraft",
         "pageLabel": "05 / 08",
         "number": "4",
         "title": "Eval",
-        "pill1": "No tests",
-        "pill2": "Vague metrics",
-        "pill3": "Manual review",
-        "pill4": "No tracing",
-        "pill5": "No baseline"
+        "pill1": "Missing tests",
+        "pill2": "Subjective checks",
+        "pill3": "No guardrails",
+        "pill4": "Vanity metrics",
+        "pill5": "No tracing"
       }
     },
     {
       "layoutId": "body-black-mindmap",
       "slots": {
-        "handle": "@agentpulse",
+        "handle": "@agentcraft",
         "pageLabel": "06 / 08",
         "number": "5",
-        "title": "Orchestration",
-        "pill1": "Hardcoded flow",
-        "pill2": "No fallback",
-        "pill3": "Race conditions",
-        "pill4": "No monitor",
-        "pill5": "Tight coupling"
+        "title": "Flow",
+        "pill1": "Tight coupling",
+        "pill2": "Blocking calls",
+        "pill3": "No fallback",
+        "pill4": "Missing logs",
+        "pill5": "No versioning"
       }
     },
     {
       "layoutId": "body-black-mindmap",
       "slots": {
-        "handle": "@agentpulse",
+        "handle": "@agentcraft",
         "pageLabel": "07 / 08",
         "number": "6",
-        "title": "Guardrails",
-        "pill1": "No input check",
-        "pill2": "No output filter",
-        "pill3": "Exposed keys",
-        "pill4": "No sandbox",
-        "pill5": "No limits"
+        "title": "Deploy",
+        "pill1": "No monitoring",
+        "pill2": "No rollback",
+        "pill3": "Weak security",
+        "pill4": "No staging",
+        "pill5": "Missing limits"
       }
     },
     {
       "layoutId": "cta-black-mindmap",
       "slots": {
-        "handle": "@agentpulse",
+        "handle": "@agentcraft",
         "pageLabel": "08 / 08",
         "eyebrow": "YOUR MOVE",
-        "headlineLine1": "Build Agents",
-        "headlineLine2": "That Ship",
-        "body": "Master these 4 pillars and ship production-ready AI agents that actually work.",
+        "headlineLine1": "Build agents",
+        "headlineLine2": "that ship",
+        "body": "Master these 4 pillars and ship AI agents that don't break in production.",
         "buttonLabel": "Save this post",
         "closing": "Follow for more"
       }
