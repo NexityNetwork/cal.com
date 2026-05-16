@@ -1,0 +1,177 @@
+{
+  "id": "flow-content-flywheel",
+  "brand": "Alex Chen",
+  "brief": "The content flywheel that compounds — 4 stages, every step diagrammed.",
+  "theme": "flowchart",
+  "slides": [
+    {
+      "layoutId": "cover-flowchart",
+      "slots": {
+        "pageOf": "1 / 8",
+        "authorInitials": "AC",
+        "authorName": "Alex Chen",
+        "handle": "@alexchen",
+        "avatarBg1": "#3a5eef",
+        "avatarBg2": "#f4eee2",
+        "eyebrow": "CONTENT SYSTEM",
+        "titleLine1": "The Flywheel",
+        "titleAccent": "That Compounds",
+        "node1": "Create Core Assets",
+        "node2": "Distribute Everywhere",
+        "node3": "Capture Attention",
+        "node4": "Compound Growth"
+      }
+    },
+    {
+      "layoutId": "body-flowchart",
+      "slots": {
+        "pageOf": "2 / 8",
+        "authorInitials": "AC",
+        "authorName": "Alex Chen",
+        "handle": "@alexchen",
+        "avatarBg1": "#3a5eef",
+        "avatarBg2": "#f4eee2",
+        "number": "01",
+        "numberLabel": "STEP",
+        "title": "Create One Anchor Asset",
+        "body": "Start with a high-value piece that solves a painful problem. One strong asset becomes the fuel for everything else.",
+        "step1Num": "01",
+        "step1Label": "Pick Topic",
+        "step2Num": "02",
+        "step2Label": "Write Hook",
+        "step3Num": "03",
+        "step3Label": "Build Asset",
+        "takeaway": "One great post beats ten mediocre ones."
+      }
+    },
+    {
+      "layoutId": "body-flowchart",
+      "slots": {
+        "pageOf": "3 / 8",
+        "authorInitials": "AC",
+        "authorName": "Alex Chen",
+        "handle": "@alexchen",
+        "avatarBg1": "#3a5eef",
+        "avatarBg2": "#f4eee2",
+        "number": "02",
+        "numberLabel": "STEP",
+        "title": "Distribute Across Channels",
+        "body": "Repurpose your anchor into formats native to each platform. Match the message to the medium without losing the core insight.",
+        "step1Num": "01",
+        "step1Label": "Select Channels",
+        "step2Num": "02",
+        "step2Label": "Tailor Format",
+        "step3Num": "03",
+        "step3Label": "Time Drops",
+        "takeaway": "Distribution is where good content goes to win."
+      }
+    },
+    {
+      "layoutId": "body-flowchart",
+      "slots": {
+        "pageOf": "4 / 8",
+        "authorInitials": "AC",
+        "authorName": "Alex Chen",
+        "handle": "@alexchen",
+        "avatarBg1": "#3a5eef",
+        "avatarBg2": "#f4eee2",
+        "number": "03",
+        "numberLabel": "STEP",
+        "title": "Drive Real Engagement",
+        "body": "Posting is not enough. Reply to every comment, start conversations, and make your audience feel seen and heard.",
+        "step1Num": "01",
+        "step1Label": "Reply Fast",
+        "step2Num": "02",
+        "step2Label": "Ask Questions",
+        "step3Num": "03",
+        "step3Label": "Build Trust",
+        "takeaway": "Engagement is the interest on your content."
+      }
+    },
+    {
+      "layoutId": "body-flowchart",
+      "slots": {
+        "pageOf": "5 / 8",
+        "authorInitials": "AC",
+        "authorName": "Alex Chen",
+        "handle": "@alexchen",
+        "avatarBg1": "#3a5eef",
+        "avatarBg2": "#f4eee2",
+        "number": "04",
+        "numberLabel": "STEP",
+        "title": "Capture The Demand",
+        "body": "Turn attention into owned channels. Use clear CTAs to move followers into your email list or community.",
+        "step1Num": "01",
+        "step1Label": "Add CTA",
+        "step2Num": "02",
+        "step2Label": "Offer Lead",
+        "step3Num": "03",
+        "step3Label": "Collect Emails",
+        "takeaway": "If you do not capture, you rent attention."
+      }
+    },
+    {
+      "layoutId": "body-flowchart",
+      "slots": {
+        "pageOf": "6 / 8",
+        "authorInitials": "AC",
+        "authorName": "Alex Chen",
+        "handle": "@alexchen",
+        "avatarBg1": "#3a5eef",
+        "avatarBg2": "#f4eee2",
+        "number": "05",
+        "numberLabel": "STEP",
+        "title": "Repurpose Your Best Work",
+        "body": "Break your anchor into micro-content. One long-form piece should spawn ten shorts, threads, and graphics.",
+        "step1Num": "01",
+        "step1Label": "Find Hooks",
+        "step2Num": "02",
+        "step2Label": "Clip Snippets",
+        "step3Num": "03",
+        "step3Label": "Remix Formats",
+        "takeaway": "Repurposing is leverage without extra creation."
+      }
+    },
+    {
+      "layoutId": "body-flowchart",
+      "slots": {
+        "pageOf": "7 / 8",
+        "authorInitials": "AC",
+        "authorName": "Alex Chen",
+        "handle": "@alexchen",
+        "avatarBg1": "#3a5eef",
+        "avatarBg2": "#f4eee2",
+        "number": "06",
+        "numberLabel": "STEP",
+        "title": "Compound The Returns",
+        "body": "Reinvest what works. Double down on winning topics, cut the losers, and let momentum carry your growth.",
+        "step1Num": "01",
+        "step1Label": "Analyze Data",
+        "step2Num": "02",
+        "step2Label": "Double Down",
+        "step3Num": "03",
+        "step3Label": "Loop Again",
+        "takeaway": "Compounding turns content into a growth engine."
+      }
+    },
+    {
+      "layoutId": "cta-flowchart",
+      "slots": {
+        "pageOf": "8 / 8",
+        "authorInitials": "AC",
+        "authorName": "Alex Chen",
+        "handle": "@alexchen",
+        "avatarBg1": "#3a5eef",
+        "avatarBg2": "#f4eee2",
+        "eyebrow": "START TODAY",
+        "headlineLine1": "Build Your",
+        "headlineAccent": "Content Flywheel",
+        "node1": "Create Once",
+        "node2": "Distribute More",
+        "node3": "Compound Forever",
+        "body": "Steal the full system and start growing your audience on autopilot today.",
+        "buttonLabel": "Get The Free Guide"
+      }
+    }
+  ]
+}

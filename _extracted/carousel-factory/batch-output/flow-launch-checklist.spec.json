@@ -1,0 +1,177 @@
+{
+  "id": "flow-launch-checklist",
+  "brand": "Alex Chen",
+  "brief": "Our 4-stage launch system that consistently hits #1 of the day — visual flowchart.",
+  "theme": "flowchart",
+  "slides": [
+    {
+      "layoutId": "cover-flowchart",
+      "slots": {
+        "pageOf": "1 / 8",
+        "authorInitials": "AC",
+        "authorName": "Alex Chen",
+        "handle": "@alexchen",
+        "avatarBg1": "#3a5eef",
+        "avatarBg2": "#1e3a8a",
+        "eyebrow": "PRODUCT LAUNCH SYSTEM",
+        "titleLine1": "THE 4-STAGE LAUNCH",
+        "titleAccent": "THAT HITS #1",
+        "node1": "Build Waitlist",
+        "node2": "Create Buzz",
+        "node3": "Launch Hard",
+        "node4": "Dominate Rankings"
+      }
+    },
+    {
+      "layoutId": "body-flowchart",
+      "slots": {
+        "pageOf": "2 / 8",
+        "authorInitials": "AC",
+        "authorName": "Alex Chen",
+        "handle": "@alexchen",
+        "avatarBg1": "#3a5eef",
+        "avatarBg2": "#1e3a8a",
+        "number": "01",
+        "numberLabel": "STAGE",
+        "title": "AUDIENCE PRIMING ENGINE",
+        "body": "Build a high-intent waitlist two weeks before launch. Segment early adopters and send exclusive teasers daily.",
+        "step1Num": "01",
+        "step1Label": "Lead Magnet",
+        "step2Num": "02",
+        "step2Label": "Waitlist Page",
+        "step3Num": "03",
+        "step3Label": "Daily Teasers",
+        "takeaway": "A primed list converts 3x higher than cold traffic."
+      }
+    },
+    {
+      "layoutId": "body-flowchart",
+      "slots": {
+        "pageOf": "3 / 8",
+        "authorInitials": "AC",
+        "authorName": "Alex Chen",
+        "handle": "@alexchen",
+        "avatarBg1": "#3a5eef",
+        "avatarBg2": "#1e3a8a",
+        "number": "02",
+        "numberLabel": "STAGE",
+        "title": "PRE-LAUNCH BUZZ SEQUENCE",
+        "body": "Share behind-the-scenes content across all channels. Engage every comment to trigger platform algorithms and build social proof.",
+        "step1Num": "01",
+        "step1Label": "Story Teasers",
+        "step2Num": "02",
+        "step2Label": "Comment Sprints",
+        "step3Num": "03",
+        "step3Label": "Social Proof",
+        "takeaway": "Algorithmic reach spikes when engagement happens in the first hour."
+      }
+    },
+    {
+      "layoutId": "body-flowchart",
+      "slots": {
+        "pageOf": "4 / 8",
+        "authorInitials": "AC",
+        "authorName": "Alex Chen",
+        "handle": "@alexchen",
+        "avatarBg1": "#3a5eef",
+        "avatarBg2": "#1e3a8a",
+        "number": "03",
+        "numberLabel": "STAGE",
+        "title": "HIGH-VELOCITY LAUNCH DAY",
+        "body": "Drop at peak traffic hours with limited bonuses. Stack notifications across email, SMS, and social to create unstoppable momentum.",
+        "step1Num": "01",
+        "step1Label": "Timed Drop",
+        "step2Num": "02",
+        "step2Label": "Bonus Stack",
+        "step3Num": "03",
+        "step3Label": "Notify All",
+        "takeaway": "Velocity beats volume on launch day."
+      }
+    },
+    {
+      "layoutId": "body-flowchart",
+      "slots": {
+        "pageOf": "5 / 8",
+        "authorInitials": "AC",
+        "authorName": "Alex Chen",
+        "handle": "@alexchen",
+        "avatarBg1": "#3a5eef",
+        "avatarBg2": "#1e3a8a",
+        "number": "04",
+        "numberLabel": "STAGE",
+        "title": "MOMENTUM AMPLIFICATION LOOP",
+        "body": "Ride the wave with hourly updates and scarcity timers. Turn day-one buyers into affiliates to sustain ranking velocity.",
+        "step1Num": "01",
+        "step1Label": "Hourly Updates",
+        "step2Num": "02",
+        "step2Label": "Scarcity Timer",
+        "step3Num": "03",
+        "step3Label": "Affiliate Push",
+        "takeaway": "Sustained velocity locks the #1 spot for days."
+      }
+    },
+    {
+      "layoutId": "body-flowchart",
+      "slots": {
+        "pageOf": "6 / 8",
+        "authorInitials": "AC",
+        "authorName": "Alex Chen",
+        "handle": "@alexchen",
+        "avatarBg1": "#3a5eef",
+        "avatarBg2": "#1e3a8a",
+        "number": "05",
+        "numberLabel": "RULE",
+        "title": "THE ENGAGEMENT MULTIPLIER",
+        "body": "Reply to every comment and DM within thirty minutes during launch week. Platforms reward real-time conversation with exponential reach.",
+        "step1Num": "01",
+        "step1Label": "Reply Fast",
+        "step2Num": "02",
+        "step2Label": "Pin Comments",
+        "step3Num": "03",
+        "step3Label": "Go Live",
+        "takeaway": "Conversation is the cheapest ad spend."
+      }
+    },
+    {
+      "layoutId": "body-flowchart",
+      "slots": {
+        "pageOf": "7 / 8",
+        "authorInitials": "AC",
+        "authorName": "Alex Chen",
+        "handle": "@alexchen",
+        "avatarBg1": "#3a5eef",
+        "avatarBg2": "#1e3a8a",
+        "number": "06",
+        "numberLabel": "RULE",
+        "title": "EVERGREEN TOP POSITIONING",
+        "body": "After the launch, redirect traffic to an evergreen waitlist. Use social proof from the launch to convert cold visitors for months.",
+        "step1Num": "01",
+        "step1Label": "Waitlist Gate",
+        "step2Num": "02",
+        "step2Label": "Social Proof",
+        "step3Num": "03",
+        "step3Label": "Auto Launch",
+        "takeaway": "One launch can fuel a year of revenue."
+      }
+    },
+    {
+      "layoutId": "cta-flowchart",
+      "slots": {
+        "pageOf": "8 / 8",
+        "authorInitials": "AC",
+        "authorName": "Alex Chen",
+        "handle": "@alexchen",
+        "avatarBg1": "#3a5eef",
+        "avatarBg2": "#1e3a8a",
+        "eyebrow": "YOUR TURN",
+        "headlineLine1": "LAUNCH LIKE A",
+        "headlineAccent": "#1 PRO",
+        "node1": "Plan Once",
+        "node2": "Execute Fast",
+        "node3": "Win Big",
+        "body": "Steal the exact 4-stage system and start building your waitlist today. The next #1 spot is yours.",
+        "buttonLabel": "GET THE SYSTEM"
+      }
+    }
+  ]
+}

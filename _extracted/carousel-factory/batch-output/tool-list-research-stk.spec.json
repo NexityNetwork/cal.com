@@ -1,0 +1,170 @@
+{
+  "id": "tool-list-research-stk",
+  "brand": "Alex Klein",
+  "brief": "The 5-tool research stack that lets a solo founder out-think a 20-person team.",
+  "theme": "tool-list",
+  "slides": [
+    {
+      "layoutId": "cover-tool-list",
+      "slots": {
+        "pageOf": "1 / 8",
+        "authorInitials": "AK",
+        "authorName": "Alex Klein",
+        "handle": "@alexklein",
+        "avatarBg1": "#ff5a28",
+        "avatarBg2": "#1a1a1a",
+        "eyebrow": "5 TOOLS YOU NEED",
+        "headlineLine1": "THE SOLO FOUNDER",
+        "headlineAccent": "RESEARCH STACK",
+        "tool1Glyph": "P",
+        "tool2Glyph": "N",
+        "tool3Glyph": "C",
+        "tool4Glyph": "F",
+        "tool5Glyph": "R"
+      }
+    },
+    {
+      "layoutId": "body-tool-list",
+      "slots": {
+        "pageOf": "2 / 8",
+        "authorInitials": "AK",
+        "authorName": "Alex Klein",
+        "handle": "@alexklein",
+        "avatarBg1": "#ff5a28",
+        "avatarBg2": "#1a1a1a",
+        "number": "01",
+        "toolGlyph": "P",
+        "toolCategory": "AI SEARCH",
+        "toolName": "Perplexity",
+        "toolTagline": "Real-time answers with cited sources",
+        "body": "Replaces a 4-person research desk. Ask complex market questions and get sourced summaries in seconds instead of hours.",
+        "feat1Key": "PRICE",
+        "feat1Val": "Free / $20 mo",
+        "feat2Key": "BEST FOR",
+        "feat2Val": "Market intel"
+      }
+    },
+    {
+      "layoutId": "body-tool-list",
+      "slots": {
+        "pageOf": "3 / 8",
+        "authorInitials": "AK",
+        "authorName": "Alex Klein",
+        "handle": "@alexklein",
+        "avatarBg1": "#ff5a28",
+        "avatarBg2": "#1a1a1a",
+        "number": "02",
+        "toolGlyph": "N",
+        "toolCategory": "KNOWLEDGE",
+        "toolName": "Notion",
+        "toolTagline": "Your second brain for founder decisions",
+        "body": "Centralize research, meeting notes, and strategy. One searchable workspace replaces shared drives and wiki tools.",
+        "feat1Key": "PRICE",
+        "feat1Val": "Free / $10 mo",
+        "feat2Key": "BEST FOR",
+        "feat2Val": "Solo ops"
+      }
+    },
+    {
+      "layoutId": "body-tool-list",
+      "slots": {
+        "pageOf": "4 / 8",
+        "authorInitials": "AK",
+        "authorName": "Alex Klein",
+        "handle": "@alexklein",
+        "avatarBg1": "#ff5a28",
+        "avatarBg2": "#1a1a1a",
+        "number": "03",
+        "toolGlyph": "C",
+        "toolCategory": "ANALYSIS",
+        "toolName": "Claude",
+        "toolTagline": "Long-form thinking partner",
+        "body": "Upload PDFs, reports, and transcripts. Claude extracts patterns and writes strategic briefs like a senior analyst.",
+        "feat1Key": "PRICE",
+        "feat1Val": "Free / $20 mo",
+        "feat2Key": "BEST FOR",
+        "feat2Val": "Deep dives"
+      }
+    },
+    {
+      "layoutId": "body-tool-list",
+      "slots": {
+        "pageOf": "5 / 8",
+        "authorInitials": "AK",
+        "authorName": "Alex Klein",
+        "handle": "@alexklein",
+        "avatarBg1": "#ff5a28",
+        "avatarBg2": "#1a1a1a",
+        "number": "04",
+        "toolGlyph": "F",
+        "toolCategory": "SYNTHESIS",
+        "toolName": "FigJam",
+        "toolTagline": "Visual thinking for non-designers",
+        "body": "Map competitor landscapes, user flows, and decision trees. Thinking in public makes strategy tangible and shareable.",
+        "feat1Key": "PRICE",
+        "feat1Val": "Free / $12 mo",
+        "feat2Key": "BEST FOR",
+        "feat2Val": "Sensemaking"
+      }
+    },
+    {
+      "layoutId": "body-tool-list",
+      "slots": {
+        "pageOf": "6 / 8",
+        "authorInitials": "AK",
+        "authorName": "Alex Klein",
+        "handle": "@alexklein",
+        "avatarBg1": "#ff5a28",
+        "avatarBg2": "#1a1a1a",
+        "number": "05",
+        "toolGlyph": "R",
+        "toolCategory": "READING",
+        "toolName": "Readwise",
+        "toolTagline": "Retention engine for everything you read",
+        "body": "Sync highlights from articles, newsletters, and books. Spaced repetition turns reading into actionable founder knowledge.",
+        "feat1Key": "PRICE",
+        "feat1Val": "Free / $8 mo",
+        "feat2Key": "BEST FOR",
+        "feat2Val": "Learning loops"
+      }
+    },
+    {
+      "layoutId": "body-tool-list",
+      "slots": {
+        "pageOf": "7 / 8",
+        "authorInitials": "AK",
+        "authorName": "Alex Klein",
+        "handle": "@alexklein",
+        "avatarBg1": "#ff5a28",
+        "avatarBg2": "#1a1a1a",
+        "number": "06",
+        "toolGlyph": "⚡",
+        "toolCategory": "WORKFLOW",
+        "toolName": "Daily Loop",
+        "toolTagline": "15-minute research ritual",
+        "body": "Perplexity finds it, Claude analyzes it, FigJam maps it, Readwise archives it, Notion owns it. Repeat daily.",
+        "feat1Key": "TIME",
+        "feat1Val": "15 min/day",
+        "feat2Key": "OUTPUT",
+        "feat2Val": "Decisions"
+      }
+    },
+    {
+      "layoutId": "cta-tool-list",
+      "slots": {
+        "pageOf": "8 / 8",
+        "authorInitials": "AK",
+        "authorName": "Alex Klein",
+        "handle": "@alexklein",
+        "avatarBg1": "#ff5a28",
+        "avatarBg2": "#1a1a1a",
+        "eyebrow": "PICK YOUR STACK",
+        "headlineLine1": "OUT-THINK THE",
+        "headlineAccent": "COMPETITION",
+        "body": "Start with two tools this week. Build the habit before you scale the stack.",
+        "buttonLabel": "SAVE THIS POST",
+        "secondaryLabel": "FOLLOW FOR MORE"
+      }
+    }
+  ]
+}

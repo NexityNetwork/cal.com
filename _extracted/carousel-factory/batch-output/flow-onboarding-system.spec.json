@@ -1,0 +1,177 @@
+{
+  "id": "flow-onboarding-system",
+  "brand": "ChurnCut",
+  "brief": "The customer onboarding flow that cut our churn in half — every node mapped.",
+  "theme": "flowchart",
+  "slides": [
+    {
+      "layoutId": "cover-flowchart",
+      "slots": {
+        "pageOf": "1 / 8",
+        "authorInitials": "AL",
+        "authorName": "Avery Lane",
+        "handle": "@averylane",
+        "avatarBg1": "#3a5eef",
+        "avatarBg2": "#dce3ff",
+        "eyebrow": "CUSTOMER ONBOARDING",
+        "titleLine1": "The Flow That",
+        "titleAccent": "Halved Churn",
+        "node1": "Capture Intent Fast",
+        "node2": "Segment the User",
+        "node3": "Deliver Quick Win",
+        "node4": "Lock in Habit"
+      }
+    },
+    {
+      "layoutId": "body-flowchart",
+      "slots": {
+        "pageOf": "2 / 8",
+        "authorInitials": "AL",
+        "authorName": "Avery Lane",
+        "handle": "@averylane",
+        "avatarBg1": "#3a5eef",
+        "avatarBg2": "#dce3ff",
+        "number": "01",
+        "numberLabel": "STEP",
+        "title": "Remove Friction at Signup",
+        "body": "Long forms kill activation. We cut fields to email, password, and role. Completion jumped 40% overnight.",
+        "step1Num": "01",
+        "step1Label": "Social Login",
+        "step2Num": "02",
+        "step2Label": "One-Click SSO",
+        "step3Num": "03",
+        "step3Label": "Email Only",
+        "takeaway": "Less input, more momentum."
+      }
+    },
+    {
+      "layoutId": "body-flowchart",
+      "slots": {
+        "pageOf": "3 / 8",
+        "authorInitials": "AL",
+        "authorName": "Avery Lane",
+        "handle": "@averylane",
+        "avatarBg1": "#3a5eef",
+        "avatarBg2": "#dce3ff",
+        "number": "02",
+        "numberLabel": "STEP",
+        "title": "Qualify With a Survey",
+        "body": "We ask three questions on goals and team size. Answers auto-tag users for personalized paths. Relevance always beats generic demos.",
+        "step1Num": "01",
+        "step1Label": "Goal Check",
+        "step2Num": "02",
+        "step2Label": "Team Size",
+        "step3Num": "03",
+        "step3Label": "Use Case",
+        "takeaway": "Data now, delight later."
+      }
+    },
+    {
+      "layoutId": "body-flowchart",
+      "slots": {
+        "pageOf": "4 / 8",
+        "authorInitials": "AL",
+        "authorName": "Avery Lane",
+        "handle": "@averylane",
+        "avatarBg1": "#3a5eef",
+        "avatarBg2": "#dce3ff",
+        "number": "03",
+        "numberLabel": "STEP",
+        "title": "Surface Personal Dashboard",
+        "body": "We generate a starter project from survey answers. Users see value in under sixty seconds. Context converts better than blank space.",
+        "step1Num": "01",
+        "step1Label": "Import Data",
+        "step2Num": "02",
+        "step2Label": "Template Pick",
+        "step3Num": "03",
+        "step3Label": "Auto Configure",
+        "takeaway": "Context converts faster than chaos."
+      }
+    },
+    {
+      "layoutId": "body-flowchart",
+      "slots": {
+        "pageOf": "5 / 8",
+        "authorInitials": "AL",
+        "authorName": "Avery Lane",
+        "handle": "@averylane",
+        "avatarBg1": "#3a5eef",
+        "avatarBg2": "#dce3ff",
+        "number": "04",
+        "numberLabel": "STEP",
+        "title": "Engineer the First Win",
+        "body": "We guide users to complete one task immediately. Celebrating that micro-win builds dopamine and stickiness. One finish drives the second visit.",
+        "step1Num": "01",
+        "step1Label": "Task Suggestion",
+        "step2Num": "02",
+        "step2Label": "Highlight Action",
+        "step3Num": "03",
+        "step3Label": "Celebrate Win",
+        "takeaway": "Dopamine is the best retention tool."
+      }
+    },
+    {
+      "layoutId": "body-flowchart",
+      "slots": {
+        "pageOf": "6 / 8",
+        "authorInitials": "AL",
+        "authorName": "Avery Lane",
+        "handle": "@averylane",
+        "avatarBg1": "#3a5eef",
+        "avatarBg2": "#dce3ff",
+        "number": "05",
+        "numberLabel": "STEP",
+        "title": "Trigger Check-In Emails",
+        "body": "When users go silent after day three, we send one targeted tip. This recovers twelve percent of silent accounts. Timing beats frequency.",
+        "step1Num": "01",
+        "step1Label": "Detect Drop",
+        "step2Num": "02",
+        "step2Label": "Send Tip",
+        "step3Num": "03",
+        "step3Label": "Re-engage User",
+        "takeaway": "Silence is a signal to act."
+      }
+    },
+    {
+      "layoutId": "body-flowchart",
+      "slots": {
+        "pageOf": "7 / 8",
+        "authorInitials": "AL",
+        "authorName": "Avery Lane",
+        "handle": "@averylane",
+        "avatarBg1": "#3a5eef",
+        "avatarBg2": "#dce3ff",
+        "number": "06",
+        "numberLabel": "STEP",
+        "title": "Measure and Iterate Fast",
+        "body": "We survey power users monthly and churned users at exit. Insights feed directly into the next onboarding sprint. Never stop optimizing the first mile.",
+        "step1Num": "01",
+        "step1Label": "NPS Score",
+        "step2Num": "02",
+        "step2Label": "Exit Survey",
+        "step3Num": "03",
+        "step3Label": "Ship Change",
+        "takeaway": "Your first mile is never finished."
+      }
+    },
+    {
+      "layoutId": "cta-flowchart",
+      "slots": {
+        "pageOf": "8 / 8",
+        "authorInitials": "AL",
+        "authorName": "Avery Lane",
+        "handle": "@averylane",
+        "avatarBg1": "#3a5eef",
+        "avatarBg2": "#dce3ff",
+        "eyebrow": "BUILD YOUR FLOW",
+        "headlineLine1": "Map Your",
+        "headlineAccent": "Onboarding Flow",
+        "node1": "Audit Friction",
+        "node2": "Add Context",
+        "node3": "Drive Habit",
+        "body": "Steal this framework and cut your churn in half. Start with the node that hurts most.",
+        "buttonLabel": "Get the Free Guide"
+      }
+    }
+  ]
+}

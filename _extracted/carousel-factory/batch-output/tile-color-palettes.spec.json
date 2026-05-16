@@ -1,0 +1,180 @@
+{
+  "id": "tile-color-palettes",
+  "brand": "Color Capital",
+  "brief": "6 brand color palettes that print money in 2026 — real brands using each.",
+  "theme": "design-tile",
+  "slides": [
+    {
+      "layoutId": "cover-design-tile",
+      "slots": {
+        "pageOf": "01 / 08",
+        "authorInitials": "JD",
+        "authorName": "Jordan Doe",
+        "handle": "@jordandoe",
+        "avatarBg1": "#635BFF",
+        "avatarBg2": "#FF4500",
+        "eyebrow": "BRAND PALETTES",
+        "titleLine1": "Colors That Convert",
+        "tile1Color": "#635BFF",
+        "tile2Color": "#FF4500",
+        "tile3Color": "#95BF47",
+        "tile4Color": "#FF9900",
+        "tile5Color": "#E50914",
+        "tile6Color": "#1DB954",
+        "tile1Label": "Stripe",
+        "tile2Label": "Reddit",
+        "tile3Label": "Shopify",
+        "tile4Label": "Amazon",
+        "tile5Label": "Netflix",
+        "tile6Label": "Spotify",
+        "tile1Glyph": "◆",
+        "tile2Glyph": "●",
+        "tile3Glyph": "▲",
+        "tile4Glyph": "■",
+        "tile5Glyph": "✦",
+        "tile6Glyph": "◐"
+      }
+    },
+    {
+      "layoutId": "body-design-tile",
+      "slots": {
+        "pageOf": "02 / 08",
+        "authorInitials": "JD",
+        "authorName": "Jordan Doe",
+        "handle": "@jordandoe",
+        "avatarBg1": "#635BFF",
+        "avatarBg2": "#FF4500",
+        "themeColor": "#635BFF",
+        "number": "01",
+        "numberLabel": "STRIPE",
+        "titleMain": "Fintech Indigo",
+        "titleAccent": "Purple Power",
+        "body": "Stripe's signature indigo and mint pairing drives trust at checkout. High-contrast UI reduces friction and lifts conversion across global payment flows.",
+        "heroKey": "PRIMARY HEX",
+        "heroValue": "#635BFF for buttons",
+        "heroGlyph": "◆"
+      }
+    },
+    {
+      "layoutId": "body-design-tile",
+      "slots": {
+        "pageOf": "03 / 08",
+        "authorInitials": "JD",
+        "authorName": "Jordan Doe",
+        "handle": "@jordandoe",
+        "avatarBg1": "#635BFF",
+        "avatarBg2": "#FF4500",
+        "themeColor": "#FF4500",
+        "number": "02",
+        "numberLabel": "REDDIT",
+        "titleMain": "Community Orange",
+        "titleAccent": "Upvote Red",
+        "body": "Reddit's vibrant orange creates urgency in calls to action. The dark mode foundation keeps eyeballs on ads and awards longer.",
+        "heroKey": "ACTION HEX",
+        "heroValue": "#FF4500 for CTAs",
+        "heroGlyph": "●"
+      }
+    },
+    {
+      "layoutId": "body-design-tile",
+      "slots": {
+        "pageOf": "04 / 08",
+        "authorInitials": "JD",
+        "authorName": "Jordan Doe",
+        "handle": "@jordandoe",
+        "avatarBg1": "#635BFF",
+        "avatarBg2": "#FF4500",
+        "themeColor": "#95BF47",
+        "number": "03",
+        "numberLabel": "SHOPIFY",
+        "titleMain": "Commerce Green",
+        "titleAccent": "Growth Signal",
+        "body": "Shopify's leafy green signals success to merchants at every dashboard touchpoint. It turns complex analytics into calming revenue visuals.",
+        "heroKey": "BRAND HEX",
+        "heroValue": "#95BF47 for trust",
+        "heroGlyph": "▲"
+      }
+    },
+    {
+      "layoutId": "body-design-tile",
+      "slots": {
+        "pageOf": "05 / 08",
+        "authorInitials": "JD",
+        "authorName": "Jordan Doe",
+        "handle": "@jordandoe",
+        "avatarBg1": "#635BFF",
+        "avatarBg2": "#FF4500",
+        "themeColor": "#FF9900",
+        "number": "04",
+        "numberLabel": "AMAZON",
+        "titleMain": "Logistics Orange",
+        "titleAccent": "Buy Box",
+        "body": "Amazon's orange sparks impulse without screaming sale. It guides Prime members from search to one-click checkout faster than any rival.",
+        "heroKey": "PRIME HEX",
+        "heroValue": "#FF9900 for speed",
+        "heroGlyph": "■"
+      }
+    },
+    {
+      "layoutId": "body-design-tile",
+      "slots": {
+        "pageOf": "06 / 08",
+        "authorInitials": "JD",
+        "authorName": "Jordan Doe",
+        "handle": "@jordandoe",
+        "avatarBg1": "#635BFF",
+        "avatarBg2": "#FF4500",
+        "themeColor": "#E50914",
+        "number": "05",
+        "numberLabel": "NETFLIX",
+        "titleMain": "Binge Red",
+        "titleAccent": "Play Now",
+        "body": "Netflix's crimson commands attention in a sea of content thumbnails. The near-black surround mimics a dark theater, increasing watch time.",
+        "heroKey": "IMPACT HEX",
+        "heroValue": "#E50914 for drama",
+        "heroGlyph": "✦"
+      }
+    },
+    {
+      "layoutId": "body-design-tile",
+      "slots": {
+        "pageOf": "07 / 08",
+        "authorInitials": "JD",
+        "authorName": "Jordan Doe",
+        "handle": "@jordandoe",
+        "avatarBg1": "#635BFF",
+        "avatarBg2": "#FF4500",
+        "themeColor": "#1DB954",
+        "number": "06",
+        "numberLabel": "SPOTIFY",
+        "titleMain": "Stream Green",
+        "titleAccent": "Audio Wave",
+        "body": "Spotify's electric green pulses through every playlist and podcast promotion. It turns casual listeners into paid subscribers through playful energy.",
+        "heroKey": "GROWTH HEX",
+        "heroValue": "#1DB954 for subs",
+        "heroGlyph": "◐"
+      }
+    },
+    {
+      "layoutId": "cta-design-tile",
+      "slots": {
+        "pageOf": "08 / 08",
+        "authorInitials": "JD",
+        "authorName": "Jordan Doe",
+        "handle": "@jordandoe",
+        "avatarBg1": "#635BFF",
+        "avatarBg2": "#FF4500",
+        "themeColor": "#635BFF",
+        "swatch1": "#635BFF",
+        "swatch2": "#FF4500",
+        "swatch3": "#95BF47",
+        "swatch4": "#1DB954",
+        "eyebrow": "YOUR PALETTE",
+        "headlineLine1": "Steal These",
+        "headlineAccent": "Money Colors",
+        "body": "Drop these hex codes into your 2026 brand kit and watch conversions climb. Which palette fits your startup best?",
+        "buttonLabel": "Download Palette Kit"
+      }
+    }
+  ]
+}
