@@ -1,0 +1,160 @@
+{
+  "id": "agent-failure-modes",
+  "brand": "AgentOps",
+  "brief": "The 7 failure modes of AI agents in production — and the playbook to detect each one.",
+  "theme": "mono-pattern",
+  "slides": [
+    {
+      "layoutId": "cover-mono-pattern",
+      "slots": {
+        "pageOf": "01 / 08",
+        "handle": "@agentops",
+        "patternLabel": "INTRO",
+        "word1": "THE",
+        "word2": "AGENT FAILURE",
+        "word3": "PLAYBOOK",
+        "body": "Seven critical failure modes hiding in production agents—and the exact detection playbook to catch each one before users notice.",
+        "ctaText": "Swipe to Read More",
+        "rightNote": "7 failures inside",
+        "footerLeft": "carousel · 01",
+        "footerRight": "@agentops"
+      }
+    },
+    {
+      "layoutId": "body-mono-pattern",
+      "slots": {
+        "pageOf": "02 / 08",
+        "handle": "@agentops",
+        "patternLabel": "FAILURE 01",
+        "titleWord1": "THE",
+        "titleWord2": "HALLUCINATION SPIRAL",
+        "body": "Agents fabricate facts when retrieval fails or confidence thresholds are missing. Detect drift by grounding every output to verified sources.",
+        "flow1": "User Query",
+        "flow2": "Agent Generates — ungrounded claim",
+        "flow3": "Detector — flags source mismatch",
+        "card1Key": "BEST FOR",
+        "card1Body": "RAG pipelines, support bots, and research agents that cite external knowledge.",
+        "card2Key": "KEY INSIGHT",
+        "card2Body": "Add a citation validator step; hallucinations drop 80% when outputs must reference a source ID.",
+        "footerLeft": "carousel · 02",
+        "footerRight": "@agentops"
+      }
+    },
+    {
+      "layoutId": "body-mono-pattern",
+      "slots": {
+        "pageOf": "03 / 08",
+        "handle": "@agentops",
+        "patternLabel": "FAILURE 02",
+        "titleWord1": "THE",
+        "titleWord2": "TOOL BREAK",
+        "body": "Agents select the wrong tool or hallucinate parameters, causing cascading API errors. Instrument every call with strict schema validation.",
+        "flow1": "User Goal",
+        "flow2": "Agent Picks — wrong function",
+        "flow3": "Schema Guard — rejects bad args",
+        "card1Key": "BEST FOR",
+        "card1Body": "Function-calling agents, coding copilots, and workflows with external API integrations.",
+        "card2Key": "KEY INSIGHT",
+        "card2Body": "Log tool-selection distributions; a sudden entropy spike signals parameter drift before it explodes.",
+        "footerLeft": "carousel · 03",
+        "footerRight": "@agentops"
+      }
+    },
+    {
+      "layoutId": "body-mono-pattern",
+      "slots": {
+        "pageOf": "04 / 08",
+        "handle": "@agentops",
+        "patternLabel": "FAILURE 03",
+        "titleWord1": "THE",
+        "titleWord2": "LOOP TRAP",
+        "body": "Agents get stuck in repetitive cycles when termination logic is vague or rewards are misaligned. Cap iterations and detect state churn.",
+        "flow1": "Task Started",
+        "flow2": "Agent Repeats — same action",
+        "flow3": "Loop Detector — forces exit",
+        "card1Key": "BEST FOR",
+        "card1Body": "Autonomous planners, multi-step workflows, and recursive reasoning chains.",
+        "card2Key": "KEY INSIGHT",
+        "card2Body": "Hash the agent state each step; identical hashes across three ticks means a loop.",
+        "footerLeft": "carousel · 04",
+        "footerRight": "@agentops"
+      }
+    },
+    {
+      "layoutId": "body-mono-pattern",
+      "slots": {
+        "pageOf": "05 / 08",
+        "handle": "@agentops",
+        "patternLabel": "FAILURE 04",
+        "titleWord1": "THE",
+        "titleWord2": "CONTEXT FADE",
+        "body": "Long sessions overflow the context window or bury key instructions, causing amnesia. Compress history and surface system prompts early.",
+        "flow1": "Session Opens",
+        "flow2": "History Grows — token limit hit",
+        "flow3": "Compressor — preserves rules",
+        "card1Key": "BEST FOR",
+        "card1Body": "Long-running chatbots, multi-turn negotiations, and agents with large tool kits.",
+        "card2Key": "KEY INSIGHT",
+        "card2Body": "Track token utilization per turn; steep ramps predict instruction loss before it happens.",
+        "footerLeft": "carousel · 05",
+        "footerRight": "@agentops"
+      }
+    },
+    {
+      "layoutId": "body-mono-pattern",
+      "slots": {
+        "pageOf": "06 / 08",
+        "handle": "@agentops",
+        "patternLabel": "FAILURE 05",
+        "titleWord1": "THE",
+        "titleWord2": "GUARDRAIL CRACK",
+        "body": "Agents bypass safety filters or leak sensitive data when policy layers sit too far from execution. Inline guardrails catch violations early.",
+        "flow1": "Input Received",
+        "flow2": "Agent Plans — risky sub-task",
+        "flow3": "Policy Guard — blocks or masks",
+        "card1Key": "BEST FOR",
+        "card1Body": "Customer-facing agents, healthcare copilots, and any system handling PII or secrets.",
+        "card2Key": "KEY INSIGHT",
+        "card2Body": "Run output classifiers on intermediate steps, not just final responses, to catch jailbreaks.",
+        "footerLeft": "carousel · 06",
+        "footerRight": "@agentops"
+      }
+    },
+    {
+      "layoutId": "body-mono-pattern",
+      "slots": {
+        "pageOf": "07 / 08",
+        "handle": "@agentops",
+        "patternLabel": "FAILURE 06",
+        "titleWord1": "THE",
+        "titleWord2": "PERFORMANCE DROP",
+        "body": "Agents return malformed JSON or trigger timeout cascades under load. Enforce response contracts with parsers and circuit breakers.",
+        "flow1": "Request In",
+        "flow2": "Agent Struggles — slow or broken",
+        "flow3": "Circuit Breaker — fails safe",
+        "card1Key": "BEST FOR",
+        "card1Body": "High-traffic APIs, structured-output agents, and cost-sensitive production workloads.",
+        "card2Key": "KEY INSIGHT",
+        "card2Body": "P95 latency jumps precede schema errors; treat slowdowns as early warnings of format drift.",
+        "footerLeft": "carousel · 07",
+        "footerRight": "@agentops"
+      }
+    },
+    {
+      "layoutId": "cta-mono-pattern",
+      "slots": {
+        "pageOf": "08 / 08",
+        "handle": "@agentops",
+        "patternLabel": "WRAP",
+        "word1": "DEPLOY",
+        "word2": "WITH CONFIDENCE",
+        "body": "Pick one failure mode to instrument this week. Detection beats disaster every single time.",
+        "quote": "Observability is the only insurance in production.",
+        "buttonLabel": "Save this playbook",
+        "rightNote": "7 failures inside",
+        "footerLeft": "carousel · 08",
+        "footerRight": "@agentops"
+      }
+    }
+  ]
+}

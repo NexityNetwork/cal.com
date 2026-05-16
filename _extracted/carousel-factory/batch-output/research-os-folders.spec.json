@@ -1,0 +1,174 @@
+{
+  "id": "research-os-folders",
+  "brand": "Research OS",
+  "brief": "My research OS: raw + wiki + outputs. How I turn 100 inputs into one good idea/week.",
+  "theme": "second-brain",
+  "slides": [
+    {
+      "layoutId": "cover-second-brain",
+      "slots": {
+        "filename": "RESEARCH_OS.sys",
+        "bigNumber": "3",
+        "bigLabel": "Folders",
+        "folderDesc": "raw + wiki + outputs",
+        "headlineMain": "I Built My",
+        "headlineAccent": "Research OS",
+        "headlineLine2": "From 3 Folders",
+        "subLine1": "No apps. No plugins. No friction.",
+        "subLine2": "It's just",
+        "subAccent": "3 folders",
+        "subTail": "on your desktop."
+      }
+    },
+    {
+      "layoutId": "body-second-brain",
+      "slots": {
+        "eyebrow": "SYSTEM",
+        "number": "01",
+        "title": "The Setup",
+        "terminalPath": "~/research-os",
+        "term1Cmd": "mkdir",
+        "term2Cmd": "mkdir",
+        "term3Cmd": "mkdir",
+        "term1Arg": "raw/",
+        "term2Arg": "wiki/",
+        "term3Arg": "outputs/",
+        "quote": "That's the entire system architecture.",
+        "card1Key": "raw/",
+        "card2Key": "wiki/",
+        "card3Key": "outputs/",
+        "card1Desc": "Dump everything here without thinking.",
+        "card2Desc": "Connect ideas into living notes.",
+        "card3Desc": "Publish finished thinking weekly.",
+        "nextNote": "How to fill the raw folder"
+      }
+    },
+    {
+      "layoutId": "body-second-brain",
+      "slots": {
+        "eyebrow": "STEP",
+        "number": "02",
+        "title": "Capture Raw",
+        "terminalPath": "~/research-os/raw",
+        "term1Cmd": "curl",
+        "term2Cmd": "wget",
+        "term3Cmd": "touch",
+        "term1Arg": "article",
+        "term2Arg": "paper",
+        "term3Arg": "note",
+        "quote": "Collect first, curate everything later.",
+        "card1Key": "articles",
+        "card2Key": "pdfs",
+        "card3Key": "snippets",
+        "card1Desc": "Bookmarks and reads go here.",
+        "card2Desc": "Papers and reports live here.",
+        "card3Desc": "Quick thoughts and highlights.",
+        "nextNote": "Distill into wiki notes"
+      }
+    },
+    {
+      "layoutId": "body-second-brain",
+      "slots": {
+        "eyebrow": "STEP",
+        "number": "03",
+        "title": "Build Wiki",
+        "terminalPath": "~/research-os/wiki",
+        "term1Cmd": "touch",
+        "term2Cmd": "echo",
+        "term3Cmd": "ln",
+        "term1Arg": "idea.md",
+        "term2Arg": "insight",
+        "term3Arg": "concept",
+        "quote": "Connect the dots between ideas.",
+        "card1Key": "ideas/",
+        "card2Key": "tags/",
+        "card3Key": "maps/",
+        "card1Desc": "Atomic notes link together.",
+        "card2Desc": "Tags create emergent clusters.",
+        "card3Desc": "Maps show hidden patterns.",
+        "nextNote": "Turn notes into outputs"
+      }
+    },
+    {
+      "layoutId": "body-second-brain",
+      "slots": {
+        "eyebrow": "STEP",
+        "number": "04",
+        "title": "Ship Outputs",
+        "terminalPath": "~/research-os/outputs",
+        "term1Cmd": "cat",
+        "term2Cmd": "sed",
+        "term3Cmd": "git",
+        "term1Arg": "draft.md",
+        "term2Arg": "polish",
+        "term3Arg": "push",
+        "quote": "One clear idea, polished and shipped.",
+        "card1Key": "essays/",
+        "card2Key": "threads/",
+        "card3Key": "talks/",
+        "card1Desc": "Long-form writing from research.",
+        "card2Desc": "Social content distilled fast.",
+        "card3Desc": "Presentations share the vision.",
+        "nextNote": "The weekly review ritual"
+      }
+    },
+    {
+      "layoutId": "body-second-brain",
+      "slots": {
+        "eyebrow": "SYSTEM",
+        "number": "05",
+        "title": "Weekly Review",
+        "terminalPath": "~/research-os",
+        "term1Cmd": "ls",
+        "term2Cmd": "rm",
+        "term3Cmd": "mv",
+        "term1Arg": "raw/",
+        "term2Arg": "noise",
+        "term3Arg": "output/",
+        "quote": "One hundred inputs become one idea.",
+        "card1Key": "scan/",
+        "card2Key": "prune/",
+        "card3Key": "ship/",
+        "card1Desc": "Review everything you collected.",
+        "card2Desc": "Delete noise, keep signal.",
+        "card3Desc": "Package one sharp insight.",
+        "nextNote": "Start building your own"
+      }
+    },
+    {
+      "layoutId": "body-second-brain",
+      "slots": {
+        "eyebrow": "RULE",
+        "number": "06",
+        "title": "Stay Simple",
+        "terminalPath": "~/research-os",
+        "term1Cmd": "echo",
+        "term2Cmd": "echo",
+        "term3Cmd": "echo",
+        "term1Arg": "local",
+        "term2Arg": "plain",
+        "term3Arg": "fast",
+        "quote": "Complexity always kills consistency dead.",
+        "card1Key": "local/",
+        "card2Key": "plain/",
+        "card3Key": "fast/",
+        "card1Desc": "Files you own forever.",
+        "card2Desc": "Plain text beats databases.",
+        "card3Desc": "Speed beats perfection.",
+        "nextNote": "Build your research OS today"
+      }
+    },
+    {
+      "layoutId": "cta-second-brain",
+      "slots": {
+        "filename": "RESEARCH_OS.sys",
+        "eyebrow": "YOUR TURN",
+        "headlineMain": "Build Your",
+        "headlineAccent": "Research OS",
+        "body": "Start with 3 folders. Capture everything. Ship one idea every week.",
+        "buttonLabel": "Save this system",
+        "handle": "@yourhandle"
+      }
+    }
+  ]
+}
