@@ -1,0 +1,140 @@
+{
+  "id": "mint-hiring-first",
+  "brand": "FounderFuel",
+  "brief": "The ultimate guide to your first hire — 6 lessons from 50 founder interviews.",
+  "theme": "mint-condensed",
+  "slides": [
+    {
+      "layoutId": "cover-mint-condensed",
+      "slots": {
+        "titleLine1": "The Ultimate",
+        "titleLine2": "Guide to",
+        "titleAccent": "First Hire",
+        "authorInitials": "SJ",
+        "authorName": "Sarah Jansen",
+        "handle": "@sarahbuilds",
+        "avatarBg1": "#86efac",
+        "avatarBg2": "#22c55e",
+        "pageOf": "01 - 08"
+      }
+    },
+    {
+      "layoutId": "body-mint-condensed",
+      "slots": {
+        "authorInitials": "SJ",
+        "authorName": "Sarah Jansen",
+        "handle": "@sarahbuilds",
+        "avatarBg1": "#86efac",
+        "avatarBg2": "#22c55e",
+        "pageOf": "02 - 08",
+        "number": "01",
+        "numberLabel": "PRINCIPLE",
+        "title": "Hire for Trajectory",
+        "body": "The best founders don't hire for today's skills. They bet on steep learners who adapt faster than the company grows.",
+        "calloutLabel": "WHY IT WORKS",
+        "calloutBody": "Early-stage problems change weekly; adaptability beats narrow expertise."
+      }
+    },
+    {
+      "layoutId": "body-mint-condensed",
+      "slots": {
+        "authorInitials": "SJ",
+        "authorName": "Sarah Jansen",
+        "handle": "@sarahbuilds",
+        "avatarBg1": "#86efac",
+        "avatarBg2": "#22c55e",
+        "pageOf": "03 - 08",
+        "number": "02",
+        "numberLabel": "RULE",
+        "title": "Define the Pain First",
+        "body": "Never write a job description before you feel the burn. Founders who wait until a role is painfully missing hire with clarity.",
+        "calloutLabel": "THE SIGNAL",
+        "calloutBody": "If you can't describe the pain in one sentence, you aren't ready to hire."
+      }
+    },
+    {
+      "layoutId": "body-mint-condensed",
+      "slots": {
+        "authorInitials": "SJ",
+        "authorName": "Sarah Jansen",
+        "handle": "@sarahbuilds",
+        "avatarBg1": "#86efac",
+        "avatarBg2": "#22c55e",
+        "pageOf": "04 - 08",
+        "number": "03",
+        "numberLabel": "PRINCIPLE",
+        "title": "Avoid Mini-Me Hiring",
+        "body": "Your first hire shouldn't share your exact strengths. Complementary skills prevent blind spots and build a balanced founding team.",
+        "calloutLabel": "WHY IT WORKS",
+        "calloutBody": "Diverse skill sets cover more ground with fewer people."
+      }
+    },
+    {
+      "layoutId": "body-mint-condensed",
+      "slots": {
+        "authorInitials": "SJ",
+        "authorName": "Sarah Jansen",
+        "handle": "@sarahbuilds",
+        "avatarBg1": "#86efac",
+        "avatarBg2": "#22c55e",
+        "pageOf": "05 - 08",
+        "number": "04",
+        "numberLabel": "RULE",
+        "title": "Values Beat Pedigree",
+        "body": "Prestigious logos don't predict startup success. Founders who screen for shared values see higher retention and faster trust.",
+        "calloutLabel": "THE DATA",
+        "calloutBody": "Interviewees from top brands often flounder in ambiguous early-stage chaos."
+      }
+    },
+    {
+      "layoutId": "body-mint-condensed",
+      "slots": {
+        "authorInitials": "SJ",
+        "authorName": "Sarah Jansen",
+        "handle": "@sarahbuilds",
+        "avatarBg1": "#86efac",
+        "avatarBg2": "#22c55e",
+        "pageOf": "06 - 08",
+        "number": "05",
+        "numberLabel": "PRINCIPLE",
+        "title": "Reference Like a Detective",
+        "body": "Skip the back-channel casual check. Great founders conduct structured reference calls that reveal how candidates actually behave under pressure.",
+        "calloutLabel": "WHY IT WORKS",
+        "calloutBody": "Past behavior is the only reliable predictor of future performance."
+      }
+    },
+    {
+      "layoutId": "body-mint-condensed",
+      "slots": {
+        "authorInitials": "SJ",
+        "authorName": "Sarah Jansen",
+        "handle": "@sarahbuilds",
+        "avatarBg1": "#86efac",
+        "avatarBg2": "#22c55e",
+        "pageOf": "07 - 08",
+        "number": "06",
+        "numberLabel": "RULE",
+        "title": "Generalists Win Early",
+        "body": "Specialists are luxury items at seed stage. Your first employee must wear five hats without waiting for permission or a playbook.",
+        "calloutLabel": "THE BOTTOM LINE",
+        "calloutBody": "One flexible operator replaces three narrow experts in month one."
+      }
+    },
+    {
+      "layoutId": "cta-mint-condensed",
+      "slots": {
+        "authorInitials": "SJ",
+        "authorName": "Sarah Jansen",
+        "handle": "@sarahbuilds",
+        "avatarBg1": "#86efac",
+        "avatarBg2": "#22c55e",
+        "pageOf": "08 - 08",
+        "eyebrow": "YOUR MOVE",
+        "headlineLine1": "Time to Build",
+        "headlineAccent": "Your Team",
+        "body": "Save this guide and share it with a founder planning their first hire this quarter.",
+        "buttonLabel": "Save for Your First Hire"
+      }
+    }
+  ]
+}

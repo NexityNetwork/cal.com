@@ -1,0 +1,187 @@
+{
+  "slides": [
+    {
+      "index": 0,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/dark-blob-ai-myth/slide-01.png",
+      "bytes": 210765,
+      "qa": {
+        "verdict": "pass",
+        "checks": {
+          "no_unfilled_slots": true
+        },
+        "issues": []
+      },
+      "fingerprint": {
+        "layout": "unknown",
+        "elements": {}
+      }
+    },
+    {
+      "index": 1,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/dark-blob-ai-myth/slide-02.png",
+      "bytes": 144816,
+      "qa": {
+        "verdict": "pass",
+        "checks": {
+          "no_unfilled_slots": true
+        },
+        "issues": []
+      },
+      "fingerprint": {
+        "layout": "unknown",
+        "elements": {}
+      }
+    },
+    {
+      "index": 2,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/dark-blob-ai-myth/slide-03.png",
+      "bytes": 140019,
+      "qa": {
+        "verdict": "pass",
+        "checks": {
+          "no_unfilled_slots": true
+        },
+        "issues": []
+      },
+      "fingerprint": {
+        "layout": "unknown",
+        "elements": {}
+      }
+    },
+    {
+      "index": 3,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/dark-blob-ai-myth/slide-04.png",
+      "bytes": 140689,
+      "qa": {
+        "verdict": "pass",
+        "checks": {
+          "no_unfilled_slots": true
+        },
+        "issues": []
+      },
+      "fingerprint": {
+        "layout": "unknown",
+        "elements": {}
+      }
+    },
+    {
+      "index": 4,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/dark-blob-ai-myth/slide-05.png",
+      "bytes": 138841,
+      "qa": {
+        "verdict": "pass",
+        "checks": {
+          "no_unfilled_slots": true
+        },
+        "issues": []
+      },
+      "fingerprint": {
+        "layout": "unknown",
+        "elements": {}
+      }
+    },
+    {
+      "index": 5,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/dark-blob-ai-myth/slide-06.png",
+      "bytes": 144122,
+      "qa": {
+        "verdict": "pass",
+        "checks": {
+          "no_unfilled_slots": true
+        },
+        "issues": []
+      },
+      "fingerprint": {
+        "layout": "unknown",
+        "elements": {}
+      }
+    },
+    {
+      "index": 6,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/dark-blob-ai-myth/slide-07.png",
+      "bytes": 140487,
+      "qa": {
+        "verdict": "pass",
+        "checks": {
+          "no_unfilled_slots": true
+        },
+        "issues": []
+      },
+      "fingerprint": {
+        "layout": "unknown",
+        "elements": {}
+      }
+    },
+    {
+      "index": 7,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/dark-blob-ai-myth/slide-08.png",
+      "bytes": 202951,
+      "qa": {
+        "verdict": "pass",
+        "checks": {
+          "no_unfilled_slots": true
+        },
+        "issues": []
+      },
+      "fingerprint": {
+        "layout": "unknown",
+        "elements": {}
+      }
+    }
+  ],
+  "carouselQa": {
+    "verdict": "pass",
+    "issues": [],
+    "adjacencyChecks": [
+      {
+        "between": [
+          1,
+          2
+        ],
+        "similarity": 0
+      },
+      {
+        "between": [
+          2,
+          3
+        ],
+        "similarity": 0
+      },
+      {
+        "between": [
+          3,
+          4
+        ],
+        "similarity": 0
+      },
+      {
+        "between": [
+          4,
+          5
+        ],
+        "similarity": 0
+      },
+      {
+        "between": [
+          5,
+          6
+        ],
+        "similarity": 0
+      },
+      {
+        "between": [
+          6,
+          7
+        ],
+        "similarity": 0
+      },
+      {
+        "between": [
+          7,
+          8
+        ],
+        "similarity": 0
+      }
+    ]
+  }
+}

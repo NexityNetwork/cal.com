@@ -1,0 +1,152 @@
+{
+  "id": "dark-blob-content-loop",
+  "brand": "Kiran Mehta",
+  "brief": "The content loop that grew my X account to 50K in 90 days — 6 tactical moves.",
+  "theme": "dark-blob",
+  "slides": [
+    {
+      "layoutId": "cover-dark-blob",
+      "slots": {
+        "blobColor1": "#f72585",
+        "blobColor2": "#7209b7",
+        "eyebrow": "x growth in 90 days",
+        "headlineLine1": "6 Tactical Moves",
+        "headlineLine2": "That Grew My",
+        "headlineLine3": "X To 50K",
+        "authorInitials": "KM",
+        "authorName": "Kiran Mehta",
+        "handle": "@kiranmehta",
+        "avatarBg1": "#fee440",
+        "avatarBg2": "#ff5400"
+      }
+    },
+    {
+      "layoutId": "body-dark-blob",
+      "slots": {
+        "blobColor1": "#f72585",
+        "blobColor2": "#7209b7",
+        "accentColor": "#f72585",
+        "authorInitials": "KM",
+        "authorName": "Kiran Mehta",
+        "handle": "@kiranmehta",
+        "avatarBg1": "#fee440",
+        "avatarBg2": "#ff5400",
+        "pageOf": "02 / 08",
+        "number": "01",
+        "title": "Post Every Single Day",
+        "body": "Consistency beats talent when talent doesn't show up. I published twice daily for 90 days straight, even when no one engaged. The algorithm rewards volume and velocity above perfection.",
+        "takeaway": "Daily output builds unstoppable momentum."
+      }
+    },
+    {
+      "layoutId": "body-dark-blob",
+      "slots": {
+        "blobColor1": "#f72585",
+        "blobColor2": "#7209b7",
+        "accentColor": "#f72585",
+        "authorInitials": "KM",
+        "authorName": "Kiran Mehta",
+        "handle": "@kiranmehta",
+        "avatarBg1": "#fee440",
+        "avatarBg2": "#ff5400",
+        "pageOf": "03 / 08",
+        "number": "02",
+        "title": "Reply to Big Accounts Fast",
+        "body": "I set alerts for 20 creators in my niche and replied with genuine insights within 15 minutes. This put my profile in front of thousands of targeted readers daily.",
+        "takeaway": "Speed and value in replies brings free exposure."
+      }
+    },
+    {
+      "layoutId": "body-dark-blob",
+      "slots": {
+        "blobColor1": "#f72585",
+        "blobColor2": "#7209b7",
+        "accentColor": "#f72585",
+        "authorInitials": "KM",
+        "authorName": "Kiran Mehta",
+        "handle": "@kiranmehta",
+        "avatarBg1": "#fee440",
+        "avatarBg2": "#ff5400",
+        "pageOf": "04 / 08",
+        "number": "03",
+        "title": "Turn One Idea Into Ten",
+        "body": "Every thread became a tweet, a carousel, and a quote graphic. Repurposing isn't lazy; it's smart leverage that multiplies your reach without burning out.",
+        "takeaway": "One great idea deserves ten lives."
+      }
+    },
+    {
+      "layoutId": "body-dark-blob",
+      "slots": {
+        "blobColor1": "#f72585",
+        "blobColor2": "#7209b7",
+        "accentColor": "#f72585",
+        "authorInitials": "KM",
+        "authorName": "Kiran Mehta",
+        "handle": "@kiranmehta",
+        "avatarBg1": "#fee440",
+        "avatarBg2": "#ff5400",
+        "pageOf": "05 / 08",
+        "number": "04",
+        "title": "Build a Hook Swipe File",
+        "body": "I saved the top 50 viral posts in my niche and studied their openers. Great hooks stop the scroll. I templated them and filled in my own stories.",
+        "takeaway": "Swipe files turn guesswork into science."
+      }
+    },
+    {
+      "layoutId": "body-dark-blob",
+      "slots": {
+        "blobColor1": "#f72585",
+        "blobColor2": "#7209b7",
+        "accentColor": "#f72585",
+        "authorInitials": "KM",
+        "authorName": "Kiran Mehta",
+        "handle": "@kiranmehta",
+        "avatarBg1": "#fee440",
+        "avatarBg2": "#ff5400",
+        "pageOf": "06 / 08",
+        "number": "05",
+        "title": "Study Your Analytics Weekly",
+        "body": "Every Sunday I checked which posts won and why. I stripped away topics that flopped and doubled down on the angles that sparked real engagement.",
+        "takeaway": "Let data drive your content calendar."
+      }
+    },
+    {
+      "layoutId": "body-dark-blob",
+      "slots": {
+        "blobColor1": "#f72585",
+        "blobColor2": "#7209b7",
+        "accentColor": "#f72585",
+        "authorInitials": "KM",
+        "authorName": "Kiran Mehta",
+        "handle": "@kiranmehta",
+        "avatarBg1": "#fee440",
+        "avatarBg2": "#ff5400",
+        "pageOf": "07 / 08",
+        "number": "06",
+        "title": "Turn Followers Into Friends",
+        "body": "I sent 20 personalized DMs daily and started a free newsletter. Building a tight community creates advocates who share your content without being asked.",
+        "takeaway": "Community beats audience every time."
+      }
+    },
+    {
+      "layoutId": "cta-dark-blob",
+      "slots": {
+        "blobColor1": "#f72585",
+        "blobColor2": "#7209b7",
+        "accentColor": "#f72585",
+        "authorInitials": "KM",
+        "authorName": "Kiran Mehta",
+        "handle": "@kiranmehta",
+        "avatarBg1": "#fee440",
+        "avatarBg2": "#ff5400",
+        "pageOf": "08 / 08",
+        "eyebrow": "YOUR TURN",
+        "headlineLine1": "Start The",
+        "headlineLine2": "Loop Today",
+        "body": "Pick one tactic and execute it tomorrow morning. Momentum starts with a single post.",
+        "buttonLabel": "Save This Post",
+        "secondaryLabel": "Follow @kiranmehta"
+      }
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "id": "dark-blob-stop-procrast",
+  "brand": "Kiran Sharma",
+  "brief": "Stop procrastinating on the project that actually matters — 6 systems that compound.",
+  "theme": "dark-blob",
+  "slides": [
+    {
+      "layoutId": "cover-dark-blob",
+      "slots": {
+        "blobColor1": "#00f0ff",
+        "blobColor2": "#7c3aed",
+        "eyebrow": "the project that matters most",
+        "headlineLine1": "Stop delaying",
+        "headlineLine2": "the project",
+        "headlineLine3": "that matters",
+        "authorInitials": "KS",
+        "authorName": "Kiran Sharma",
+        "handle": "@kiranbuilds",
+        "avatarBg1": "#00f0ff",
+        "avatarBg2": "#7c3aed"
+      }
+    },
+    {
+      "layoutId": "body-dark-blob",
+      "slots": {
+        "blobColor1": "#00f0ff",
+        "blobColor2": "#7c3aed",
+        "accentColor": "#00f0ff",
+        "authorInitials": "KS",
+        "authorName": "Kiran Sharma",
+        "handle": "@kiranbuilds",
+        "avatarBg1": "#00f0ff",
+        "avatarBg2": "#7c3aed",
+        "pageOf": "02 / 08",
+        "number": "01",
+        "title": "Time-block your deep work",
+        "body": "Protect two hours daily for your most important project. Consistency beats intensity when the clock is your ally.",
+        "takeaway": "Calendar invites protect your focus."
+      }
+    },
+    {
+      "layoutId": "body-dark-blob",
+      "slots": {
+        "blobColor1": "#00f0ff",
+        "blobColor2": "#7c3aed",
+        "accentColor": "#00f0ff",
+        "authorInitials": "KS",
+        "authorName": "Kiran Sharma",
+        "handle": "@kiranbuilds",
+        "avatarBg1": "#00f0ff",
+        "avatarBg2": "#7c3aed",
+        "pageOf": "03 / 08",
+        "number": "02",
+        "title": "Shrink the first step",
+        "body": "Overwhelm lives in big goals. Write one sentence, save one file, or make one call to trigger momentum.",
+        "takeaway": "Action kills anxiety in sixty seconds."
+      }
+    },
+    {
+      "layoutId": "body-dark-blob",
+      "slots": {
+        "blobColor1": "#00f0ff",
+        "blobColor2": "#7c3aed",
+        "accentColor": "#00f0ff",
+        "authorInitials": "KS",
+        "authorName": "Kiran Sharma",
+        "handle": "@kiranbuilds",
+        "avatarBg1": "#00f0ff",
+        "avatarBg2": "#7c3aed",
+        "pageOf": "04 / 08",
+        "number": "03",
+        "title": "Build a shutdown ritual",
+        "body": "End each session by noting your next micro-task. Your future self will start faster with a clear target.",
+        "takeaway": "Clarity today fuels speed tomorrow."
+      }
+    },
+    {
+      "layoutId": "body-dark-blob",
+      "slots": {
+        "blobColor1": "#00f0ff",
+        "blobColor2": "#7c3aed",
+        "accentColor": "#00f0ff",
+        "authorInitials": "KS",
+        "authorName": "Kiran Sharma",
+        "handle": "@kiranbuilds",
+        "avatarBg1": "#00f0ff",
+        "avatarBg2": "#7c3aed",
+        "pageOf": "05 / 08",
+        "number": "04",
+        "title": "Track streaks not speed",
+        "body": "A weekly checkmark matters more than daily word count. Momentum compounds when you refuse to break the chain.",
+        "takeaway": "Don't break the chain."
+      }
+    },
+    {
+      "layoutId": "body-dark-blob",
+      "slots": {
+        "blobColor1": "#00f0ff",
+        "blobColor2": "#7c3aed",
+        "accentColor": "#00f0ff",
+        "authorInitials": "KS",
+        "authorName": "Kiran Sharma",
+        "handle": "@kiranbuilds",
+        "avatarBg1": "#00f0ff",
+        "avatarBg2": "#7c3aed",
+        "pageOf": "06 / 08",
+        "number": "05",
+        "title": "Automate the friction away",
+        "body": "Remove ten clicks between you and the work. Templates, presets, and bookmarks turn resistance into a downhill sprint.",
+        "takeaway": "Friction is the enemy of flow."
+      }
+    },
+    {
+      "layoutId": "body-dark-blob",
+      "slots": {
+        "blobColor1": "#00f0ff",
+        "blobColor2": "#7c3aed",
+        "accentColor": "#00f0ff",
+        "authorInitials": "KS",
+        "authorName": "Kiran Sharma",
+        "handle": "@kiranbuilds",
+        "avatarBg1": "#00f0ff",
+        "avatarBg2": "#7c3aed",
+        "pageOf": "07 / 08",
+        "number": "06",
+        "title": "Accountability compounds silently",
+        "body": "Share weekly progress with one trusted peer. The mild social pressure transforms invisible goals into non-negotiable commitments.",
+        "takeaway": "One witness changes everything."
+      }
+    },
+    {
+      "layoutId": "cta-dark-blob",
+      "slots": {
+        "blobColor1": "#00f0ff",
+        "blobColor2": "#7c3aed",
+        "accentColor": "#00f0ff",
+        "authorInitials": "KS",
+        "authorName": "Kiran Sharma",
+        "handle": "@kiranbuilds",
+        "avatarBg1": "#00f0ff",
+        "avatarBg2": "#7c3aed",
+        "pageOf": "08 / 08",
+        "eyebrow": "YOUR TURN",
+        "headlineLine1": "Pick one",
+        "headlineLine2": "system today",
+        "body": "Start with the smallest shift and let compound interest do the heavy lifting for you.",
+        "buttonLabel": "Save this post",
+        "secondaryLabel": "Follow @kiranbuilds"
+      }
+    }
+  ]
+}

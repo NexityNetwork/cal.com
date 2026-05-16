@@ -1,0 +1,152 @@
+{
+  "id": "dark-blob-niche-down",
+  "brand": "Derek Chen",
+  "brief": "How niching down took me from $2K to $40K/mo — 6 lessons from the pivot.",
+  "theme": "dark-blob",
+  "slides": [
+    {
+      "layoutId": "cover-dark-blob",
+      "slots": {
+        "blobColor1": "#ff2e63",
+        "blobColor2": "#5e17eb",
+        "eyebrow": "niching down changed everything…",
+        "headlineLine1": "$2K to",
+        "headlineLine2": "$40K per",
+        "headlineLine3": "month guide",
+        "authorInitials": "DC",
+        "authorName": "Derek Chen",
+        "handle": "@derekchengrowth",
+        "avatarBg1": "#ff9500",
+        "avatarBg2": "#b35900"
+      }
+    },
+    {
+      "layoutId": "body-dark-blob",
+      "slots": {
+        "blobColor1": "#ff2e63",
+        "blobColor2": "#5e17eb",
+        "accentColor": "#ff2e63",
+        "authorInitials": "DC",
+        "authorName": "Derek Chen",
+        "handle": "@derekchengrowth",
+        "avatarBg1": "#ff9500",
+        "avatarBg2": "#b35900",
+        "pageOf": "02 / 08",
+        "number": "01",
+        "title": "Stop selling to everyone",
+        "body": "When I served twelve different industries, my message was noise. The moment I targeted B2B SaaS founders, conversions tripled in thirty days.",
+        "takeaway": "Specificity is the fastest growth lever."
+      }
+    },
+    {
+      "layoutId": "body-dark-blob",
+      "slots": {
+        "blobColor1": "#ff2e63",
+        "blobColor2": "#5e17eb",
+        "accentColor": "#ff2e63",
+        "authorInitials": "DC",
+        "authorName": "Derek Chen",
+        "handle": "@derekchengrowth",
+        "avatarBg1": "#ff9500",
+        "avatarBg2": "#b35900",
+        "pageOf": "03 / 08",
+        "number": "02",
+        "title": "Raise your prices immediately",
+        "body": "Generalists compete on price. Specialists command premium fees. I 10x'd my rate once I owned one clear outcome for one clear persona.",
+        "takeaway": "Niche authority lets you charge more."
+      }
+    },
+    {
+      "layoutId": "body-dark-blob",
+      "slots": {
+        "blobColor1": "#ff2e63",
+        "blobColor2": "#5e17eb",
+        "accentColor": "#ff2e63",
+        "authorInitials": "DC",
+        "authorName": "Derek Chen",
+        "handle": "@derekchengrowth",
+        "avatarBg1": "#ff9500",
+        "avatarBg2": "#b35900",
+        "pageOf": "04 / 08",
+        "number": "03",
+        "title": "Build a repeatable system",
+        "body": "Niching gave me the same problems to solve again and again. That repetition became productized services with margins I never had before.",
+        "takeaway": "Repetition creates scalable profit."
+      }
+    },
+    {
+      "layoutId": "body-dark-blob",
+      "slots": {
+        "blobColor1": "#ff2e63",
+        "blobColor2": "#5e17eb",
+        "accentColor": "#ff2e63",
+        "authorInitials": "DC",
+        "authorName": "Derek Chen",
+        "handle": "@derekchengrowth",
+        "avatarBg1": "#ff9500",
+        "avatarBg2": "#b35900",
+        "pageOf": "05 / 08",
+        "number": "04",
+        "title": "Attract better referrals",
+        "body": "Clients could finally describe me in one sentence. Word-of-mouth became precise, and inbound leads started closing themselves.",
+        "takeaway": "Clarity makes you referable."
+      }
+    },
+    {
+      "layoutId": "body-dark-blob",
+      "slots": {
+        "blobColor1": "#ff2e63",
+        "blobColor2": "#5e17eb",
+        "accentColor": "#ff2e63",
+        "authorInitials": "DC",
+        "authorName": "Derek Chen",
+        "handle": "@derekchengrowth",
+        "avatarBg1": "#ff9500",
+        "avatarBg2": "#b35900",
+        "pageOf": "06 / 08",
+        "number": "05",
+        "title": "Cut your marketing costs",
+        "body": "One avatar means one channel and one message. I stopped wasting budget on broad campaigns and saw ROI jump within two weeks.",
+        "takeaway": "Focus shrinks spend and spikes returns."
+      }
+    },
+    {
+      "layoutId": "body-dark-blob",
+      "slots": {
+        "blobColor1": "#ff2e63",
+        "blobColor2": "#5e17eb",
+        "accentColor": "#ff2e63",
+        "authorInitials": "DC",
+        "authorName": "Derek Chen",
+        "handle": "@derekchengrowth",
+        "avatarBg1": "#ff9500",
+        "avatarBg2": "#b35900",
+        "pageOf": "07 / 08",
+        "number": "06",
+        "title": "Own a category, not a skill",
+        "body": "Skills get commoditized. Categories create moats. I repositioned from copywriter to SaaS onboarding specialist and became the obvious choice.",
+        "takeaway": "Category ownership beats general talent."
+      }
+    },
+    {
+      "layoutId": "cta-dark-blob",
+      "slots": {
+        "blobColor1": "#ff2e63",
+        "blobColor2": "#5e17eb",
+        "accentColor": "#ff2e63",
+        "authorInitials": "DC",
+        "authorName": "Derek Chen",
+        "handle": "@derekchengrowth",
+        "avatarBg1": "#ff9500",
+        "avatarBg2": "#b35900",
+        "pageOf": "08 / 08",
+        "eyebrow": "YOUR TURN",
+        "headlineLine1": "Pick your niche",
+        "headlineLine2": "and scale fast",
+        "body": "Which lesson will you act on first? Save this carousel and start your pivot today.",
+        "buttonLabel": "Save this post",
+        "secondaryLabel": "Follow @derekchengrowth"
+      }
+    }
+  ]
+}

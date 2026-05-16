@@ -1,0 +1,140 @@
+{
+  "id": "cream-best-design-tools",
+  "brand": "Mia Kraft",
+  "brief": "The 6 best design tools for indie founders in 2026 — what each one wins at.",
+  "theme": "cream-best",
+  "slides": [
+    {
+      "layoutId": "cover-cream-best",
+      "slots": {
+        "pageOf": "01 / 08",
+        "authorInitials": "MK",
+        "authorName": "Mia Kraft",
+        "handle": "@miakraft",
+        "avatarBg1": "#d65f3e",
+        "avatarBg2": "#1a1a1a",
+        "headlineLine1": "BEST",
+        "headlineAccent": "TOOLS",
+        "headlineLine3": "FOR INDIES"
+      }
+    },
+    {
+      "layoutId": "body-cream-best",
+      "slots": {
+        "pageOf": "02 / 08",
+        "authorInitials": "MK",
+        "authorName": "Mia Kraft",
+        "handle": "@miakraft",
+        "avatarBg1": "#d65f3e",
+        "avatarBg2": "#1a1a1a",
+        "number": "01",
+        "title": "Figma still owns systems",
+        "body": "The gold standard for component libraries and collaborative interfaces. Indie teams scale design without breaking consistency.",
+        "tileGlyph": "Fg",
+        "tileKey": "Best for",
+        "tileValue": "Design systems at scale"
+      }
+    },
+    {
+      "layoutId": "body-cream-best",
+      "slots": {
+        "pageOf": "03 / 08",
+        "authorInitials": "MK",
+        "authorName": "Mia Kraft",
+        "handle": "@miakraft",
+        "avatarBg1": "#d65f3e",
+        "avatarBg2": "#1a1a1a",
+        "number": "02",
+        "title": "Framer ships real sites",
+        "body": "Design and publish production-ready websites from the same canvas. Perfect for indie founders who need speed without engineering bottlenecks.",
+        "tileGlyph": "Fr",
+        "tileKey": "Best for",
+        "tileValue": "Live prototypes to web"
+      }
+    },
+    {
+      "layoutId": "body-cream-best",
+      "slots": {
+        "pageOf": "04 / 08",
+        "authorInitials": "MK",
+        "authorName": "Mia Kraft",
+        "handle": "@miakraft",
+        "avatarBg1": "#d65f3e",
+        "avatarBg2": "#1a1a1a",
+        "number": "03",
+        "title": "Spline makes 3D effortless",
+        "body": "Add interactive 3D scenes and motion to your product without a render farm. Indie brands now look premium on day one.",
+        "tileGlyph": "Sp",
+        "tileKey": "Best for",
+        "tileValue": "Interactive 3D visuals"
+      }
+    },
+    {
+      "layoutId": "body-cream-best",
+      "slots": {
+        "pageOf": "05 / 08",
+        "authorInitials": "MK",
+        "authorName": "Mia Kraft",
+        "handle": "@miakraft",
+        "avatarBg1": "#d65f3e",
+        "avatarBg2": "#1a1a1a",
+        "number": "04",
+        "title": "Webflow powers no-code web",
+        "body": "Build complex marketing sites and CMS-driven products visually. Full design control plus clean exportable code when you need it.",
+        "tileGlyph": "Wf",
+        "tileKey": "Best for",
+        "tileValue": "No-code sites and CMS"
+      }
+    },
+    {
+      "layoutId": "body-cream-best",
+      "slots": {
+        "pageOf": "06 / 08",
+        "authorInitials": "MK",
+        "authorName": "Mia Kraft",
+        "handle": "@miakraft",
+        "avatarBg1": "#d65f3e",
+        "avatarBg2": "#1a1a1a",
+        "number": "05",
+        "title": "Lovable writes the frontend",
+        "body": "Describe features in plain text and get deployable interfaces instantly. It is the fastest path from idea to validated product.",
+        "tileGlyph": "Lv",
+        "tileKey": "Best for",
+        "tileValue": "Frontend code from prompts"
+      }
+    },
+    {
+      "layoutId": "body-cream-best",
+      "slots": {
+        "pageOf": "07 / 08",
+        "authorInitials": "MK",
+        "authorName": "Mia Kraft",
+        "handle": "@miakraft",
+        "avatarBg1": "#d65f3e",
+        "avatarBg2": "#1a1a1a",
+        "number": "06",
+        "title": "Canva scales brand output",
+        "body": "Generate social assets, pitch decks and merch in minutes. The indie marketing stack starts here with templates that do not look templated.",
+        "tileGlyph": "Cv",
+        "tileKey": "Best for",
+        "tileValue": "Marketing and brand assets"
+      }
+    },
+    {
+      "layoutId": "cta-cream-best",
+      "slots": {
+        "pageOf": "08 / 08",
+        "authorInitials": "MK",
+        "authorName": "Mia Kraft",
+        "handle": "@miakraft",
+        "avatarBg1": "#d65f3e",
+        "avatarBg2": "#1a1a1a",
+        "eyebrow": "YOUR TURN",
+        "headlineLine1": "PICK YOUR",
+        "headlineAccent": "STACK",
+        "body": "Start with one tool. Master it. Then add the next layer when your product demands it.",
+        "buttonLabel": "SAVE FOR LATER"
+      }
+    }
+  ]
+}
