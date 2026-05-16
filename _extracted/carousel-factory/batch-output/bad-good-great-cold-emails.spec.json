@@ -1,6 +1,6 @@
 {
   "id": "bad-good-great-cold-emails",
-  "brand": "Jordan Drake",
+  "brand": "Jordan Doe",
   "brief": "Bad vs Good vs Great cold emails — same intent, three radically different replies.",
   "theme": "grid-italic",
   "slides": [
@@ -8,28 +8,28 @@
       "layoutId": "cover-grid-italic",
       "slots": {
         "topic": "Cold Emails",
-        "preLine": "What separates bad from great",
+        "preLine": "What separates bad from",
         "word1": "BAD",
         "word2": "Good",
         "word3": "Great",
         "authorInitials": "JD",
-        "authorName": "Jordan Drake",
+        "authorName": "Jordan Doe",
         "authorRole": "Growth Lead",
-        "handle": "@jordandrake"
+        "handle": "@jordandoe"
       }
     },
     {
       "layoutId": "body-grid-italic",
       "slots": {
         "number": "1",
-        "preLabel": "The Intent",
-        "titleMain": "Same Goal",
-        "titleAccent": "Three Replies",
-        "titleUnderline": "One Inbox",
-        "body": "Every cold email wants a meeting. The difference is whether you earn attention or steal it.",
-        "note": "Intent without empathy is just noise.",
+        "preLabel": "The Setup",
+        "titleMain": "Same Intent",
+        "titleAccent": "Different",
+        "titleUnderline": "Replies",
+        "body": "Every cold email asks for the same thing: a conversation. Yet the response rate swings from silence to meetings. The gap is not the ask—it's the angle.",
+        "note": "Intent is constant. Framing changes everything.",
         "authorInitials": "JD",
-        "authorName": "Jordan Drake",
+        "authorName": "Jordan Doe",
         "pageOf": "2 / 8"
       }
     },
@@ -37,14 +37,14 @@
       "layoutId": "body-grid-italic",
       "slots": {
         "number": "2",
-        "preLabel": "Bad Example",
-        "titleMain": "Selfish Pitch",
-        "titleAccent": "Instant Delete",
-        "titleUnderline": "Zero Research",
-        "body": "Hi Name, I am reaching out because our platform helps companies like yours increase revenue by 300%.",
-        "note": "Nobody cares what you do. They care what you know.",
+        "preLabel": "Version One",
+        "titleMain": "The Bad",
+        "titleAccent": "Spray",
+        "titleUnderline": "Pray",
+        "body": "Hi [Name], I hope you are well. We are a leading provider of AI solutions. I would love to jump on a quick call to discuss your needs. Are you free Tuesday?",
+        "note": "Self-centered, vague, and instantly deletable.",
         "authorInitials": "JD",
-        "authorName": "Jordan Drake",
+        "authorName": "Jordan Doe",
         "pageOf": "3 / 8"
       }
     },
@@ -52,14 +52,14 @@
       "layoutId": "body-grid-italic",
       "slots": {
         "number": "3",
-        "preLabel": "Good Example",
-        "titleMain": "Relevant Hook",
-        "titleAccent": "Wins Reply",
-        "titleUnderline": "Shows Effort",
-        "body": "Hi Name, noticed your Series B announcement last week. Most teams struggle with onboarding velocity right after.",
-        "note": "Context beats credentials. Always.",
+        "preLabel": "Version Two",
+        "titleMain": "The Good",
+        "titleAccent": "Clear",
+        "titleUnderline": "Ask",
+        "body": "Hi [Name], noticed your team doubled headcount in Q2. Most fast-growing sales teams struggle with onboarding velocity. We cut ramp time by 30% for similar teams.",
+        "note": "Relevant hook, but still slightly self-serving.",
         "authorInitials": "JD",
-        "authorName": "Jordan Drake",
+        "authorName": "Jordan Doe",
         "pageOf": "4 / 8"
       }
     },
@@ -67,14 +67,14 @@
       "layoutId": "body-grid-italic",
       "slots": {
         "number": "4",
-        "preLabel": "Great Example",
-        "titleMain": "Insight First",
-        "titleAccent": "Starts Dialogue",
-        "titleUnderline": "Gives Value",
-        "body": "Hi Name, three recent hires on your team came from competitors with faster ramp times. Here is the pattern.",
-        "note": "Teach something. Then ask.",
+        "preLabel": "Version Three",
+        "titleMain": "The Great",
+        "titleAccent": "Gift",
+        "titleUnderline": "First",
+        "body": "Hi [Name], saw your Series B announcement—congrats. I interviewed three VPs who scaled through similar rounds. Their biggest regret was delaying revops hires. Happy to send the notes.",
+        "note": "Leads with value. The meeting becomes a natural next step.",
         "authorInitials": "JD",
-        "authorName": "Jordan Drake",
+        "authorName": "Jordan Doe",
         "pageOf": "5 / 8"
       }
     },
@@ -82,14 +82,14 @@
       "layoutId": "body-grid-italic",
       "slots": {
         "number": "5",
-        "preLabel": "The Pattern",
-        "titleMain": "Lead With",
-        "titleAccent": "Their World",
-        "titleUnderline": "Not Yours",
-        "body": "Bad emails ask for time. Good emails ask for opinions. Great emails share an observation worth debating.",
-        "note": "Make them smarter for reading.",
+        "preLabel": "The Shift",
+        "titleMain": "The Sender",
+        "titleAccent": "Becomes",
+        "titleUnderline": "Resource",
+        "body": "Bad emails beg. Good emails pitch. Great emails teach. The reply rate skyrockets when the sender becomes a resource before they become a vendor.",
+        "note": "Flip the timeline: give, then ask.",
         "authorInitials": "JD",
-        "authorName": "Jordan Drake",
+        "authorName": "Jordan Doe",
         "pageOf": "6 / 8"
       }
     },
@@ -98,13 +98,13 @@
       "slots": {
         "number": "6",
         "preLabel": "Quick Win",
-        "titleMain": "Rewrite One",
-        "titleAccent": "Line Today",
-        "titleUnderline": "Send Tomorrow",
-        "body": "Take your last template. Delete your company description. Replace it with one specific truth about their business.",
-        "note": "Specificity is the only shortcut.",
+        "titleMain": "The Single",
+        "titleAccent": "Line",
+        "titleUnderline": "Test",
+        "body": "Before you send, delete every 'I' and 'we' until you have at least two 'you' or 'your' insights. If you cannot offer a micro-win, do not hit send.",
+        "note": "One genuine insight beats a hundred templates.",
         "authorInitials": "JD",
-        "authorName": "Jordan Drake",
+        "authorName": "Jordan Doe",
         "pageOf": "7 / 8"
       }
     },
@@ -112,13 +112,13 @@
       "layoutId": "cta-grid-italic",
       "slots": {
         "eyebrow": "Now the only question is",
-        "headlineMain": "Which Email",
-        "headlineAccent": "Will You Send",
-        "body": "Pick one prospect. Rewrite your opener using their world instead of yours.",
+        "headlineMain": "Which email",
+        "headlineAccent": "will you send",
+        "body": "Save this framework and rewrite your next cold email before lunch. Your future reply rate will thank you.",
         "buttonLabel": "Save this post",
         "authorInitials": "JD",
-        "authorName": "Jordan Drake",
-        "handle": "@jordandrake"
+        "authorName": "Jordan Doe",
+        "handle": "@jordandoe"
       }
     }
   ]
