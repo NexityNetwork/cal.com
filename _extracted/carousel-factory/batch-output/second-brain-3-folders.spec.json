@@ -1,0 +1,174 @@
+{
+  "id": "second-brain-3-folders",
+  "brand": "SecondBrain",
+  "brief": "I built my Second Brain with 3 folders. It's not an app. It's just folders.",
+  "theme": "second-brain",
+  "slides": [
+    {
+      "layoutId": "cover-second-brain",
+      "slots": {
+        "filename": "SECOND_BRAIN.sys",
+        "bigNumber": "3",
+        "bigLabel": "Folders",
+        "folderDesc": "raw + wiki + outputs",
+        "headlineMain": "I Built My",
+        "headlineAccent": "Second Brain",
+        "headlineLine2": "With 3 Folders",
+        "subLine1": "It's not an app. It's not a plugin.",
+        "subLine2": "It's just",
+        "subAccent": "3 folders",
+        "subTail": "on your computer."
+      }
+    },
+    {
+      "layoutId": "body-second-brain",
+      "slots": {
+        "eyebrow": "SYSTEM",
+        "number": "01",
+        "title": "Three Folders",
+        "terminalPath": "~/my-second-brain",
+        "term1Cmd": "mkdir",
+        "term1Arg": "raw/",
+        "term2Cmd": "mkdir",
+        "term2Arg": "wiki/",
+        "term3Cmd": "mkdir",
+        "term3Arg": "outputs/",
+        "quote": "That is the entire architecture.",
+        "card1Key": "raw/",
+        "card1Desc": "Unprocessed notes, ideas, and captures.",
+        "card2Key": "wiki/",
+        "card2Desc": "Refined knowledge and permanent notes.",
+        "card3Key": "outputs/",
+        "card3Desc": "Published work and deliverables.",
+        "nextNote": "What goes inside raw?"
+      }
+    },
+    {
+      "layoutId": "body-second-brain",
+      "slots": {
+        "eyebrow": "STEP",
+        "number": "02",
+        "title": "Capture Everything",
+        "terminalPath": "~/my-second-brain/raw",
+        "term1Cmd": "touch",
+        "term1Arg": "idea.md",
+        "term2Cmd": "touch",
+        "term2Arg": "article-clipping.md",
+        "term3Cmd": "touch",
+        "term3Arg": "meeting-notes.md",
+        "quote": "No filtering. Just dump it here.",
+        "card1Key": "ideas/",
+        "card1Desc": "Fleeting thoughts and quick saves.",
+        "card2Key": "clips/",
+        "card2Desc": "Articles, links, and screenshots.",
+        "card3Key": "logs/",
+        "card3Desc": "Daily notes and voice transcripts.",
+        "nextNote": "Then refine into wiki."
+      }
+    },
+    {
+      "layoutId": "body-second-brain",
+      "slots": {
+        "eyebrow": "STEP",
+        "number": "03",
+        "title": "Distill Knowledge",
+        "terminalPath": "~/my-second-brain/wiki",
+        "term1Cmd": "mv",
+        "term1Arg": "raw-note.md",
+        "term2Cmd": "git",
+        "term2Arg": "commit",
+        "term3Cmd": "touch",
+        "term3Arg": "evergreen.md",
+        "quote": "Turn noise into linked knowledge.",
+        "card1Key": "concepts/",
+        "card1Desc": "Atomic notes written in your own words.",
+        "card2Key": "index/",
+        "card2Desc": "Maps of content and topic hubs.",
+        "card3Key": "refs/",
+        "card3Desc": "Sources and bibliographies tracked.",
+        "nextNote": "Now ship from outputs."
+      }
+    },
+    {
+      "layoutId": "body-second-brain",
+      "slots": {
+        "eyebrow": "STEP",
+        "number": "04",
+        "title": "Create Outputs",
+        "terminalPath": "~/my-second-brain/outputs",
+        "term1Cmd": "cp",
+        "term1Arg": "../wiki/concept.md",
+        "term2Cmd": "mkdir",
+        "term2Arg": "newsletter/",
+        "term3Cmd": "touch",
+        "term3Arg": "thread.txt",
+        "quote": "The only folder the world sees.",
+        "card1Key": "posts/",
+        "card1Desc": "Social threads and blog articles.",
+        "card2Key": "talks/",
+        "card2Desc": "Slides, scripts, and presentations.",
+        "card3Key": "client/",
+        "card3Desc": "Deliverables and project work.",
+        "nextNote": "Connect the flow."
+      }
+    },
+    {
+      "layoutId": "body-second-brain",
+      "slots": {
+        "eyebrow": "SYSTEM",
+        "number": "05",
+        "title": "Simple Flow",
+        "terminalPath": "~/my-second-brain",
+        "term1Cmd": "cd",
+        "term1Arg": "raw/ && mv * ../wiki/",
+        "term2Cmd": "cd",
+        "term2Arg": "wiki/ && edit",
+        "term3Cmd": "cd",
+        "term3Arg": "outputs/ && ship",
+        "quote": "Raw to wiki to world.",
+        "card1Key": "ingest",
+        "card1Desc": "Collect everything into raw without judgment.",
+        "card2Key": "refine",
+        "card2Desc": "Distill and link notes inside wiki.",
+        "card3Key": "ship",
+        "card3Desc": "Publish finished work from outputs.",
+        "nextNote": "Why this beats apps."
+      }
+    },
+    {
+      "layoutId": "body-second-brain",
+      "slots": {
+        "eyebrow": "SYSTEM",
+        "number": "06",
+        "title": "Own Your Data",
+        "terminalPath": "~/my-second-brain",
+        "term1Cmd": "ls",
+        "term1Arg": "-la",
+        "term2Cmd": "rsync",
+        "term2Arg": "-avz",
+        "term3Cmd": "tar",
+        "term3Arg": "-czf backup.tar.gz",
+        "quote": "Plain text will last forever.",
+        "card1Key": "future-proof",
+        "card1Desc": "No vendor lock-in or subscription fees.",
+        "card2Key": "offline",
+        "card2Desc": "Works on any device without internet.",
+        "card3Key": "yours",
+        "card3Desc": "You control the structure and backups.",
+        "nextNote": "Start building today."
+      }
+    },
+    {
+      "layoutId": "cta-second-brain",
+      "slots": {
+        "filename": "SECOND_BRAIN.sys",
+        "eyebrow": "YOUR TURN",
+        "headlineMain": "Build Your",
+        "headlineAccent": "Second Brain",
+        "body": "Create 3 folders on your desktop right now. Start capturing in raw, refining in wiki, and shipping from outputs.",
+        "buttonLabel": "Save this post",
+        "handle": "@yourhandle"
+      }
+    }
+  ]
+}
