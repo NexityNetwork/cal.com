@@ -1,0 +1,135 @@
+{
+  "id": "founder-distribution",
+  "brand": "Founder Systems",
+  "brief": "Founder distribution: how I turn 1 carousel into 12 assets across 4 platforms — automated.",
+  "theme": "rounded-card",
+  "slides": [
+    {
+      "layoutId": "cover-rounded-card",
+      "slots": {
+        "pageBadge": "01",
+        "headlineLine1": "One carousel",
+        "headlineLine2": "twelve assets automated",
+        "body": "I turn a single PDF into a month of content across every major platform without extra headcount.",
+        "bodyAccent": "without extra headcount"
+      }
+    },
+    {
+      "layoutId": "body-rounded-card",
+      "slots": {
+        "pageBadge": "02",
+        "handle": "@growthfounder",
+        "number": "01",
+        "title": "Start with",
+        "titleAccent": "the source",
+        "body": "Design one high-density carousel in Canva. This single PDF becomes raw material for every other asset in your system.",
+        "ico1": "📝",
+        "ico2": "📄",
+        "ico3": "✂️",
+        "ico4": "🔄",
+        "nextNote": "Then syndicate it",
+        "pageOf": "02 / 08"
+      }
+    },
+    {
+      "layoutId": "body-rounded-card",
+      "slots": {
+        "pageBadge": "03",
+        "handle": "@growthfounder",
+        "number": "02",
+        "title": "LinkedIn gets",
+        "titleAccent": "three formats",
+        "body": "Post the native carousel, strip text into a document, and pull the hook into a text update. One idea, three touchpoints.",
+        "ico1": "💼",
+        "ico2": "📄",
+        "ico3": "💬",
+        "ico4": "📎",
+        "nextNote": "X is next",
+        "pageOf": "03 / 08"
+      }
+    },
+    {
+      "layoutId": "body-rounded-card",
+      "slots": {
+        "pageBadge": "04",
+        "handle": "@growthfounder",
+        "number": "03",
+        "title": "X gets",
+        "titleAccent": "three angles",
+        "body": "Break the slides into a thread, turn key frames into single-image tweets, and repurpose quotes as standalone posts. Same story, different speed.",
+        "ico1": "🐦",
+        "ico2": "🧵",
+        "ico3": "🖼",
+        "ico4": "💬",
+        "nextNote": "Visuals come next",
+        "pageOf": "04 / 08"
+      }
+    },
+    {
+      "layoutId": "body-rounded-card",
+      "slots": {
+        "pageBadge": "05",
+        "handle": "@growthfounder",
+        "number": "04",
+        "title": "Instagram sees",
+        "titleAccent": "three cuts",
+        "body": "Upload the carousel as-is, break highlights into a story sequence, and read the slides aloud for a reel. Visual repetition builds recognition.",
+        "ico1": "📸",
+        "ico2": "📱",
+        "ico3": "🎬",
+        "ico4": "🎵",
+        "nextNote": "Add video now",
+        "pageOf": "05 / 08"
+      }
+    },
+    {
+      "layoutId": "body-rounded-card",
+      "slots": {
+        "pageBadge": "06",
+        "handle": "@growthfounder",
+        "number": "05",
+        "title": "Video becomes",
+        "titleAccent": "three clips",
+        "body": "Screen-record the carousel for a YouTube Short, crop vertically for TikTok, and use the audio for a podcast graphic. Text fuels video.",
+        "ico1": "▶",
+        "ico2": "📱",
+        "ico3": "🎙",
+        "ico4": "🎬",
+        "nextNote": "Automate the flow",
+        "pageOf": "06 / 08"
+      }
+    },
+    {
+      "layoutId": "body-rounded-card",
+      "slots": {
+        "pageBadge": "07",
+        "handle": "@growthfounder",
+        "number": "06",
+        "title": "Automation runs",
+        "titleAccent": "the system",
+        "body": "Use Make or Zapier to trigger exports, captions, and scheduling. The entire pipeline runs in under thirty minutes while you sleep.",
+        "ico1": "⚡",
+        "ico2": "🤖",
+        "ico3": "📅",
+        "ico4": "🔄",
+        "nextNote": "Your turn next",
+        "pageOf": "07 / 08"
+      }
+    },
+    {
+      "layoutId": "cta-rounded-card",
+      "slots": {
+        "pageBadge": "08",
+        "handle": "@growthfounder",
+        "eyebrow": "YOUR TURN",
+        "headlineLine1": "Steal this",
+        "headlineLine2": "distribution system",
+        "body": "Save this carousel and build your own automated repurposing engine this weekend. One input, twelve outputs, zero overwhelm.",
+        "buttonLabel": "Save this post",
+        "secondaryLabel": "Follow @growthfounder",
+        "footerLeft": "Founder Systems",
+        "footerRight": "Link in bio"
+      }
+    }
+  ]
+}
