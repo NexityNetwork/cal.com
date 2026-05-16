@@ -1,0 +1,113 @@
+{
+  "id": "intentional-work",
+  "brand": "Slow Work Studio",
+  "brief": "How I redesigned my workday around energy, not hours — 5 quiet shifts.",
+  "theme": "terracotta",
+  "slides": [
+    {
+      "layoutId": "cover-terracotta",
+      "slots": {
+        "eyebrow": "FOUNDER",
+        "titleLine1": "Quiet",
+        "titleLine2": "Shifts,",
+        "titleLine3": "Big Change",
+        "subtitle": "I rebuilt my entire schedule around natural rhythms instead of rigid clock time, and everything changed.",
+        "ctaLabel": "Read below",
+        "handle": "@slowworkstudio",
+        "author": "Slow Work Studio",
+        "slideCount": "5"
+      }
+    },
+    {
+      "layoutId": "body-terracotta",
+      "slots": {
+        "author": "Slow Work Studio",
+        "pageOf": "1/6",
+        "number": "01",
+        "numberLabel": "Truth",
+        "titleMain": "The 9-to-5",
+        "titleItalic": "is a myth",
+        "body": "We force creativity into uniform blocks and wonder why output feels flat by noon. Energy curves, not clocks, should shape the day.",
+        "handle": "@slowworkstudio"
+      }
+    },
+    {
+      "layoutId": "body-terracotta",
+      "slots": {
+        "author": "Slow Work Studio",
+        "pageOf": "2/6",
+        "number": "02",
+        "numberLabel": "Shift",
+        "titleMain": "Guard Your",
+        "titleItalic": "Morning Energy",
+        "body": "The first ninety minutes are sacred. I reserve them for deep, creative work before email or notifications can drain my focus.",
+        "handle": "@slowworkstudio"
+      }
+    },
+    {
+      "layoutId": "body-terracotta",
+      "slots": {
+        "author": "Slow Work Studio",
+        "pageOf": "3/6",
+        "number": "03",
+        "numberLabel": "Shift",
+        "titleMain": "Match Tasks",
+        "titleItalic": "to Peaks",
+        "body": "High-focus work moves to my peak hours. Admin and calls slide into the afternoon slump when cognitive demand is naturally lower.",
+        "handle": "@slowworkstudio"
+      }
+    },
+    {
+      "layoutId": "body-terracotta",
+      "slots": {
+        "author": "Slow Work Studio",
+        "pageOf": "4/6",
+        "number": "04",
+        "numberLabel": "Shift",
+        "titleMain": "Build in",
+        "titleItalic": "Recovery",
+        "body": "I now schedule fifteen-minute buffers between meetings. These micro-breaks prevent decision fatigue and let my nervous system actually reset.",
+        "handle": "@slowworkstudio"
+      }
+    },
+    {
+      "layoutId": "body-terracotta",
+      "slots": {
+        "author": "Slow Work Studio",
+        "pageOf": "5/6",
+        "number": "05",
+        "numberLabel": "Shift",
+        "titleMain": "Honor a",
+        "titleItalic": "Hard Stop",
+        "body": "Closing my laptop at a set time forces better prioritization. The boundary protects evening restoration and sharpens focus for tomorrow.",
+        "handle": "@slowworkstudio"
+      }
+    },
+    {
+      "layoutId": "body-terracotta",
+      "slots": {
+        "author": "Slow Work Studio",
+        "pageOf": "6/6",
+        "number": "06",
+        "numberLabel": "Shift",
+        "titleMain": "Audit the",
+        "titleItalic": "Week",
+        "body": "Every Friday I review what drained me versus what flowed. This weekly rhythm calibrates my schedule far better than hourly tracking.",
+        "handle": "@slowworkstudio"
+      }
+    },
+    {
+      "layoutId": "cta-terracotta",
+      "slots": {
+        "author": "Slow Work Studio",
+        "pageOf": "8/8",
+        "eyebrow": "YOUR TURN",
+        "headlineMain": "Design",
+        "headlineItalic": "your day",
+        "body": "Which shift will you test first? Save this post and start with one small boundary tomorrow.",
+        "buttonLabel": "Save this post",
+        "handle": "@slowworkstudio"
+      }
+    }
+  ]
+}

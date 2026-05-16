@@ -1,118 +1,118 @@
 {
   "id": "ai-tools-focus",
-  "brand": "AI Ship",
+  "brand": "CreatorStack",
   "brief": "6 AI tools that replaced 12 apps for creators who ship daily content.",
   "theme": "neon-dark",
   "slides": [
     {
       "layoutId": "cover-neon-dark",
       "slots": {
-        "handle": "@aiship",
-        "badgeLabel": "AI TOOLS",
+        "handle": "@creatorstack",
+        "badgeLabel": "AI STACK",
         "tag": "THREAD",
         "neonWord": "DITCH",
-        "headlineLine2": "the app stack",
-        "tealLine": "for good",
-        "subline": "6 AI tools that replaced 12 apps for creators who ship daily content.",
+        "headlineLine2": "the bloat",
+        "tealLine": "ship daily",
+        "subline": "6 AI tools that replaced 12 apps for creators who ship daily.",
         "ctaLabel": "Read the thread",
-        "totalSlides": "7"
+        "totalSlides": "8"
       }
     },
     {
       "layoutId": "body-neon-dark",
       "slots": {
-        "handle": "@aiship",
-        "pageOf": "02 / 07",
+        "handle": "@creatorstack",
+        "pageOf": "02 / 08",
         "number": "1",
-        "titleLabel": "THE TOOL",
-        "titleMain": "ChatGPT / Claude",
-        "titleAccent": "replaces 2",
-        "body": "Ditch the research tab and copy doc. One chat writes scripts, hooks, and replies in your exact voice.",
+        "titleLabel": "THE WRITER",
+        "titleMain": "ChatGPT drafts",
+        "titleAccent": "copy fast",
+        "body": "Scripts, hooks, and newsletters in seconds. Replaces Jasper and Copy.ai so you only need one tab.",
         "slideNum": "02",
-        "totalSlides": "7"
+        "totalSlides": "8"
       }
     },
     {
       "layoutId": "body-neon-dark",
       "slots": {
-        "handle": "@aiship",
-        "pageOf": "03 / 07",
+        "handle": "@creatorstack",
+        "pageOf": "03 / 08",
         "number": "2",
-        "titleLabel": "THE TOOL",
-        "titleMain": "Midjourney / Flux",
-        "titleAccent": "replaces 2",
-        "body": "Cancel stock subscriptions and design software. Generate thumbnails, hero images, and carousel art from a single prompt.",
+        "titleLabel": "THE DESIGNER",
+        "titleMain": "Midjourney makes",
+        "titleAccent": "all art",
+        "body": "Thumbnails, covers, and assets on demand. Ditches Photoshop and stock subscriptions for good.",
         "slideNum": "03",
-        "totalSlides": "7"
+        "totalSlides": "8"
       }
     },
     {
       "layoutId": "body-neon-dark",
       "slots": {
-        "handle": "@aiship",
-        "pageOf": "04 / 07",
+        "handle": "@creatorstack",
+        "pageOf": "04 / 08",
         "number": "3",
-        "titleLabel": "THE TOOL",
-        "titleMain": "Descript",
-        "titleAccent": "replaces 2",
-        "body": "Edit video by deleting text. It handles transcription and audio cleanup so you can kill two extra apps.",
+        "titleLabel": "THE EDITOR",
+        "titleMain": "OpusClip edits",
+        "titleAccent": "shorts fast",
+        "body": "Long videos become viral shorts automatically. Replaces Premiere and your repurposing tool.",
         "slideNum": "04",
-        "totalSlides": "7"
+        "totalSlides": "8"
       }
     },
     {
       "layoutId": "body-neon-dark",
       "slots": {
-        "handle": "@aiship",
-        "pageOf": "05 / 07",
+        "handle": "@creatorstack",
+        "pageOf": "05 / 08",
         "number": "4",
-        "titleLabel": "THE TOOL",
-        "titleMain": "Notion AI",
-        "titleAccent": "replaces 2",
-        "body": "Your content calendar and draft hub in one. Auto-fill tables and rewrite captions without switching tabs ever.",
+        "titleLabel": "THE VOICE",
+        "titleMain": "ElevenLabs speaks",
+        "titleAccent": "your voice",
+        "body": "Clone your voice or generate narrations instantly. No studio mic or audio editor needed.",
         "slideNum": "05",
-        "totalSlides": "7"
+        "totalSlides": "8"
       }
     },
     {
       "layoutId": "body-neon-dark",
       "slots": {
-        "handle": "@aiship",
-        "pageOf": "06 / 07",
+        "handle": "@creatorstack",
+        "pageOf": "06 / 08",
         "number": "5",
-        "titleLabel": "THE TOOL",
-        "titleMain": "Zapier / Make",
-        "titleAccent": "replaces 2",
-        "body": "Connect your stack so posts auto-publish and leads sync. No more manual scheduler or spreadsheet data entry.",
+        "titleLabel": "THE EFFECTS",
+        "titleMain": "Runway adds",
+        "titleAccent": "VFX fast",
+        "body": "Green screen and motion graphics without keyframes. Replaces After Effects and background apps.",
         "slideNum": "06",
-        "totalSlides": "7"
+        "totalSlides": "8"
       }
     },
     {
       "layoutId": "body-neon-dark",
       "slots": {
-        "handle": "@aiship",
-        "pageOf": "07 / 07",
+        "handle": "@creatorstack",
+        "pageOf": "07 / 08",
         "number": "6",
-        "titleLabel": "THE TOOL",
-        "titleMain": "ElevenLabs",
-        "titleAccent": "replaces 2",
-        "body": "Clone your voice or narrate in 29 languages. Drop the recording suite and dubbing apps from your workflow.",
+        "titleLabel": "THE HOST",
+        "titleMain": "HeyGen films",
+        "titleAccent": "avatars now",
+        "body": "Talking-head videos from text in minutes. Replaces your camera rig and filming setup.",
         "slideNum": "07",
-        "totalSlides": "7"
+        "totalSlides": "8"
       }
     },
     {
       "layoutId": "cta-neon-dark",
       "slots": {
-        "handle": "@aiship",
-        "pageOf": "08 / 07",
+        "handle": "@creatorstack",
+        "pageOf": "08 / 08",
         "eyebrow": "YOUR MOVE",
         "headlineNeon": "SAVE",
         "headlineWhite": "this post",
-        "body": "Build your lean AI stack and ship faster. Which tool are you testing first?",
+        "body": "Swap 12 apps for 6 AI tools and ship content daily without the bloat.",
         "buttonLabel": "Save this post",
-        "secondaryLabel": "// follow @aiship"
+        "secondaryLabel": "// follow @creatorstack"
       }
     }
   ]

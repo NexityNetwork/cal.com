@@ -1,0 +1,119 @@
+{
+  "id": "hooks-that-convert",
+  "brand": "STUDIO VOLT",
+  "brief": "6 opening hooks that stop the scroll — and the psychology behind each one.",
+  "theme": "coral-mag",
+  "slides": [
+    {
+      "layoutId": "cover-coral-mag",
+      "slots": {
+        "brand": "STUDIO VOLT",
+        "issueLabel": "ISSUE 01",
+        "issueTag": "DEEP DIVE",
+        "headWord1": "STOP",
+        "headWord2": "THE",
+        "headWord3": "SCROLL",
+        "subEyebrow": "HOOK PSYCHOLOGY",
+        "subtitle": "Six scroll-stopping hooks and the psychology behind each one.",
+        "handle": "@studiovolt"
+      }
+    },
+    {
+      "layoutId": "body-coral-mag",
+      "slots": {
+        "brand": "STUDIO VOLT",
+        "pageLabel": "P.02",
+        "number": "01",
+        "eyebrow": "CURIOSITY GAP",
+        "titleWord1": "OPEN",
+        "titleWord2": "LOOP",
+        "titleWord3": "",
+        "body": "Our brains crave closure. When you open a loop without immediately closing it, dopamine drives the reader to keep scrolling for the answer.",
+        "handle": "@studiovolt"
+      }
+    },
+    {
+      "layoutId": "body-coral-mag",
+      "slots": {
+        "brand": "STUDIO VOLT",
+        "pageLabel": "P.03",
+        "number": "02",
+        "eyebrow": "PATTERN BREAK",
+        "titleWord1": "VISUAL",
+        "titleWord2": "JOLT",
+        "titleWord3": "",
+        "body": "The brain filters out sameness. A bold color block, unexpected font, or jarring headline forces the mind to exit autopilot and focus.",
+        "handle": "@studiovolt"
+      }
+    },
+    {
+      "layoutId": "body-coral-mag",
+      "slots": {
+        "brand": "STUDIO VOLT",
+        "pageLabel": "P.04",
+        "number": "03",
+        "eyebrow": "SELF RELEVANCE",
+        "titleWord1": "THE",
+        "titleWord2": "YOU",
+        "titleWord3": "HOOK",
+        "body": "The word 'you' activates the same neural regions as hearing your name. It transforms a broadcast into a one-on-one conversation instantly.",
+        "handle": "@studiovolt"
+      }
+    },
+    {
+      "layoutId": "body-coral-mag",
+      "slots": {
+        "brand": "STUDIO VOLT",
+        "pageLabel": "P.05",
+        "number": "04",
+        "eyebrow": "LOSS AVERSION",
+        "titleWord1": "DON'T",
+        "titleWord2": "MISS",
+        "titleWord3": "OUT",
+        "body": "Psychology shows losses feel twice as powerful as gains. Hinting at scarce knowledge or a fading opportunity triggers urgent attention.",
+        "handle": "@studiovolt"
+      }
+    },
+    {
+      "layoutId": "body-coral-mag",
+      "slots": {
+        "brand": "STUDIO VOLT",
+        "pageLabel": "P.06",
+        "number": "05",
+        "eyebrow": "CONTRARIAN TAKE",
+        "titleWord1": "UNPOPULAR",
+        "titleWord2": "OPINION",
+        "titleWord3": "",
+        "body": "Challenging a widely held belief creates cognitive dissonance. The brain stops to reconcile the clash, giving your hook precious dwell time.",
+        "handle": "@studiovolt"
+      }
+    },
+    {
+      "layoutId": "body-coral-mag",
+      "slots": {
+        "brand": "STUDIO VOLT",
+        "pageLabel": "P.07",
+        "number": "06",
+        "eyebrow": "EMPATHY TRIGGER",
+        "titleWord1": "PAIN",
+        "titleWord2": "POINT",
+        "titleWord3": "MIRROR",
+        "body": "When you articulate a struggle the reader feels but hasn't named, mirror neurons fire. Recognition builds trust in a single sentence.",
+        "handle": "@studiovolt"
+      }
+    },
+    {
+      "layoutId": "cta-coral-mag",
+      "slots": {
+        "brand": "STUDIO VOLT",
+        "pageOf": "08/08",
+        "tag": "YOUR MOVE",
+        "headWord1": "SAVE",
+        "headWord2": "THIS",
+        "body": "Reference these hooks before your next post. Which one will you test first?",
+        "buttonLabel": "Follow for more",
+        "handle": "@studiovolt"
+      }
+    }
+  ]
+}

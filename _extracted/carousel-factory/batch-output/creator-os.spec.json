@@ -9,108 +9,108 @@
       "slots": {
         "handle": "@creator",
         "badgeLabel": "CREATOR OS",
-        "tag": "THREAD",
+        "tag": "SYSTEM",
         "neonWord": "BUILD",
-        "headlineLine2": "the machine",
-        "tealLine": "that scales",
-        "subline": "The exact tools, flows and nightly habits behind a 6-figure newsletter. No fluff.",
+        "headlineLine2": "your newsletter",
+        "tealLine": "machine",
+        "subline": "The exact tools, flows and nightly habits behind my 6-figure newsletter.",
         "ctaLabel": "Read the thread",
-        "totalSlides": "7"
+        "totalSlides": "8"
       }
     },
     {
       "layoutId": "body-neon-dark",
       "slots": {
         "handle": "@creator",
-        "pageOf": "02 / 07",
+        "pageOf": "02 / 08",
         "number": "1",
         "titleLabel": "THE STACK",
-        "titleMain": "One tool",
-        "titleAccent": "rules all",
-        "body": "Notion runs my entire editorial calendar, content pipeline and sponsor tracker. One database, zero chaos.",
+        "titleMain": "Tools I Use",
+        "titleAccent": "daily",
+        "body": "Beehiiv for sends. Notion for drafts. Figma for visuals. Everything syncs through Make.com automations before I sleep.",
         "slideNum": "02",
-        "totalSlides": "7"
+        "totalSlides": "8"
       }
     },
     {
       "layoutId": "body-neon-dark",
       "slots": {
         "handle": "@creator",
-        "pageOf": "03 / 07",
+        "pageOf": "03 / 08",
         "number": "2",
         "titleLabel": "THE FLOW",
-        "titleMain": "Capture ideas",
-        "titleAccent": "in seconds",
-        "body": "Voice memos while walking. Auto-transcribed into Notion. By morning, raw thoughts become outlined drafts.",
+        "titleMain": "Idea to Inbox",
+        "titleAccent": "in 30 min",
+        "body": "Capture sparks in Apple Notes on the go. Batch outlines Sunday night. Write Monday morning. Schedule Tuesday. No chaos, just clockwork.",
         "slideNum": "03",
-        "totalSlides": "7"
+        "totalSlides": "8"
       }
     },
     {
       "layoutId": "body-neon-dark",
       "slots": {
         "handle": "@creator",
-        "pageOf": "04 / 07",
+        "pageOf": "04 / 08",
         "number": "3",
-        "titleLabel": "NIGHT SHIFT",
-        "titleMain": "Prep tomorrow",
-        "titleAccent": "tonight",
-        "body": "Every night I queue the next day's send, write the hook, and close the laptop. Mornings are for execution only.",
+        "titleLabel": "NIGHT HABIT",
+        "titleMain": "Shutdown Routine",
+        "titleAccent": "wins days",
+        "body": "Every night I clear Notion tasks, queue tomorrow's send, and close all tabs. A clean slate guarantees a fast start.",
         "slideNum": "04",
-        "totalSlides": "7"
+        "totalSlides": "8"
       }
     },
     {
       "layoutId": "body-neon-dark",
       "slots": {
         "handle": "@creator",
-        "pageOf": "05 / 07",
+        "pageOf": "05 / 08",
         "number": "4",
-        "titleLabel": "GROWTH LOOP",
-        "titleMain": "Readers multiply",
-        "titleAccent": "on autopilot",
-        "body": "A dedicated landing page, a lead magnet, and one CTA at the bottom of every issue. Simple, relentless, profitable.",
+        "titleLabel": "MISTAKE",
+        "titleMain": "Skipping Rest Days",
+        "titleAccent": "burns creators",
+        "body": "I used to publish daily until quality tanked. Now I batch five issues in one sitting and automate the rest.",
         "slideNum": "05",
-        "totalSlides": "7"
+        "totalSlides": "8"
       }
     },
     {
       "layoutId": "body-neon-dark",
       "slots": {
         "handle": "@creator",
-        "pageOf": "06 / 07",
+        "pageOf": "06 / 08",
         "number": "5",
-        "titleLabel": "WEEKLY AUDIT",
-        "titleMain": "Data tells",
-        "titleAccent": "the truth",
-        "body": "Open rate, click rate, reply rate. I review them every Sunday for fifteen minutes, then adjust the next week.",
+        "titleLabel": "GROWTH HACK",
+        "titleMain": "Referral Engine",
+        "titleAccent": "on autopilot",
+        "body": "Beehiiv's native rewards do the heavy lifting. One lead magnet brings fifty subs weekly while I focus on writing.",
         "slideNum": "06",
-        "totalSlides": "7"
+        "totalSlides": "8"
       }
     },
     {
       "layoutId": "body-neon-dark",
       "slots": {
         "handle": "@creator",
-        "pageOf": "07 / 07",
+        "pageOf": "07 / 08",
         "number": "6",
-        "titleLabel": "THE BUSINESS",
-        "titleMain": "Sponsors come",
-        "titleAccent": "to me",
-        "body": "A Notion CRM tracks inbound, rates, and deadlines. I never chase. The system qualifies brands while I sleep.",
+        "titleLabel": "THE PAYOFF",
+        "titleMain": "Six Figures",
+        "titleAccent": "from one email",
+        "body": "This system turned a side project into a full-time income. Simple tools, strict habits, and zero fluff built the whole thing.",
         "slideNum": "07",
-        "totalSlides": "7"
+        "totalSlides": "8"
       }
     },
     {
       "layoutId": "cta-neon-dark",
       "slots": {
         "handle": "@creator",
-        "pageOf": "08 / 07",
+        "pageOf": "08 / 08",
         "eyebrow": "YOUR MOVE",
-        "headlineNeon": "SAVE",
-        "headlineWhite": "this post",
-        "body": "Steal this system, adapt it, and start building your own newsletter empire tonight.",
+        "headlineNeon": "STEAL",
+        "headlineWhite": "this system",
+        "body": "Save this post and build your own creator OS tonight. Your future newsletter will thank you.",
         "buttonLabel": "Save this post",
         "secondaryLabel": "// follow @creator"
       }
