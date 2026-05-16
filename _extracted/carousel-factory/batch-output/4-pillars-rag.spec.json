@@ -1,115 +1,115 @@
 {
   "id": "4-pillars-rag",
-  "brand": "NeuralFlow",
+  "brand": "Neuraledge",
   "brief": "The 4 pillars of a RAG system that doesn't hallucinate. Chunking → retrieval → rerank → cite.",
   "theme": "black-mindmap",
   "slides": [
     {
       "layoutId": "cover-black-mindmap",
       "slots": {
-        "handle": "@neuralflow.ai",
+        "handle": "@neuraledge",
         "pageLabel": "01 / 08",
         "eyebrow": "SAVE THIS",
         "headlineLine1": "The 4 Pillars of",
-        "headlineLine2": "Zero-Hallucination RAG",
+        "headlineLine2": "RAG Systems",
         "swipeNote": "swipe to see all 4"
       }
     },
     {
       "layoutId": "body-black-mindmap",
       "slots": {
-        "handle": "@neuralflow.ai",
+        "handle": "@neuraledge",
         "pageLabel": "02 / 08",
         "number": "1",
-        "title": "Overview",
-        "pill1": "Hallucination-prone",
-        "pill2": "Context overload",
-        "pill3": "Source mismatch",
-        "pill4": "Lost connections",
-        "pill5": "No verification"
-      }
-    },
-    {
-      "layoutId": "body-black-mindmap",
-      "slots": {
-        "handle": "@neuralflow.ai",
-        "pageLabel": "03 / 08",
-        "number": "2",
         "title": "Chunking",
         "pill1": "Semantic boundaries",
-        "pill2": "Optimal size",
-        "pill3": "Overlap strategy",
-        "pill4": "Metadata tags",
-        "pill5": "Clean structure"
+        "pill2": "Overlap tokens",
+        "pill3": "Right sizing",
+        "pill4": "Clean text",
+        "pill5": "No orphans"
       }
     },
     {
       "layoutId": "body-black-mindmap",
       "slots": {
-        "handle": "@neuralflow.ai",
-        "pageLabel": "04 / 08",
-        "number": "3",
+        "handle": "@neuraledge",
+        "pageLabel": "03 / 08",
+        "number": "2",
         "title": "Retrieval",
         "pill1": "Hybrid search",
-        "pill2": "Query expansion",
-        "pill3": "Embedding quality",
-        "pill4": "Top-k tuning",
-        "pill5": "Filter rules"
+        "pill2": "Query rewrite",
+        "pill3": "Fusion scoring",
+        "pill4": "Filters",
+        "pill5": "Metadata"
       }
     },
     {
       "layoutId": "body-black-mindmap",
       "slots": {
-        "handle": "@neuralflow.ai",
+        "handle": "@neuraledge",
+        "pageLabel": "04 / 08",
+        "number": "3",
+        "title": "Rerank",
+        "pill1": "Reranker model",
+        "pill2": "Score threshold",
+        "pill3": "Diversity check",
+        "pill4": "MMR",
+        "pill5": "Deduplicate"
+      }
+    },
+    {
+      "layoutId": "body-black-mindmap",
+      "slots": {
+        "handle": "@neuraledge",
         "pageLabel": "05 / 08",
         "number": "4",
-        "title": "Rerank",
-        "pill1": "Cross-encoder",
-        "pill2": "Relevance score",
-        "pill3": "Diversity boost",
-        "pill4": "Threshold cut",
-        "pill5": "Speed balance"
+        "title": "Cite",
+        "pill1": "Source links",
+        "pill2": "Inline cites",
+        "pill3": "Ground answers",
+        "pill4": "Confidence",
+        "pill5": "No guess"
       }
     },
     {
       "layoutId": "body-black-mindmap",
       "slots": {
-        "handle": "@neuralflow.ai",
+        "handle": "@neuraledge",
         "pageLabel": "06 / 08",
         "number": "5",
-        "title": "Cite",
-        "pill1": "Source linking",
-        "pill2": "Attribution map",
-        "pill3": "Confidence score",
-        "pill4": "Trace paths",
-        "pill5": "Ground truth"
+        "title": "Evaluate",
+        "pill1": "Test queries",
+        "pill2": "Golden dataset",
+        "pill3": "Context recall",
+        "pill4": "MRR",
+        "pill5": "Latency"
       }
     },
     {
       "layoutId": "body-black-mindmap",
       "slots": {
-        "handle": "@neuralflow.ai",
+        "handle": "@neuraledge",
         "pageLabel": "07 / 08",
         "number": "6",
-        "title": "Stack",
-        "pill1": "Chunk + retrieve",
-        "pill2": "Rerank + cite",
-        "pill3": "Loop feedback",
-        "pill4": "Audit trail",
-        "pill5": "Human review"
+        "title": "Guard",
+        "pill1": "Output rules",
+        "pill2": "Hallucination filter",
+        "pill3": "Fallback mode",
+        "pill4": "Human loop",
+        "pill5": "Trace logs"
       }
     },
     {
       "layoutId": "cta-black-mindmap",
       "slots": {
-        "handle": "@neuralflow.ai",
+        "handle": "@neuraledge",
         "pageLabel": "08 / 08",
         "eyebrow": "YOUR MOVE",
         "headlineLine1": "Build RAG That",
-        "headlineLine2": "Never Hallucinates",
-        "body": "Apply these 4 pillars to cut AI errors by 90%. Your users will trust every answer.",
+        "headlineLine2": "Users Trust",
+        "body": "Stop bad answers. Use chunking, retrieval, rerank, and citations to ground every response.",
         "buttonLabel": "Save this post",
-        "closing": "Share with your team"
+        "closing": "Follow for more AI tips"
       }
     }
   ]

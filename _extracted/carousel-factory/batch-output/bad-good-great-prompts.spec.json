@@ -8,28 +8,28 @@
       "layoutId": "cover-grid-italic",
       "slots": {
         "topic": "Claude Prompts",
-        "preLine": "What truly separates",
+        "preLine": "What really separates",
         "word1": "BAD",
         "word2": "Good",
         "word3": "Great",
-        "authorInitials": "JP",
-        "authorName": "Jordan P.",
+        "authorInitials": "JD",
+        "authorName": "Jordan Doe",
         "authorRole": "AI Engineer",
-        "handle": "@jordanprompts"
+        "handle": "@jordandoe"
       }
     },
     {
       "layoutId": "body-grid-italic",
       "slots": {
         "number": "1",
-        "preLabel": "Tier No.",
-        "titleMain": "Clarify Your",
-        "titleAccent": "True Ask",
-        "titleUnderline": "Up Front",
-        "body": "Bad prompts force the model to guess your intent. Good prompts state the task clearly. Great prompts frame the strategic outcome before a single word is written.",
-        "note": "Write the last sentence first, then work backward.",
-        "authorInitials": "JP",
-        "authorName": "Jordan P.",
+        "preLabel": "Tip No.",
+        "titleMain": "Start with",
+        "titleAccent": "context",
+        "titleUnderline": "not commands",
+        "body": "Bad prompts demand blindly. Good ones ask clearly. Great prompts wrap the task in role, audience, and constraints first.",
+        "note": "Context reduces hallucination and aligns tone instantly.",
+        "authorInitials": "JD",
+        "authorName": "Jordan Doe",
         "pageOf": "2 / 8"
       }
     },
@@ -37,14 +37,14 @@
       "layoutId": "body-grid-italic",
       "slots": {
         "number": "2",
-        "preLabel": "Tier No.",
-        "titleMain": "Layer In",
-        "titleAccent": "Deep Context",
-        "titleUnderline": "That Matters",
-        "body": "Good prompts include basic background. Great prompts supply audience, constraints, prior failures, and success metrics in one breath.",
-        "note": "Treat context as a briefing, not an afterthought.",
-        "authorInitials": "JP",
-        "authorName": "Jordan P.",
+        "preLabel": "Tip No.",
+        "titleMain": "Break the",
+        "titleAccent": "thinking",
+        "titleUnderline": "into steps",
+        "body": "Bad prompts cram everything into one sentence. Good prompts list requirements. Great prompts sequence reasoning so the model checks itself.",
+        "note": "Step-by-step structures outperform flat instructions every time.",
+        "authorInitials": "JD",
+        "authorName": "Jordan Doe",
         "pageOf": "3 / 8"
       }
     },
@@ -52,14 +52,14 @@
       "layoutId": "body-grid-italic",
       "slots": {
         "number": "3",
-        "preLabel": "Tier No.",
-        "titleMain": "Design The",
-        "titleAccent": "Output Format",
-        "titleUnderline": "Explicitly",
-        "body": "Bad prompts accept a wall of text. Great prompts define headers, tone, length, and even the exact markdown structure needed.",
-        "note": "Paste a template into the prompt if you have one.",
-        "authorInitials": "JP",
-        "authorName": "Jordan P.",
+        "preLabel": "Tip No.",
+        "titleMain": "Show the",
+        "titleAccent": "format",
+        "titleUnderline": "you want",
+        "body": "Bad prompts leave output shape to chance. Good ones mention format. Great prompts provide a template or example to fill verbatim.",
+        "note": "Examples beat descriptions when precision matters.",
+        "authorInitials": "JD",
+        "authorName": "Jordan Doe",
         "pageOf": "4 / 8"
       }
     },
@@ -67,14 +67,14 @@
       "layoutId": "body-grid-italic",
       "slots": {
         "number": "4",
-        "preLabel": "Tier No.",
-        "titleMain": "Assign A",
-        "titleAccent": "Specific Voice",
-        "titleUnderline": "And Role",
-        "body": "Good prompts ask for an expert. Great prompts define the persona’s biases, communication style, and the reader they are speaking to.",
-        "note": "The more specific the persona, the sharper the output.",
-        "authorInitials": "JP",
-        "authorName": "Jordan P.",
+        "preLabel": "Tip No.",
+        "titleMain": "Set tight",
+        "titleAccent": "guardrails",
+        "titleUnderline": "and bounds",
+        "body": "Bad prompts ignore length and style. Good prompts add a constraint or two. Great prompts define what to avoid as clearly as what to include.",
+        "note": "Negative constraints cut fluff faster than positive ones.",
+        "authorInitials": "JD",
+        "authorName": "Jordan Doe",
         "pageOf": "5 / 8"
       }
     },
@@ -82,14 +82,14 @@
       "layoutId": "body-grid-italic",
       "slots": {
         "number": "5",
-        "preLabel": "Tier No.",
-        "titleMain": "Reveal The",
-        "titleAccent": "Inner Logic",
-        "titleUnderline": "Completely",
-        "body": "Bad prompts demand an answer immediately. Great prompts instruct the model to think aloud, check assumptions, and cite sources before concluding.",
-        "note": "Add 'Explain your reasoning before you answer' for instant gains.",
-        "authorInitials": "JP",
-        "authorName": "Jordan P.",
+        "preLabel": "Tip No.",
+        "titleMain": "Build in",
+        "titleAccent": "critique",
+        "titleUnderline": "and review",
+        "body": "Bad prompts accept the first draft. Good prompts ask for revision. Great prompts build in a critique loop where the model scores its own answer.",
+        "note": "Meta-cognition turns decent answers into exceptional ones.",
+        "authorInitials": "JD",
+        "authorName": "Jordan Doe",
         "pageOf": "6 / 8"
       }
     },
@@ -97,14 +97,14 @@
       "layoutId": "body-grid-italic",
       "slots": {
         "number": "6",
-        "preLabel": "Tier No.",
-        "titleMain": "Build In",
-        "titleAccent": "Self Review",
-        "titleUnderline": "And Iterate",
-        "body": "Good prompts are written once. Great prompts ask the model to score its own draft against your criteria and revise accordingly.",
-        "note": "Turn one prompt into a feedback loop, not a single shot.",
-        "authorInitials": "JP",
-        "authorName": "Jordan P.",
+        "preLabel": "Tip No.",
+        "titleMain": "Assign a",
+        "titleAccent": "role",
+        "titleUnderline": "not a task",
+        "body": "Bad prompts treat the model like a search engine. Good ones assign a job title. Great prompts flesh out expertise, bias, and voice.",
+        "note": "A vivid persona unlocks latent knowledge in the weights.",
+        "authorInitials": "JD",
+        "authorName": "Jordan Doe",
         "pageOf": "7 / 8"
       }
     },
@@ -113,12 +113,12 @@
       "slots": {
         "eyebrow": "Now the only question is",
         "headlineMain": "Which tier",
-        "headlineAccent": "will you write?",
-        "body": "Start with one tier jump today, and watch the output transform before your eyes.",
+        "headlineAccent": "will you choose",
+        "body": "Save this framework and test it on your next prompt. Great results come from great structure.",
         "buttonLabel": "Save this post",
-        "authorInitials": "JP",
-        "authorName": "Jordan P.",
-        "handle": "@jordanprompts"
+        "authorInitials": "JD",
+        "authorName": "Jordan Doe",
+        "handle": "@jordandoe"
       }
     }
   ]
