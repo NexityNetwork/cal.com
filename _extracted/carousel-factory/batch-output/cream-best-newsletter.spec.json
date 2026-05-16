@@ -1,0 +1,140 @@
+{
+  "id": "cream-best-newsletter",
+  "brand": "Alex Chen",
+  "brief": "The 6 best newsletter platforms for paid creators — pricing, features, real revenue.",
+  "theme": "cream-best",
+  "slides": [
+    {
+      "layoutId": "cover-cream-best",
+      "slots": {
+        "pageOf": "01 / 08",
+        "authorInitials": "AC",
+        "authorName": "Alex Chen",
+        "handle": "@alexchen",
+        "avatarBg1": "#D65F3E",
+        "avatarBg2": "#1A1A1A",
+        "headlineLine1": "BEST",
+        "headlineAccent": "PAID",
+        "headlineLine3": "NEWSLETTER PLATFORMS"
+      }
+    },
+    {
+      "layoutId": "body-cream-best",
+      "slots": {
+        "pageOf": "02 / 08",
+        "authorInitials": "AC",
+        "authorName": "Alex Chen",
+        "handle": "@alexchen",
+        "avatarBg1": "#D65F3E",
+        "avatarBg2": "#1A1A1A",
+        "number": "01",
+        "title": "Beehiiv is built for scale",
+        "body": "Zero platform fees on paid subscriptions. Built-in referral programs and ad networks help you grow fast without third-party plugins.",
+        "tileGlyph": "B",
+        "tileKey": "Best for",
+        "tileValue": "Scaling without platform fees"
+      }
+    },
+    {
+      "layoutId": "body-cream-best",
+      "slots": {
+        "pageOf": "03 / 08",
+        "authorInitials": "AC",
+        "authorName": "Alex Chen",
+        "handle": "@alexchen",
+        "avatarBg1": "#D65F3E",
+        "avatarBg2": "#1A1A1A",
+        "number": "02",
+        "title": "ConvertKit automates your business",
+        "body": "Powerful tagging and segmentation with native commerce. Sell digital products and newsletters from one creator-first dashboard.",
+        "tileGlyph": "C",
+        "tileKey": "Best for",
+        "tileValue": "Creator automation workflows"
+      }
+    },
+    {
+      "layoutId": "body-cream-best",
+      "slots": {
+        "pageOf": "04 / 08",
+        "authorInitials": "AC",
+        "authorName": "Alex Chen",
+        "handle": "@alexchen",
+        "avatarBg1": "#D65F3E",
+        "avatarBg2": "#1A1A1A",
+        "number": "03",
+        "title": "Ghost keeps full ownership",
+        "body": "Open-source platform with no middleman. You keep nearly all revenue and host on your own domain for total brand control.",
+        "tileGlyph": "G",
+        "tileKey": "Best for",
+        "tileValue": "Total audience ownership"
+      }
+    },
+    {
+      "layoutId": "body-cream-best",
+      "slots": {
+        "pageOf": "05 / 08",
+        "authorInitials": "AC",
+        "authorName": "Alex Chen",
+        "handle": "@alexchen",
+        "avatarBg1": "#D65F3E",
+        "avatarBg2": "#1A1A1A",
+        "number": "04",
+        "title": "Substack unlocks discovery",
+        "body": "The network effect is unmatched. Readers discover you through recommendations, and setup takes minutes with zero upfront cost.",
+        "tileGlyph": "S",
+        "tileKey": "Best for",
+        "tileValue": "Built-in reader growth"
+      }
+    },
+    {
+      "layoutId": "body-cream-best",
+      "slots": {
+        "pageOf": "06 / 08",
+        "authorInitials": "AC",
+        "authorName": "Alex Chen",
+        "handle": "@alexchen",
+        "avatarBg1": "#D65F3E",
+        "avatarBg2": "#1A1A1A",
+        "number": "05",
+        "title": "MailerLite is budget friendly",
+        "body": "Affordable plans that scale with your list. Easy drag-and-drop editor plus native website tools make launching paid content simple.",
+        "tileGlyph": "M",
+        "tileKey": "Best for",
+        "tileValue": "Low-cost paid newsletters"
+      }
+    },
+    {
+      "layoutId": "body-cream-best",
+      "slots": {
+        "pageOf": "07 / 08",
+        "authorInitials": "AC",
+        "authorName": "Alex Chen",
+        "handle": "@alexchen",
+        "avatarBg1": "#D65F3E",
+        "avatarBg2": "#1A1A1A",
+        "number": "06",
+        "title": "Buttondown feels effortless",
+        "body": "Minimalist design meets powerful markdown editing. Great deliverability and a calm interface let you focus on writing, not widgets.",
+        "tileGlyph": "Bu",
+        "tileKey": "Best for",
+        "tileValue": "Minimalist paid writing"
+      }
+    },
+    {
+      "layoutId": "cta-cream-best",
+      "slots": {
+        "pageOf": "08 / 08",
+        "authorInitials": "AC",
+        "authorName": "Alex Chen",
+        "handle": "@alexchen",
+        "avatarBg1": "#D65F3E",
+        "avatarBg2": "#1A1A1A",
+        "eyebrow": "PICK ONE",
+        "headlineLine1": "START YOUR",
+        "headlineAccent": "PAID",
+        "body": "Choose the platform that fits your workflow and turn your writing into real revenue this week.",
+        "buttonLabel": "START MY NEWSLETTER"
+      }
+    }
+  ]
+}
