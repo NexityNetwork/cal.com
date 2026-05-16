@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html, body {
+    width: 1080px; height: 1350px; overflow: hidden;
+    background: #050505;
+    font-family: "Inter", system-ui, sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+  .frame {
+    position: absolute; inset: 30px;
+    border-radius: 32px; border: 1px solid #1c1c1c;
+    overflow: hidden; background: #0a0a0a;
+  }
+  .page-badge {
+    position: absolute; top: 56px; left: 56px;
+    height: 44px; padding: 0 18px;
+    background: #2a0e04;
+    border-radius: 22px;
+    display: inline-flex; align-items: center;
+    color: #ff7a3d;
+    font-size: 18px; font-weight: 700;
+    letter-spacing: 0.06em; line-height: 1;
+  }
+  .cover-title {
+    position: absolute; top: 480px; left: 88px;
+    width: 880px;
+    color: #c7c7c7;
+    font-size: 64px; font-weight: 800;
+    line-height: 1.15; letter-spacing: -1.4px;
+  }
+  .cover-title .accent { color: #ff5e1a; }
+
+  .play-stack {
+    position: absolute; bottom: -40px; right: 80px;
+    width: 540px; height: 540px;
+  }
+  .play-tri { position: absolute; inset: 0; }
+  .echo-1 { transform: translateX(-50px);  opacity: 0.55; filter: blur(4px); }
+  .echo-2 { transform: translateX(-130px); opacity: 0.30; filter: blur(12px); }
+  .echo-3 { transform: translateX(-240px); opacity: 0.15; filter: blur(24px); }
+</style>
+</head>
+<body>
+  <div class="frame">
+    <div class="page-badge">{{pageNumber}}</div>
+
+    <div class="cover-title">
+      {{headlineLine1}}<br>
+      {{headlineLine2}}<span class="accent">{{accentSuffix}}</span>
+    </div>
+
+    <div class="play-stack">
+      <svg class="play-tri echo-3" viewBox="0 0 540 540" xmlns="http://www.w3.org/2000/svg">
+        <polygon points="0,40 540,300 0,540" fill="#ff5e1a"/>
+      </svg>
+      <svg class="play-tri echo-2" viewBox="0 0 540 540" xmlns="http://www.w3.org/2000/svg">
+        <polygon points="0,40 540,300 0,540" fill="#ff5e1a"/>
+      </svg>
+      <svg class="play-tri echo-1" viewBox="0 0 540 540" xmlns="http://www.w3.org/2000/svg">
+        <polygon points="0,40 540,300 0,540" fill="#ff5e1a"/>
+      </svg>
+      <svg class="play-tri" viewBox="0 0 540 540" xmlns="http://www.w3.org/2000/svg">
+        <polygon points="0,40 540,300 0,540" fill="#ff5e1a"/>
+      </svg>
+    </div>
+  </div>
+</body>
+</html>
