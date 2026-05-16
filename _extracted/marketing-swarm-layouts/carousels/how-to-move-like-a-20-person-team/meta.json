@@ -1,0 +1,28 @@
+{
+  "id": "exemplar-how-to-move-20-person",
+  "title": "How to move like a 20-person team",
+  "source": "nexitynetwork/assets-claude — folder 'how to grow like a 20-person team'",
+  "designOrigin": "Figma export, brand-owned",
+  "brand": "Ultron",
+  "vibe": "minimal",
+  "themeId": "ember-dark",
+  "canvas": "1080x1350",
+  "slideCount": 10,
+  "campaignType": "tool_stack",
+  "narrativeShape": "cover → 8 tool features (numbered, single-icon) → channels (multi-icon distribution)",
+  "designSignatures": [
+    "dark-ember theme (#0a0a0a + #ff5e1a accent, no other accents)",
+    "rounded inner-card outline 30px inset, 32px radius, #1f1f1f stroke",
+    "page badge top-left: small pill, dark ember bg, muted orange text",
+    "title: Inter 700 64px, 'N. Tool, the role' format, top-anchored ~260px",
+    "body: Inter 400 38px, neutral grey #a8a8a8, 1.35 line-height",
+    "icon: ~200px logo dead-center inside a 360px outlined circle, anchored ~y=920",
+    "multi-icon variant: 4 logos in 2 rows, same circle pattern, smaller (220px circles)"
+  ],
+  "qualityNotes": [
+    "Consistent inner-card frame on every slide creates 'mini-website' feel",
+    "Accent restraint: orange appears only on cover period + cover CTA + page badges (≤5% of slide area)",
+    "Page badge anchors composition top-left, body anchors top-left, icon anchors center — clear hierarchy",
+    "Same composition across 9/10 slides is a deliberate rhythm choice, not failure"
+  ]
+}
