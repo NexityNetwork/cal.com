@@ -1,0 +1,149 @@
+{
+  "id": "claude-replaces-bizdev",
+  "brand": "Claude Founder",
+  "brief": "Killing my $5K/mo agency retainer with a Claude Code BD agent. 3 tools, one prompt.",
+  "theme": "claude-target",
+  "slides": [
+    {
+      "layoutId": "cover-claude-target",
+      "slots": {
+        "topLine1": "I fired my",
+        "topLine2": "$5K Agency",
+        "topLine3": "with Claude Code",
+        "brickLine1": "CLAUDE",
+        "brickLine2": "AGENT",
+        "subLine": "Here's the complete",
+        "subAccent": "exact stack,",
+        "subTail": "tool by tool",
+        "note": "free prompt included"
+      }
+    },
+    {
+      "layoutId": "body-claude-target",
+      "slots": {
+        "titleMain": "Agency retainer",
+        "titleAccent": "bled budget",
+        "titleTail": "fast",
+        "step1Title": "Five grand monthly for stale lists",
+        "step1Sub": "I paid $5K for spreadsheets I never used.",
+        "step2Title": "Three day delays killed my sales velocity",
+        "step2Sub": "Waiting on freelancers killed all our momentum.",
+        "step3Title": "Output quality dropped every single quarter",
+        "step3Sub": "The ROI kept shrinking while excuses grew.",
+        "tool1": "APOLLO",
+        "tool2": "HUNTER",
+        "tool3": "MAKE",
+        "tool4": "CLAUDE",
+        "progressPct": 14
+      }
+    },
+    {
+      "layoutId": "body-claude-target",
+      "slots": {
+        "titleMain": "Claude Code",
+        "titleAccent": "BD agent",
+        "titleTail": "built in",
+        "step1Title": "One prompt runs the entire outbound stack",
+        "step1Sub": "Claude orchestrates all three tools automatically.",
+        "step2Title": "Apollo builds hyper targeted lead lists daily",
+        "step2Sub": "It pulls prospects that match our ICP exactly.",
+        "step3Title": "Hunter enriches emails then Make fires sequences",
+        "step3Sub": "No manual exports or CSV juggling required.",
+        "tool1": "APOLLO",
+        "tool2": "HUNTER",
+        "tool3": "MAKE",
+        "tool4": "CLAUDE",
+        "progressPct": 28
+      }
+    },
+    {
+      "layoutId": "body-claude-target",
+      "slots": {
+        "titleMain": "Apollo builds",
+        "titleAccent": "lead lists",
+        "titleTail": "in seconds",
+        "step1Title": "Query Apollo by title and company size",
+        "step1Sub": "It returns fifty fresh prospects in under a minute.",
+        "step2Title": "Filter by size and recent hiring signals",
+        "step2Sub": "We only target Series A startups with open roles.",
+        "step3Title": "Export clean JSON into the next tool",
+        "step3Sub": "No messy CSVs or manual copy paste needed.",
+        "tool1": "APOLLO",
+        "tool2": "HUNTER",
+        "tool3": "MAKE",
+        "tool4": "CLAUDE",
+        "progressPct": 42
+      }
+    },
+    {
+      "layoutId": "body-claude-target",
+      "slots": {
+        "titleMain": "Hunter finds",
+        "titleAccent": "verified emails",
+        "titleTail": "at scale",
+        "step1Title": "Feed Apollo URLs into Hunter via API",
+        "step1Sub": "Claude writes the Python script on the fly.",
+        "step2Title": "Match confidence scores to keep deliverability high",
+        "step2Sub": "We only keep emails rated eighty percent or higher.",
+        "step3Title": "Verify in bulk to protect domain health",
+        "step3Sub": "Bounce rates dropped to nearly zero overnight.",
+        "tool1": "APOLLO",
+        "tool2": "HUNTER",
+        "tool3": "MAKE",
+        "tool4": "CLAUDE",
+        "progressPct": 58
+      }
+    },
+    {
+      "layoutId": "body-claude-target",
+      "slots": {
+        "titleMain": "Make triggers",
+        "titleAccent": "outreach",
+        "titleTail": "hands free",
+        "step1Title": "Connect Hunter output to Make webhook instantly",
+        "step1Sub": "Claude generates the JSON payload correctly every time.",
+        "step2Title": "Map variables to personalized email templates",
+        "step2Sub": "Each message references real company pain points.",
+        "step3Title": "Schedule follow ups without touching the inbox",
+        "step3Sub": "The sequence runs while I sleep or close deals.",
+        "tool1": "APOLLO",
+        "tool2": "HUNTER",
+        "tool3": "MAKE",
+        "tool4": "CLAUDE",
+        "progressPct": 72
+      }
+    },
+    {
+      "layoutId": "body-claude-target",
+      "slots": {
+        "titleMain": "One prompt",
+        "titleAccent": "replaces",
+        "titleTail": "the agency",
+        "step1Title": "Paste the system prompt into Claude Code",
+        "step1Sub": "It remembers the entire workflow context forever.",
+        "step2Title": "Type natural commands like run today's list",
+        "step2Sub": "Claude handles Apollo Hunter and Make automatically.",
+        "step3Title": "Scale to thousands of leads for free",
+        "step3Sub": "I reinvested that five grand into paid ads instead.",
+        "tool1": "APOLLO",
+        "tool2": "HUNTER",
+        "tool3": "MAKE",
+        "tool4": "CLAUDE",
+        "progressPct": 86
+      }
+    },
+    {
+      "layoutId": "cta-claude-target",
+      "slots": {
+        "eyebrow": "READY TO BUILD",
+        "headlineMain": "Steal my exact",
+        "headlineAccent": "BD agent",
+        "body": "I turned one prompt and three tools into a $5K agency replacement. Comment below and I'll ship you the breakdown.",
+        "targetLine1": "FREE",
+        "targetLine2": "GUIDE",
+        "buttonLine": "Comment 'SHIP' for the guide",
+        "handle": "@handle"
+      }
+    }
+  ]
+}
