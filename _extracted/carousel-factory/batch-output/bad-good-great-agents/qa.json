@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/bad-good-great-agents/slide-01.png",
-      "bytes": 81018,
+      "bytes": 80790,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -19,7 +19,7 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/bad-good-great-agents/slide-02.png",
-      "bytes": 121754,
+      "bytes": 112835,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -35,7 +35,7 @@
     {
       "index": 2,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/bad-good-great-agents/slide-03.png",
-      "bytes": 122058,
+      "bytes": 115559,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -51,7 +51,7 @@
     {
       "index": 3,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/bad-good-great-agents/slide-04.png",
-      "bytes": 118480,
+      "bytes": 114989,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -67,7 +67,7 @@
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/bad-good-great-agents/slide-05.png",
-      "bytes": 127453,
+      "bytes": 112379,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -83,7 +83,7 @@
     {
       "index": 5,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/bad-good-great-agents/slide-06.png",
-      "bytes": 119283,
+      "bytes": 126763,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -99,7 +99,7 @@
     {
       "index": 6,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/bad-good-great-agents/slide-07.png",
-      "bytes": 136564,
+      "bytes": 113449,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -115,7 +115,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/bad-good-great-agents/slide-08.png",
-      "bytes": 108756,
+      "bytes": 112681,
       "qa": {
         "verdict": "pass",
         "checks": {
