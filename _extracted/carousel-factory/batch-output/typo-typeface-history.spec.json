@@ -1,142 +1,82 @@
 {
   "id": "typo-typeface-history",
-  "brand": "Type Weekly",
+  "brand": "Use Visuals",
   "brief": "6 typefaces with stories so good you'll use them on purpose for the rest of your life.",
   "theme": "typo-sample",
   "slides": [
     {
       "layoutId": "cover-typo-sample",
       "slots": {
-        "pageOf": "01 / 08",
-        "authorInitials": "JD",
-        "authorName": "Jane Doe",
-        "handle": "@janedoedesign",
-        "avatarBg1": "#d65f3e",
-        "avatarBg2": "#f7f2ea",
-        "specimen1": "Aa",
-        "specimen2": "Bb",
-        "titleLine1": "6 Typefaces With",
-        "titleItalic": "Stories Worth Telling",
-        "body": "Fonts carry history, rebellion, and purpose in every letterform. Here are six you will use on purpose forever."
-      }
-    },
-    {
-      "layoutId": "body-typo-sample",
-      "slots": {
-        "pageOf": "02 / 08",
-        "authorInitials": "JD",
-        "authorName": "Jane Doe",
-        "handle": "@janedoedesign",
-        "avatarBg1": "#d65f3e",
-        "avatarBg2": "#f7f2ea",
         "number": "01",
-        "numberLabel": "TYPEFACE 01",
-        "title": "The Original Old Style",
-        "titleItalic": "Master",
-        "body": "Claude Garamond cut punches in sixteenth-century Paris. His letterforms survived wars, revolutions, and digital obsolescence to remain the quiet king of readability.",
-        "quote": "Old style never dies; it simply waits for good designers."
+        "handle": "@usevisuals",
+        "fontFamily": "Fraunces",
+        "description": "A wonky, soft-serve-inspired variable serif from Undercase Type. Its playful axes and retro personality make it perfect for bold headlines with vintage charm."
       }
     },
     {
       "layoutId": "body-typo-sample",
       "slots": {
-        "pageOf": "03 / 08",
-        "authorInitials": "JD",
-        "authorName": "Jane Doe",
-        "handle": "@janedoedesign",
-        "avatarBg1": "#d65f3e",
-        "avatarBg2": "#f7f2ea",
         "number": "02",
-        "numberLabel": "TYPEFACE 02",
-        "title": "A Geometric Modernist",
-        "titleItalic": "Moon Landing",
-        "body": "Paul Renner drew Futura in 1927 as a manifesto for the machine age. In 1969, it left Earth on the Apollo 11 plaque, etching modernism into lunar dust.",
-        "quote": "Function can be as romantic as poetry."
+        "handle": "@usevisuals",
+        "fontFamily": "Playfair Display",
+        "description": "Claus Eggers Sørensen’s high-contrast transitional serif draws from Scotch Roman and Baskerville, bringing editorial elegance to digital screens."
       }
     },
     {
       "layoutId": "body-typo-sample",
       "slots": {
-        "pageOf": "04 / 08",
-        "authorInitials": "JD",
-        "authorName": "Jane Doe",
-        "handle": "@janedoedesign",
-        "avatarBg1": "#d65f3e",
-        "avatarBg2": "#f7f2ea",
         "number": "03",
-        "numberLabel": "TYPEFACE 03",
-        "title": "The Transitional Serif",
-        "titleItalic": "Truth Teller",
-        "body": "John Baskerville’s obsessive contrast and crisp serifs outraged eighteenth-century printers. Benjamin Franklin loved it so much he smuggled punches back to America.",
-        "quote": "Elegance is the ultimate provocation."
+        "handle": "@usevisuals",
+        "fontFamily": "Space Grotesk",
+        "description": "Florian Karsten evolved Space Mono into this proportional grotesk, channeling brutalist geometry and utilitarian clarity for modern interfaces."
       }
     },
     {
       "layoutId": "body-typo-sample",
       "slots": {
-        "pageOf": "05 / 08",
-        "authorInitials": "JD",
-        "authorName": "Jane Doe",
-        "handle": "@janedoedesign",
-        "avatarBg1": "#d65f3e",
-        "avatarBg2": "#f7f2ea",
         "number": "04",
-        "numberLabel": "TYPEFACE 04",
-        "title": "The Ubiquitous Swiss Classic",
-        "titleItalic": "Helvetica",
-        "body": "Born as Neue Haas Grotesk in 1957, Helvetica became the voice of corporations, subway systems, and protest posters. Neutral, yes. Invisible, never.",
-        "quote": "Clarity is a political act."
+        "handle": "@usevisuals",
+        "fontFamily": "Bricolage Grotesque",
+        "description": "Built from 19th-century wood type, this eclectic sans collages historical cuts into one quirky, confident voice for cultural brands."
       }
     },
     {
       "layoutId": "body-typo-sample",
       "slots": {
-        "pageOf": "06 / 08",
-        "authorInitials": "JD",
-        "authorName": "Jane Doe",
-        "handle": "@janedoedesign",
-        "avatarBg1": "#d65f3e",
-        "avatarBg2": "#f7f2ea",
         "number": "05",
-        "numberLabel": "TYPEFACE 05",
-        "title": "America’s First Serif Voice",
-        "titleItalic": "Caslon",
-        "body": "William Caslon’s sturdy serifs printed the Declaration of Independence. When doubt strikes, designers still whisper the old rule: When in doubt, use Caslon.",
-        "quote": "Democracy deserves good letterforms."
+        "handle": "@usevisuals",
+        "fontFamily": "Unbounded",
+        "description": "Commissioned for a European blockchain initiative, this futuristic display face merges tech aesthetics with open-source accessibility and geometric flair."
       }
     },
     {
       "layoutId": "body-typo-sample",
       "slots": {
-        "pageOf": "07 / 08",
-        "authorInitials": "JD",
-        "authorName": "Jane Doe",
-        "handle": "@janedoedesign",
-        "avatarBg1": "#d65f3e",
-        "avatarBg2": "#f7f2ea",
         "number": "06",
-        "numberLabel": "TYPEFACE 06",
-        "title": "The World’s Most Hated",
-        "titleItalic": "Misunderstood Hero",
-        "body": "Vincent Connare designed Comic Sans for a Microsoft Bob speech bubble in 1994. It was never meant for gravestones, yet it became an unlikely populist icon.",
-        "quote": "Every font has a place if the story fits."
+        "handle": "@usevisuals",
+        "fontFamily": "Instrument Serif",
+        "description": "Designed by Instrument, this refined editorial serif pairs razor-sharp precision with warm, contemporary grace for luxury layouts."
+      }
+    },
+    {
+      "layoutId": "body-typo-sample",
+      "slots": {
+        "number": "07",
+        "handle": "@usevisuals",
+        "fontFamily": "Manrope",
+        "description": "Michael Sharanda’s geometric sans bridges humanist warmth and neutral utility, becoming a go-to workhorse for product design worldwide."
       }
     },
     {
       "layoutId": "cta-typo-sample",
       "slots": {
-        "pageOf": "08 / 08",
-        "authorInitials": "JD",
-        "authorName": "Jane Doe",
-        "handle": "@janedoedesign",
-        "avatarBg1": "#d65f3e",
-        "avatarBg2": "#f7f2ea",
-        "eyebrow": "START TODAY",
-        "headlineLine1": "Choose Type",
-        "headlineItalic": "With Intention",
-        "body": "Stop letting algorithms choose your voice. Build a typographic toolkit that carries meaning, history, and intent.",
-        "buttonLabel": "Build Your Type Kit",
-        "secondaryLabel": "for your next project"
+        "number": "08",
+        "handle": "@usevisuals",
+        "headlineLine1": "Collect fonts",
+        "headlineLine2": "that tell stories",
+        "body": "These six typefaces prove that great design starts with character. Save this guide and reference it for your next project.",
+        "buttonLabel": "Save this guide",
+        "pageOf": "08 / 08"
       }
     }
   ]

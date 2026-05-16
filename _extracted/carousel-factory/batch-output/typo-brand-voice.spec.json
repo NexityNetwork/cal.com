@@ -1,142 +1,82 @@
 {
   "id": "typo-brand-voice",
-  "brand": "Type Kerns",
+  "brand": "UseVisuals",
   "brief": "Your typography is your brand voice — 6 examples of brands getting it right.",
   "theme": "typo-sample",
   "slides": [
     {
       "layoutId": "cover-typo-sample",
       "slots": {
-        "pageOf": "1 / 8",
-        "authorInitials": "TK",
-        "authorName": "Type Kerns",
-        "handle": "@typekerns",
-        "avatarBg1": "#f7f2ea",
-        "avatarBg2": "#d65f3e",
-        "specimen1": "Aa",
-        "specimen2": "Gg",
-        "titleLine1": "Your Type Is Your",
-        "titleItalic": "Brand Voice",
-        "body": "Six iconic brands prove that choosing the right typeface builds instant recognition and lasting trust."
-      }
-    },
-    {
-      "layoutId": "body-typo-sample",
-      "slots": {
-        "pageOf": "2 / 8",
-        "authorInitials": "TK",
-        "authorName": "Type Kerns",
-        "handle": "@typekerns",
-        "avatarBg1": "#f7f2ea",
-        "avatarBg2": "#d65f3e",
         "number": "01",
-        "numberLabel": "BRAND 01",
-        "title": "Clarity Meets",
-        "titleItalic": "Precision",
-        "body": "Apple’s San Francisco typeface is engineered for screens of every size. Its open apertures and tall x-height ensure effortless reading across devices.",
-        "quote": "Legibility is the ultimate luxury."
+        "handle": "@usevisuals",
+        "fontFamily": "Unbounded",
+        "description": "A fearless variable sans for brands that refuse to whisper. Loud, geometric, and instantly memorable."
       }
     },
     {
       "layoutId": "body-typo-sample",
       "slots": {
-        "pageOf": "3 / 8",
-        "authorInitials": "TK",
-        "authorName": "Type Kerns",
-        "handle": "@typekerns",
-        "avatarBg1": "#f7f2ea",
-        "avatarBg2": "#d65f3e",
         "number": "02",
-        "numberLabel": "BRAND 02",
-        "title": "Impact Through",
-        "titleItalic": "Boldness",
-        "body": "Nike wields heavy sans-serif weights and tight tracking to command attention instantly. The result feels athletic, urgent, and impossible to ignore.",
-        "quote": "Type should move as fast as the athlete."
+        "handle": "@usevisuals",
+        "fontFamily": "Playfair Display",
+        "description": "High-contrast serifs built for fashion houses and editorial mastheads. Timeless, authoritative, unapologetically elegant."
       }
     },
     {
       "layoutId": "body-typo-sample",
       "slots": {
-        "pageOf": "4 / 8",
-        "authorInitials": "TK",
-        "authorName": "Type Kerns",
-        "handle": "@typekerns",
-        "avatarBg1": "#f7f2ea",
-        "avatarBg2": "#d65f3e",
         "number": "03",
-        "numberLabel": "BRAND 03",
-        "title": "Heritage in Every",
-        "titleItalic": "Curve",
-        "body": "The iconic Spencerian script has remained virtually unchanged for over a century. That flowing, human handwriting signals authenticity and nostalgic joy.",
-        "quote": "Tradition is a typeface you never outgrow."
+        "handle": "@usevisuals",
+        "fontFamily": "Inter",
+        "description": "Pixel-perfect clarity crafted for screens. The go-to voice for SaaS startups that need trust at first glance."
       }
     },
     {
       "layoutId": "body-typo-sample",
       "slots": {
-        "pageOf": "5 / 8",
-        "authorInitials": "TK",
-        "authorName": "Type Kerns",
-        "handle": "@typekerns",
-        "avatarBg1": "#f7f2ea",
-        "avatarBg2": "#d65f3e",
         "number": "04",
-        "numberLabel": "BRAND 04",
-        "title": "Elegance Through",
-        "titleItalic": "Contrast",
-        "body": "Chanel pairs clean sans-serif wordmarks with high-contrast serifs in editorial layouts. Thin hairlines and generous spacing whisper luxury without shouting.",
-        "quote": "Silence speaks in refined serifs."
+        "handle": "@usevisuals",
+        "fontFamily": "Montserrat",
+        "description": "Geometric warmth with urban energy. A versatile workhorse that powers everything from coffee bags to billboards."
       }
     },
     {
       "layoutId": "body-typo-sample",
       "slots": {
-        "pageOf": "6 / 8",
-        "authorInitials": "TK",
-        "authorName": "Type Kerns",
-        "handle": "@typekerns",
-        "avatarBg1": "#f7f2ea",
-        "avatarBg2": "#d65f3e",
         "number": "05",
-        "numberLabel": "BRAND 05",
-        "title": "Friendly Digital",
-        "titleItalic": "Geometry",
-        "body": "Product Sans uses perfect circles and balanced proportions to feel approachable yet confident. The custom lettering removes serifs but keeps warmth.",
-        "quote": "Geometric clarity invites universal trust."
+        "handle": "@usevisuals",
+        "fontFamily": "Space Grotesk",
+        "description": "Quirky yet structured grotesque for studios and cultural brands. It feels human, digital, and unmistakably now."
       }
     },
     {
       "layoutId": "body-typo-sample",
       "slots": {
-        "pageOf": "7 / 8",
-        "authorInitials": "TK",
-        "authorName": "Type Kerns",
-        "handle": "@typekerns",
-        "avatarBg1": "#f7f2ea",
-        "avatarBg2": "#d65f3e",
         "number": "06",
-        "numberLabel": "BRAND 06",
-        "title": "Authority in Black",
-        "titleItalic": "Ink",
-        "body": "Cheltenham and custom variants carry the weight of journalistic history. Dense columns of sharp serifs promise rigor, depth, and unwavering credibility.",
-        "quote": "A headline set in trust."
+        "handle": "@usevisuals",
+        "fontFamily": "Cormorant Garamond",
+        "description": "Delicate serifs rooted in classic print. Ideal for wineries and ateliers selling slow craft over fast trends."
+      }
+    },
+    {
+      "layoutId": "body-typo-sample",
+      "slots": {
+        "number": "07",
+        "handle": "@usevisuals",
+        "fontFamily": "Bricolage Grotesque",
+        "description": "An eclectic grotesque with ink-trap attitude. Built for brands that collage culture and reject the generic."
       }
     },
     {
       "layoutId": "cta-typo-sample",
       "slots": {
-        "pageOf": "8 / 8",
-        "authorInitials": "TK",
-        "authorName": "Type Kerns",
-        "handle": "@typekerns",
-        "avatarBg1": "#f7f2ea",
-        "avatarBg2": "#d65f3e",
-        "eyebrow": "YOUR TURN",
-        "headlineLine1": "Craft Your Own",
-        "headlineItalic": "Type Story",
-        "body": "Audit your fonts today and align every letter with the voice you want the world to hear.",
-        "buttonLabel": "Get the Free Guide",
-        "secondaryLabel": "for your brand"
+        "number": "08",
+        "handle": "@usevisuals",
+        "headlineLine1": "Pick your voice",
+        "headlineLine2": "with intent",
+        "body": "Great brands don't guess. They choose type that converts culture into instant recognition.",
+        "buttonLabel": "Save this guide",
+        "pageOf": "8 / 8"
       }
     }
   ]
