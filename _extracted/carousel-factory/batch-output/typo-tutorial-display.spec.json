@@ -1,0 +1,143 @@
+{
+  "id": "typo-tutorial-display",
+  "brand": "Studio Marquez",
+  "brief": "The ultimate guide to display type — 6 rules that make headlines unforgettable.",
+  "theme": "typo-sample",
+  "slides": [
+    {
+      "layoutId": "cover-typo-sample",
+      "slots": {
+        "pageOf": "1 / 8",
+        "authorInitials": "JM",
+        "authorName": "Julia Marquez",
+        "handle": "@juliadesigns",
+        "avatarBg1": "#d65f3e",
+        "avatarBg2": "#f7f2ea",
+        "specimen1": "H",
+        "specimen2": "h",
+        "titleLine1": "The Ultimate Guide to",
+        "titleItalic": "Display Type",
+        "body": "Six rules to make your headlines bold, beautiful, and impossible to ignore."
+      }
+    },
+    {
+      "layoutId": "body-typo-sample",
+      "slots": {
+        "pageOf": "2 / 8",
+        "authorInitials": "JM",
+        "authorName": "Julia Marquez",
+        "handle": "@juliadesigns",
+        "avatarBg1": "#d65f3e",
+        "avatarBg2": "#f7f2ea",
+        "number": "01",
+        "numberLabel": "RULE 01",
+        "title": "Scale Until It Screams",
+        "titleItalic": "Size First",
+        "body": "Display type lives at the top of the visual hierarchy. If your headline isn't the biggest element on the page, the layout has already failed.",
+        "quote": "Bigger isn't rude; it's confident."
+      }
+    },
+    {
+      "layoutId": "body-typo-sample",
+      "slots": {
+        "pageOf": "3 / 8",
+        "authorInitials": "JM",
+        "authorName": "Julia Marquez",
+        "handle": "@juliadesigns",
+        "avatarBg1": "#d65f3e",
+        "avatarBg2": "#f7f2ea",
+        "number": "02",
+        "numberLabel": "RULE 02",
+        "title": "Pair With Purpose",
+        "titleItalic": "Contrast Wins",
+        "body": "Combine a bold sans serif with an elegant italic serif. The tension between the two creates energy and guides the reader's eye exactly where you want it.",
+        "quote": "Opposites attract the attention."
+      }
+    },
+    {
+      "layoutId": "body-typo-sample",
+      "slots": {
+        "pageOf": "4 / 8",
+        "authorInitials": "JM",
+        "authorName": "Julia Marquez",
+        "handle": "@juliadesigns",
+        "avatarBg1": "#d65f3e",
+        "avatarBg2": "#f7f2ea",
+        "number": "03",
+        "numberLabel": "RULE 03",
+        "title": "Let It Breathe",
+        "titleItalic": "Space Matters",
+        "body": "Generous margins and line height are not wasted pixels. White space is the frame that turns loud typography into sophisticated, digestible art.",
+        "quote": "Silence speaks as loud as type."
+      }
+    },
+    {
+      "layoutId": "body-typo-sample",
+      "slots": {
+        "pageOf": "5 / 8",
+        "authorInitials": "JM",
+        "authorName": "Julia Marquez",
+        "handle": "@juliadesigns",
+        "avatarBg1": "#d65f3e",
+        "avatarBg2": "#f7f2ea",
+        "number": "04",
+        "numberLabel": "RULE 04",
+        "title": "Limit Your Fonts",
+        "titleItalic": "Restraint Rules",
+        "body": "One type family with multiple weights is often enough. Adding a third font rarely adds charm; it usually adds confusion and dilutes your message.",
+        "quote": "Two fonts sing, three fonts shout."
+      }
+    },
+    {
+      "layoutId": "body-typo-sample",
+      "slots": {
+        "pageOf": "6 / 8",
+        "authorInitials": "JM",
+        "authorName": "Julia Marquez",
+        "handle": "@juliadesigns",
+        "avatarBg1": "#d65f3e",
+        "avatarBg2": "#f7f2ea",
+        "number": "05",
+        "numberLabel": "RULE 05",
+        "title": "Use Color as Voice",
+        "titleItalic": "Accent Sparingly",
+        "body": "A single burnt orange word against cream commands more attention than a rainbow paragraph. Use accent color like a spotlight, not a floodlight.",
+        "quote": "One accent beats a hundred hues."
+      }
+    },
+    {
+      "layoutId": "body-typo-sample",
+      "slots": {
+        "pageOf": "7 / 8",
+        "authorInitials": "JM",
+        "authorName": "Julia Marquez",
+        "handle": "@juliadesigns",
+        "avatarBg1": "#d65f3e",
+        "avatarBg2": "#f7f2ea",
+        "number": "06",
+        "numberLabel": "RULE 06",
+        "title": "Clarity Beats Clever",
+        "titleItalic": "Readability Reigns",
+        "body": "Decorative ligatures and extreme tracking mean nothing if the headline can't be read in a glance. Legibility is the non-negotiable foundation of display type.",
+        "quote": "If they pause, you've lost them."
+      }
+    },
+    {
+      "layoutId": "cta-typo-sample",
+      "slots": {
+        "pageOf": "8 / 8",
+        "authorInitials": "JM",
+        "authorName": "Julia Marquez",
+        "handle": "@juliadesigns",
+        "avatarBg1": "#d65f3e",
+        "avatarBg2": "#f7f2ea",
+        "eyebrow": "YOUR TURN",
+        "headlineLine1": "Make Your",
+        "headlineItalic": "Mark Now",
+        "body": "Apply these six rules to your next layout and watch ordinary text transform into typographic power.",
+        "buttonLabel": "Save This Guide",
+        "secondaryLabel": "for your next project"
+      }
+    }
+  ]
+}
