@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&family=Inter:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html, body {
+    width: 1080px; height: 1350px; overflow: hidden;
+    background: #f4ede2;
+    font-family: "Cormorant Garamond", serif;
+    color: #353d2a;
+    -webkit-font-smoothing: antialiased;
+  }
+  /* Top brand strip — name flanked by horizontal lines with dot terminators */
+  .brand-strip {
+    position: absolute; top: 70px; left: 0; right: 0;
+    display: flex; align-items: center; justify-content: center;
+    gap: 28px;
+  }
+  .brand-strip .line { flex: 0 0 240px; height: 1px; background: #a39c8b; position: relative; }
+  .brand-strip .line::after, .brand-strip .line::before {
+    content: ""; position: absolute; width: 5px; height: 5px; border-radius: 50%; background: #a39c8b; top: -2px;
+  }
+  .brand-strip .line.left::before { left: 0; }
+  .brand-strip .line.left::after  { display: none; }
+  .brand-strip .line.right::after { right: 0; }
+  .brand-strip .line.right::before { display: none; }
+  .brand-strip .name {
+    font-family: "Cormorant Garamond", serif;
+    font-size: 24px; font-weight: 500; color: #353d2a;
+    letter-spacing: 0.01em;
+  }
+
+  /* Background giant faded number */
+  .bg-number {
+    position: absolute; left: 50%; top: 320px;
+    transform: translateX(-50%);
+    font-family: "Cormorant Garamond", serif;
+    font-size: 720px; font-weight: 400;
+    color: #e8d5d4; opacity: 0.55;
+    line-height: 1;
+    user-select: none;
+    z-index: 0;
+  }
+  /* Background sparkles */
+  .sparkle { position: absolute; color: #d5b6c3; opacity: 0.7; font-size: 38px; line-height: 1; }
+  .sp1 { top: 280px; left: 120px; }
+  .sp2 { top: 480px; right: 100px; font-size: 26px; }
+  .sp3 { bottom: 240px; left: 90px; font-size: 30px; }
+
+  /* Headline centered */
+  .headline {
+    position: absolute; top: 540px; left: 80px; right: 80px;
+    text-align: center;
+    font-family: "Cormorant Garamond", serif;
+    font-size: 78px; font-weight: 600;
+    line-height: 1.05; letter-spacing: -0.005em;
+    color: #353d2a;
+    z-index: 2;
+  }
+
+  /* Bottom decorative dotted-line + hero placeholder */
+  .hero-frame {
+    position: absolute; bottom: 100px; left: 50%;
+    transform: translateX(-50%);
+    width: 640px; height: 360px;
+    border-radius: 320px / 180px;
+    background: radial-gradient(ellipse at center, #e8d5d4 0%, #d5b6c3 60%, #c6a3b1 100%);
+    opacity: 0.55;
+  }
+</style>
+</head>
+<body>
+  <div class="brand-strip">
+    <div class="line left"></div>
+    <div class="name">{{brand}}</div>
+    <div class="line right"></div>
+  </div>
+
+  <div class="bg-number">{{slideCountHero}}</div>
+  <div class="sparkle sp1">✦</div>
+  <div class="sparkle sp2">✦</div>
+  <div class="sparkle sp3">✦</div>
+
+  <div class="headline">{{headline}}</div>
+
+  <div class="hero-frame"></div>
+</body>
+</html>

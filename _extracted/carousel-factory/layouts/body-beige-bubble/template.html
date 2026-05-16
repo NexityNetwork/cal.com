@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&family=Inter:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html, body {
+    width: 1080px; height: 1350px; overflow: hidden;
+    background: #f4ede2;
+    font-family: "Cormorant Garamond", serif;
+    color: #353d2a;
+    -webkit-font-smoothing: antialiased;
+  }
+  /* Top bar: brand name left + swipe indicator right */
+  .top-bar {
+    position: absolute; top: 60px; left: 80px; right: 80px;
+    display: flex; align-items: center; justify-content: space-between;
+  }
+  .brand-name {
+    font-family: "Cormorant Garamond", serif;
+    font-size: 28px; font-weight: 500; color: #353d2a;
+  }
+  .swipe-hint {
+    font-family: "Cormorant Garamond", serif;
+    font-size: 28px; font-weight: 500; color: #353d2a;
+    display: inline-flex; align-items: center; gap: 8px;
+  }
+  .swipe-hint::after {
+    content: "☚"; font-size: 26px;
+  }
+
+  /* Center soft pink/lavender bubble — radial gradient */
+  .bubble {
+    position: absolute; top: 240px; left: 50%;
+    transform: translateX(-50%);
+    width: 880px; height: 880px;
+    border-radius: 50%;
+    background: radial-gradient(circle at center, #f6dde0 0%, #ecc7d2 40%, transparent 70%);
+    opacity: 0.85;
+  }
+
+  /* Huge faded number behind title */
+  .bg-number {
+    position: absolute; left: 50%; top: 420px;
+    transform: translateX(-50%);
+    font-family: "Cormorant Garamond", serif;
+    font-size: 280px; font-weight: 400;
+    color: #cbb6a8; opacity: 0.55;
+    line-height: 1;
+    z-index: 1;
+  }
+
+  /* Title — overlaps the number */
+  .title {
+    position: absolute; top: 490px; left: 0; right: 0;
+    text-align: center;
+    font-family: "Cormorant Garamond", serif;
+    font-size: 72px; font-weight: 600;
+    color: #353d2a;
+    z-index: 2;
+  }
+
+  /* Body paragraph */
+  .body {
+    position: absolute; top: 640px; left: 140px; right: 140px;
+    text-align: center;
+    font-family: "Cormorant Garamond", serif;
+    font-size: 36px; font-weight: 400;
+    line-height: 1.4;
+    color: #353d2a;
+    z-index: 2;
+  }
+
+  /* Bottom row: handle left, domain right */
+  .bottom-bar {
+    position: absolute; bottom: 60px; left: 80px; right: 80px;
+    display: flex; align-items: center; justify-content: space-between;
+    font-family: "Cormorant Garamond", serif;
+    font-size: 28px; color: #353d2a;
+  }
+
+  /* Sparkles & dotted-line decorations */
+  .sparkle { position: absolute; color: #d5b6c3; font-size: 36px; line-height: 1; }
+  .sp-tl { top: 280px; left: 60px; font-size: 30px; }
+  .sp-tr { top: 280px; right: 60px; }
+  .sp-bl { bottom: 200px; left: 100px; }
+  .sp-br { bottom: 200px; right: 100px; font-size: 30px; }
+
+  .dot-line { position: absolute; height: 1px; background: transparent;
+              border-top: 1px dotted #a39c8b; opacity: 0.7; }
+  .dl-bl { width: 90px; bottom: 220px; left: 60px; }
+  .dl-br { width: 120px; bottom: 220px; right: 60px; }
+</style>
+</head>
+<body>
+  <div class="top-bar">
+    <div class="brand-name">{{brand}}</div>
+    <div class="swipe-hint">swipe</div>
+  </div>
+
+  <div class="bubble"></div>
+  <div class="bg-number">{{number}}</div>
+  <div class="title">{{title}}</div>
+  <div class="body">{{body}}</div>
+
+  <div class="bottom-bar">
+    <div>{{handle}}</div>
+    <div>{{domain}}</div>
+  </div>
+
+  <div class="sparkle sp-tl">✦</div>
+  <div class="sparkle sp-tr">✦</div>
+  <div class="sparkle sp-bl">✦</div>
+  <div class="sparkle sp-br">✦</div>
+  <div class="dot-line dl-bl"></div>
+  <div class="dot-line dl-br"></div>
+</body>
+</html>

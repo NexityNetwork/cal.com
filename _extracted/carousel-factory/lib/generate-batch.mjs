@@ -1,8 +1,8 @@
 /**
  * Generate N carousels using Kimi K2.6 on Workers AI + the existing
- * compose → render → dom-qa pipeline. No more planning. Just output.
- *
- * Usage: node lib/generate-batch.mjs
+ * compose → render → dom-qa pipeline. Each brief is paired with a
+ * layout *family* (ember-dark or beige-paper); the planner sees only
+ * the layouts in that family.
  */
 import { compose } from "./compose.js";
 import { renderAndQa } from "./dom-qa.mjs";
@@ -26,67 +26,86 @@ const FACTORY = resolve(import.meta.dirname, "..");
 const LAYOUTS = resolve(FACTORY, "layouts");
 const OUT = resolve(FACTORY, "batch-output");
 
-// ─── Briefs ────────────────────────────────────────────────────────────────
-const BRIEFS = [
-  { id: "ai-marketing-team", text: "I built an AI marketing team that replaced a $300K hire. 7 agents, one orchestrator. Breakdown of each agent and what they do." },
-  { id: "claude-code-stack", text: "The Claude Code stack a one-person founder uses to ship like a 10-person team. Each tool, what it does, why it matters." },
-  { id: "ai-agents-replace-saas", text: "5 SaaS categories AI agents are killing in 2026 — and what to build instead. Concrete examples per category." },
-  { id: "growth-loop-2026", text: "The 6-step content growth loop that took us from 0 to 100K followers in 90 days. Each step explained with the actual tools." },
-  { id: "founder-mistakes", text: "8 mistakes I made as a first-time founder that cost me $250K. What I'd do differently — concrete, no generic advice." },
-];
+// ─── Layout families ───────────────────────────────────────────────────────
 
-// ─── Kimi planner ──────────────────────────────────────────────────────────
-const PROMPT_TEMPLATE = (brief) => `You are a carousel planner.
+const FAMILY_PROMPTS = {
+  "ember-dark": `Available layouts (dark ember theme):
 
-Available layouts:
+LAYOUT cover-display-cta — FIRST slide only.
+  pageNumber: "01"
+  headlineLine1: first half, max 5 words
+  headlineLine2: second half, max 4 words
+  accentSuffix: typically "." or "!" — orange after line 2
 
-LAYOUT cover-display-cta — use for the FIRST slide only.
-  Slots:
-    pageNumber: "01"
-    headlineLine1: first half of the headline, max 5 words
-    headlineLine2: second half, max 4 words
-    accentSuffix: typically "." or "!" — appears in orange after line 2
+LAYOUT body-icon-centered — body slides.
+  pageNumber: "02", "03", ... (2-digit)
+  title: "N. Subject, the role" works well. Max 7 words.
+  body: 1-3 sentences, max 35 words. Specific concrete language. No filler ("elevate", "leverage", "transform", "unleash").
+  iconSlug: simple-icons slug. Valid: notion, github, stripe, supabase, cloudflare, slack, discord, gmail, googlemeet, zoom, instagram, youtube, tiktok, x, openai, anthropic, vercel, nextdotjs, react, typescript, postgresql, redis, docker, figma, framer, linear, raycast, langchain, mongodb, airtable, zapier, calendly, loom, miro
+  iconColor: hex, optional, defaults to white.`,
+  "beige-paper": `Available layouts (cream/beige serif theme):
 
-LAYOUT body-icon-centered — use for ALL OTHER slides.
-  Slots:
-    pageNumber: "02", "03", ... (2-digit)
-    title: "N. Subject, the role" format works great. Max 7 words.
-    body: 1-3 sentences, max 35 words total. Use specific concrete language. No filler like "elevate" "leverage" "transform" "unleash".
-    iconSlug: a simple-icons slug. Valid: notion, github, stripe, supabase, cloudflare, slack, discord, gmail, googlemeet, zoom, linkedin, instagram, youtube, tiktok, x, openai, anthropic, replicate, vercel, nextdotjs, react, typescript, postgresql, redis, kubernetes, docker, figma, framer, linear, raycast, arc, perplexity, langchain, mongodb, supabase, airtable, zapier, calendly, loom, miro
-    iconColor: hex string, optional. Defaults to white. Use brand color when known (e.g. "#635BFF" for Stripe).
+LAYOUT cover-beige-serif — FIRST slide only.
+  brand: brand name (e.g. "Studio Atlas", "Salford & Co.", "Ultron")
+  headline: full headline, 6-12 words. Cormorant Garamond serif at 78px.
+  slideCountHero: the body-slide count as a single digit, e.g. "6"
+
+LAYOUT body-beige-bubble — body slides.
+  brand: same brand name as cover
+  number: "01", "02", ... (2-digit)
+  title: short tip name, 2-4 words, serif looks elegant
+  body: 2-4 sentence supporting paragraph, max 50 words. Editorial tone.
+  handle: "@<brand-handle>"
+  domain: "<brand-domain>.com"`,
+};
+
+const PROMPT_TEMPLATE = (brief, family) => `You are a carousel planner.
+
+${FAMILY_PROMPTS[family]}
 
 BRIEF: ${brief}
 
-Generate a carousel of 7 slides (1 cover + 6 body) covering the brief.
-
-CRITICAL: Output ONLY valid JSON, no markdown fences, no commentary, no thinking out loud.
+Generate a 7-slide carousel: 1 cover + 6 body slides. Output ONLY valid JSON,
+no markdown fences, no thinking out loud.
 
 Schema:
 {
   "id": "<short-kebab>",
-  "brand": "Ultron",
+  "brand": "<brand-name>",
   "brief": "<the brief>",
-  "theme": "ember-dark",
+  "theme": "${family}",
   "slides": [
-    {"layoutId":"cover-display-cta","slots":{...}},
-    {"layoutId":"body-icon-centered","slots":{...}},
+    {"layoutId":"${family === 'ember-dark' ? 'cover-display-cta' : 'cover-beige-serif'}","slots":{...}},
+    {"layoutId":"${family === 'ember-dark' ? 'body-icon-centered' : 'body-beige-bubble'}","slots":{...}},
     ...
   ]
 }`;
 
-async function plan(brief) {
+// ─── Briefs paired with layout families ────────────────────────────────────
+
+const BRIEFS = [
+  { id: "claude-code-stack",    family: "ember-dark",  text: "The Claude Code stack a one-person founder uses to ship like a 10-person team. Each tool, what it does, why it matters." },
+  { id: "ai-agents-replace-saas", family: "ember-dark", text: "5 SaaS categories AI agents are killing in 2026 — and what to build instead." },
+  { id: "founder-mistakes",     family: "ember-dark",  text: "8 mistakes I made as a first-time founder that cost me $250K." },
+  { id: "productivity-tips-beige",  family: "beige-paper", text: "6 simple productivity tips from a designer who built a 7-figure studio. Calm, editorial tone. No bullshit." },
+  { id: "morning-rituals-beige",    family: "beige-paper", text: "5 morning rituals that changed how I run my business. Quiet, mindful, specific." },
+  { id: "writing-tips-beige",       family: "beige-paper", text: "6 writing tips for founders who hate writing. Editorial voice, gentle but pointed." },
+];
+
+// ─── Kimi planner ──────────────────────────────────────────────────────────
+
+async function plan(brief, family) {
   const res = await fetch(KIMI_URL, {
     method: "POST",
     headers: AUTH,
     body: JSON.stringify({
-      messages: [{ role: "user", content: PROMPT_TEMPLATE(brief) }],
-      max_tokens: 8000, // reasoning model — needs room for thinking + output
+      messages: [{ role: "user", content: PROMPT_TEMPLATE(brief, family) }],
+      max_tokens: 8000,
       temperature: 0.6,
     }),
   });
   const data = await res.json();
   if (!data.success) throw new Error(`Kimi err: ${JSON.stringify(data.errors).slice(0, 300)}`);
-  // Kimi K2.6 returns OpenAI-style choices[].message.content
   let content =
     data.result?.choices?.[0]?.message?.content ??
     data.result?.response ??
@@ -95,31 +114,29 @@ async function plan(brief) {
     const finish = data.result?.choices?.[0]?.finish_reason;
     throw new Error(`Empty Kimi response (finish=${finish})`);
   }
-  // Strip markdown fences if Kimi included them despite instructions
   content = content.replace(/^```json\s*/i, "").replace(/^```\s*/i, "").replace(/```\s*$/i, "").trim();
   return JSON.parse(content);
 }
 
 // ─── Run ───────────────────────────────────────────────────────────────────
+
 await mkdir(OUT, { recursive: true });
 
-for (const { id, text } of BRIEFS) {
-  console.log(`\n→ ${id}`);
+for (const { id, family, text } of BRIEFS) {
+  console.log(`\n→ ${id}  [${family}]`);
   try {
     console.log("  planning...");
-    const spec = await plan(text);
+    const spec = await plan(text, family);
     spec.id = id;
     await writeFile(resolve(OUT, `${id}.spec.json`), JSON.stringify(spec, null, 2));
 
-    console.log("  composing...");
+    console.log("  composing + rendering...");
     const htmls = await compose(spec, { layoutsDir: LAYOUTS });
-
-    console.log("  rendering...");
     const dir = resolve(OUT, id);
     const result = await renderAndQa(htmls, dir, { concurrency: 3 });
 
     const pass = result.slides.filter((s) => s.qa.verdict === "pass").length;
-    console.log(`  ✓ ${pass}/${result.slides.length} slides pass DOM-QA  ·  carousel ${result.carouselQa.verdict}`);
+    console.log(`  ✓ ${pass}/${result.slides.length} slides pass  ·  carousel ${result.carouselQa.verdict}`);
   } catch (err) {
     console.error(`  ✗ ${err.message}`);
   }
