@@ -1,0 +1,76 @@
+{
+  "id": "growth-loop-2026",
+  "brand": "Ultron",
+  "brief": "The 6-step content growth loop that took us from 0 to 100K followers in 90 days. Each step explained with the actual tools.",
+  "theme": "ember-dark",
+  "slides": [
+    {
+      "layoutId": "cover-display-cta",
+      "slots": {
+        "pageNumber": "01",
+        "headlineLine1": "0 to 100K",
+        "headlineLine2": "in 90 Days",
+        "accentSuffix": "."
+      }
+    },
+    {
+      "layoutId": "body-icon-centered",
+      "slots": {
+        "pageNumber": "02",
+        "title": "1. Research, the trend hunter",
+        "body": "We start every post by asking Perplexity to surface the top-performing hooks in our niche from the last 48 hours. No guessing.",
+        "iconSlug": "perplexity"
+      }
+    },
+    {
+      "layoutId": "body-icon-centered",
+      "slots": {
+        "pageNumber": "03",
+        "title": "2. Script, the blueprint",
+        "body": "We write every caption and CTA inside a Notion database that links the hook to the offer. One source of truth.",
+        "iconSlug": "notion",
+        "iconColor": "#000000"
+      }
+    },
+    {
+      "layoutId": "body-icon-centered",
+      "slots": {
+        "pageNumber": "04",
+        "title": "3. Design, the scroll stopper",
+        "body": "Figma templates let us batch 30 thumbnails in one session. Every element is pinned to a 3x3 grid so the hook never gets cropped.",
+        "iconSlug": "figma",
+        "iconColor": "#F24E1E"
+      }
+    },
+    {
+      "layoutId": "body-icon-centered",
+      "slots": {
+        "pageNumber": "05",
+        "title": "4. Schedule, the content calendar",
+        "body": "Airtable holds the publish dates, platforms, and asset links. We filter by status so the pipeline stays visible to the whole team.",
+        "iconSlug": "airtable",
+        "iconColor": "#18BFFF"
+      }
+    },
+    {
+      "layoutId": "body-icon-centered",
+      "slots": {
+        "pageNumber": "06",
+        "title": "5. Distribute, the automation wiring",
+        "body": "Zapier pushes new posts from Airtable to LinkedIn, X, and Instagram the moment the status changes to Live. Zero manual uploads.",
+        "iconSlug": "zapier",
+        "iconColor": "#FF4A00"
+      }
+    },
+    {
+      "layoutId": "body-icon-centered",
+      "slots": {
+        "pageNumber": "07",
+        "title": "6. Engage, the feedback loop",
+        "body": "We drop every new post into a private Discord channel where the team leaves comments within the first 10 minutes. Algorithmic velocity starts here.",
+        "iconSlug": "discord",
+        "iconColor": "#5865F2"
+      }
+    }
+  ]
+}

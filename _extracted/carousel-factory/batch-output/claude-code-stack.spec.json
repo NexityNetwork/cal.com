@@ -1,0 +1,77 @@
+{
+  "id": "claude-code-stack",
+  "brand": "Ultron",
+  "brief": "The Claude Code stack a one-person founder uses to ship like a 10-person team. Each tool, what it does, why it matters.",
+  "theme": "ember-dark",
+  "slides": [
+    {
+      "layoutId": "cover-display-cta",
+      "slots": {
+        "pageNumber": "01",
+        "headlineLine1": "Ship Like a",
+        "headlineLine2": "Ten Person Team",
+        "accentSuffix": "."
+      }
+    },
+    {
+      "layoutId": "body-icon-centered",
+      "slots": {
+        "pageNumber": "02",
+        "title": "1. GitHub, the repository",
+        "body": "Hosts code and runs CI/CD pipelines. Claude Code reads your entire repo context to write, test, and push features without breaking production.",
+        "iconSlug": "github",
+        "iconColor": "#FFFFFF"
+      }
+    },
+    {
+      "layoutId": "body-icon-centered",
+      "slots": {
+        "pageNumber": "03",
+        "title": "2. Next.js, the framework",
+        "body": "Full-stack React with built-in routing and API routes. Claude Code generates pages, handlers, and middleware using your existing file patterns.",
+        "iconSlug": "nextdotjs",
+        "iconColor": "#FFFFFF"
+      }
+    },
+    {
+      "layoutId": "body-icon-centered",
+      "slots": {
+        "pageNumber": "04",
+        "title": "3. Supabase, the backend",
+        "body": "Postgres database, auth, and storage in one platform. Claude Code writes SQL migrations and row-level security policies from your schema.",
+        "iconSlug": "supabase",
+        "iconColor": "#3ECF8E"
+      }
+    },
+    {
+      "layoutId": "body-icon-centered",
+      "slots": {
+        "pageNumber": "05",
+        "title": "4. Stripe, the billing",
+        "body": "Processes subscriptions and one-off charges securely. Claude Code builds checkout sessions and webhook endpoints using your live API keys.",
+        "iconSlug": "stripe",
+        "iconColor": "#635BFF"
+      }
+    },
+    {
+      "layoutId": "body-icon-centered",
+      "slots": {
+        "pageNumber": "06",
+        "title": "5. Linear, the tracker",
+        "body": "Tracks bugs, features, and sprints with speed. Claude Code turns Linear issues into pull requests and updates ticket status on merge.",
+        "iconSlug": "linear",
+        "iconColor": "#5E6AD2"
+      }
+    },
+    {
+      "layoutId": "body-icon-centered",
+      "slots": {
+        "pageNumber": "07",
+        "title": "6. Figma, the canvas",
+        "body": "Designs interfaces and prototypes before coding starts. Claude Code inspects exported frames to generate matching Tailwind markup and component props.",
+        "iconSlug": "figma",
+        "iconColor": "#F24E1E"
+      }
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "ai-agents-replace-saas",
+  "brand": "Ultron",
+  "brief": "5 SaaS categories AI agents are killing in 2026 — and what to build instead. Concrete examples per category.",
+  "theme": "ember-dark",
+  "slides": [
+    {
+      "layoutId": "cover-display-cta",
+      "slots": {
+        "pageNumber": "01",
+        "headlineLine1": "5 SaaS categories",
+        "headlineLine2": "AI kills in 2026",
+        "accentSuffix": "!"
+      }
+    },
+    {
+      "layoutId": "body-icon-centered",
+      "slots": {
+        "pageNumber": "02",
+        "title": "1. Calendly, the obsolete",
+        "body": "Scheduling links are dead. Build AI agents that negotiate time, prep briefs, and reschedule via email without human triage.",
+        "iconSlug": "calendly"
+      }
+    },
+    {
+      "layoutId": "body-icon-centered",
+      "slots": {
+        "pageNumber": "03",
+        "title": "2. Zapier, the replaced",
+        "body": "If-this-then-that logic breaks on edge cases. Build agentic workflow engines that reason through exceptions and rewrite their own steps.",
+        "iconSlug": "zapier",
+        "iconColor": "#FF4A00"
+      }
+    },
+    {
+      "layoutId": "body-icon-centered",
+      "slots": {
+        "pageNumber": "04",
+        "title": "3. Loom, the outdated",
+        "body": "Recording one video for many viewers wastes time. Build AI agents that generate personalized demos, updates, and follow-ups from a single prompt.",
+        "iconSlug": "loom"
+      }
+    },
+    {
+      "layoutId": "body-icon-centered",
+      "slots": {
+        "pageNumber": "05",
+        "title": "4. Notion, the static",
+        "body": "Static docs rot instantly. Build autonomous knowledge agents that verify facts, rewrite stale pages, and surface answers before you ask.",
+        "iconSlug": "notion",
+        "iconColor": "#000000"
+      }
+    },
+    {
+      "layoutId": "body-icon-centered",
+      "slots": {
+        "pageNumber": "06",
+        "title": "5. Linear, the manual",
+        "body": "Ticket boards require humans to update status. Build delivery agents that assign work, detect blockers, and auto-resolve dependencies from commits.",
+        "iconSlug": "linear",
+        "iconColor": "#5E6AD2"
+      }
+    },
+    {
+      "layoutId": "body-icon-centered",
+      "slots": {
+        "pageNumber": "07",
+        "title": "6. Infrastructure, the opportunity",
+        "body": "Stop building wrappers. Build memory layers, evaluation frameworks, and routing protocols that let agents persist state, handle errors, and coordinate.",
+        "iconSlug": "cloudflare",
+        "iconColor": "#F48120"
+      }
+    }
+  ]
+}

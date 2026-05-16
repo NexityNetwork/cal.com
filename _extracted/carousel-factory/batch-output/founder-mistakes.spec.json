@@ -1,0 +1,76 @@
+{
+  "id": "founder-mistakes",
+  "brand": "Ultron",
+  "brief": "8 mistakes I made as a first-time founder that cost me $250K. What I'd do differently — concrete, no generic advice.",
+  "theme": "ember-dark",
+  "slides": [
+    {
+      "layoutId": "cover-display-cta",
+      "slots": {
+        "pageNumber": "01",
+        "headlineLine1": "8 Founder Mistakes",
+        "headlineLine2": "That Cost Me $250K",
+        "accentSuffix": "!"
+      }
+    },
+    {
+      "layoutId": "body-icon-centered",
+      "slots": {
+        "pageNumber": "02",
+        "title": "1. Salaries, the silent killer",
+        "body": "I spent $94K on salaries for a product nobody wanted yet. Start with contractors and validate revenue first.",
+        "iconSlug": "linkedin",
+        "iconColor": "#0A66C2"
+      }
+    },
+    {
+      "layoutId": "body-icon-centered",
+      "slots": {
+        "pageNumber": "03",
+        "title": "2. Product, the validation gap",
+        "body": "We spent $40K in dev time on features users never requested. Sell the promise first; build only after pre-orders.",
+        "iconSlug": "react",
+        "iconColor": "#61DAFB"
+      }
+    },
+    {
+      "layoutId": "body-icon-centered",
+      "slots": {
+        "pageNumber": "04",
+        "title": "3. Vesting, the legal bomb",
+        "body": "A co-founder left month four with 40% equity locked up. We paid $30K in legal fees to unwind a handshake deal.",
+        "iconSlug": "stripe",
+        "iconColor": "#635BFF"
+      }
+    },
+    {
+      "layoutId": "body-icon-centered",
+      "slots": {
+        "pageNumber": "05",
+        "title": "4. Ads, the unit economics lie",
+        "body": "I poured $58K into Facebook campaigns with a $3 LTV. We never modeled payback period and bled cash instantly.",
+        "iconSlug": "instagram",
+        "iconColor": "#E4405F"
+      }
+    },
+    {
+      "layoutId": "body-icon-centered",
+      "slots": {
+        "pageNumber": "06",
+        "title": "5. Stack, the engineering vanity",
+        "body": "We ran Kubernetes and microservices for a hundred-user app. That infrastructure cost $16K in unused tooling and slowed every deployment.",
+        "iconSlug": "kubernetes",
+        "iconColor": "#326CE5"
+      }
+    },
+    {
+      "layoutId": "body-icon-centered",
+      "slots": {
+        "pageNumber": "07",
+        "title": "6. Terms, the control trap",
+        "body": "I accepted a 3x liquidation preference for a small check. It cost $20K in legal review and blocked future raises.",
+        "iconSlug": "notion"
+      }
+    }
+  ]
+}
