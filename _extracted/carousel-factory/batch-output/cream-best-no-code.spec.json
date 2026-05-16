@@ -1,139 +1,118 @@
 {
   "id": "cream-best-no-code",
-  "brand": "Morgan K.",
+  "brand": "Nora Build",
   "brief": "The 6 best no-code tools running 7-figure businesses — concrete examples.",
   "theme": "cream-best",
   "slides": [
     {
       "layoutId": "cover-cream-best",
       "slots": {
-        "pageOf": "01 / 08",
-        "authorInitials": "MK",
-        "authorName": "Morgan K.",
-        "handle": "@morganbuilds",
-        "avatarBg1": "#1a202c",
-        "avatarBg2": "#d65f3e",
-        "headlineLine1": "BEST",
-        "headlineAccent": "NO-CODE",
-        "headlineLine3": "FOR 7 FIGURES"
+        "titleLine1": "6 tools that",
+        "titleLine2": "run 7-figure",
+        "topic": "BRANDS",
+        "authorInitials": "NB",
+        "authorName": "Nora Build",
+        "handle": "@norabuild",
+        "avatarBg1": "#1acd8a",
+        "avatarBg2": "#0ea5e9",
+        "pageOf": "01 - 08"
       }
     },
     {
       "layoutId": "body-cream-best",
       "slots": {
-        "pageOf": "01 / 06",
-        "authorInitials": "MK",
-        "authorName": "Morgan K.",
-        "handle": "@morganbuilds",
-        "avatarBg1": "#1a202c",
-        "avatarBg2": "#d65f3e",
         "number": "01",
-        "title": "Webflow for scalable sites",
-        "body": "Flowbase turned Webflow templates into a 7-figure marketplace without writing code. It powers high-converting marketing sites for agencies and SaaS.",
+        "titleLine1": "Webflow scales",
+        "titleLine2": "client agencies",
+        "body": "Design studios build premium sites without engineers and charge $10k+ per project, scaling to seven figures.",
+        "tileLabel": "PRO TIP",
+        "tileKey": "Productize your agency",
+        "tileValue": "Package templates and retainers to escape hourly billing.",
         "tileGlyph": "W",
-        "tileKey": "Best for",
-        "tileValue": "Visual development"
+        "pageOf": "02 - 08"
       }
     },
     {
       "layoutId": "body-cream-best",
       "slots": {
-        "pageOf": "02 / 06",
-        "authorInitials": "MK",
-        "authorName": "Morgan K.",
-        "handle": "@morganbuilds",
-        "avatarBg1": "#1a202c",
-        "avatarBg2": "#d65f3e",
         "number": "02",
-        "title": "Notion for info products",
-        "body": "Easlo built a 7-figure business selling Notion templates and dashboards to creators. It replaces docs, wikis, and project tools in one workspace.",
-        "tileGlyph": "N",
-        "tileKey": "Best for",
-        "tileValue": "Creator templates"
-      }
-    },
-    {
-      "layoutId": "body-cream-best",
-      "slots": {
-        "pageOf": "03 / 06",
-        "authorInitials": "MK",
-        "authorName": "Morgan K.",
-        "handle": "@morganbuilds",
-        "avatarBg1": "#1a202c",
-        "avatarBg2": "#d65f3e",
-        "number": "03",
-        "title": "Bubble for real apps",
-        "body": "Plato scaled a mentorship marketplace to millions in revenue using Bubble’s no-code backend. Complex logic, user accounts, and payments are handled visually.",
-        "tileGlyph": "B",
-        "tileKey": "Best for",
-        "tileValue": "Full-stack apps"
-      }
-    },
-    {
-      "layoutId": "body-cream-best",
-      "slots": {
-        "pageOf": "04 / 06",
-        "authorInitials": "MK",
-        "authorName": "Morgan K.",
-        "handle": "@morganbuilds",
-        "avatarBg1": "#1a202c",
-        "avatarBg2": "#d65f3e",
-        "number": "04",
-        "title": "Shopify for DTC brands",
-        "body": "Pura Vida Bracelets grew from a small idea to a 7-figure ecommerce brand on Shopify. Inventory, checkout, and marketing run out of the box.",
+        "titleLine1": "Shopify powers",
+        "titleLine2": "DTC empires",
+        "body": "Solo founders launch physical brands with zero inventory code and scale past $1M using apps and themes.",
+        "tileLabel": "REMEMBER",
+        "tileKey": "Start with pre-built themes",
+        "tileValue": "Customize later; speed to market beats perfection.",
         "tileGlyph": "S",
-        "tileKey": "Best for",
-        "tileValue": "Ecommerce stores"
+        "pageOf": "03 - 08"
       }
     },
     {
       "layoutId": "body-cream-best",
       "slots": {
-        "pageOf": "05 / 06",
-        "authorInitials": "MK",
-        "authorName": "Morgan K.",
-        "handle": "@morganbuilds",
-        "avatarBg1": "#1a202c",
-        "avatarBg2": "#d65f3e",
+        "number": "03",
+        "titleLine1": "Airtable runs",
+        "titleLine2": "creative ops",
+        "body": "Production studios track campaigns, assets, and freelancers in one base, replacing expensive ERP systems.",
+        "tileLabel": "CASE STUDY",
+        "tileKey": "Mirror a production studio",
+        "tileValue": "Link scripts, shoots, and invoices for full visibility.",
+        "tileGlyph": "A",
+        "pageOf": "04 - 08"
+      }
+    },
+    {
+      "layoutId": "body-cream-best",
+      "slots": {
+        "number": "04",
+        "titleLine1": "Zapier automates",
+        "titleLine2": "service businesses",
+        "body": "Consultants connect lead forms, CRMs, and invoices to run 24/7 without hiring operations staff.",
+        "tileLabel": "PRO TIP",
+        "tileKey": "Automate before you hire",
+        "tileValue": "Save 20+ hours weekly on repetitive data entry.",
+        "tileGlyph": "Z",
+        "pageOf": "05 - 08"
+      }
+    },
+    {
+      "layoutId": "body-cream-best",
+      "slots": {
         "number": "05",
-        "title": "Kajabi for course empires",
-        "body": "Amy Porterfield runs an 8-figure digital course business entirely on Kajabi. It hosts content, email, and payments in one seamless platform.",
-        "tileGlyph": "K",
-        "tileKey": "Best for",
-        "tileValue": "Online courses"
+        "titleLine1": "Bubble builds",
+        "titleLine2": "SaaS startups",
+        "body": "Non-technical founders launch MVPs that process payments and users, raising funding without a dev team.",
+        "tileLabel": "REMEMBER",
+        "tileKey": "Validate before you code",
+        "tileValue": "Test pricing and features with real customers first.",
+        "tileGlyph": "B",
+        "pageOf": "06 - 08"
       }
     },
     {
       "layoutId": "body-cream-best",
       "slots": {
-        "pageOf": "06 / 06",
-        "authorInitials": "MK",
-        "authorName": "Morgan K.",
-        "handle": "@morganbuilds",
-        "avatarBg1": "#1a202c",
-        "avatarBg2": "#d65f3e",
         "number": "06",
-        "title": "Gumroad for digital goods",
-        "body": "Adam Wathan and Steve Schoger sold over $7 million in design assets on Gumroad. It is the fastest way to monetize ebooks, code, and art.",
-        "tileGlyph": "G",
-        "tileKey": "Best for",
-        "tileValue": "Digital downloads"
+        "titleLine1": "Notion sells",
+        "titleLine2": "info products",
+        "body": "Creators package templates and courses into digital storefronts, earning millions from a single workspace.",
+        "tileLabel": "PRO TIP",
+        "tileKey": "Build once, sell twice",
+        "tileValue": "Template libraries generate passive revenue monthly.",
+        "tileGlyph": "N",
+        "pageOf": "07 - 08"
       }
     },
     {
       "layoutId": "cta-cream-best",
       "slots": {
-        "pageOf": "08 / 08",
-        "authorInitials": "MK",
-        "authorName": "Morgan K.",
-        "handle": "@morganbuilds",
-        "avatarBg1": "#1a202c",
-        "avatarBg2": "#d65f3e",
-        "eyebrow": "START TODAY",
-        "headlineLine1": "BUILD YOUR",
-        "headlineAccent": "7 FIGURE",
-        "body": "Pick one tool, ship your first product this week, and start scaling without code.",
-        "buttonLabel": "Save this list"
+        "authorInitials": "NB",
+        "authorName": "Nora Build",
+        "handle": "@norabuild",
+        "avatarBg1": "#1acd8a",
+        "avatarBg2": "#0ea5e9",
+        "pageOf": "08 - 08",
+        "tagline": "We break down no-code stacks so you can ship faster.",
+        "ctaQuestion": "Ready to build your stack?"
       }
     }
   ]

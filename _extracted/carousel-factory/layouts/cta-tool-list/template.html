@@ -1,34 +1,29 @@
 <!DOCTYPE html>
 <html><head><meta charset="utf-8">
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 <style>
 *{margin:0;padding:0;box-sizing:border-box}
-html,body{width:1080px;height:1350px;overflow:hidden;background:#0f0f0f;font-family:"Inter",sans-serif;color:#fff;-webkit-font-smoothing:antialiased}
-.page{position:absolute;top:80px;right:80px;font-size:18px;font-weight:600;color:rgba(255,255,255,0.5)}
-.author{position:absolute;top:80px;left:80px;display:flex;align-items:center;gap:14px}
-.avatar{width:46px;height:46px;border-radius:50%;background:linear-gradient(135deg,{{avatarBg1}},{{avatarBg2}});display:flex;align-items:center;justify-content:center;font-size:18px;font-weight:700;color:#fff}
-.author-info .name{font-size:18px;font-weight:700;line-height:1.2}
-.author-info .handle{font-size:14px;color:rgba(255,255,255,0.5);line-height:1.2}
-.center{position:absolute;top:50%;left:80px;right:80px;transform:translateY(-50%);text-align:center}
-.eyebrow{display:inline-block;padding:10px 22px;background:#ff5a28;color:#fff;border-radius:50px;font-size:18px;font-weight:700;letter-spacing:0.14em;margin-bottom:32px;text-transform:uppercase}
-.headline{font-size:120px;font-weight:900;line-height:0.95;letter-spacing:-3px;margin-bottom:32px}
-.headline .accent{color:#ff5a28}
-.body{font-size:28px;font-weight:400;line-height:1.5;color:rgba(255,255,255,0.7);max-width:760px;margin:0 auto 44px}
-.btn-row{display:flex;align-items:center;justify-content:center;gap:18px}
-.btn{display:inline-block;padding:24px 56px;background:#ff5a28;color:#fff;border-radius:50px;font-size:24px;font-weight:800}
-.sec{padding:24px 36px;border:1.5px solid rgba(255,255,255,0.18);color:rgba(255,255,255,0.6);border-radius:50px;font-size:20px;font-weight:600}
-.handle-bottom{position:absolute;bottom:80px;left:80px;font-size:18px;color:rgba(255,255,255,0.5);font-weight:600}
-.swipe{position:absolute;bottom:80px;right:80px;font-size:18px;font-weight:700;color:#ff5a28}
+html,body{width:1080px;height:1350px;overflow:hidden;background:#0d0d0d;font-family:"Inter",sans-serif;color:#d6d6d6;-webkit-font-smoothing:antialiased}
+.card{position:absolute;top:25px;left:30px;right:30px;bottom:25px;border-radius:40px;border:1px solid #1f1f1f;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:60px}
+.eyebrow{font-size:24px;font-weight:600;letter-spacing:0.2em;color:#737373;margin-bottom:32px;text-transform:uppercase}
+.headline{font-size:108px;font-weight:800;line-height:1;letter-spacing:-3px;color:#d6d6d6;text-align:center;margin-bottom:48px}
+.swatch-row{display:flex;justify-content:center;gap:18px;margin-bottom:48px}
+.swatch{width:90px;height:90px;border-radius:50%;box-shadow:0 6px 18px rgba(0,0,0,0.5)}
+.swatch.s1{background:{{color1}}}
+.swatch.s2{background:{{color2}}}
+.swatch.s3{background:{{color3}}}
+.swatch.s4{background:{{color4}}}
+.body{font-size:30px;font-weight:500;color:#737373;text-align:center;max-width:780px;line-height:1.4;margin-bottom:48px}
+.btn{display:inline-block;padding:24px 56px;background:#d6d6d6;color:#0d0d0d;border-radius:50px;font-size:26px;font-weight:700}
+.page{position:absolute;bottom:55px;right:60px;padding:8px 20px;border-radius:50px;border:1px solid #404040;font-size:24px;color:#737373;font-weight:500}
 </style></head>
 <body>
-<div class="author"><div class="avatar">{{authorInitials}}</div><div class="author-info"><div class="name">{{authorName}}</div><div class="handle">{{handle}}</div></div></div>
-<div class="page">{{pageOf}}</div>
-<div class="center">
-<div class="eyebrow">{{eyebrow}}</div>
-<div class="headline">{{headlineLine1}}<br><span class="accent">{{headlineAccent}}</span></div>
-<div class="body">{{body}}</div>
-<div class="btn-row"><div class="btn">{{buttonLabel}} →</div><div class="sec">{{secondaryLabel}}</div></div>
+<div class="card">
+  <div class="eyebrow">{{eyebrow}}</div>
+  <div class="headline">{{headlineLine1}}<br>{{headlineLine2}}</div>
+  <div class="swatch-row"><div class="swatch s1"></div><div class="swatch s2"></div><div class="swatch s3"></div><div class="swatch s4"></div></div>
+  <div class="body">{{body}}</div>
+  <div class="btn">{{buttonLabel}} →</div>
 </div>
-<div class="handle-bottom">{{handle}}</div>
-<div class="swipe">Save & Share</div>
+<div class="page">{{pageOf}}</div>
 </body></html>

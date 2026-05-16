@@ -1,38 +1,40 @@
 <!DOCTYPE html>
 <html><head><meta charset="utf-8">
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style>
 *{margin:0;padding:0;box-sizing:border-box}
-html,body{width:1080px;height:1350px;overflow:hidden;background:#f4eee2;font-family:"Inter",sans-serif;color:#1a1a1a;-webkit-font-smoothing:antialiased}
-.page{position:absolute;top:80px;left:80px;font-size:20px;font-weight:700}
-.author{position:absolute;top:80px;right:80px;display:flex;align-items:center;gap:14px}
-.avatar{width:46px;height:46px;border-radius:50%;background:linear-gradient(135deg,{{avatarBg1}},{{avatarBg2}});display:flex;align-items:center;justify-content:center;font-size:18px;font-weight:700;color:#fff}
-.author-info{text-align:right}
-.author-info .name{font-size:18px;font-weight:700;line-height:1.2}
-.author-info .handle{font-size:14px;color:#7a7464;line-height:1.2}
-.eyebrow{position:absolute;top:200px;left:80px;font-size:22px;font-weight:700;letter-spacing:0.16em;color:#3a5eef;text-transform:uppercase}
-.title{position:absolute;top:250px;left:80px;right:80px;font-size:104px;font-weight:800;line-height:1;letter-spacing:-2.5px;color:#1a1a1a}
-.title .accent{color:#3a5eef}
-.diagram{position:absolute;top:560px;left:80px;right:80px;display:flex;flex-direction:column;align-items:center;gap:0}
-.node{padding:22px 36px;background:#fff;border:2px solid #1a1a1a;border-radius:14px;font-size:24px;font-weight:700;color:#1a1a1a;box-shadow:6px 6px 0 #1a1a1a;text-align:center;min-width:300px}
-.node.alt{background:#3a5eef;color:#fff;box-shadow:6px 6px 0 #1a1a1a}
-.node.end{background:#1a1a1a;color:#fff}
-.arrow{width:3px;height:42px;background:#1a1a1a;position:relative}
-.arrow::after{content:"";position:absolute;left:50%;bottom:-2px;transform:translateX(-50%);width:0;height:0;border-left:8px solid transparent;border-right:8px solid transparent;border-top:12px solid #1a1a1a}
-.bottom{position:absolute;bottom:60px;left:80px;right:80px;display:flex;justify-content:space-between;align-items:center}
-.handle{font-size:18px;font-weight:600;color:#7a7464}
-.swipe{padding:14px 28px;background:#3a5eef;color:#fff;border-radius:50px;font-size:18px;font-weight:700}
+html,body{width:1080px;height:1350px;overflow:hidden;background:#f8fafc;font-family:"Inter",sans-serif;color:#121926;-webkit-font-smoothing:antialiased}
+.title{position:absolute;top:140px;left:100px;right:100px;font-size:58px;font-weight:600;color:#121926;letter-spacing:-1px;line-height:1.1}
+.sub{position:absolute;top:230px;left:100px;right:100px;font-size:32px;font-weight:400;color:#4b5565;line-height:1.4}
+.checks{position:absolute;top:340px;left:100px;right:100px;display:flex;flex-direction:column;gap:24px}
+.check-row{display:flex;align-items:flex-start;gap:18px}
+.check-box{width:36px;height:36px;border-radius:8px;background:#3457d5;display:flex;align-items:center;justify-content:center;color:#fff;font-size:20px;font-weight:700;flex-shrink:0}
+.check-label{font-size:32px;font-weight:400;color:#4b5565;line-height:1.35;padding-top:2px}
+.image-card{position:absolute;top:600px;left:100px;right:100px;height:560px;background:#1a1a1a;border-radius:24px;display:flex;align-items:center;justify-content:center;padding:60px}
+.preview-row{display:flex;gap:24px;align-items:center}
+.preview-card{width:170px;height:380px;border-radius:14px;background:#2a2a2a;display:flex;flex-direction:column;padding:24px 18px;border:1px solid #3a3a3a}
+.preview-card .pc-icon{font-size:48px;margin-bottom:14px}
+.preview-card .pc-t{font-size:18px;font-weight:700;color:#fafafa;margin-bottom:10px;line-height:1.2}
+.preview-card .pc-s{font-size:14px;color:#9ca3af;line-height:1.35}
+.foot{position:absolute;bottom:75px;left:100px;right:100px;display:flex;justify-content:space-between;align-items:center}
+.foot .num{font-size:48px;font-weight:400;color:#4b5565}
+.foot .handle{font-size:32px;color:#4b5565}
 </style></head>
 <body>
-<div class="page">{{pageOf}}</div>
-<div class="author"><div class="avatar">{{authorInitials}}</div><div class="author-info"><div class="name">{{authorName}}</div><div class="handle">{{handle}}</div></div></div>
-<div class="eyebrow">{{eyebrow}}</div>
-<div class="title">{{titleLine1}}<br><span class="accent">{{titleAccent}}</span></div>
-<div class="diagram">
-<div class="node">{{node1}}</div><div class="arrow"></div>
-<div class="node alt">{{node2}}</div><div class="arrow"></div>
-<div class="node">{{node3}}</div><div class="arrow"></div>
-<div class="node end">{{node4}}</div>
+<div class="title">{{title}}</div>
+<div class="sub">{{subtitle}}</div>
+<div class="checks">
+  <div class="check-row"><div class="check-box">✓</div><div class="check-label">{{check1}}</div></div>
+  <div class="check-row"><div class="check-box">✓</div><div class="check-label">{{check2}}</div></div>
+  <div class="check-row"><div class="check-box">✓</div><div class="check-label">{{check3}}</div></div>
 </div>
-<div class="bottom"><div class="handle">{{handle}}</div><div class="swipe">Swipe →</div></div>
+<div class="image-card">
+  <div class="preview-row">
+    <div class="preview-card"><div class="pc-icon">{{cardGlyph1}}</div><div class="pc-t">{{cardTitle1}}</div><div class="pc-s">{{cardSub1}}</div></div>
+    <div class="preview-card"><div class="pc-icon">{{cardGlyph2}}</div><div class="pc-t">{{cardTitle2}}</div><div class="pc-s">{{cardSub2}}</div></div>
+    <div class="preview-card"><div class="pc-icon">{{cardGlyph3}}</div><div class="pc-t">{{cardTitle3}}</div><div class="pc-s">{{cardSub3}}</div></div>
+    <div class="preview-card"><div class="pc-icon">{{cardGlyph4}}</div><div class="pc-t">{{cardTitle4}}</div><div class="pc-s">{{cardSub4}}</div></div>
+  </div>
+</div>
+<div class="foot"><div class="num">{{number}}</div><div class="handle">{{handle}}</div></div>
 </body></html>

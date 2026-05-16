@@ -1,45 +1,29 @@
 <!DOCTYPE html>
 <html><head><meta charset="utf-8">
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style>
 *{margin:0;padding:0;box-sizing:border-box}
-html,body{width:1080px;height:1350px;overflow:hidden;background:#0f0f0f;font-family:"Inter",sans-serif;color:#fff;-webkit-font-smoothing:antialiased}
-.page{position:absolute;top:80px;right:80px;font-size:18px;font-weight:600;color:rgba(255,255,255,0.5)}
-.author{position:absolute;top:80px;left:80px;display:flex;align-items:center;gap:14px}
-.avatar{width:46px;height:46px;border-radius:50%;background:linear-gradient(135deg,{{avatarBg1}},{{avatarBg2}});display:flex;align-items:center;justify-content:center;font-size:18px;font-weight:700;color:#fff}
-.author-info .name{font-size:18px;font-weight:700;line-height:1.2}
-.author-info .handle{font-size:14px;color:rgba(255,255,255,0.5);line-height:1.2}
-.hero{position:absolute;top:220px;left:80px;right:80px;display:flex;align-items:center;gap:32px;padding:36px;background:#1a1a1a;border-radius:24px;border:1.5px solid rgba(255,90,40,0.4)}
-.hero-icon{width:140px;height:140px;border-radius:24px;background:#ff5a28;display:flex;align-items:center;justify-content:center;font-size:72px;font-weight:900;color:#0f0f0f;flex-shrink:0}
-.hero-text .num-row{display:flex;align-items:baseline;gap:14px;margin-bottom:10px}
-.hero-text .num{font-size:32px;font-weight:900;color:#ff5a28}
-.hero-text .tag{font-size:18px;font-weight:700;color:rgba(255,255,255,0.5);letter-spacing:0.1em;text-transform:uppercase}
-.hero-text .name-big{font-size:54px;font-weight:800;letter-spacing:-1px}
-.hero-text .role{font-size:22px;font-weight:500;color:rgba(255,255,255,0.6);margin-top:6px}
-.body{position:absolute;top:540px;left:80px;right:80px;font-size:28px;font-weight:400;line-height:1.55;color:rgba(255,255,255,0.8);max-width:920px}
-.features{position:absolute;bottom:200px;left:80px;right:80px;display:grid;grid-template-columns:1fr 1fr;gap:18px}
-.feature{padding:22px 24px;background:#1a1a1a;border-radius:14px;border:1px solid rgba(255,255,255,0.08)}
-.feat-key{font-size:16px;font-weight:700;color:#ff5a28;letter-spacing:0.1em;text-transform:uppercase;margin-bottom:6px}
-.feat-val{font-size:20px;font-weight:500;color:#fff;line-height:1.3}
-.bottom{position:absolute;bottom:80px;left:80px;right:80px;display:flex;justify-content:space-between;align-items:center}
-.handle{font-size:18px;color:rgba(255,255,255,0.5);font-weight:600}
-.swipe{font-size:20px;font-weight:700;color:#ff5a28}
+html,body{width:1080px;height:1350px;overflow:hidden;background:#0d0d0d;font-family:"Inter",sans-serif;color:#d6d6d6;-webkit-font-smoothing:antialiased}
+.card{position:absolute;top:25px;left:30px;right:30px;bottom:25px;border-radius:40px;border:1px solid #1f1f1f}
+.num{position:absolute;top:340px;left:50%;transform:translateX(-50%);width:80px;height:80px;border-radius:50%;border:1.5px solid #404040;display:flex;align-items:center;justify-content:center;color:#d6d6d6;font-size:36px;font-weight:600}
+.swatches{position:absolute;top:530px;left:50%;transform:translateX(-50%);display:flex;align-items:center;justify-content:center;gap:-30px}
+.swatch{width:200px;height:200px;border-radius:50%;margin-right:-30px;box-shadow:0 10px 30px rgba(0,0,0,0.5)}
+.swatch.s1{background:{{color1}}}
+.swatch.s2{background:{{color2}}}
+.swatch.s3{background:{{color3}}}
+.swatch.s4{background:{{color4}}}
+.hexes{position:absolute;top:780px;left:50%;transform:translateX(-50%);display:flex;align-items:center;gap:50px;width:850px;justify-content:space-between;padding:0 60px}
+.hex{font-size:24px;font-weight:500;color:#737373;font-family:"Inter",monospace;text-align:center;width:140px}
+.name{position:absolute;top:900px;left:50%;transform:translateX(-50%);text-align:center}
+.name .t{font-size:42px;font-weight:600;color:#d6d6d6;margin-bottom:8px}
+.name .s{font-size:24px;color:#737373;font-weight:500;max-width:760px}
+.page{position:absolute;bottom:55px;right:60px;padding:8px 20px;border-radius:50px;border:1px solid #404040;font-size:24px;color:#737373;font-weight:500}
 </style></head>
 <body>
-<div class="author"><div class="avatar">{{authorInitials}}</div><div class="author-info"><div class="name">{{authorName}}</div><div class="handle">{{handle}}</div></div></div>
+<div class="card"></div>
+<div class="num">{{number}}</div>
+<div class="swatches"><div class="swatch s1"></div><div class="swatch s2"></div><div class="swatch s3"></div><div class="swatch s4"></div></div>
+<div class="hexes"><div class="hex">{{hex1}}</div><div class="hex">{{hex2}}</div><div class="hex">{{hex3}}</div><div class="hex">{{hex4}}</div></div>
+<div class="name"><div class="t">{{paletteName}}</div><div class="s">{{paletteUseCase}}</div></div>
 <div class="page">{{pageOf}}</div>
-<div class="hero">
-<div class="hero-icon">{{toolGlyph}}</div>
-<div class="hero-text">
-<div class="num-row"><div class="num">{{number}}</div><div class="tag">{{toolCategory}}</div></div>
-<div class="name-big">{{toolName}}</div>
-<div class="role">{{toolTagline}}</div>
-</div>
-</div>
-<div class="body">{{body}}</div>
-<div class="features">
-<div class="feature"><div class="feat-key">{{feat1Key}}</div><div class="feat-val">{{feat1Val}}</div></div>
-<div class="feature"><div class="feat-key">{{feat2Key}}</div><div class="feat-val">{{feat2Val}}</div></div>
-</div>
-<div class="bottom"><div class="handle">{{handle}}</div><div class="swipe">Swipe →</div></div>
 </body></html>

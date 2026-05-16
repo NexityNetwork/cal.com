@@ -1,34 +1,36 @@
 <!DOCTYPE html>
 <html><head><meta charset="utf-8">
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 <style>
 *{margin:0;padding:0;box-sizing:border-box}
-html,body{width:1080px;height:1350px;overflow:hidden;background:#f6f1e6;font-family:"Inter",sans-serif;color:#1a1a1a;-webkit-font-smoothing:antialiased}
-.page{position:absolute;top:80px;left:80px;font-size:18px;font-weight:700;letter-spacing:0.04em}
-.author{position:absolute;top:80px;right:80px;display:flex;align-items:center;gap:12px}
-.avatar{width:42px;height:42px;border-radius:50%;background:linear-gradient(135deg,{{avatarBg1}},{{avatarBg2}});display:flex;align-items:center;justify-content:center;font-size:16px;font-weight:700;color:#fff}
-.author-info{text-align:right}
-.author-info .name{font-size:16px;font-weight:700;line-height:1.2}
-.author-info .handle{font-size:13px;color:#7a7464;line-height:1.2}
-.num{position:absolute;top:200px;left:80px;font-size:120px;font-weight:900;color:#d65f3e;line-height:1;letter-spacing:-4px}
-.title{position:absolute;top:380px;left:80px;right:80px;font-size:72px;font-weight:800;line-height:0.98;letter-spacing:-2px;color:#1a1a1a}
-.body{position:absolute;top:640px;left:80px;right:80px;font-size:30px;font-weight:400;line-height:1.55;color:#3a3530}
-.tile{position:absolute;bottom:160px;left:80px;right:80px;padding:34px;background:#fff;border-radius:20px;border:2px solid #1a1a1a;display:flex;align-items:center;gap:24px}
-.tile-icon{width:72px;height:72px;background:#d65f3e;color:#fff;border-radius:14px;display:flex;align-items:center;justify-content:center;font-size:36px;font-weight:800;flex-shrink:0}
-.tile-text .key{font-size:22px;font-weight:700;color:#1a1a1a;margin-bottom:4px}
-.tile-text .val{font-size:20px;font-weight:500;color:#5a5450}
-.bottom{position:absolute;bottom:60px;left:80px;right:80px;display:flex;justify-content:space-between;align-items:center}
-.swipe{font-size:22px;font-weight:600;color:#7a7464}
-.dots{display:flex;gap:8px}
-.dot{width:10px;height:10px;border-radius:50%;background:#d6cdb8}
-.dot.active{background:#1a1a1a;width:32px;border-radius:5px}
+html,body{width:1080px;height:1350px;overflow:hidden;background:#f1f1f1;font-family:"Inter",sans-serif;color:#37474f;-webkit-font-smoothing:antialiased}
+.num{position:absolute;top:200px;left:100px;font-size:88px;font-weight:500;line-height:1;color:transparent;-webkit-text-stroke:2.5px #1acd8a;letter-spacing:-2px}
+.title{position:absolute;top:306px;left:100px;right:100px;font-family:"Inter",sans-serif;font-size:88px;font-weight:500;line-height:1.05;color:#1acd8a;letter-spacing:-2px}
+.body{position:absolute;top:546px;left:100px;right:100px;font-size:36px;font-weight:400;line-height:1.55;color:#37474f}
+.image-card{position:absolute;top:706px;left:100px;right:100px;height:450px;background:#ffffff;border-radius:14px;display:flex;align-items:center;justify-content:space-between;padding:42px 48px;overflow:hidden}
+.image-left{flex:0.55}
+.image-left .label{font-size:22px;font-weight:600;color:#1acd8a;letter-spacing:0.06em;text-transform:uppercase;margin-bottom:18px}
+.image-left .ck{font-size:42px;font-weight:700;color:#37474f;line-height:1.1;letter-spacing:-1px;margin-bottom:14px}
+.image-left .cv{font-size:22px;font-weight:400;color:#5a6a72;line-height:1.4}
+.image-right{flex:0.4;display:flex;align-items:center;justify-content:center}
+.glyph-box{width:160px;height:160px;background:#1acd8a;border-radius:24px;display:flex;align-items:center;justify-content:center;font-size:74px;font-weight:900;color:#fff}
+.bottom{position:absolute;bottom:64px;left:60px;right:60px;display:flex;justify-content:space-between;align-items:center}
+.pill{padding:14px 32px;background:#1acd8a;color:#ffffff;border-radius:50px;font-size:18px;font-weight:500;display:inline-flex;align-items:center;gap:10px}
 </style></head>
 <body>
-<div class="page">{{pageOf}}</div>
-<div class="author"><div class="avatar">{{authorInitials}}</div><div class="author-info"><div class="name">{{authorName}}</div><div class="handle">{{handle}}</div></div></div>
-<div class="num">{{number}}</div>
-<div class="title">{{title}}</div>
+<div class="num">{{number}}.</div>
+<div class="title">{{titleLine1}}<br>{{titleLine2}}</div>
 <div class="body">{{body}}</div>
-<div class="tile"><div class="tile-icon">{{tileGlyph}}</div><div class="tile-text"><div class="key">{{tileKey}}</div><div class="val">{{tileValue}}</div></div></div>
-<div class="bottom"><div class="dots"><div class="dot"></div><div class="dot active"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div></div><div class="swipe">Swipe ⟶</div></div>
+<div class="image-card">
+  <div class="image-left">
+    <div class="label">{{tileLabel}}</div>
+    <div class="ck">{{tileKey}}</div>
+    <div class="cv">{{tileValue}}</div>
+  </div>
+  <div class="image-right"><div class="glyph-box">{{tileGlyph}}</div></div>
+</div>
+<div class="bottom">
+  <div class="pill">{{pageOf}}</div>
+  <div class="pill">Swipe ⓘ</div>
+</div>
 </body></html>

@@ -7,133 +7,112 @@
     {
       "layoutId": "cover-cream-best",
       "slots": {
-        "pageOf": "01 / 08",
+        "titleLine1": "6 icon libraries",
+        "titleLine2": "every designer should",
+        "topic": "ICONS",
         "authorInitials": "JD",
         "authorName": "Jane Doe",
         "handle": "@janedoe",
-        "avatarBg1": "#1a1a1a",
-        "avatarBg2": "#d65f3e",
-        "headlineLine1": "BEST",
-        "headlineAccent": "ICON LIBRARIES",
-        "headlineLine3": "FOR DESIGNERS"
+        "avatarBg1": "#1acd8a",
+        "avatarBg2": "#0fa968",
+        "pageOf": "01 - 08"
       }
     },
     {
       "layoutId": "body-cream-best",
       "slots": {
-        "pageOf": "02 / 08",
-        "authorInitials": "JD",
-        "authorName": "Jane Doe",
-        "handle": "@janedoe",
-        "avatarBg1": "#1a1a1a",
-        "avatarBg2": "#d65f3e",
         "number": "01",
-        "title": "Phosphor Icon Family",
-        "body": "A versatile family with eight weights and thousands of icons. Perfect for interfaces that need visual hierarchy without switching libraries.",
-        "tileGlyph": "P",
-        "tileKey": "Best for",
-        "tileValue": "Multiple weights and styles"
+        "titleLine1": "Phosphor Icons",
+        "titleLine2": "Clean & versatile",
+        "body": "A flexible family with weights from thin to bold and duotone styles for any interface.",
+        "tileLabel": "PRO TIP",
+        "tileKey": "Use variable weight for hierarchy",
+        "tileValue": "Thicker icons draw attention to primary actions.",
+        "tileGlyph": "★",
+        "pageOf": "02 - 08"
       }
     },
     {
       "layoutId": "body-cream-best",
       "slots": {
-        "pageOf": "03 / 08",
-        "authorInitials": "JD",
-        "authorName": "Jane Doe",
-        "handle": "@janedoe",
-        "avatarBg1": "#1a1a1a",
-        "avatarBg2": "#d65f3e",
         "number": "02",
-        "title": "Heroicons by Tailwind",
-        "body": "Beautiful hand-crafted SVG icons by the makers of Tailwind CSS. Solid and outline variants cover most UI needs effortlessly.",
+        "titleLine1": "Heroicons by",
+        "titleLine2": "Tailwind Labs",
+        "body": "Beautiful hand-crafted SVG icons in solid and outline variants, built by the Tailwind team.",
+        "tileLabel": "REMEMBER",
+        "tileKey": "Match style to your UI density",
+        "tileValue": "Outline styles work best in spacious dashboards.",
         "tileGlyph": "H",
-        "tileKey": "Best for",
-        "tileValue": "Tailwind projects and SVG"
+        "pageOf": "03 - 08"
       }
     },
     {
       "layoutId": "body-cream-best",
       "slots": {
-        "pageOf": "04 / 08",
-        "authorInitials": "JD",
-        "authorName": "Jane Doe",
-        "handle": "@janedoe",
-        "avatarBg1": "#1a1a1a",
-        "avatarBg2": "#d65f3e",
         "number": "03",
-        "title": "Tabler Icons Collection",
-        "body": "Over 4,500 free MIT-licensed icons with consistent stroke width. Fully customizable and available in React, Vue, and SVG formats.",
-        "tileGlyph": "T",
-        "tileKey": "Best for",
-        "tileValue": "Massive free MIT collection"
+        "titleLine1": "Feather Icons",
+        "titleLine2": "Simply beautiful",
+        "body": "An open-source collection emphasizing readability and minimalism at small sizes across all platforms.",
+        "tileLabel": "PRO TIP",
+        "tileKey": "Prioritize crisp pixel alignment",
+        "tileValue": "Feather shines in dense toolbars and nav lists.",
+        "tileGlyph": "F",
+        "pageOf": "04 - 08"
       }
     },
     {
       "layoutId": "body-cream-best",
       "slots": {
-        "pageOf": "05 / 08",
-        "authorInitials": "JD",
-        "authorName": "Jane Doe",
-        "handle": "@janedoe",
-        "avatarBg1": "#1a1a1a",
-        "avatarBg2": "#d65f3e",
         "number": "04",
-        "title": "Lucide Modern Icons",
-        "body": "A clean fork of Feather with an active community and expanding set. Designed for modern apps with crisp readability at any size.",
-        "tileGlyph": "L",
-        "tileKey": "Best for",
-        "tileValue": "Modern apps and clarity"
+        "titleLine1": "Tabler Icons",
+        "titleLine2": "Over four thousand",
+        "body": "A vast free library with precise outlines, React and Vue components, and constant community updates.",
+        "tileLabel": "REMEMBER",
+        "tileKey": "Search by category first",
+        "tileValue": "Filtering saves time in this massive collection.",
+        "tileGlyph": "T",
+        "pageOf": "05 - 08"
       }
     },
     {
       "layoutId": "body-cream-best",
       "slots": {
-        "pageOf": "06 / 08",
-        "authorInitials": "JD",
-        "authorName": "Jane Doe",
-        "handle": "@janedoe",
-        "avatarBg1": "#1a1a1a",
-        "avatarBg2": "#d65f3e",
         "number": "05",
-        "title": "Radix Minimal UI Icons",
-        "body": "A tight set of 15×15 minimal icons optimized for small UI controls. Subtle and precise, they blend into dense dashboards seamlessly.",
+        "titleLine1": "Radix Icons",
+        "titleLine2": "Minimal precision",
+        "body": "Carefully balanced 15×15 icons designed for modern UI components and high-density dashboards.",
+        "tileLabel": "PRO TIP",
+        "tileKey": "Pair with Radix primitives",
+        "tileValue": "Consistent sizing across your design system.",
         "tileGlyph": "R",
-        "tileKey": "Best for",
-        "tileValue": "Small controls and density"
+        "pageOf": "06 - 08"
       }
     },
     {
       "layoutId": "body-cream-best",
       "slots": {
-        "pageOf": "07 / 08",
-        "authorInitials": "JD",
-        "authorName": "Jane Doe",
-        "handle": "@janedoe",
-        "avatarBg1": "#1a1a1a",
-        "avatarBg2": "#d65f3e",
         "number": "06",
-        "title": "Google Material Symbols",
-        "body": "Google’s vast variable-font icon library with weight, grade, and fill axes. One file delivers infinite variations for any brand language.",
-        "tileGlyph": "M",
-        "tileKey": "Best for",
-        "tileValue": "Variable font flexibility"
+        "titleLine1": "Lucide Icons",
+        "titleLine2": "Community driven",
+        "body": "A friendly fork of Feather that adds hundreds of new icons and active open-source maintenance.",
+        "tileLabel": "REMEMBER",
+        "tileKey": "Check the Figma plugin",
+        "tileValue": "Drag and drop directly into your mockups.",
+        "tileGlyph": "L",
+        "pageOf": "07 - 08"
       }
     },
     {
       "layoutId": "cta-cream-best",
       "slots": {
-        "pageOf": "08 / 08",
         "authorInitials": "JD",
         "authorName": "Jane Doe",
         "handle": "@janedoe",
-        "avatarBg1": "#1a1a1a",
-        "avatarBg2": "#d65f3e",
-        "eyebrow": "PICK ONE",
-        "headlineLine1": "START USING",
-        "headlineAccent": "ICONS NOW",
-        "body": "Bookmark these libraries and never hunt for the perfect glyph again. Your next interface will thank you.",
-        "buttonLabel": "SAVE THIS LIST"
+        "avatarBg1": "#1acd8a",
+        "avatarBg2": "#0fa968",
+        "pageOf": "08 - 08",
+        "tagline": "Curated design resources and no-fluff breakdowns for product teams who ship fast.",
+        "ctaQuestion": "Want more design tools ?"
       }
     }
   ]

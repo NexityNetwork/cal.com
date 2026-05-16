@@ -1,139 +1,118 @@
 {
   "id": "cream-best-design-tools",
-  "brand": "Mia Kraft",
+  "brand": "Indie Design",
   "brief": "The 6 best design tools for indie founders in 2026 — what each one wins at.",
   "theme": "cream-best",
   "slides": [
     {
       "layoutId": "cover-cream-best",
       "slots": {
-        "pageOf": "01 / 08",
-        "authorInitials": "MK",
-        "authorName": "Mia Kraft",
-        "handle": "@miakraft",
-        "avatarBg1": "#d65f3e",
-        "avatarBg2": "#1a1a1a",
-        "headlineLine1": "BEST",
-        "headlineAccent": "TOOLS",
-        "headlineLine3": "FOR INDIES"
+        "titleLine1": "The 6 best",
+        "titleLine2": "design tools for",
+        "topic": "FOUNDERS",
+        "authorInitials": "AL",
+        "authorName": "Alex Lane",
+        "handle": "@alexlane",
+        "avatarBg1": "#1acd8a",
+        "avatarBg2": "#0b8c6b",
+        "pageOf": "01 - 08"
       }
     },
     {
       "layoutId": "body-cream-best",
       "slots": {
-        "pageOf": "02 / 08",
-        "authorInitials": "MK",
-        "authorName": "Mia Kraft",
-        "handle": "@miakraft",
-        "avatarBg1": "#d65f3e",
-        "avatarBg2": "#1a1a1a",
-        "number": "01",
-        "title": "Figma still owns systems",
-        "body": "The gold standard for component libraries and collaborative interfaces. Indie teams scale design without breaking consistency.",
-        "tileGlyph": "Fg",
-        "tileKey": "Best for",
-        "tileValue": "Design systems at scale"
-      }
-    },
-    {
-      "layoutId": "body-cream-best",
-      "slots": {
-        "pageOf": "03 / 08",
-        "authorInitials": "MK",
-        "authorName": "Mia Kraft",
-        "handle": "@miakraft",
-        "avatarBg1": "#d65f3e",
-        "avatarBg2": "#1a1a1a",
         "number": "02",
-        "title": "Framer ships real sites",
-        "body": "Design and publish production-ready websites from the same canvas. Perfect for indie founders who need speed without engineering bottlenecks.",
-        "tileGlyph": "Fr",
-        "tileKey": "Best for",
-        "tileValue": "Live prototypes to web"
+        "titleLine1": "Interface design",
+        "titleLine2": "at scale",
+        "body": "Figma remains the universal home for product teams who need real-time collaboration and component libraries that scale across platforms.",
+        "tileLabel": "PRO TIP",
+        "tileKey": "Build your component kit first",
+        "tileValue": "Start with variables and modes to ship faster.",
+        "tileGlyph": "F",
+        "pageOf": "02 - 08"
       }
     },
     {
       "layoutId": "body-cream-best",
       "slots": {
-        "pageOf": "04 / 08",
-        "authorInitials": "MK",
-        "authorName": "Mia Kraft",
-        "handle": "@miakraft",
-        "avatarBg1": "#d65f3e",
-        "avatarBg2": "#1a1a1a",
         "number": "03",
-        "title": "Spline makes 3D effortless",
-        "body": "Add interactive 3D scenes and motion to your product without a render farm. Indie brands now look premium on day one.",
-        "tileGlyph": "Sp",
-        "tileKey": "Best for",
-        "tileValue": "Interactive 3D visuals"
+        "titleLine1": "No-code sites",
+        "titleLine2": "with power",
+        "body": "Webflow gives founders enterprise-grade CMS control without hiring a frontend engineer, perfect for marketing and content hubs.",
+        "tileLabel": "REMEMBER",
+        "tileKey": "Use CMS collections early",
+        "tileValue": "Structure content once, then scale pages effortlessly.",
+        "tileGlyph": "W",
+        "pageOf": "03 - 08"
       }
     },
     {
       "layoutId": "body-cream-best",
       "slots": {
-        "pageOf": "05 / 08",
-        "authorInitials": "MK",
-        "authorName": "Mia Kraft",
-        "handle": "@miakraft",
-        "avatarBg1": "#d65f3e",
-        "avatarBg2": "#1a1a1a",
         "number": "04",
-        "title": "Webflow powers no-code web",
-        "body": "Build complex marketing sites and CMS-driven products visually. Full design control plus clean exportable code when you need it.",
-        "tileGlyph": "Wf",
-        "tileKey": "Best for",
-        "tileValue": "No-code sites and CMS"
+        "titleLine1": "Interactive prototypes",
+        "titleLine2": "that ship",
+        "body": "Framer blurs the line between prototype and production, letting indie makers publish performant sites straight from the canvas.",
+        "tileLabel": "HACK",
+        "tileKey": "Publish from prototype",
+        "tileValue": "Skip handoff by deploying your frame directly.",
+        "tileGlyph": "R",
+        "pageOf": "04 - 08"
       }
     },
     {
       "layoutId": "body-cream-best",
       "slots": {
-        "pageOf": "06 / 08",
-        "authorInitials": "MK",
-        "authorName": "Mia Kraft",
-        "handle": "@miakraft",
-        "avatarBg1": "#d65f3e",
-        "avatarBg2": "#1a1a1a",
         "number": "05",
-        "title": "Lovable writes the frontend",
-        "body": "Describe features in plain text and get deployable interfaces instantly. It is the fastest path from idea to validated product.",
-        "tileGlyph": "Lv",
-        "tileKey": "Best for",
-        "tileValue": "Frontend code from prompts"
+        "titleLine1": "Brand content",
+        "titleLine2": "in minutes",
+        "body": "Canva’s AI suite turns non-designers into visual storytellers, making it ideal for social posts, pitch decks, and ads.",
+        "tileLabel": "PRO TIP",
+        "tileKey": "Batch with Magic Resize",
+        "tileValue": "One design becomes ten formats instantly.",
+        "tileGlyph": "C",
+        "pageOf": "05 - 08"
       }
     },
     {
       "layoutId": "body-cream-best",
       "slots": {
-        "pageOf": "07 / 08",
-        "authorInitials": "MK",
-        "authorName": "Mia Kraft",
-        "handle": "@miakraft",
-        "avatarBg1": "#d65f3e",
-        "avatarBg2": "#1a1a1a",
         "number": "06",
-        "title": "Canva scales brand output",
-        "body": "Generate social assets, pitch decks and merch in minutes. The indie marketing stack starts here with templates that do not look templated.",
-        "tileGlyph": "Cv",
-        "tileKey": "Best for",
-        "tileValue": "Marketing and brand assets"
+        "titleLine1": "3D experiences",
+        "titleLine2": "for the web",
+        "body": "Spline lets founders embed lightweight 3D interactions into websites without touching WebGL, adding instant premium polish.",
+        "tileLabel": "NOTE",
+        "tileKey": "Export as URL embed",
+        "tileValue": "Drop the iframe into Webflow or Framer.",
+        "tileGlyph": "S",
+        "pageOf": "06 - 08"
+      }
+    },
+    {
+      "layoutId": "body-cream-best",
+      "slots": {
+        "number": "07",
+        "titleLine1": "Pitch decks",
+        "titleLine2": "that convert",
+        "body": "Pitch combines presentation design with real-time collaboration, so founders can close investors without wrestling with slides.",
+        "tileLabel": "REMEMBER",
+        "tileKey": "Use data imports live",
+        "tileValue": "Link charts to Google Sheets for real-time updates.",
+        "tileGlyph": "P",
+        "pageOf": "07 - 08"
       }
     },
     {
       "layoutId": "cta-cream-best",
       "slots": {
-        "pageOf": "08 / 08",
-        "authorInitials": "MK",
-        "authorName": "Mia Kraft",
-        "handle": "@miakraft",
-        "avatarBg1": "#d65f3e",
-        "avatarBg2": "#1a1a1a",
-        "eyebrow": "YOUR TURN",
-        "headlineLine1": "PICK YOUR",
-        "headlineAccent": "STACK",
-        "body": "Start with one tool. Master it. Then add the next layer when your product demands it.",
-        "buttonLabel": "SAVE FOR LATER"
+        "authorInitials": "AL",
+        "authorName": "Alex Lane",
+        "handle": "@alexlane",
+        "avatarBg1": "#1acd8a",
+        "avatarBg2": "#0b8c6b",
+        "pageOf": "08 - 08",
+        "tagline": "Clear, founder-focused design tips every week. No fluff, just tools that ship.",
+        "ctaQuestion": "Want the full founder stack ?"
       }
     }
   ]

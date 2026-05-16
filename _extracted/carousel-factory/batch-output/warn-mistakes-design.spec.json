@@ -1,134 +1,104 @@
 {
   "id": "warn-mistakes-design",
-  "brand": "Growth Studio",
+  "brand": "@usevisuals",
   "brief": "Stop ignoring these 6 mistakes silently killing your product's conversion rate.",
   "theme": "black-warning",
   "slides": [
     {
       "layoutId": "cover-black-warning",
       "slots": {
-        "warningLabel": "STOP IGNORING NOW",
-        "headlineLine1": "Stop Ignoring",
-        "headlineLine2": "These Mistakes In",
-        "headlineAccent": "Conversion Rate",
-        "body": "These overlooked errors drain revenue every single day. Fix them before your competitors capture the customers you worked hard to attract.",
-        "authorInitials": "JD",
-        "authorName": "Jules Dante",
-        "handle": "@julesdante",
-        "avatarBg1": "#2c3e50",
-        "avatarBg2": "#57606f"
+        "number": "01",
+        "handle": "@usevisuals",
+        "eyebrow": "CONVERSION KILLERS",
+        "titleLine1": "Stop Ignoring These",
+        "titleAccent": "6 Mistakes",
+        "body": "Common errors silently destroying your product's conversion rate and revenue.",
+        "ctaLabel": "Swipe to fix"
       }
     },
     {
       "layoutId": "body-black-warning",
       "slots": {
-        "pageOf": "1/6",
-        "number": "1",
-        "titleLine1": "Slow Pages",
-        "titleAccent": "Kill Sales",
-        "body": "Users abandon sites that take longer than three seconds to load. Every millisecond of delay costs you real revenue and erodes trust instantly.",
-        "quote": "Speed isn't a feature; it's the foundation.",
-        "authorInitials": "JD",
-        "authorName": "Jules Dante",
-        "handle": "@julesdante",
-        "avatarBg1": "#2c3e50",
-        "avatarBg2": "#57606f"
+        "number": "02",
+        "handle": "@usevisuals",
+        "title": "Vague Value Proposition",
+        "body": "Users leave when they can't instantly understand what you offer and why it matters to them.",
+        "calloutLabel": "KEY INSIGHT",
+        "calloutBody": "Clarify your headline to communicate specific benefits within 3 seconds.",
+        "pageOf": "Slide 02"
       }
     },
     {
       "layoutId": "body-black-warning",
       "slots": {
-        "pageOf": "2/6",
-        "number": "2",
-        "titleLine1": "Too Many",
-        "titleAccent": "Choices",
-        "body": "Cognitive overload paralyzes decision-making. When you bombard visitors with options, they choose the easiest path: leaving your site forever.",
-        "quote": "Clarity converts faster than cleverness.",
-        "authorInitials": "JD",
-        "authorName": "Jules Dante",
-        "handle": "@julesdante",
-        "avatarBg1": "#2c3e50",
-        "avatarBg2": "#57606f"
+        "number": "03",
+        "handle": "@usevisuals",
+        "title": "Overly Complex Forms",
+        "body": "Every extra field reduces completions. Long forms create friction and drive potential customers away.",
+        "calloutLabel": "DO THIS",
+        "calloutBody": "Remove optional fields and enable autofill to streamline the user journey.",
+        "pageOf": "Slide 03"
       }
     },
     {
       "layoutId": "body-black-warning",
       "slots": {
-        "pageOf": "3/6",
-        "number": "3",
-        "titleLine1": "Weak Call",
-        "titleAccent": "To Actions",
-        "body": "Vague buttons like 'Learn More' fail to inspire action. Your CTAs must promise value and create urgency with every single click.",
-        "quote": "If it doesn't compel, it doesn't convert.",
-        "authorInitials": "JD",
-        "authorName": "Jules Dante",
-        "handle": "@julesdante",
-        "avatarBg1": "#2c3e50",
-        "avatarBg2": "#57606f"
+        "number": "04",
+        "handle": "@usevisuals",
+        "title": "Missing Social Proof",
+        "body": "Without reviews or testimonials, visitors trust you less and hesitate to make purchase decisions.",
+        "calloutLabel": "KEY INSIGHT",
+        "calloutBody": "Add testimonials near CTAs to build immediate trust and reduce anxiety.",
+        "pageOf": "Slide 04"
       }
     },
     {
       "layoutId": "body-black-warning",
       "slots": {
-        "pageOf": "4/6",
-        "number": "4",
-        "titleLine1": "Broken Mobile",
-        "titleAccent": "Experience",
-        "body": "Most traffic comes from smartphones, yet brands still design desktop-first. Pinch-to-zoom navigation is a conversion killer in disguise.",
-        "quote": "Mobile isn't the future. It's right now.",
-        "authorInitials": "JD",
-        "authorName": "Jules Dante",
-        "handle": "@julesdante",
-        "avatarBg1": "#2c3e50",
-        "avatarBg2": "#57606f"
+        "number": "05",
+        "handle": "@usevisuals",
+        "title": "Slow Page Loading",
+        "body": "Each second of delay costs conversions. Impatient users abandon before your content even appears.",
+        "calloutLabel": "DO THIS",
+        "calloutBody": "Compress images and enable caching to keep load times under 2 seconds.",
+        "pageOf": "Slide 05"
       }
     },
     {
       "layoutId": "body-black-warning",
       "slots": {
-        "pageOf": "5/6",
-        "number": "5",
-        "titleLine1": "Friction Filled",
-        "titleAccent": "Checkout Flows",
-        "body": "Forcing account creation and endless form fields destroys momentum. Reduce steps and watch abandoned carts turn into completed orders.",
-        "quote": "Every field is a reason to leave.",
-        "authorInitials": "JD",
-        "authorName": "Jules Dante",
-        "handle": "@julesdante",
-        "avatarBg1": "#2c3e50",
-        "avatarBg2": "#57606f"
+        "number": "06",
+        "handle": "@usevisuals",
+        "title": "Weak Generic CTAs",
+        "body": "Generic buttons like 'Submit' fail to inspire action. Your CTA must promise clear value.",
+        "calloutLabel": "KEY INSIGHT",
+        "calloutBody": "Use benefit-driven copy like 'Get My Free Guide' instead of vague labels.",
+        "pageOf": "Slide 06"
       }
     },
     {
       "layoutId": "body-black-warning",
       "slots": {
-        "pageOf": "6/6",
-        "number": "6",
-        "titleLine1": "Zero Social",
-        "titleAccent": "Proof",
-        "body": "Visitors need validation before they buy. Without reviews, testimonials, or trust badges, skepticism wins and sales disappear instantly.",
-        "quote": "Trust is the currency of conversion.",
-        "authorInitials": "JD",
-        "authorName": "Jules Dante",
-        "handle": "@julesdante",
-        "avatarBg1": "#2c3e50",
-        "avatarBg2": "#57606f"
+        "number": "07",
+        "handle": "@usevisuals",
+        "title": "Broken Mobile Experience",
+        "body": "More than half of traffic is mobile. Clunky designs frustrate users and kill conversions fast.",
+        "calloutLabel": "DO THIS",
+        "calloutBody": "Test your entire funnel on mobile devices to ensure seamless touch interactions.",
+        "pageOf": "Slide 07"
       }
     },
     {
       "layoutId": "cta-black-warning",
       "slots": {
-        "pageOf": "7/7",
-        "eyebrow": "LAST WARNING",
-        "headlineLine1": "Fix Your",
-        "headlineAccent": "Funnel Now",
-        "body": "These silent killers drain revenue every single day. Audit your funnel now before competitors steal your next customer.",
-        "buttonLabel": "Save before you forget",
-        "authorInitials": "JD",
-        "authorName": "Jules Dante",
-        "handle": "@julesdante",
-        "avatarBg1": "#2c3e50",
-        "avatarBg2": "#57606f"
+        "number": "08",
+        "handle": "@usevisuals",
+        "eyebrow": "YOUR MOVE",
+        "headlineLine1": "Fix These",
+        "headlineAccent": "Conversion Killers",
+        "body": "Audit your product today. Small tweaks to these six areas can double your conversion rate.",
+        "buttonLabel": "Start Fixing Now",
+        "pageOf": "Slide 08"
       }
     }
   ]

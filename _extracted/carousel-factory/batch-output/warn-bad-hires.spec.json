@@ -1,134 +1,104 @@
 {
   "id": "warn-bad-hires",
-  "brand": "Founder Notes",
+  "brand": "UseVisuals",
   "brief": "5 red flags in your first 10 hires that will haunt you for 3 years.",
   "theme": "black-warning",
   "slides": [
     {
       "layoutId": "cover-black-warning",
       "slots": {
-        "warningLabel": "DON'T MAKE THIS MISTAKE",
-        "headlineLine1": "Stop Ignoring",
-        "headlineLine2": "The Red Flags",
-        "headlineAccent": "In Hiring",
-        "body": "One toxic early hire can poison culture, stall momentum, and cost you three years of growth.",
-        "authorInitials": "AC",
-        "authorName": "Alex Chen",
-        "handle": "@alexchen",
-        "avatarBg1": "#2f3542",
-        "avatarBg2": "#ff4757"
+        "number": "01",
+        "handle": "@usevisuals",
+        "eyebrow": "HIRING WARNING",
+        "titleLine1": "5 Red Flags in",
+        "titleAccent": "Early Hires",
+        "body": "The wrong first-10 hire costs more than their salary. It costs your culture.",
+        "ctaLabel": "Read the warnings"
       }
     },
     {
       "layoutId": "body-black-warning",
       "slots": {
-        "pageOf": "2/8",
-        "number": "1",
-        "titleLine1": "Your First Ten",
-        "titleAccent": "Shape Culture",
-        "body": "Early employees write the playbook everyone else follows. Get it wrong, and the debt compounds daily.",
-        "quote": "Culture is simply the worst behavior a founder is willing to tolerate.",
-        "authorInitials": "AC",
-        "authorName": "Alex Chen",
-        "handle": "@alexchen",
-        "avatarBg1": "#2f3542",
-        "avatarBg2": "#ff4757"
+        "number": "02",
+        "handle": "@usevisuals",
+        "title": "Hiring Mistakes Compound Fast",
+        "body": "Your first ten hires set the DNA of your company. Bad fits don't quit quietly.",
+        "calloutLabel": "KEY INSIGHT",
+        "calloutBody": "One toxic early hire can repel the next fifty candidates.",
+        "pageOf": "Slide 02"
       }
     },
     {
       "layoutId": "body-black-warning",
       "slots": {
-        "pageOf": "3/8",
-        "number": "2",
-        "titleLine1": "Prioritizing Culture Fit",
-        "titleAccent": "Over Skill",
-        "body": "Hiring for vibe instead of velocity creates clubs, not companies. Competence is what scales; chemistry is a bonus.",
-        "quote": "A nice person who can't execute is still a bad hire.",
-        "authorInitials": "AC",
-        "authorName": "Alex Chen",
-        "handle": "@alexchen",
-        "avatarBg1": "#2f3542",
-        "avatarBg2": "#ff4757"
+        "number": "03",
+        "handle": "@usevisuals",
+        "title": "They Blame Everyone Else",
+        "body": "Candidates who play the victim in interview stories become toxic teammates overnight.",
+        "calloutLabel": "RED FLAG",
+        "calloutBody": "Listen for 'I' versus 'they' when they describe past failures.",
+        "pageOf": "Slide 03"
       }
     },
     {
       "layoutId": "body-black-warning",
       "slots": {
-        "pageOf": "4/8",
-        "number": "3",
-        "titleLine1": "Ignoring Slow Replies",
-        "titleAccent": "To Emails",
-        "body": "If a candidate ghosts you before day one, they will disappear when deadlines hit. Responsiveness is a proxy for urgency.",
-        "quote": "How they chase the job is how they'll chase the work.",
-        "authorInitials": "AC",
-        "authorName": "Alex Chen",
-        "handle": "@alexchen",
-        "avatarBg1": "#2f3542",
-        "avatarBg2": "#ff4757"
+        "number": "04",
+        "handle": "@usevisuals",
+        "title": "They Talk More Than Listen",
+        "body": "Dominating the interview is a preview of dominating every meeting. Ego scales poorly.",
+        "calloutLabel": "RED FLAG",
+        "calloutBody": "Great hires ask questions. Bad ones only perform monologues.",
+        "pageOf": "Slide 04"
       }
     },
     {
       "layoutId": "body-black-warning",
       "slots": {
-        "pageOf": "5/8",
-        "number": "4",
-        "titleLine1": "No Curiosity Shown",
-        "titleAccent": "In Interviews",
-        "body": "Candidates who ask zero hard questions about the business aren't hungry. They're looking for a paycheck, not a mission.",
-        "quote": "The best hires interview you harder than you interview them.",
-        "authorInitials": "AC",
-        "authorName": "Alex Chen",
-        "handle": "@alexchen",
-        "avatarBg1": "#2f3542",
-        "avatarBg2": "#ff4757"
+        "number": "05",
+        "handle": "@usevisuals",
+        "title": "They Need Perfect Conditions",
+        "body": "If they require luxury tools to start, they won't survive startup chaos.",
+        "calloutLabel": "RED FLAG",
+        "calloutBody": "Scrappiness is a skill. Look for resourceful problem solvers.",
+        "pageOf": "Slide 05"
       }
     },
     {
       "layoutId": "body-black-warning",
       "slots": {
-        "pageOf": "6/8",
-        "number": "5",
-        "titleLine1": "Selling Too Hard",
-        "titleAccent": "Poor Vetting",
-        "body": "Desperation makes founders pitch candidates instead of probing them. The best talent wants to be screened, not sold.",
-        "quote": "If you're begging, you're already losing.",
-        "authorInitials": "AC",
-        "authorName": "Alex Chen",
-        "handle": "@alexchen",
-        "avatarBg1": "#2f3542",
-        "avatarBg2": "#ff4757"
+        "number": "06",
+        "handle": "@usevisuals",
+        "title": "They Dismiss the Mission",
+        "body": "Indifference to your 'why' becomes indifference to customers and teammates.",
+        "calloutLabel": "RED FLAG",
+        "calloutBody": "Hire believers. Skills transfer; passion rarely does.",
+        "pageOf": "Slide 06"
       }
     },
     {
       "layoutId": "body-black-warning",
       "slots": {
-        "pageOf": "7/8",
-        "number": "6",
-        "titleLine1": "Hiring Only People",
-        "titleAccent": "Like You",
-        "body": "Founders often build teams that mirror their strengths. That leaves fatal gaps in judgment, skill, and perspective.",
-        "quote": "You don't need more you. You need more better.",
-        "authorInitials": "AC",
-        "authorName": "Alex Chen",
-        "handle": "@alexchen",
-        "avatarBg1": "#2f3542",
-        "avatarBg2": "#ff4757"
+        "number": "07",
+        "handle": "@usevisuals",
+        "title": "They Gossip to Impress",
+        "body": "Trash-talking former employers in interviews becomes office politics later.",
+        "calloutLabel": "RED FLAG",
+        "calloutBody": "Professional discretion is a minimum, not a nice-to-have.",
+        "pageOf": "Slide 07"
       }
     },
     {
       "layoutId": "cta-black-warning",
       "slots": {
-        "pageOf": "8/8",
-        "eyebrow": "LAST WARNING",
-        "headlineLine1": "Fix Your Hiring",
-        "headlineAccent": "Right Now",
-        "body": "Share this with your cofounder and audit your last three offers. Prevention is cheaper than replacement.",
-        "buttonLabel": "Save before you forget",
-        "authorInitials": "AC",
-        "authorName": "Alex Chen",
-        "handle": "@alexchen",
-        "avatarBg1": "#2f3542",
-        "avatarBg2": "#ff4757"
+        "number": "08",
+        "handle": "@usevisuals",
+        "eyebrow": "YOUR MOVE",
+        "headlineLine1": "Audit Your",
+        "headlineAccent": "Next Hire",
+        "body": "Save this list. Check it before every offer letter. Your future self will thank you.",
+        "buttonLabel": "Follow for more",
+        "pageOf": "Slide 08"
       }
     }
   ]

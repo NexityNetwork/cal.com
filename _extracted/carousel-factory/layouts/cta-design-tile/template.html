@@ -1,40 +1,24 @@
 <!DOCTYPE html>
 <html><head><meta charset="utf-8">
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style>
 *{margin:0;padding:0;box-sizing:border-box}
-html,body{width:1080px;height:1350px;overflow:hidden;background:#f3ede0;font-family:"Inter",sans-serif;color:#1a1a1a;-webkit-font-smoothing:antialiased}
-.page{position:absolute;top:80px;left:80px;font-size:18px;font-weight:700}
-.author{position:absolute;top:80px;right:80px;display:flex;align-items:center;gap:12px}
-.avatar{width:42px;height:42px;border-radius:50%;background:linear-gradient(135deg,{{avatarBg1}},{{avatarBg2}});display:flex;align-items:center;justify-content:center;font-size:16px;font-weight:700;color:#fff}
-.author-info{text-align:right}
-.author-info .name{font-size:16px;font-weight:700;line-height:1.2}
-.author-info .handle{font-size:13px;color:#7a7464;line-height:1.2}
+html,body{width:1080px;height:1350px;overflow:hidden;background:#f8fafc;font-family:"Inter",sans-serif;color:#121926;-webkit-font-smoothing:antialiased}
 .center{position:absolute;top:50%;left:80px;right:80px;transform:translateY(-50%);text-align:center}
-.swatches{display:flex;justify-content:center;gap:14px;margin-bottom:40px}
-.swatch{width:80px;height:80px;border-radius:18px}
-.s1{background:{{swatch1}}}
-.s2{background:{{swatch2}}}
-.s3{background:{{swatch3}}}
-.s4{background:{{swatch4}}}
-.eyebrow{font-size:22px;font-weight:700;letter-spacing:0.2em;color:{{themeColor}};margin-bottom:24px;text-transform:uppercase}
-.headline{font-size:104px;font-weight:800;line-height:0.98;letter-spacing:-2.5px;margin-bottom:30px}
-.headline .accent{color:{{themeColor}}}
-.body{font-size:28px;font-weight:400;line-height:1.5;color:#3a3530;max-width:760px;margin:0 auto 44px}
-.btn{display:inline-block;padding:24px 56px;background:#1a1a1a;color:#fff;border-radius:50px;font-size:24px;font-weight:700}
-.bottom{position:absolute;bottom:60px;left:80px;right:80px;display:flex;justify-content:space-between;align-items:center}
-.handle{font-size:16px;font-weight:600;color:#7a7464}
-.swipe{font-size:16px;font-weight:700;color:{{themeColor}}}
+.eyebrow{font-size:24px;font-weight:700;letter-spacing:0.2em;color:#3457d5;margin-bottom:30px;text-transform:uppercase}
+.headline{font-size:96px;font-weight:600;line-height:1;letter-spacing:-2px;margin-bottom:36px;color:#121926}
+.body{font-size:34px;font-weight:500;line-height:1.4;color:#4b5563;max-width:840px;margin:0 auto 48px}
+.btn{display:inline-block;padding:24px 56px;background:#3457d5;color:#fff;border-radius:14px;font-size:28px;font-weight:600}
+.foot{position:absolute;bottom:75px;left:100px;right:100px;display:flex;justify-content:space-between;align-items:center}
+.foot .num{font-size:48px;font-weight:400;color:#4b5565}
+.foot .handle{font-size:32px;color:#4b5565}
 </style></head>
 <body>
-<div class="page">{{pageOf}}</div>
-<div class="author"><div class="avatar">{{authorInitials}}</div><div class="author-info"><div class="name">{{authorName}}</div><div class="handle">{{handle}}</div></div></div>
 <div class="center">
-<div class="swatches"><div class="swatch s1"></div><div class="swatch s2"></div><div class="swatch s3"></div><div class="swatch s4"></div></div>
-<div class="eyebrow">{{eyebrow}}</div>
-<div class="headline">{{headlineLine1}}<br><span class="accent">{{headlineAccent}}</span></div>
-<div class="body">{{body}}</div>
-<div class="btn">{{buttonLabel}} →</div>
+  <div class="eyebrow">{{eyebrow}}</div>
+  <div class="headline">{{headlineLine1}}<br>{{headlineLine2}}</div>
+  <div class="body">{{body}}</div>
+  <div class="btn">{{buttonLabel}} →</div>
 </div>
-<div class="bottom"><div class="handle">{{handle}}</div><div class="swipe">Save & Share</div></div>
+<div class="foot"><div class="num">{{number}}</div><div class="handle">{{handle}}</div></div>
 </body></html>
