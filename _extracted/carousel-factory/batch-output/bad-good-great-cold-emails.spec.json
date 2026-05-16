@@ -1,0 +1,125 @@
+{
+  "id": "bad-good-great-cold-emails",
+  "brand": "Jordan Drake",
+  "brief": "Bad vs Good vs Great cold emails — same intent, three radically different replies.",
+  "theme": "grid-italic",
+  "slides": [
+    {
+      "layoutId": "cover-grid-italic",
+      "slots": {
+        "topic": "Cold Emails",
+        "preLine": "What separates bad from great",
+        "word1": "BAD",
+        "word2": "Good",
+        "word3": "Great",
+        "authorInitials": "JD",
+        "authorName": "Jordan Drake",
+        "authorRole": "Growth Lead",
+        "handle": "@jordandrake"
+      }
+    },
+    {
+      "layoutId": "body-grid-italic",
+      "slots": {
+        "number": "1",
+        "preLabel": "The Intent",
+        "titleMain": "Same Goal",
+        "titleAccent": "Three Replies",
+        "titleUnderline": "One Inbox",
+        "body": "Every cold email wants a meeting. The difference is whether you earn attention or steal it.",
+        "note": "Intent without empathy is just noise.",
+        "authorInitials": "JD",
+        "authorName": "Jordan Drake",
+        "pageOf": "2 / 8"
+      }
+    },
+    {
+      "layoutId": "body-grid-italic",
+      "slots": {
+        "number": "2",
+        "preLabel": "Bad Example",
+        "titleMain": "Selfish Pitch",
+        "titleAccent": "Instant Delete",
+        "titleUnderline": "Zero Research",
+        "body": "Hi Name, I am reaching out because our platform helps companies like yours increase revenue by 300%.",
+        "note": "Nobody cares what you do. They care what you know.",
+        "authorInitials": "JD",
+        "authorName": "Jordan Drake",
+        "pageOf": "3 / 8"
+      }
+    },
+    {
+      "layoutId": "body-grid-italic",
+      "slots": {
+        "number": "3",
+        "preLabel": "Good Example",
+        "titleMain": "Relevant Hook",
+        "titleAccent": "Wins Reply",
+        "titleUnderline": "Shows Effort",
+        "body": "Hi Name, noticed your Series B announcement last week. Most teams struggle with onboarding velocity right after.",
+        "note": "Context beats credentials. Always.",
+        "authorInitials": "JD",
+        "authorName": "Jordan Drake",
+        "pageOf": "4 / 8"
+      }
+    },
+    {
+      "layoutId": "body-grid-italic",
+      "slots": {
+        "number": "4",
+        "preLabel": "Great Example",
+        "titleMain": "Insight First",
+        "titleAccent": "Starts Dialogue",
+        "titleUnderline": "Gives Value",
+        "body": "Hi Name, three recent hires on your team came from competitors with faster ramp times. Here is the pattern.",
+        "note": "Teach something. Then ask.",
+        "authorInitials": "JD",
+        "authorName": "Jordan Drake",
+        "pageOf": "5 / 8"
+      }
+    },
+    {
+      "layoutId": "body-grid-italic",
+      "slots": {
+        "number": "5",
+        "preLabel": "The Pattern",
+        "titleMain": "Lead With",
+        "titleAccent": "Their World",
+        "titleUnderline": "Not Yours",
+        "body": "Bad emails ask for time. Good emails ask for opinions. Great emails share an observation worth debating.",
+        "note": "Make them smarter for reading.",
+        "authorInitials": "JD",
+        "authorName": "Jordan Drake",
+        "pageOf": "6 / 8"
+      }
+    },
+    {
+      "layoutId": "body-grid-italic",
+      "slots": {
+        "number": "6",
+        "preLabel": "Quick Win",
+        "titleMain": "Rewrite One",
+        "titleAccent": "Line Today",
+        "titleUnderline": "Send Tomorrow",
+        "body": "Take your last template. Delete your company description. Replace it with one specific truth about their business.",
+        "note": "Specificity is the only shortcut.",
+        "authorInitials": "JD",
+        "authorName": "Jordan Drake",
+        "pageOf": "7 / 8"
+      }
+    },
+    {
+      "layoutId": "cta-grid-italic",
+      "slots": {
+        "eyebrow": "Now the only question is",
+        "headlineMain": "Which Email",
+        "headlineAccent": "Will You Send",
+        "body": "Pick one prospect. Rewrite your opener using their world instead of yours.",
+        "buttonLabel": "Save this post",
+        "authorInitials": "JD",
+        "authorName": "Jordan Drake",
+        "handle": "@jordandrake"
+      }
+    }
+  ]
+}
