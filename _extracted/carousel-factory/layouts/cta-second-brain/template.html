@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=JetBrains+Mono:ital,wght@1,500;1,700&display=swap" rel="stylesheet">
+<style>
+  *{margin:0;padding:0;box-sizing:border-box;}
+  html,body{width:1080px;height:1350px;overflow:hidden;background:#f3ede0;font-family:"Inter",sans-serif;color:#1f1810;-webkit-font-smoothing:antialiased;}
+  .network{position:absolute;inset:0;}
+  .node{position:absolute;width:10px;height:10px;background:rgba(196,84,31,0.35);border-radius:50%;}
+  .line{position:absolute;height:1px;background:rgba(196,84,31,0.18);transform-origin:left center;}
+  .filename{position:absolute;top:90px;left:0;right:0;text-align:center;font-family:"JetBrains Mono",monospace;font-style:italic;font-size:34px;font-weight:700;color:#1f1810;}
+  .center{position:absolute;top:50%;left:84px;right:84px;transform:translateY(-50%);text-align:center;}
+  .eyebrow{font-family:"JetBrains Mono",monospace;font-size:24px;font-weight:700;letter-spacing:0.18em;color:#c4541f;margin-bottom:24px;text-transform:uppercase;}
+  .headline{font-size:90px;font-weight:800;line-height:1;letter-spacing:-2px;margin-bottom:32px;color:#1f1810;}
+  .headline .em{color:#c4541f;text-decoration:underline;text-underline-offset:8px;text-decoration-thickness:5px;}
+  .body{font-size:28px;font-weight:500;line-height:1.5;color:rgba(31,24,16,0.7);max-width:780px;margin:0 auto 44px;}
+  .btn{display:inline-block;padding:24px 50px;background:#c4541f;color:#fff;border-radius:14px;font-size:28px;font-weight:800;letter-spacing:-0.3px;}
+  .indicators{position:absolute;bottom:60px;left:0;right:0;display:flex;justify-content:center;gap:8px;}
+  .ind{width:20px;height:20px;border:1.5px solid #c4541f;border-radius:3px;}
+  .ind.active{background:#c4541f;}
+  .handle{position:absolute;bottom:110px;left:0;right:0;text-align:center;font-family:"JetBrains Mono",monospace;font-size:22px;font-weight:500;color:rgba(31,24,16,0.6);}
+</style></head>
+<body>
+  <div class="network">
+    <div class="node" style="top:10%;left:8%"></div><div class="node" style="top:18%;left:88%"></div>
+    <div class="node" style="top:42%;left:4%"></div><div class="node" style="top:50%;left:94%"></div>
+    <div class="node" style="top:78%;left:14%"></div><div class="node" style="top:86%;left:80%"></div>
+    <div class="line" style="top:12%;left:10%;width:240px;transform:rotate(-2deg);"></div>
+    <div class="line" style="top:46%;left:6%;width:340px;transform:rotate(20deg);"></div>
+    <div class="line" style="top:82%;left:18%;width:380px;transform:rotate(-10deg);"></div>
+  </div>
+  <div class="filename">{{filename}}</div>
+  <div class="center">
+    <div class="eyebrow">{{eyebrow}}</div>
+    <div class="headline">{{headlineMain}}<br><span class="em">{{headlineAccent}}</span></div>
+    <div class="body">{{body}}</div>
+    <div class="btn">{{buttonLabel}} →</div>
+  </div>
+  <div class="handle">{{handle}}</div>
+  <div class="indicators"><div class="ind"></div><div class="ind"></div><div class="ind"></div><div class="ind"></div><div class="ind"></div><div class="ind"></div><div class="ind"></div><div class="ind active"></div></div>
+</body></html>

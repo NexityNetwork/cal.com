@@ -52,6 +52,12 @@ const FAMILY_LAYOUTS = {
   "pastel-soft":      { cover: "cover-pastel-soft",     body: "body-pastel-soft",     cta: "cta-pastel-soft" },
   "dark-navy":        { cover: "cover-dark-navy",       body: "body-dark-navy",       cta: "cta-dark-navy" },
   "cream-gold":       { cover: "cover-cream-gold",      body: "body-cream-gold",      cta: "cta-cream-gold" },
+  "claude-target":    { cover: "cover-claude-target",   body: "body-claude-target",   cta: "cta-claude-target" },
+  "black-mindmap":    { cover: "cover-black-mindmap",   body: "body-black-mindmap",   cta: "cta-black-mindmap" },
+  "grid-italic":      { cover: "cover-grid-italic",     body: "body-grid-italic",     cta: "cta-grid-italic" },
+  "second-brain":     { cover: "cover-second-brain",    body: "body-second-brain",    cta: "cta-second-brain" },
+  "mono-pattern":     { cover: "cover-mono-pattern",    body: "body-mono-pattern",    cta: "cta-mono-pattern" },
+  "rounded-card":     { cover: "cover-rounded-card",    body: "body-rounded-card",    cta: "cta-rounded-card" },
 };
 
 // CTA slot conventions, shared by all families:
@@ -148,6 +154,36 @@ CTA   cta-dark-navy: brand, pageOf, terminalTag (5-8 word terminal style, e.g. "
 COVER cover-cream-gold: brand (name in uppercase), issueLabel (e.g. "No. 01" / "A Reflection"), eyebrow (2-4 uppercase spaced words, e.g. "ON MONEY & POWER"), titleLine1 (1-2 words Cormorant bold, e.g. "The"), titleLine2 (1-2 italic words in gold, e.g. "Quiet"), titleLine3 (1-2 words, e.g. "Rules"), subtitle (10-16 word italic sentence), handle, slideCount ("6").
 BODY  body-cream-gold: brand, pageOf ("ii / vii" roman or "2 / 7"), number (roman or numeral "I"-"VI"), numberLabel (1-2 words like "Rule" or "Lesson"), titleMain (2-4 serif words), titleItalic (1-3 italic gold words), body (2-3 sentences ≤45 words, measured literary), handle.
 CTA   cta-cream-gold: brand, pageOf, eyebrow (2-3 uppercase words, e.g. "A FINAL WORD"), headlineMain (2-3 serif words), headlineItalic (1-2 italic gold words), body (1-2 sentences ≤30 words, measured), buttonLabel (2-4 words uppercase like "SAVE THIS POST"), handle.`,
+
+  "claude-target": `Layouts (dark #1a1612 dot-grid + outlined rounded cards + orange #ff5a28 + chunky pixelated brick wordmark center + radial clock target — Claude-Code agent/sales founder ref: 300k_Sales_team):
+COVER cover-claude-target: topLine1 (1-3 words white, e.g. "I replaced a"), topLine2 (2-4 words orange accent, e.g. "$300K Sales Team"), topLine3 (1-3 words white, e.g. "with Claude Code"), brickLine1 (1 ALL CAPS chunky word like "CLAUDE"), brickLine2 (1 ALL CAPS chunky word like "CODE"), subLine (3-5 white words, e.g. "Here's the"), subAccent (1-2 orange words, e.g. "exact system,"), subTail (2-3 white words, e.g. "step by step"), note (3-6 words italic, e.g. "free breakdown included").
+BODY  body-claude-target: titleMain (2-4 words, e.g. "Claude builds your"), titleAccent (1-2 orange words like "prospect list"), titleTail (1-3 words, e.g. "for you"), step1Title/step2Title/step3Title (3-7 word sub-step titles), step1Sub/step2Sub/step3Sub (1-sentence tactical descriptions ≤15 words), tool1/tool2/tool3/tool4 (single uppercase tool names like "OPENROUTER" "APOLLO" "HUNTER" "DB"), progressPct (number 14-86 increasing per slide).
+CTA   cta-claude-target: eyebrow (2-3 uppercase words like "READY TO SHIP"), headlineMain (3-5 words), headlineAccent (1-2 orange words), body (1-2 sentences ≤30 words), targetLine1 (1 ALL CAPS short word like "FREE"), targetLine2 (1 ALL CAPS word like "GUIDE"), buttonLine (3-5 words like "Comment 'SHIP' for the guide"), handle ("@handle").`,
+
+  "black-mindmap": `Layouts (pure #000 bg + huge white Inter sans + magenta dashed arrow + colored neon mind-map pills, ref: 4_pillars_agents):
+COVER cover-black-mindmap: handle ("@handle"), pageLabel ("01 / 08"), eyebrow (2-3 uppercase words like "SAVE THIS"), headlineLine1 (1-4 words, e.g. "The 4 Pillars of"), headlineLine2 (1-3 words, e.g. "AI Agents"), swipeNote (3-6 words like "swipe to see all 4").
+BODY  body-black-mindmap: handle, pageLabel, number ("1"-"6"), title (1-2 words, e.g. "Prompt"), pill1 (2-3 words green pill, e.g. "Vague prompts"), pill2 (2-3 words orange pill, e.g. "No constraints"), pill3 (2-3 words purple pill, e.g. "Passive language"), pill4 (1-2 small purple words like "Over-explaining"), pill5 (1-2 small purple words like "No focus").
+CTA   cta-black-mindmap: handle, pageLabel, eyebrow (2-3 magenta uppercase words like "YOUR MOVE"), headlineLine1 (2-4 words), headlineLine2 (2-4 words), body (1-2 sentences ≤30 words), buttonLabel (3-5 words like "Save this post"), closing (3-5 word footer note).`,
+
+  "grid-italic": `Layouts (off-white #f5f5f2 with faint pencil grid + Cormorant Garamond italic display + Claude orange #ff5a28 starburst icon, ref: bad_good_great + claude_folder_structure):
+COVER cover-grid-italic: topic (2-4 words like "Claude Prompts" / "AI Agents"), preLine (3-6 words italic, e.g. "What separates"), word1 (1 ALL CAPS italic word like "BAD"), word2 (1 italic word like "Good"), word3 (1 italic word in orange like "Great"), authorInitials (2 letters), authorName, authorRole (e.g. "AI Engineer"), handle ("@handle").
+BODY  body-grid-italic: number (digit "1"-"6"), preLabel (2-4 italic words like "Tip No."), titleMain (2-4 serif words), titleAccent (1-2 orange italic words), titleUnderline (1-2 underlined italic words), body (2-3 italic-serif sentences ≤40 words), note (1-2 sans sentences ≤25 words pragmatic), authorInitials, authorName, pageOf ("2 / 8" italic).
+CTA   cta-grid-italic: eyebrow (3-6 italic words like "Now the only question is"), headlineMain (2-4 serif words), headlineAccent (1-3 italic orange words), body (1-2 italic sentences ≤30 words), buttonLabel (2-4 words like "Save this post"), authorInitials, authorName, handle.`,
+
+  "second-brain": `Layouts (cream #f3ede0 + connected-node network bg + 3D terracotta folder + JetBrains Mono italic ".sys" header + tan cards with folder icons + bottom box-indicators, ref: second_brain):
+COVER cover-second-brain: filename (UPPERCASE mono italic like "SECOND_BRAIN.sys" or "CLAUDE_STACK.sys"), bigNumber (digit "3" or "5" — number of folders), bigLabel (1-2 word label like "Folders"), folderDesc (3-6 italic words like "raw + wiki + outputs"), headlineMain (2-3 words, e.g. "I Built My"), headlineAccent (1-3 orange underlined words like "Second Brain"), headlineLine2 (3-5 words, e.g. "With 3 Folders"), subLine1 (1 short sentence ≤8 words like "It's not an app. It's not a plugin."), subLine2 (2-4 words, e.g. "It's just"), subAccent (1-2 orange bold words like "3 folders"), subTail (2-4 words, e.g. "on your computer.").
+BODY  body-second-brain: eyebrow (uppercase mono label like "STEP" or "SYSTEM"), number ("01"-"06"), title (2-4 words like "Three Folders"), terminalPath (e.g. "~/my-second-brain"), term1Cmd/term2Cmd/term3Cmd (each "mkdir" or similar), term1Arg/term2Arg/term3Arg (folder names like "raw/" "wiki/" "outputs/"), quote (5-9 italic words like "That's the entire architecture."), card1Key/card2Key/card3Key (1-word keys like "raw/" "wiki/" "outputs/"), card1Desc/card2Desc/card3Desc (1-sentence descriptions ≤12 words), nextNote (3-7 words next-slide tease).
+CTA   cta-second-brain: filename, eyebrow (uppercase mono 2-3 words like "YOUR TURN"), headlineMain (2-3 words), headlineAccent (1-3 orange underlined words), body (1-2 sentences ≤30 words), buttonLabel (3-5 words like "Save this post"), handle.`,
+
+  "mono-pattern": `Layouts (off-white #f5f0e8 + IBM Plex Mono huge uppercase display + orange #c4541f accent + black pattern-pill + dark callout cards + page numbers, ref: multi_agent_patterns):
+COVER cover-mono-pattern: pageOf ("01 / 10"), handle (e.g. "techwith.ram"), patternLabel (e.g. "PATTERN 01" / "INTRO"), word1 (1 ALL CAPS mono word like "THE"), word2 (1-2 ALL CAPS orange mono word like "SHARED"), word3 (1-2 ALL CAPS mono words like "MEMORY"), body (1-3 mono sentences ≤45 words technical), ctaText (3-5 mono words like "Swipe to Read More"), rightNote (2-4 mono words like "8 patterns inside"), footerLeft (short mono note like "carousel · 01"), footerRight (mono URL or @handle).
+BODY  body-mono-pattern: pageOf ("02 / 10"), handle, patternLabel (e.g. "PATTERN 01"), titleWord1 (1 ALL CAPS mono word like "THE"), titleWord2 (1-3 ALL CAPS orange mono words like "FEEDBACK LOOP"), body (1-2 mono sentences ≤40 words), flow1/flow2/flow3 (3 short mono flow steps, e.g. "User Goal" / "Generator Agent — produces draft" / "Critic Agent — scores quality"), card1Key (uppercase mono label "BEST FOR"), card1Body (1-2 mono sentences ≤25 words), card2Key (uppercase mono label "KEY INSIGHT"), card2Body (1-2 mono sentences ≤25 words), footerLeft, footerRight.
+CTA   cta-mono-pattern: pageOf ("10 / 10"), handle, patternLabel (e.g. "WRAP" / "OVER TO YOU"), word1 (1 ALL CAPS mono word like "PICK"), word2 (1-2 ALL CAPS orange mono words like "ONE PATTERN"), body (1-2 mono sentences ≤30 words), quote (5-9 word mono insight overlaid on dark card), buttonLabel (3-5 words like "Save this post"), rightNote (2-4 words), footerLeft, footerRight.`,
+
+  "rounded-card": `Layouts (pure #000 bg + giant outlined rounded card 36px-radius + orange #ff7a3f page badge + Inter sans 800 + circular icon bubbles, ref: how to grow like a 20-person team + 4_pillars_agents):
+COVER cover-rounded-card: pageBadge (e.g. "01" or "01 of 10"), headlineLine1 (2-4 words, e.g. "How to grow"), headlineLine2 (3-5 orange words, e.g. "like a 20-person team"), body (1-2 sentences ≤22 words sets context), bodyAccent (3-6 orange words, e.g. "without a 20-person budget.").
+BODY  body-rounded-card: pageBadge (e.g. "02"), handle ("@handle"), number ("01"-"08"), title (2-4 words), titleAccent (1-3 orange words like "the distribution"), body (2-3 sentences ≤40 words concrete), ico1/ico2/ico3/ico4 (single-char glyphs or emoji for the 4 icon bubbles, e.g. "📷" / "▶" / "♪" / "in" — use platform-appropriate glyphs), nextNote (3-6 words orange teaser), pageOf ("02 / 10").
+CTA   cta-rounded-card: pageBadge ("10"), handle, eyebrow (2-3 uppercase orange spaced words like "YOUR TURN"), headlineLine1 (2-4 words), headlineLine2 (2-4 orange words), body (1-2 sentences ≤30 words), buttonLabel (3-5 words), secondaryLabel (2-4 words ghost like "Follow @handle"), footerLeft, footerRight (short text).`,
 };
 
 const PROMPT_TEMPLATE = (brief, family) => `You are a carousel planner.
@@ -336,6 +372,48 @@ const BRIEFS = [
   { id: "long-game",                family: "cream-gold", text: "The long game: 6 compounding habits that separate 20-year careers from 2-year sprints." },
   { id: "legacy-thinking",          family: "cream-gold", text: "Legacy over virality — 5 things founders get wrong about building something lasting." },
   { id: "money-and-meaning",        family: "cream-gold", text: "How the wealthiest people I know think about money, meaning, and enough — 6 lessons." },
+
+  // claude-target (Claude Code agent / sales / founder ref: 300k_Sales_team)
+  { id: "claude-replaces-sales",    family: "claude-target", text: "I replaced a $300K Sales Team with Claude Code — here's the exact stack." },
+  { id: "claude-replaces-cs",       family: "claude-target", text: "I replaced our $120K customer-support tier with 3 Claude agents — full breakdown." },
+  { id: "claude-replaces-recruiter",family: "claude-target", text: "How I built a $90K recruiter with Claude Code in a weekend. ICP → outreach → loop." },
+  { id: "claude-replaces-bizdev",   family: "claude-target", text: "Killing my $5K/mo agency retainer with a Claude Code BD agent. 3 tools, one prompt." },
+  { id: "claude-replaces-research", family: "claude-target", text: "I built a Claude Code research analyst that beat my $8K/mo consultant. Here's how." },
+
+  // black-mindmap (mind-map carousel ref: 4_pillars_agents)
+  { id: "4-pillars-prompts",        family: "black-mindmap", text: "The 4 pillars of a great prompt — what kills outputs vs what makes them sing." },
+  { id: "4-pillars-agents",         family: "black-mindmap", text: "The 4 pillars of production-ready AI agents (prompt, tools, memory, eval)." },
+  { id: "4-pillars-rag",            family: "black-mindmap", text: "The 4 pillars of a RAG system that doesn't hallucinate. Chunking → retrieval → rerank → cite." },
+  { id: "4-pillars-evals",          family: "black-mindmap", text: "The 4 pillars of AI evals every shipping team needs — tests, traces, scorers, drift." },
+  { id: "4-pillars-context",        family: "black-mindmap", text: "The 4 pillars of context engineering — what you load, when, in what order, and why." },
+
+  // grid-italic (light grid + serif italic + claude starburst ref: bad_good_great + claude_folder_structure)
+  { id: "bad-good-great-prompts",   family: "grid-italic", text: "Bad vs Good vs Great prompts — what changes as you climb each tier." },
+  { id: "bad-good-great-agents",    family: "grid-italic", text: "Bad vs Good vs Great agents — observability, evals, fallbacks compared side by side." },
+  { id: "bad-good-great-pricing",   family: "grid-italic", text: "Bad vs Good vs Great pricing — 6 patterns that separate $99 from $9,900 offers." },
+  { id: "bad-good-great-hooks",     family: "grid-italic", text: "Bad vs Good vs Great hooks — the 6 patterns top creators use to stop the scroll." },
+  { id: "bad-good-great-cold-emails",family: "grid-italic", text: "Bad vs Good vs Great cold emails — same intent, three radically different replies." },
+
+  // second-brain (cream + connected nodes + folder graphic ref: second_brain)
+  { id: "second-brain-3-folders",   family: "second-brain", text: "I built my Second Brain with 3 folders. It's not an app. It's just folders." },
+  { id: "claude-stack-folders",     family: "second-brain", text: "The Claude Code folder structure that runs my whole business — agents, hooks, skills." },
+  { id: "research-os-folders",      family: "second-brain", text: "My research OS: raw + wiki + outputs. How I turn 100 inputs into one good idea/week." },
+  { id: "writing-os-folders",       family: "second-brain", text: "The writing OS that ships me a newsletter every Friday — 3 folders, one Claude command." },
+  { id: "pkm-without-apps",         family: "second-brain", text: "PKM without apps: 3 folders, 2 commands, and a Claude skill that does the rest." },
+
+  // mono-pattern (mono caps + orange + black callout ref: multi_agent_patterns)
+  { id: "multi-agent-patterns",     family: "mono-pattern", text: "The 8 multi-agent patterns every AI builder needs — supervisor, swarm, feedback loop, more." },
+  { id: "agent-failure-modes",      family: "mono-pattern", text: "The 7 failure modes of AI agents in production — and the playbook to detect each one." },
+  { id: "claude-code-patterns",     family: "mono-pattern", text: "8 Claude Code patterns that separate hobbyists from operators — concrete examples each." },
+  { id: "eval-patterns",            family: "mono-pattern", text: "The 6 eval patterns that catch AI regressions before customers do — with thresholds." },
+  { id: "memory-patterns",          family: "mono-pattern", text: "The 5 memory patterns for AI agents — when to use vector, kv, episodic, or none at all." },
+
+  // rounded-card (black outlined card + orange badge ref: how to grow like a 20-person team)
+  { id: "grow-like-20-person-team", family: "rounded-card", text: "How to grow like a 20-person team — 10 systems that make 1 founder feel like 20." },
+  { id: "distribution-stack",       family: "rounded-card", text: "The distribution stack that takes one essay and ships it to Instagram, YouTube, TikTok, LinkedIn." },
+  { id: "ship-like-meta",           family: "rounded-card", text: "How a solo founder ships like a Meta team — 8 internal tools every operator should clone." },
+  { id: "one-person-newsletter",    family: "rounded-card", text: "The one-person newsletter stack pulling $40K/mo. 8 tools, 4 channels, zero employees." },
+  { id: "founder-distribution",     family: "rounded-card", text: "Founder distribution: how I turn 1 carousel into 12 assets across 4 platforms — automated." },
 ];
 
 // ─── Kimi planner with retry on JSON parse failure ─────────────────────────

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+  *{margin:0;padding:0;box-sizing:border-box;}
+  html,body{width:1080px;height:1350px;overflow:hidden;background:#000;font-family:"Inter",sans-serif;color:#fff;-webkit-font-smoothing:antialiased;}
+  .center{position:absolute;top:50%;left:60px;right:60px;transform:translateY(-50%);text-align:center;}
+  .eyebrow{font-size:24px;font-weight:600;letter-spacing:0.18em;color:rgba(255,255,255,0.4);margin-bottom:48px;text-transform:uppercase;}
+  .headline{font-size:120px;font-weight:800;line-height:0.95;letter-spacing:-3px;margin-bottom:40px;}
+  .arrow{display:flex;align-items:center;justify-content:center;gap:0;margin-top:14px;}
+  .dash{width:36px;height:6px;background:#ff00d6;margin-right:8px;border-radius:1px;box-shadow:0 0 18px rgba(255,0,214,0.6);}
+  .arrow-head{font-size:48px;font-weight:800;color:#ff00d6;line-height:1;margin-left:-6px;}
+  .handle{position:absolute;top:60px;left:60px;font-size:22px;font-weight:600;color:rgba(255,255,255,0.35);}
+  .page{position:absolute;top:60px;right:60px;font-size:22px;font-weight:600;color:rgba(255,255,255,0.35);}
+  .swipe-note{position:absolute;bottom:60px;left:0;right:0;text-align:center;font-size:22px;color:rgba(255,255,255,0.4);}
+</style></head>
+<body>
+  <div class="handle">{{handle}}</div>
+  <div class="page">{{pageLabel}}</div>
+  <div class="center">
+    <div class="eyebrow">{{eyebrow}}</div>
+    <div class="headline">{{headlineLine1}}<br>{{headlineLine2}}</div>
+    <div class="arrow"><div class="dash"></div><div class="dash"></div><div class="dash"></div><div class="dash"></div><div class="arrow-head">▶</div></div>
+  </div>
+  <div class="swipe-note">{{swipeNote}}</div>
+</body></html>

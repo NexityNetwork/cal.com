@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,700;1,400;1,700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  *{margin:0;padding:0;box-sizing:border-box;}
+  html,body{width:1080px;height:1350px;overflow:hidden;background:#f5f5f2;font-family:"Inter",sans-serif;color:#0e0e0e;-webkit-font-smoothing:antialiased;}
+  .grid{position:absolute;inset:0;background-image:linear-gradient(rgba(0,0,0,0.05) 1px,transparent 1px),linear-gradient(90deg,rgba(0,0,0,0.05) 1px,transparent 1px);background-size:135px 168px;}
+  .starburst{position:absolute;top:80px;left:50%;transform:translateX(-50%);width:80px;height:80px;background:#ff5a28;border-radius:18px;box-shadow:0 0 60px rgba(255,90,40,0.6);}
+  .center{position:absolute;top:50%;left:84px;right:84px;transform:translateY(-50%);text-align:center;}
+  .eyebrow{font-family:"Cormorant Garamond",serif;font-style:italic;font-size:46px;color:rgba(0,0,0,0.55);margin-bottom:36px;}
+  .headline{font-family:"Cormorant Garamond",serif;font-size:148px;font-weight:700;line-height:0.95;letter-spacing:-3px;color:#0e0e0e;margin-bottom:24px;}
+  .headline .em{color:#ff5a28;font-style:italic;}
+  .underline{display:inline-block;background:#ff5a28;height:5px;width:280px;border-radius:2px;margin:14px auto 40px;}
+  .body{font-family:"Cormorant Garamond",serif;font-style:italic;font-size:38px;line-height:1.4;color:rgba(0,0,0,0.7);max-width:780px;margin:0 auto 56px;}
+  .btn{display:inline-block;padding:22px 50px;background:#ff5a28;color:#fff;border-radius:50px;font-size:26px;font-weight:700;letter-spacing:-0.2px;}
+  .author{position:absolute;bottom:80px;left:84px;display:flex;align-items:center;gap:16px;}
+  .ava{width:54px;height:54px;border-radius:50%;background:#ff5a28;display:flex;align-items:center;justify-content:center;font-size:20px;font-weight:700;color:#fff;}
+  .name{font-family:"Cormorant Garamond",serif;font-size:26px;color:#0e0e0e;}
+  .handle{position:absolute;bottom:80px;right:84px;font-family:"Cormorant Garamond",serif;font-style:italic;font-size:26px;color:rgba(0,0,0,0.55);}
+</style></head>
+<body>
+  <div class="grid"></div>
+  <div class="starburst"></div>
+  <div class="center">
+    <div class="eyebrow">{{eyebrow}}</div>
+    <div class="headline">{{headlineMain}}<br><span class="em">{{headlineAccent}}</span></div>
+    <div class="underline"></div>
+    <div class="body">{{body}}</div>
+    <div class="btn">{{buttonLabel}} →</div>
+  </div>
+  <div class="author"><div class="ava">{{authorInitials}}</div><div class="name">{{authorName}}</div></div>
+  <div class="handle">{{handle}}</div>
+</body></html>

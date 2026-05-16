@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=JetBrains+Mono:ital,wght@1,500;1,700&display=swap" rel="stylesheet">
+<style>
+  *{margin:0;padding:0;box-sizing:border-box;}
+  html,body{width:1080px;height:1350px;overflow:hidden;background:#f3ede0;font-family:"Inter",sans-serif;color:#1f1810;-webkit-font-smoothing:antialiased;}
+  .network{position:absolute;inset:0;}
+  .node{position:absolute;width:10px;height:10px;background:rgba(196,84,31,0.35);border-radius:50%;}
+  .line{position:absolute;height:1px;background:rgba(196,84,31,0.18);transform-origin:left center;}
+  .winframe{position:absolute;top:80px;right:84px;display:flex;gap:6px;}
+  .winframe div{width:34px;height:24px;border:1.5px solid #1f1810;display:flex;align-items:center;justify-content:center;font-size:13px;font-weight:700;background:rgba(255,255,255,0.5);}
+  .filename{position:absolute;top:90px;left:0;right:0;text-align:center;font-family:"JetBrains Mono",monospace;font-style:italic;font-size:38px;font-weight:700;color:#1f1810;}
+  .folder{position:absolute;top:200px;left:50%;transform:translateX(-50%);width:560px;height:430px;}
+  .folder-tab{position:absolute;top:0;left:50px;width:200px;height:50px;background:#e3a87a;border-radius:8px 8px 0 0;}
+  .folder-tab-2{position:absolute;top:0;left:140px;width:200px;height:42px;background:#d68f5e;border-radius:8px 8px 0 0;}
+  .folder-body{position:absolute;top:36px;left:0;right:0;bottom:0;background:#c4541f;border-radius:14px;display:flex;flex-direction:column;align-items:center;justify-content:center;color:#fff;}
+  .folder-body .big{font-size:104px;font-weight:800;line-height:1;}
+  .folder-body .lbl{font-size:36px;font-weight:700;margin-top:4px;}
+  .folder-body .divider{width:120px;height:2px;background:rgba(255,255,255,0.55);margin:18px auto;}
+  .folder-body .desc{font-size:24px;font-style:italic;font-weight:500;}
+  .cursor{position:absolute;bottom:30px;right:60px;font-size:50px;color:#1f1810;}
+  .headline{position:absolute;top:680px;left:84px;right:84px;text-align:center;font-size:68px;font-weight:800;line-height:1.1;letter-spacing:-1.5px;color:#1f1810;}
+  .headline .em{color:#c4541f;text-decoration:underline;text-underline-offset:8px;text-decoration-thickness:4px;}
+  .sub{position:absolute;top:920px;left:84px;right:84px;text-align:center;font-size:30px;font-weight:500;line-height:1.4;color:rgba(31,24,16,0.7);}
+  .sub .em{color:#c4541f;font-weight:700;}
+  .indicators{position:absolute;bottom:80px;left:0;right:0;display:flex;justify-content:center;gap:10px;}
+  .ind{width:24px;height:24px;border:1.5px solid #c4541f;border-radius:4px;}
+  .ind.active{background:#c4541f;}
+</style></head>
+<body>
+  <div class="network">
+    <div class="node" style="top:12%;left:10%"></div><div class="node" style="top:8%;left:38%"></div><div class="node" style="top:18%;left:72%"></div>
+    <div class="node" style="top:36%;left:5%"></div><div class="node" style="top:30%;left:92%"></div><div class="node" style="top:54%;left:8%"></div>
+    <div class="node" style="top:62%;left:88%"></div><div class="node" style="top:78%;left:18%"></div><div class="node" style="top:82%;left:60%"></div>
+    <div class="node" style="top:88%;left:90%"></div>
+    <div class="line" style="top:14%;left:12%;width:280px;transform:rotate(-4deg);"></div>
+    <div class="line" style="top:20%;left:40%;width:340px;transform:rotate(5deg);"></div>
+    <div class="line" style="top:38%;left:7%;width:240px;transform:rotate(-30deg);"></div>
+    <div class="line" style="top:56%;left:10%;width:280px;transform:rotate(15deg);"></div>
+    <div class="line" style="top:64%;left:90%;width:260px;transform:rotate(-160deg);"></div>
+    <div class="line" style="top:80%;left:22%;width:380px;transform:rotate(-6deg);"></div>
+  </div>
+  <div class="winframe"><div>_</div><div>□</div><div>×</div></div>
+  <div class="filename">{{filename}}</div>
+  <div class="folder">
+    <div class="folder-tab"></div>
+    <div class="folder-tab-2"></div>
+    <div class="folder-body">
+      <div class="big">{{bigNumber}}</div>
+      <div class="lbl">{{bigLabel}}</div>
+      <div class="divider"></div>
+      <div class="desc">{{folderDesc}}</div>
+      <div class="cursor">▸</div>
+    </div>
+  </div>
+  <div class="headline">{{headlineMain}} <span class="em">{{headlineAccent}}</span><br>{{headlineLine2}}</div>
+  <div class="sub">{{subLine1}}<br>{{subLine2}} <span class="em">{{subAccent}}</span> {{subTail}}</div>
+  <div class="indicators"><div class="ind active"></div><div class="ind"></div><div class="ind"></div><div class="ind"></div><div class="ind"></div><div class="ind"></div><div class="ind"></div><div class="ind"></div></div>
+</body></html>

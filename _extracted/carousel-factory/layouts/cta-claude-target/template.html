@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+  *{margin:0;padding:0;box-sizing:border-box;}
+  html,body{width:1080px;height:1350px;overflow:hidden;background:#1a1612;font-family:"Inter",sans-serif;color:#f5ede2;-webkit-font-smoothing:antialiased;}
+  .dot-grid{position:absolute;inset:0;background-image:radial-gradient(rgba(255,255,255,0.06) 1px,transparent 1px);background-size:24px 24px;}
+  .card{position:absolute;left:54px;right:54px;border:1px solid rgba(255,90,40,0.18);border-radius:30px;}
+  .top{top:62px;padding:60px 70px;text-align:center;}
+  .top .eyebrow{font-size:22px;font-weight:700;letter-spacing:0.2em;color:#ff5a28;margin-bottom:24px;text-transform:uppercase;}
+  .top .head{font-size:68px;font-weight:800;line-height:1.05;letter-spacing:-1.5px;color:#f5ede2;margin-bottom:24px;}
+  .top .head .em{color:#ff5a28;}
+  .top .body{font-size:24px;font-weight:400;line-height:1.5;color:rgba(245,237,226,0.7);max-width:760px;margin:0 auto;}
+  .target{position:absolute;top:50%;left:50%;transform:translate(-50%,-45%);width:380px;height:380px;border:1px solid rgba(255,90,40,0.18);border-radius:50%;display:flex;align-items:center;justify-content:center;}
+  .target::after{content:"";position:absolute;width:260px;height:260px;border:1px solid rgba(255,90,40,0.25);border-radius:50%;}
+  .target-text{position:relative;z-index:2;text-align:center;font-size:46px;font-weight:900;color:#ff5a28;letter-spacing:1px;line-height:1.05;}
+  .bot{bottom:62px;padding:52px 70px;text-align:center;background:#ff5a28;color:#1a1612;border-color:#ff5a28;}
+  .bot .button-line{font-size:36px;font-weight:800;letter-spacing:-0.5px;}
+  .bot .sub-line{font-size:22px;font-weight:500;margin-top:10px;opacity:0.75;}
+  .progress{position:absolute;bottom:0;left:0;height:8px;background:#ff5a28;width:100%;}
+</style></head>
+<body>
+  <div class="dot-grid"></div>
+  <div class="card top">
+    <div class="eyebrow">{{eyebrow}}</div>
+    <div class="head">{{headlineMain}} <span class="em">{{headlineAccent}}</span></div>
+    <div class="body">{{body}}</div>
+  </div>
+  <div class="target"><div class="target-text">{{targetLine1}}<br>{{targetLine2}}</div></div>
+  <div class="card bot">
+    <div class="button-line">{{buttonLine}} →</div>
+    <div class="sub-line">{{handle}}</div>
+  </div>
+  <div class="progress"></div>
+</body></html>

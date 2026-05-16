@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+  *{margin:0;padding:0;box-sizing:border-box;}
+  html,body{width:1080px;height:1350px;overflow:hidden;background:#000;font-family:"Inter",sans-serif;color:#fff;-webkit-font-smoothing:antialiased;}
+  .card{position:absolute;top:48px;left:48px;right:48px;bottom:48px;border:1.5px solid rgba(255,255,255,0.12);border-radius:36px;padding:54px;display:flex;flex-direction:column;}
+  .top-row{display:flex;justify-content:space-between;align-items:center;}
+  .page-badge{padding:6px 18px;background:rgba(196,84,31,0.18);border:1px solid rgba(196,84,31,0.6);color:#ff7a3f;border-radius:8px;font-size:20px;font-weight:700;}
+  .handle{font-size:18px;font-weight:500;color:rgba(255,255,255,0.4);}
+  .title{margin-top:64px;font-size:72px;font-weight:800;line-height:1.05;letter-spacing:-2px;}
+  .title .em{color:#ff7a3f;}
+  .body{margin-top:32px;font-size:32px;font-weight:500;line-height:1.45;color:rgba(255,255,255,0.7);max-width:880px;}
+  .icons-row{margin-top:60px;flex:1;display:flex;align-items:center;justify-content:flex-start;gap:60px;flex-wrap:wrap;}
+  .icon-bubble{width:140px;height:140px;border:1.5px solid rgba(255,255,255,0.18);border-radius:50%;display:flex;align-items:center;justify-content:center;background:rgba(255,255,255,0.02);}
+  .icon-img{width:84px;height:84px;border-radius:20px;display:flex;align-items:center;justify-content:center;font-size:36px;font-weight:800;color:#fff;}
+  .ico-1{background:linear-gradient(135deg,#fbbf24,#ec4899 50%,#8b5cf6);}
+  .ico-2{background:#ff0000;}
+  .ico-3{background:#000;border:1px solid #fff;}
+  .ico-4{background:#0a66c2;}
+  .bottom-row{display:flex;justify-content:space-between;align-items:center;}
+  .note{font-size:22px;font-weight:600;color:#ff7a3f;}
+  .pageOf{font-size:20px;font-weight:500;color:rgba(255,255,255,0.3);}
+</style></head>
+<body>
+  <div class="card">
+    <div class="top-row">
+      <div class="page-badge">{{pageBadge}}</div>
+      <div class="handle">{{handle}}</div>
+    </div>
+    <div class="title">{{number}}. {{title}} <span class="em">{{titleAccent}}</span></div>
+    <div class="body">{{body}}</div>
+    <div class="icons-row">
+      <div class="icon-bubble"><div class="icon-img ico-1">{{ico1}}</div></div>
+      <div class="icon-bubble"><div class="icon-img ico-2">{{ico2}}</div></div>
+      <div class="icon-bubble"><div class="icon-img ico-3">{{ico3}}</div></div>
+      <div class="icon-bubble"><div class="icon-img ico-4">{{ico4}}</div></div>
+    </div>
+    <div class="bottom-row">
+      <div class="note">{{nextNote}} →</div>
+      <div class="pageOf">{{pageOf}}</div>
+    </div>
+  </div>
+</body></html>

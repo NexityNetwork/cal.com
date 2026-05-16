@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+  *{margin:0;padding:0;box-sizing:border-box;}
+  html,body{width:1080px;height:1350px;overflow:hidden;background:#1a1612;font-family:"Inter",sans-serif;color:#f5ede2;-webkit-font-smoothing:antialiased;}
+  .dot-grid{position:absolute;inset:0;background-image:radial-gradient(rgba(255,255,255,0.06) 1px,transparent 1px);background-size:24px 24px;}
+  .header-card{position:absolute;top:60px;left:54px;right:54px;border:1px solid rgba(255,90,40,0.18);border-radius:30px;padding:48px 70px;text-align:center;}
+  .header-card .title{font-size:58px;font-weight:800;line-height:1.1;letter-spacing:-1px;color:#f5ede2;}
+  .header-card .accent{color:#ff5a28;}
+  .steps{position:absolute;top:340px;left:54px;right:54px;display:flex;flex-direction:column;gap:24px;}
+  .step{border:1px solid rgba(255,90,40,0.18);border-radius:26px;padding:36px 60px;text-align:center;}
+  .step .num{width:46px;height:46px;border-radius:50%;border:1px solid rgba(255,90,40,0.4);color:#ff5a28;font-size:22px;font-weight:700;display:flex;align-items:center;justify-content:center;margin:0 auto 18px;}
+  .step .step-title{font-size:30px;font-weight:700;color:#f5ede2;margin-bottom:8px;}
+  .step .step-sub{font-size:22px;font-weight:400;color:rgba(245,237,226,0.55);line-height:1.4;}
+  .tools{position:absolute;bottom:80px;left:0;right:0;display:flex;justify-content:center;gap:14px;flex-wrap:wrap;padding:0 54px;}
+  .tool-pill{padding:12px 22px;border:1px solid #ff5a28;border-radius:22px;color:#ff5a28;font-size:18px;font-weight:700;letter-spacing:0.06em;}
+  .progress{position:absolute;bottom:0;left:0;height:8px;background:#ff5a28;}
+</style></head>
+<body>
+  <div class="dot-grid"></div>
+  <div class="header-card"><div class="title">{{titleMain}} <span class="accent">{{titleAccent}}</span> {{titleTail}}</div></div>
+  <div class="steps">
+    <div class="step"><div class="num">1</div><div class="step-title">{{step1Title}}</div><div class="step-sub">{{step1Sub}}</div></div>
+    <div class="step"><div class="num">2</div><div class="step-title">{{step2Title}}</div><div class="step-sub">{{step2Sub}}</div></div>
+    <div class="step"><div class="num">3</div><div class="step-title">{{step3Title}}</div><div class="step-sub">{{step3Sub}}</div></div>
+  </div>
+  <div class="tools"><div class="tool-pill">{{tool1}}</div><div class="tool-pill">{{tool2}}</div><div class="tool-pill">{{tool3}}</div><div class="tool-pill">{{tool4}}</div></div>
+  <div class="progress" style="width:{{progressPct}}%"></div>
+</body></html>

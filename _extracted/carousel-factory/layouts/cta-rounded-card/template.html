@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+  *{margin:0;padding:0;box-sizing:border-box;}
+  html,body{width:1080px;height:1350px;overflow:hidden;background:#000;font-family:"Inter",sans-serif;color:#fff;-webkit-font-smoothing:antialiased;}
+  .card{position:absolute;top:48px;left:48px;right:48px;bottom:48px;border:1.5px solid rgba(255,255,255,0.12);border-radius:36px;padding:54px;display:flex;flex-direction:column;}
+  .top-row{display:flex;justify-content:space-between;align-items:center;}
+  .page-badge{padding:6px 18px;background:rgba(196,84,31,0.18);border:1px solid rgba(196,84,31,0.6);color:#ff7a3f;border-radius:8px;font-size:20px;font-weight:700;}
+  .handle{font-size:18px;font-weight:500;color:rgba(255,255,255,0.4);}
+  .center{flex:1;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;}
+  .eyebrow{font-size:24px;font-weight:700;letter-spacing:0.2em;color:#ff7a3f;margin-bottom:36px;text-transform:uppercase;}
+  .headline{font-size:104px;font-weight:800;line-height:0.98;letter-spacing:-3px;margin-bottom:36px;}
+  .headline .em{color:#ff7a3f;}
+  .body{font-size:28px;font-weight:500;line-height:1.5;color:rgba(255,255,255,0.7);max-width:760px;margin-bottom:48px;}
+  .btn-row{display:flex;align-items:center;gap:24px;}
+  .btn{display:inline-block;padding:22px 50px;background:#ff7a3f;color:#000;border-radius:50px;font-size:26px;font-weight:800;letter-spacing:-0.3px;}
+  .btn-ghost{padding:22px 36px;border:1.5px solid rgba(255,255,255,0.2);color:rgba(255,255,255,0.65);border-radius:50px;font-size:22px;font-weight:600;}
+  .bottom-row{display:flex;justify-content:space-between;align-items:center;}
+  .note{font-size:22px;color:rgba(255,255,255,0.4);}
+</style></head>
+<body>
+  <div class="card">
+    <div class="top-row">
+      <div class="page-badge">{{pageBadge}}</div>
+      <div class="handle">{{handle}}</div>
+    </div>
+    <div class="center">
+      <div class="eyebrow">{{eyebrow}}</div>
+      <div class="headline">{{headlineLine1}}<br><span class="em">{{headlineLine2}}</span></div>
+      <div class="body">{{body}}</div>
+      <div class="btn-row">
+        <div class="btn">{{buttonLabel}} →</div>
+        <div class="btn-ghost">{{secondaryLabel}}</div>
+      </div>
+    </div>
+    <div class="bottom-row">
+      <div class="note">{{footerLeft}}</div>
+      <div class="note">{{footerRight}}</div>
+    </div>
+  </div>
+</body></html>

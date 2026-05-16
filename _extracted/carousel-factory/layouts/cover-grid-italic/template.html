@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,700;1,400;1,700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  *{margin:0;padding:0;box-sizing:border-box;}
+  html,body{width:1080px;height:1350px;overflow:hidden;background:#f5f5f2;font-family:"Inter",sans-serif;color:#0e0e0e;-webkit-font-smoothing:antialiased;}
+  .grid{position:absolute;inset:0;background-image:linear-gradient(rgba(0,0,0,0.05) 1px,transparent 1px),linear-gradient(90deg,rgba(0,0,0,0.05) 1px,transparent 1px);background-size:135px 168px;}
+  .pill-row{position:absolute;top:90px;left:84px;display:flex;align-items:center;gap:24px;}
+  .starburst{width:78px;height:78px;background:#ff5a28;border-radius:18px;display:flex;align-items:center;justify-content:center;box-shadow:0 0 60px rgba(255,90,40,0.55);position:relative;}
+  .starburst::before{content:"";position:absolute;width:46px;height:46px;background:conic-gradient(from 0deg,#fff 0deg 18deg,transparent 18deg 30deg,#fff 30deg 48deg,transparent 48deg 60deg,#fff 60deg 78deg,transparent 78deg 90deg,#fff 90deg 108deg,transparent 108deg 120deg,#fff 120deg 138deg,transparent 138deg 150deg,#fff 150deg 168deg,transparent 168deg 180deg,#fff 180deg 198deg,transparent 198deg 210deg,#fff 210deg 228deg,transparent 228deg 240deg,#fff 240deg 258deg,transparent 258deg 270deg,#fff 270deg 288deg,transparent 288deg 300deg,#fff 300deg 318deg,transparent 318deg 330deg,#fff 330deg 348deg,transparent 348deg 360deg);clip-path:polygon(50% 0,52% 30%,80% 5%,57% 40%,100% 30%,60% 50%,100% 70%,57% 60%,80% 95%,52% 70%,50% 100%,48% 70%,20% 95%,43% 60%,0 70%,40% 50%,0 30%,43% 40%,20% 5%,48% 30%);}
+  .pill-label{font-family:"Cormorant Garamond",serif;font-size:48px;font-weight:700;color:#0e0e0e;}
+  .pre{position:absolute;top:240px;left:84px;right:84px;font-family:"Cormorant Garamond",serif;font-style:italic;font-size:46px;color:rgba(0,0,0,0.55);}
+  .title{position:absolute;top:320px;left:84px;right:84px;font-family:"Cormorant Garamond",serif;font-size:200px;font-weight:700;line-height:0.95;color:#0e0e0e;letter-spacing:-3px;font-style:italic;}
+  .title .reg{font-style:italic;}
+  .underline{position:absolute;left:84px;width:380px;height:6px;background:#ff5a28;border-radius:2px;}
+  .u1{top:540px;}
+  .u2{top:760px;width:280px;}
+  .vs{position:absolute;left:84px;font-family:"Cormorant Garamond",serif;font-style:italic;font-size:54px;color:#0e0e0e;}
+  .vs1{top:560px;}
+  .vs2{top:790px;}
+  .author{position:absolute;bottom:90px;left:84px;display:flex;align-items:center;gap:20px;}
+  .ava{width:60px;height:60px;border-radius:50%;background:#ff5a28;display:flex;align-items:center;justify-content:center;font-size:22px;font-weight:700;color:#fff;}
+  .author-text .name{font-family:"Cormorant Garamond",serif;font-size:30px;color:#0e0e0e;}
+  .author-text .role{font-size:18px;font-weight:500;color:rgba(0,0,0,0.5);}
+  .handle{position:absolute;bottom:90px;right:84px;font-family:"Cormorant Garamond",serif;font-style:italic;font-size:26px;color:rgba(0,0,0,0.55);text-align:right;}
+</style></head>
+<body>
+  <div class="grid"></div>
+  <div class="pill-row">
+    <div class="starburst"></div>
+    <div class="pill-label">{{topic}}</div>
+  </div>
+  <div class="pre">{{preLine}}</div>
+  <div class="title">{{word1}}</div>
+  <div class="vs vs1">vs</div>
+  <div style="position:absolute;top:600px;left:84px;right:84px;font-family:'Cormorant Garamond',serif;font-size:200px;font-weight:700;line-height:0.95;color:#0e0e0e;letter-spacing:-3px;font-style:italic;">{{word2}}</div>
+  <div class="vs vs2">vs</div>
+  <div style="position:absolute;top:850px;left:84px;right:84px;font-family:'Cormorant Garamond',serif;font-size:200px;font-weight:700;line-height:0.95;color:#ff5a28;letter-spacing:-3px;font-style:italic;">{{word3}}</div>
+  <div class="author">
+    <div class="ava">{{authorInitials}}</div>
+    <div class="author-text"><div class="name">{{authorName}}</div><div class="role">{{authorRole}}</div></div>
+  </div>
+  <div class="handle">{{handle}}</div>
+</body></html>
