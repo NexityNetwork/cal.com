@@ -1,112 +1,112 @@
 {
   "id": "long-game",
-  "brand": "THE LONG GAME",
+  "brand": "AURELIA",
   "brief": "The long game: 6 compounding habits that separate 20-year careers from 2-year sprints.",
   "theme": "cream-gold",
   "slides": [
     {
       "layoutId": "cover-cream-gold",
       "slots": {
-        "brand": "THE LONG GAME",
+        "brand": "AURELIA",
         "issueLabel": "No. 01",
-        "eyebrow": "ON MONEY & POWER",
+        "eyebrow": "ON CAREER & CRAFT",
         "titleLine1": "The",
-        "titleLine2": "Compound",
-        "titleLine3": "Edge",
-        "subtitle": "Six quiet disciplines that transform short sprint ambition into enduring professional mastery and legacy.",
-        "handle": "@thelonggame",
+        "titleLine2": "Long",
+        "titleLine3": "Game",
+        "subtitle": "Six quiet disciplines that transform short ambition into a legacy of enduring influence and mastery.",
+        "handle": "@aurelia",
         "slideCount": "6"
       }
     },
     {
       "layoutId": "body-cream-gold",
       "slots": {
-        "brand": "THE LONG GAME",
+        "brand": "AURELIA",
         "pageOf": "ii / viii",
         "number": "I",
         "numberLabel": "Habit",
-        "titleMain": "Deep Work",
-        "titleItalic": "Daily",
-        "body": "The world rewards what it cannot replicate. Two hours of uninterrupted focus, sustained across decades, outperforms a decade of scattered hustle.",
-        "handle": "@thelonggame"
+        "titleMain": "The Relentless",
+        "titleItalic": "Routine",
+        "body": "Small actions repeated without spectacle outperform sporadic bursts of genius. The calendar favors those who treat craft as a covenant, not a mood.",
+        "handle": "@aurelia"
       }
     },
     {
       "layoutId": "body-cream-gold",
       "slots": {
-        "brand": "THE LONG GAME",
+        "brand": "AURELIA",
         "pageOf": "iii / viii",
         "number": "II",
         "numberLabel": "Habit",
-        "titleMain": "Strategic",
-        "titleItalic": "Patience",
-        "body": "Great careers are built in years, not quarters. The discipline to delay gratification compounds into authority that no shortcut can manufacture.",
-        "handle": "@thelonggame"
+        "titleMain": "Protect Your",
+        "titleItalic": "Attention",
+        "body": "In an economy of noise, the ability to do deep work is an unspoken luxury. Guard your focus as jealously as a treasury, for it compounds in silence.",
+        "handle": "@aurelia"
       }
     },
     {
       "layoutId": "body-cream-gold",
       "slots": {
-        "brand": "THE LONG GAME",
+        "brand": "AURELIA",
         "pageOf": "iv / viii",
         "number": "III",
         "numberLabel": "Habit",
-        "titleMain": "Relationship",
-        "titleItalic": "Capital",
-        "body": "Trust accrues slowly and erodes instantly. Invest in alliances before you need them; they become your most appreciating asset over time.",
-        "handle": "@thelonggame"
+        "titleMain": "Build True",
+        "titleItalic": "Equity",
+        "body": "Careers are not built on contacts collected, but on trust accumulated over years. Invest in people before you need the return; capital follows character.",
+        "handle": "@aurelia"
       }
     },
     {
       "layoutId": "body-cream-gold",
       "slots": {
-        "brand": "THE LONG GAME",
+        "brand": "AURELIA",
         "pageOf": "v / viii",
         "number": "IV",
         "numberLabel": "Habit",
-        "titleMain": "Deliberate",
-        "titleItalic": "Practice",
-        "body": "Ten years of repetition stagnates; ten years of feedback loops elevate. Seek the uncomfortable margin where skill is forged, not merely maintained.",
-        "handle": "@thelonggame"
+        "titleMain": "Sacred Reputation",
+        "titleItalic": "First",
+        "body": "A reputation is the only asset that appreciates while you sleep and collapses in an afternoon. Treat it as your most illiquid and precious holding.",
+        "handle": "@aurelia"
       }
     },
     {
       "layoutId": "body-cream-gold",
       "slots": {
-        "brand": "THE LONG GAME",
+        "brand": "AURELIA",
         "pageOf": "vi / viii",
         "number": "V",
         "numberLabel": "Habit",
-        "titleMain": "Long-Term",
-        "titleItalic": "Thinking",
-        "body": "Optimize for the decade, not the deadline. Decisions made with a twenty-year horizon align your daily actions with your ultimate legacy.",
-        "handle": "@thelonggame"
+        "titleMain": "Master Strategic",
+        "titleItalic": "Patience",
+        "body": "The market rewards those who can defer gratification longer than their competitors. Time is the final arbitrage; those who wait with intent win.",
+        "handle": "@aurelia"
       }
     },
     {
       "layoutId": "body-cream-gold",
       "slots": {
-        "brand": "THE LONG GAME",
+        "brand": "AURELIA",
         "pageOf": "vii / viii",
         "number": "VI",
         "numberLabel": "Habit",
-        "titleMain": "Resilient",
-        "titleItalic": "Consistency",
-        "body": "The final differentiator is simply staying power. Those who endure the boring middle, when others quit, claim the rewards of compound endurance.",
-        "handle": "@thelonggame"
+        "titleMain": "Never Stop",
+        "titleItalic": "Learning",
+        "body": "Curiosity is the hedge against obsolescence in a world that rewrites its rules overnight. Read widely, think deeply, and remain eternally teachable.",
+        "handle": "@aurelia"
       }
     },
     {
       "layoutId": "cta-cream-gold",
       "slots": {
-        "brand": "THE LONG GAME",
+        "brand": "AURELIA",
         "pageOf": "viii / viii",
-        "eyebrow": "A FINAL WORD",
-        "headlineMain": "Play the",
-        "headlineItalic": "Long Game",
-        "body": "Sprint when you must, but build for decades. The quiet ones outlast the loud.",
+        "eyebrow": "THE LONG GAME",
+        "headlineMain": "Start Your",
+        "headlineItalic": "Legacy",
+        "body": "Mastery is not a milestone. It is a practice. Begin today.",
         "buttonLabel": "SAVE THIS POST",
-        "handle": "@thelonggame"
+        "handle": "@aurelia"
       }
     }
   ]

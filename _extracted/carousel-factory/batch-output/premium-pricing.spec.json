@@ -1,112 +1,112 @@
 {
   "id": "premium-pricing",
-  "brand": "MORGAN VALE",
+  "brand": "ALEXANDER REED",
   "brief": "How I raised my consulting rate to $1,200/hour — 5 mindset shifts that made it possible.",
   "theme": "cream-gold",
   "slides": [
     {
       "layoutId": "cover-cream-gold",
       "slots": {
-        "brand": "MORGAN VALE",
+        "brand": "ALEXANDER REED",
         "issueLabel": "No. 01",
         "eyebrow": "ON PRICING & POWER",
         "titleLine1": "The",
-        "titleLine2": "Quiet",
-        "titleLine3": "Rules",
-        "subtitle": "How I raised my rate to $1,200 an hour by changing nothing but my own mind.",
-        "handle": "@morganvale",
-        "slideCount": "6"
+        "titleLine2": "Five",
+        "titleLine3": "Shifts",
+        "subtitle": "How I raised my rate to $1,200 an hour by changing five beliefs about value.",
+        "handle": "@alexanderreed",
+        "slideCount": "8"
       }
     },
     {
       "layoutId": "body-cream-gold",
       "slots": {
-        "brand": "MORGAN VALE",
-        "pageOf": "ii / viii",
+        "brand": "ALEXANDER REED",
+        "pageOf": "2 / 8",
         "number": "I",
-        "numberLabel": "Before",
-        "titleMain": "The Ceiling",
-        "titleItalic": "Was Internal",
-        "body": "I was billing four hundred dollars and drowning in scope creep. The market was not the constraint; my unwillingness to repel the wrong buyers was. I had mistaken activity for leverage.",
-        "handle": "@morganvale"
+        "numberLabel": "Preface",
+        "titleMain": "The Hourly",
+        "titleItalic": "Trap",
+        "body": "I once believed more hours meant more value. True leverage comes from solving in minutes what others take weeks to untangle.",
+        "handle": "@alexanderreed"
       }
     },
     {
       "layoutId": "body-cream-gold",
       "slots": {
-        "brand": "MORGAN VALE",
-        "pageOf": "iii / viii",
+        "brand": "ALEXANDER REED",
+        "pageOf": "3 / 8",
         "number": "II",
         "numberLabel": "Shift",
         "titleMain": "Price the",
-        "titleItalic": "Transformation",
-        "body": "Clients do not purchase your time; they purchase the future state you architect. When I began quoting the value of the outcome rather than the cost of the clock, everything changed.",
-        "handle": "@morganvale"
+        "titleItalic": "Outcome",
+        "body": "Clients do not pay for your time; they pay for the transformation. When I anchored fees to results, objections became irrelevant.",
+        "handle": "@alexanderreed"
       }
     },
     {
       "layoutId": "body-cream-gold",
       "slots": {
-        "brand": "MORGAN VALE",
-        "pageOf": "iv / viii",
+        "brand": "ALEXANDER REED",
+        "pageOf": "4 / 8",
         "number": "III",
         "numberLabel": "Shift",
-        "titleMain": "Scarcity Is",
-        "titleItalic": "A Signal",
-        "body": "Availability is not a virtue in high-stakes advisory. I reduced my client load by half and raised my threshold for engagement. The harder I became to access, the more I was trusted.",
-        "handle": "@morganvale"
+        "titleMain": "Rejection Is a",
+        "titleItalic": "Filter",
+        "body": "Every no cleared space for a yes that matched my caliber. I stopped negotiating and started curating who entered my orbit.",
+        "handle": "@alexanderreed"
       }
     },
     {
       "layoutId": "body-cream-gold",
       "slots": {
-        "brand": "MORGAN VALE",
-        "pageOf": "v / viii",
+        "brand": "ALEXANDER REED",
+        "pageOf": "5 / 8",
         "number": "IV",
         "numberLabel": "Shift",
-        "titleMain": "Reject the",
-        "titleItalic": "Wrong Yes",
-        "body": "Every unprofitable engagement consumes the energy required to attract the exceptional one. I learned to say no without apology, treating my calendar as a portfolio of concentrated bets, not a volume play.",
-        "handle": "@morganvale"
+        "titleMain": "Fees Shape",
+        "titleItalic": "Focus",
+        "body": "High fees command high attention. The moment I tripled my rate, clients implemented faster, respected boundaries, and took the work seriously.",
+        "handle": "@alexanderreed"
       }
     },
     {
       "layoutId": "body-cream-gold",
       "slots": {
-        "brand": "MORGAN VALE",
-        "pageOf": "vi / viii",
+        "brand": "ALEXANDER REED",
+        "pageOf": "6 / 8",
         "number": "V",
         "numberLabel": "Shift",
-        "titleMain": "Confidence as",
-        "titleItalic": "Credential",
-        "body": "There is no external examination that bestows the twelve-hundred-dollar hour. I stopped waiting for permission and began delivering my counsel as if the rate had always been mine. The market followed.",
-        "handle": "@morganvale"
+        "titleMain": "Confidence Is",
+        "titleItalic": "Priced In",
+        "body": "I learned to invoice before I felt ready. Trust in your own signal is the invisible line item that justifies premium pricing.",
+        "handle": "@alexanderreed"
       }
     },
     {
       "layoutId": "body-cream-gold",
       "slots": {
-        "brand": "MORGAN VALE",
-        "pageOf": "vii / viii",
+        "brand": "ALEXANDER REED",
+        "pageOf": "7 / 8",
         "number": "VI",
         "numberLabel": "Shift",
-        "titleMain": "The Premium",
-        "titleItalic": "Position",
-        "body": "Luxury is communicated through restraint, not noise. I stripped my proposals of excess justification and let brevity imply mastery. When you stop explaining, you start commanding.",
-        "handle": "@morganvale"
+        "titleMain": "Scarcity Is a",
+        "titleItalic": "Strategy",
+        "body": "Availability is not a virtue. I built a quiet waiting list, and desire grew precisely because access was no longer guaranteed.",
+        "handle": "@alexanderreed"
       }
     },
     {
       "layoutId": "cta-cream-gold",
       "slots": {
-        "brand": "MORGAN VALE",
-        "pageOf": "viii / viii",
+        "brand": "ALEXANDER REED",
+        "pageOf": "8 / 8",
         "eyebrow": "A FINAL WORD",
-        "headlineMain": "Raise Your",
+        "headlineMain": "Raise the",
         "headlineItalic": "Standard",
-        "body": "Your rate is a statement of how seriously you take your own expertise. Start there, and the right clients will already be waiting.",
+        "body": "Your rate is a declaration of how you see yourself. Change the belief, and the number follows without resistance.",
         "buttonLabel": "SAVE THIS POST",
-        "handle": "@morganvale"
+        "handle": "@alexanderreed"
       }
     }
   ]

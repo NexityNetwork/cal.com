@@ -1,0 +1,113 @@
+{
+  "id": "legacy-thinking",
+  "brand": "MERIDIAN",
+  "brief": "Legacy over virality — 5 things founders get wrong about building something lasting.",
+  "theme": "cream-gold",
+  "slides": [
+    {
+      "layoutId": "cover-cream-gold",
+      "slots": {
+        "brand": "MERIDIAN",
+        "issueLabel": "No. 01",
+        "eyebrow": "ON FOUNDERS & TIME",
+        "titleLine1": "Legacy",
+        "titleLine2": "Over",
+        "titleLine3": "Virality",
+        "subtitle": "Five quiet mistakes that erode empires, and the discipline required to outlast the algorithm.",
+        "handle": "@meridianhq",
+        "slideCount": "8"
+      }
+    },
+    {
+      "layoutId": "body-cream-gold",
+      "slots": {
+        "brand": "MERIDIAN",
+        "pageOf": "ii / viii",
+        "number": "I",
+        "numberLabel": "Truth",
+        "titleMain": "The Cult of",
+        "titleItalic": "Speed",
+        "body": "We have confused motion with momentum. Lasting value is not built in sprints, but in the quiet repetition of standards others find boring.",
+        "handle": "@meridianhq"
+      }
+    },
+    {
+      "layoutId": "body-cream-gold",
+      "slots": {
+        "brand": "MERIDIAN",
+        "pageOf": "iii / viii",
+        "number": "II",
+        "numberLabel": "Error",
+        "titleMain": "Chasing the",
+        "titleItalic": "Algorithm",
+        "body": "Virality rewards novelty, but legacy rewards resonance. Founders who optimize for impressions often sacrifice the very trust that compounds over decades.",
+        "handle": "@meridianhq"
+      }
+    },
+    {
+      "layoutId": "body-cream-gold",
+      "slots": {
+        "brand": "MERIDIAN",
+        "pageOf": "iv / viii",
+        "number": "III",
+        "numberLabel": "Error",
+        "titleMain": "Confusing Noise",
+        "titleItalic": "With Narrative",
+        "body": "A loud brand is not a clear one. The founders who endure speak softly in sentences that still echo fifty years later.",
+        "handle": "@meridianhq"
+      }
+    },
+    {
+      "layoutId": "body-cream-gold",
+      "slots": {
+        "brand": "MERIDIAN",
+        "pageOf": "v / viii",
+        "number": "IV",
+        "numberLabel": "Error",
+        "titleMain": "Hiring for",
+        "titleItalic": "Hunger Alone",
+        "body": "Appetite without alignment is a liability. Lasting companies are staffed by stewards, not mercenaries—those who care more for the craft than the exit.",
+        "handle": "@meridianhq"
+      }
+    },
+    {
+      "layoutId": "body-cream-gold",
+      "slots": {
+        "brand": "MERIDIAN",
+        "pageOf": "vi / viii",
+        "number": "V",
+        "numberLabel": "Error",
+        "titleMain": "Optimizing the",
+        "titleItalic": "Wrong Metric",
+        "body": "Revenue is a lagging indicator of relationships. When you measure only what scales quickly, you inevitably dismantle what would have endured.",
+        "handle": "@meridianhq"
+      }
+    },
+    {
+      "layoutId": "body-cream-gold",
+      "slots": {
+        "brand": "MERIDIAN",
+        "pageOf": "vii / viii",
+        "number": "VI",
+        "numberLabel": "Discipline",
+        "titleMain": "The Quiet",
+        "titleItalic": "Commitment",
+        "body": "Legacy demands the discipline to be unfashionable. Build what you would still proudly sign your name to when the crowd has moved on.",
+        "handle": "@meridianhq"
+      }
+    },
+    {
+      "layoutId": "cta-cream-gold",
+      "slots": {
+        "brand": "MERIDIAN",
+        "pageOf": "viii / viii",
+        "eyebrow": "A FINAL WORD",
+        "headlineMain": "Build What",
+        "headlineItalic": "Outlasts",
+        "body": "Your legacy is not your loudest moment. It is the standard you refuse to lower.",
+        "buttonLabel": "SAVE THIS POST",
+        "handle": "@meridianhq"
+      }
+    }
+  ]
+}
