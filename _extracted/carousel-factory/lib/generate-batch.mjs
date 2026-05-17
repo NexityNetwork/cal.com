@@ -82,6 +82,7 @@ const FAMILY_LAYOUTS = {
   "photo-tag":        { cover: "cover-photo-tag",       body: "body-photo-tag",       cta: "cta-photo-tag" },
   "highlight-box":    { cover: "cover-highlight-box",   body: "body-highlight-box",   cta: "cta-highlight-box" },
   "stencil-stamp":    { cover: "cover-stencil-stamp",   body: "body-stencil-stamp",   cta: "cta-stencil-stamp" },
+  "edu-bright":       { cover: "cover-edu-bright",      body: ["body-edu-bright-chart", "body-edu-bright-flow", "body-edu-bright-table"], cta: "cta-edu-bright" },
 };
 
 // CTA slot conventions, shared by all families:
@@ -342,6 +343,20 @@ Uses iconSlug<N> brand-icon system.
 COVER cover-stencil-stamp: brandTag (1-2 uppercase words like "TIPS" / "SKILLS"), handle, preLine (3-6 italic-serif intro words like "the only repos for"), titleLine1 (1-3 SHORT Anton-stencil words like "5 SECRET" — UPPERCASE, ≤14 chars total per line — title font renders huge), titleStamp (1-2 SHORT orange-stamp words ≤12 chars like "CLAUDE"), titleOutline (1-2 SHORT outline-stamp words ≤14 chars like "SKILLS"), postLine (4-8 italic-serif words like "every dev should master"), cardEyebrow (uppercase 2-3 words like "INSIDE THE PACK"), cardText (1 sentence ≤18 words summary), iconSlug1..iconSlug4 (4 brand slugs preview chips), swipeLabel (1-2 words like "OPEN"), pageOf ("01 / 08").
 BODY  body-stencil-stamp: numLabel (uppercase short label like "SKILL 02"), handle, iconSlug1 (featured tool slug), toolName (optional auto-derived — keep SHORT for stencil rendering), categoryLabel (uppercase 1-2 words like "WORKFLOW" / "PROMPT"), toolTagline (1 italic Fraunces sentence ≤14 words), stampLine1 (1-3 SHORT Anton-stencil words ≤14 chars like "GHOST WRITER"), stampAccent (1-2 SHORT orange-stamp words ≤12 chars like "MODE"), bodyText (1-2 sentences ≤30 words with 1-2 <em>...</em> highlights), feat1Text/feat2Text/feat3Text (3 short feature lines 4-8 words each), feat1Tag/feat2Tag/feat3Tag (3 short uppercase tags like "FREE" / "NEW" / "PRO"), iconSlug2..iconSlug5 (4 supporting tool slugs), pageOf ("02 / 08").
 CTA   cta-stencil-stamp: brandTag (1-2 uppercase words like "WRAP"), handle, eyebrow (3-6 italic-serif words), ctaStamp (1-2 SHORT orange-stamp words ≤12 chars like "SAVE THIS"), ctaOutline (1-2 SHORT outline-stamp words ≤12 chars like "POST"), ctaBody (1-2 sentences ≤30 words), btnPrimary (2-3 word primary CTA), btnGhost (2-3 word secondary), stackLabel (italic 2-3 words), iconSlug1..iconSlug6 (6 brand slugs), signoff (3-6 italic words), pageOf ("08 / 08").`,
+
+  "edu-bright": `Layouts (cream #f7f5f0 + bold Inter 900 + dark navy + dc2626 red accent + Memphis hard 5px-shadow cards + 3 BODY VARIANTS that rotate across slides for visual variety — academic/educational ML/data-science aesthetic).
+Uses iconSlug<N> brand-icon system. Body variants ROTATE per slide: chart, flow, table, chart, flow, table.
+
+COVER cover-edu-bright: brandTag (1-2 uppercase words like "ML GUIDE" / "AI TUTORIAL"), handle, eyebrow (3-6 italic-serif intro words), titleLine1 (2-4 bold Inter words like "Top 5"), titleAccent (1-3 red-accent words like "RAG techniques"), titleItalic (1-3 Fraunces italic words like "in 2026"), previewLabel (uppercase mono 2-3 words like "MODEL BENCHMARK"), barLbl1..barLbl5 (5 short bar labels 3-6 chars each like "GPT-4" / "Claude"), previewSource (short label like "Source: Hugging Face"), previewYear (e.g. "Q3 2026"), iconSlug1..iconSlug5 (5 brand slugs), toolCount (number like "12+"), countLabel (uppercase 2-3 words like "tools covered"), swipeLabel (1-2 words like "READ"), pageOf ("01 / 08").
+
+BODY (3 variants — pick whichever layoutId the schema dictates):
+body-edu-bright-chart (bar chart card): numLabel (uppercase "TIP 02"), handle, sectionLabel (uppercase mono 2-3 words like "BENCHMARK 01"), title (2-4 bold words), titleItalic (1-3 italic Fraunces words), subtitle (1 sentence ≤22 words), chartTitle (uppercase mono 2-3 words like "ACCURACY"), chartYAxis (1-2 mono words like "MMLU %"), bar1V..bar5V (5 short metric values like "47%" / "85%"), bar1L..bar5L (5 short bar labels 4-8 chars each), chartSource (1-3 words mono like "Anthropic blog"), chartPeriod (2-3 words like "Q3 2026"), insightLabel (uppercase mono 2-3 words like "KEY TAKEAWAY"), insightText (1 sentence ≤22 words with 1 <em>...</em> highlight), iconSlug1..iconSlug4 (4 brand slugs), pageOf ("02 / 08").
+
+body-edu-bright-flow (4-node flow diagram card): numLabel, handle, sectionLabel, title, titleItalic, subtitle, flowTitle (uppercase mono 2-4 words like "RAG PIPELINE"), node1Glyph/node2Glyph/node3Glyph/node4Glyph (4 single-char/glyph icons like "1" "2" "3" "✓" or emoji), node1Name..node4Name (4 short node names 1-2 words each like "Query" / "Embed" / "Retrieve" / "Answer"), node1Sub..node4Sub (4 SHORT 1-3 word subtitles like "User input" / "OpenAI ada"), flowDetail (1 sentence ≤22 words about the flow with 1 <em>...</em>), flowMeta (mono 2-3 words like "200ms latency"), insightLabel, insightText, iconSlug1..iconSlug4, pageOf.
+
+body-edu-bright-table (4-row comparison table): numLabel, handle, sectionLabel, title, titleItalic, subtitle, colHead0 (uppercase mono 1-2 word column header like "MODEL"), colHead1 (mono 1-2 words like "COST"), colHead2 (mono 1-2 words like "SPEED"), colHead3 (mono 1-2 words like "SCORE"), row1Name..row4Name (4 short row names 1-3 words like "GPT-4o" / "Claude 3.5"), row1C1..row4C1 (4 short column-1 cell values), row1C2..row4C2 (4 short column-2 values), row1C3..row4C3 (4 short column-3 values — the "winner" row 3 gets highlighted), insightLabel, insightText, iconSlug1..iconSlug4 (4 row icons), iconSlug5..iconSlug8 (4 footer chip icons), pageOf.
+
+CTA cta-edu-bright: brandTag (1-2 uppercase words like "RECAP"), handle, eyebrow (3-6 italic-serif words), ctaLine1 (2-4 bold Inter words), ctaAccent (1-2 red-accent words), ctaItalic (1-3 italic Fraunces words like "this Friday"), recapLabel (italic 2-3 words like "the full stack"), iconSlug1..iconSlug6 (6 brand slugs full stack recap), ctaBody (1-2 sentences ≤30 words), btnPrimary (2-3 word primary CTA), btnGhost (2-3 word secondary), signoff (3-6 italic words), pageOf ("08 / 08").`,
 };
 
 const PROMPT_TEMPLATE = (brief, family) => `You are a carousel planner.
@@ -349,7 +364,12 @@ ${FAMILY_PROMPTS[family]}
 
 BRIEF: ${brief}
 
-Generate an 8-slide carousel: 1 cover + 6 body + 1 cta. Output ONLY valid JSON, no fences.
+${(() => {
+  const lay = FAMILY_LAYOUTS[family];
+  const bodies = Array.isArray(lay.body) ? lay.body : [lay.body];
+  // If multiple body variants, rotate through them for structural variety
+  const bodySchema = (i) => `    {"layoutId":"${bodies[i % bodies.length]}","slots":{...}}`;
+  return `Generate an 8-slide carousel: 1 cover + 6 body + 1 cta. Output ONLY valid JSON, no fences.${bodies.length > 1 ? `\nIMPORTANT: This family has ${bodies.length} body-slide variants (${bodies.join(", ")}). The schema below alternates between them — KEEP the layoutId values exactly as written so each slide gets a different visual layout.` : ""}
 Schema:
 {
   "id":"<short-kebab>",
@@ -357,16 +377,17 @@ Schema:
   "brief":"${brief}",
   "theme":"${family}",
   "slides":[
-    {"layoutId":"${FAMILY_LAYOUTS[family].cover}","slots":{...}},
-    {"layoutId":"${FAMILY_LAYOUTS[family].body}","slots":{...}},
-    {"layoutId":"${FAMILY_LAYOUTS[family].body}","slots":{...}},
-    {"layoutId":"${FAMILY_LAYOUTS[family].body}","slots":{...}},
-    {"layoutId":"${FAMILY_LAYOUTS[family].body}","slots":{...}},
-    {"layoutId":"${FAMILY_LAYOUTS[family].body}","slots":{...}},
-    {"layoutId":"${FAMILY_LAYOUTS[family].body}","slots":{...}},
-    {"layoutId":"${FAMILY_LAYOUTS[family].cta}","slots":{...}}
+    {"layoutId":"${lay.cover}","slots":{...}},
+${bodySchema(0)+","}
+${bodySchema(1)+","}
+${bodySchema(2)+","}
+${bodySchema(3)+","}
+${bodySchema(4)+","}
+${bodySchema(5)+","}
+    {"layoutId":"${lay.cta}","slots":{...}}
   ]
 }`;
+})()}`;
 
 // ─── Briefs (5 families × ~7 briefs each = ~35 carousels) ──────────────────
 
@@ -740,6 +761,13 @@ const BRIEFS = [
   { id: "ss-shortcut-stack",          family: "stencil-stamp", text: "100 keyboard shortcuts every solo founder uses to save 10 hours a week." },
   { id: "ss-design-tricks",           family: "stencil-stamp", text: "5 design tricks pros use to make any landing page convert 2x harder." },
   { id: "ss-debug-secrets",           family: "stencil-stamp", text: "5 secret debugging moves senior devs use to crack incidents in minutes." },
+
+  // edu-bright (educational ML/AI tutorial — multi-body variant family)
+  { id: "eb-rag-techniques-2026",     family: "edu-bright", text: "5 RAG techniques actually shipping in production — with benchmarks and tradeoffs." },
+  { id: "eb-agent-frameworks",        family: "edu-bright", text: "Top agent frameworks compared on speed, cost, and orchestration patterns." },
+  { id: "eb-llm-eval-stack",          family: "edu-bright", text: "How to build an LLM eval stack — pipeline, metrics, and tools that actually catch drift." },
+  { id: "eb-vector-db-comparison",    family: "edu-bright", text: "Vector DB showdown — 5 options compared on latency, cost, and indexing strategy." },
+  { id: "eb-llm-fine-tuning",         family: "edu-bright", text: "5 fine-tuning techniques that beat prompting — benchmarks, costs, when to use each." },
 ];
 
 // ─── Kimi planner with retry on JSON parse failure ─────────────────────────
