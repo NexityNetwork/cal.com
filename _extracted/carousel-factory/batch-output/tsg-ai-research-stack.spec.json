@@ -1,0 +1,190 @@
+{
+  "id": "tsg-ai-research-stack",
+  "brand": "51ultron",
+  "brief": "AI research stack — 6 tools to triangulate truth before you publish.",
+  "theme": "tech-stack-grid",
+  "slides": [
+    {
+      "layoutId": "cover-tech-stack-grid",
+      "slots": {
+        "tag": "MY STACK",
+        "handle": "factory.51ultron.com",
+        "eyebrow": "verify before you publish",
+        "titleLine1": "Six tools to",
+        "titleAccent": "triangulate truth",
+        "iconSlug1": "perplexity",
+        "role1": "FINDS LIVE SOURCES",
+        "iconSlug2": "claude",
+        "role2": "SYNTHESIZES RAW INSIGHTS",
+        "iconSlug3": "openai",
+        "role3": "RUNS DEEP RESEARCH",
+        "iconSlug4": "notion",
+        "role4": "CENTRALIZES RESEARCH NOTES",
+        "iconSlug5": "airtable",
+        "role5": "TRACKS SOURCE EVIDENCE",
+        "iconSlug6": "n8n",
+        "role6": "AUTOMATES DATA WORKFLOWS",
+        "pageOf": "01 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "RESEARCH",
+        "stepMeta": "02 / 08",
+        "iconSlug1": "perplexity",
+        "toolRole": "REAL-TIME WEB SEARCH",
+        "toolTagline": "CORE UTILITY",
+        "tagline": "Perplexity crawls the live web and returns cited answers, so you never rely on hallucinated facts.",
+        "f1Title": "Live web crawling",
+        "f1Body": "Indexes current sources instead of stale training data.",
+        "f2Title": "Inline source citations",
+        "f2Body": "Every claim links to its original primary source.",
+        "f3Title": "Pro search depth",
+        "f3Body": "Multi-step reasoning breaks complex queries down.",
+        "iconSlug2": "claude",
+        "iconSlug3": "notion",
+        "iconSlug4": "airtable",
+        "iconSlug5": "n8n",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "02 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "ANALYSIS",
+        "stepMeta": "03 / 08",
+        "iconSlug1": "claude",
+        "toolRole": "LONG-CONTEXT AI REASONING",
+        "toolTagline": "CRITICAL LAYER",
+        "tagline": "Claude reads hundreds of pages in seconds, spotting contradictions humans miss across source documents.",
+        "f1Title": "Massive context window",
+        "f1Body": "Drop entire reports and transcripts for instant synthesis.",
+        "f2Title": "Artifact extraction mode",
+        "f2Body": "Extract tables, quotes, and data from uploaded PDFs.",
+        "f3Title": "Nuanced reasoning engine",
+        "f3Body": "Flags weak arguments and biased phrasing automatically.",
+        "iconSlug2": "perplexity",
+        "iconSlug3": "openai",
+        "iconSlug4": "notion",
+        "iconSlug5": "airtable",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "03 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "DEEP DIVE",
+        "stepMeta": "04 / 08",
+        "iconSlug1": "openai",
+        "toolRole": "ADVANCED MODEL RESEARCH",
+        "toolTagline": "POWER MODULE",
+        "tagline": "GPT-4o builds structured research briefs, cross-references datasets, and stress-tests your conclusions.",
+        "f1Title": "Structured research briefs",
+        "f1Body": "Auto-generates executive summaries from messy notes.",
+        "f2Title": "Cross-check public datasets",
+        "f2Body": "Validates statistics against multiple public datasets.",
+        "f3Title": "Devil's advocate testing",
+        "f3Body": "Runs devil's-advocate prompts to surface counter-evidence.",
+        "iconSlug2": "perplexity",
+        "iconSlug3": "claude",
+        "iconSlug4": "notion",
+        "iconSlug5": "n8n",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "04 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "KNOWLEDGE",
+        "stepMeta": "05 / 08",
+        "iconSlug1": "notion",
+        "toolRole": "RESEARCH TEAM OS",
+        "toolTagline": "CENTRAL HUB",
+        "tagline": "Notion becomes your single source of truth where drafts, sources, and team feedback converge.",
+        "f1Title": "Linked source databases",
+        "f1Body": "Connect sources to claims with relational properties.",
+        "f2Title": "Built-in AI sidekick",
+        "f2Body": "Auto-summarize long articles inside your workspace.",
+        "f3Title": "Shared team visibility",
+        "f3Body": "Share reading lists and verification status instantly.",
+        "iconSlug2": "claude",
+        "iconSlug3": "airtable",
+        "iconSlug4": "n8n",
+        "iconSlug5": "perplexity",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "05 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "EVIDENCE",
+        "stepMeta": "06 / 08",
+        "iconSlug1": "airtable",
+        "toolRole": "RIGOROUS SOURCE TRACKER",
+        "toolTagline": "STRUCTURE GRID",
+        "tagline": "Airtable turns scattered bookmarks into a rigorous evidence matrix with trust scores and tags.",
+        "f1Title": "Sortable evidence grid",
+        "f1Body": "Sort sources by credibility, date, and verification status.",
+        "f2Title": "Linked claim records",
+        "f2Body": "Tie every claim directly to its supporting evidence.",
+        "f3Title": "Auto citation alerts",
+        "f3Body": "Flag stale links or missing citations automatically.",
+        "iconSlug2": "notion",
+        "iconSlug3": "n8n",
+        "iconSlug4": "perplexity",
+        "iconSlug5": "openai",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "06 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "AUTOMATION",
+        "stepMeta": "07 / 08",
+        "iconSlug1": "n8n",
+        "toolRole": "RESEARCH WORKFLOW ENGINE",
+        "toolTagline": "AUTONOMOUS FLOW",
+        "tagline": "n8n fetches RSS feeds, runs daily scans, and pipes fresh intel into your research queue while you sleep.",
+        "f1Title": "Scheduled news scraping",
+        "f1Body": "Monitor news sites and journals on autopilot.",
+        "f2Title": "Multi-step enrichment flows",
+        "f2Body": "Enrich raw data with AI before it hits your inbox.",
+        "f3Title": "Self-hosted privacy option",
+        "f3Body": "Keep sensitive research pipelines on your own infra.",
+        "iconSlug2": "perplexity",
+        "iconSlug3": "openai",
+        "iconSlug4": "notion",
+        "iconSlug5": "airtable",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "07 / 08"
+      }
+    },
+    {
+      "layoutId": "cta-tech-stack-grid",
+      "slots": {
+        "tag": "WRAP",
+        "handle": "factory.51ultron.com",
+        "eyebrow": "publish with confidence",
+        "ctaLine1": "Build your own",
+        "ctaLine2": "truth stack",
+        "ctaBody": "Triangulate every claim with this six-tool research rig. Save the carousel and upgrade your publishing workflow today.",
+        "iconSlug1": "perplexity",
+        "iconSlug2": "claude",
+        "iconSlug3": "openai",
+        "iconSlug4": "notion",
+        "iconSlug5": "airtable",
+        "iconSlug6": "n8n",
+        "btnPrimary": "Save Stack",
+        "btnGhost": "Read More",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "08 / 08"
+      }
+    }
+  ]
+}

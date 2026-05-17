@@ -1,0 +1,190 @@
+{
+  "id": "tsg-data-engineering-stack",
+  "brand": "SoloFounder Data",
+  "brief": "Data engineering for solo founders — 6 tools that run a real warehouse.",
+  "theme": "tech-stack-grid",
+  "slides": [
+    {
+      "layoutId": "cover-tech-stack-grid",
+      "slots": {
+        "tag": "MY STACK",
+        "handle": "solo.data.run",
+        "eyebrow": "ingest, transform, deliver",
+        "titleLine1": "SOLO DATA",
+        "titleAccent": "STACK THAT SHIPS",
+        "iconSlug1": "n8n",
+        "iconSlug2": "supabase",
+        "iconSlug3": "docker",
+        "iconSlug4": "github",
+        "iconSlug5": "cursor",
+        "iconSlug6": "vercel",
+        "role1": "RUNS ETL PIPELINES",
+        "role2": "WAREHOUSES RAW DATA",
+        "role3": "CONTAINERIZES DATA JOBS",
+        "role4": "VERSION CONTROLS SQL",
+        "role5": "AI WRITES QUERIES",
+        "role6": "HOSTS DATA APPS",
+        "pageOf": "01 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "AUTOMATE",
+        "stepMeta": "02 / 08",
+        "iconSlug1": "n8n",
+        "toolRole": "RUNS ETL PIPELINES",
+        "toolTagline": "WORKFLOW ENGINE",
+        "tagline": "Ingests and transforms data across APIs without writing boilerplate code.",
+        "f1Title": "VISUAL WORKFLOW BUILDER",
+        "f1Body": "Build ETL logic with a node-based canvas that scales automatically.",
+        "f2Title": "WEBHOOK TRIGGER NODES",
+        "f2Body": "Run pipelines on schedule or event with native cron and hooks.",
+        "f3Title": "BUILT IN ERROR RETRY",
+        "f3Body": "Built-in retry logic keeps warehouse loads reliable around the clock.",
+        "iconSlug2": "supabase",
+        "iconSlug3": "docker",
+        "iconSlug4": "github",
+        "iconSlug5": "vercel",
+        "domainText": "solo.data.run",
+        "pageOf": "02 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "WAREHOUSE",
+        "stepMeta": "03 / 08",
+        "iconSlug1": "supabase",
+        "toolRole": "WAREHOUSES RAW DATA",
+        "toolTagline": "DATA WAREHOUSE",
+        "tagline": "Postgres-powered warehouse with real-time APIs and row-level security built in.",
+        "f1Title": "POSTGRES ANALYTICS CORE",
+        "f1Body": "Handles terabyte-scale analytics with full SQL compatibility and indexing.",
+        "f2Title": "SERVERLESS EDGE FUNCTIONS",
+        "f2Body": "Deploy serverless transforms close to data for sub-second latency.",
+        "f3Title": "REALTIME DATA SYNC",
+        "f3Body": "Push live query results to dashboards without polling overhead.",
+        "iconSlug2": "n8n",
+        "iconSlug3": "docker",
+        "iconSlug4": "github",
+        "iconSlug5": "vercel",
+        "domainText": "solo.data.run",
+        "pageOf": "03 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "RUNTIME",
+        "stepMeta": "04 / 08",
+        "iconSlug1": "docker",
+        "toolRole": "CONTAINERIZES DATA JOBS",
+        "toolTagline": "CONTAINER RUNTIME",
+        "tagline": "Packages dbt, Python, and CLI tools into reproducible data pipeline environments.",
+        "f1Title": "REPRODUCIBLE IMAGE BUILDS",
+        "f1Body": "Same image runs locally and in production to eliminate environment drift.",
+        "f2Title": "ISOLATED WORKER CONTAINERS",
+        "f2Body": "Spin up transient containers for heavy transforms without crashing the host.",
+        "f3Title": "DOCKER COMPOSE STACKS",
+        "f3Body": "Orchestrate warehouse, cache, and monitoring services with one compose file.",
+        "iconSlug2": "n8n",
+        "iconSlug3": "supabase",
+        "iconSlug4": "github",
+        "iconSlug5": "cursor",
+        "domainText": "solo.data.run",
+        "pageOf": "04 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "VERSION",
+        "stepMeta": "05 / 08",
+        "iconSlug1": "github",
+        "toolRole": "VERSION CONTROLS SQL",
+        "toolTagline": "CODE REPO",
+        "tagline": "Tracks schema migrations, dbt models, and pipeline code through every iteration.",
+        "f1Title": "ATOMIC GIT COMMITS",
+        "f1Body": "Rollback bad warehouse deploys with atomic commits and pull requests.",
+        "f2Title": "GITHUB ACTIONS RUNNER",
+        "f2Body": "Automate testing and deployment of SQL changes on every push.",
+        "f3Title": "PULL REQUEST REVIEWS",
+        "f3Body": "Peer-review transforms via diffs before they hit production tables.",
+        "iconSlug2": "n8n",
+        "iconSlug3": "supabase",
+        "iconSlug4": "docker",
+        "iconSlug5": "vercel",
+        "domainText": "solo.data.run",
+        "pageOf": "05 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "EDITOR",
+        "stepMeta": "06 / 08",
+        "iconSlug1": "cursor",
+        "toolRole": "AI WRITES QUERIES",
+        "toolTagline": "AI EDITOR",
+        "tagline": "Generates complex SQL and Python transforms through context-aware autocomplete and chat.",
+        "f1Title": "AI SQL COMPLETION",
+        "f1Body": "Autocomplete CTEs and window functions from natural language prompts.",
+        "f2Title": "PROJECT WIDE CHAT SEARCH",
+        "f2Body": "Ask questions across your dbt project to find stale models fast.",
+        "f3Title": "AUTOMATIC CODE REFACTORING",
+        "f3Body": "Rename columns and propagate changes across every dependent view automatically.",
+        "iconSlug2": "n8n",
+        "iconSlug3": "supabase",
+        "iconSlug4": "github",
+        "iconSlug5": "vercel",
+        "domainText": "solo.data.run",
+        "pageOf": "06 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "DEPLOY",
+        "stepMeta": "07 / 08",
+        "iconSlug1": "vercel",
+        "toolRole": "HOSTS DATA APPS",
+        "toolTagline": "EDGE HOSTING",
+        "tagline": "Ships internal BI tools and data apps globally via edge network.",
+        "f1Title": "GLOBAL EDGE NETWORK",
+        "f1Body": "Serve dashboards from the closest node for instant query rendering.",
+        "f2Title": "SERVERLESS API ROUTES",
+        "f2Body": "Connect Next.js routes directly to the warehouse with zero config.",
+        "f3Title": "INSTANT PREVIEW DEPLOYS",
+        "f3Body": "Every branch gets a live URL for stakeholder review before merge.",
+        "iconSlug2": "n8n",
+        "iconSlug3": "supabase",
+        "iconSlug4": "docker",
+        "iconSlug5": "github",
+        "domainText": "solo.data.run",
+        "pageOf": "07 / 08"
+      }
+    },
+    {
+      "layoutId": "cta-tech-stack-grid",
+      "slots": {
+        "tag": "BUILD",
+        "handle": "solo.data.run",
+        "eyebrow": "ship your data stack",
+        "ctaLine1": "BUILD YOUR",
+        "ctaLine2": "WAREHOUSE TODAY",
+        "ctaBody": "Six tools. One founder. A production-grade data warehouse that ingests, transforms, and delivers insights without the enterprise bloat.",
+        "iconSlug1": "n8n",
+        "iconSlug2": "supabase",
+        "iconSlug3": "docker",
+        "iconSlug4": "github",
+        "iconSlug5": "cursor",
+        "iconSlug6": "vercel",
+        "btnPrimary": "GET STARTED",
+        "btnGhost": "VIEW DOCS",
+        "domainText": "solo.data.run",
+        "pageOf": "08 / 08"
+      }
+    }
+  ]
+}

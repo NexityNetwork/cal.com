@@ -75,6 +75,7 @@ const FAMILY_LAYOUTS = {
   "shout-orange":     { cover: "cover-shout-orange",    body: "body-shout-orange",    cta: "cta-shout-orange" },
   "leak-dark":        { cover: "cover-leak-dark",       body: "body-leak-dark",       cta: "cta-leak-dark" },
   "cream-claude":     { cover: "cover-cream-claude",    body: "body-cream-claude",    cta: "cta-cream-claude" },
+  "tech-stack-grid":  { cover: "cover-tech-stack-grid", body: "body-tech-stack-grid", cta: "cta-tech-stack-grid" },
 };
 
 // CTA slot conventions, shared by all families:
@@ -293,6 +294,12 @@ CTA   cta-leak-dark: tag (1-2 uppercase words like "WRAP UP"), eyebrow (4-7 mono
 COVER cover-cream-claude: tag (1-2 uppercase words like "CLAUDE" / "SKILLS"), handle (short site label like "factory.51ultron.com"), eyebrow (3-6 italic-serif words intro), titleLine1 (2-4 bold Inter words black), titleAccent (1-2 orange Inter words), titleItalic (1-3 italic Fraunces words like "for real"), subEyebrow (2-4 uppercase orange words like "WHY IT WORKS"), subText (1-2 sentences ≤30 words with 1-2 italic phrases wrapped in <em>...</em>), domainText (short site label), swipeNote (1-2 words like "READ").
 BODY  body-cream-claude: tag (1-2 uppercase words), stepMeta (short mono like "02 / 06"), sectionNum (single italic-serif numeral like "01"), eyebrow (2-3 uppercase orange words like "PRINCIPLE 01"), title (3-5 bold Inter words), titleItalic (1-3 Fraunces italic words like "for builders"), subtitle (1 sentence ≤22 words), codeComment (4-7 words mono comment), codeKeyword (1 word like "import"), codeFn (1 word like "ship"), codeArg (short string), b1Title/b2Title (2 bold short bullets 3-5 words each), b1Body/b2Body (single-sentence descriptions ≤18 words each), domainText, pageOf ("02 / 06").
 CTA   cta-cream-claude: tag (1-2 uppercase words like "WRAP"), eyebrow (3-6 italic-serif words), ctaLine1 (2-4 bold Inter words black), ctaAccent (1-2 orange Inter words), ctaItalic (1-3 italic Fraunces words), ctaBody (1-2 sentences ≤30 words), btnPrimary (2-3 word primary CTA), btnGhost (2-3 word secondary), signoff (3-6 italic-serif words sign-off line), domainText, pageOf ("06 / 06").`,
+
+  "tech-stack-grid": `Layouts (dark #0a0a0a + faint grid + orange-glow gradient + 6 brand-logo tool cards on cover + per-tool hero body slide with checkmark features + "pairs with" chip row + pure brand-icon driven — modern technical "my stack" aesthetic).
+USES the iconSlug<N> system from compose.js. JUST pass lowercase brand slugs like "claude" "n8n" "notion" "supabase" "vercel" "cursor" "perplexity" "github" "stripe" "openai" "framer" "figma" "linear" "raycast" "loom" "calendly" "tiktok" "instagram" "linkedin" "youtube" "make" "zapier" "airtable" "webflow" "docker" "postgresql" "redis" "typescript" "react" "nextdotjs" — compose auto-derives brand color + SVG. NO need for iconColor or display names (compose maps slugs to "Next.js", "n8n" etc).
+COVER cover-tech-stack-grid: tag (1-2 uppercase words like "MY STACK"), handle (short site like "factory.51ultron.com"), eyebrow (3-6 italic-serif intro words), titleLine1 (2-4 bold Inter words), titleAccent (1-3 orange-glow words like "tools that ship"), iconSlug1..iconSlug6 (6 brand slugs for the 6 tool cards — pick a coherent stack), role1..role6 (3-4 word uppercase role label per tool like "WRITES CODE" / "RUNS WORKFLOWS"), toolName1..toolName6 (optional — compose auto-derives from slug if omitted), pageOf ("01 / 08").
+BODY  body-tech-stack-grid: tag (1-2 uppercase words), stepMeta (mono step like "02 / 08"), iconSlug1 (the ONE featured brand slug for this slide), toolName1 (optional — compose auto-derives), toolRole (3-5 word uppercase role label), toolTagline (2-3 word category tag like "ESSENTIAL"), tagline (1 sentence ≤22 words Fraunces italic about what this tool does), f1Title/f2Title/f3Title (3 short feature lines 3-6 words each), f1Body/f2Body/f3Body (single-sentence ≤18 word descriptions per feature), iconSlug2/iconSlug3/iconSlug4/iconSlug5 (4 "pairs with" supporting brand slugs), domainText, pageOf ("02 / 08").
+CTA   cta-tech-stack-grid: tag (1-2 uppercase words like "WRAP"), handle, eyebrow (3-6 italic-serif words), ctaLine1 (2-4 bold Inter words), ctaLine2 (1-3 orange-glow words), ctaBody (1-2 sentences ≤30 words), iconSlug1..iconSlug6 (6 brand slugs — full stack recap), btnPrimary (2-3 word primary CTA), btnGhost (2-3 word secondary), domainText, pageOf ("08 / 08").`,
 };
 
 const PROMPT_TEMPLATE = (brief, family) => `You are a carousel planner.
@@ -642,6 +649,13 @@ const BRIEFS = [
   { id: "cc-test-pyramid",            family: "cream-claude", text: "The test pyramid is dead — 6 patterns that replace it for modern stacks." },
   { id: "cc-readme-craft",            family: "cream-claude", text: "A great README is a hiring tool — 6 patterns OSS maintainers swear by." },
   { id: "cc-internal-tooling",        family: "cream-claude", text: "6 internal tools every fast-shipping team builds before raising a seed round." },
+
+  // tech-stack-grid (pure brand-logo focused stack tours)
+  { id: "tsg-indie-dev-stack",        family: "tech-stack-grid", text: "The 6-tool indie dev stack — from idea to deploy in a weekend." },
+  { id: "tsg-content-ops-stack",      family: "tech-stack-grid", text: "Content ops on autopilot — 6 tools that turn one idea into 50 posts." },
+  { id: "tsg-ai-research-stack",      family: "tech-stack-grid", text: "AI research stack — 6 tools to triangulate truth before you publish." },
+  { id: "tsg-data-engineering-stack", family: "tech-stack-grid", text: "Data engineering for solo founders — 6 tools that run a real warehouse." },
+  { id: "tsg-customer-feedback-stack",family: "tech-stack-grid", text: "Customer feedback stack — 6 tools that close the loop between user and PR." },
 ];
 
 // ─── Kimi planner with retry on JSON parse failure ─────────────────────────

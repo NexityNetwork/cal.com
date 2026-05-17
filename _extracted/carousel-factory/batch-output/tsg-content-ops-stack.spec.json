@@ -1,0 +1,190 @@
+{
+  "id": "tsg-content-ops-stack",
+  "brand": "51ultron",
+  "brief": "Content ops on autopilot — 6 tools that turn one idea into 50 posts.",
+  "theme": "tech-stack-grid",
+  "slides": [
+    {
+      "layoutId": "cover-tech-stack-grid",
+      "slots": {
+        "tag": "MY STACK",
+        "handle": "factory.51ultron.com",
+        "eyebrow": "content ops on autopilot",
+        "titleLine1": "six tools that turn",
+        "titleAccent": "ideas into posts",
+        "iconSlug1": "notion",
+        "iconSlug2": "claude",
+        "iconSlug3": "figma",
+        "iconSlug4": "n8n",
+        "iconSlug5": "airtable",
+        "iconSlug6": "instagram",
+        "role1": "PLANS ALL CONTENT",
+        "role2": "WRITES THE COPY",
+        "role3": "DESIGNS CAROUSELS FAST",
+        "role4": "RUNS THE WORKFLOWS",
+        "role5": "MANAGES EVERY ASSET",
+        "role6": "DISTRIBUTES TO AUDIENCE",
+        "pageOf": "01 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "TOOL 01",
+        "stepMeta": "02 / 08",
+        "iconSlug1": "notion",
+        "toolRole": "CONTENT COMMAND CENTER",
+        "toolTagline": "CORE HUB",
+        "tagline": "Your single source of truth for every idea, draft, and calendar date.",
+        "f1Title": "Centralized content calendar",
+        "f1Body": "Map out fifty posts across channels in one unified database view.",
+        "f2Title": "Async team collaboration",
+        "f2Body": "Editors and creators comment and assign without ever leaving the page.",
+        "f3Title": "Template-driven drafting system",
+        "f3Body": "Duplicate brief templates so every new idea starts with structure.",
+        "iconSlug2": "claude",
+        "iconSlug3": "airtable",
+        "iconSlug4": "n8n",
+        "iconSlug5": "figma",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "02 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "TOOL 02",
+        "stepMeta": "03 / 08",
+        "iconSlug1": "claude",
+        "toolRole": "AI COPYWRITER ENGINE",
+        "toolTagline": "AI ENGINE",
+        "tagline": "Turns one brief into fifty tailored captions, hooks, and thread drafts.",
+        "f1Title": "Long-form to micro-copy",
+        "f1Body": "Expands a single headline into platform-specific captions instantly.",
+        "f2Title": "Brand tone matching",
+        "f2Body": "Mimics your brand voice so every post sounds like you wrote it.",
+        "f3Title": "Rapid batch generation",
+        "f3Body": "Produces a full week of content in under five minutes flat.",
+        "iconSlug2": "notion",
+        "iconSlug3": "n8n",
+        "iconSlug4": "figma",
+        "iconSlug5": "instagram",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "03 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "TOOL 03",
+        "stepMeta": "04 / 08",
+        "iconSlug1": "figma",
+        "toolRole": "VISUAL DESIGN SYSTEM",
+        "toolTagline": "CREATIVE SUITE",
+        "tagline": "Designs carousels and graphics that stay on-brand at any scale.",
+        "f1Title": "Auto-layout carousel frames",
+        "f1Body": "Resize frames and text for Instagram slides without breaking spacing.",
+        "f2Title": "Shared component library",
+        "f2Body": "Swap colors and logos across fifty posts with one master update.",
+        "f3Title": "Real-time design feedback",
+        "f3Body": "Stakeholders comment directly on frames to cut review cycles.",
+        "iconSlug2": "notion",
+        "iconSlug3": "claude",
+        "iconSlug4": "airtable",
+        "iconSlug5": "instagram",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "04 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "TOOL 04",
+        "stepMeta": "05 / 08",
+        "iconSlug1": "n8n",
+        "toolRole": "WORKFLOW AUTOMATION ENGINE",
+        "toolTagline": "AUTOMATION LAYER",
+        "tagline": "Connects apps so approved content moves from draft to published hands-free.",
+        "f1Title": "Trigger-based auto publishing",
+        "f1Body": "Posts to Instagram the moment a Figma frame is marked ready.",
+        "f2Title": "Smart error handling",
+        "f2Body": "Retries failed webhooks and alerts your team before issues escalate.",
+        "f3Title": "Self-hosted infrastructure freedom",
+        "f3Body": "Keep sensitive content data inside your own infrastructure stack.",
+        "iconSlug2": "notion",
+        "iconSlug3": "airtable",
+        "iconSlug4": "claude",
+        "iconSlug5": "instagram",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "05 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "TOOL 05",
+        "stepMeta": "06 / 08",
+        "iconSlug1": "airtable",
+        "toolRole": "CONTENT ASSET DATABASE",
+        "toolTagline": "DATA BACKBONE",
+        "tagline": "Stores every caption, image URL, and publish date in a queryable grid.",
+        "f1Title": "Linked record views",
+        "f1Body": "Relate posts to campaigns so you track performance per content pillar.",
+        "f2Title": "Gallery approval view",
+        "f2Body": "Share a visual Kanban with clients for drag-and-drop sign-off.",
+        "f3Title": "Formula-driven post scheduling",
+        "f3Body": "Auto-calculate publish dates based on frequency and channel mix.",
+        "iconSlug2": "notion",
+        "iconSlug3": "n8n",
+        "iconSlug4": "claude",
+        "iconSlug5": "figma",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "06 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "TOOL 06",
+        "stepMeta": "07 / 08",
+        "iconSlug1": "instagram",
+        "toolRole": "PRIMARY DISTRIBUTION HUB",
+        "toolTagline": "MAIN CHANNEL",
+        "tagline": "The destination where your automated pipeline finally meets your audience.",
+        "f1Title": "Native Reels scheduling",
+        "f1Body": "Push video and carousel posts automatically via connected APIs.",
+        "f2Title": "Hashtag performance benchmarking",
+        "f2Body": "Pull top-performing tags from Airtable into every caption field.",
+        "f3Title": "Daily story repurposing",
+        "f3Body": "Slice long-form Looms into vertical clips queued for daily stories.",
+        "iconSlug2": "notion",
+        "iconSlug3": "n8n",
+        "iconSlug4": "figma",
+        "iconSlug5": "claude",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "07 / 08"
+      }
+    },
+    {
+      "layoutId": "cta-tech-stack-grid",
+      "slots": {
+        "tag": "WRAP",
+        "handle": "factory.51ultron.com",
+        "eyebrow": "ship content on autopilot",
+        "ctaLine1": "build your own",
+        "ctaLine2": "content machine",
+        "ctaBody": "Steal this exact stack and start turning one idea into fifty posts this week.",
+        "iconSlug1": "notion",
+        "iconSlug2": "claude",
+        "iconSlug3": "figma",
+        "iconSlug4": "n8n",
+        "iconSlug5": "airtable",
+        "iconSlug6": "instagram",
+        "btnPrimary": "Get The Stack",
+        "btnGhost": "Learn More",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "08 / 08"
+      }
+    }
+  ]
+}

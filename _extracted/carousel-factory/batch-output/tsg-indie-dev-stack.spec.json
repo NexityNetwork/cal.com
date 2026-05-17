@@ -1,0 +1,190 @@
+{
+  "id": "tsg-indie-dev-stack",
+  "brand": "51ultron",
+  "brief": "The 6-tool indie dev stack — from idea to deploy in a weekend.",
+  "theme": "tech-stack-grid",
+  "slides": [
+    {
+      "layoutId": "cover-tech-stack-grid",
+      "slots": {
+        "tag": "MY STACK",
+        "handle": "factory.51ultron.com",
+        "eyebrow": "idea to deploy",
+        "titleLine1": "indie dev stack",
+        "titleAccent": "tools that ship",
+        "iconSlug1": "notion",
+        "role1": "PLANS AND TRACKS IDEAS",
+        "iconSlug2": "figma",
+        "role2": "DESIGNS PIXEL PERFECT UI",
+        "iconSlug3": "cursor",
+        "role3": "WRITES AND SHIPS CODE",
+        "iconSlug4": "supabase",
+        "role4": "POWERS DATA AND AUTH",
+        "iconSlug5": "github",
+        "role5": "HOSTS CODE AND REPOS",
+        "iconSlug6": "vercel",
+        "role6": "DEPLOYS APPS TO EDGE",
+        "pageOf": "01 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "PLAN",
+        "stepMeta": "02 / 08",
+        "iconSlug1": "notion",
+        "toolRole": "CAPTURES AND TRACKS IDEAS",
+        "toolTagline": "ESSENTIAL",
+        "tagline": "Notion turns scattered thoughts into structured roadmaps before a single line of code.",
+        "f1Title": "PROJECT DOCS AND WIKIS",
+        "f1Body": "Centralize requirements, user stories, and project scope in one living document.",
+        "f2Title": "TASK KANBAN BOARDS",
+        "f2Body": "Track tasks across backlog, doing, and done with drag-and-drop simplicity.",
+        "f3Title": "BUILT IN AI ASSISTANT",
+        "f3Body": "Generate outlines, summaries, and action items to accelerate planning.",
+        "iconSlug2": "figma",
+        "iconSlug3": "linear",
+        "iconSlug4": "loom",
+        "iconSlug5": "claude",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "02 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "DESIGN",
+        "stepMeta": "03 / 08",
+        "iconSlug1": "figma",
+        "toolRole": "DESIGNS PIXEL PERFECT UI",
+        "toolTagline": "CREATIVE",
+        "tagline": "Figma lets you prototype pixel-perfect interfaces and handoff assets in real time.",
+        "f1Title": "RESPONSIVE AUTO LAYOUT",
+        "f1Body": "Build responsive components that adapt to content without manual resizing.",
+        "f2Title": "DESIGN TO CODE DEV MODE",
+        "f2Body": "Inspect CSS, copy assets, and bridge design-to-code with one shared link.",
+        "f3Title": "CLICKABLE PROTOTYPE FLOWS",
+        "f3Body": "Click through flows and test UX before writing a single React component.",
+        "iconSlug2": "framer",
+        "iconSlug3": "cursor",
+        "iconSlug4": "nextdotjs",
+        "iconSlug5": "notion",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "03 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "BUILD",
+        "stepMeta": "04 / 08",
+        "iconSlug1": "cursor",
+        "toolRole": "WRITES AND SHIPS CODE",
+        "toolTagline": "AI NATIVE",
+        "tagline": "Cursor is the AI-first editor that turns natural language into production-ready features.",
+        "f1Title": "SMART TAB COMPLETION",
+        "f1Body": "Accept multi-line suggestions that understand your entire codebase context.",
+        "f2Title": "INLINE CHAT AGENT",
+        "f2Body": "Ask questions, refactor files, and debug errors without leaving the editor.",
+        "f3Title": "AI COMPOSER WORKFLOWS",
+        "f3Body": "Generate components, tests, and API routes from a single prompt.",
+        "iconSlug2": "github",
+        "iconSlug3": "vercel",
+        "iconSlug4": "typescript",
+        "iconSlug5": "nextdotjs",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "04 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "BACKEND",
+        "stepMeta": "05 / 08",
+        "iconSlug1": "supabase",
+        "toolRole": "POWERS DATA AND AUTH",
+        "toolTagline": "OPEN SOURCE",
+        "tagline": "Supabase delivers Postgres, auth, and real-time APIs without backend boilerplate.",
+        "f1Title": "MANAGED POSTGRES DATABASE",
+        "f1Body": "Store relational data with full SQL power and zero server management.",
+        "f2Title": "BUILT IN AUTH USERS",
+        "f2Body": "Add magic links, OAuth, and row-level security in minutes, not days.",
+        "f3Title": "SERVERLESS EDGE FUNCTIONS",
+        "f3Body": "Run serverless TypeScript close to users for low-latency API responses.",
+        "iconSlug2": "postgresql",
+        "iconSlug3": "redis",
+        "iconSlug4": "docker",
+        "iconSlug5": "typescript",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "05 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "SHIP",
+        "stepMeta": "06 / 08",
+        "iconSlug1": "github",
+        "toolRole": "HOSTS CODE AND REPOS",
+        "toolTagline": "COLLAB",
+        "tagline": "GitHub stores code, runs CI, and manages releases for every indie project.",
+        "f1Title": "BRANCH AND MERGE WORKFLOWS",
+        "f1Body": "Branch, merge, and review changes with pull requests and protected branches.",
+        "f2Title": "GITHUB ACTIONS CI CD",
+        "f2Body": "Automate tests, linting, and deployments on every push to main.",
+        "f3Title": "ISSUES AND PROJECT BOARDS",
+        "f3Body": "Track bugs and features with kanban boards tied directly to your codebase.",
+        "iconSlug2": "vercel",
+        "iconSlug3": "cursor",
+        "iconSlug4": "linear",
+        "iconSlug5": "notion",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "06 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "DEPLOY",
+        "stepMeta": "07 / 08",
+        "iconSlug1": "vercel",
+        "toolRole": "DEPLOYS APPS TO EDGE",
+        "toolTagline": "EDGE FIRST",
+        "tagline": "Vercel ships Next.js to a global edge network with instant previews and scale.",
+        "f1Title": "INSTANT PREVIEW DEPLOYS",
+        "f1Body": "Get a unique URL for every pull request to share progress before merging.",
+        "f2Title": "REAL TIME ANALYTICS",
+        "f2Body": "Monitor Core Web Vitals and traffic with built-in real-time dashboards.",
+        "f3Title": "EDGE SERVERLESS FUNCTIONS",
+        "f3Body": "Run API routes and middleware at the edge without provisioning servers.",
+        "iconSlug2": "nextdotjs",
+        "iconSlug3": "github",
+        "iconSlug4": "supabase",
+        "iconSlug5": "typescript",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "07 / 08"
+      }
+    },
+    {
+      "layoutId": "cta-tech-stack-grid",
+      "slots": {
+        "tag": "WRAP",
+        "handle": "factory.51ultron.com",
+        "eyebrow": "ship this weekend",
+        "ctaLine1": "build your stack",
+        "ctaLine2": "ship faster today",
+        "ctaBody": "Steal this 6-tool workflow and go from idea to live app in 48 hours. No backend team required.",
+        "iconSlug1": "notion",
+        "iconSlug2": "figma",
+        "iconSlug3": "cursor",
+        "iconSlug4": "supabase",
+        "iconSlug5": "github",
+        "iconSlug6": "vercel",
+        "btnPrimary": "Start Building",
+        "btnGhost": "View Templates",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "08 / 08"
+      }
+    }
+  ]
+}

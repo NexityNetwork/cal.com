@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Fraunces:ital,wght@1,400;1,600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1080px;height:1350px;overflow:hidden;background:#0a0a0a;font-family:"Inter",sans-serif;color:#fafafa;-webkit-font-smoothing:antialiased}
+.outline{position:absolute;inset:24px;border:1px solid rgba(255,255,255,0.05);border-radius:32px;pointer-events:none}
+.grid-bg{position:absolute;inset:0;background-image:linear-gradient(rgba(255,255,255,0.025) 1px,transparent 1px),linear-gradient(90deg,rgba(255,255,255,0.025) 1px,transparent 1px);background-size:54px 54px}
+.glow{position:absolute;top:50%;left:50%;transform:translate(-50%,-55%);width:820px;height:820px;border-radius:50%;background:radial-gradient(circle,rgba(255,90,40,0.22) 0%,transparent 60%);pointer-events:none}
+.tag-strip{position:absolute;top:80px;left:80px;right:80px;display:flex;justify-content:space-between;align-items:center}
+.tag-pill{display:inline-flex;align-items:center;gap:10px;padding:12px 22px;background:rgba(255,90,40,0.15);border:1px solid rgba(255,90,40,0.4);color:#ff7a3c;border-radius:50px;font-size:18px;font-weight:700;letter-spacing:0.12em;text-transform:uppercase}
+.handle{font-family:"JetBrains Mono",monospace;font-size:16px;color:#9ca3af}
+.center{position:absolute;top:50%;left:80px;right:80px;transform:translateY(-50%);text-align:center}
+.eyebrow{font-family:"Fraunces",serif;font-style:italic;font-weight:400;font-size:42px;color:#9ca3af;margin-bottom:24px}
+.headline{font-size:140px;font-weight:800;line-height:0.9;letter-spacing:-4px;margin-bottom:32px}
+.headline .accent{background:linear-gradient(180deg,#ff9959,#ff5722);-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent;filter:drop-shadow(0 0 40px rgba(255,90,40,0.4))}
+.sub{font-size:28px;font-weight:400;color:#9ca3af;line-height:1.5;max-width:760px;margin:0 auto 40px}
+.stack-row{display:flex;justify-content:center;gap:14px;margin-bottom:40px}
+.stack-chip{width:64px;height:64px;background:#ffffff;border-radius:14px;padding:10px;display:flex;align-items:center;justify-content:center}
+.stack-chip svg{width:100%;height:100%}
+.btn-row{display:flex;justify-content:center;gap:16px}
+.btn-primary{padding:22px 44px;background:linear-gradient(180deg,#ff9959,#ff5722);color:#0a0a0a;border-radius:14px;font-size:22px;font-weight:800;letter-spacing:-0.3px;box-shadow:0 16px 40px rgba(255,90,40,0.35)}
+.btn-ghost{padding:22px 32px;background:rgba(255,255,255,0.05);border:1px solid rgba(255,255,255,0.1);color:#fafafa;border-radius:14px;font-size:20px;font-weight:600}
+.bottom-row{position:absolute;bottom:80px;left:80px;right:80px;display:flex;justify-content:space-between;align-items:center}
+.domain{font-family:"JetBrains Mono",monospace;font-size:14px;color:#71717a}
+.page{font-family:"JetBrains Mono",monospace;font-size:14px;color:#71717a}
+</style></head>
+<body>
+<div class="grid-bg"></div>
+<div class="glow"></div>
+<div class="outline"></div>
+<div class="tag-strip"><div class="tag-pill">{{tag}}</div><div class="handle">{{handle}}</div></div>
+<div class="center">
+  <div class="eyebrow">{{eyebrow}}</div>
+  <div class="headline">{{ctaLine1}}<br><span class="accent">{{ctaLine2}}</span></div>
+  <div class="sub">{{ctaBody}}</div>
+  <div class="stack-row">
+    <div class="stack-chip">{{iconSvg1}}</div>
+    <div class="stack-chip">{{iconSvg2}}</div>
+    <div class="stack-chip">{{iconSvg3}}</div>
+    <div class="stack-chip">{{iconSvg4}}</div>
+    <div class="stack-chip">{{iconSvg5}}</div>
+    <div class="stack-chip">{{iconSvg6}}</div>
+  </div>
+  <div class="btn-row"><div class="btn-primary">{{btnPrimary}}</div><div class="btn-ghost">{{btnGhost}}</div></div>
+</div>
+<div class="bottom-row"><div class="domain">{{domainText}}</div><div class="page">{{pageOf}}</div></div>
+</body></html>

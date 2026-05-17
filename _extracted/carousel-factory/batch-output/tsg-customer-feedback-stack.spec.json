@@ -1,0 +1,190 @@
+{
+  "id": "tsg-customer-feedback-stack",
+  "brand": "factory.51ultron.com",
+  "brief": "Customer feedback stack — 6 tools that close the loop between user and PR.",
+  "theme": "tech-stack-grid",
+  "slides": [
+    {
+      "layoutId": "cover-tech-stack-grid",
+      "slots": {
+        "tag": "MY STACK",
+        "handle": "factory.51ultron.com",
+        "eyebrow": "customer feedback to shipped code",
+        "titleLine1": "the full stack",
+        "titleAccent": "tools that ship",
+        "iconSlug1": "loom",
+        "iconSlug2": "airtable",
+        "iconSlug3": "linear",
+        "iconSlug4": "notion",
+        "iconSlug5": "github",
+        "iconSlug6": "n8n",
+        "role1": "COLLECTS USER FEEDBACK",
+        "role2": "ORGANIZES RAW INPUT",
+        "role3": "PRIORITIZES PRODUCT TASKS",
+        "role4": "DRAFTS PRODUCT SPECS",
+        "role5": "SHIPS PRODUCTION CODE",
+        "role6": "AUTOMATES THE LOOP",
+        "pageOf": "01 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "COLLECT",
+        "stepMeta": "02 / 08",
+        "iconSlug1": "loom",
+        "toolRole": "COLLECTS USER FEEDBACK",
+        "toolTagline": "ESSENTIAL",
+        "tagline": "Replace long forms with async video messages users actually want to send.",
+        "f1Title": "Async video recording",
+        "f1Body": "Users record bugs and thoughts without writing a novel.",
+        "f2Title": "Instant share links",
+        "f2Body": "Feedback lands in your inbox the moment they stop recording.",
+        "f3Title": "Embed in anything",
+        "f3Body": "Drop Loom into Notion, Linear, or your support portal.",
+        "iconSlug2": "notion",
+        "iconSlug3": "linear",
+        "iconSlug4": "airtable",
+        "iconSlug5": "n8n",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "02 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "ORGANIZE",
+        "stepMeta": "03 / 08",
+        "iconSlug1": "airtable",
+        "toolRole": "ORGANIZES RAW INPUT",
+        "toolTagline": "DATABASE",
+        "tagline": "A flexible CRM that turns raw feedback into structured product signals.",
+        "f1Title": "Tag and categorize",
+        "f1Body": "Sort feedback by sentiment, feature, or customer tier in seconds.",
+        "f2Title": "Linked data records",
+        "f2Body": "Connect user quotes directly to Linear issues and Notion docs.",
+        "f3Title": "Automated filtered views",
+        "f3Body": "Build Kanban and calendar views for your product roadmap.",
+        "iconSlug2": "linear",
+        "iconSlug3": "notion",
+        "iconSlug4": "n8n",
+        "iconSlug5": "github",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "03 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "PRIORITIZE",
+        "stepMeta": "04 / 08",
+        "iconSlug1": "linear",
+        "toolRole": "PRIORITIZES PRODUCT TASKS",
+        "toolTagline": "ROADMAP",
+        "tagline": "The issue tracker that keeps product and engineering in perfect sync.",
+        "f1Title": "Zero config triage",
+        "f1Body": "Auto-assign and label incoming feedback from Airtable or n8n.",
+        "f2Title": "Cycles and roadmaps",
+        "f2Body": "Plan sprints that ship solutions, not just tickets.",
+        "f3Title": "GitHub issue sync",
+        "f3Body": "Branches and pull requests link to every issue automatically.",
+        "iconSlug2": "github",
+        "iconSlug3": "notion",
+        "iconSlug4": "airtable",
+        "iconSlug5": "n8n",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "04 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "SPEC",
+        "stepMeta": "05 / 08",
+        "iconSlug1": "notion",
+        "toolRole": "DRAFTS PRODUCT SPECS",
+        "toolTagline": "WIKI",
+        "tagline": "Where feedback becomes PRDs, meeting notes, and team alignment.",
+        "f1Title": "Living product documents",
+        "f1Body": "Specs evolve with real-time comments from design and eng.",
+        "f2Title": "Central feedback hub",
+        "f2Body": "Centralize Loom links, Airtable views, and Linear roadmaps.",
+        "f3Title": "AI writing assistant",
+        "f3Body": "Draft press releases and changelogs from closed issues.",
+        "iconSlug2": "linear",
+        "iconSlug3": "loom",
+        "iconSlug4": "airtable",
+        "iconSlug5": "github",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "05 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "SHIP",
+        "stepMeta": "06 / 08",
+        "iconSlug1": "github",
+        "toolRole": "SHIPS PRODUCTION CODE",
+        "toolTagline": "REPOSITORY",
+        "tagline": "Turn approved specs into pull requests and deploy with confidence.",
+        "f1Title": "Branch automation rules",
+        "f1Body": "Linear issues spawn branches that trace back to user feedback.",
+        "f2Title": "Actions CI pipeline",
+        "f2Body": "Run tests and checks before any fix reaches production.",
+        "f3Title": "Tagged version releases",
+        "f3Body": "Tag deployments and auto-generate changelogs for users.",
+        "iconSlug2": "linear",
+        "iconSlug3": "notion",
+        "iconSlug4": "n8n",
+        "iconSlug5": "airtable",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "06 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "AUTOMATE",
+        "stepMeta": "07 / 08",
+        "iconSlug1": "n8n",
+        "toolRole": "AUTOMATES THE LOOP",
+        "toolTagline": "WORKFLOW",
+        "tagline": "Stitch Loom, Airtable, Linear, and GitHub into one self-hosted pipeline.",
+        "f1Title": "Event driven triggers",
+        "f1Body": "New feedback instantly creates tickets and alerts the team.",
+        "f2Title": "Cross tool data maps",
+        "f2Body": "Map user fields across tools without writing boilerplate code.",
+        "f3Title": "Self hosted freedom",
+        "f3Body": "Keep sensitive customer data inside your own infrastructure.",
+        "iconSlug2": "airtable",
+        "iconSlug3": "linear",
+        "iconSlug4": "github",
+        "iconSlug5": "notion",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "07 / 08"
+      }
+    },
+    {
+      "layoutId": "cta-tech-stack-grid",
+      "slots": {
+        "tag": "WRAP",
+        "handle": "factory.51ultron.com",
+        "eyebrow": "feedback loop closed",
+        "ctaLine1": "build your own",
+        "ctaLine2": "stack that ships",
+        "ctaBody": "Map your customer voice to code. No gaps, no drift, no dead feedback.",
+        "iconSlug1": "loom",
+        "iconSlug2": "airtable",
+        "iconSlug3": "linear",
+        "iconSlug4": "notion",
+        "iconSlug5": "github",
+        "iconSlug6": "n8n",
+        "btnPrimary": "Get the stack",
+        "btnGhost": "View guide",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "08 / 08"
+      }
+    }
+  ]
+}
