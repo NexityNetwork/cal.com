@@ -5,35 +5,36 @@
 *{margin:0;padding:0;box-sizing:border-box}
 html,body{width:1080px;height:1350px;overflow:hidden;background:#f7f5f0;font-family:"Inter",sans-serif;color:#0f172a;-webkit-font-smoothing:antialiased}
 .outline{position:absolute;inset:24px;border:1.5px solid #0f172a;border-radius:24px;pointer-events:none;z-index:10;box-shadow:6px 6px 0 #0f172a}
-.top-row{position:absolute;top:60px;left:60px;right:60px;display:flex;justify-content:space-between;align-items:center}
+.frame{position:absolute;inset:24px;padding:36px 60px 50px;display:flex;flex-direction:column;gap:18px}
+.top-row{display:flex;justify-content:space-between;align-items:center;margin-bottom:4px}
 .num-pill{display:inline-flex;align-items:center;gap:10px;padding:12px 22px;background:#dc2626;color:#ffffff;border-radius:50px;font-family:"JetBrains Mono",monospace;font-size:18px;font-weight:700;letter-spacing:0.1em;text-transform:uppercase}
 .handle{font-family:"JetBrains Mono",monospace;font-size:18px;color:#475569;font-weight:600}
-.section-label{position:absolute;top:140px;left:60px;font-family:"JetBrains Mono",monospace;font-size:18px;color:#dc2626;letter-spacing:0.14em;text-transform:uppercase;font-weight:700}
-.title{position:absolute;top:180px;left:60px;right:60px;font-size:78px;font-weight:900;line-height:1.02;letter-spacing:-2px;color:#0f172a}
+.section-label{font-family:"JetBrains Mono",monospace;font-size:18px;color:#dc2626;letter-spacing:0.14em;text-transform:uppercase;font-weight:700}
+.title{font-size:74px;font-weight:900;line-height:1.02;letter-spacing:-2px;color:#0f172a;margin-top:-4px}
 .title em{font-family:"Fraunces",serif;font-style:italic;font-weight:400;color:#475569}
-.subtitle{position:absolute;top:380px;left:60px;right:60px;font-size:28px;color:#334155;line-height:1.4;font-weight:500;max-width:920px}
-.table-card{position:absolute;top:520px;left:60px;right:60px;background:#ffffff;border:1.5px solid #0f172a;border-radius:18px;box-shadow:5px 5px 0 #0f172a;overflow:hidden}
-.tbl-head{display:grid;grid-template-columns:1.5fr 1fr 1fr 0.9fr;align-items:center;padding:20px 28px;background:#0f172a;color:#f7f5f0;font-family:"JetBrains Mono",monospace;font-size:16px;letter-spacing:0.1em;text-transform:uppercase;font-weight:700}
+.subtitle{font-size:26px;color:#334155;line-height:1.4;font-weight:500;max-width:920px}
+.table-card{flex:1;background:#ffffff;border:1.5px solid #0f172a;border-radius:18px;box-shadow:5px 5px 0 #0f172a;overflow:hidden;display:flex;flex-direction:column}
+.tbl-head{display:grid;grid-template-columns:1.5fr 1fr 1fr 0.9fr;align-items:center;padding:22px 28px;background:#0f172a;color:#f7f5f0;font-family:"JetBrains Mono",monospace;font-size:17px;letter-spacing:0.1em;text-transform:uppercase;font-weight:700}
 .tbl-head .h-acc{color:#fbbf24}
-.tbl-row{display:grid;grid-template-columns:1.5fr 1fr 1fr 0.9fr;align-items:center;padding:22px 28px;border-bottom:1px solid #e2e8f0;color:#0f172a}
+.tbl-row{flex:1;display:grid;grid-template-columns:1.5fr 1fr 1fr 0.9fr;align-items:center;padding:0 28px;border-bottom:1px solid #e2e8f0;color:#0f172a;min-height:0}
 .tbl-row:last-child{border-bottom:none}
-.tbl-row .opt{display:flex;align-items:center;gap:14px;font-weight:800;font-size:20px}
-.tbl-row .opt .ic{width:42px;height:42px;border-radius:9px;background:#f7f5f0;border:1.5px solid #0f172a;display:flex;align-items:center;justify-content:center;padding:6px;flex-shrink:0}
+.tbl-row .opt{display:flex;align-items:center;gap:14px;font-weight:800;font-size:22px}
+.tbl-row .opt .ic{width:46px;height:46px;border-radius:9px;background:#f7f5f0;border:1.5px solid #0f172a;display:flex;align-items:center;justify-content:center;padding:7px;flex-shrink:0}
 .tbl-row .opt .ic svg{width:100%;height:100%}
-.tbl-row .cell{font-size:18px;color:#334155;font-weight:600}
-.tbl-row .stat{font-family:"JetBrains Mono",monospace;font-weight:800;color:#dc2626;font-size:20px}
+.tbl-row .cell{font-size:19px;color:#334155;font-weight:600}
+.tbl-row .stat{font-family:"JetBrains Mono",monospace;font-weight:800;color:#dc2626;font-size:21px}
 .tbl-row .stat.lo{color:#475569}
 .tbl-row.winner{background:#fef3c7}
 .tbl-row.winner .opt{color:#0f172a}
 .tbl-row.winner .stat{color:#0f172a}
-.tbl-row.winner .opt::after{content:"🏆";margin-left:auto;margin-right:0;font-size:18px}
-.insight-card{position:absolute;top:1090px;left:60px;right:60px;padding:24px 28px;background:#0f172a;color:#f7f5f0;border-radius:14px;display:flex;align-items:center;gap:18px;box-shadow:4px 4px 0 #475569;height:108px}
+.tbl-row.winner .opt::after{content:"🏆";margin-left:6px;font-size:20px}
+.insight-card{padding:24px 28px;background:#0f172a;color:#f7f5f0;border-radius:14px;display:flex;align-items:center;gap:18px;box-shadow:4px 4px 0 #475569}
 .insight-card .star{width:54px;height:54px;border-radius:12px;background:#dc2626;display:flex;align-items:center;justify-content:center;color:#fff;font-size:24px;font-weight:900;flex-shrink:0}
 .insight-card .info{flex:1}
 .insight-card .info .ck{font-family:"JetBrains Mono",monospace;font-size:14px;color:#fbbf24;letter-spacing:0.12em;text-transform:uppercase;margin-bottom:6px;font-weight:700}
 .insight-card .info .ct{font-size:22px;font-weight:600;line-height:1.32;color:#f7f5f0}
 .insight-card .info .ct em{font-family:"Fraunces",serif;font-style:italic;font-weight:400;color:#fbbf24}
-.bottom-row{position:absolute;bottom:50px;left:60px;right:60px;display:flex;justify-content:space-between;align-items:center}
+.bottom-row{display:flex;justify-content:space-between;align-items:center;margin-top:4px}
 .bottom-row .chips{display:flex;gap:10px}
 .bottom-row .chips .chip{width:46px;height:46px;border-radius:11px;background:#ffffff;border:1.5px solid #0f172a;display:flex;align-items:center;justify-content:center;padding:7px;box-shadow:2px 2px 0 #0f172a}
 .bottom-row .chips .chip svg{width:100%;height:100%}
@@ -41,56 +42,58 @@ html,body{width:1080px;height:1350px;overflow:hidden;background:#f7f5f0;font-fam
 </style></head>
 <body>
 <div class="outline"></div>
-<div class="top-row"><div class="num-pill">{{numLabel}}</div><div class="handle">{{handle}}</div></div>
-<div class="section-label">{{sectionLabel}}</div>
-<div class="title">{{title}} <em>{{titleItalic}}</em></div>
-<div class="subtitle">{{subtitle}}</div>
-<div class="table-card">
-  <div class="tbl-head">
-    <div>{{colHead0}}</div>
-    <div>{{colHead1}}</div>
-    <div>{{colHead2}}</div>
-    <div class="h-acc">{{colHead3}}</div>
+<div class="frame">
+  <div class="top-row"><div class="num-pill">{{numLabel}}</div><div class="handle">{{handle}}</div></div>
+  <div class="section-label">{{sectionLabel}}</div>
+  <div class="title">{{title}} <em>{{titleItalic}}</em></div>
+  <div class="subtitle">{{subtitle}}</div>
+  <div class="table-card">
+    <div class="tbl-head">
+      <div>{{colHead0}}</div>
+      <div>{{colHead1}}</div>
+      <div>{{colHead2}}</div>
+      <div class="h-acc">{{colHead3}}</div>
+    </div>
+    <div class="tbl-row">
+      <div class="opt"><div class="ic">{{iconSvg1}}</div><span>{{row1Name}}</span></div>
+      <div class="cell">{{row1C1}}</div>
+      <div class="cell">{{row1C2}}</div>
+      <div class="stat lo">{{row1C3}}</div>
+    </div>
+    <div class="tbl-row">
+      <div class="opt"><div class="ic">{{iconSvg2}}</div><span>{{row2Name}}</span></div>
+      <div class="cell">{{row2C1}}</div>
+      <div class="cell">{{row2C2}}</div>
+      <div class="stat lo">{{row2C3}}</div>
+    </div>
+    <div class="tbl-row winner">
+      <div class="opt"><div class="ic">{{iconSvg3}}</div><span>{{row3Name}}</span></div>
+      <div class="cell">{{row3C1}}</div>
+      <div class="cell">{{row3C2}}</div>
+      <div class="stat">{{row3C3}}</div>
+    </div>
+    <div class="tbl-row">
+      <div class="opt"><div class="ic">{{iconSvg4}}</div><span>{{row4Name}}</span></div>
+      <div class="cell">{{row4C1}}</div>
+      <div class="cell">{{row4C2}}</div>
+      <div class="stat lo">{{row4C3}}</div>
+    </div>
   </div>
-  <div class="tbl-row">
-    <div class="opt"><div class="ic">{{iconSvg1}}</div><span>{{row1Name}}</span></div>
-    <div class="cell">{{row1C1}}</div>
-    <div class="cell">{{row1C2}}</div>
-    <div class="stat lo">{{row1C3}}</div>
+  <div class="insight-card">
+    <div class="star">★</div>
+    <div class="info">
+      <div class="ck">{{insightLabel}}</div>
+      <div class="ct">{{insightText}}</div>
+    </div>
   </div>
-  <div class="tbl-row">
-    <div class="opt"><div class="ic">{{iconSvg2}}</div><span>{{row2Name}}</span></div>
-    <div class="cell">{{row2C1}}</div>
-    <div class="cell">{{row2C2}}</div>
-    <div class="stat lo">{{row2C3}}</div>
+  <div class="bottom-row">
+    <div class="chips">
+      <div class="chip">{{iconSvg5}}</div>
+      <div class="chip">{{iconSvg6}}</div>
+      <div class="chip">{{iconSvg7}}</div>
+      <div class="chip">{{iconSvg8}}</div>
+    </div>
+    <div class="pg">{{pageOf}}</div>
   </div>
-  <div class="tbl-row winner">
-    <div class="opt"><div class="ic">{{iconSvg3}}</div><span>{{row3Name}}</span></div>
-    <div class="cell">{{row3C1}}</div>
-    <div class="cell">{{row3C2}}</div>
-    <div class="stat">{{row3C3}}</div>
-  </div>
-  <div class="tbl-row">
-    <div class="opt"><div class="ic">{{iconSvg4}}</div><span>{{row4Name}}</span></div>
-    <div class="cell">{{row4C1}}</div>
-    <div class="cell">{{row4C2}}</div>
-    <div class="stat lo">{{row4C3}}</div>
-  </div>
-</div>
-<div class="insight-card">
-  <div class="star">★</div>
-  <div class="info">
-    <div class="ck">{{insightLabel}}</div>
-    <div class="ct">{{insightText}}</div>
-  </div>
-</div>
-<div class="bottom-row">
-  <div class="chips">
-    <div class="chip">{{iconSvg5}}</div>
-    <div class="chip">{{iconSvg6}}</div>
-    <div class="chip">{{iconSvg7}}</div>
-    <div class="chip">{{iconSvg8}}</div>
-  </div>
-  <div class="pg">{{pageOf}}</div>
 </div>
 </body></html>

@@ -5,32 +5,33 @@
 *{margin:0;padding:0;box-sizing:border-box}
 html,body{width:1080px;height:1350px;overflow:hidden;background:#f7f5f0;font-family:"Inter",sans-serif;color:#0f172a;-webkit-font-smoothing:antialiased}
 .outline{position:absolute;inset:24px;border:1.5px solid #0f172a;border-radius:24px;pointer-events:none;z-index:10;box-shadow:6px 6px 0 #0f172a}
-.top-row{position:absolute;top:60px;left:60px;right:60px;display:flex;justify-content:space-between;align-items:center}
+.frame{position:absolute;inset:24px;padding:36px 60px 50px;display:flex;flex-direction:column;gap:18px}
+.top-row{display:flex;justify-content:space-between;align-items:center;margin-bottom:4px}
 .num-pill{display:inline-flex;align-items:center;gap:10px;padding:12px 22px;background:#dc2626;color:#ffffff;border-radius:50px;font-family:"JetBrains Mono",monospace;font-size:18px;font-weight:700;letter-spacing:0.1em;text-transform:uppercase}
 .handle{font-family:"JetBrains Mono",monospace;font-size:18px;color:#475569;font-weight:600}
-.section-label{position:absolute;top:140px;left:60px;font-family:"JetBrains Mono",monospace;font-size:18px;color:#dc2626;letter-spacing:0.14em;text-transform:uppercase;font-weight:700}
-.title{position:absolute;top:180px;left:60px;right:60px;font-size:78px;font-weight:900;line-height:1.02;letter-spacing:-2px;color:#0f172a}
+.section-label{font-family:"JetBrains Mono",monospace;font-size:18px;color:#dc2626;letter-spacing:0.14em;text-transform:uppercase;font-weight:700}
+.title{font-size:74px;font-weight:900;line-height:1.02;letter-spacing:-2px;color:#0f172a;margin-top:-4px}
 .title em{font-family:"Fraunces",serif;font-style:italic;font-weight:400;color:#475569}
-.subtitle{position:absolute;top:380px;left:60px;right:60px;font-size:28px;color:#334155;line-height:1.4;font-weight:500;max-width:920px}
-.chart-card{position:absolute;top:520px;left:60px;right:60px;padding:36px 40px 26px;background:#ffffff;border:1.5px solid #0f172a;border-radius:18px;box-shadow:5px 5px 0 #0f172a}
-.chart-card .ch-eyebrow{font-family:"JetBrains Mono",monospace;font-size:18px;color:#0f172a;letter-spacing:0.12em;text-transform:uppercase;margin-bottom:22px;display:flex;justify-content:space-between;font-weight:700}
+.subtitle{font-size:26px;color:#334155;line-height:1.4;font-weight:500;max-width:920px}
+.chart-card{flex:1;padding:32px 40px 24px;background:#ffffff;border:1.5px solid #0f172a;border-radius:18px;box-shadow:5px 5px 0 #0f172a;display:flex;flex-direction:column}
+.chart-card .ch-eyebrow{font-family:"JetBrains Mono",monospace;font-size:18px;color:#0f172a;letter-spacing:0.12em;text-transform:uppercase;margin-bottom:24px;display:flex;justify-content:space-between;font-weight:700}
 .chart-card .ch-eyebrow .yax{color:#475569;font-weight:600}
-.chart-card .ch-bars{display:flex;align-items:flex-end;justify-content:space-between;gap:20px;height:300px;margin-bottom:32px;padding:24px 6px 0}
-.chart-card .ch-bar-col{flex:1;display:flex;flex-direction:column;align-items:center;gap:14px}
+.chart-card .ch-bars{flex:1;display:grid;grid-template-columns:repeat(5,1fr);gap:22px;align-items:end;padding:30px 4px 0;min-height:0}
+.chart-card .ch-bar-col{display:flex;flex-direction:column;align-items:center;justify-content:flex-end;height:100%;position:relative}
 .chart-card .ch-bar{width:100%;background:#0f172a;border-radius:10px 10px 0 0;position:relative}
 .chart-card .ch-bar.high{background:#dc2626}
 .chart-card .ch-bar.med{background:#fbbf24}
 .chart-card .ch-bar.lo{background:#10b981}
-.chart-card .ch-bar .v{position:absolute;top:-34px;left:0;right:0;text-align:center;font-family:"JetBrains Mono",monospace;font-size:20px;color:#0f172a;font-weight:800}
-.chart-card .ch-bar-lbl{font-size:18px;color:#0f172a;font-weight:700;text-align:center;line-height:1.2}
-.chart-card .ch-foot{display:flex;justify-content:space-between;font-family:"JetBrains Mono",monospace;font-size:15px;color:#475569;padding-top:18px;border-top:1px solid #e2e8f0;font-weight:600}
-.insight-card{position:absolute;top:1090px;left:60px;right:60px;padding:24px 28px;background:#0f172a;color:#f7f5f0;border-radius:14px;display:flex;align-items:center;gap:18px;box-shadow:4px 4px 0 #475569;height:108px}
+.chart-card .ch-bar .v{position:absolute;top:-36px;left:0;right:0;text-align:center;font-family:"JetBrains Mono",monospace;font-size:22px;color:#0f172a;font-weight:800}
+.chart-card .ch-bar-lbl{font-size:18px;color:#0f172a;font-weight:700;text-align:center;line-height:1.2;margin-top:12px}
+.chart-card .ch-foot{display:flex;justify-content:space-between;font-family:"JetBrains Mono",monospace;font-size:15px;color:#475569;padding-top:18px;margin-top:16px;border-top:1px solid #e2e8f0;font-weight:600}
+.insight-card{padding:24px 28px;background:#0f172a;color:#f7f5f0;border-radius:14px;display:flex;align-items:center;gap:18px;box-shadow:4px 4px 0 #475569}
 .insight-card .star{width:54px;height:54px;border-radius:12px;background:#dc2626;display:flex;align-items:center;justify-content:center;color:#fff;font-size:24px;font-weight:900;flex-shrink:0}
 .insight-card .info{flex:1}
 .insight-card .info .ck{font-family:"JetBrains Mono",monospace;font-size:14px;color:#fbbf24;letter-spacing:0.12em;text-transform:uppercase;margin-bottom:6px;font-weight:700}
 .insight-card .info .ct{font-size:22px;font-weight:600;line-height:1.32;color:#f7f5f0}
 .insight-card .info .ct em{font-family:"Fraunces",serif;font-style:italic;font-weight:400;color:#fbbf24}
-.bottom-row{position:absolute;bottom:50px;left:60px;right:60px;display:flex;justify-content:space-between;align-items:center}
+.bottom-row{display:flex;justify-content:space-between;align-items:center;margin-top:4px}
 .bottom-row .chips{display:flex;gap:10px}
 .bottom-row .chips .chip{width:46px;height:46px;border-radius:11px;background:#ffffff;border:1.5px solid #0f172a;display:flex;align-items:center;justify-content:center;padding:7px;box-shadow:2px 2px 0 #0f172a}
 .bottom-row .chips .chip svg{width:100%;height:100%}
@@ -38,35 +39,37 @@ html,body{width:1080px;height:1350px;overflow:hidden;background:#f7f5f0;font-fam
 </style></head>
 <body>
 <div class="outline"></div>
-<div class="top-row"><div class="num-pill">{{numLabel}}</div><div class="handle">{{handle}}</div></div>
-<div class="section-label">{{sectionLabel}}</div>
-<div class="title">{{title}} <em>{{titleItalic}}</em></div>
-<div class="subtitle">{{subtitle}}</div>
-<div class="chart-card">
-  <div class="ch-eyebrow"><span>{{chartTitle}}</span><span class="yax">{{chartYAxis}}</span></div>
-  <div class="ch-bars">
-    <div class="ch-bar-col"><div class="ch-bar" style="height:38%"><div class="v">{{bar1V}}</div></div><div class="ch-bar-lbl">{{bar1L}}</div></div>
-    <div class="ch-bar-col"><div class="ch-bar lo" style="height:56%"><div class="v">{{bar2V}}</div></div><div class="ch-bar-lbl">{{bar2L}}</div></div>
-    <div class="ch-bar-col"><div class="ch-bar med" style="height:74%"><div class="v">{{bar3V}}</div></div><div class="ch-bar-lbl">{{bar3L}}</div></div>
-    <div class="ch-bar-col"><div class="ch-bar high" style="height:94%"><div class="v">{{bar4V}}</div></div><div class="ch-bar-lbl">{{bar4L}}</div></div>
-    <div class="ch-bar-col"><div class="ch-bar" style="height:48%"><div class="v">{{bar5V}}</div></div><div class="ch-bar-lbl">{{bar5L}}</div></div>
+<div class="frame">
+  <div class="top-row"><div class="num-pill">{{numLabel}}</div><div class="handle">{{handle}}</div></div>
+  <div class="section-label">{{sectionLabel}}</div>
+  <div class="title">{{title}} <em>{{titleItalic}}</em></div>
+  <div class="subtitle">{{subtitle}}</div>
+  <div class="chart-card">
+    <div class="ch-eyebrow"><span>{{chartTitle}}</span><span class="yax">{{chartYAxis}}</span></div>
+    <div class="ch-bars">
+      <div class="ch-bar-col"><div class="ch-bar" style="height:38%"><div class="v">{{bar1V}}</div></div><div class="ch-bar-lbl">{{bar1L}}</div></div>
+      <div class="ch-bar-col"><div class="ch-bar lo" style="height:56%"><div class="v">{{bar2V}}</div></div><div class="ch-bar-lbl">{{bar2L}}</div></div>
+      <div class="ch-bar-col"><div class="ch-bar med" style="height:74%"><div class="v">{{bar3V}}</div></div><div class="ch-bar-lbl">{{bar3L}}</div></div>
+      <div class="ch-bar-col"><div class="ch-bar high" style="height:94%"><div class="v">{{bar4V}}</div></div><div class="ch-bar-lbl">{{bar4L}}</div></div>
+      <div class="ch-bar-col"><div class="ch-bar" style="height:48%"><div class="v">{{bar5V}}</div></div><div class="ch-bar-lbl">{{bar5L}}</div></div>
+    </div>
+    <div class="ch-foot"><span>{{chartSource}}</span><span>{{chartPeriod}}</span></div>
   </div>
-  <div class="ch-foot"><span>{{chartSource}}</span><span>{{chartPeriod}}</span></div>
-</div>
-<div class="insight-card">
-  <div class="star">★</div>
-  <div class="info">
-    <div class="ck">{{insightLabel}}</div>
-    <div class="ct">{{insightText}}</div>
+  <div class="insight-card">
+    <div class="star">★</div>
+    <div class="info">
+      <div class="ck">{{insightLabel}}</div>
+      <div class="ct">{{insightText}}</div>
+    </div>
   </div>
-</div>
-<div class="bottom-row">
-  <div class="chips">
-    <div class="chip">{{iconSvg1}}</div>
-    <div class="chip">{{iconSvg2}}</div>
-    <div class="chip">{{iconSvg3}}</div>
-    <div class="chip">{{iconSvg4}}</div>
+  <div class="bottom-row">
+    <div class="chips">
+      <div class="chip">{{iconSvg1}}</div>
+      <div class="chip">{{iconSvg2}}</div>
+      <div class="chip">{{iconSvg3}}</div>
+      <div class="chip">{{iconSvg4}}</div>
+    </div>
+    <div class="pg">{{pageOf}}</div>
   </div>
-  <div class="pg">{{pageOf}}</div>
 </div>
 </body></html>
