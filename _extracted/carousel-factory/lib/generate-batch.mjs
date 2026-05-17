@@ -71,6 +71,7 @@ const FAMILY_LAYOUTS = {
   "agent-lineup":     { cover: "cover-agent-lineup",    body: "body-agent-lineup",    cta: "cta-agent-lineup" },
   "stack-tour":       { cover: "cover-stack-tour",      body: "body-stack-tour",      cta: "cta-stack-tour" },
   "before-after":     { cover: "cover-before-after",    body: "body-before-after",    cta: "cta-before-after" },
+  "dark-pill-glow":   { cover: "cover-dark-pill-glow",  body: "body-dark-pill-glow",  cta: "cta-dark-pill-glow" },
 };
 
 // CTA slot conventions, shared by all families:
@@ -269,6 +270,11 @@ Uses inline brand SVGs via iconSlug<N>. Compose auto-derives color. NO iconColor
 COVER cover-before-after: pageOf, handle, title (2-4 bold words like "Stop doing"), titleAccent (1-3 blue words), description (1-2 sentences ≤30 words), badLabel1, badLabel2 (2 BAD-state phrases 4-7 words each), badStat1, badStat2 (short stats like "2% reply rate"), goodLabel1, goodLabel2 (2 GOOD-state phrases 4-7 words), goodStat1, goodStat2 (positive stats), iconSlug1, iconSlug2, iconSlug3, iconSlug4 (4 bottom-strip brand slugs).
 BODY  body-before-after: slideLabel ("STEP 02 / 06"), handle, title (2-4 bold words), titleAccent (1-3 blue words), description (1-2 sentences ≤30 words), badLabel (uppercase 1-2 words like "BEFORE"), badText (1 sentence ≤22 words), badStat (metric like "$300/lead"), iconSlug1, iconSlug2 ("before" stack slugs), goodLabel (uppercase 1-2 words like "AFTER"), goodText (1 sentence ≤22 words), goodStat (metric like "$25/lead"), iconSlug3, iconSlug4, iconSlug5 ("after" stack slugs), ctaArrow (3-5 words).
 CTA   cta-before-after: pageOf, handle, eyebrow (2-3 uppercase words like "MAKE THE SWITCH"), headlineLine1 (2-3 bold words), headlineAccent (1-3 green words), body (1-2 sentences ≤30 words), iconSlug1..iconSlug6 (6 brand slugs), ctaText (3-5 words).`,
+
+  "dark-pill-glow": `Layouts (deep #0a0a0a + dotted texture + horizontal pill with two-tone glowing text + Fraunces italic subtitle + small orange tag pill + soft Card outline — premium dev-tool aesthetic).
+COVER cover-dark-pill-glow: tag (1 short uppercase category word like "TOOLS" / "REPOS" / "STACK"), pillLeft (1-2 Inter words, white, e.g. "Open source"), pillRight (1-2 orange-glowing Inter words completing the phrase, e.g. "tools" — note: kept short, single line), subline (4-8 word descriptor, ends focuses on the audience like "projects for analytics teams"), pageOf (e.g. "01 / 06").
+BODY  body-dark-pill-glow: For the browser/dashboard mockup section, populate it as if a real product homepage: toolName (1-3 word product name), btnLabel (2-3 word top-right CTA like "Sign up" or "Get started"), alertLine (8-14 word notice headline like "Slack integration is now generally available"), alertCta (1-3 words link text), heroTitle (4-8 word product hero headline), heroBody (1 sentence ≤25 words product description), snippet (a short technical command or code-like phrase ≤30 chars, e.g. "npm install @org/sdk"), snippetBtn (1-2 word button label), stat (a number like "12k" or "3,400"), statLabel (2-5 words like "teams worldwide"), codeComment (3-7 words API/code comment), codeKeyword (1 keyword like "import" or "POST"), codeString (a string value ≤30 chars). Then for the bottom dark gradient section: slideTitle (Fraunces italic 4-7 word slide title summarizing the body topic), slideSubtitle (1 sentence ≤25 words italic subtitle), domainText (a short fake domain like "toolname.com"), pageOf ("02 / 06").
+CTA   cta-dark-pill-glow: tag (1-2 uppercase words like "WRAP"), eyebrow (4-7 italic words like "the rest is up to you"), headlineMain (2-3 bold Inter words white), headlineGlow (1-3 orange-glow Inter words completing the headline), sublineItalic (1 sentence ≤25 words Fraunces italic), pageOf ("06 / 06").`,
 };
 
 const PROMPT_TEMPLATE = (brief, family) => `You are a carousel planner.
@@ -590,6 +596,13 @@ const BRIEFS = [
   { id: "ba-hiring-ai",             family: "before-after",   text: "Hiring funnel before vs after AI — 200 applicants, same quality, no recruiter." },
   { id: "ba-content-ai",            family: "before-after",   text: "Content production before vs after AI — one writer ships 30 pieces a week." },
   { id: "ba-lead-gen-ai",           family: "before-after",   text: "Lead gen before vs after AI agents — pipeline doubled, CAC cut in half." },
+
+  // dark-pill-glow (premium dev-tool aesthetic — dark + glowing pill)
+  { id: "dpg-self-hosted-analytics",  family: "dark-pill-glow", text: "7 self-hosted analytics tools that beat the big SaaS dashboards." },
+  { id: "dpg-keyboard-apps",          family: "dark-pill-glow", text: "6 keyboard-first apps that quietly replaced my mouse." },
+  { id: "dpg-privacy-first-tools",    family: "dark-pill-glow", text: "5 privacy-first product tools that don't sell your usage data." },
+  { id: "dpg-tiny-cli-stack",         family: "dark-pill-glow", text: "The 7-CLI stack a senior engineer actually uses every day." },
+  { id: "dpg-monitoring-no-bs",       family: "dark-pill-glow", text: "Monitoring without the bullshit — 6 tools real SREs swear by." },
 ];
 
 // ─── Kimi planner with retry on JSON parse failure ─────────────────────────

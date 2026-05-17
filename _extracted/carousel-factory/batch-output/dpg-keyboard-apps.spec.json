@@ -1,0 +1,161 @@
+{
+  "id": "dpg-keyboard-apps",
+  "brand": "KeyStack",
+  "brief": "6 keyboard-first apps that quietly replaced my mouse.",
+  "theme": "dark-pill-glow",
+  "slides": [
+    {
+      "layoutId": "cover-dark-pill-glow",
+      "slots": {
+        "tag": "TOOLS",
+        "pillLeft": "Keyboard",
+        "pillRight": "first apps",
+        "subline": "Six tools that quietly replaced my mouse entirely",
+        "pageOf": "01 / 08"
+      }
+    },
+    {
+      "layoutId": "body-dark-pill-glow",
+      "slots": {
+        "toolName": "Raycast",
+        "btnLabel": "Get started",
+        "alertLine": "AI Chat is now available for all Pro users today",
+        "alertCta": "Try it",
+        "heroTitle": "Control your Mac with a keystroke",
+        "heroBody": "Replace Spotlight with blazing-fast commands, scripts, and integrations.",
+        "snippet": "brew install --cask raycast",
+        "snippetBtn": "Copy",
+        "stat": "12k",
+        "statLabel": "extensions built",
+        "codeComment": "Launch apps without touching trackpad",
+        "codeKeyword": "import",
+        "codeString": "@raycast/api",
+        "slideTitle": "A launcher that thinks in shortcuts",
+        "slideSubtitle": "Raycast turns every workflow into a few keystrokes.",
+        "domainText": "raycast.com",
+        "pageOf": "02 / 08"
+      }
+    },
+    {
+      "layoutId": "body-dark-pill-glow",
+      "slots": {
+        "toolName": "Neovim",
+        "btnLabel": "Read docs",
+        "alertLine": "Version 0.10 brings native treesitter highlighting to all buffers",
+        "alertCta": "See notes",
+        "heroTitle": "Edit text at the speed of thought",
+        "heroBody": "A hyperextensible modal editor built for terminal purists.",
+        "snippet": "brew install neovim",
+        "snippetBtn": "Install",
+        "stat": "400k",
+        "statLabel": "active users",
+        "codeComment": "Open file and navigate with hjkl",
+        "codeKeyword": "vim",
+        "codeString": "~/.config/nvim/init.lua",
+        "slideTitle": "Modal editing for terminal purists",
+        "slideSubtitle": "Neovim keeps your fingers on the home row forever.",
+        "domainText": "neovim.io",
+        "pageOf": "03 / 08"
+      }
+    },
+    {
+      "layoutId": "body-dark-pill-glow",
+      "slots": {
+        "toolName": "Linear",
+        "btnLabel": "Sign up",
+        "alertLine": "Cycles now support custom workflows and automated status updates",
+        "alertCta": "Learn more",
+        "heroTitle": "Plan projects without leaving the keyboard",
+        "heroBody": "Issue tracking reimagined for software teams who despise clicking.",
+        "snippet": "npm i @linear/sdk",
+        "snippetBtn": "Get SDK",
+        "stat": "50k",
+        "statLabel": "fast teams",
+        "codeComment": "Create issue instantly via command line",
+        "codeKeyword": "POST",
+        "codeString": "api.linear.app/v2/issues",
+        "slideTitle": "Project management for keyboard lovers",
+        "slideSubtitle": "Linear proves that issue tracking can be purely keystroke-driven.",
+        "domainText": "linear.app",
+        "pageOf": "04 / 08"
+      }
+    },
+    {
+      "layoutId": "body-dark-pill-glow",
+      "slots": {
+        "toolName": "Warp",
+        "btnLabel": "Download",
+        "alertLine": "Warp Drive notebooks are now shareable across your entire team",
+        "alertCta": "Share now",
+        "heroTitle": "The terminal rebuilt for modern developers",
+        "heroBody": "Rust-native speed, AI command suggestions, and collaborative notebooks inside.",
+        "snippet": "brew install --cask warp",
+        "snippetBtn": "Copy",
+        "stat": "3M",
+        "statLabel": "total downloads",
+        "codeComment": "Run workflows without touching the mouse",
+        "codeKeyword": "import",
+        "codeString": "warp.sh/dev",
+        "slideTitle": "A terminal that feels like an IDE",
+        "slideSubtitle": "Warp replaces Terminal.app with blocks, AI, and shared commands.",
+        "domainText": "warp.dev",
+        "pageOf": "05 / 08"
+      }
+    },
+    {
+      "layoutId": "body-dark-pill-glow",
+      "slots": {
+        "toolName": "Arc Browser",
+        "btnLabel": "Get Arc",
+        "alertLine": "Live Folders let you organize tabs automatically by workspace rules",
+        "alertCta": "Explore",
+        "heroTitle": "Browse the web without lifting your fingers",
+        "heroBody": "Spaces, shortcuts, and a command bar make tabs trivial.",
+        "snippet": "brew install --cask arc",
+        "snippetBtn": "Install",
+        "stat": "2M",
+        "statLabel": "active users",
+        "codeComment": "Jump between spaces using keyboard chords",
+        "codeKeyword": "import",
+        "codeString": "arc.net/max",
+        "slideTitle": "Browsing built for shortcut natives",
+        "slideSubtitle": "Arc transforms Chromium into a keyboard-driven workspace for tabs.",
+        "domainText": "arc.net",
+        "pageOf": "06 / 08"
+      }
+    },
+    {
+      "layoutId": "body-dark-pill-glow",
+      "slots": {
+        "toolName": "Lazygit",
+        "btnLabel": "Install",
+        "alertLine": "Custom keybindings now support multi-step cherry-pick and rebase flows",
+        "alertCta": "View docs",
+        "heroTitle": "Git workflows entirely from the keyboard",
+        "heroBody": "A TUI that makes staging, committing, and pushing mouse-obsolete.",
+        "snippet": "brew install lazygit",
+        "snippetBtn": "Copy",
+        "stat": "45k",
+        "statLabel": "GitHub stars",
+        "codeComment": "Stage files and resolve conflicts with hjkl",
+        "codeKeyword": "git",
+        "codeString": "lazygit --git-dir=.git",
+        "slideTitle": "Git operations without the GUI clutter",
+        "slideSubtitle": "Lazygit replaces SourceTree with a fast terminal interface entirely.",
+        "domainText": "lazygit.io",
+        "pageOf": "07 / 08"
+      }
+    },
+    {
+      "layoutId": "cta-dark-pill-glow",
+      "slots": {
+        "tag": "WRAP",
+        "eyebrow": "the rest is up to you",
+        "headlineMain": "Build your",
+        "headlineGlow": "keyboard stack",
+        "sublineItalic": "Pick one tool, master the shortcuts, then lose the mouse.",
+        "pageOf": "08 / 08"
+      }
+    }
+  ]
+}
