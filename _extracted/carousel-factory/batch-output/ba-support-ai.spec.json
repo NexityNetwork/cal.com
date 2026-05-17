@@ -1,0 +1,180 @@
+{
+  "id": "ba-support-ai",
+  "brand": "Resolve",
+  "brief": "Customer support before vs after AI — ticket time dropped from hours to minutes.",
+  "theme": "before-after",
+  "slides": [
+    {
+      "layoutId": "cover-before-after",
+      "slots": {
+        "pageOf": "01 / 08",
+        "handle": "@resolve",
+        "title": "Stop wasting",
+        "titleAccent": "hours on tickets",
+        "description": "AI shrinks your support queue from hours to minutes without extra headcount.",
+        "badLabel1": "Endless backlogs of tickets",
+        "badLabel2": "Painfully slow agent replies",
+        "badStat1": "8 hr wait",
+        "badStat2": "12% CSAT",
+        "goodLabel1": "Instant resolution for users",
+        "goodLabel2": "Happier customers every day",
+        "goodStat1": "2 min reply",
+        "goodStat2": "94% CSAT",
+        "iconSlug1": "zendesk",
+        "iconSlug2": "intercom",
+        "iconSlug3": "slack",
+        "iconSlug4": "salesforce"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 01 / 06",
+        "handle": "@resolve",
+        "title": "Tickets pile",
+        "titleAccent": "up fast",
+        "description": "Manual sorting buries urgent requests under a mountain of open threads.",
+        "badLabel": "BEFORE",
+        "badText": "Agents spent 45 minutes triaging every incoming batch by hand.",
+        "badStat": "45 min triage",
+        "iconSlug1": "zendesk",
+        "iconSlug2": "gmail",
+        "goodLabel": "AFTER",
+        "goodText": "AI instantly tags, prioritizes, and routes tickets to the right queue.",
+        "goodStat": "0 min triage",
+        "iconSlug3": "openai",
+        "iconSlug4": "slack",
+        "iconSlug5": "salesforce",
+        "ctaArrow": "See faster routing"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 02 / 06",
+        "handle": "@resolve",
+        "title": "Replies take",
+        "titleAccent": "too long",
+        "description": "Customers wait hours for a first response while agents context-switch.",
+        "badLabel": "BEFORE",
+        "badText": "Average first reply stretched past four hours during peak volume.",
+        "badStat": "4 hr reply",
+        "iconSlug1": "intercom",
+        "iconSlug2": "hubspot",
+        "goodLabel": "AFTER",
+        "goodText": "AI drafts and sends personalized first responses in seconds.",
+        "goodStat": "30 sec reply",
+        "iconSlug3": "openai",
+        "iconSlug4": "zendesk",
+        "iconSlug5": "twilio",
+        "ctaArrow": "Cut wait times"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 03 / 06",
+        "handle": "@resolve",
+        "title": "Digging for",
+        "titleAccent": "context",
+        "description": "Agents waste time hunting order history and past notes across tabs.",
+        "badLabel": "BEFORE",
+        "badText": "Agents toggled between six tools just to understand one issue.",
+        "badStat": "6 tools",
+        "iconSlug1": "salesforce",
+        "iconSlug2": "stripe",
+        "goodLabel": "AFTER",
+        "goodText": "AI surfaces customer history and suggests fixes automatically.",
+        "goodStat": "1 screen",
+        "iconSlug3": "segment",
+        "iconSlug4": "looker",
+        "iconSlug5": "openai",
+        "ctaArrow": "Fix it faster"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 04 / 06",
+        "handle": "@resolve",
+        "title": "Close tickets",
+        "titleAccent": "in minutes",
+        "description": "Full resolution drops from hours to minutes when AI handles the heavy lifting.",
+        "badLabel": "BEFORE",
+        "badText": "Complex tickets looped through three shifts before final resolution.",
+        "badStat": "8 hr resolve",
+        "iconSlug1": "freshdesk",
+        "iconSlug2": "zapier",
+        "goodLabel": "AFTER",
+        "goodText": "AI resolves tier-one issues end-to-end without human escalation.",
+        "goodStat": "3 min resolve",
+        "iconSlug3": "openai",
+        "iconSlug4": "zendesk",
+        "iconSlug5": "intercom",
+        "ctaArrow": "Resolve issues instantly"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 05 / 06",
+        "handle": "@resolve",
+        "title": "Agents are",
+        "titleAccent": "overwhelmed",
+        "description": "Repetitive tickets burn out your team and kill productivity daily.",
+        "badLabel": "BEFORE",
+        "badText": "Agents repeated the same password reset answers fifty times daily.",
+        "badStat": "50 repeats",
+        "iconSlug1": "notion",
+        "iconSlug2": "gmail",
+        "goodLabel": "AFTER",
+        "goodText": "AI deflects repetitive work so agents focus on high-value conversations.",
+        "goodStat": "90% deflected",
+        "iconSlug3": "openai",
+        "iconSlug4": "slack",
+        "iconSlug5": "hubspot",
+        "ctaArrow": "Empower your team"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 06 / 06",
+        "handle": "@resolve",
+        "title": "Customers hate",
+        "titleAccent": "slow help",
+        "description": "Faster resolutions turn frustrated users into loyal advocates overnight.",
+        "badLabel": "BEFORE",
+        "badText": "Slow support drove negative reviews and churn every single month.",
+        "badStat": "12% CSAT",
+        "iconSlug1": "shopify",
+        "iconSlug2": "stripe",
+        "goodLabel": "AFTER",
+        "goodText": "Instant answers and warm handoffs boosted satisfaction scores dramatically.",
+        "goodStat": "96% CSAT",
+        "iconSlug3": "openai",
+        "iconSlug4": "zendesk",
+        "iconSlug5": "twilio",
+        "ctaArrow": "Boost loyalty now"
+      }
+    },
+    {
+      "layoutId": "cta-before-after",
+      "slots": {
+        "pageOf": "08 / 08",
+        "handle": "@resolve",
+        "eyebrow": "MAKE THE SWITCH",
+        "headlineLine1": "Cut ticket time",
+        "headlineAccent": "to minutes",
+        "body": "Join teams replacing hour-long queues with instant AI resolutions. Setup takes one day.",
+        "iconSlug1": "zendesk",
+        "iconSlug2": "intercom",
+        "iconSlug3": "slack",
+        "iconSlug4": "salesforce",
+        "iconSlug5": "stripe",
+        "iconSlug6": "openai",
+        "ctaText": "Book a demo"
+      }
+    }
+  ]
+}

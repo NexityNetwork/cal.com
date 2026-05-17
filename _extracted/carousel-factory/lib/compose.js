@@ -30,14 +30,24 @@ async function composeSlide(slide, opts) {
   }
 
   // Multi-icon support: iconSvg1..iconSvg9 resolved from iconSlug1..iconSlug9 + iconColor1..iconColor9
+  // If iconColor not given, auto-derive from simple-icons brand color or BRAND_FALLBACK.
   for (let i = 1; i <= 9; i++) {
     if (html.includes(`{{iconSvg${i}}}`)) {
       fills[`iconSvg${i}`] = resolveIcon(
         slide.slots[`iconSlug${i}`],
         slide.slots[`iconSvg${i}Raw`],
-        slide.slots[`iconColor${i}`] || "#ffffff",
+        slide.slots[`iconColor${i}`] || autoBrandColor(slide.slots[`iconSlug${i}`]) || "#1d1d1d",
       );
     }
+  }
+  // Auto-derive toolName<N> from iconSlug<N> if not provided (title-case)
+  for (let i = 1; i <= 9; i++) {
+    if (html.includes(`{{toolName${i}}}`) && !fills[`toolName${i}`] && slide.slots[`iconSlug${i}`]) {
+      fills[`toolName${i}`] = displayNameFromSlug(slide.slots[`iconSlug${i}`]);
+    }
+  }
+  if (html.includes("{{toolName}}") && !fills.toolName && slide.slots.iconSlug1) {
+    fills.toolName = displayNameFromSlug(slide.slots.iconSlug1);
   }
 
   html = html.replace(/\{\{(\w+)\}\}/g, (_, key) => fills[key] ?? "");
@@ -60,6 +70,43 @@ const BRAND_FALLBACK = {
   googlemaps: { color: "#34A853", glyph: "GM" },
   whatsapp: { color: "#25D366", glyph: "W" },
 };
+
+function autoBrandColor(slug) {
+  if (!slug) return null;
+  const normalized = String(slug).toLowerCase().replace(/[^a-z0-9]/g, "");
+  const key = "si" + normalized.charAt(0).toUpperCase() + normalized.slice(1);
+  const icon = si[key];
+  if (icon) return "#" + icon.hex;
+  const fb = BRAND_FALLBACK[normalized];
+  if (fb) return fb.color;
+  return null;
+}
+
+const SLUG_DISPLAY_OVERRIDES = {
+  nextdotjs: "Next.js",
+  n8n: "n8n",
+  chatgpt: "ChatGPT",
+  openai: "OpenAI",
+  googlemaps: "Google Maps",
+  googlemeet: "Google Meet",
+  langchain: "LangChain",
+  hubspot: "HubSpot",
+  whatsapp: "WhatsApp",
+  v0: "v0",
+  github: "GitHub",
+  tiktok: "TikTok",
+  linkedin: "LinkedIn",
+  airtable: "Airtable",
+  postgresql: "PostgreSQL",
+  typescript: "TypeScript",
+};
+
+function displayNameFromSlug(slug) {
+  if (!slug) return "";
+  const normalized = String(slug).toLowerCase().replace(/[^a-z0-9]/g, "");
+  if (SLUG_DISPLAY_OVERRIDES[normalized]) return SLUG_DISPLAY_OVERRIDES[normalized];
+  return normalized.charAt(0).toUpperCase() + normalized.slice(1);
+}
 
 function resolveIcon(slug, svg, color) {
   if (svg) return svg;

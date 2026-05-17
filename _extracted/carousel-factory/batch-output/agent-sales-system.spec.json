@@ -1,0 +1,157 @@
+{
+  "id": "agent-sales-system",
+  "brand": "AlexOS",
+  "brief": "My 5-agent sales system that replaced a $300K rep — Apollo, Claude, Airtable, Calendly, Stripe.",
+  "theme": "agent-lineup",
+  "slides": [
+    {
+      "layoutId": "cover-agent-lineup",
+      "slots": {
+        "title": "Autonomous Sales Agent System",
+        "description": "Five AI agents prospect, qualify, book, close, and sync—replacing a $300K sales rep.",
+        "flowLabel": "WORKFLOW",
+        "iconSlug1": "apollo",
+        "iconSlug2": "claude",
+        "iconSlug3": "airtable",
+        "flowCaption": "Find → qualify → close automatically",
+        "iconSlug4": "calendly",
+        "iconSlug5": "stripe",
+        "iconSlug6": "n8n",
+        "iconSlug7": "slack",
+        "ctaText": "comment 'AGENTS' for the full stack"
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "AGENT 01",
+        "title": "ICP Prospect Finder",
+        "description": "Apollo builds targeted lead lists from LinkedIn and web data matching your ICP.",
+        "iconSlug1": "apollo",
+        "iconSlug2": "linkedin",
+        "iconSlug3": "gmail",
+        "toolRole1": "Finds prospects from ICP filters",
+        "toolRole2": "Validates contact info accuracy",
+        "toolRole3": "Stages leads for enrichment",
+        "iconSlug4": "slack",
+        "iconSlug5": "notion",
+        "iconSlug6": "hubspot",
+        "iconSlug7": "zapier",
+        "handle": "@alexos"
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "AGENT 02",
+        "title": "Lead Enrichment Agent",
+        "description": "Claude researches every prospect and appends firmographic intent signals directly into your Airtable base.",
+        "iconSlug1": "claude",
+        "iconSlug2": "perplexity",
+        "iconSlug3": "airtable",
+        "toolRole1": "Researches buyer intent signals",
+        "toolRole2": "Fetches real-time firmographic data",
+        "toolRole3": "Updates CRM records instantly",
+        "iconSlug4": "slack",
+        "iconSlug5": "gmail",
+        "iconSlug6": "notion",
+        "iconSlug7": "zapier",
+        "handle": "@alexos"
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "AGENT 03",
+        "title": "Smart Qualification Scorer",
+        "description": "Reads Airtable records and auto-scores leads by budget, authority, need, and timeline every hour.",
+        "iconSlug1": "airtable",
+        "iconSlug2": "claude",
+        "iconSlug3": "hubspot",
+        "toolRole1": "Scores leads using BANT",
+        "toolRole2": "Writes qualification summaries",
+        "toolRole3": "Tags hot opportunities now",
+        "iconSlug4": "slack",
+        "iconSlug5": "gmail",
+        "iconSlug6": "calendly",
+        "iconSlug7": "apollo",
+        "handle": "@alexos"
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "AGENT 04",
+        "title": "Meeting Booker Agent",
+        "description": "Sends personalized Calendly links via Gmail and books qualified demos without any manual back-and-forth.",
+        "iconSlug1": "gmail",
+        "iconSlug2": "calendly",
+        "iconSlug3": "claude",
+        "toolRole1": "Drafts personalized outreach copy",
+        "toolRole2": "Schedules demos instantly",
+        "toolRole3": "Confirms calendar blocks",
+        "iconSlug4": "slack",
+        "iconSlug5": "airtable",
+        "iconSlug6": "loom",
+        "iconSlug7": "zapier",
+        "handle": "@alexos"
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "AGENT 05",
+        "title": "Deal Closer Agent",
+        "description": "Generates proposals and collects Stripe payments, then updates Airtable when the deal is won.",
+        "iconSlug1": "stripe",
+        "iconSlug2": "claude",
+        "iconSlug3": "airtable",
+        "toolRole1": "Creates proposals in seconds",
+        "toolRole2": "Processes secure checkout",
+        "toolRole3": "Marks deals closed-won",
+        "iconSlug4": "gmail",
+        "iconSlug5": "slack",
+        "iconSlug6": "notion",
+        "iconSlug7": "zapier",
+        "handle": "@alexos"
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "AGENT 06",
+        "title": "Revenue Sync Agent",
+        "description": "Pushes Stripe data into Airtable and alerts your team in Slack with daily revenue summaries.",
+        "iconSlug1": "stripe",
+        "iconSlug2": "airtable",
+        "iconSlug3": "slack",
+        "toolRole1": "Syncs revenue to database",
+        "toolRole2": "Alerts team on wins",
+        "toolRole3": "Updates forecasting dashboards",
+        "iconSlug4": "notion",
+        "iconSlug5": "gmail",
+        "iconSlug6": "calendly",
+        "iconSlug7": "zapier",
+        "handle": "@alexos"
+      }
+    },
+    {
+      "layoutId": "cta-agent-lineup",
+      "slots": {
+        "eyebrow": "FULL STACK INSIDE",
+        "ctaHeadline1": "Build This System",
+        "ctaHeadline2": "Steal My Blueprint",
+        "freeBadge": "100% FREE GUIDE",
+        "iconSlug1": "apollo",
+        "iconSlug2": "claude",
+        "iconSlug3": "airtable",
+        "iconSlug4": "calendly",
+        "iconSlug5": "stripe",
+        "iconSlug6": "n8n",
+        "iconSlug7": "slack",
+        "iconSlug8": "gmail",
+        "handle": "@alexos"
+      }
+    }
+  ]
+}

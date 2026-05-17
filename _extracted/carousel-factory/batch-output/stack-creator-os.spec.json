@@ -1,0 +1,175 @@
+{
+  "id": "stack-creator-os",
+  "brand": "CreatorOS",
+  "brief": "The 6-tool creator OS — recording, editing, scheduling, analytics, all in sync.",
+  "theme": "stack-tour",
+  "slides": [
+    {
+      "layoutId": "cover-stack-tour",
+      "slots": {
+        "eyebrow": "MY CREATOR STACK",
+        "title": "My Complete Creator Operating System",
+        "description": "Six tools for recording, editing, scheduling, and analytics—fully synced.",
+        "iconSlug1": "obsstudio",
+        "iconSlug2": "adobepremierepro",
+        "iconSlug3": "canva",
+        "iconSlug4": "notion",
+        "iconSlug5": "buffer",
+        "iconSlug6": "googleanalytics",
+        "toolRole1": "Broadcast screen capture",
+        "toolRole2": "Professional video editing",
+        "toolRole3": "Thumbnail and graphic design",
+        "toolRole4": "Content planning workspace",
+        "toolRole5": "Social media scheduling",
+        "toolRole6": "Channel growth analytics",
+        "ctaText": "Read the breakdown",
+        "handle": "@creatorstack"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "TOOL 01",
+        "handle": "@creatorstack",
+        "iconSlug1": "obsstudio",
+        "toolTagline": "Capture everything in broadcast quality.",
+        "description": "OBS delivers pro-level screen and camera recording without subscription bloat.",
+        "bullet1": "Multi-scene switching with hotkeys",
+        "bullet2": "Custom overlays and alerts",
+        "bullet3": "Direct stream to any platform",
+        "accentColor": "#1F1F1F",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "adobepremierepro",
+        "iconSlug3": "canva",
+        "iconSlug4": "notion",
+        "iconSlug5": "buffer",
+        "iconSlug6": "googleanalytics",
+        "ctaBottom": "Next in the stack"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "TOOL 02",
+        "handle": "@creatorstack",
+        "iconSlug1": "adobepremierepro",
+        "toolTagline": "Cut faster and polish smarter.",
+        "description": "Industry-standard timeline editing with color grading and motion graphics built in.",
+        "bullet1": "Lumetri color correction tools",
+        "bullet2": "Dynamic text motion templates",
+        "bullet3": "Proxy workflow for 4K speed",
+        "accentColor": "#9999FF",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "obsstudio",
+        "iconSlug3": "canva",
+        "iconSlug4": "notion",
+        "iconSlug5": "buffer",
+        "iconSlug6": "googleanalytics",
+        "ctaBottom": "Next in the stack"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "TOOL 03",
+        "handle": "@creatorstack",
+        "iconSlug1": "canva",
+        "toolTagline": "Thumbnails that stop the scroll.",
+        "description": "Drag-and-drop design with creator templates for every social format and brand.",
+        "bullet1": "One-click background remover tool",
+        "bullet2": "Built-in brand kit consistency",
+        "bullet3": "Auto-resize for every platform",
+        "accentColor": "#00C4CC",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "obsstudio",
+        "iconSlug3": "adobepremierepro",
+        "iconSlug4": "notion",
+        "iconSlug5": "buffer",
+        "iconSlug6": "googleanalytics",
+        "ctaBottom": "Next in the stack"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "TOOL 04",
+        "handle": "@creatorstack",
+        "iconSlug1": "notion",
+        "toolTagline": "Scripts, boards, and calendars.",
+        "description": "Notion keeps scripts, content calendars, and research in one collaborative workspace.",
+        "bullet1": "Editorial calendar database view",
+        "bullet2": "Script and outline templates",
+        "bullet3": "Team task assignment tracking",
+        "accentColor": "#000000",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "obsstudio",
+        "iconSlug3": "adobepremierepro",
+        "iconSlug4": "canva",
+        "iconSlug5": "buffer",
+        "iconSlug6": "googleanalytics",
+        "ctaBottom": "Next in the stack"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "TOOL 05",
+        "handle": "@creatorstack",
+        "iconSlug1": "buffer",
+        "toolTagline": "Queue once, post everywhere.",
+        "description": "Buffer schedules videos and posts across platforms while tracking optimal send times.",
+        "bullet1": "Cross-platform publishing queue manager",
+        "bullet2": "Best time to post suggestions",
+        "bullet3": "Simple engagement reply dashboard",
+        "accentColor": "#231F20",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "obsstudio",
+        "iconSlug3": "adobepremierepro",
+        "iconSlug4": "canva",
+        "iconSlug5": "notion",
+        "iconSlug6": "googleanalytics",
+        "ctaBottom": "Next in the stack"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "TOOL 06",
+        "handle": "@creatorstack",
+        "iconSlug1": "googleanalytics",
+        "toolTagline": "Data-driven content decisions daily.",
+        "description": "Google Analytics reveals traffic sources, watch time, and conversion paths for creators.",
+        "bullet1": "Traffic source channel breakdown",
+        "bullet2": "Audience retention graph insights",
+        "bullet3": "Goal and event conversion tracking",
+        "accentColor": "#E37400",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "obsstudio",
+        "iconSlug3": "adobepremierepro",
+        "iconSlug4": "canva",
+        "iconSlug5": "notion",
+        "iconSlug6": "buffer",
+        "ctaBottom": "Build your stack"
+      }
+    },
+    {
+      "layoutId": "cta-stack-tour",
+      "slots": {
+        "pageOf": "08 / 08",
+        "handle": "@creatorstack",
+        "eyebrow": "YOUR TURN",
+        "headlineLine1": "Build your stack.",
+        "headlineLine2": "Start creating today.",
+        "iconSlug1": "obsstudio",
+        "iconSlug2": "adobepremierepro",
+        "iconSlug3": "canva",
+        "iconSlug4": "notion",
+        "iconSlug5": "buffer",
+        "iconSlug6": "googleanalytics",
+        "iconSlug7": "youtube",
+        "body": "Swap these tools for your favorites and keep your workflow in sync.",
+        "ctaText": "Save this carousel"
+      }
+    }
+  ]
+}

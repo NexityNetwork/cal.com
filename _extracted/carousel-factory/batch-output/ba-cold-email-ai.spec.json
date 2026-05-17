@@ -1,0 +1,180 @@
+{
+  "id": "ba-cold-email-ai",
+  "brand": "ColdConvert",
+  "brief": "Cold email before vs after Claude — reply rates, costs, and the exact stack.",
+  "theme": "before-after",
+  "slides": [
+    {
+      "layoutId": "cover-before-after",
+      "slots": {
+        "pageOf": "01 / 08",
+        "handle": "@coldconvert",
+        "title": "Stop sending",
+        "titleAccent": "robotic blasts",
+        "description": "See how Claude transforms cold email reply rates, slashes costs, and replaces the old outbound stack.",
+        "badLabel1": "Generic spray and pray campaigns",
+        "badLabel2": "Expensive SDR labor and tools",
+        "badStat1": "2% reply rate",
+        "badStat2": "$300 per lead",
+        "goodLabel1": "Hyper personalized AI outreach",
+        "goodLabel2": "One person workflow and stack",
+        "goodStat1": "15% reply rate",
+        "goodStat2": "$25 per lead",
+        "iconSlug1": "salesloft",
+        "iconSlug2": "outreach",
+        "iconSlug3": "claude",
+        "iconSlug4": "instantly"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 01 / 06",
+        "handle": "@coldconvert",
+        "title": "Build lists",
+        "titleAccent": "without ZoomInfo",
+        "description": "Stop buying bloated contact databases that drain budget and stale fast.",
+        "badLabel": "BEFORE",
+        "badText": "You paid $20k/year for contact data that decayed in ninety days.",
+        "badStat": "$20K/yr",
+        "iconSlug1": "zoominfo",
+        "iconSlug2": "lusha",
+        "goodLabel": "AFTER",
+        "goodText": "Clay enriches leads with live data and AI scoring in one click.",
+        "goodStat": "$149/mo",
+        "iconSlug3": "clay",
+        "iconSlug4": "apollo",
+        "iconSlug5": "claude",
+        "ctaArrow": "See the stack"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 02 / 06",
+        "handle": "@coldconvert",
+        "title": "Write emails",
+        "titleAccent": "that feel human",
+        "description": "Ditch templates that scream mass blast and kill trust instantly.",
+        "badLabel": "BEFORE",
+        "badText": "Your team spent four hours daily tweaking mail-merge templates.",
+        "badStat": "4 hrs/day",
+        "iconSlug1": "mailshake",
+        "iconSlug2": "hubspot",
+        "goodLabel": "AFTER",
+        "goodText": "Claude drafts unique icebreakers and angles for every single prospect.",
+        "goodStat": "45 min/day",
+        "iconSlug3": "claude",
+        "iconSlug4": "lavender",
+        "iconSlug5": "openai",
+        "ctaArrow": "Cut writing time"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 03 / 06",
+        "handle": "@coldconvert",
+        "title": "Reach the inbox",
+        "titleAccent": "for pennies",
+        "description": "Stop landing in spam because of shared IPs and sloppy setup.",
+        "badLabel": "BEFORE",
+        "badText": "Shared sending pools burned your domain reputation in weeks.",
+        "badStat": "40% spam",
+        "iconSlug1": "outreach",
+        "iconSlug2": "salesloft",
+        "goodLabel": "AFTER",
+        "goodText": "Smartlead warms mailboxes and rotates domains automatically.",
+        "goodStat": "95% inbox",
+        "iconSlug3": "smartlead",
+        "iconSlug4": "instantly",
+        "iconSlug5": "n8n",
+        "ctaArrow": "Land in inbox"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 04 / 06",
+        "handle": "@coldconvert",
+        "title": "Handle replies",
+        "titleAccent": "while you sleep",
+        "description": "No more manual sorting or missed opportunities in messy inboxes.",
+        "badLabel": "BEFORE",
+        "badText": "SDRs manually tagged leads and missed hot replies until Monday.",
+        "badStat": "12 hr delay",
+        "iconSlug1": "hubspot",
+        "iconSlug2": "pipedrive",
+        "goodLabel": "AFTER",
+        "goodText": "AI agents qualify intent, book meetings, and sync to your CRM.",
+        "goodStat": "< 2 min",
+        "iconSlug3": "claude",
+        "iconSlug4": "make",
+        "iconSlug5": "salesforce",
+        "ctaArrow": "Speed to lead"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 05 / 06",
+        "handle": "@coldconvert",
+        "title": "Cut costs",
+        "titleAccent": "by ninety percent",
+        "description": "Replace a bloated tech stack and headcount with lean AI systems.",
+        "badLabel": "BEFORE",
+        "badText": "Five tools and two full-time roles to keep campaigns running.",
+        "badStat": "$8K/mo",
+        "iconSlug1": "outreach",
+        "iconSlug2": "zoominfo",
+        "goodLabel": "AFTER",
+        "goodText": "One operator, three AI tools, and fully automated workflows.",
+        "goodStat": "$800/mo",
+        "iconSlug3": "claude",
+        "iconSlug4": "instantly",
+        "iconSlug5": "clay",
+        "ctaArrow": "Shrink the stack"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 06 / 06",
+        "handle": "@coldconvert",
+        "title": "10x reply rates",
+        "titleAccent": "with context",
+        "description": "Relevance beats volume when every line proves you did research.",
+        "badLabel": "BEFORE",
+        "badText": "You sent five hundred emails and prayed for ten replies.",
+        "badStat": "2% reply",
+        "iconSlug1": "yesware",
+        "iconSlug2": "mailshake",
+        "goodLabel": "AFTER",
+        "goodText": "Claude researches prospects and writes relevant hooks at scale.",
+        "goodStat": "18% reply",
+        "iconSlug3": "claude",
+        "iconSlug4": "apollo",
+        "iconSlug5": "smartlead",
+        "ctaArrow": "Get more replies"
+      }
+    },
+    {
+      "layoutId": "cta-before-after",
+      "slots": {
+        "pageOf": "08 / 08",
+        "handle": "@coldconvert",
+        "eyebrow": "MAKE THE SWITCH",
+        "headlineLine1": "Start booking",
+        "headlineAccent": "with AI today",
+        "body": "Drop the expensive stack. Launch your Claude-powered outbound system this week.",
+        "iconSlug1": "claude",
+        "iconSlug2": "instantly",
+        "iconSlug3": "clay",
+        "iconSlug4": "smartlead",
+        "iconSlug5": "n8n",
+        "iconSlug6": "apollo",
+        "ctaText": "Book a call"
+      }
+    }
+  ]
+}

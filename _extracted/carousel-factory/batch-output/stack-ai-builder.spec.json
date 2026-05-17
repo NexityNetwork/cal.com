@@ -1,0 +1,175 @@
+{
+  "id": "stack-ai-builder",
+  "brand": "Alex Builds",
+  "brief": "My 6-tool AI builder stack — from prompt to production in a weekend.",
+  "theme": "stack-tour",
+  "slides": [
+    {
+      "layoutId": "cover-stack-tour",
+      "slots": {
+        "eyebrow": "MY 6-TOOL STACK",
+        "title": "Build AI Apps From Prompt to Production",
+        "description": "My exact low-code workflow to ship full-stack apps in under 48 hours.",
+        "iconSlug1": "claude",
+        "iconSlug2": "figma",
+        "iconSlug3": "github",
+        "iconSlug4": "supabase",
+        "iconSlug5": "vercel",
+        "iconSlug6": "zapier",
+        "toolRole1": "AI prompt engine",
+        "toolRole2": "UI and prototyping",
+        "toolRole3": "Code version control",
+        "toolRole4": "Database and backend",
+        "toolRole5": "Deploy and hosting",
+        "toolRole6": "Workflow automation layer",
+        "ctaText": "Read the breakdown",
+        "handle": "@alexbuilds"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "02 / 08",
+        "handle": "@alexbuilds",
+        "iconSlug1": "claude",
+        "toolTagline": "The brain behind every build",
+        "description": "I use Claude to architect features, write copy, and generate production-ready code snippets in minutes.",
+        "bullet1": "Draft full app requirements",
+        "bullet2": "Generate React components instantly",
+        "bullet3": "Debug tricky errors in seconds",
+        "accentColor": "#D97757",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "figma",
+        "iconSlug3": "github",
+        "iconSlug4": "supabase",
+        "iconSlug5": "vercel",
+        "iconSlug6": "zapier",
+        "ctaBottom": "Swipe for more"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "03 / 08",
+        "handle": "@alexbuilds",
+        "iconSlug1": "figma",
+        "toolTagline": "Design fast and build faster",
+        "description": "Rapid wireframes and high-fidelity UI kits keep development focused and pixel-perfect from day one.",
+        "bullet1": "Map user flows quickly",
+        "bullet2": "Build reusable component libraries",
+        "bullet3": "Handoff dev-ready design specs",
+        "accentColor": "#F24E1E",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "claude",
+        "iconSlug3": "github",
+        "iconSlug4": "supabase",
+        "iconSlug5": "vercel",
+        "iconSlug6": "zapier",
+        "ctaBottom": "Swipe for more"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "04 / 08",
+        "handle": "@alexbuilds",
+        "iconSlug1": "github",
+        "toolTagline": "Ship code with total confidence",
+        "description": "Version control and CI/CD keep my weekend projects stable, collaborative, and instantly rollback-ready.",
+        "bullet1": "Track every code change",
+        "bullet2": "Automate build and test pipelines",
+        "bullet3": "Collaborate without merge conflicts",
+        "accentColor": "#181717",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "claude",
+        "iconSlug3": "figma",
+        "iconSlug4": "supabase",
+        "iconSlug5": "vercel",
+        "iconSlug6": "zapier",
+        "ctaBottom": "Swipe for more"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "05 / 08",
+        "handle": "@alexbuilds",
+        "iconSlug1": "supabase",
+        "toolTagline": "Backend infrastructure without the headache",
+        "description": "Postgres database, auth, and auto-generated APIs without managing infrastructure or server configs.",
+        "bullet1": "Spin up auth instantly",
+        "bullet2": "Query Postgres via REST",
+        "bullet3": "Scale without DevOps overhead",
+        "accentColor": "#3ECF8E",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "claude",
+        "iconSlug3": "figma",
+        "iconSlug4": "github",
+        "iconSlug5": "vercel",
+        "iconSlug6": "zapier",
+        "ctaBottom": "Swipe for more"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "06 / 08",
+        "handle": "@alexbuilds",
+        "iconSlug1": "vercel",
+        "toolTagline": "Deploy to the edge instantly",
+        "description": "Push to main and get a global CDN, preview branches, and analytics without any DevOps.",
+        "bullet1": "Get preview URLs instantly",
+        "bullet2": "Auto-scale on global edge",
+        "bullet3": "Monitor core web vitals",
+        "accentColor": "#000000",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "claude",
+        "iconSlug3": "figma",
+        "iconSlug4": "github",
+        "iconSlug5": "supabase",
+        "iconSlug6": "zapier",
+        "ctaBottom": "Swipe for more"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "07 / 08",
+        "handle": "@alexbuilds",
+        "iconSlug1": "zapier",
+        "toolTagline": "Glue your entire stack together",
+        "description": "Connect apps, trigger workflows, and automate busywork without writing custom integration boilerplate.",
+        "bullet1": "Trigger flows from user forms",
+        "bullet2": "Sync data across platforms",
+        "bullet3": "Automate onboarding email sequences",
+        "accentColor": "#FF4A00",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "claude",
+        "iconSlug3": "figma",
+        "iconSlug4": "github",
+        "iconSlug5": "supabase",
+        "iconSlug6": "vercel",
+        "ctaBottom": "See the finale"
+      }
+    },
+    {
+      "layoutId": "cta-stack-tour",
+      "slots": {
+        "pageOf": "08 / 08",
+        "handle": "@alexbuilds",
+        "eyebrow": "YOUR TURN",
+        "headlineLine1": "Build your stack",
+        "headlineLine2": "Ship this weekend",
+        "iconSlug1": "claude",
+        "iconSlug2": "figma",
+        "iconSlug3": "github",
+        "iconSlug4": "supabase",
+        "iconSlug5": "vercel",
+        "iconSlug6": "zapier",
+        "iconSlug7": "notion",
+        "body": "Start with these six tools and ship your next AI project in record time.",
+        "ctaText": "Save this post"
+      }
+    }
+  ]
+}

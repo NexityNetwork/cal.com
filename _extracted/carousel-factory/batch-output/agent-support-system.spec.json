@@ -1,0 +1,157 @@
+{
+  "id": "agent-support-system",
+  "brand": "AI Support Stack",
+  "brief": "My 4-agent support stack: tickets, replies, escalation, CSAT — Claude, Notion, Gmail, Slack.",
+  "theme": "agent-lineup",
+  "slides": [
+    {
+      "layoutId": "cover-agent-lineup",
+      "slots": {
+        "title": "4-Agent Customer Support Stack",
+        "description": "Autonomous support system that triages tickets, drafts replies, escalates issues, and collects CSAT across your stack.",
+        "flowLabel": "SUPPORT FLOW",
+        "iconSlug1": "gmail",
+        "iconSlug2": "claude",
+        "iconSlug3": "slack",
+        "flowCaption": "Triage → reply → escalate automatically",
+        "iconSlug4": "notion",
+        "iconSlug5": "zapier",
+        "iconSlug6": "hubspot",
+        "iconSlug7": "make",
+        "ctaText": "comment 'STACK' for the full build"
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "AGENT 01",
+        "title": "Ticket Triage Agent",
+        "description": "Monitors Gmail and Slack to capture new support requests, then logs them in Notion with priority tags and context.",
+        "iconSlug1": "gmail",
+        "iconSlug2": "claude",
+        "iconSlug3": "notion",
+        "toolRole1": "Ingests tickets from Gmail threads",
+        "toolRole2": "Classifies urgency with Claude AI",
+        "toolRole3": "Logs structured tasks in Notion",
+        "iconSlug4": "zapier",
+        "iconSlug5": "hubspot",
+        "iconSlug6": "n8n",
+        "iconSlug7": "discord",
+        "handle": "@aiworkflows"
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "AGENT 02",
+        "title": "Smart Reply Agent",
+        "description": "Drafts contextual responses using Claude and your Notion knowledge base, then queues them for review in Gmail.",
+        "iconSlug1": "notion",
+        "iconSlug2": "claude",
+        "iconSlug3": "gmail",
+        "toolRole1": "Pulls answers from Notion docs",
+        "toolRole2": "Generates replies with Claude AI",
+        "toolRole3": "Staged send inside Gmail drafts",
+        "iconSlug4": "make",
+        "iconSlug5": "loom",
+        "iconSlug6": "calendly",
+        "iconSlug7": "discord",
+        "handle": "@aiworkflows"
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "AGENT 03",
+        "title": "Escalation Router Agent",
+        "description": "Detects complex issues and routes them to the right Slack channel with full context from Notion and Gmail history.",
+        "iconSlug1": "gmail",
+        "iconSlug2": "claude",
+        "iconSlug3": "slack",
+        "toolRole1": "Scans sentiment in Gmail threads",
+        "toolRole2": "Flags high-priority with Claude",
+        "toolRole3": "Alerts team via Slack DM",
+        "iconSlug4": "zapier",
+        "iconSlug5": "hubspot",
+        "iconSlug6": "n8n",
+        "iconSlug7": "discord",
+        "handle": "@aiworkflows"
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "AGENT 04",
+        "title": "CSAT Survey Agent",
+        "description": "Automatically sends follow-up surveys via Gmail after resolution, then writes feedback scores back to Notion for reporting.",
+        "iconSlug1": "gmail",
+        "iconSlug2": "claude",
+        "iconSlug3": "notion",
+        "toolRole1": "Triggers post-resolution in Gmail",
+        "toolRole2": "Personalizes asks with Claude AI",
+        "toolRole3": "Stores CSAT scores in Notion",
+        "iconSlug4": "make",
+        "iconSlug5": "loom",
+        "iconSlug6": "calendly",
+        "iconSlug7": "discord",
+        "handle": "@aiworkflows"
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "AGENT 05",
+        "title": "Knowledge Base Agent",
+        "description": "Syncs resolved tickets and new SOPs into Notion so Claude always pulls from the latest support documentation.",
+        "iconSlug1": "slack",
+        "iconSlug2": "claude",
+        "iconSlug3": "notion",
+        "toolRole1": "Captures updates from Slack threads",
+        "toolRole2": "Summarizes fixes with Claude AI",
+        "toolRole3": "Updates Notion support docs daily",
+        "iconSlug4": "zapier",
+        "iconSlug5": "hubspot",
+        "iconSlug6": "n8n",
+        "iconSlug7": "discord",
+        "handle": "@aiworkflows"
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "AGENT 06",
+        "title": "Daily Digest Agent",
+        "description": "Compiles ticket volume, reply times, and CSAT trends from Notion into a morning brief delivered to Slack.",
+        "iconSlug1": "notion",
+        "iconSlug2": "claude",
+        "iconSlug3": "slack",
+        "toolRole1": "Reads metrics from Notion DB",
+        "toolRole2": "Analyzes trends with Claude AI",
+        "toolRole3": "Posts digest to Slack channel",
+        "iconSlug4": "make",
+        "iconSlug5": "loom",
+        "iconSlug6": "calendly",
+        "iconSlug7": "discord",
+        "handle": "@aiworkflows"
+      }
+    },
+    {
+      "layoutId": "cta-agent-lineup",
+      "slots": {
+        "eyebrow": "FULL STACK INSIDE",
+        "ctaHeadline1": "Clone This Stack",
+        "ctaHeadline2": "Free Support Playbooks",
+        "freeBadge": "100% FREE",
+        "iconSlug1": "claude",
+        "iconSlug2": "notion",
+        "iconSlug3": "gmail",
+        "iconSlug4": "slack",
+        "iconSlug5": "zapier",
+        "iconSlug6": "make",
+        "iconSlug7": "n8n",
+        "iconSlug8": "hubspot",
+        "handle": "@aiworkflows"
+      }
+    }
+  ]
+}

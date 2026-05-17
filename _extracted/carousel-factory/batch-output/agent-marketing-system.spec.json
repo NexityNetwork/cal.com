@@ -1,0 +1,157 @@
+{
+  "id": "agent-marketing-system",
+  "brand": "CreatorOS",
+  "brief": "The 6-agent marketing OS that runs my entire content engine — n8n, Claude, Notion, TikTok, LinkedIn.",
+  "theme": "agent-lineup",
+  "slides": [
+    {
+      "layoutId": "cover-agent-lineup",
+      "slots": {
+        "title": "6-Agent Content Engine",
+        "description": "An autonomous marketing OS powered by n8n, Claude, and Notion that researches, writes, and publishes across TikTok and LinkedIn.",
+        "flowLabel": "WORKFLOW",
+        "iconSlug1": "n8n",
+        "iconSlug2": "claude",
+        "iconSlug3": "notion",
+        "flowCaption": "Orchestrate → create → distribute automatically",
+        "iconSlug4": "tiktok",
+        "iconSlug5": "linkedin",
+        "iconSlug6": "perplexity",
+        "iconSlug7": "youtube",
+        "ctaText": "Comment 'AGENTS' for the full stack"
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "AGENT 01",
+        "title": "Trend Research Agent",
+        "description": "Scans TikTok, LinkedIn, and the web to surface viral angles and archive them in Notion.",
+        "iconSlug1": "perplexity",
+        "iconSlug2": "claude",
+        "iconSlug3": "notion",
+        "toolRole1": "Finds viral trends and hooks",
+        "toolRole2": "Summarizes data into briefs",
+        "toolRole3": "Archives ideas to database",
+        "iconSlug4": "tiktok",
+        "iconSlug5": "linkedin",
+        "iconSlug6": "youtube",
+        "iconSlug7": "slack",
+        "handle": "@creatorops"
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "AGENT 02",
+        "title": "Script Writing Agent",
+        "description": "Transforms Notion briefs into platform-native hooks and scripts for TikTok and LinkedIn.",
+        "iconSlug1": "notion",
+        "iconSlug2": "claude",
+        "iconSlug3": "linkedin",
+        "toolRole1": "Pulls brief from database",
+        "toolRole2": "Drafts native copy and hooks",
+        "toolRole3": "Queues posts for publishing",
+        "iconSlug4": "n8n",
+        "iconSlug5": "tiktok",
+        "iconSlug6": "youtube",
+        "iconSlug7": "slack",
+        "handle": "@creatorops"
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "AGENT 03",
+        "title": "Short-Form Video Agent",
+        "description": "Auto-generates TikTok scripts, captions, and schedules from trending briefs inside Notion.",
+        "iconSlug1": "notion",
+        "iconSlug2": "claude",
+        "iconSlug3": "tiktok",
+        "toolRole1": "Reads trending topic briefs",
+        "toolRole2": "Writes hooks and captions",
+        "toolRole3": "Pushes to TikTok drafts",
+        "iconSlug4": "n8n",
+        "iconSlug5": "youtube",
+        "iconSlug6": "instagram",
+        "iconSlug7": "slack",
+        "handle": "@creatorops"
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "AGENT 04",
+        "title": "LinkedIn Growth Agent",
+        "description": "Publishes thought leadership carousels and posts daily using Claude and Notion data.",
+        "iconSlug1": "notion",
+        "iconSlug2": "claude",
+        "iconSlug3": "linkedin",
+        "toolRole1": "Formats long-form stories",
+        "toolRole2": "Optimizes for engagement",
+        "toolRole3": "Publishes to LinkedIn",
+        "iconSlug4": "n8n",
+        "iconSlug5": "apollo",
+        "iconSlug6": "slack",
+        "iconSlug7": "calendly",
+        "handle": "@creatorops"
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "AGENT 05",
+        "title": "Content Distribution Agent",
+        "description": "Syndicates finished content across TikTok, LinkedIn, and YouTube via automated n8n workflows.",
+        "iconSlug1": "notion",
+        "iconSlug2": "n8n",
+        "iconSlug3": "linkedin",
+        "toolRole1": "Triggers on publish event",
+        "toolRole2": "Routes to each platform",
+        "toolRole3": "Posts to LinkedIn feed",
+        "iconSlug4": "zapier",
+        "iconSlug5": "youtube",
+        "iconSlug6": "instagram",
+        "iconSlug7": "slack",
+        "handle": "@creatorops"
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "AGENT 06",
+        "title": "Performance Analytics Agent",
+        "description": "Pulls engagement data from TikTok and LinkedIn into Notion dashboards for optimization.",
+        "iconSlug1": "tiktok",
+        "iconSlug2": "n8n",
+        "iconSlug3": "notion",
+        "toolRole1": "Collects platform metrics",
+        "toolRole2": "Cleans and structures data",
+        "toolRole3": "Updates Notion dashboards",
+        "iconSlug4": "linkedin",
+        "iconSlug5": "youtube",
+        "iconSlug6": "slack",
+        "iconSlug7": "apollo",
+        "handle": "@creatorops"
+      }
+    },
+    {
+      "layoutId": "cta-agent-lineup",
+      "slots": {
+        "eyebrow": "FULL STACK INSIDE",
+        "ctaHeadline1": "Steal My AI",
+        "ctaHeadline2": "Complete Agent Stack",
+        "freeBadge": "100% Free Blueprint",
+        "iconSlug1": "n8n",
+        "iconSlug2": "claude",
+        "iconSlug3": "notion",
+        "iconSlug4": "tiktok",
+        "iconSlug5": "linkedin",
+        "iconSlug6": "perplexity",
+        "iconSlug7": "youtube",
+        "iconSlug8": "slack",
+        "handle": "@creatorops"
+      }
+    }
+  ]
+}

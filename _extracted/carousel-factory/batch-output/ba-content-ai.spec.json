@@ -1,0 +1,180 @@
+{
+  "id": "ba-content-ai",
+  "brand": "ContentOps",
+  "brief": "Content production before vs after AI — one writer ships 30 pieces a week.",
+  "theme": "before-after",
+  "slides": [
+    {
+      "layoutId": "cover-before-after",
+      "slots": {
+        "pageOf": "01 / 08",
+        "handle": "@ContentOps",
+        "title": "Stop doing",
+        "titleAccent": "manual work",
+        "description": "One writer now ships 30 pieces a week using AI workflows. Here's the exact before-and-after breakdown.",
+        "badLabel1": "Siloed teams grinding out drafts",
+        "badLabel2": "Burnout and constant deadline panic",
+        "badStat1": "2 pieces / week",
+        "badStat2": "40 hour weeks",
+        "goodLabel1": "AI-assisted content engine running",
+        "goodLabel2": "One writer shipping at scale",
+        "goodStat1": "30 pieces / week",
+        "goodStat2": "4 hour turnaround",
+        "iconSlug1": "chatgpt",
+        "iconSlug2": "claude",
+        "iconSlug3": "notion",
+        "iconSlug4": "make"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 01 / 06",
+        "handle": "@ContentOps",
+        "title": "Ideation takes",
+        "titleAccent": "forever alone",
+        "description": "Brainstorming headlines used to burn half a day. Now AI generates angles in minutes.",
+        "badLabel": "BEFORE",
+        "badText": "Staring at blank docs for three hours to find five usable ideas.",
+        "badStat": "5 ideas / day",
+        "iconSlug1": "google",
+        "iconSlug2": "sheets",
+        "goodLabel": "AFTER",
+        "goodText": "AI scans trends and spits out fifty slants before your coffee cools.",
+        "goodStat": "50 ideas / hour",
+        "iconSlug3": "chatgpt",
+        "iconSlug4": "claude",
+        "iconSlug5": "perplexity",
+        "ctaArrow": "See the next step"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 02 / 06",
+        "handle": "@ContentOps",
+        "title": "Research kills",
+        "titleAccent": "your velocity",
+        "description": "Chasing sources and fact-checking eats entire afternoons. AI agents do it in seconds.",
+        "badLabel": "BEFORE",
+        "badText": "Manually opening thirty tabs and taking notes that never get organized.",
+        "badStat": "6 hrs / post",
+        "iconSlug1": "chrome",
+        "iconSlug2": "notion",
+        "goodLabel": "AFTER",
+        "goodText": "An AI researcher compiles citations, stats, and outlines while you outline the next piece.",
+        "goodStat": "20 min / post",
+        "iconSlug3": "perplexity",
+        "iconSlug4": "claude",
+        "iconSlug5": "zapier",
+        "ctaArrow": "Keep reading now"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 03 / 06",
+        "handle": "@ContentOps",
+        "title": "Drafting used",
+        "titleAccent": "to drain you",
+        "description": "Blank-page syndrome is real. AI gives you a working first draft to refine, not fight.",
+        "badLabel": "BEFORE",
+        "badText": "Typing every sentence from scratch and rewriting the lede eleven times before lunch.",
+        "badStat": "8 hrs / draft",
+        "iconSlug1": "word",
+        "iconSlug2": "google",
+        "goodLabel": "AFTER",
+        "goodText": "Generate a full structured draft from a brief, then edit with your voice.",
+        "goodStat": "45 min / draft",
+        "iconSlug3": "chatgpt",
+        "iconSlug4": "anthropic",
+        "iconSlug5": "copyai",
+        "ctaArrow": "Next step ahead"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 04 / 06",
+        "handle": "@ContentOps",
+        "title": "Editing is",
+        "titleAccent": "now instant",
+        "description": "Proofreading and style fixes used to need a second pair of eyes. Not anymore.",
+        "badLabel": "BEFORE",
+        "badText": "Swapping docs with editors and waiting days for tracked changes to return.",
+        "badStat": "2 day lag",
+        "iconSlug1": "microsoft",
+        "iconSlug2": "slack",
+        "goodLabel": "AFTER",
+        "goodText": "AI grammar, tone, and clarity checks run in real time as you write.",
+        "goodStat": "0 min lag",
+        "iconSlug3": "grammarly",
+        "iconSlug4": "claude",
+        "iconSlug5": "notion",
+        "ctaArrow": "Read on ahead"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 05 / 06",
+        "handle": "@ContentOps",
+        "title": "Visuals block",
+        "titleAccent": "every pipeline",
+        "description": "Waiting on designers for hero images stalls publishing. AI generates visuals on demand.",
+        "badLabel": "BEFORE",
+        "badText": "Briefing designers, waiting in queues, and revising assets for every single post.",
+        "badStat": "3 day wait",
+        "iconSlug1": "figma",
+        "iconSlug2": "photoshop",
+        "goodLabel": "AFTER",
+        "goodText": "Generate custom images, thumbnails, and carousels from text prompts in seconds.",
+        "goodStat": "2 min asset",
+        "iconSlug3": "midjourney",
+        "iconSlug4": "canva",
+        "iconSlug5": "dalle",
+        "ctaArrow": "You are almost there"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 06 / 06",
+        "handle": "@ContentOps",
+        "title": "Publish everywhere",
+        "titleAccent": "on autopilot",
+        "description": "Manually reformatting for every channel is a chore. AI syndicates with one click.",
+        "badLabel": "BEFORE",
+        "badText": "Copy-pasting into five platforms and tweaking image sizes until midnight strikes.",
+        "badStat": "2 hrs / channel",
+        "iconSlug1": "buffer",
+        "iconSlug2": "hootsuite",
+        "goodLabel": "AFTER",
+        "goodText": "One click reformats copy, images, and tags for every channel instantly.",
+        "goodStat": "1 click publish",
+        "iconSlug3": "make",
+        "iconSlug4": "zapier",
+        "iconSlug5": "hubspot",
+        "ctaArrow": "See the proof"
+      }
+    },
+    {
+      "layoutId": "cta-before-after",
+      "slots": {
+        "pageOf": "08 / 08",
+        "handle": "@ContentOps",
+        "eyebrow": "MAKE THE SWITCH",
+        "headlineLine1": "Ship 30x faster",
+        "headlineAccent": "starting today",
+        "body": "Join teams that replaced busywork with AI workflows and turned one writer into a content machine.",
+        "iconSlug1": "chatgpt",
+        "iconSlug2": "claude",
+        "iconSlug3": "notion",
+        "iconSlug4": "make",
+        "iconSlug5": "zapier",
+        "iconSlug6": "canva",
+        "ctaText": "Get the playbook"
+      }
+    }
+  ]
+}

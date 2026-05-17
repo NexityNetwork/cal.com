@@ -1,0 +1,180 @@
+{
+  "id": "ba-lead-gen-ai",
+  "brand": "Relay AI",
+  "brief": "Lead gen before vs after AI agents — pipeline doubled, CAC cut in half.",
+  "theme": "before-after",
+  "slides": [
+    {
+      "layoutId": "cover-before-after",
+      "slots": {
+        "pageOf": "01 / 08",
+        "handle": "@relayai",
+        "title": "Stop manual",
+        "titleAccent": "lead gen",
+        "description": "AI agents double qualified pipeline and cut customer acquisition cost in half.",
+        "badLabel1": "Low reply rate manual outreach",
+        "badLabel2": "Wasted spend on cold leads",
+        "badStat1": "2% reply rate",
+        "badStat2": "$300 / lead",
+        "goodLabel1": "Hyper targeted AI agent outreach",
+        "goodLabel2": "Predictable revenue pipeline growth",
+        "goodStat1": "15% meeting rate",
+        "goodStat2": "$25 / lead",
+        "iconSlug1": "salesforce",
+        "iconSlug2": "hubspot",
+        "iconSlug3": "slack",
+        "iconSlug4": "openai"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 01 / 06",
+        "handle": "@relayai",
+        "title": "Qualify leads",
+        "titleAccent": "in seconds",
+        "description": "AI agents research and score prospects instantly instead of waiting for manual review.",
+        "badLabel": "BEFORE",
+        "badText": "Sales reps wasted hours researching unfit prospects every single week.",
+        "badStat": "$300/lead",
+        "iconSlug1": "salesforce",
+        "iconSlug2": "excel",
+        "goodLabel": "AFTER",
+        "goodText": "AI agents score and route only qualified opportunities automatically.",
+        "goodStat": "$25/lead",
+        "iconSlug3": "openai",
+        "iconSlug4": "hubspot",
+        "iconSlug5": "slack",
+        "ctaArrow": "See the next step"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 02 / 06",
+        "handle": "@relayai",
+        "title": "Reply in",
+        "titleAccent": "under 60s",
+        "description": "Stop losing deals to competitors who respond while your team is offline.",
+        "badLabel": "BEFORE",
+        "badText": "Prospects waited hours or days for a response and lost interest.",
+        "badStat": "4 hr avg",
+        "iconSlug1": "gmail",
+        "iconSlug2": "salesforce",
+        "goodLabel": "AFTER",
+        "goodText": "AI answers every inbound lead instantly, day or night.",
+        "goodStat": "< 1 min",
+        "iconSlug3": "openai",
+        "iconSlug4": "twilio",
+        "iconSlug5": "zapier",
+        "ctaArrow": "Swipe to continue"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 03 / 06",
+        "handle": "@relayai",
+        "title": "Personalize every",
+        "titleAccent": "single touch",
+        "description": "Generic templates kill trust. AI writes unique messages using real prospect data.",
+        "badLabel": "BEFORE",
+        "badText": "Mass emails felt robotic and landed straight in spam folders.",
+        "badStat": "2% reply rate",
+        "iconSlug1": "mailchimp",
+        "iconSlug2": "hubspot",
+        "goodLabel": "AFTER",
+        "goodText": "AI crafts tailored outreach that sounds human and converts.",
+        "goodStat": "15% reply rate",
+        "iconSlug3": "openai",
+        "iconSlug4": "apollo",
+        "iconSlug5": "slack",
+        "ctaArrow": "Check the numbers"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 04 / 06",
+        "handle": "@relayai",
+        "title": "Book more",
+        "titleAccent": "meetings fast",
+        "description": "Eliminate back-and-forth scheduling so your calendar fills itself while you sleep.",
+        "badLabel": "BEFORE",
+        "badText": "Reps played email tag to find a time that worked.",
+        "badStat": "3 days avg",
+        "iconSlug1": "outlook",
+        "iconSlug2": "calendly",
+        "goodLabel": "AFTER",
+        "goodText": "AI offers real-time slots and confirms meetings without human help.",
+        "goodStat": "Instant book",
+        "iconSlug3": "openai",
+        "iconSlug4": "calendly",
+        "iconSlug5": "hubspot",
+        "ctaArrow": "See the payoff"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 05 / 06",
+        "handle": "@relayai",
+        "title": "Double your",
+        "titleAccent": "pipeline now",
+        "description": "AI agents work around the clock to keep your funnel overflowing with opportunities.",
+        "badLabel": "BEFORE",
+        "badText": "One rep could only manage a hundred leads per quarter.",
+        "badStat": "100 leads/qtr",
+        "iconSlug1": "salesforce",
+        "iconSlug2": "sheets",
+        "goodLabel": "AFTER",
+        "goodText": "Digital workers scale outreach to thousands without hiring another rep.",
+        "goodStat": "200+ leads/qtr",
+        "iconSlug3": "openai",
+        "iconSlug4": "make",
+        "iconSlug5": "hubspot",
+        "ctaArrow": "Next: lower costs"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 06 / 06",
+        "handle": "@relayai",
+        "title": "Cut CAC",
+        "titleAccent": "by half",
+        "description": "Automate top-of-funnel work so your budget stretches further on every acquisition.",
+        "badLabel": "BEFORE",
+        "badText": "High salaries and ad spend drove customer acquisition through the roof.",
+        "badStat": "$300 CAC",
+        "iconSlug1": "google-ads",
+        "iconSlug2": "linkedin",
+        "goodLabel": "AFTER",
+        "goodText": "AI handles prospecting at a fraction of the traditional cost.",
+        "goodStat": "$150 CAC",
+        "iconSlug3": "openai",
+        "iconSlug4": "apollo",
+        "iconSlug5": "slack",
+        "ctaArrow": "Make the switch"
+      }
+    },
+    {
+      "layoutId": "cta-before-after",
+      "slots": {
+        "pageOf": "08 / 08",
+        "handle": "@relayai",
+        "eyebrow": "MAKE THE SWITCH",
+        "headlineLine1": "Scale pipeline",
+        "headlineAccent": "with AI agents",
+        "body": "Join teams doubling qualified pipeline and cutting acquisition costs in half this quarter.",
+        "iconSlug1": "salesforce",
+        "iconSlug2": "hubspot",
+        "iconSlug3": "slack",
+        "iconSlug4": "zapier",
+        "iconSlug5": "openai",
+        "iconSlug6": "make",
+        "ctaText": "Book a demo"
+      }
+    }
+  ]
+}

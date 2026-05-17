@@ -1,0 +1,175 @@
+{
+  "id": "stack-indie-agency",
+  "brand": "IndieOps",
+  "brief": "The 6-tool indie agency stack — pitch to delivery, no team needed.",
+  "theme": "stack-tour",
+  "slides": [
+    {
+      "layoutId": "cover-stack-tour",
+      "slots": {
+        "eyebrow": "MY 6-TOOL STACK",
+        "title": "The Solo Agency Operating System",
+        "description": "Pitch, build, and deliver client work end-to-end without hiring a team. One lean stack built for speed.",
+        "iconSlug1": "notion",
+        "toolRole1": "Client Delivery",
+        "iconSlug2": "figma",
+        "toolRole2": "Design & Decks",
+        "iconSlug3": "make",
+        "toolRole3": "Automation",
+        "iconSlug4": "webflow",
+        "toolRole4": "Web Builds",
+        "iconSlug5": "loom",
+        "toolRole5": "Async Pitching",
+        "iconSlug6": "stripe",
+        "toolRole6": "Billing & Pay",
+        "ctaText": "See the breakdown",
+        "handle": "@indieops"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "01 / 06",
+        "handle": "@indieops",
+        "iconSlug1": "notion",
+        "toolTagline": "Your agency command center",
+        "description": "Run projects, wikis, and client portals from one workspace. It replaces half your SaaS bills instantly.",
+        "bullet1": "Track deliverables and milestones",
+        "bullet2": "Share clean client dashboards",
+        "bullet3": "Store SOPs and brand guides",
+        "accentColor": "#000000",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "figma",
+        "iconSlug3": "make",
+        "iconSlug4": "webflow",
+        "iconSlug5": "loom",
+        "iconSlug6": "stripe",
+        "ctaBottom": "Swipe to see more"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "02 / 06",
+        "handle": "@indieops",
+        "iconSlug1": "figma",
+        "toolTagline": "Design that sells itself",
+        "description": "Wireframe decks, mockups, and full UI kits in the browser. Collaborate in real time with clients.",
+        "bullet1": "Pitch decks that close deals",
+        "bullet2": "Prototype websites in minutes",
+        "bullet3": "Handoff assets to developers",
+        "accentColor": "#F24E1E",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "notion",
+        "iconSlug3": "make",
+        "iconSlug4": "webflow",
+        "iconSlug5": "loom",
+        "iconSlug6": "stripe",
+        "ctaBottom": "Check the next tool"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "03 / 06",
+        "handle": "@indieops",
+        "iconSlug1": "make",
+        "toolTagline": "Glue your stack together",
+        "description": "Automate lead routing, onboarding, and reporting across apps. Set it once, let it run forever.",
+        "bullet1": "Sync leads from forms to CRM",
+        "bullet2": "Auto-generate weekly status reports",
+        "bullet3": "Trigger client onboarding flows",
+        "accentColor": "#6B00FF",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "notion",
+        "iconSlug3": "figma",
+        "iconSlug4": "webflow",
+        "iconSlug5": "loom",
+        "iconSlug6": "stripe",
+        "ctaBottom": "See what's next"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "04 / 06",
+        "handle": "@indieops",
+        "iconSlug1": "webflow",
+        "toolTagline": "Ship sites without devs",
+        "description": "Design, build, and launch client websites visually. Host, animate, and CMS-manage everything solo.",
+        "bullet1": "Launch landing pages in days",
+        "bullet2": "Hand off hosted CMS sites",
+        "bullet3": "Animate interactions without code",
+        "accentColor": "#4353FF",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "notion",
+        "iconSlug3": "figma",
+        "iconSlug4": "make",
+        "iconSlug5": "loom",
+        "iconSlug6": "stripe",
+        "ctaBottom": "Keep exploring tools"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "05 / 06",
+        "handle": "@indieops",
+        "iconSlug1": "loom",
+        "toolTagline": "Replace meetings with video",
+        "description": "Record pitches, walkthroughs, and feedback asynchronously. Clients watch on their own time.",
+        "bullet1": "Send proposal narrations fast",
+        "bullet2": "Explain revisions with context",
+        "bullet3": "Onboard clients without calls",
+        "accentColor": "#625DF5",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "notion",
+        "iconSlug3": "figma",
+        "iconSlug4": "make",
+        "iconSlug5": "webflow",
+        "iconSlug6": "stripe",
+        "ctaBottom": "Almost at the end"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "06 / 06",
+        "handle": "@indieops",
+        "iconSlug1": "stripe",
+        "toolTagline": "Get paid like a pro",
+        "description": "Invoice, bill subscriptions, and accept payments globally. Cash flow handled with zero friction.",
+        "bullet1": "Send branded invoices instantly",
+        "bullet2": "Collect recurring monthly retainers",
+        "bullet3": "Accept global cards and ACH",
+        "accentColor": "#635BFF",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "notion",
+        "iconSlug3": "figma",
+        "iconSlug4": "make",
+        "iconSlug5": "webflow",
+        "iconSlug6": "loom",
+        "ctaBottom": "See the stack"
+      }
+    },
+    {
+      "layoutId": "cta-stack-tour",
+      "slots": {
+        "pageOf": "08 / 08",
+        "handle": "@indieops",
+        "eyebrow": "YOUR TURN",
+        "headlineLine1": "Build your stack",
+        "headlineLine2": "Run solo today",
+        "iconSlug1": "notion",
+        "iconSlug2": "figma",
+        "iconSlug3": "make",
+        "iconSlug4": "webflow",
+        "iconSlug5": "loom",
+        "iconSlug6": "stripe",
+        "iconSlug7": "zapier",
+        "body": "Start with one tool, then connect the rest. Your one-person agency is closer than you think.",
+        "ctaText": "Save this stack"
+      }
+    }
+  ]
+}

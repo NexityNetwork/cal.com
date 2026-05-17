@@ -1,0 +1,157 @@
+{
+  "id": "agent-research-system",
+  "brand": "Research Analyst",
+  "brief": "How I built a 5-agent research analyst — Perplexity, Claude, Notion, Airtable, OpenAI.",
+  "theme": "agent-lineup",
+  "slides": [
+    {
+      "layoutId": "cover-agent-lineup",
+      "slots": {
+        "title": "5-Agent Research Analyst",
+        "description": "I built an autonomous research team using Perplexity, Claude, OpenAI, Notion, and Airtable.",
+        "flowLabel": "WORKFLOW",
+        "iconSlug1": "perplexity",
+        "iconSlug2": "claude",
+        "iconSlug3": "openai",
+        "flowCaption": "Discover → analyze → document automatically",
+        "iconSlug4": "notion",
+        "iconSlug5": "airtable",
+        "iconSlug6": "make",
+        "iconSlug7": "slack",
+        "ctaText": "comment 'AGENTS' for the full stack"
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "AGENT 01",
+        "title": "Source Discovery Agent",
+        "description": "Scans the web for high-signal sources and raw data based on your research brief.",
+        "iconSlug1": "perplexity",
+        "iconSlug2": "youtube",
+        "iconSlug3": "github",
+        "toolRole1": "Finds sources from deep web",
+        "toolRole2": "Scrapes video transcripts",
+        "toolRole3": "Monitors repo releases",
+        "iconSlug4": "openai",
+        "iconSlug5": "notion",
+        "iconSlug6": "airtable",
+        "iconSlug7": "slack",
+        "handle": "@yourhandle"
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "AGENT 02",
+        "title": "Content Summarizer Agent",
+        "description": "Reads articles, PDFs, and transcripts to generate structured summaries and key takeaways.",
+        "iconSlug1": "claude",
+        "iconSlug2": "loom",
+        "iconSlug3": "gmail",
+        "toolRole1": "Summarizes long-form content",
+        "toolRole2": "Transcribes video briefs",
+        "toolRole3": "Parses newsletter reports",
+        "iconSlug4": "perplexity",
+        "iconSlug5": "airtable",
+        "iconSlug6": "make",
+        "iconSlug7": "slack",
+        "handle": "@yourhandle"
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "AGENT 03",
+        "title": "Insight Extraction Agent",
+        "description": "Identifies patterns, sentiment, and anomalies across all collected research data points.",
+        "iconSlug1": "openai",
+        "iconSlug2": "airtable",
+        "iconSlug3": "notion",
+        "toolRole1": "Runs semantic analysis",
+        "toolRole2": "Queries structured datasets",
+        "toolRole3": "Updates knowledge pages",
+        "iconSlug4": "claude",
+        "iconSlug5": "perplexity",
+        "iconSlug6": "zapier",
+        "iconSlug7": "discord",
+        "handle": "@yourhandle"
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "AGENT 04",
+        "title": "Knowledge Base Agent",
+        "description": "Writes findings into organized Notion pages with tags, relations, and living dashboards.",
+        "iconSlug1": "notion",
+        "iconSlug2": "slack",
+        "iconSlug3": "gmail",
+        "toolRole1": "Drafts structured wiki pages",
+        "toolRole2": "Alerts team channels",
+        "toolRole3": "Emails stakeholder briefs",
+        "iconSlug4": "openai",
+        "iconSlug5": "perplexity",
+        "iconSlug6": "airtable",
+        "iconSlug7": "make",
+        "handle": "@yourhandle"
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "AGENT 05",
+        "title": "Data Archive Agent",
+        "description": "Logs every source, insight, and decision into a queryable Airtable research database.",
+        "iconSlug1": "airtable",
+        "iconSlug2": "make",
+        "iconSlug3": "zapier",
+        "toolRole1": "Stores structured records",
+        "toolRole2": "Triggers sync workflows",
+        "toolRole3": "Routes data across apps",
+        "iconSlug4": "openai",
+        "iconSlug5": "claude",
+        "iconSlug6": "notion",
+        "iconSlug7": "slack",
+        "handle": "@yourhandle"
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "AGENT 06",
+        "title": "Workflow Orchestrator Agent",
+        "description": "Manages handoffs between agents, schedules runs, and delivers final reports to stakeholders.",
+        "iconSlug1": "n8n",
+        "iconSlug2": "slack",
+        "iconSlug3": "gmail",
+        "toolRole1": "Manages agent handoffs",
+        "toolRole2": "Pushes Slack updates",
+        "toolRole3": "Delivers final reports",
+        "iconSlug4": "perplexity",
+        "iconSlug5": "claude",
+        "iconSlug6": "openai",
+        "iconSlug7": "notion",
+        "handle": "@yourhandle"
+      }
+    },
+    {
+      "layoutId": "cta-agent-lineup",
+      "slots": {
+        "eyebrow": "FULL STACK INSIDE",
+        "ctaHeadline1": "Build Your Agent",
+        "ctaHeadline2": "Steal My Stack",
+        "freeBadge": "100% Free Blueprint",
+        "iconSlug1": "perplexity",
+        "iconSlug2": "claude",
+        "iconSlug3": "openai",
+        "iconSlug4": "notion",
+        "iconSlug5": "airtable",
+        "iconSlug6": "n8n",
+        "iconSlug7": "slack",
+        "iconSlug8": "make",
+        "handle": "@yourhandle"
+      }
+    }
+  ]
+}

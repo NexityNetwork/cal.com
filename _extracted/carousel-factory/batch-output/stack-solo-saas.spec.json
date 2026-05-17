@@ -1,0 +1,175 @@
+{
+  "id": "stack-solo-saas",
+  "brand": "Solo SaaS",
+  "brief": "The 6-tool stack running my one-person SaaS — exact costs and what each one does.",
+  "theme": "stack-tour",
+  "slides": [
+    {
+      "layoutId": "cover-stack-tour",
+      "slots": {
+        "eyebrow": "MY 6-TOOL STACK",
+        "title": "The SaaS Stack Powering My Solo Business",
+        "description": "Exact tools, costs, and roles behind my profitable one-person SaaS.",
+        "iconSlug1": "stripe",
+        "iconSlug2": "supabase",
+        "iconSlug3": "vercel",
+        "iconSlug4": "figma",
+        "iconSlug5": "slack",
+        "iconSlug6": "notion",
+        "toolRole1": "Payment processing engine",
+        "toolRole2": "Backend database platform",
+        "toolRole3": "Frontend hosting network",
+        "toolRole4": "Interface design workspace",
+        "toolRole5": "Team communication hub",
+        "toolRole6": "Docs and knowledge base",
+        "ctaText": "See the breakdown",
+        "handle": "@solosaas"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "01 / 06",
+        "handle": "@solosaas",
+        "iconSlug1": "stripe",
+        "toolTagline": "Payments and billing infrastructure",
+        "description": "Handles subscriptions, invoicing, and global tax compliance automatically.",
+        "bullet1": "Monthly recurring revenue collection",
+        "bullet2": "Automatic sales tax calculation",
+        "bullet3": "Self-serve customer checkout flows",
+        "accentColor": "#635BFF",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "supabase",
+        "iconSlug3": "vercel",
+        "iconSlug4": "figma",
+        "iconSlug5": "slack",
+        "iconSlug6": "notion",
+        "ctaBottom": "Next in stack"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "02 / 06",
+        "handle": "@solosaas",
+        "iconSlug1": "supabase",
+        "toolTagline": "Open-source Firebase alternative",
+        "description": "PostgreSQL database, auth, and real-time APIs without backend boilerplate.",
+        "bullet1": "Built-in row-level security policies",
+        "bullet2": "Managed user authentication flows",
+        "bullet3": "Real-time database change subscriptions",
+        "accentColor": "#3ECF8E",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "stripe",
+        "iconSlug3": "vercel",
+        "iconSlug4": "figma",
+        "iconSlug5": "slack",
+        "iconSlug6": "notion",
+        "ctaBottom": "Next in stack"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "03 / 06",
+        "handle": "@solosaas",
+        "iconSlug1": "vercel",
+        "toolTagline": "Frontend cloud platform",
+        "description": "Deploys Next.js apps globally with zero-config CI/CD and preview environments.",
+        "bullet1": "Automatic preview deployments per branch",
+        "bullet2": "Global edge network performance",
+        "bullet3": "Serverless API function hosting",
+        "accentColor": "#000000",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "stripe",
+        "iconSlug3": "supabase",
+        "iconSlug4": "figma",
+        "iconSlug5": "slack",
+        "iconSlug6": "notion",
+        "ctaBottom": "Next in stack"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "04 / 06",
+        "handle": "@solosaas",
+        "iconSlug1": "figma",
+        "toolTagline": "Collaborative interface design",
+        "description": "Designs marketing sites, product UI, and social assets in one shared workspace.",
+        "bullet1": "Interactive click-through prototype testing",
+        "bullet2": "Shared design component libraries",
+        "bullet3": "One-click developer handoff specs",
+        "accentColor": "#F24E1E",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "stripe",
+        "iconSlug3": "supabase",
+        "iconSlug4": "vercel",
+        "iconSlug5": "slack",
+        "iconSlug6": "notion",
+        "ctaBottom": "Next in stack"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "05 / 06",
+        "handle": "@solosaas",
+        "iconSlug1": "slack",
+        "toolTagline": "Customer and team communication",
+        "description": "Centralizes support alerts, notifications, and async updates from every tool.",
+        "bullet1": "Instant billing failure notifications",
+        "bullet2": "Real-time support ticket alerts",
+        "bullet3": "Automated daily revenue summaries",
+        "accentColor": "#4A154B",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "stripe",
+        "iconSlug3": "supabase",
+        "iconSlug4": "vercel",
+        "iconSlug5": "figma",
+        "iconSlug6": "notion",
+        "ctaBottom": "Next in stack"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "06 / 06",
+        "handle": "@solosaas",
+        "iconSlug1": "notion",
+        "toolTagline": "Docs, wiki, and project hub",
+        "description": "Runbooks, content calendars, and feature specs kept in one flexible workspace.",
+        "bullet1": "Living technical runbook documentation",
+        "bullet2": "Editorial content calendar planning",
+        "bullet3": "Reusable feature spec templates",
+        "accentColor": "#000000",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "stripe",
+        "iconSlug3": "supabase",
+        "iconSlug4": "vercel",
+        "iconSlug5": "figma",
+        "iconSlug6": "slack",
+        "ctaBottom": "See total cost"
+      }
+    },
+    {
+      "layoutId": "cta-stack-tour",
+      "slots": {
+        "pageOf": "08 / 08",
+        "handle": "@solosaas",
+        "eyebrow": "YOUR TURN",
+        "headlineLine1": "Build your stack",
+        "headlineLine2": "Start solo today",
+        "iconSlug1": "stripe",
+        "iconSlug2": "supabase",
+        "iconSlug3": "vercel",
+        "iconSlug4": "figma",
+        "iconSlug5": "slack",
+        "iconSlug6": "notion",
+        "iconSlug7": "github",
+        "body": "Pick tools that talk to each other and scale with your revenue.",
+        "ctaText": "Grab the free guide"
+      }
+    }
+  ]
+}
