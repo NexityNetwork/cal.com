@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/ss-shortcut-stack/slide-01.png",
-      "bytes": 152516,
+      "bytes": 174409,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -19,7 +19,7 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/ss-shortcut-stack/slide-02.png",
-      "bytes": 102830,
+      "bytes": 145411,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -34,10 +34,10 @@
         "layout": "unknown",
         "elements": {
           ".body-text": {
-            "x": 60,
-            "y": 560,
-            "w": 920,
-            "h": 66
+            "x": 84,
+            "y": 419,
+            "w": 912,
+            "h": 73
           }
         }
       }
@@ -45,7 +45,7 @@
     {
       "index": 2,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/ss-shortcut-stack/slide-03.png",
-      "bytes": 102913,
+      "bytes": 151158,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -60,10 +60,10 @@
         "layout": "unknown",
         "elements": {
           ".body-text": {
-            "x": 60,
-            "y": 560,
-            "w": 920,
-            "h": 66
+            "x": 84,
+            "y": 507,
+            "w": 912,
+            "h": 73
           }
         }
       }
@@ -71,7 +71,7 @@
     {
       "index": 3,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/ss-shortcut-stack/slide-04.png",
-      "bytes": 99547,
+      "bytes": 141317,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -86,10 +86,10 @@
         "layout": "unknown",
         "elements": {
           ".body-text": {
-            "x": 60,
-            "y": 560,
-            "w": 920,
-            "h": 66
+            "x": 84,
+            "y": 419,
+            "w": 912,
+            "h": 73
           }
         }
       }
@@ -97,7 +97,7 @@
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/ss-shortcut-stack/slide-05.png",
-      "bytes": 111043,
+      "bytes": 146506,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -112,10 +112,10 @@
         "layout": "unknown",
         "elements": {
           ".body-text": {
-            "x": 60,
-            "y": 560,
-            "w": 920,
-            "h": 66
+            "x": 84,
+            "y": 419,
+            "w": 912,
+            "h": 73
           }
         }
       }
@@ -123,7 +123,7 @@
     {
       "index": 5,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/ss-shortcut-stack/slide-06.png",
-      "bytes": 99410,
+      "bytes": 143765,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -138,10 +138,10 @@
         "layout": "unknown",
         "elements": {
           ".body-text": {
-            "x": 60,
-            "y": 560,
-            "w": 920,
-            "h": 66
+            "x": 84,
+            "y": 419,
+            "w": 912,
+            "h": 73
           }
         }
       }
@@ -149,7 +149,7 @@
     {
       "index": 6,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/ss-shortcut-stack/slide-07.png",
-      "bytes": 98028,
+      "bytes": 149821,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -164,10 +164,10 @@
         "layout": "unknown",
         "elements": {
           ".body-text": {
-            "x": 60,
-            "y": 560,
-            "w": 920,
-            "h": 66
+            "x": 84,
+            "y": 419,
+            "w": 912,
+            "h": 73
           }
         }
       }
@@ -175,7 +175,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/ss-shortcut-stack/slide-08.png",
-      "bytes": 325262,
+      "bytes": 328583,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -192,8 +192,6 @@
   "carouselQa": {
     "verdict": "needs-review",
     "issues": [
-      "slides 2 and 3 have nearly identical composition (sim=1.00)",
-      "slides 3 and 4 have nearly identical composition (sim=1.00)",
       "slides 4 and 5 have nearly identical composition (sim=1.00)",
       "slides 5 and 6 have nearly identical composition (sim=1.00)",
       "slides 6 and 7 have nearly identical composition (sim=1.00)"
@@ -211,14 +209,14 @@
           2,
           3
         ],
-        "similarity": 1
+        "similarity": 0.9275720164609054
       },
       {
         "between": [
           3,
           4
         ],
-        "similarity": 1
+        "similarity": 0.9275720164609054
       },
       {
         "between": [
