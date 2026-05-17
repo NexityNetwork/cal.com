@@ -273,7 +273,7 @@ CTA   cta-before-after: pageOf, handle, eyebrow (2-3 uppercase words like "MAKE 
 
   "dark-pill-glow": `Layouts (deep #0a0a0a + dotted texture + horizontal pill with two-tone glowing text + Fraunces italic subtitle + small orange tag pill + soft Card outline — premium dev-tool aesthetic).
 COVER cover-dark-pill-glow: tag (1 short uppercase category word like "TOOLS" / "REPOS" / "STACK"), pillLeft (1-2 Inter words, white, e.g. "Open source"), pillRight (1-2 orange-glowing Inter words completing the phrase, e.g. "tools" — note: kept short, single line), subline (4-8 word descriptor, ends focuses on the audience like "projects for analytics teams"), pageOf (e.g. "01 / 06").
-BODY  body-dark-pill-glow: Top section is a "browser homepage" mockup. Fill these slots: toolName (1-3 word product name), btnLabel (2-3 word top-right CTA like "Sign up"), alertLine (8-14 word notice headline like "Slack integration is now generally available"), alertCta (1-3 words link text), heroTitle (4-8 word product hero headline), heroBody (1 sentence ≤22 words product description), snippet (a short technical command ≤28 chars, e.g. "npm install @org/sdk"), snippetBtn (1-2 word button label), stat (number like "12k"), statLabel (2-4 words like "teams worldwide"). Bottom dark gradient section: slideTitle (Fraunces italic 4-7 word slide title), slideSubtitle (1 sentence ≤25 words italic), domainText (short fake domain like "toolname.com"), pageOf ("02 / 06").
+BODY  body-dark-pill-glow: A "browser homepage" mockup at top, dark italic-serif title at bottom. ONLY 7 slots needed: toolName (1-3 word product name), heroTitle (4-8 word product hero headline), heroBody (1 sentence ≤22 words product description), slideTitle (Fraunces italic 4-7 word slide title summarizing the topic of this slide), slideSubtitle (1 sentence ≤22 words italic), domainText (short fake domain like "toolname.com"), pageOf ("02 / 06"). All other UI elements are pre-styled by the template.
 CTA   cta-dark-pill-glow: tag (1-2 uppercase words like "WRAP"), eyebrow (4-7 italic words like "the rest is up to you"), headlineMain (2-3 bold Inter words white), headlineGlow (1-3 orange-glow Inter words completing the headline), sublineItalic (1 sentence ≤25 words Fraunces italic), pageOf ("06 / 06").`,
 };
 
@@ -614,7 +614,7 @@ async function plan(brief, family) {
       headers: AUTH,
       body: JSON.stringify({
         messages: [{ role: "user", content: PROMPT_TEMPLATE(brief, family) }],
-        max_tokens: 8000,
+        max_tokens: 32000,
         temperature: 0.7,
       }),
     });
