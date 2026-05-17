@@ -1,0 +1,186 @@
+{
+  "id": "la-cursor-rules",
+  "brand": "51ultron",
+  "brief": "8 cursor rules that turn a code editor into a senior teammate.",
+  "theme": "lime-accent",
+  "slides": [
+    {
+      "layoutId": "cover-lime-accent",
+      "slots": {
+        "brandTag": "CURSOR RULES",
+        "handle": "51ultron.com",
+        "eyebrow": "EDITOR CONFIG",
+        "titleLine1": "8 cursor",
+        "titleCallout": "rules",
+        "titleLine3": "for senior devs",
+        "iconSlug1": "cursor",
+        "iconSlug2": "github",
+        "iconSlug3": "vscode",
+        "iconSlug4": "vercel",
+        "iconSlug5": "openai",
+        "iconSlug6": "nodejs",
+        "swipeLabel": "SEE LIST",
+        "pageOf": "01 / 08"
+      }
+    },
+    {
+      "layoutId": "body-lime-accent",
+      "slots": {
+        "numLabel": "RULES 01-02",
+        "handle": "51ultron.com",
+        "iconSlug1": "cursor",
+        "toolName": "Foundation & Persona",
+        "toolTag": "setup",
+        "toolTagline": "Anchor every project with a root config and a senior voice.",
+        "bodyText": "A `.cursorrules` file at root gives the AI <em>persistent context</em>. Pair it with a staff-engineer persona so every suggestion sounds like a <em>senior teammate</em>.",
+        "bullet1": "Single source of truth",
+        "bullet2": "Consistent personality",
+        "bullet3": "Zero prompt fatigue",
+        "metric1Label": "SETUP",
+        "metric1Value": "1 file",
+        "metric2Label": "IMPACT",
+        "metric2Value": "10x context",
+        "metric3Label": "COST",
+        "metric3Value": "free",
+        "pageOf": "02 / 08",
+        "footerNote": "drop in root"
+      }
+    },
+    {
+      "layoutId": "body-lime-accent",
+      "slots": {
+        "numLabel": "RULE 03",
+        "handle": "51ultron.com",
+        "iconSlug1": "react",
+        "toolName": "Stack Lock",
+        "toolTag": "essential",
+        "toolTagline": "Freeze frameworks and versions to kill hallucinated dependencies.",
+        "bodyText": "Tell Cursor exactly which <em>runtime, framework, and packages</em> are fair game. This stops the AI from inventing libraries or drifting into <em>legacy patterns</em>.",
+        "bullet1": "No phantom imports",
+        "bullet2": "Version-pinned answers",
+        "bullet3": "Consistent architecture",
+        "metric1Label": "STACK",
+        "metric1Value": "locked",
+        "metric2Label": "DRIFT",
+        "metric2Value": "0%",
+        "metric3Label": "SPEED",
+        "metric3Value": "faster",
+        "pageOf": "03 / 08",
+        "footerNote": "be explicit"
+      }
+    },
+    {
+      "layoutId": "body-lime-accent",
+      "slots": {
+        "numLabel": "RULE 04",
+        "handle": "51ultron.com",
+        "iconSlug1": "vscode",
+        "toolName": "Style Guard",
+        "toolTag": "lint",
+        "toolTagline": "Enforce naming, formatting, and syntax across every generation.",
+        "bodyText": "Embed your <em>prettier and eslint rules</em> inside `.cursorrules` so generated code never needs a cleanup pass. Consistency becomes <em>automatic</em>.",
+        "bullet1": "Auto-formatted output",
+        "bullet2": "Naming conventions",
+        "bullet3": "Zero style debt",
+        "metric1Label": "LINT",
+        "metric1Value": "strict",
+        "metric2Label": "DEBT",
+        "metric2Value": "-90%",
+        "metric3Label": "STYLE",
+        "metric3Value": "enforced",
+        "pageOf": "04 / 08",
+        "footerNote": "lint first"
+      }
+    },
+    {
+      "layoutId": "body-lime-accent",
+      "slots": {
+        "numLabel": "RULES 05-06",
+        "handle": "51ultron.com",
+        "iconSlug1": "github",
+        "toolName": "Test & Docs",
+        "toolTag": "quality",
+        "toolTagline": "Require tests and docs before any code is accepted.",
+        "bodyText": "Mandate <em>unit tests for new logic</em> and JSDoc for public APIs. Cursor will write the spec and documentation <em>before</em> the implementation.",
+        "bullet1": "TDD by default",
+        "bullet2": "Auto JSDoc blocks",
+        "bullet3": "Coverage enforced",
+        "metric1Label": "TESTS",
+        "metric1Value": "required",
+        "metric2Label": "DOCS",
+        "metric2Value": "auto",
+        "metric3Label": "BUGS",
+        "metric3Value": "-40%",
+        "pageOf": "05 / 08",
+        "footerNote": "shift left"
+      }
+    },
+    {
+      "layoutId": "body-lime-accent",
+      "slots": {
+        "numLabel": "RULE 07",
+        "handle": "51ultron.com",
+        "iconSlug1": "auth0",
+        "toolName": "Security Block",
+        "toolTag": "safe",
+        "toolTagline": "Ban unsafe patterns and secrets from ever reaching the codebase.",
+        "bodyText": "Explicitly <em>forbid eval, innerHTML, and hardcoded secrets</em> in your rules. Cursor treats security as a <em>hard constraint</em>, not a suggestion.",
+        "bullet1": "No secret leaks",
+        "bullet2": "Banned unsafe APIs",
+        "bullet3": "OWASP aligned",
+        "metric1Label": "RISK",
+        "metric1Value": "blocked",
+        "metric2Label": "SECRETS",
+        "metric2Value": "banned",
+        "metric3Label": "GRADE",
+        "metric3Value": "A+",
+        "pageOf": "06 / 08",
+        "footerNote": "zero trust"
+      }
+    },
+    {
+      "layoutId": "body-lime-accent",
+      "slots": {
+        "numLabel": "RULE 08",
+        "handle": "51ultron.com",
+        "iconSlug1": "openai",
+        "toolName": "Self Review",
+        "toolTag": "pro",
+        "toolTagline": "Make Cursor critique its own output like a senior reviewer.",
+        "bodyText": "Add a rule that forces the AI to <em>check its own diff</em> for bugs, performance, and clarity before returning code. It becomes a <em>rubber duck</em> with a staff-engineer badge.",
+        "bullet1": "Catch own bugs",
+        "bullet2": "Optimize loops",
+        "bullet3": "Explain tradeoffs",
+        "metric1Label": "REVIEW",
+        "metric1Value": "auto",
+        "metric2Label": "BUGS",
+        "metric2Value": "-35%",
+        "metric3Label": "QUALITY",
+        "metric3Value": "senior",
+        "pageOf": "07 / 08",
+        "footerNote": "review twice"
+      }
+    },
+    {
+      "layoutId": "cta-lime-accent",
+      "slots": {
+        "brandTag": "WRAP",
+        "handle": "51ultron.com",
+        "eyebrow": "PICK YOURS",
+        "ctaLine1": "deploy these",
+        "ctaCallout": "today",
+        "ctaBody": "Turn Cursor into a senior teammate. Drop a `.cursorrules` file in your repo and watch code quality jump.",
+        "btnPrimary": "Copy Rules",
+        "btnGhost": "Read Guide",
+        "iconSlug1": "cursor",
+        "iconSlug2": "github",
+        "iconSlug3": "vscode",
+        "iconSlug4": "vercel",
+        "iconSlug5": "openai",
+        "iconSlug6": "nodejs",
+        "pageOf": "08 / 08",
+        "footerNote": "ship better code"
+      }
+    }
+  ]
+}

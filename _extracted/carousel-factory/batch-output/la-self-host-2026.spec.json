@@ -1,0 +1,186 @@
+{
+  "id": "la-self-host-2026",
+  "brand": "51ultron",
+  "brief": "10 self-hosted apps that replaced my $400/mo SaaS bill.",
+  "theme": "lime-accent",
+  "slides": [
+    {
+      "layoutId": "cover-lime-accent",
+      "slots": {
+        "brandTag": "SELF HOSTED",
+        "handle": "factory.51ultron.com",
+        "eyebrow": "2026 PICKS",
+        "titleLine1": "10 self-hosted",
+        "titleCallout": "apps",
+        "titleLine3": "that cut $400/mo",
+        "iconSlug1": "nextcloud",
+        "iconSlug2": "bitwarden",
+        "iconSlug3": "n8n",
+        "iconSlug4": "ghost",
+        "iconSlug5": "matomo",
+        "iconSlug6": "uptimekuma",
+        "swipeLabel": "SEE LIST",
+        "pageOf": "01 / 08"
+      }
+    },
+    {
+      "layoutId": "body-lime-accent",
+      "slots": {
+        "numLabel": "TOOL 01",
+        "handle": "factory.51ultron.com",
+        "iconSlug1": "nextcloud",
+        "toolName": "Nextcloud",
+        "toolTag": "free",
+        "toolTagline": "Dropbox alternative that runs on your own server.",
+        "bodyText": "Sync files, calendars, and contacts with <em>zero third-party access</em>. One Docker container replaces a $20/mo cloud storage bill.",
+        "bullet1": "Unlimited storage on your hardware",
+        "bullet2": "End-to-end encryption for files",
+        "bullet3": "Built-in collaborative office suite",
+        "metric1Label": "PRICE",
+        "metric2Label": "USERS",
+        "metric3Label": "OSS",
+        "metric1Value": "Free",
+        "metric2Value": "Unlimited",
+        "metric3Value": "AGPL",
+        "pageOf": "02 / 08",
+        "footerNote": "Docker ready, AGPL license"
+      }
+    },
+    {
+      "layoutId": "body-lime-accent",
+      "slots": {
+        "numLabel": "TOOL 02",
+        "handle": "factory.51ultron.com",
+        "iconSlug1": "bitwarden",
+        "toolName": "Bitwarden",
+        "toolTag": "essential",
+        "toolTagline": "Password manager you control on your own infrastructure.",
+        "bodyText": "Host the official server or the <em>lightweight Rust fork</em> on a $5 VPS. Ditch the $40/yr premium plan forever.",
+        "bullet1": "AES-256 bit vault encryption",
+        "bullet2": "Secure family password sharing",
+        "bullet3": "Auto-fill on every device",
+        "metric1Label": "PRICE",
+        "metric2Label": "USERS",
+        "metric3Label": "OSS",
+        "metric1Value": "Free",
+        "metric2Value": "Unlimited",
+        "metric3Value": "GPLv3",
+        "pageOf": "03 / 08",
+        "footerNote": "Self-hosted vault ready"
+      }
+    },
+    {
+      "layoutId": "body-lime-accent",
+      "slots": {
+        "numLabel": "TOOL 03",
+        "handle": "factory.51ultron.com",
+        "iconSlug1": "n8n",
+        "toolName": "n8n",
+        "toolTag": "Zapier killer",
+        "toolTagline": "Open-source workflow automation with native AI nodes.",
+        "bodyText": "Connect APIs, databases, and LLMs with a <em>visual node editor</em>. Replace a $50/mo Zapier tier completely.",
+        "bullet1": "Four hundred plus integrations",
+        "bullet2": "Fair-code source available license",
+        "bullet3": "Visual workflow node editor",
+        "metric1Label": "PRICE",
+        "metric2Label": "WORKFLOWS",
+        "metric3Label": "OSS",
+        "metric1Value": "Free",
+        "metric2Value": "Unlimited",
+        "metric3Value": "Fair-code",
+        "pageOf": "04 / 08",
+        "footerNote": "Fair-code source license"
+      }
+    },
+    {
+      "layoutId": "body-lime-accent",
+      "slots": {
+        "numLabel": "TOOL 04",
+        "handle": "factory.51ultron.com",
+        "iconSlug1": "ghost",
+        "toolName": "Ghost",
+        "toolTag": "publish",
+        "toolTagline": "Professional newsletter and membership platform.",
+        "bodyText": "Run a paid newsletter or blog with <em>zero platform fees</em>. Replaces Substack Pro and Medium at scale.",
+        "bullet1": "Built-in paid memberships engine",
+        "bullet2": "Zero percent platform fees",
+        "bullet3": "Blazing fast Node.js performance",
+        "metric1Label": "PRICE",
+        "metric2Label": "FEES",
+        "metric3Label": "OSS",
+        "metric1Value": "Free",
+        "metric2Value": "0%",
+        "metric3Value": "MIT",
+        "pageOf": "05 / 08",
+        "footerNote": "Headless Node.js platform"
+      }
+    },
+    {
+      "layoutId": "body-lime-accent",
+      "slots": {
+        "numLabel": "TOOL 05",
+        "handle": "factory.51ultron.com",
+        "iconSlug1": "matomo",
+        "toolName": "Matomo",
+        "toolTag": "analytics",
+        "toolTagline": "Google Analytics alternative that respects privacy.",
+        "bodyText": "Track every visit without sharing data with Big Tech. A <em>single Docker image</em> replaces a $200/mo analytics bill.",
+        "bullet1": "Complete data ownership guaranteed",
+        "bullet2": "Heatmaps and funnel tracking",
+        "bullet3": "GDPR compliant privacy controls",
+        "metric1Label": "PRICE",
+        "metric2Label": "SITES",
+        "metric3Label": "OSS",
+        "metric1Value": "Free",
+        "metric2Value": "Unlimited",
+        "metric3Value": "GPLv3",
+        "pageOf": "06 / 08",
+        "footerNote": "On-premise PHP stack"
+      }
+    },
+    {
+      "layoutId": "body-lime-accent",
+      "slots": {
+        "numLabel": "TOOL 06",
+        "handle": "factory.51ultron.com",
+        "iconSlug1": "uptimekuma",
+        "toolName": "Uptime Kuma",
+        "toolTag": "monitor",
+        "toolTagline": "Fancy uptime monitoring with 20+ notification services.",
+        "bodyText": "Ping websites, APIs, and Docker containers with <em>sub-minute intervals</em>. Cuts the $18/mo Pingdom tax to zero.",
+        "bullet1": "Over twenty notification services",
+        "bullet2": "Public status page built-in",
+        "bullet3": "Sub-minute interval health checks",
+        "metric1Label": "PRICE",
+        "metric2Label": "CHECKS",
+        "metric3Label": "OSS",
+        "metric1Value": "Free",
+        "metric2Value": "Unlimited",
+        "metric3Value": "MIT",
+        "pageOf": "07 / 08",
+        "footerNote": "Reactive Node.js monitor"
+      }
+    },
+    {
+      "layoutId": "cta-lime-accent",
+      "slots": {
+        "brandTag": "WRAP",
+        "handle": "factory.51ultron.com",
+        "eyebrow": "PICK YOURS",
+        "ctaLine1": "Self-host your",
+        "ctaCallout": "stack",
+        "ctaBody": "Cut your SaaS bill and own your data. Deploy these tools on any VPS in under an hour.",
+        "btnPrimary": "Get Started",
+        "btnGhost": "View Docs",
+        "iconSlug1": "nextcloud",
+        "iconSlug2": "bitwarden",
+        "iconSlug3": "n8n",
+        "iconSlug4": "ghost",
+        "iconSlug5": "matomo",
+        "iconSlug6": "uptimekuma",
+        "pageOf": "08 / 08",
+        "footerNote": "Open source first"
+      }
+    }
+  ]
+}

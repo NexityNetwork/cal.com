@@ -1,0 +1,193 @@
+{
+  "id": "pb-zero-cost-stack",
+  "brand": "SOLOSTACK",
+  "brief": "10 zero-cost dev tools that run a 7-figure indie product.",
+  "theme": "pixel-block",
+  "slides": [
+    {
+      "layoutId": "cover-pixel-block",
+      "slots": {
+        "brandTag": "DEV STACK",
+        "handle": "@indiehack",
+        "preLine": "the only free stack for",
+        "pixelLine1": "ZERO COST",
+        "pixelLine2": "DEV TOOLS",
+        "postLine": "that runs a seven figure indie business",
+        "iconSlug1": "github",
+        "iconSlug2": "vercel",
+        "iconSlug3": "supabase",
+        "iconSlug4": "stripe",
+        "iconSlug5": "figma",
+        "statValue": "10",
+        "statLabel": "TOOLS",
+        "swipeLabel": "SCROLL",
+        "pageOf": "01 / 08"
+      }
+    },
+    {
+      "layoutId": "body-pixel-block",
+      "slots": {
+        "numLabel": "TOOL 01",
+        "handle": "@indiehack",
+        "iconSlug1": "github",
+        "toolName": "GITHUB",
+        "categoryLabel": "FREE",
+        "toolTagline": "The universal home for code and CI/CD pipelines.",
+        "bodyText": "Host repos, automate deploys, and manage issues <em>without spending a dime</em> on private teams.",
+        "skill1Label": "WHAT IT DOES",
+        "skill2Label": "BEST FOR",
+        "skill3Label": "FREE TIER",
+        "skill4Label": "PRO TIP",
+        "skill1Body": "Git hosting and GitHub Actions runners.",
+        "skill2Body": "Version control and automated testing.",
+        "skill3Body": "Unlimited public and private repositories.",
+        "skill4Body": "Use Actions to auto-deploy to Vercel.",
+        "cmdLine": "git push origin main",
+        "outLine": "✓ deployed in 42s",
+        "pageOf": "02 / 08",
+        "footerNote": "gh v2.42.0"
+      }
+    },
+    {
+      "layoutId": "body-pixel-block",
+      "slots": {
+        "numLabel": "TOOL 02",
+        "handle": "@indiehack",
+        "iconSlug1": "vercel",
+        "toolName": "VERCEL",
+        "categoryLabel": "FREE",
+        "toolTagline": "Zero-config edge hosting for frontend frameworks.",
+        "bodyText": "Deploy Next.js apps to a global CDN <em>with preview branches</em> for every pull request instantly.",
+        "skill1Label": "WHAT IT DOES",
+        "skill2Label": "BEST FOR",
+        "skill3Label": "FREE TIER",
+        "skill4Label": "PRO TIP",
+        "skill1Body": "Serverless functions and edge network delivery.",
+        "skill2Body": "Frontend hosting and rapid prototyping.",
+        "skill3Body": "100 GB bandwidth and 6k build mins.",
+        "skill4Body": "Use edge config for feature flags.",
+        "cmdLine": "vercel --prod",
+        "outLine": "Production ready in 12s",
+        "pageOf": "03 / 08",
+        "footerNote": "vercel 33.0.0"
+      }
+    },
+    {
+      "layoutId": "body-pixel-block",
+      "slots": {
+        "numLabel": "TOOL 03",
+        "handle": "@indiehack",
+        "iconSlug1": "supabase",
+        "toolName": "SUPABASE",
+        "categoryLabel": "FREE",
+        "toolTagline": "Open-source Firebase alternative with a generous free tier.",
+        "bodyText": "Spin up Postgres, auth, and real-time APIs <em>in under two minutes</em> without touching a credit card.",
+        "skill1Label": "WHAT IT DOES",
+        "skill2Label": "BEST FOR",
+        "skill3Label": "FREE TIER",
+        "skill4Label": "PRO TIP",
+        "skill1Body": "Postgres database and Row Level Security.",
+        "skill2Body": "Indie backends and user authentication.",
+        "skill3Body": "500 MB database and 2 GB file storage.",
+        "skill4Body": "Enable realtime for live dashboard updates.",
+        "cmdLine": "supabase start",
+        "outLine": "API ready at localhost:54321",
+        "pageOf": "04 / 08",
+        "footerNote": "supabase 1.100.0"
+      }
+    },
+    {
+      "layoutId": "body-pixel-block",
+      "slots": {
+        "numLabel": "TOOL 04",
+        "handle": "@indiehack",
+        "iconSlug1": "stripe",
+        "toolName": "STRIPE",
+        "categoryLabel": "FREE",
+        "toolTagline": "Payments infrastructure that only charges when you earn.",
+        "bodyText": "Accept subscriptions and one-off payments <em>with zero monthly fees</em> using their pay-as-you-go pricing model.",
+        "skill1Label": "WHAT IT DOES",
+        "skill2Label": "BEST FOR",
+        "skill3Label": "FREE TIER",
+        "skill4Label": "PRO TIP",
+        "skill1Body": "Payment processing and subscription management.",
+        "skill2Body": "SaaS billing and invoicing workflows.",
+        "skill3Body": "No monthly cost; per-transaction fees only.",
+        "skill4Body": "Use customer portal for self-serve upgrades.",
+        "cmdLine": "stripe listen --forward-to localhost:3000",
+        "outLine": "Ready! Your webhook signing secret is...",
+        "pageOf": "05 / 08",
+        "footerNote": "stripe 1.18.0"
+      }
+    },
+    {
+      "layoutId": "body-pixel-block",
+      "slots": {
+        "numLabel": "TOOL 05",
+        "handle": "@indiehack",
+        "iconSlug1": "posthog",
+        "toolName": "POSTHOG",
+        "categoryLabel": "FREE",
+        "toolTagline": "Product analytics, feature flags, and session replays.",
+        "bodyText": "Understand user behavior and ship experiments <em>without bloating your bundle</em> or paying analytics vendor fees.",
+        "skill1Label": "WHAT IT DOES",
+        "skill2Label": "BEST FOR",
+        "skill3Label": "FREE TIER",
+        "skill4Label": "PRO TIP",
+        "skill1Body": "Event tracking and conversion funnels.",
+        "skill2Body": "Product insights and A/B testing.",
+        "skill3Body": "1M events per month at no cost.",
+        "skill4Body": "Use feature flags to roll out safely.",
+        "cmdLine": "npx posthog-cli",
+        "outLine": "Events captured: 1,024",
+        "pageOf": "06 / 08",
+        "footerNote": "posthog 3.0.0"
+      }
+    },
+    {
+      "layoutId": "body-pixel-block",
+      "slots": {
+        "numLabel": "TOOL 06",
+        "handle": "@indiehack",
+        "iconSlug1": "figma",
+        "toolName": "FIGMA",
+        "categoryLabel": "FREE",
+        "toolTagline": "Interface design and collaborative prototyping for dev teams.",
+        "bodyText": "Turn mockups into inspectable specs <em>with CSS snippets</em> so engineers never guess padding or hex codes.",
+        "skill1Label": "WHAT IT DOES",
+        "skill2Label": "BEST FOR",
+        "skill3Label": "FREE TIER",
+        "skill4Label": "PRO TIP",
+        "skill1Body": "Vector design and dev handoff.",
+        "skill2Body": "UI systems and rapid wireframing.",
+        "skill3Body": "3 design files and unlimited drafts.",
+        "skill4Body": "Use auto-layout to mirror flexbox logic.",
+        "cmdLine": "figma export --format=svg",
+        "outLine": "3 assets exported to ./public",
+        "pageOf": "07 / 08",
+        "footerNote": "figma 116.0"
+      }
+    },
+    {
+      "layoutId": "cta-pixel-block",
+      "slots": {
+        "brandTag": "WRAP UP",
+        "handle": "@indiehack",
+        "eyebrow": "build like a solo unicorn",
+        "ctaLine1": "START NOW",
+        "ctaLine2": "FOR FREE",
+        "ctaBody": "Stack these tools and ship your indie SaaS without touching runway. The best price is zero.",
+        "btnPrimary": "SAVE STACK",
+        "btnGhost": "READ BLOG",
+        "iconSlug1": "github",
+        "iconSlug2": "vercel",
+        "iconSlug3": "supabase",
+        "iconSlug4": "stripe",
+        "iconSlug5": "figma",
+        "iconSlug6": "posthog",
+        "pageOf": "08 / 08",
+        "footerNote": "built with zero budget"
+      }
+    }
+  ]
+}

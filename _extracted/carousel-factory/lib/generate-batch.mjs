@@ -76,6 +76,8 @@ const FAMILY_LAYOUTS = {
   "leak-dark":        { cover: "cover-leak-dark",       body: "body-leak-dark",       cta: "cta-leak-dark" },
   "cream-claude":     { cover: "cover-cream-claude",    body: "body-cream-claude",    cta: "cta-cream-claude" },
   "tech-stack-grid":  { cover: "cover-tech-stack-grid", body: "body-tech-stack-grid", cta: "cta-tech-stack-grid" },
+  "lime-accent":      { cover: "cover-lime-accent",     body: "body-lime-accent",     cta: "cta-lime-accent" },
+  "pixel-block":      { cover: "cover-pixel-block",     body: "body-pixel-block",     cta: "cta-pixel-block" },
 };
 
 // CTA slot conventions, shared by all families:
@@ -300,6 +302,18 @@ USES the iconSlug<N> system from compose.js. JUST pass lowercase brand slugs lik
 COVER cover-tech-stack-grid: tag (1-2 uppercase words like "MY STACK"), handle (short site like "factory.51ultron.com"), eyebrow (3-6 italic-serif intro words), titleLine1 (2-4 bold Inter words), titleAccent (1-3 orange-glow words like "tools that ship"), iconSlug1..iconSlug6 (6 brand slugs for the 6 tool cards — pick a coherent stack), role1..role6 (3-4 word uppercase role label per tool like "WRITES CODE" / "RUNS WORKFLOWS"), toolName1..toolName6 (optional — compose auto-derives from slug if omitted), pageOf ("01 / 08").
 BODY  body-tech-stack-grid: tag (1-2 uppercase words), stepMeta (mono step like "02 / 08"), iconSlug1 (the ONE featured brand slug for this slide), toolName1 (optional — compose auto-derives), toolRole (3-5 word uppercase role label), toolTagline (2-3 word category tag like "ESSENTIAL"), tagline (1 sentence ≤22 words Fraunces italic about what this tool does), f1Title/f2Title/f3Title (3 short feature lines 3-6 words each), f1Body/f2Body/f3Body (single-sentence ≤18 word descriptions per feature), iconSlug2/iconSlug3/iconSlug4/iconSlug5 (4 "pairs with" supporting brand slugs), domainText, pageOf ("02 / 08").
 CTA   cta-tech-stack-grid: tag (1-2 uppercase words like "WRAP"), handle, eyebrow (3-6 italic-serif words), ctaLine1 (2-4 bold Inter words), ctaLine2 (1-3 orange-glow words), ctaBody (1-2 sentences ≤30 words), iconSlug1..iconSlug6 (6 brand slugs — full stack recap), btnPrimary (2-3 word primary CTA), btnGhost (2-3 word secondary), domainText, pageOf ("08 / 08").`,
+
+  "lime-accent": `Layouts (deep #0a0a0a + dot grid + bright lime #c6f04a accent callout box around the topic word + bold Inter 900 white headline + numbered listicle style — modern "N tools/repos/skills you need" aesthetic).
+Uses iconSlug<N> brand-icon system (compose.js auto-renders SVG + brand color).
+COVER cover-lime-accent: brandTag (1-2 uppercase words like "STACK PICK" / "AI TOOLS"), handle (short like "factory.51ultron.com"), eyebrow (2-3 uppercase words like "2026 PICKS" / "VIBE CODING"), titleLine1 (2-4 bold Inter words like "9 free"), titleCallout (1-2 words rendered in bright lime callout box like "vibe coding"), titleLine3 (2-4 words like "tools to know"), iconSlug1..iconSlug6 (6 brand slugs of the tools on the list), swipeLabel (1-2 words like "SEE LIST"), pageOf ("01 / 08").
+BODY  body-lime-accent: numLabel (uppercase tool label like "TOOL 01"), handle, iconSlug1 (the featured tool slug for this slide), toolName (optional, compose auto-fills), toolTag (1-2 lime-pill words like "free" / "essential"), toolTagline (1 sentence ≤15 words), bodyText (1-2 sentences ≤40 words with 1-2 phrases wrapped in <em>...</em>), bullet1/bullet2/bullet3 (3 short benefit lines 4-8 words each), metric1Label/metric2Label/metric3Label (3 short uppercase labels 1-2 words like "PRICE" / "USERS" / "OSS"), metric1Value/metric2Value/metric3Value (3 short metric values), pageOf ("02 / 08"), footerNote (3-5 word footer note like "open source, MIT").
+CTA   cta-lime-accent: brandTag (1-2 uppercase words like "WRAP"), handle, eyebrow (2-4 uppercase words like "PICK YOURS"), ctaLine1 (2-4 bold Inter words), ctaCallout (1-2 words in lime callout like "today"), ctaBody (1-2 sentences ≤30 words), btnPrimary (2-3 word primary CTA), btnGhost (2-3 word secondary), iconSlug1..iconSlug6 (6 brand slugs — full stack recap), pageOf ("08 / 08"), footerNote (3-5 word footer note).`,
+
+  "pixel-block": `Layouts (deep #0a0a0a + dot grid + chunky retro Press-Start-2P pixel-letter topic word + orange #ff7a3c + Fraunces italic accents + dark terminal preview — retro/dev/leetcode-vibe listicle aesthetic).
+Uses iconSlug<N> brand-icon system.
+COVER cover-pixel-block: brandTag (1-2 uppercase words like "REPOS" / "SKILLS"), handle, preLine (3-6 italic-serif intro words like "the only repos for"), pixelLine1 (1-2 SHORT Press-Start-2P pixel-letter words like "VIBE CODE" — UPPERCASE, ≤10 chars total), pixelLine2 (1-2 SHORT pixel-letter words like "TOOLS" — UPPERCASE, ≤10 chars total — note these will render BIG and chunky, keep words short to avoid overflow), postLine (4-8 italic-serif words like "real devs use every day"), iconSlug1..iconSlug5 (5 brand slugs), statValue (short pixel-style metric like "9" or "12k"), statLabel (1-2 uppercase words like "REPOS"), swipeLabel (1-2 words like "SCROLL"), pageOf ("01 / 08").
+BODY  body-pixel-block: numLabel (Press-Start pixel-style label like "TOOL 01" — ≤8 chars), handle, iconSlug1 (featured tool slug), toolName (optional, will be SHORT ≤10 chars — for the pixel rendering keep it short), categoryLabel (1-2 uppercase mono words like "FREE" / "PAID"), toolTagline (1 italic sentence ≤14 words), bodyText (1-2 sentences ≤35 words with <em>...</em> highlights), skill1Label/skill2Label/skill3Label/skill4Label (4 pixel-mono labels like "WHAT IT DOES" / "BEST FOR" — each ≤14 chars), skill1Body/skill2Body/skill3Body/skill4Body (4 short body lines ≤14 words each), cmdLine (mono terminal command like "git clone repo"), outLine (mono terminal output like "cloned in 1.2s"), pageOf ("02 / 08"), footerNote (mono footer note).
+CTA   cta-pixel-block: brandTag (1-2 uppercase words like "WRAP UP"), handle, eyebrow (3-6 italic-serif words), ctaLine1 (1-2 SHORT pixel-letter words ≤10 chars total), ctaLine2 (1-2 SHORT pixel-letter words ≤10 chars total), ctaBody (1-2 sentences ≤30 words), btnPrimary (2-3 word primary CTA), btnGhost (2-3 word secondary), iconSlug1..iconSlug6 (6 brand slugs — full stack recap), pageOf ("08 / 08"), footerNote.`,
 };
 
 const PROMPT_TEMPLATE = (brief, family) => `You are a carousel planner.
@@ -656,6 +670,20 @@ const BRIEFS = [
   { id: "tsg-ai-research-stack",      family: "tech-stack-grid", text: "AI research stack — 6 tools to triangulate truth before you publish." },
   { id: "tsg-data-engineering-stack", family: "tech-stack-grid", text: "Data engineering for solo founders — 6 tools that run a real warehouse." },
   { id: "tsg-customer-feedback-stack",family: "tech-stack-grid", text: "Customer feedback stack — 6 tools that close the loop between user and PR." },
+
+  // lime-accent (numbered listicles, bright lime callout style — "N tools you need")
+  { id: "la-vibe-code-tools",         family: "lime-accent", text: "9 free vibe-coding tools every indie dev quietly relies on in 2026." },
+  { id: "la-llm-eval-tools",          family: "lime-accent", text: "7 LLM eval tools that find bugs before your users do." },
+  { id: "la-prompt-frameworks",       family: "lime-accent", text: "6 prompt frameworks that 10x output across every model you use." },
+  { id: "la-cursor-rules",            family: "lime-accent", text: "8 cursor rules that turn a code editor into a senior teammate." },
+  { id: "la-self-host-2026",          family: "lime-accent", text: "10 self-hosted apps that replaced my $400/mo SaaS bill." },
+
+  // pixel-block (retro pixel-block topic + dev listicle aesthetic)
+  { id: "pb-github-repos",            family: "pixel-block", text: "9 GitHub repos serious devs star but rarely talk about." },
+  { id: "pb-cli-tools",               family: "pixel-block", text: "7 CLI tools real engineers run every single day." },
+  { id: "pb-react-libs",              family: "pixel-block", text: "8 React libs that quietly replaced expensive UI kits." },
+  { id: "pb-debug-stack",             family: "pixel-block", text: "6 debugging tools that turn a 4-hour incident into 20 minutes." },
+  { id: "pb-zero-cost-stack",         family: "pixel-block", text: "10 zero-cost dev tools that run a 7-figure indie product." },
 ];
 
 // ─── Kimi planner with retry on JSON parse failure ─────────────────────────

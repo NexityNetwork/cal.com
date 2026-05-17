@@ -1,0 +1,193 @@
+{
+  "id": "pb-github-repos",
+  "brand": "CODEX",
+  "brief": "9 GitHub repos serious devs star but rarely talk about.",
+  "theme": "pixel-block",
+  "slides": [
+    {
+      "layoutId": "cover-pixel-block",
+      "slots": {
+        "brandTag": "HIDDEN REPOS",
+        "handle": "@codex",
+        "preLine": "the only repos for",
+        "pixelLine1": "VIBE CODE",
+        "pixelLine2": "TOOLS",
+        "postLine": "real devs use every day",
+        "iconSlug1": "github",
+        "iconSlug2": "git",
+        "iconSlug3": "rust",
+        "iconSlug4": "gnubash",
+        "iconSlug5": "linux",
+        "statValue": "9",
+        "statLabel": "REPOS",
+        "swipeLabel": "SCROLL",
+        "pageOf": "01 / 08"
+      }
+    },
+    {
+      "layoutId": "body-pixel-block",
+      "slots": {
+        "numLabel": "TOOL 01",
+        "handle": "@codex",
+        "iconSlug1": "githubactions",
+        "toolName": "ACT",
+        "categoryLabel": "DEVTOOL",
+        "toolTagline": "Run GitHub Actions locally without pushing a single commit.",
+        "bodyText": "Test your CI workflows in a clean Docker environment before they ever hit the remote. <em>Saves time</em> and avoids embarrassing red builds on main.",
+        "skill1Label": "WHAT IT DOES",
+        "skill1Body": "Runs GitHub Actions locally in Docker containers.",
+        "skill2Label": "BEST FOR",
+        "skill2Body": "Debugging failing CI steps before pushing code.",
+        "skill3Label": "SETUP TIME",
+        "skill3Body": "One binary install via brew or cargo.",
+        "skill4Label": "GOTCHA",
+        "skill4Body": "Docker must be running locally to execute jobs.",
+        "cmdLine": "act push",
+        "outLine": "[OK] build succeeded in 42s",
+        "pageOf": "02 / 08",
+        "footerNote": "nektos/act on GitHub"
+      }
+    },
+    {
+      "layoutId": "body-pixel-block",
+      "slots": {
+        "numLabel": "TOOL 02",
+        "handle": "@codex",
+        "iconSlug1": "gnubash",
+        "toolName": "DIRENV",
+        "categoryLabel": "SHELL",
+        "toolTagline": "Auto-load environment variables when you cd into a project folder.",
+        "bodyText": "Stop exporting secrets globally. direnv <em>unloads them automatically</em> when you leave the directory, keeping your shell pristine.",
+        "skill1Label": "WHAT IT DOES",
+        "skill1Body": "Loads and unloads env vars based on directory.",
+        "skill2Label": "BEST FOR",
+        "skill2Body": "Managing API keys across multiple codebases.",
+        "skill3Label": "SETUP TIME",
+        "skill3Body": "Hook into your shell once, then add .envrc files.",
+        "skill4Label": "GOTCHA",
+        "skill4Body": "Remember to allow each .envrc with direnv allow.",
+        "cmdLine": "direnv allow",
+        "outLine": "exporting ~12 variables",
+        "pageOf": "03 / 08",
+        "footerNote": "direnv/direnv on GitHub"
+      }
+    },
+    {
+      "layoutId": "body-pixel-block",
+      "slots": {
+        "numLabel": "TOOL 03",
+        "handle": "@codex",
+        "iconSlug1": "git",
+        "toolName": "DELTA",
+        "categoryLabel": "GIT",
+        "toolTagline": "A syntax-highlighting pager that makes your diffs beautiful and readable.",
+        "bodyText": "Replace the default git pager with delta to get <em>side-by-side views</em>, line numbers, and hyperlinks right inside your terminal.",
+        "skill1Label": "WHAT IT DOES",
+        "skill1Body": "Renders Git diffs with syntax highlighting and themes.",
+        "skill2Label": "BEST FOR",
+        "skill2Body": "Reviewing large pull requests in the terminal.",
+        "skill3Label": "SETUP TIME",
+        "skill3Body": "Set core.pager in gitconfig and install the binary.",
+        "skill4Label": "GOTCHA",
+        "skill4Body": "Configure your BAT_THEME for consistent color output.",
+        "cmdLine": "git diff HEAD~1",
+        "outLine": "14 files changed, +203 -41",
+        "pageOf": "04 / 08",
+        "footerNote": "dandavison/delta on GitHub"
+      }
+    },
+    {
+      "layoutId": "body-pixel-block",
+      "slots": {
+        "numLabel": "TOOL 04",
+        "handle": "@codex",
+        "iconSlug1": "rust",
+        "toolName": "HYPERFINE",
+        "categoryLabel": "CLI",
+        "toolTagline": "Benchmark any command with statistical analysis and warmup runs built in.",
+        "bodyText": "Compare script performance across languages or flags. <em>Handles outliers</em>, clears caches between runs, and exports clean JSON for plotting.",
+        "skill1Label": "WHAT IT DOES",
+        "skill1Body": "Measures execution time with statistical rigor and warmup.",
+        "skill2Label": "BEST FOR",
+        "skill2Body": "Comparing regex engines, compilers, or build scripts.",
+        "skill3Label": "SETUP TIME",
+        "skill3Body": "Single binary available on all major package managers.",
+        "skill4Label": "GOTCHA",
+        "skill4Body": "Close background apps to reduce noise in results.",
+        "cmdLine": "hyperfine 'fd .' 'find .'",
+        "outLine": "fastest: fd . -- 45.2 ms",
+        "pageOf": "05 / 08",
+        "footerNote": "sharkdp/hyperfine on GitHub"
+      }
+    },
+    {
+      "layoutId": "body-pixel-block",
+      "slots": {
+        "numLabel": "TOOL 05",
+        "handle": "@codex",
+        "iconSlug1": "gitea",
+        "toolName": "GITEA",
+        "categoryLabel": "GIT HOST",
+        "toolTagline": "A lightweight, self-hosted Git service that runs on a Raspberry Pi.",
+        "bodyText": "Host your own repos without the bloat of GitLab. <em>One binary</em>, minimal RAM, and full CI support via Actions or Drone.",
+        "skill1Label": "WHAT IT DOES",
+        "skill1Body": "Self-hosted GitHub alternative with issues and PRs.",
+        "skill2Label": "BEST FOR",
+        "skill2Body": "Private teams and homelab infrastructure projects.",
+        "skill3Label": "SETUP TIME",
+        "skill3Body": "Single Docker container or binary in minutes.",
+        "skill4Label": "GOTCHA",
+        "skill4Body": "Backups are your responsibility; schedule them early.",
+        "cmdLine": "docker run gitea/gitea",
+        "outLine": "listening on :3000",
+        "pageOf": "06 / 08",
+        "footerNote": "go-gitea/gitea on GitHub"
+      }
+    },
+    {
+      "layoutId": "body-pixel-block",
+      "slots": {
+        "numLabel": "TOOL 06",
+        "handle": "@codex",
+        "iconSlug1": "syncthing",
+        "toolName": "SYNCTHING",
+        "categoryLabel": "SYNC",
+        "toolTagline": "Continuous file synchronization that works across all your machines privately.",
+        "bodyText": "Drop Dropbox. Syncthing uses <em>block-level sync</em> over TLS, keeps data off third-party servers, and plays nice with dotfiles repos.",
+        "skill1Label": "WHAT IT DOES",
+        "skill1Body": "P2P folder sync with versioning and encryption.",
+        "skill2Label": "BEST FOR",
+        "skill2Body": "Dotfiles, notes, and project folders across devices.",
+        "skill3Label": "SETUP TIME",
+        "skill3Body": "Install, share device IDs, and pick folders.",
+        "skill4Label": "GOTCHA",
+        "skill4Body": "Keep devices online for real-time bidirectional syncing.",
+        "cmdLine": "syncthing --no-browser",
+        "outLine": "synced 12 folders, 0 conflicts",
+        "pageOf": "07 / 08",
+        "footerNote": "syncthing/syncthing on GitHub"
+      }
+    },
+    {
+      "layoutId": "cta-pixel-block",
+      "slots": {
+        "brandTag": "WRAP UP",
+        "handle": "@codex",
+        "eyebrow": "the hidden stack for",
+        "ctaLine1": "STAR NOW",
+        "ctaLine2": "BUILD",
+        "ctaBody": "Add these repos to your toolkit and thank yourself later. Serious devs build in silence.",
+        "btnPrimary": "GET THE LIST",
+        "btnGhost": "SHARE POST",
+        "iconSlug1": "github",
+        "iconSlug2": "git",
+        "iconSlug3": "rust",
+        "iconSlug4": "gnubash",
+        "iconSlug5": "linux",
+        "iconSlug6": "docker",
+        "pageOf": "08 / 08",
+        "footerNote": "built by @codex"
+      }
+    }
+  ]
+}

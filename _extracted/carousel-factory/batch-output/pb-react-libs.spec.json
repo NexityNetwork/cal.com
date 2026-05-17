@@ -1,0 +1,193 @@
+{
+  "id": "pb-react-libs",
+  "brand": "devstack",
+  "brief": "8 React libs that quietly replaced expensive UI kits.",
+  "theme": "pixel-block",
+  "slides": [
+    {
+      "layoutId": "cover-pixel-block",
+      "slots": {
+        "brandTag": "REACT UI",
+        "handle": "@devstack",
+        "preLine": "the only libraries that",
+        "pixelLine1": "REPLACE",
+        "pixelLine2": "UI KITS",
+        "postLine": "real engineers use to ship faster",
+        "iconSlug1": "shadcnui",
+        "iconSlug2": "radixui",
+        "iconSlug3": "tailwindcss",
+        "iconSlug4": "reacthookform",
+        "iconSlug5": "framer",
+        "statValue": "8",
+        "statLabel": "LIBS",
+        "swipeLabel": "SCROLL",
+        "pageOf": "01 / 08"
+      }
+    },
+    {
+      "layoutId": "body-pixel-block",
+      "slots": {
+        "numLabel": "TOOL 01",
+        "handle": "@devstack",
+        "iconSlug1": "shadcnui",
+        "toolName": "SHADCN",
+        "categoryLabel": "FREE",
+        "toolTagline": "Copy-paste components that look premium without the license fee.",
+        "bodyText": "Stop buying bloated kits. <em>shadcn/ui</em> gives you accessible, customizable blocks you own entirely.",
+        "skill1Label": "WHAT IT DOES",
+        "skill1Body": "Provides accessible UI primitives and themes.",
+        "skill2Label": "BEST FOR",
+        "skill2Body": "Dashboards, admin panels, and SaaS apps.",
+        "skill3Label": "SETUP TIME",
+        "skill3Body": "Minutes via CLI with automatic Tailwind config.",
+        "skill4Label": "COST",
+        "skill4Body": "Open source and forever free.",
+        "cmdLine": "npx shadcn@latest init",
+        "outLine": "initialized in 2.4s",
+        "pageOf": "02 / 08",
+        "footerNote": "zero dependencies to lock you in"
+      }
+    },
+    {
+      "layoutId": "body-pixel-block",
+      "slots": {
+        "numLabel": "TOOL 02",
+        "handle": "@devstack",
+        "iconSlug1": "radixui",
+        "toolName": "RADIX",
+        "categoryLabel": "FREE",
+        "toolTagline": "Unstyled, accessible primitives that let you build custom components from scratch.",
+        "bodyText": "Radix handles <em>accessibility</em> and keyboard navigation so you never fight a rigid theme again.",
+        "skill1Label": "WHAT IT DOES",
+        "skill1Body": "Exposes low-level headless UI primitives.",
+        "skill2Label": "BEST FOR",
+        "skill2Body": "Design systems and bespoke component libraries.",
+        "skill3Label": "SETUP TIME",
+        "skill3Body": "Seconds with npm install and compose.",
+        "skill4Label": "COST",
+        "skill4Body": "Completely free and open source.",
+        "cmdLine": "npm install @radix-ui/react-dialog",
+        "outLine": "added 3 packages",
+        "pageOf": "03 / 08",
+        "footerNote": "Accessible out of the box"
+      }
+    },
+    {
+      "layoutId": "body-pixel-block",
+      "slots": {
+        "numLabel": "TOOL 03",
+        "handle": "@devstack",
+        "iconSlug1": "tailwindcss",
+        "toolName": "TAILWIND",
+        "categoryLabel": "FREE",
+        "toolTagline": "Utility-first CSS that removes the need for pre-built themed widget sets.",
+        "bodyText": "Why buy a kit when <em>Tailwind</em> lets you style any markup in seconds without leaving your JSX.",
+        "skill1Label": "WHAT IT DOES",
+        "skill1Body": "Provides atomic utility classes for rapid UI.",
+        "skill2Label": "BEST FOR",
+        "skill2Body": "Custom designs without overwriting CSS.",
+        "skill3Label": "SETUP TIME",
+        "skill3Body": "One plugin and a config file.",
+        "skill4Label": "COST",
+        "skill4Body": "Free, with paid Tailwind UI optional.",
+        "cmdLine": "npm install -D tailwindcss",
+        "outLine": "created tailwind.config.js",
+        "pageOf": "04 / 08",
+        "footerNote": "No design system lock-in"
+      }
+    },
+    {
+      "layoutId": "body-pixel-block",
+      "slots": {
+        "numLabel": "TOOL 04",
+        "handle": "@devstack",
+        "iconSlug1": "reacthookform",
+        "toolName": "RHF",
+        "categoryLabel": "FREE",
+        "toolTagline": "High-performance forms that cut out the bloat of paid form builders.",
+        "bodyText": "<em>React Hook Form</em> minimizes re-renders and kills boilerplate, replacing expensive form plugins.",
+        "skill1Label": "WHAT IT DOES",
+        "skill1Body": "Manages form state with minimal overhead.",
+        "skill2Label": "BEST FOR",
+        "skill2Body": "Complex validation and wizard flows.",
+        "skill3Label": "SETUP TIME",
+        "skill3Body": "One hook and a resolver import.",
+        "skill4Label": "COST",
+        "skill4Body": "Zero dollars, tiny bundle size.",
+        "cmdLine": "npm install react-hook-form",
+        "outLine": "installed in 1.1s",
+        "pageOf": "05 / 08",
+        "footerNote": "No more form library fees"
+      }
+    },
+    {
+      "layoutId": "body-pixel-block",
+      "slots": {
+        "numLabel": "TOOL 05",
+        "handle": "@devstack",
+        "iconSlug1": "framer",
+        "toolName": "FRAMER",
+        "categoryLabel": "FREE",
+        "toolTagline": "Production-ready animations that make any interface feel like a native app.",
+        "bodyText": "Ditch bloated motion kits. <em>Framer Motion</em> declaratively animates components with a few props.",
+        "skill1Label": "WHAT IT DOES",
+        "skill1Body": "Animates DOM elements with simple JSX.",
+        "skill2Label": "BEST FOR",
+        "skill2Body": "Page transitions and micro-interactions.",
+        "skill3Label": "SETUP TIME",
+        "skill3Body": "Wrap components in motion tags.",
+        "skill4Label": "COST",
+        "skill4Body": "Free MIT license for most features.",
+        "cmdLine": "npm install framer-motion",
+        "outLine": "added framer-motion@11",
+        "pageOf": "06 / 08",
+        "footerNote": "Studio-grade motion free"
+      }
+    },
+    {
+      "layoutId": "body-pixel-block",
+      "slots": {
+        "numLabel": "TOOL 06",
+        "handle": "@devstack",
+        "iconSlug1": "reactquery",
+        "toolName": "QUERY",
+        "categoryLabel": "FREE",
+        "toolTagline": "Server-state management that replaces heavy data-grid and table SDKs.",
+        "bodyText": "<em>TanStack Query</em> caches, syncs, and paginates remote data without costly enterprise widgets.",
+        "skill1Label": "WHAT IT DOES",
+        "skill1Body": "Fetches, caches, and updates server state.",
+        "skill2Label": "BEST FOR",
+        "skill2Body": "Tables, lists, and real-time dashboards.",
+        "skill3Label": "SETUP TIME",
+        "skill3Body": "Wrap app in QueryClientProvider.",
+        "skill4Label": "COST",
+        "skill4Body": "Open source, no seat licenses.",
+        "cmdLine": "npm install @tanstack/react-query",
+        "outLine": "ready to fetch",
+        "pageOf": "07 / 08",
+        "footerNote": "No enterprise tax"
+      }
+    },
+    {
+      "layoutId": "cta-pixel-block",
+      "slots": {
+        "brandTag": "WRAP UP",
+        "handle": "@devstack",
+        "eyebrow": "stop overpaying for UI kits",
+        "ctaLine1": "BUILD",
+        "ctaLine2": "BETTER",
+        "ctaBody": "Ditch the subscription fatigue. Stack these open-source React libraries and ship premium interfaces today.",
+        "btnPrimary": "SAVE LIST",
+        "btnGhost": "READ BLOG",
+        "iconSlug1": "shadcnui",
+        "iconSlug2": "radixui",
+        "iconSlug3": "tailwindcss",
+        "iconSlug4": "reacthookform",
+        "iconSlug5": "framer",
+        "iconSlug6": "reactquery",
+        "pageOf": "08 / 08",
+        "footerNote": "built by developers, for developers"
+      }
+    }
+  ]
+}

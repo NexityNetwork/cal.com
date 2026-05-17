@@ -1,0 +1,180 @@
+{
+  "id": "la-vibe-code-tools",
+  "brand": "51ultron",
+  "brief": "9 free vibe-coding tools every indie dev quietly relies on in 2026.",
+  "theme": "lime-accent",
+  "slides": [
+    {
+      "layoutId": "cover-lime-accent",
+      "slots": {
+        "brandTag": "STACK PICK",
+        "handle": "factory.51ultron.com",
+        "eyebrow": "2026 PICKS",
+        "titleLine1": "9 free",
+        "titleCallout": "vibe coding",
+        "titleLine3": "tools to know",
+        "iconSlug1": "cursor",
+        "iconSlug2": "vercel",
+        "iconSlug3": "supabase",
+        "iconSlug4": "stackblitz",
+        "iconSlug5": "zed",
+        "iconSlug6": "ollama",
+        "swipeLabel": "SEE LIST",
+        "pageOf": "01 / 08"
+      }
+    },
+    {
+      "layoutId": "body-lime-accent",
+      "slots": {
+        "numLabel": "TOOL 01",
+        "handle": "factory.51ultron.com",
+        "iconSlug1": "cursor",
+        "toolTag": "free tier",
+        "toolTagline": "The AI-native editor that turns prompts into production code.",
+        "bodyText": "Cursor replaces your IDE with an <em>agentic pair programmer</em> that reads, writes, and refactors across your entire codebase. It is the daily driver for indie hackers shipping fast in 2026.",
+        "bullet1": "Agentic autocomplete across files",
+        "bullet2": "Natural language command palette",
+        "bullet3": "Deep codebase context chat",
+        "metric1Label": "PRICE",
+        "metric1Value": "Free tier",
+        "metric2Label": "USERS",
+        "metric2Value": "4M+",
+        "metric3Label": "MODEL",
+        "metric3Value": "GPT-4o",
+        "pageOf": "02 / 08",
+        "footerNote": "Start at cursor.com"
+      }
+    },
+    {
+      "layoutId": "body-lime-accent",
+      "slots": {
+        "numLabel": "TOOL 02",
+        "handle": "factory.51ultron.com",
+        "iconSlug1": "vercel",
+        "toolTag": "essential",
+        "toolTagline": "Generate UI components from a single prompt and deploy instantly.",
+        "bodyText": "Vercel’s <em>v0 platform</em> lets you vibe out React components with Tailwind, then copy or ship straight to production. It bridges design and dev in one flow.",
+        "bullet1": "Prompt to React UI generation",
+        "bullet2": "Copy paste shadcn components",
+        "bullet3": "One click deploy to edge",
+        "metric1Label": "PRICE",
+        "metric1Value": "Free",
+        "metric2Label": "USERS",
+        "metric2Value": "3M+",
+        "metric3Label": "OSS",
+        "metric3Value": "Partial",
+        "pageOf": "03 / 08",
+        "footerNote": "Try v0 today"
+      }
+    },
+    {
+      "layoutId": "body-lime-accent",
+      "slots": {
+        "numLabel": "TOOL 03",
+        "handle": "factory.51ultron.com",
+        "iconSlug1": "supabase",
+        "toolTag": "open source",
+        "toolTagline": "The open source Firebase alternative that scales with your side project.",
+        "bodyText": "Spin up a <em>Postgres database, auth, and storage</em> in under a minute without touching infrastructure. Supabase keeps vibe-coded backends fully portable.",
+        "bullet1": "Instant Postgres database setup",
+        "bullet2": "Built in user auth flow",
+        "bullet3": "Deploy edge functions globally",
+        "metric1Label": "PRICE",
+        "metric1Value": "Free tier",
+        "metric2Label": "USERS",
+        "metric2Value": "800K+",
+        "metric3Label": "LICENSE",
+        "metric3Value": "Apache 2",
+        "pageOf": "04 / 08",
+        "footerNote": "Host on supabase"
+      }
+    },
+    {
+      "layoutId": "body-lime-accent",
+      "slots": {
+        "numLabel": "TOOL 04",
+        "handle": "factory.51ultron.com",
+        "iconSlug1": "stackblitz",
+        "toolTag": "in browser",
+        "toolTagline": "Full stack prototyping inside the browser with AI assistance.",
+        "bodyText": "Bolt.new runs <em>Node.js and Next.js</em> entirely in your tab with zero install required. Prompt the AI to scaffold features and preview live in seconds.",
+        "bullet1": "Zero local environment setup",
+        "bullet2": "AI scaffolded boilerplate code",
+        "bullet3": "Instant live preview mode",
+        "metric1Label": "PRICE",
+        "metric1Value": "Free",
+        "metric2Label": "USERS",
+        "metric2Value": "2M+",
+        "metric3Label": "STACK",
+        "metric3Value": "WebContainer",
+        "pageOf": "05 / 08",
+        "footerNote": "Build at bolt.new"
+      }
+    },
+    {
+      "layoutId": "body-lime-accent",
+      "slots": {
+        "numLabel": "TOOL 05",
+        "handle": "factory.51ultron.com",
+        "iconSlug1": "zed",
+        "toolTag": "open source",
+        "toolTagline": "A lightning fast collaborative editor with native AI integration.",
+        "bodyText": "Zed is built for <em>multiplayer coding and LLM assistance</em> without plugin bloat. Its open source GPUI framework delivers 120fps performance on any OS.",
+        "bullet1": "Native inline AI panel",
+        "bullet2": "Real time team collab",
+        "bullet3": "Rust powered 120 fps speed",
+        "metric1Label": "PRICE",
+        "metric1Value": "Free",
+        "metric2Label": "USERS",
+        "metric2Value": "500K+",
+        "metric3Label": "LICENSE",
+        "metric3Value": "GPL",
+        "pageOf": "06 / 08",
+        "footerNote": "Get it at zed.dev"
+      }
+    },
+    {
+      "layoutId": "body-lime-accent",
+      "slots": {
+        "numLabel": "TOOL 06",
+        "handle": "factory.51ultron.com",
+        "iconSlug1": "ollama",
+        "toolTag": "local first",
+        "toolTagline": "Run Llama, Mistral, and Qwen locally for private vibe coding.",
+        "bodyText": "Ollama turns your laptop into a <em>local AI inference engine</em>, keeping code and prompts off the cloud. Pair it with Continue for a fully offline Copilot.",
+        "bullet1": "Fully offline LLM inference",
+        "bullet2": "Curated pullable model hub",
+        "bullet3": "OpenAI compatible local API",
+        "metric1Label": "PRICE",
+        "metric1Value": "Free",
+        "metric2Label": "USERS",
+        "metric2Value": "10M+",
+        "metric3Label": "LICENSE",
+        "metric3Value": "MIT",
+        "pageOf": "07 / 08",
+        "footerNote": "Run on ollama.com"
+      }
+    },
+    {
+      "layoutId": "cta-lime-accent",
+      "slots": {
+        "brandTag": "WRAP",
+        "handle": "factory.51ultron.com",
+        "eyebrow": "PICK YOURS",
+        "ctaLine1": "Start building",
+        "ctaCallout": "today",
+        "ctaBody": "Grab these essentials and join the indie devs shipping faster than ever in 2026.",
+        "btnPrimary": "Get the stack",
+        "btnGhost": "Share post",
+        "iconSlug1": "cursor",
+        "iconSlug2": "vercel",
+        "iconSlug3": "supabase",
+        "iconSlug4": "stackblitz",
+        "iconSlug5": "zed",
+        "iconSlug6": "ollama",
+        "pageOf": "08 / 08",
+        "footerNote": "No paywall, pure vibes"
+      }
+    }
+  ]
+}

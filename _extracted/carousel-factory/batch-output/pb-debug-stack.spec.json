@@ -1,0 +1,193 @@
+{
+  "id": "pb-debug-stack",
+  "brand": "DevStack",
+  "brief": "6 debugging tools that turn a 4-hour incident into 20 minutes.",
+  "theme": "pixel-block",
+  "slides": [
+    {
+      "layoutId": "cover-pixel-block",
+      "slots": {
+        "brandTag": "DEBUG",
+        "handle": "@devstack",
+        "preLine": "the only stack for",
+        "pixelLine1": "DEBUG",
+        "pixelLine2": "MODE",
+        "postLine": "resolve issues before coffee gets cold",
+        "iconSlug1": "sentry",
+        "iconSlug2": "datadog",
+        "iconSlug3": "googlechrome",
+        "iconSlug4": "postman",
+        "iconSlug5": "wireshark",
+        "statValue": "6",
+        "statLabel": "TOOLS",
+        "swipeLabel": "SCROLL",
+        "pageOf": "01 / 08"
+      }
+    },
+    {
+      "layoutId": "body-pixel-block",
+      "slots": {
+        "numLabel": "TOOL 01",
+        "handle": "@devstack",
+        "iconSlug1": "sentry",
+        "toolName": "SENTRY",
+        "categoryLabel": "FREE TIER",
+        "toolTagline": "Catch crashes in real time before users rage-quit.",
+        "bodyText": "Sentry surfaces stack traces with <em>exact commit context</em> so you skip the log-hunt and fix the line that broke prod.",
+        "skill1Label": "WHAT IT DOES",
+        "skill2Label": "BEST FOR",
+        "skill3Label": "SETUP TIME",
+        "skill4Label": "PRO TIP",
+        "skill1Body": "Captures exceptions and traces across your stack.",
+        "skill2Body": "Frontend crashes and API error spikes.",
+        "skill3Body": "Five-minute SDK install.",
+        "skill4Body": "Link errors to releases for instant blame.",
+        "cmdLine": "npm install @sentry/node",
+        "outLine": "sdk initialized · 0 errors",
+        "pageOf": "02 / 08",
+        "footerNote": "error tracking that actually helps"
+      }
+    },
+    {
+      "layoutId": "body-pixel-block",
+      "slots": {
+        "numLabel": "TOOL 02",
+        "handle": "@devstack",
+        "iconSlug1": "datadog",
+        "toolName": "DATADOG",
+        "categoryLabel": "PAID",
+        "toolTagline": "Full-stack observability that points to the exact failing pod.",
+        "bodyText": "Datadog correlates logs, metrics, and traces so you <em>see the blast radius</em> of a bug in one dashboard instead of ten tabs.",
+        "skill1Label": "WHAT IT DOES",
+        "skill2Label": "BEST FOR",
+        "skill3Label": "SETUP TIME",
+        "skill4Label": "PRO TIP",
+        "skill1Body": "APM, logs, and infrastructure metrics.",
+        "skill2Body": "Distributed systems and microservices.",
+        "skill3Body": "Agent deploy in minutes.",
+        "skill4Body": "Use trace search to find latency outliers.",
+        "cmdLine": "datadog-agent status",
+        "outLine": "apm enabled · 12 services",
+        "pageOf": "03 / 08",
+        "footerNote": "observability at scale"
+      }
+    },
+    {
+      "layoutId": "body-pixel-block",
+      "slots": {
+        "numLabel": "TOOL 03",
+        "handle": "@devstack",
+        "iconSlug1": "googlechrome",
+        "toolName": "DEVTOOLS",
+        "categoryLabel": "FREE",
+        "toolTagline": "The browser debugger that needs no installation.",
+        "bodyText": "DevTools lets you <em>step through minified code</em>, audit network waterfalls, and simulate throttling without leaving the tab.",
+        "skill1Label": "WHAT IT DOES",
+        "skill2Label": "BEST FOR",
+        "skill3Label": "SETUP TIME",
+        "skill4Label": "PRO TIP",
+        "skill1Body": "Debug DOM, network, and JavaScript live.",
+        "skill2Body": "UI bugs and performance bottlenecks.",
+        "skill3Body": "Zero. It ships with Chrome.",
+        "skill4Body": "Use breakpoints in source-mapped files.",
+        "cmdLine": "debugger; // in source",
+        "outLine": "paused at breakpoint",
+        "pageOf": "04 / 08",
+        "footerNote": "built into every browser"
+      }
+    },
+    {
+      "layoutId": "body-pixel-block",
+      "slots": {
+        "numLabel": "TOOL 04",
+        "handle": "@devstack",
+        "iconSlug1": "postman",
+        "toolName": "POSTMAN",
+        "categoryLabel": "FREE",
+        "toolTagline": "Debug APIs like a pro with collections and scripts.",
+        "bodyText": "Postman turns flaky endpoints into <em>reproducible requests</em> so you can isolate headers, payloads, and auth without writing curl.",
+        "skill1Label": "WHAT IT DOES",
+        "skill2Label": "BEST FOR",
+        "skill3Label": "SETUP TIME",
+        "skill4Label": "PRO TIP",
+        "skill1Body": "Test and inspect HTTP requests.",
+        "skill2Body": "Backend contract validation.",
+        "skill3Body": "Import a collection and run.",
+        "skill4Body": "Save failing requests as regression tests.",
+        "cmdLine": "postman collection run",
+        "outLine": "200 ok · 14ms response",
+        "pageOf": "05 / 08",
+        "footerNote": "api debugging essentials"
+      }
+    },
+    {
+      "layoutId": "body-pixel-block",
+      "slots": {
+        "numLabel": "TOOL 05",
+        "handle": "@devstack",
+        "iconSlug1": "wireshark",
+        "toolName": "WIRESHARK",
+        "categoryLabel": "FREE",
+        "toolTagline": "See every packet to catch the network-level culprit.",
+        "bodyText": "Wireshark captures traffic in real time so you can <em>spot dropped packets</em>, DNS timeouts, and rogue handshakes before they cascade.",
+        "skill1Label": "WHAT IT DOES",
+        "skill2Label": "BEST FOR",
+        "skill3Label": "SETUP TIME",
+        "skill4Label": "PRO TIP",
+        "skill1Body": "Deep packet inspection and capture.",
+        "skill2Body": "Network latency and protocol errors.",
+        "skill3Body": "Install and select an interface.",
+        "skill4Body": "Filter by tcp.port to reduce noise.",
+        "cmdLine": "tshark -i eth0 -f tcp",
+        "outLine": "capturing on eth0 · 0 loss",
+        "pageOf": "06 / 08",
+        "footerNote": "packet-level precision"
+      }
+    },
+    {
+      "layoutId": "body-pixel-block",
+      "slots": {
+        "numLabel": "TOOL 06",
+        "handle": "@devstack",
+        "iconSlug1": "git",
+        "toolName": "BISECT",
+        "categoryLabel": "FREE",
+        "toolTagline": "Hunt the exact commit that introduced the bug.",
+        "bodyText": "Git bisect performs a binary search through history so you <em>find the offending commit</em> in O(log n) instead of checking every PR.",
+        "skill1Label": "WHAT IT DOES",
+        "skill2Label": "BEST FOR",
+        "skill3Label": "SETUP TIME",
+        "skill4Label": "PRO TIP",
+        "skill1Body": "Binary search through git history.",
+        "skill2Body": "Regressions after messy merges.",
+        "skill3Body": "Two commands and a test script.",
+        "skill4Body": "Automate with git bisect run.",
+        "cmdLine": "git bisect start HEAD v1.2",
+        "outLine": "Bisecting: 4 revisions",
+        "pageOf": "07 / 08",
+        "footerNote": "version control detective"
+      }
+    },
+    {
+      "layoutId": "cta-pixel-block",
+      "slots": {
+        "brandTag": "WRAP UP",
+        "handle": "@devstack",
+        "eyebrow": "stop guessing and start shipping",
+        "ctaLine1": "SAVE",
+        "ctaLine2": "HOURS",
+        "ctaBody": "Add these six tools to your workflow and turn all-night incidents into quick fixes before your team even notices.",
+        "btnPrimary": "FOLLOW ME",
+        "btnGhost": "SHARE POST",
+        "iconSlug1": "sentry",
+        "iconSlug2": "datadog",
+        "iconSlug3": "googlechrome",
+        "iconSlug4": "postman",
+        "iconSlug5": "wireshark",
+        "iconSlug6": "git",
+        "pageOf": "08 / 08",
+        "footerNote": "built for busy engineers"
+      }
+    }
+  ]
+}

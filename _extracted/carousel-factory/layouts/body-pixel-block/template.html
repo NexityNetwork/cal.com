@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Fraunces:ital,wght@1,400;1,600&family=Press+Start+2P&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1080px;height:1350px;overflow:hidden;background:#0a0a0a;font-family:"Inter",sans-serif;color:#fafafa;-webkit-font-smoothing:antialiased}
+.dotgrid{position:absolute;inset:0;background-image:radial-gradient(rgba(255,255,255,0.04) 1px,transparent 1px);background-size:24px 24px}
+.outline{position:absolute;inset:24px;border:1px solid rgba(255,255,255,0.06);border-radius:28px;pointer-events:none;z-index:10}
+.top-row{position:absolute;top:64px;left:80px;right:80px;display:flex;justify-content:space-between;align-items:center}
+.num{display:inline-flex;align-items:center;gap:10px;padding:10px 18px;background:#ff7a3c;color:#0a0a0a;border-radius:50px;font-family:"Press Start 2P",monospace;font-size:14px;font-weight:400;letter-spacing:0.06em}
+.handle-text{font-family:"Inter",sans-serif;font-size:16px;color:#71717a;font-weight:500}
+.hero{position:absolute;top:170px;left:80px;right:80px;display:flex;align-items:center;gap:24px}
+.hero .ic{width:120px;height:120px;border-radius:22px;background:#fafafa;display:flex;align-items:center;justify-content:center;padding:18px;flex-shrink:0;box-shadow:0 8px 32px rgba(0,0,0,0.4)}
+.hero .ic svg{width:100%;height:100%}
+.hero .info .lbl{font-family:"JetBrains Mono",monospace;font-size:16px;color:#ff7a3c;letter-spacing:0.06em;text-transform:uppercase;margin-bottom:8px}
+.hero .info .name{font-family:"Press Start 2P",monospace;font-size:40px;color:#fafafa;line-height:1;letter-spacing:1px;margin-bottom:12px}
+.hero .info .tagline{font-family:"Fraunces",serif;font-style:italic;font-size:24px;color:#a3a3a3;line-height:1.4}
+.body-text{position:absolute;top:380px;left:80px;right:80px;font-size:22px;font-weight:400;line-height:1.5;color:#cdd5df;max-width:920px}
+.body-text em{color:#ff7a3c;font-style:normal;font-weight:700}
+.skill-grid{position:absolute;top:560px;left:80px;right:80px;display:grid;grid-template-columns:1fr 1fr;gap:14px}
+.skill{padding:22px 24px;background:rgba(255,255,255,0.04);border:1px solid rgba(255,255,255,0.06);border-radius:14px}
+.skill .stitle{font-family:"Press Start 2P",monospace;font-size:13px;color:#ff7a3c;letter-spacing:0.06em;margin-bottom:10px}
+.skill .sbody{font-size:18px;font-weight:500;color:#fafafa;line-height:1.35}
+.terminal{position:absolute;bottom:200px;left:80px;right:80px;background:#000;border:1px solid rgba(255,255,255,0.1);border-radius:14px;padding:22px 28px;font-family:"JetBrains Mono",monospace;font-size:18px;color:#cdd5df;line-height:1.6}
+.terminal .prompt{color:#5cb95a;font-weight:700}
+.terminal .cmd{color:#fafafa}
+.terminal .ok{color:#ff7a3c;font-weight:700}
+.bottom-row{position:absolute;bottom:64px;left:80px;right:80px;display:flex;justify-content:space-between;align-items:center}
+.bottom-row .pg{font-size:14px;color:#71717a;letter-spacing:0.06em;font-family:"JetBrains Mono",monospace}
+.bottom-row .note{font-size:14px;color:#71717a;font-family:"JetBrains Mono",monospace}
+</style></head>
+<body>
+<div class="dotgrid"></div>
+<div class="outline"></div>
+<div class="top-row"><div class="num">{{numLabel}}</div><div class="handle-text">{{handle}}</div></div>
+<div class="hero">
+  <div class="ic">{{iconSvg1}}</div>
+  <div class="info">
+    <div class="lbl">{{categoryLabel}}</div>
+    <div class="name">{{toolName}}</div>
+    <div class="tagline">{{toolTagline}}</div>
+  </div>
+</div>
+<div class="body-text">{{bodyText}}</div>
+<div class="skill-grid">
+  <div class="skill"><div class="stitle">{{skill1Label}}</div><div class="sbody">{{skill1Body}}</div></div>
+  <div class="skill"><div class="stitle">{{skill2Label}}</div><div class="sbody">{{skill2Body}}</div></div>
+  <div class="skill"><div class="stitle">{{skill3Label}}</div><div class="sbody">{{skill3Body}}</div></div>
+  <div class="skill"><div class="stitle">{{skill4Label}}</div><div class="sbody">{{skill4Body}}</div></div>
+</div>
+<div class="terminal">
+  <span class="prompt">$</span> <span class="cmd">{{cmdLine}}</span><br>
+  <span class="ok">→</span> <span class="cmd">{{outLine}}</span>
+</div>
+<div class="bottom-row"><div class="pg">{{pageOf}}</div><div class="note">{{footerNote}}</div></div>
+</body></html>

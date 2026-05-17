@@ -1,0 +1,193 @@
+{
+  "id": "pb-cli-tools",
+  "brand": "devstack",
+  "brief": "7 CLI tools real engineers run every single day.",
+  "theme": "pixel-block",
+  "slides": [
+    {
+      "layoutId": "cover-pixel-block",
+      "slots": {
+        "brandTag": "TOOLS",
+        "handle": "@devstack",
+        "preLine": "the only cli stack for",
+        "pixelLine1": "VIBE CODE",
+        "pixelLine2": "TOOLS",
+        "postLine": "real engineers run every day",
+        "iconSlug1": "git",
+        "iconSlug2": "github",
+        "iconSlug3": "linux",
+        "iconSlug4": "rust",
+        "iconSlug5": "terminal",
+        "statValue": "7",
+        "statLabel": "TOOLS",
+        "swipeLabel": "SCROLL",
+        "pageOf": "01 / 08"
+      }
+    },
+    {
+      "layoutId": "body-pixel-block",
+      "slots": {
+        "numLabel": "TOOL 01",
+        "handle": "@devstack",
+        "iconSlug1": "terminal",
+        "toolName": "FZF",
+        "categoryLabel": "FREE",
+        "toolTagline": "fuzzy finder that filters files and history in real time.",
+        "bodyText": "Stop typing paths. <em>fzf</em> gives you interactive search across shells, git history, and processes with blazing speed.",
+        "skill1Label": "WHAT IT DOES",
+        "skill1Body": "Interactive fuzzy filtering of lists, files, and command history.",
+        "skill2Label": "BEST FOR",
+        "skill2Body": "Jumping to files and recalling long shell commands instantly.",
+        "skill3Label": "INSTALL",
+        "skill3Body": "Available on brew, apt, and most package managers.",
+        "skill4Label": "PRO TIP",
+        "skill4Body": "Bind it to Ctrl+R to replace default history search.",
+        "cmdLine": "fzf --preview 'bat --color=always {}'",
+        "outLine": "▸ src/main.rs",
+        "pageOf": "02 / 08",
+        "footerNote": "type less, find faster"
+      }
+    },
+    {
+      "layoutId": "body-pixel-block",
+      "slots": {
+        "numLabel": "TOOL 02",
+        "handle": "@devstack",
+        "iconSlug1": "rust",
+        "toolName": "RG",
+        "categoryLabel": "FREE",
+        "toolTagline": "grep rewritten in Rust for recursive code search at ludicrous speed.",
+        "bodyText": "Ripgrep respects gitignore and skips hidden files by default. <em>rg</em> is the fastest way to search millions of lines.",
+        "skill1Label": "WHAT IT DOES",
+        "skill1Body": "Recursively searches code while respecting project ignore rules.",
+        "skill2Label": "BEST FOR",
+        "skill2Body": "Finding strings across large repos without waiting.",
+        "skill3Label": "INSTALL",
+        "skill3Body": "Single binary download or cargo install ripgrep.",
+        "skill4Label": "PRO TIP",
+        "skill4Body": "Use -C 2 to show two lines of context around matches.",
+        "cmdLine": "rg 'TODO' --type rust",
+        "outLine": "src/lib.rs:42: // TODO: refactor",
+        "pageOf": "03 / 08",
+        "footerNote": "grep is dead, long live rg"
+      }
+    },
+    {
+      "layoutId": "body-pixel-block",
+      "slots": {
+        "numLabel": "TOOL 03",
+        "handle": "@devstack",
+        "iconSlug1": "github",
+        "toolName": "BAT",
+        "categoryLabel": "FREE",
+        "toolTagline": "A cat clone with syntax highlighting, git integration, and automatic paging.",
+        "bodyText": "Replace cat with <em>bat</em> and never read plain code again. It prints line numbers and diffs side by side.",
+        "skill1Label": "WHAT IT DOES",
+        "skill1Body": "Syntax highlights any file with line numbers and git changes.",
+        "skill2Label": "BEST FOR",
+        "skill2Body": "Quickly reading config files and source code in terminal.",
+        "skill3Label": "INSTALL",
+        "skill3Body": "brew install bat or cargo build from source.",
+        "skill4Label": "PRO TIP",
+        "skill4Body": "Alias cat to bat and use --plain for pipe compatibility.",
+        "cmdLine": "bat src/main.rs",
+        "outLine": "  42 │ fn main() {",
+        "pageOf": "04 / 08",
+        "footerNote": "cat got wings"
+      }
+    },
+    {
+      "layoutId": "body-pixel-block",
+      "slots": {
+        "numLabel": "TOOL 04",
+        "handle": "@devstack",
+        "iconSlug1": "linux",
+        "toolName": "EZA",
+        "categoryLabel": "FREE",
+        "toolTagline": "A modern replacement for ls with git awareness and colorful output.",
+        "bodyText": "<em>eza</em> shows icons, file sizes, and git status in a single glance. It turns boring directory listings into readable dashboards.",
+        "skill1Label": "WHAT IT DOES",
+        "skill1Body": "Lists files with icons, tree view, and git metadata.",
+        "skill2Label": "BEST FOR",
+        "skill2Body": "Navigating project trees and spotting modified files fast.",
+        "skill3Label": "INSTALL",
+        "skill3Body": "cargo install eza or grab the latest release binary.",
+        "skill4Label": "PRO TIP",
+        "skill4Body": "Use -l --git --icons for the ultimate directory overview.",
+        "cmdLine": "eza -la --git",
+        "outLine": "drwxr-xr-x  - user  today 12:00  src",
+        "pageOf": "05 / 08",
+        "footerNote": "ls is legacy"
+      }
+    },
+    {
+      "layoutId": "body-pixel-block",
+      "slots": {
+        "numLabel": "TOOL 05",
+        "handle": "@devstack",
+        "iconSlug1": "gnu",
+        "toolName": "ZOXIDE",
+        "categoryLabel": "FREE",
+        "toolTagline": "A smarter cd command that learns your habits and jumps anywhere.",
+        "bodyText": "Forget typing full paths. <em>zoxide</em> ranks directories by frequency so z foo lands exactly where you mean.",
+        "skill1Label": "WHAT IT DOES",
+        "skill1Body": "Remembers visited directories and jumps to the best match.",
+        "skill2Label": "BEST FOR",
+        "skill2Body": "Hopping between deep project folders without typing paths.",
+        "skill3Label": "INSTALL",
+        "skill3Body": "curl install script or package manager one-liner.",
+        "skill4Label": "PRO TIP",
+        "skill4Body": "Init with your shell and alias cd to z.",
+        "cmdLine": "z myproject",
+        "outLine": "~/code/work/client/myproject",
+        "pageOf": "06 / 08",
+        "footerNote": "cd is too slow"
+      }
+    },
+    {
+      "layoutId": "body-pixel-block",
+      "slots": {
+        "numLabel": "TOOL 06",
+        "handle": "@devstack",
+        "iconSlug1": "apple",
+        "toolName": "STARSHIP",
+        "categoryLabel": "FREE",
+        "toolTagline": "A minimal, blazing-fast prompt written in Rust for any shell.",
+        "bodyText": "<em>Starship</em> shows git branch, lang versions, and exit codes instantly. It starts in milliseconds and works everywhere.",
+        "skill1Label": "WHAT IT DOES",
+        "skill1Body": "Renders a rich shell prompt with context-aware info.",
+        "skill2Label": "BEST FOR",
+        "skill2Body": "Keeping track of git status and toolchain versions visually.",
+        "skill3Label": "INSTALL",
+        "skill3Body": "One shell script or brew install starship.",
+        "skill4Label": "PRO TIP",
+        "skill4Body": "Add battery and kubernetes modules for full devops visibility.",
+        "cmdLine": "eval \"$(starship init bash)\"",
+        "outLine": "main via 🦀 v1.75 > ",
+        "pageOf": "07 / 08",
+        "footerNote": "your prompt just leveled up"
+      }
+    },
+    {
+      "layoutId": "cta-pixel-block",
+      "slots": {
+        "brandTag": "WRAP UP",
+        "handle": "@devstack",
+        "eyebrow": "level up your terminal today",
+        "ctaLine1": "RUN THESE",
+        "ctaLine2": "DAILY",
+        "ctaBody": "Install the modern CLI stack and spend less time typing paths. Your terminal deserves an upgrade.",
+        "btnPrimary": "INSTALL NOW",
+        "btnGhost": "READ BLOG",
+        "iconSlug1": "git",
+        "iconSlug2": "github",
+        "iconSlug3": "linux",
+        "iconSlug4": "rust",
+        "iconSlug5": "terminal",
+        "iconSlug6": "vim",
+        "pageOf": "08 / 08",
+        "footerNote": "stay sharp, stay terminal"
+      }
+    }
+  ]
+}
