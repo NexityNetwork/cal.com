@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Fraunces:ital,wght@1,400;1,600&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1080px;height:1350px;overflow:hidden;background:#ff5722;font-family:"Inter",sans-serif;color:#0a0a0a;-webkit-font-smoothing:antialiased}
+.grain{position:absolute;inset:0;background-image:radial-gradient(rgba(0,0,0,0.06) 1px,transparent 1px);background-size:3px 3px;opacity:0.4;pointer-events:none}
+.center{position:absolute;top:50%;left:80px;right:80px;transform:translateY(-50%);text-align:center}
+.headline{font-size:188px;font-weight:900;line-height:0.88;letter-spacing:-5px;color:#0a0a0a;margin-bottom:40px;text-transform:none}
+.headline .accent{color:#fff8f0}
+.sub{font-family:"Fraunces",serif;font-style:italic;font-weight:400;font-size:48px;line-height:1.2;color:#0a0a0a;max-width:780px;margin:0 auto}
+.tag-strip{position:absolute;top:80px;left:80px;right:80px;display:flex;justify-content:space-between;align-items:center}
+.tag-pill{display:inline-block;padding:14px 26px;background:#0a0a0a;color:#ff5722;border-radius:50px;font-size:22px;font-weight:700;letter-spacing:0.06em;text-transform:uppercase}
+.swipe-tag{font-size:22px;font-weight:600;color:#0a0a0a;letter-spacing:0.04em}
+.bottom-row{position:absolute;bottom:80px;left:80px;right:80px;display:flex;justify-content:space-between;align-items:center;color:#0a0a0a}
+.pageOf{font-size:22px;font-weight:600;letter-spacing:0.04em}
+.indicator{display:inline-flex;align-items:center;gap:10px;font-size:22px;font-weight:600}
+.indicator-arrow{display:inline-block;width:54px;height:54px;background:#0a0a0a;color:#ff5722;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:22px}
+</style></head>
+<body>
+<div class="grain"></div>
+<div class="tag-strip"><div class="tag-pill">{{tag}}</div><div class="swipe-tag">{{swipeNote}}</div></div>
+<div class="center">
+  <div class="headline">{{shoutLine1}}<br><span class="accent">{{shoutLine2}}</span></div>
+  <div class="sub">{{subQuestion}}</div>
+</div>
+<div class="bottom-row"><div class="pageOf">{{pageOf}}</div><div class="indicator"><span>read on</span><div class="indicator-arrow">→</div></div></div>
+</body></html>
