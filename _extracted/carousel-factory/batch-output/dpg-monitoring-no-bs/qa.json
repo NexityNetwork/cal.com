@@ -2,8 +2,8 @@
   "slides": [
     {
       "index": 0,
-      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/dpg-self-hosted-analytics/slide-01.png",
-      "bytes": 126102,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/dpg-monitoring-no-bs/slide-01.png",
+      "bytes": 118551,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -18,8 +18,8 @@
     },
     {
       "index": 1,
-      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/dpg-self-hosted-analytics/slide-02.png",
-      "bytes": 128968,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/dpg-monitoring-no-bs/slide-02.png",
+      "bytes": 119687,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -34,8 +34,8 @@
     },
     {
       "index": 2,
-      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/dpg-self-hosted-analytics/slide-03.png",
-      "bytes": 122969,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/dpg-monitoring-no-bs/slide-03.png",
+      "bytes": 126030,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -50,8 +50,8 @@
     },
     {
       "index": 3,
-      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/dpg-self-hosted-analytics/slide-04.png",
-      "bytes": 118490,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/dpg-monitoring-no-bs/slide-04.png",
+      "bytes": 116153,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -66,8 +66,8 @@
     },
     {
       "index": 4,
-      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/dpg-self-hosted-analytics/slide-05.png",
-      "bytes": 126544,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/dpg-monitoring-no-bs/slide-05.png",
+      "bytes": 118004,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -82,8 +82,8 @@
     },
     {
       "index": 5,
-      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/dpg-self-hosted-analytics/slide-06.png",
-      "bytes": 108738,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/dpg-monitoring-no-bs/slide-06.png",
+      "bytes": 128670,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -98,8 +98,8 @@
     },
     {
       "index": 6,
-      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/dpg-self-hosted-analytics/slide-07.png",
-      "bytes": 117336,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/dpg-monitoring-no-bs/slide-07.png",
+      "bytes": 122294,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -114,8 +114,8 @@
     },
     {
       "index": 7,
-      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/dpg-self-hosted-analytics/slide-08.png",
-      "bytes": 168731,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/dpg-monitoring-no-bs/slide-08.png",
+      "bytes": 174621,
       "qa": {
         "verdict": "pass",
         "checks": {

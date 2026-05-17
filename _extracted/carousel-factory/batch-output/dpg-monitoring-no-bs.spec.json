@@ -1,0 +1,101 @@
+{
+  "id": "dpg-monitoring-no-bs",
+  "brand": "SRE Stack",
+  "brief": "Monitoring without the bullshit — 6 tools real SREs swear by.",
+  "theme": "dark-pill-glow",
+  "slides": [
+    {
+      "layoutId": "cover-dark-pill-glow",
+      "slots": {
+        "tag": "STACK",
+        "pillLeft": "SRE",
+        "pillRight": "monitoring",
+        "subline": "Production monitoring built for serious SRE teams",
+        "pageOf": "01 / 08"
+      }
+    },
+    {
+      "layoutId": "body-dark-pill-glow",
+      "slots": {
+        "toolName": "Prometheus",
+        "heroTitle": "Metrics that actually mean something",
+        "heroBody": "Scrape and store time-series data locally with a powerful query language and zero licensing fees.",
+        "slideTitle": "Time-series metrics done right",
+        "slideSubtitle": "Cut through dashboard noise with PromQL and alerts that trigger on real thresholds.",
+        "domainText": "prometheus.io",
+        "pageOf": "02 / 08"
+      }
+    },
+    {
+      "layoutId": "body-dark-pill-glow",
+      "slots": {
+        "toolName": "Grafana",
+        "heroTitle": "Dashboards your team will actually use",
+        "heroBody": "Unify Prometheus, Loki and cloud logs into one visual layer for faster incident response.",
+        "slideTitle": "Visualize everything in one place",
+        "slideSubtitle": "Stop tab-switching during outages with customizable panels that show the signal, not noise.",
+        "domainText": "grafana.com",
+        "pageOf": "03 / 08"
+      }
+    },
+    {
+      "layoutId": "body-dark-pill-glow",
+      "slots": {
+        "toolName": "PagerDuty",
+        "heroTitle": "Wake the right engineer fast",
+        "heroBody": "Route alerts based on service ownership and severity so only the expert gets paged.",
+        "slideTitle": "On-call that respects your sleep",
+        "slideSubtitle": "Escalation policies and event intelligence reduce false positives and prevent alert fatigue daily.",
+        "domainText": "pagerduty.com",
+        "pageOf": "04 / 08"
+      }
+    },
+    {
+      "layoutId": "body-dark-pill-glow",
+      "slots": {
+        "toolName": "Datadog",
+        "heroTitle": "Full-stack visibility in minutes",
+        "heroBody": "Correlate infrastructure metrics, traces and logs without wiring together a dozen separate agents.",
+        "slideTitle": "One platform for every layer",
+        "slideSubtitle": "Out-of-the-box integrations mean less configuration time and more shipping reliable features fast.",
+        "domainText": "datadoghq.com",
+        "pageOf": "05 / 08"
+      }
+    },
+    {
+      "layoutId": "body-dark-pill-glow",
+      "slots": {
+        "toolName": "Honeycomb",
+        "heroTitle": "Ask anything about production events",
+        "heroBody": "High-cardinality queries let you explore unknown unknowns instead of relying on predefined dashboards.",
+        "slideTitle": "Explore unknowns without blind spots",
+        "slideSubtitle": "Slice real-time event data by user ID or build version to find hidden bottlenecks instantly.",
+        "domainText": "honeycomb.io",
+        "pageOf": "06 / 08"
+      }
+    },
+    {
+      "layoutId": "body-dark-pill-glow",
+      "slots": {
+        "toolName": "Splunk",
+        "heroTitle": "Search logs at massive scale",
+        "heroBody": "Index and analyze terabytes of operational data to pinpoint root cause during active incidents.",
+        "slideTitle": "Find needles in log haystacks",
+        "slideSubtitle": "Powerful SPL queries transform raw text into security and operational insights within seconds.",
+        "domainText": "splunk.com",
+        "pageOf": "07 / 08"
+      }
+    },
+    {
+      "layoutId": "cta-dark-pill-glow",
+      "slots": {
+        "tag": "WRAP",
+        "eyebrow": "the rest is up to you",
+        "headlineMain": "Go monitor",
+        "headlineGlow": "something",
+        "sublineItalic": "Pick one tool, implement it properly, and stop flying blind through your next incident.",
+        "pageOf": "08 / 08"
+      }
+    }
+  ]
+}

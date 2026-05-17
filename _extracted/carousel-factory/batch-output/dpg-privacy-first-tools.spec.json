@@ -1,0 +1,101 @@
+{
+  "id": "dpg-privacy-first-tools",
+  "brand": "PrivacyStack",
+  "brief": "5 privacy-first product tools that don't sell your usage data.",
+  "theme": "dark-pill-glow",
+  "slides": [
+    {
+      "layoutId": "cover-dark-pill-glow",
+      "slots": {
+        "tag": "TOOLS",
+        "pillLeft": "Privacy",
+        "pillRight": "first tools",
+        "subline": "Secure products for teams that value data sovereignty",
+        "pageOf": "01 / 08"
+      }
+    },
+    {
+      "layoutId": "body-dark-pill-glow",
+      "slots": {
+        "toolName": "Plausible",
+        "heroTitle": "Lightweight analytics without cookies",
+        "heroBody": "Get actionable insights from your website traffic without collecting personal data or using cookies.",
+        "slideTitle": "Analytics that respect visitors",
+        "slideSubtitle": "GDPR-compliant out of the box, no cookie banner required, and fully open source.",
+        "domainText": "plausible.io",
+        "pageOf": "02 / 08"
+      }
+    },
+    {
+      "layoutId": "body-dark-pill-glow",
+      "slots": {
+        "toolName": "Bitwarden",
+        "heroTitle": "Open-source password security for teams",
+        "heroBody": "Store, share, and autofill credentials across every device with end-to-end encryption.",
+        "slideTitle": "Secrets that stay fully encrypted",
+        "slideSubtitle": "Zero-knowledge architecture means even Bitwarden cannot read your vault contents.",
+        "domainText": "bitwarden.com",
+        "pageOf": "03 / 08"
+      }
+    },
+    {
+      "layoutId": "body-dark-pill-glow",
+      "slots": {
+        "toolName": "SimpleLogin",
+        "heroTitle": "Shield your inbox with aliases",
+        "heroBody": "Create unlimited email aliases to hide your real address and stop spam in its tracks.",
+        "slideTitle": "Email privacy made simple",
+        "slideSubtitle": "Reply anonymously through aliases and protect your identity across every signup.",
+        "domainText": "simplelogin.io",
+        "pageOf": "04 / 08"
+      }
+    },
+    {
+      "layoutId": "body-dark-pill-glow",
+      "slots": {
+        "toolName": "Standard Notes",
+        "heroTitle": "Encrypted notes for life",
+        "heroBody": "Capture ideas, tasks, and documents in a private workspace that syncs everywhere securely.",
+        "slideTitle": "Thoughts belong to you",
+        "slideSubtitle": "AES-256 encryption keeps your notes readable only by you, not the server or staff.",
+        "domainText": "standardnotes.com",
+        "pageOf": "05 / 08"
+      }
+    },
+    {
+      "layoutId": "body-dark-pill-glow",
+      "slots": {
+        "toolName": "Proton Mail",
+        "heroTitle": "Encrypted email by default",
+        "heroBody": "Send and receive messages protected by PGP encryption with servers based in Switzerland.",
+        "slideTitle": "An inbox free from surveillance",
+        "slideSubtitle": "No ads, no tracking, and no scanning your emails to build a profile.",
+        "domainText": "proton.me",
+        "pageOf": "06 / 08"
+      }
+    },
+    {
+      "layoutId": "body-dark-pill-glow",
+      "slots": {
+        "toolName": "Signal",
+        "heroTitle": "Messaging with true privacy",
+        "heroBody": "Send texts, calls, and files with end-to-end encryption trusted by journalists worldwide.",
+        "slideTitle": "Private conversations without eavesdroppers",
+        "slideSubtitle": "Open-source protocols and nonprofit funding mean your chats are never mined for ads.",
+        "domainText": "signal.org",
+        "pageOf": "07 / 08"
+      }
+    },
+    {
+      "layoutId": "cta-dark-pill-glow",
+      "slots": {
+        "tag": "WRAP",
+        "eyebrow": "the rest is up to you",
+        "headlineMain": "Start private",
+        "headlineGlow": "today",
+        "sublineItalic": "Switch to tools that treat your data like it belongs to you, not their bottom line.",
+        "pageOf": "08 / 08"
+      }
+    }
+  ]
+}
