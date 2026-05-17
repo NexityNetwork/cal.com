@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Fraunces:ital,wght@1,400;1,700&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1080px;height:1350px;overflow:hidden;background:#0a0a0a;font-family:"Inter",sans-serif;color:#fafafa;-webkit-font-smoothing:antialiased}
+.grid{position:absolute;inset:0;background-image:linear-gradient(rgba(255,255,255,0.03) 1px,transparent 1px),linear-gradient(90deg,rgba(255,255,255,0.03) 1px,transparent 1px);background-size:60px 60px}
+.glow{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);width:780px;height:780px;border-radius:50%;background:radial-gradient(circle,{{accentColor}}28 0%,transparent 60%);pointer-events:none}
+.outline{position:absolute;inset:24px;border:1px solid rgba(255,255,255,0.06);border-radius:28px;pointer-events:none;z-index:10}
+.top-row{position:absolute;top:60px;left:60px;right:60px;display:flex;justify-content:space-between;align-items:center}
+.brand{display:inline-flex;align-items:center;gap:10px;padding:10px 18px;background:{{accentColor}};color:#0a0a0a;border-radius:50px;font-size:16px;font-weight:800;letter-spacing:0.08em;text-transform:uppercase}
+.handle{font-size:16px;color:#71717a;font-weight:500}
+.center{position:absolute;top:50%;left:60px;right:60px;transform:translateY(-50%);text-align:center}
+.eyebrow{font-family:"Fraunces",serif;font-style:italic;font-size:38px;color:#9ca3af;margin-bottom:30px}
+.headline{font-size:140px;font-weight:900;line-height:0.9;letter-spacing:-4px;color:#fafafa;margin-bottom:36px}
+.highlight{display:inline-block;background:{{accentColor}};color:#0a0a0a;padding:4px 22px;border-radius:18px;letter-spacing:-3px;transform:rotate(-1deg);box-shadow:0 10px 40px {{accentColor}}50}
+.sub{font-size:28px;font-weight:500;color:#cdd5df;line-height:1.5;max-width:780px;margin:0 auto 40px}
+.btn-row{display:flex;justify-content:center;gap:18px;margin-bottom:36px}
+.btn-primary{padding:24px 50px;background:{{accentColor}};color:#0a0a0a;border-radius:14px;font-size:22px;font-weight:900;letter-spacing:-0.3px}
+.btn-ghost{padding:24px 36px;background:transparent;border:1.5px solid rgba(255,255,255,0.2);color:#fafafa;border-radius:14px;font-size:20px;font-weight:600}
+.stack-pill{display:inline-flex;align-items:center;gap:14px;padding:14px 24px;background:rgba(255,255,255,0.04);border:1px solid rgba(255,255,255,0.1);border-radius:50px}
+.stack-pill .lbl{font-family:"Fraunces",serif;font-style:italic;font-size:16px;color:#9ca3af}
+.stack-pill .chips{display:flex;align-items:center;gap:8px}
+.stack-pill .chip{width:38px;height:38px;border-radius:10px;background:rgba(255,255,255,0.95);display:flex;align-items:center;justify-content:center;padding:6px}
+.stack-pill .chip svg{width:100%;height:100%}
+.bottom-row{position:absolute;bottom:60px;left:60px;right:60px;display:flex;justify-content:space-between;align-items:center}
+.bottom-row .pg{padding:10px 18px;background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.1);border-radius:50px;font-family:"JetBrains Mono",monospace;font-size:18px;font-weight:600;color:#cdd5df;letter-spacing:0.08em}
+.bottom-row .note{font-family:"Fraunces",serif;font-style:italic;font-size:18px;color:#9ca3af}
+</style></head>
+<body>
+<div class="grid"></div>
+<div class="glow"></div>
+<div class="outline"></div>
+<div class="top-row"><div class="brand">{{brandTag}}</div><div class="handle">{{handle}}</div></div>
+<div class="center">
+  <div class="eyebrow">{{eyebrow}}</div>
+  <div class="headline">{{ctaLine1}} <span class="highlight">{{ctaHighlight}}</span></div>
+  <div class="sub">{{ctaBody}}</div>
+  <div class="btn-row"><div class="btn-primary">{{btnPrimary}}</div><div class="btn-ghost">{{btnGhost}}</div></div>
+  <div class="stack-pill">
+    <div class="lbl">{{stackLabel}}</div>
+    <div class="chips"><div class="chip">{{iconSvg1}}</div><div class="chip">{{iconSvg2}}</div><div class="chip">{{iconSvg3}}</div><div class="chip">{{iconSvg4}}</div><div class="chip">{{iconSvg5}}</div><div class="chip">{{iconSvg6}}</div></div>
+  </div>
+</div>
+<div class="bottom-row"><div class="pg">{{pageOf}}</div><div class="note">{{signoff}}</div></div>
+</body></html>
