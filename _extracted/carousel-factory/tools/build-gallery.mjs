@@ -10,10 +10,15 @@ import { join, resolve } from "node:path";
 const FACTORY = resolve(import.meta.dirname, "..");
 const OUT = resolve(FACTORY, "batch-output");
 
-const dirs = (await readdir(OUT, { withFileTypes: true }))
-  .filter((d) => d.isDirectory())
-  .map((d) => d.name)
-  .sort();
+const dirEntries = (await readdir(OUT, { withFileTypes: true })).filter((d) => d.isDirectory());
+const withMtimes = await Promise.all(
+  dirEntries.map(async (d) => {
+    const st = await stat(join(OUT, d.name));
+    return { name: d.name, mtimeMs: st.mtimeMs };
+  })
+);
+// Newest first
+const dirs = withMtimes.sort((a, b) => b.mtimeMs - a.mtimeMs).map((d) => d.name);
 
 const cards = [];
 for (const id of dirs) {
