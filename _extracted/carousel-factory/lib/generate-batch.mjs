@@ -78,6 +78,8 @@ const FAMILY_LAYOUTS = {
   "tech-stack-grid":  { cover: "cover-tech-stack-grid", body: "body-tech-stack-grid", cta: "cta-tech-stack-grid" },
   "lime-accent":      { cover: "cover-lime-accent",     body: "body-lime-accent",     cta: "cta-lime-accent" },
   "pixel-block":      { cover: "cover-pixel-block",     body: "body-pixel-block",     cta: "cta-pixel-block" },
+  "cream-table":      { cover: "cover-cream-table",     body: "body-cream-table",     cta: "cta-cream-table" },
+  "photo-tag":        { cover: "cover-photo-tag",       body: "body-photo-tag",       cta: "cta-photo-tag" },
 };
 
 // CTA slot conventions, shared by all families:
@@ -314,6 +316,18 @@ Uses iconSlug<N> brand-icon system.
 COVER cover-pixel-block: brandTag (1-2 uppercase words like "REPOS" / "SKILLS"), handle, preLine (3-6 italic-serif intro words like "the only repos for"), pixelLine1 (1-2 SHORT Press-Start-2P pixel-letter words like "VIBE CODE" — UPPERCASE, ≤10 chars total), pixelLine2 (1-2 SHORT pixel-letter words like "TOOLS" — UPPERCASE, ≤10 chars total — note these will render BIG and chunky, keep words short to avoid overflow), postLine (4-8 italic-serif words like "real devs use every day"), iconSlug1..iconSlug5 (5 brand slugs), statValue (short pixel-style metric like "9" or "12k"), statLabel (1-2 uppercase words like "REPOS"), swipeLabel (1-2 words like "SCROLL"), pageOf ("01 / 08").
 BODY  body-pixel-block: numLabel (Press-Start pixel-style label like "TOOL 01" — ≤8 chars), handle, iconSlug1 (featured tool slug), toolName (optional, will be SHORT ≤10 chars — for the pixel rendering keep it short), categoryLabel (1-2 uppercase mono words like "FREE" / "PAID"), toolTagline (1 italic sentence ≤14 words), bodyText (1-2 sentences ≤35 words with <em>...</em> highlights), skill1Label/skill2Label/skill3Label/skill4Label (4 pixel-mono labels like "WHAT IT DOES" / "BEST FOR" — each ≤14 chars), skill1Body/skill2Body/skill3Body/skill4Body (4 short body lines ≤14 words each), cmdLine (mono terminal command like "git clone repo"), outLine (mono terminal output like "cloned in 1.2s"), pageOf ("02 / 08"), footerNote (mono footer note).
 CTA   cta-pixel-block: brandTag (1-2 uppercase words like "WRAP UP"), handle, eyebrow (3-6 italic-serif words), ctaLine1 (1-2 SHORT pixel-letter words ≤10 chars total), ctaLine2 (1-2 SHORT pixel-letter words ≤10 chars total), ctaBody (1-2 sentences ≤30 words), btnPrimary (2-3 word primary CTA), btnGhost (2-3 word secondary), iconSlug1..iconSlug6 (6 brand slugs — full stack recap), pageOf ("08 / 08"), footerNote.`,
+
+  "cream-table": `Layouts (warm #f5efe2 cream + bold black Inter + orange #d97757 accent + Fraunces italic + 5 stacked LARGE icon rows with hard 4px black shadow (Memphis editorial style) — for "N tools/repos/skills" listicle covers, structured big-row body slides, full-stack CTA. NO empty space — content fills the canvas via stacked rows).
+Uses iconSlug<N> brand-icon system.
+COVER cover-cream-table: brandTag (1-2 uppercase words like "AI STACK"), handle, eyebrow (3-6 italic-serif intro words like "the only tools I use"), titleLine1 (2-4 bold words like "5 free"), titleAccent (1-2 orange words like "AI tools"), titleLine3 (2-4 words like "every founder"), titleItalic (1-3 Fraunces italic words like "actually needs"), iconSlug1..iconSlug5 (5 brand slugs of the tools shown in the 5 rows), name1..name5 (optional, compose auto-fills from slug), desc1..desc5 (single sentence ≤14 words per row description), tag1..tag5 (1-2 uppercase word tags per row like "FREE"/"OSS"/"PAID"/"NEW"), swipeLabel (1-2 words like "SEE EACH ONE"), pageOf ("01 / 08").
+BODY  body-cream-table: numLabel (uppercase label like "TOOL 02"), handle, iconSlug1 (the featured tool brand slug), toolName (optional, auto-derived), toolTagline (1 Fraunces italic sentence ≤14 words about what the tool is), bigStatement (1 short bold statement ≤22 words with 1-2 <em>...</em> highlights, sets up the tool's value), use1Title/use2Title/use3Title (3 short use-case titles 3-5 words each), use1Body/use2Body/use3Body (single sentence ≤14 words per use-case body), use1Metric/use2Metric/use3Metric (3 short mono-style metric strings like "<5min" / "$0" / "12k★"), compatLabel (1 Fraunces italic phrase like "Pairs beautifully with"), iconSlug2..iconSlug6 (5 supporting/compatible tool slugs), pageOf ("02 / 08"), footerNote (3-5 word footer note).
+CTA   cta-cream-table: brandTag (1-2 uppercase words like "WRAP"), handle, eyebrow (3-6 italic-serif words), titleLine1 (2-4 bold words), titleAccent (1-2 orange words), titleItalic (1-3 Fraunces italic words), body (1-2 sentences ≤30 words), btnPrimary (2-3 word primary CTA), btnGhost (2-3 word secondary), stackLabel (italic 2-3 words like "the full stack"), iconSlug1..iconSlug6 (6 brand slugs full stack recap), signoff (3-6 italic words like "ship your weekend project"), pageOf ("08 / 08").`,
+
+  "photo-tag": `Layouts (procedural gradient "photo" bg with blurred multi-color blobs + dark overlay + orange #ff5722 tag chip + bold white Inter headline overlay + Fraunces italic accents + glassmorphism cards — premium magazine / launch-announcement aesthetic. NO empty space — overlays + cards fill the canvas).
+Uses iconSlug<N> brand-icon system. Procedural photo via these color slots: photoBgAngle (degrees number 120-200), photoBg1/photoBg2 (2 deep hex colors for the bg gradient like "#1a0a2e" "#0a1a2e"), blobColor1/blobColor2/blobColor3 (3 vibrant hex blob colors that mix-blend like "#ff5722" "#c83b91" "#3a5eef") — pick colors that match the brief's energy.
+COVER cover-photo-tag: tag (1-3 uppercase words like "HOT TAKE" / "JUST SHIPPED"), handle, featGlyph (1-char glyph for the small feature card icon like "★" / "⚡" / "↑"), featLabel (1-2 uppercase short words like "TRENDING"), featName (1-3 words like "AI Workflows"), eyebrow (3-6 italic-serif words like "what you missed this week"), titleLine1 (2-4 bold words like "The new"), titleAccent (1-3 orange-glow words like "AI stack"), titleItalic (1-3 italic Fraunces words like "every dev needs"), sublineText (1-2 sentences ≤25 words context), iconSlug1..iconSlug4 (4 brand slugs of relevant tools), swipeLabel (1-2 words like "READ"), photoBgAngle, photoBg1, photoBg2, blobColor1, blobColor2, blobColor3.
+BODY  body-photo-tag: numLabel (uppercase short label like "TOOL 02"), handle, iconSlug1 (featured tool brand slug), toolName (optional auto-derived), toolTagline (1 Fraunces italic sentence ≤14 words), headline (3-5 bold words ≤30 chars), headlineItalic (1-3 Fraunces italic words), bodyLabel (uppercase mono label 1-3 words like "WHY IT WINS"), bodyText (1-2 sentences ≤35 words with 1-2 <em>...</em> highlights), metric1Value/metric2Value/metric3Value (3 short metric strings like "47%" / "$0" / "10x"), metric1Label/metric2Label/metric3Label (3 uppercase short labels 1-2 words like "FASTER" / "FREE TIER" / "MORE OUTPUT"), iconSlug2..iconSlug5 (4 supporting tool slugs), pageOf ("02 / 08"), photoBgAngle, photoBg1, photoBg2, blobColor1, blobColor2.
+CTA   cta-photo-tag: tag (1-3 uppercase words like "WRAP"), handle, eyebrow (3-6 italic-serif words), ctaLine1 (2-4 bold white words), ctaAccent (1-2 orange-glow words), ctaItalic (1-3 italic Fraunces words), ctaBody (1-2 sentences ≤30 words), btnPrimary (2-3 word primary CTA), btnGhost (2-3 word secondary), stackLabel (italic 2-3 words like "Powered by"), iconSlug1..iconSlug6 (6 brand slugs — full stack recap), signoff (3-6 italic words like "build your weekend"), pageOf ("08 / 08"), photoBgAngle, photoBg1, photoBg2, blobColor1, blobColor2.`,
 };
 
 const PROMPT_TEMPLATE = (brief, family) => `You are a carousel planner.
@@ -684,6 +698,20 @@ const BRIEFS = [
   { id: "pb-react-libs",              family: "pixel-block", text: "8 React libs that quietly replaced expensive UI kits." },
   { id: "pb-debug-stack",             family: "pixel-block", text: "6 debugging tools that turn a 4-hour incident into 20 minutes." },
   { id: "pb-zero-cost-stack",         family: "pixel-block", text: "10 zero-cost dev tools that run a 7-figure indie product." },
+
+  // cream-table (warm editorial, stacked icon rows with hard shadow Memphis style)
+  { id: "ct-design-tools-2026",       family: "cream-table", text: "5 free design tools every solo founder uses to ship pixel-perfect UI." },
+  { id: "ct-no-code-saas",            family: "cream-table", text: "5 no-code tools that run an entire SaaS without an engineer on staff." },
+  { id: "ct-content-stack",           family: "cream-table", text: "5 content tools that quietly replaced a $5K/month creator agency." },
+  { id: "ct-data-warehouse-stack",    family: "cream-table", text: "5 data tools that turn raw events into shipped product insights." },
+  { id: "ct-ai-writing-stack",        family: "cream-table", text: "5 AI writing tools that out-write expensive copywriters every time." },
+
+  // photo-tag (procedural photo bg + dark overlay + bold headline — magazine launch aesthetic)
+  { id: "pt-ai-news-2026",            family: "photo-tag", text: "The AI launches you actually need to care about this week." },
+  { id: "pt-cursor-power",            family: "photo-tag", text: "Cursor power features senior devs use that turn 8 hours into 90 minutes." },
+  { id: "pt-edge-functions",          family: "photo-tag", text: "Edge functions changed how solo founders ship — 5 patterns that win." },
+  { id: "pt-future-of-design",        family: "photo-tag", text: "The future of design tools — 5 launches reshaping product workflows." },
+  { id: "pt-ai-agent-platforms",      family: "photo-tag", text: "5 AI agent platforms quietly running real business operations today." },
 ];
 
 // ─── Kimi planner with retry on JSON parse failure ─────────────────────────

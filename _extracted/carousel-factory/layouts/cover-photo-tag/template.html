@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Fraunces:ital,wght@1,400;1,700&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1080px;height:1350px;overflow:hidden;background:#0a0a0a;font-family:"Inter",sans-serif;color:#fafafa;-webkit-font-smoothing:antialiased}
+/* "Photo" rendered as procedural blurred gradient blobs since we can't pull real photos */
+.photo-bg{position:absolute;inset:0;background:linear-gradient({{photoBgAngle}}deg,{{photoBg1}},{{photoBg2}})}
+.blob1{position:absolute;top:8%;right:-12%;width:62%;height:62%;border-radius:50%;background:{{blobColor1}};filter:blur(120px);opacity:0.85;mix-blend-mode:screen}
+.blob2{position:absolute;bottom:-10%;left:-10%;width:70%;height:70%;border-radius:50%;background:{{blobColor2}};filter:blur(140px);opacity:0.8;mix-blend-mode:screen}
+.blob3{position:absolute;top:35%;left:30%;width:38%;height:38%;border-radius:50%;background:{{blobColor3}};filter:blur(110px);opacity:0.65;mix-blend-mode:screen}
+.silhouette{position:absolute;top:30%;left:50%;transform:translateX(-50%);width:520px;height:680px;background:radial-gradient(ellipse at 50% 30%,rgba(0,0,0,0.5) 0%,transparent 65%);filter:blur(60px)}
+.grain{position:absolute;inset:0;background-image:radial-gradient(rgba(255,255,255,0.03) 1px,transparent 1px);background-size:3px 3px;mix-blend-mode:overlay;pointer-events:none}
+.overlay{position:absolute;inset:0;background:linear-gradient(180deg,rgba(10,10,10,0.4) 0%,rgba(10,10,10,0.1) 35%,rgba(10,10,10,0.85) 75%,rgba(10,10,10,0.97) 100%)}
+.top-row{position:absolute;top:60px;left:60px;right:60px;display:flex;justify-content:space-between;align-items:center;z-index:5}
+.tag-pill{display:inline-flex;align-items:center;gap:10px;padding:12px 22px;background:#ff5722;color:#0a0a0a;border-radius:50px;font-size:18px;font-weight:800;letter-spacing:0.1em;text-transform:uppercase}
+.tag-pill .dot{width:10px;height:10px;background:#0a0a0a;border-radius:50%}
+.handle{font-size:16px;color:rgba(250,250,250,0.7);font-weight:500;backdrop-filter:blur(6px);padding:8px 14px;background:rgba(255,255,255,0.08);border-radius:50px}
+.feature-card{position:absolute;top:160px;left:60px;display:flex;align-items:center;gap:14px;padding:18px 22px;background:rgba(255,255,255,0.08);backdrop-filter:blur(20px);border:1px solid rgba(255,255,255,0.12);border-radius:18px;z-index:5}
+.feature-card .ic{width:48px;height:48px;border-radius:12px;background:#ff5722;display:flex;align-items:center;justify-content:center;color:#0a0a0a;font-size:20px;font-weight:900;flex-shrink:0}
+.feature-card .info{color:#fafafa}
+.feature-card .info .lbl{font-size:13px;font-weight:700;color:#ff7a3c;letter-spacing:0.08em;text-transform:uppercase}
+.feature-card .info .nm{font-size:20px;font-weight:700}
+.headline-block{position:absolute;bottom:280px;left:60px;right:60px;z-index:5}
+.eyebrow{font-family:"Fraunces",serif;font-style:italic;font-size:32px;color:#ff7a3c;margin-bottom:18px}
+.headline{font-size:124px;font-weight:900;line-height:0.92;letter-spacing:-4px;color:#fafafa}
+.headline .accent{color:#ff7a3c;text-shadow:0 0 60px rgba(255,90,40,0.5)}
+.headline em{font-family:"Fraunces",serif;font-style:italic;font-weight:400;color:#cdd5df}
+.sub{font-size:24px;font-weight:500;color:rgba(255,255,255,0.85);line-height:1.4;max-width:760px;margin-top:24px}
+.bottom-row{position:absolute;bottom:60px;left:60px;right:60px;display:flex;justify-content:space-between;align-items:center;z-index:5}
+.bottom-row .chips{display:flex;gap:10px}
+.bottom-row .chips .chip{width:42px;height:42px;border-radius:10px;background:rgba(255,255,255,0.9);display:flex;align-items:center;justify-content:center;padding:7px}
+.bottom-row .chips .chip svg{width:100%;height:100%}
+.bottom-row .arrow{display:inline-flex;align-items:center;gap:12px;font-size:16px;font-weight:700;color:#fafafa;text-transform:uppercase;letter-spacing:0.1em}
+.bottom-row .arrow .a{width:42px;height:42px;background:#ff7a3c;color:#0a0a0a;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:18px;font-weight:800}
+</style></head>
+<body>
+<div class="photo-bg"></div>
+<div class="blob1"></div>
+<div class="blob2"></div>
+<div class="blob3"></div>
+<div class="silhouette"></div>
+<div class="grain"></div>
+<div class="overlay"></div>
+<div class="top-row"><div class="tag-pill"><div class="dot"></div><span>{{tag}}</span></div><div class="handle">{{handle}}</div></div>
+<div class="feature-card"><div class="ic">{{featGlyph}}</div><div class="info"><div class="lbl">{{featLabel}}</div><div class="nm">{{featName}}</div></div></div>
+<div class="headline-block">
+  <div class="eyebrow">{{eyebrow}}</div>
+  <div class="headline">{{titleLine1}} <span class="accent">{{titleAccent}}</span><br><em>{{titleItalic}}</em></div>
+  <div class="sub">{{sublineText}}</div>
+</div>
+<div class="bottom-row">
+  <div class="chips">
+    <div class="chip">{{iconSvg1}}</div>
+    <div class="chip">{{iconSvg2}}</div>
+    <div class="chip">{{iconSvg3}}</div>
+    <div class="chip">{{iconSvg4}}</div>
+  </div>
+  <div class="arrow">{{swipeLabel}}<div class="a">→</div></div>
+</div>
+</body></html>

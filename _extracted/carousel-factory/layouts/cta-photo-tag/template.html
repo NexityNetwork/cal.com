@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Fraunces:ital,wght@1,400;1,700&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1080px;height:1350px;overflow:hidden;background:#0a0a0a;font-family:"Inter",sans-serif;color:#fafafa;-webkit-font-smoothing:antialiased}
+.photo-bg{position:absolute;inset:0;background:linear-gradient({{photoBgAngle}}deg,{{photoBg1}},{{photoBg2}})}
+.blob1{position:absolute;top:-10%;right:-15%;width:75%;height:75%;border-radius:50%;background:{{blobColor1}};filter:blur(130px);opacity:0.85;mix-blend-mode:screen}
+.blob2{position:absolute;bottom:-20%;left:-15%;width:75%;height:75%;border-radius:50%;background:{{blobColor2}};filter:blur(140px);opacity:0.8;mix-blend-mode:screen}
+.grain{position:absolute;inset:0;background-image:radial-gradient(rgba(255,255,255,0.03) 1px,transparent 1px);background-size:3px 3px;pointer-events:none}
+.overlay{position:absolute;inset:0;background:linear-gradient(180deg,rgba(10,10,10,0.5) 0%,rgba(10,10,10,0.2) 30%,rgba(10,10,10,0.85) 75%,#0a0a0a 100%)}
+.top-row{position:absolute;top:60px;left:60px;right:60px;display:flex;justify-content:space-between;align-items:center;z-index:5}
+.tag-pill{display:inline-flex;align-items:center;gap:10px;padding:12px 22px;background:#ff5722;color:#0a0a0a;border-radius:50px;font-size:18px;font-weight:800;letter-spacing:0.1em;text-transform:uppercase}
+.tag-pill .dot{width:10px;height:10px;background:#0a0a0a;border-radius:50%}
+.handle{font-size:16px;color:rgba(250,250,250,0.7);padding:8px 14px;background:rgba(255,255,255,0.08);border-radius:50px;backdrop-filter:blur(6px)}
+.center{position:absolute;top:50%;left:60px;right:60px;transform:translateY(-46%);text-align:center;z-index:5}
+.eyebrow{font-family:"Fraunces",serif;font-style:italic;font-size:36px;color:#ff7a3c;margin-bottom:24px}
+.headline{font-size:148px;font-weight:900;line-height:0.9;letter-spacing:-4px;color:#fafafa;margin-bottom:30px}
+.headline .accent{color:#ff7a3c;text-shadow:0 0 60px rgba(255,90,40,0.55)}
+.headline em{font-family:"Fraunces",serif;font-style:italic;font-weight:400;color:#cdd5df}
+.sub{font-size:28px;font-weight:500;color:rgba(255,255,255,0.85);line-height:1.5;max-width:780px;margin:0 auto 40px}
+.btn-row{display:flex;justify-content:center;gap:18px;margin-bottom:36px}
+.btn-primary{padding:24px 50px;background:#ff5722;color:#0a0a0a;border-radius:14px;font-size:24px;font-weight:900;letter-spacing:-0.3px;box-shadow:0 16px 40px rgba(255,90,40,0.35)}
+.btn-ghost{padding:24px 36px;background:rgba(255,255,255,0.1);backdrop-filter:blur(20px);border:1px solid rgba(255,255,255,0.2);color:#fafafa;border-radius:14px;font-size:22px;font-weight:700}
+.stack-pill{display:inline-flex;align-items:center;gap:14px;padding:16px 24px;background:rgba(0,0,0,0.5);backdrop-filter:blur(20px);border:1px solid rgba(255,255,255,0.1);border-radius:50px}
+.stack-pill .lbl{font-family:"Fraunces",serif;font-style:italic;font-size:16px;color:#cdd5df}
+.stack-pill .chips{display:flex;align-items:center;gap:10px}
+.stack-pill .chip{width:38px;height:38px;border-radius:9px;background:rgba(255,255,255,0.95);display:flex;align-items:center;justify-content:center;padding:6px}
+.stack-pill .chip svg{width:100%;height:100%}
+.bottom-row{position:absolute;bottom:60px;left:60px;right:60px;display:flex;justify-content:space-between;align-items:center;z-index:5}
+.bottom-row .pg{font-size:14px;color:rgba(255,255,255,0.5);letter-spacing:0.08em}
+.bottom-row .signoff{font-family:"Fraunces",serif;font-style:italic;font-size:18px;color:rgba(255,255,255,0.6)}
+</style></head>
+<body>
+<div class="photo-bg"></div>
+<div class="blob1"></div>
+<div class="blob2"></div>
+<div class="grain"></div>
+<div class="overlay"></div>
+<div class="top-row"><div class="tag-pill"><div class="dot"></div><span>{{tag}}</span></div><div class="handle">{{handle}}</div></div>
+<div class="center">
+  <div class="eyebrow">{{eyebrow}}</div>
+  <div class="headline">{{ctaLine1}} <span class="accent">{{ctaAccent}}</span><br><em>{{ctaItalic}}</em></div>
+  <div class="sub">{{ctaBody}}</div>
+  <div class="btn-row"><div class="btn-primary">{{btnPrimary}}</div><div class="btn-ghost">{{btnGhost}}</div></div>
+  <div class="stack-pill">
+    <div class="lbl">{{stackLabel}}</div>
+    <div class="chips"><div class="chip">{{iconSvg1}}</div><div class="chip">{{iconSvg2}}</div><div class="chip">{{iconSvg3}}</div><div class="chip">{{iconSvg4}}</div><div class="chip">{{iconSvg5}}</div><div class="chip">{{iconSvg6}}</div></div>
+  </div>
+</div>
+<div class="bottom-row"><div class="pg">{{pageOf}}</div><div class="signoff">{{signoff}}</div></div>
+</body></html>

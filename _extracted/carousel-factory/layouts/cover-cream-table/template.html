@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Fraunces:ital,wght@0,400;1,400;1,700&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1080px;height:1350px;overflow:hidden;background:#f5efe2;font-family:"Inter",sans-serif;color:#1a1410;-webkit-font-smoothing:antialiased}
+.top-row{position:absolute;top:60px;left:60px;right:60px;display:flex;justify-content:space-between;align-items:center}
+.brand-pill{display:inline-flex;align-items:center;gap:10px;padding:10px 18px;background:#1a1410;color:#f5efe2;border-radius:50px;font-size:16px;font-weight:700;letter-spacing:0.1em;text-transform:uppercase}
+.handle{font-size:16px;color:#5a4a3a;font-weight:500}
+.eyebrow{position:absolute;top:150px;left:60px;right:60px;font-family:"Fraunces",serif;font-style:italic;font-size:36px;color:#5a4a3a}
+.title{position:absolute;top:215px;left:60px;right:60px;font-size:104px;font-weight:900;line-height:0.95;letter-spacing:-3px;color:#1a1410;margin-bottom:24px}
+.title em{font-family:"Fraunces",serif;font-style:italic;font-weight:400;color:#5a4a3a}
+.title .accent{color:#d97757;position:relative}
+.title .accent::before,.title .accent::after{content:"";position:absolute;width:36px;height:36px;background:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'><g fill='%23d97757'><path d='M11 2h2v8h-2z'/><path d='M11 14h2v8h-2z'/><path d='M2 11h8v2h-2z' transform='translate(-2 0)'/><path d='M14 11h8v2h-2z' transform='translate(2 0)'/><path d='M5 5l5 5-1.5 1.5-5-5z'/><path d='M14 14l5 5-1.5 1.5-5-5z'/><path d='M19 5l-5 5 1.5 1.5 5-5z'/><path d='M5 19l5-5 1.5 1.5-5 5z'/></g></svg>") center/contain no-repeat;display:inline-block}
+.rows{position:absolute;top:530px;left:60px;right:60px;display:flex;flex-direction:column;gap:14px}
+.row{display:flex;align-items:center;gap:22px;padding:24px 28px;background:#ffffff;border:1.5px solid #1a1410;border-radius:18px;box-shadow:4px 4px 0 #1a1410}
+.row .num{font-family:"Fraunces",serif;font-style:italic;font-weight:700;font-size:42px;color:#d97757;line-height:1;width:50px;flex-shrink:0}
+.row .ic{width:64px;height:64px;border-radius:14px;background:#f5efe2;border:1.5px solid #1a1410;display:flex;align-items:center;justify-content:center;padding:11px;flex-shrink:0}
+.row .ic svg{width:100%;height:100%}
+.row .info{flex:1}
+.row .info .name{font-size:24px;font-weight:800;color:#1a1410;line-height:1.2;margin-bottom:3px}
+.row .info .desc{font-size:16px;color:#5a4a3a;line-height:1.35}
+.row .tag{padding:6px 14px;background:#d97757;color:#fff;border-radius:50px;font-size:12px;font-weight:700;letter-spacing:0.08em;text-transform:uppercase;flex-shrink:0}
+.bottom-row{position:absolute;bottom:60px;left:60px;right:60px;display:flex;justify-content:space-between;align-items:center}
+.bottom-row .pg{font-size:16px;color:#5a4a3a;font-weight:500}
+.bottom-row .arrow{display:inline-flex;align-items:center;gap:12px;font-size:18px;font-weight:700;color:#1a1410}
+.bottom-row .arrow .a{width:42px;height:42px;background:#d97757;color:#fff;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:18px;font-weight:800}
+</style></head>
+<body>
+<div class="top-row"><div class="brand-pill">{{brandTag}}</div><div class="handle">{{handle}}</div></div>
+<div class="eyebrow">{{eyebrow}}</div>
+<div class="title">{{titleLine1}} <span class="accent">{{titleAccent}}</span><br>{{titleLine3}} <em>{{titleItalic}}</em></div>
+<div class="rows">
+  <div class="row"><div class="num">01</div><div class="ic">{{iconSvg1}}</div><div class="info"><div class="name">{{name1}}</div><div class="desc">{{desc1}}</div></div><div class="tag">{{tag1}}</div></div>
+  <div class="row"><div class="num">02</div><div class="ic">{{iconSvg2}}</div><div class="info"><div class="name">{{name2}}</div><div class="desc">{{desc2}}</div></div><div class="tag">{{tag2}}</div></div>
+  <div class="row"><div class="num">03</div><div class="ic">{{iconSvg3}}</div><div class="info"><div class="name">{{name3}}</div><div class="desc">{{desc3}}</div></div><div class="tag">{{tag3}}</div></div>
+  <div class="row"><div class="num">04</div><div class="ic">{{iconSvg4}}</div><div class="info"><div class="name">{{name4}}</div><div class="desc">{{desc4}}</div></div><div class="tag">{{tag4}}</div></div>
+  <div class="row"><div class="num">05</div><div class="ic">{{iconSvg5}}</div><div class="info"><div class="name">{{name5}}</div><div class="desc">{{desc5}}</div></div><div class="tag">{{tag5}}</div></div>
+</div>
+<div class="bottom-row"><div class="pg">{{pageOf}}</div><div class="arrow">{{swipeLabel}}<div class="a">→</div></div></div>
+</body></html>
