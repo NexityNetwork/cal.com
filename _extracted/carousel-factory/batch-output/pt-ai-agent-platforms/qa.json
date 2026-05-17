@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/pt-ai-agent-platforms/slide-01.png",
-      "bytes": 935823,
+      "bytes": 965167,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -19,7 +19,7 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/pt-ai-agent-platforms/slide-02.png",
-      "bytes": 376464,
+      "bytes": 364938,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -35,7 +35,7 @@
     {
       "index": 2,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/pt-ai-agent-platforms/slide-03.png",
-      "bytes": 369800,
+      "bytes": 342782,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -51,7 +51,7 @@
     {
       "index": 3,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/pt-ai-agent-platforms/slide-04.png",
-      "bytes": 386329,
+      "bytes": 359318,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -67,7 +67,7 @@
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/pt-ai-agent-platforms/slide-05.png",
-      "bytes": 340663,
+      "bytes": 376078,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -83,7 +83,7 @@
     {
       "index": 5,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/pt-ai-agent-platforms/slide-06.png",
-      "bytes": 372779,
+      "bytes": 346157,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -99,7 +99,7 @@
     {
       "index": 6,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/pt-ai-agent-platforms/slide-07.png",
-      "bytes": 379431,
+      "bytes": 375685,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -115,7 +115,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/pt-ai-agent-platforms/slide-08.png",
-      "bytes": 707863,
+      "bytes": 764767,
       "qa": {
         "verdict": "pass",
         "checks": {
