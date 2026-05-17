@@ -1,0 +1,168 @@
+{
+  "id": "ld-vector-db-cliffnotes",
+  "brand": "vectordb.dev",
+  "brief": "Pick your vector DB in 60 seconds — 6 options compared on real workloads.",
+  "theme": "leak-dark",
+  "slides": [
+    {
+      "layoutId": "cover-leak-dark",
+      "slots": {
+        "tag": "VECTOR DROP",
+        "dateMeta": "v1.0 · today",
+        "eyebrow": "// compare six top engines",
+        "titleLine1": "Pick your vector",
+        "titleLine2": "DB in 60s",
+        "filePath": "~/src/vectors.ts",
+        "codeComment": "// benchmark results shown below",
+        "codeKeyword": "async",
+        "codeFn": "query",
+        "codeArg": "embedding",
+        "codeReturn": "200",
+        "domainText": "vectordb.dev",
+        "swipeNote": "SCROLL"
+      }
+    },
+    {
+      "layoutId": "body-leak-dark",
+      "slots": {
+        "tag": "HOSTED",
+        "stepMeta": "01 / 06",
+        "title": "Pinecone serverless",
+        "titleAccent": "zero ops",
+        "subtitle": "Fully managed vector search with metadata filtering and hybrid search out of the box.",
+        "b1Title": "Start in one click",
+        "b1Body": "Create an index without tuning shards or replicas manually.",
+        "b2Title": "Burst pricing model",
+        "b2Body": "Pay for queries and storage rather than provisioned nodes.",
+        "b3Title": "Best for teams",
+        "b3Body": "Ship fast when you need reliability without infrastructure.",
+        "cmdLine": "pinecone init",
+        "outLine": "index live in 8s",
+        "okLine": "✓ READY",
+        "domainText": "vectordb.dev",
+        "pageOf": "01 / 06"
+      }
+    },
+    {
+      "layoutId": "body-leak-dark",
+      "slots": {
+        "tag": "AI NATIVE",
+        "stepMeta": "02 / 06",
+        "title": "Weaviate modular",
+        "titleAccent": "AI native",
+        "subtitle": "Vector+semantic search with GraphQL and built-in vectorizer modules.",
+        "b1Title": "GraphQL query interface",
+        "b1Body": "Query vectors with familiar nested filters and aggregation.",
+        "b2Title": "Swap modular models",
+        "b2Body": "Swap embeddings or generative models without migrations.",
+        "b3Title": "Hybrid search ready",
+        "b3Body": "Combine sparse BM25 and dense vector scores automatically.",
+        "cmdLine": "weaviate up",
+        "outLine": "modules loaded",
+        "okLine": "✓ LIVE",
+        "domainText": "vectordb.dev",
+        "pageOf": "02 / 06"
+      }
+    },
+    {
+      "layoutId": "body-leak-dark",
+      "slots": {
+        "tag": "POSTGRES",
+        "stepMeta": "03 / 06",
+        "title": "pgvector inside",
+        "titleAccent": "SQL native",
+        "subtitle": "Store embeddings right beside your relational data with ACID guarantees.",
+        "b1Title": "No new stack",
+        "b1Body": "Use existing Postgres connections and backup workflows.",
+        "b2Title": "IVFFlat or HNSW",
+        "b2Body": "Choose index types that trade build speed for recall.",
+        "b3Title": "Join with tables",
+        "b3Body": "Run filters across JSONB columns and vectors in one query.",
+        "cmdLine": "CREATE INDEX idx",
+        "outLine": "hnsw built 4.2s",
+        "okLine": "✓ DONE",
+        "domainText": "vectordb.dev",
+        "pageOf": "03 / 06"
+      }
+    },
+    {
+      "layoutId": "body-leak-dark",
+      "slots": {
+        "tag": "RUST CORE",
+        "stepMeta": "04 / 06",
+        "title": "Qdrant fast",
+        "titleAccent": "on disk",
+        "subtitle": "High performance vector search with payload filtering and distributed deployment.",
+        "b1Title": "Use memory mapping",
+        "b1Body": "Serve billion scale indexes without loading everything to RAM.",
+        "b2Title": "Payload filter first",
+        "b2Body": "Apply payload constraints before vector similarity scoring.",
+        "b3Title": "Self host easy",
+        "b3Body": "Single binary or Kubernetes helm chart in minutes.",
+        "cmdLine": "qdrant start",
+        "outLine": "cluster node 1",
+        "okLine": "✓ UP",
+        "domainText": "vectordb.dev",
+        "pageOf": "04 / 06"
+      }
+    },
+    {
+      "layoutId": "body-leak-dark",
+      "slots": {
+        "tag": "SCALE OUT",
+        "stepMeta": "05 / 06",
+        "title": "Milvus enterprise",
+        "titleAccent": "cloud scale",
+        "subtitle": "Distributed architecture designed for billion vector workloads and tiered storage.",
+        "b1Title": "GPU index build",
+        "b1Body": "Accelerate index creation with CUDA for faster inserts.",
+        "b2Title": "Use tiered storage",
+        "b2Body": "Keep hot vectors in memory and cold data on object storage.",
+        "b3Title": "Attu web dashboard",
+        "b3Body": "Monitor partitions and query latency from a web UI.",
+        "cmdLine": "milvus cluster",
+        "outLine": "3 nodes ready",
+        "okLine": "✓ NODES UP",
+        "domainText": "vectordb.dev",
+        "pageOf": "05 / 06"
+      }
+    },
+    {
+      "layoutId": "body-leak-dark",
+      "slots": {
+        "tag": "LOCAL FIRST",
+        "stepMeta": "06 / 06",
+        "title": "Chroma simple",
+        "titleAccent": "dev mode",
+        "subtitle": "Embedding database focused on developer speed and local prototyping.",
+        "b1Title": "Pure Python first",
+        "b1Body": "pip install and persist vectors to disk with zero config.",
+        "b2Title": "LangChain ready now",
+        "b2Body": "Integrate with RAG pipelines using a one line wrapper.",
+        "b3Title": "Lightweight local run",
+        "b3Body": "Run tests locally without Docker or cloud credentials.",
+        "cmdLine": "chroma run",
+        "outLine": "local db ready",
+        "okLine": "✓ LOCAL",
+        "domainText": "vectordb.dev",
+        "pageOf": "06 / 06"
+      }
+    },
+    {
+      "layoutId": "cta-leak-dark",
+      "slots": {
+        "tag": "WRAP UP",
+        "eyebrow": "// pick the right engine",
+        "ctaLine1": "Compare all six",
+        "ctaLine2": "vector databases",
+        "ctaBody": "Download the benchmark sheet and deploy the sample workload to your stack.",
+        "btnPrimary": "Get the sheet",
+        "btnGhost": "View on GitHub",
+        "meta1": "open source · MIT",
+        "meta2": "built in 2025",
+        "domainText": "vectordb.dev",
+        "pageOf": "06 / 06"
+      }
+    }
+  ]
+}

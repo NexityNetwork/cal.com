@@ -1,0 +1,153 @@
+{
+  "id": "so-resume-tools",
+  "brand": "THE CAREER CODE",
+  "brief": "Your resume is a tool, not a memoir — 6 patterns that get callbacks.",
+  "theme": "shout-orange",
+  "slides": [
+    {
+      "layoutId": "cover-shout-orange",
+      "slots": {
+        "tag": "HOT TAKE",
+        "swipeNote": "Why? swipe right →",
+        "shoutLine1": "YOUR RESUME",
+        "shoutLine2": "IS BROKEN",
+        "subQuestion": "Why treat a tool like a memoir when recruiters scan in six seconds flat?",
+        "pageOf": "01 / 08"
+      }
+    },
+    {
+      "layoutId": "body-shout-orange",
+      "slots": {
+        "tag": "PATTERN 1",
+        "slideNum": "02",
+        "eyebrow": "Stop listing your duties",
+        "shoutLine1": "SHOW THE",
+        "shoutLine2": "DAMN NUMBERS",
+        "bodyLabel": "THE IMPACT",
+        "bodyText": "Recruiters hunt for impact. <em>Grew revenue by 40%</em> beats <em>responsible for sales</em> every single time.",
+        "statLabel1": "TIME",
+        "statValue1": "6 SEC",
+        "statLabel2": "BOOST",
+        "statValue2": "3X",
+        "statLabel3": "CALLS",
+        "statValue3": "+47%",
+        "swipeNote": "keep on going →",
+        "pageOf": "02 / 08"
+      }
+    },
+    {
+      "layoutId": "body-shout-orange",
+      "slots": {
+        "tag": "PATTERN 2",
+        "slideNum": "03",
+        "eyebrow": "Edit it like it's war",
+        "shoutLine1": "ONE PAGE",
+        "shoutLine2": "NO EXCUSES",
+        "bodyLabel": "THE RULE",
+        "bodyText": "Every line must fight for its life. If it doesn't prove value, <em>kill it</em>. Ten years of fluff still fits on one page.",
+        "statLabel1": "LENGTH",
+        "statValue1": "1 PAGE",
+        "statLabel2": "CUT",
+        "statValue2": "-30%",
+        "statLabel3": "READS",
+        "statValue3": "2X",
+        "swipeNote": "next one up →",
+        "pageOf": "03 / 08"
+      }
+    },
+    {
+      "layoutId": "body-shout-orange",
+      "slots": {
+        "tag": "PATTERN 3",
+        "slideNum": "04",
+        "eyebrow": "Match their exact language",
+        "shoutLine1": "MIRROR THE",
+        "shoutLine2": "JOB POSTING",
+        "bodyLabel": "THE HACK",
+        "bodyText": "ATS robots and humans both scan for keywords. Use their exact language and watch your match rate <em>skyrocket</em>.",
+        "statLabel1": "MATCH",
+        "statValue1": "92%",
+        "statLabel2": "APPLY",
+        "statValue2": "10 MIN",
+        "statLabel3": "INTERVIEWS",
+        "statValue3": "5X",
+        "swipeNote": "swipe on now →",
+        "pageOf": "04 / 08"
+      }
+    },
+    {
+      "layoutId": "body-shout-orange",
+      "slots": {
+        "tag": "PATTERN 4",
+        "slideNum": "05",
+        "eyebrow": "Ditch the ancient fluff",
+        "shoutLine1": "KILL THE",
+        "shoutLine2": "OBJECTIVE",
+        "bodyLabel": "THE SWAP",
+        "bodyText": "Replace wasted space with a headline that sells. <em>Senior PM driving 0-to-1 products</em> tells the story instantly.",
+        "statLabel1": "SPACE",
+        "statValue1": "3 LINES",
+        "statLabel2": "CLICKS",
+        "statValue2": "+80%",
+        "statLabel3": "CLARITY",
+        "statValue3": "A+",
+        "swipeNote": "keep moving on →",
+        "pageOf": "05 / 08"
+      }
+    },
+    {
+      "layoutId": "body-shout-orange",
+      "slots": {
+        "tag": "PATTERN 5",
+        "slideNum": "06",
+        "eyebrow": "Lead with raw power",
+        "shoutLine1": "USE ACTIVE",
+        "shoutLine2": "POWER VERBS",
+        "bodyLabel": "THE FIX",
+        "bodyText": "Start bullets with engineered, launched, or scaled. Weak verbs make strong candidates look <em>passive and forgettable</em>.",
+        "statLabel1": "IMPACT",
+        "statValue1": "10X",
+        "statLabel2": "VERBS",
+        "statValue2": "90+",
+        "statLabel3": "RECALL",
+        "statValue3": "+65%",
+        "swipeNote": "you're almost there →",
+        "pageOf": "06 / 08"
+      }
+    },
+    {
+      "layoutId": "body-shout-orange",
+      "slots": {
+        "tag": "PATTERN 6",
+        "slideNum": "07",
+        "eyebrow": "Design for pure speed",
+        "shoutLine1": "DESIGN FOR",
+        "shoutLine2": "THE SCANNER",
+        "bodyLabel": "LAYOUT RULES",
+        "bodyText": "White space, bold headers, and bullet points guide the eye. A dense wall of text gets <em>rejected in seconds</em>.",
+        "statLabel1": "SPACE",
+        "statValue1": "20%",
+        "statLabel2": "FONT",
+        "statValue2": "11PT",
+        "statLabel3": "SCAN",
+        "statValue3": "< 6S",
+        "swipeNote": "last one next →",
+        "pageOf": "07 / 08"
+      }
+    },
+    {
+      "layoutId": "cta-shout-orange",
+      "slots": {
+        "tag": "FIN",
+        "eyebrow": "Time to finally fix it",
+        "ctaLine1": "GRAB THE",
+        "ctaLine2": "CHECKLIST NOW",
+        "ctaBody": "Stop guessing. Use the 6-point resume audit that top candidates rely on to land interviews fast.",
+        "btnPrimary": "GET THE LIST",
+        "btnGhost": "SHARE THIS",
+        "footerMeta": "LINK IN BIO",
+        "pageOf": "08 / 08"
+      }
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "id": "so-cloud-bill",
+  "brand": "STACK SAVVY",
+  "brief": "Your cloud bill is a vibe tax — 6 ways to cut it in half this quarter.",
+  "theme": "shout-orange",
+  "slides": [
+    {
+      "layoutId": "cover-shout-orange",
+      "slots": {
+        "tag": "HOT TAKE",
+        "swipeNote": "6 FIXES INSIDE →",
+        "shoutLine1": "YOUR CLOUD",
+        "shoutLine2": "BILL SUCKS",
+        "subQuestion": "Why are you still paying rent for servers you barely touch?",
+        "pageOf": "01 / 08"
+      }
+    },
+    {
+      "layoutId": "body-shout-orange",
+      "slots": {
+        "tag": "TIP 01",
+        "slideNum": "02",
+        "eyebrow": "First up, the obvious killer",
+        "shoutLine1": "RIGHTSIZE YOUR",
+        "shoutLine2": "INSTANCES NOW",
+        "bodyLabel": "THE FIX",
+        "bodyText": "Most teams run boxes at ten percent load. <em>Downsize or die.</em>",
+        "statLabel1": "WASTE",
+        "statValue1": "40%",
+        "statLabel2": "SAVINGS",
+        "statValue2": "$3K",
+        "statLabel3": "EFFORT",
+        "statValue3": "1 HR",
+        "swipeNote": "NEXT UP →",
+        "pageOf": "02 / 08"
+      }
+    },
+    {
+      "layoutId": "body-shout-orange",
+      "slots": {
+        "tag": "TIP 02",
+        "slideNum": "03",
+        "eyebrow": "Commit like you mean it",
+        "shoutLine1": "BUY RESERVED",
+        "shoutLine2": "CAPACITY NOW",
+        "bodyLabel": "WHY WAIT",
+        "bodyText": "On-demand pricing is a luxury tax. <em>Commit for one year</em> and slash compute costs in half.",
+        "statLabel1": "DISCOUNT",
+        "statValue1": "72%",
+        "statLabel2": "LOCK IN",
+        "statValue2": "1 YR",
+        "statLabel3": "RISK",
+        "statValue3": "LOW",
+        "swipeNote": "KEEP GOING →",
+        "pageOf": "03 / 08"
+      }
+    },
+    {
+      "layoutId": "body-shout-orange",
+      "slots": {
+        "tag": "TIP 03",
+        "slideNum": "04",
+        "eyebrow": "Find the silent killers now",
+        "shoutLine1": "KILL ZOMBIE",
+        "shoutLine2": "RESOURCES TODAY",
+        "bodyLabel": "CLEAN HOUSE",
+        "bodyText": "Orphaned volumes and idle load balancers are <em>vampires</em>. Stake them before they drain your budget dry.",
+        "statLabel1": "FOUND",
+        "statValue1": "$2K",
+        "statLabel2": "VOLUME",
+        "statValue2": "12",
+        "statLabel3": "TIME",
+        "statValue3": "30MIN",
+        "swipeNote": "WHAT'S NEXT →",
+        "pageOf": "04 / 08"
+      }
+    },
+    {
+      "layoutId": "body-shout-orange",
+      "slots": {
+        "tag": "TIP 04",
+        "slideNum": "05",
+        "eyebrow": "Scale like a real startup",
+        "shoutLine1": "AUTO SCALE",
+        "shoutLine2": "EVERYTHING NOW",
+        "bodyLabel": "SMART MOVE",
+        "bodyText": "Paying for peak traffic twenty-four seven is <em>arson</em>. Match supply to demand instead.",
+        "statLabel1": "SPIKE",
+        "statValue1": "10X",
+        "statLabel2": "COST",
+        "statValue2": "-60%",
+        "statLabel3": "UPTIME",
+        "statValue3": "99.9%",
+        "swipeNote": "HALFWAY THERE →",
+        "pageOf": "05 / 08"
+      }
+    },
+    {
+      "layoutId": "body-shout-orange",
+      "slots": {
+        "tag": "TIP 05",
+        "slideNum": "06",
+        "eyebrow": "Not all data is hot",
+        "shoutLine1": "TIER YOUR",
+        "shoutLine2": "STORAGE DOWN",
+        "bodyLabel": "COLD HARD",
+        "bodyText": "That three-year-old log dump does not need SSD speed. <em>Archive it</em> and watch costs flatline instantly.",
+        "statLabel1": "COST",
+        "statValue1": "-80%",
+        "statLabel2": "DATA",
+        "statValue2": "50TB",
+        "statLabel3": "SPEED",
+        "statValue3": "SAME",
+        "swipeNote": "ALMOST DONE →",
+        "pageOf": "06 / 08"
+      }
+    },
+    {
+      "layoutId": "body-shout-orange",
+      "slots": {
+        "tag": "TIP 06",
+        "slideNum": "07",
+        "eyebrow": "Play the spot market hard",
+        "shoutLine1": "USE SPOT",
+        "shoutLine2": "INSTANCES NOW",
+        "bodyLabel": "LAST HACK",
+        "bodyText": "Spot prices are a fire sale for compute power. <em>Embrace the interruption</em> and save up to ninety percent.",
+        "statLabel1": "SAVINGS",
+        "statValue1": "90%",
+        "statLabel2": "WORKLOAD",
+        "statValue2": "BATCH",
+        "statLabel3": "IMPACT",
+        "statValue3": "ZERO",
+        "swipeNote": "FINISH STRONG →",
+        "pageOf": "07 / 08"
+      }
+    },
+    {
+      "layoutId": "cta-shout-orange",
+      "slots": {
+        "tag": "FIN",
+        "eyebrow": "Your CFO will thank you",
+        "ctaLine1": "CUT THAT",
+        "ctaLine2": "CLOUD BILL",
+        "ctaBody": "Grab the cheat sheet and halve your AWS spend before lunch this Friday.",
+        "btnPrimary": "GRAB THE LIST",
+        "btnGhost": "SHARE THIS",
+        "footerMeta": "NO SPAM. EVER.",
+        "pageOf": "08 / 08"
+      }
+    }
+  ]
+}

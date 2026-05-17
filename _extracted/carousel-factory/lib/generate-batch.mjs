@@ -72,6 +72,9 @@ const FAMILY_LAYOUTS = {
   "stack-tour":       { cover: "cover-stack-tour",      body: "body-stack-tour",      cta: "cta-stack-tour" },
   "before-after":     { cover: "cover-before-after",    body: "body-before-after",    cta: "cta-before-after" },
   "dark-pill-glow":   { cover: "cover-dark-pill-glow",  body: "body-dark-pill-glow",  cta: "cta-dark-pill-glow" },
+  "shout-orange":     { cover: "cover-shout-orange",    body: "body-shout-orange",    cta: "cta-shout-orange" },
+  "leak-dark":        { cover: "cover-leak-dark",       body: "body-leak-dark",       cta: "cta-leak-dark" },
+  "cream-claude":     { cover: "cover-cream-claude",    body: "body-cream-claude",    cta: "cta-cream-claude" },
 };
 
 // CTA slot conventions, shared by all families:
@@ -275,6 +278,21 @@ CTA   cta-before-after: pageOf, handle, eyebrow (2-3 uppercase words like "MAKE 
 COVER cover-dark-pill-glow: tag (1 short uppercase category word like "TOOLS" / "REPOS" / "STACK"), pillLeft (1-2 Inter words, white, e.g. "Open source"), pillRight (1-2 orange-glowing Inter words completing the phrase, e.g. "tools" — note: kept short, single line), subline (4-8 word descriptor, ends focuses on the audience like "projects for analytics teams"), pageOf (e.g. "01 / 06").
 BODY  body-dark-pill-glow: A "browser homepage" mockup at top, dark italic-serif title at bottom. ONLY 7 slots needed: toolName (1-3 word product name), heroTitle (4-8 word product hero headline), heroBody (1 sentence ≤22 words product description), slideTitle (Fraunces italic 4-7 word slide title summarizing the topic of this slide), slideSubtitle (1 sentence ≤22 words italic), domainText (short fake domain like "toolname.com"), pageOf ("02 / 06"). All other UI elements are pre-styled by the template.
 CTA   cta-dark-pill-glow: tag (1-2 uppercase words like "WRAP"), eyebrow (4-7 italic words like "the rest is up to you"), headlineMain (2-3 bold Inter words white), headlineGlow (1-3 orange-glow Inter words completing the headline), sublineItalic (1 sentence ≤25 words Fraunces italic), pageOf ("06 / 06").`,
+
+  "shout-orange": `Layouts (bright #ff5722 orange bg + grain texture + huge Inter 900 BLOCK-LETTER shout headline + Fraunces italic accents + black cards — punchy bold callout aesthetic, ALL CAPS energy).
+COVER cover-shout-orange: tag (1-2 uppercase words category like "RANT" / "HOT TAKE"), swipeNote (3-5 word arrow note like "Why? swipe →"), shoutLine1 (2-4 ALL CAPS words black, the FIRST half of the shout, e.g. "STOP RENTING"), shoutLine2 (2-4 ALL CAPS words cream-white, the SECOND half, e.g. "YOUR DATA"), subQuestion (8-14 word italic-serif question or jab), pageOf ("01 / 06").
+BODY  body-shout-orange: tag (1-2 uppercase category words), slideNum ("02"), eyebrow (4-7 italic-serif words intro line), shoutLine1 (2-4 ALL CAPS words black), shoutLine2 (2-4 ALL CAPS words cream-white), bodyLabel (1-2 uppercase words like "WHY IT MATTERS"), bodyText (1-2 sentences ≤35 words, can include 1-2 italic phrases wrapped in <em>...</em>), statLabel1/statLabel2/statLabel3 (3 short uppercase metric labels 1-2 words like "TIME" / "COST" / "OUTPUT"), statValue1/statValue2/statValue3 (3 short metric values like "47%" / "$2k" / "10x"), swipeNote (3-5 words like "next up"), pageOf ("02 / 06").
+CTA   cta-shout-orange: tag (1-2 uppercase words like "FIN"), eyebrow (4-7 italic-serif words wrap-up intro), ctaLine1 (2-4 ALL CAPS words black), ctaLine2 (2-4 ALL CAPS words cream-white), ctaBody (1-2 sentences ≤30 words direct), btnPrimary (2-3 word primary CTA like "GRAB THE LIST"), btnGhost (2-3 word secondary like "Share with a friend"), footerMeta (2-4 words footer note), pageOf ("06 / 06").`,
+
+  "leak-dark": `Layouts (deep #0a0a0a + faint grid + orange-glow gradient title accent + dark code preview frame + small orange dot-tag pill — tech-launch / hot-news aesthetic).
+COVER cover-leak-dark: tag (1-3 uppercase words like "JUST SHIPPED" / "NEW DROP"), dateMeta (short mono date like "v2.4 · today"), eyebrow (4-7 mono comment-style words like "// changes everyone missed"), titleLine1 (2-4 bold Inter words white), titleLine2 (1-3 orange-gradient-glow words like "10x faster"), filePath (mono path like "~/src/app.ts"), codeComment (4-8 words mono comment), codeKeyword (1 word like "function" / "async"), codeFn (1 word function name like "deploy"), codeArg (short string arg like "production"), codeReturn (number like "200" or "true"), domainText (short domain like "factory.dev"), swipeNote (1-2 uppercase words like "SCROLL").
+BODY  body-leak-dark: tag (1-2 uppercase words), stepMeta (mono step like "02 / 06"), title (2-4 Inter bold words), titleAccent (1-3 orange words), subtitle (1 sentence ≤25 words), b1Title/b2Title/b3Title (3 short bold-line subtitles 3-6 words each), b1Body/b2Body/b3Body (3 single-sentence descriptions ≤18 words each), cmdLine (short mono command like "deploy --to=prod"), outLine (mono output preview like "build complete in 1.2s"), okLine (1-2 mono SUCCESS word like "✓ DONE"), domainText, pageOf ("02 / 06").
+CTA   cta-leak-dark: tag (1-2 uppercase words like "WRAP UP"), eyebrow (4-7 mono words), ctaLine1 (2-4 bold Inter words white), ctaLine2 (1-3 orange-glow words), ctaBody (1-2 sentences ≤30 words), btnPrimary (2-3 word primary CTA), btnGhost (2-4 word secondary), meta1 (3-5 word status line like "open source · MIT"), meta2 (3-5 word status line like "built in 2025"), domainText, pageOf ("06 / 06").`,
+
+  "cream-claude": `Layouts (warm #f5efe2 cream + faint grid + bold black Inter + Claude-orange #d97757 starburst + Fraunces italic accents + black sub-card — editorial / Claude-creator aesthetic).
+COVER cover-cream-claude: tag (1-2 uppercase words like "CLAUDE" / "SKILLS"), handle (short site label like "factory.51ultron.com"), eyebrow (3-6 italic-serif words intro), titleLine1 (2-4 bold Inter words black), titleAccent (1-2 orange Inter words), titleItalic (1-3 italic Fraunces words like "for real"), subEyebrow (2-4 uppercase orange words like "WHY IT WORKS"), subText (1-2 sentences ≤30 words with 1-2 italic phrases wrapped in <em>...</em>), domainText (short site label), swipeNote (1-2 words like "READ").
+BODY  body-cream-claude: tag (1-2 uppercase words), stepMeta (short mono like "02 / 06"), sectionNum (single italic-serif numeral like "01"), eyebrow (2-3 uppercase orange words like "PRINCIPLE 01"), title (3-5 bold Inter words), titleItalic (1-3 Fraunces italic words like "for builders"), subtitle (1 sentence ≤22 words), codeComment (4-7 words mono comment), codeKeyword (1 word like "import"), codeFn (1 word like "ship"), codeArg (short string), b1Title/b2Title (2 bold short bullets 3-5 words each), b1Body/b2Body (single-sentence descriptions ≤18 words each), domainText, pageOf ("02 / 06").
+CTA   cta-cream-claude: tag (1-2 uppercase words like "WRAP"), eyebrow (3-6 italic-serif words), ctaLine1 (2-4 bold Inter words black), ctaAccent (1-2 orange Inter words), ctaItalic (1-3 italic Fraunces words), ctaBody (1-2 sentences ≤30 words), btnPrimary (2-3 word primary CTA), btnGhost (2-3 word secondary), signoff (3-6 italic-serif words sign-off line), domainText, pageOf ("06 / 06").`,
 };
 
 const PROMPT_TEMPLATE = (brief, family) => `You are a carousel planner.
@@ -603,6 +621,27 @@ const BRIEFS = [
   { id: "dpg-privacy-first-tools",    family: "dark-pill-glow", text: "5 privacy-first product tools that don't sell your usage data." },
   { id: "dpg-tiny-cli-stack",         family: "dark-pill-glow", text: "The 7-CLI stack a senior engineer actually uses every day." },
   { id: "dpg-monitoring-no-bs",       family: "dark-pill-glow", text: "Monitoring without the bullshit — 6 tools real SREs swear by." },
+
+  // shout-orange (loud takes, contrarian dev/tool opinions)
+  { id: "so-cloud-bill",              family: "shout-orange", text: "Your cloud bill is a vibe tax — 6 ways to cut it in half this quarter." },
+  { id: "so-stop-microservices",      family: "shout-orange", text: "Stop splitting things into microservices until you have a real reason." },
+  { id: "so-dx-is-everything",        family: "shout-orange", text: "Developer experience is the only real moat — 6 takes on why DX wins." },
+  { id: "so-saas-is-bloated",        family: "shout-orange", text: "Most SaaS is bloated by design — 6 lean alternatives that just do one thing." },
+  { id: "so-resume-tools",            family: "shout-orange", text: "Your resume is a tool, not a memoir — 6 patterns that get callbacks." },
+
+  // leak-dark (tech launches, infra shipped, new releases)
+  { id: "ld-edge-runtimes-2026",      family: "leak-dark", text: "6 edge runtimes that shipped real production wins in 2026." },
+  { id: "ld-vector-db-cliffnotes",    family: "leak-dark", text: "Pick your vector DB in 60 seconds — 6 options compared on real workloads." },
+  { id: "ld-observability-2026",      family: "leak-dark", text: "Observability stack that actually catches incidents — 6 tools, real config." },
+  { id: "ld-llm-serving",             family: "leak-dark", text: "LLM serving without the GPU rental tax — 6 patterns running in prod." },
+  { id: "ld-data-pipelines",          family: "leak-dark", text: "Data pipelines for one-person teams — 6 setups that scale to billions of rows." },
+
+  // cream-claude (warm editorial, dev-focused listicles)
+  { id: "cc-shipping-principles",     family: "cream-claude", text: "6 shipping principles I stole from teams that release every day." },
+  { id: "cc-rest-vs-rpc",             family: "cream-claude", text: "REST vs RPC vs GraphQL — 6 calls real backend engineers make on real APIs." },
+  { id: "cc-test-pyramid",            family: "cream-claude", text: "The test pyramid is dead — 6 patterns that replace it for modern stacks." },
+  { id: "cc-readme-craft",            family: "cream-claude", text: "A great README is a hiring tool — 6 patterns OSS maintainers swear by." },
+  { id: "cc-internal-tooling",        family: "cream-claude", text: "6 internal tools every fast-shipping team builds before raising a seed round." },
 ];
 
 // ─── Kimi planner with retry on JSON parse failure ─────────────────────────

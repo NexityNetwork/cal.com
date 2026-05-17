@@ -1,0 +1,171 @@
+{
+  "id": "cc-test-pyramid",
+  "brand": "51ultron",
+  "brief": "The test pyramid is dead — 6 patterns that replace it for modern stacks.",
+  "theme": "cream-claude",
+  "slides": [
+    {
+      "layoutId": "cover-cream-claude",
+      "slots": {
+        "tag": "TESTING",
+        "handle": "factory.51ultron.com",
+        "eyebrow": "The old model collapsed",
+        "titleLine1": "The test pyramid",
+        "titleAccent": "is dead",
+        "titleItalic": "for good",
+        "subEyebrow": "WHY IT FAILS",
+        "subText": "Six modern patterns that ship faster with <em>real confidence</em> and fewer flaky suites.",
+        "domainText": "factory.51ultron.com",
+        "swipeNote": "READ"
+      }
+    },
+    {
+      "layoutId": "body-cream-claude",
+      "slots": {
+        "tag": "PATTERN",
+        "stepMeta": "01 / 06",
+        "sectionNum": "01",
+        "eyebrow": "PRINCIPLE 01",
+        "title": "Contracts over mocks",
+        "titleItalic": "for APIs",
+        "subtitle": "Replace static mocks with verified consumer-provider agreements that catch breaking changes pre-deploy.",
+        "codeComment": "// verify the provider pact",
+        "codeKeyword": "import",
+        "codeFn": "verify",
+        "codeArg": "consumer-v2",
+        "b1Title": "Consumer driven contract specs",
+        "b1Body": "Teams agree on payloads before either side ships to production.",
+        "b2Title": "Fail fast in CI pipelines",
+        "b2Body": "Breaking schema changes never reach staging or production environments.",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "02 / 08"
+      }
+    },
+    {
+      "layoutId": "body-cream-claude",
+      "slots": {
+        "tag": "PATTERN",
+        "stepMeta": "02 / 06",
+        "sectionNum": "02",
+        "eyebrow": "PRINCIPLE 02",
+        "title": "Integration beats isolation",
+        "titleItalic": "for speed",
+        "subtitle": "The testing trophy proves most bugs live at the wiring layer, not in pure functions.",
+        "codeComment": "// render with real providers",
+        "codeKeyword": "import",
+        "codeFn": "render",
+        "codeArg": "App",
+        "b1Title": "Test real service wiring",
+        "b1Body": "Hit databases and APIs in ephemeral test environments.",
+        "b2Title": "Minimize mock maintenance tax",
+        "b2Body": "Fewer mocks means less maintenance and higher signal tests.",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "03 / 08"
+      }
+    },
+    {
+      "layoutId": "body-cream-claude",
+      "slots": {
+        "tag": "PATTERN",
+        "stepMeta": "03 / 06",
+        "sectionNum": "03",
+        "eyebrow": "PRINCIPLE 03",
+        "title": "Generate the edge cases",
+        "titleItalic": "you missed",
+        "subtitle": "Property-based tests explore input space automatically, finding bugs your examples never cover.",
+        "codeComment": "// explore all input space",
+        "codeKeyword": "import",
+        "codeFn": "explore",
+        "codeArg": "arbitrary",
+        "b1Title": "Shrink to minimal reproducer",
+        "b1Body": "Libraries simplify failing inputs to the minimal reproducer automatically.",
+        "b2Title": "Check invariants at scale",
+        "b2Body": "Assert properties hold across thousands of generated random cases.",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "04 / 08"
+      }
+    },
+    {
+      "layoutId": "body-cream-claude",
+      "slots": {
+        "tag": "PATTERN",
+        "stepMeta": "04 / 06",
+        "sectionNum": "04",
+        "eyebrow": "PRINCIPLE 04",
+        "title": "Break it on purpose",
+        "titleItalic": "in staging",
+        "subtitle": "Chaos experiments validate resilience before reality injects failures at 3 AM.",
+        "codeComment": "// inject real latency now",
+        "codeKeyword": "import",
+        "codeFn": "break",
+        "codeArg": "network",
+        "b1Title": "Control the blast radius",
+        "b1Body": "Start with small faults and expand as confidence steadily grows.",
+        "b2Title": "Define steady state bounds",
+        "b2Body": "Abort experiments when deviations exceed defined metric thresholds.",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "05 / 08"
+      }
+    },
+    {
+      "layoutId": "body-cream-claude",
+      "slots": {
+        "tag": "PATTERN",
+        "stepMeta": "05 / 06",
+        "sectionNum": "05",
+        "eyebrow": "PRINCIPLE 05",
+        "title": "Pixels are behavior",
+        "titleItalic": "too",
+        "subtitle": "Catch unintended UI drift across browsers before users do in production.",
+        "codeComment": "// diff against known baseline",
+        "codeKeyword": "import",
+        "codeFn": "diff",
+        "codeArg": "viewport",
+        "b1Title": "Ensure cross browser parity",
+        "b1Body": "Compare renders across Chrome, Safari, and mobile viewports.",
+        "b2Title": "Approve visual baseline changes",
+        "b2Body": "Review and approve intentional visual diffs through collaborative workflows.",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "06 / 08"
+      }
+    },
+    {
+      "layoutId": "body-cream-claude",
+      "slots": {
+        "tag": "PATTERN",
+        "stepMeta": "06 / 06",
+        "sectionNum": "06",
+        "eyebrow": "PRINCIPLE 06",
+        "title": "Test in production",
+        "titleItalic": "safely",
+        "subtitle": "Synthetic probes and feature flags shift validation from staging to real traffic.",
+        "codeComment": "// probe the live endpoint",
+        "codeKeyword": "import",
+        "codeFn": "probe",
+        "codeArg": "canary",
+        "b1Title": "Run synthetic live probes",
+        "b1Body": "Continuously exercise critical paths against production deployments.",
+        "b2Title": "Roll out via feature flags",
+        "b2Body": "Ship to one percent of traffic and observe metrics closely.",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "07 / 08"
+      }
+    },
+    {
+      "layoutId": "cta-cream-claude",
+      "slots": {
+        "tag": "WRAP",
+        "eyebrow": "Ready to ship",
+        "ctaLine1": "Ditch the pyramid",
+        "ctaAccent": "for good",
+        "ctaItalic": "starting today",
+        "ctaBody": "Pick one pattern, run a pilot this sprint, and watch your <em>flaky suite</em> become a <em>signal machine</em>.",
+        "btnPrimary": "Start pilot",
+        "btnGhost": "Read guide",
+        "signoff": "Build with confidence",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "08 / 08"
+      }
+    }
+  ]
+}

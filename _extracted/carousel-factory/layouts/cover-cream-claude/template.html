@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Fraunces:ital,wght@0,400;1,400;1,600&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1080px;height:1350px;overflow:hidden;background:#f5efe2;font-family:"Inter",sans-serif;color:#1a1410;-webkit-font-smoothing:antialiased}
+.grid-bg{position:absolute;inset:0;background-image:linear-gradient(rgba(26,20,16,0.04) 1px,transparent 1px),linear-gradient(90deg,rgba(26,20,16,0.04) 1px,transparent 1px);background-size:80px 100px}
+.tag-strip{position:absolute;top:80px;left:80px;right:80px;display:flex;justify-content:space-between;align-items:center}
+.tag-pill{display:inline-flex;align-items:center;gap:10px;padding:12px 22px;background:#1a1410;color:#f5efe2;border-radius:50px;font-size:18px;font-weight:700;letter-spacing:0.1em;text-transform:uppercase}
+.handle{font-size:18px;color:#52443a;font-weight:500}
+.starburst{position:absolute;top:200px;left:80px;width:64px;height:64px}
+.starburst::before,.starburst::after{content:"";position:absolute;background:#d97757;left:50%;top:50%}
+.starburst::before{width:5px;height:64px;transform:translate(-50%,-50%)}
+.starburst::after{width:64px;height:5px;transform:translate(-50%,-50%)}
+.star-x{position:absolute;top:200px;left:80px;width:64px;height:64px}
+.star-x::before,.star-x::after{content:"";position:absolute;background:#d97757;left:50%;top:50%;width:5px;height:50px}
+.star-x::before{transform:translate(-50%,-50%) rotate(45deg)}
+.star-x::after{transform:translate(-50%,-50%) rotate(-45deg)}
+.headline-block{position:absolute;top:300px;left:80px;right:80px}
+.eyebrow{font-family:"Fraunces",serif;font-style:italic;font-size:38px;color:#52443a;margin-bottom:14px}
+.headline{font-size:144px;font-weight:900;line-height:0.88;letter-spacing:-4px;color:#1a1410}
+.headline .accent{color:#d97757}
+.headline .em{font-family:"Fraunces",serif;font-style:italic;font-weight:400;color:#52443a}
+.sub-card{position:absolute;bottom:230px;left:80px;right:80px;padding:36px 40px;background:#1a1410;border-radius:24px;color:#f5efe2}
+.sub-card .sub-eyebrow{font-size:16px;font-weight:700;letter-spacing:0.16em;color:#d97757;text-transform:uppercase;margin-bottom:12px}
+.sub-card .sub-text{font-size:28px;font-weight:500;line-height:1.4}
+.sub-card .sub-text em{font-family:"Fraunces",serif;font-style:italic;font-weight:400;color:#e8a87c}
+.bottom-row{position:absolute;bottom:80px;left:80px;right:80px;display:flex;justify-content:space-between;align-items:center}
+.bottom-row .domain{font-size:20px;color:#52443a;font-weight:500}
+.bottom-row .swipe{display:inline-flex;align-items:center;gap:10px;font-size:20px;font-weight:700;color:#1a1410}
+.bottom-row .swipe .arrow{width:42px;height:42px;background:#d97757;color:#f5efe2;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:18px}
+</style></head>
+<body>
+<div class="grid-bg"></div>
+<div class="tag-strip"><div class="tag-pill">{{tag}}</div><div class="handle">{{handle}}</div></div>
+<div class="star-x"></div>
+<div class="starburst"></div>
+<div class="headline-block">
+  <div class="eyebrow">{{eyebrow}}</div>
+  <div class="headline">{{titleLine1}}<br><span class="accent">{{titleAccent}}</span> <span class="em">{{titleItalic}}</span></div>
+</div>
+<div class="sub-card">
+  <div class="sub-eyebrow">{{subEyebrow}}</div>
+  <div class="sub-text">{{subText}}</div>
+</div>
+<div class="bottom-row"><div class="domain">{{domainText}}</div><div class="swipe">{{swipeNote}}<div class="arrow">→</div></div></div>
+</body></html>

@@ -1,0 +1,168 @@
+{
+  "id": "ld-edge-runtimes-2026",
+  "brand": "EdgeRun",
+  "brief": "6 edge runtimes that shipped real production wins in 2026.",
+  "theme": "leak-dark",
+  "slides": [
+    {
+      "layoutId": "cover-leak-dark",
+      "slots": {
+        "tag": "JUST SHIPPED",
+        "dateMeta": "v2.4 · today",
+        "eyebrow": "// edge runtimes that changed production",
+        "titleLine1": "6 runtimes",
+        "titleLine2": "1 edge war",
+        "filePath": "~/edge/runtimes.ts",
+        "codeComment": "// the ones that actually shipped",
+        "codeKeyword": "async",
+        "codeFn": "deploy",
+        "codeArg": "'production'",
+        "codeReturn": "200",
+        "domainText": "edge.run",
+        "swipeNote": "SCROLL"
+      }
+    },
+    {
+      "layoutId": "body-leak-dark",
+      "slots": {
+        "tag": "WORKERS",
+        "stepMeta": "01 / 06",
+        "title": "Cloudflare Workers",
+        "titleAccent": "zero cold starts",
+        "subtitle": "The V8 isolates runtime cut global latency to under 10ms for millions of requests.",
+        "b1Title": "Instant deploys globally",
+        "b1Body": "Push code to 300+ cities in under 30 seconds with no container boot time.",
+        "b2Title": "Rust powered WASM core",
+        "b2Body": "Native WebAssembly support unlocked CPU-heavy tasks at the edge.",
+        "b3Title": "Smart placement GA",
+        "b3Body": "Automatic inference moved stateful objects closest to users dynamically.",
+        "cmdLine": "wrangler deploy",
+        "outLine": "Published 3.4s (9ms p99)",
+        "okLine": "✓ LIVE",
+        "domainText": "workers.dev",
+        "pageOf": "01 / 06"
+      }
+    },
+    {
+      "layoutId": "body-leak-dark",
+      "slots": {
+        "tag": "DEPLOY",
+        "stepMeta": "02 / 06",
+        "title": "Deno Deploy",
+        "titleAccent": "native TypeScript",
+        "subtitle": "Secure-by-default V8 isolates eliminated config sprawl for API backends.",
+        "b1Title": "TypeScript at the edge",
+        "b1Body": "No build step required; TS compiles directly inside the isolate runtime.",
+        "b2Title": "Built-in KV store",
+        "b2Body": "Global strongly-consistent key-value reduced database roundtrips by 80%.",
+        "b3Title": "OIDC auth out of box",
+        "b3Body": "Zero-config identity layer protected routes without middleware bloat.",
+        "cmdLine": "deployctl deploy",
+        "outLine": "Project linked to prod",
+        "okLine": "✓ READY",
+        "domainText": "deno.dev",
+        "pageOf": "02 / 06"
+      }
+    },
+    {
+      "layoutId": "body-leak-dark",
+      "slots": {
+        "tag": "EDGE",
+        "stepMeta": "03 / 06",
+        "title": "Vercel Edge",
+        "titleAccent": "Node compatible",
+        "subtitle": "Middleware and SSR moved from servers to the edge without breaking npm packages.",
+        "b1Title": "Node API parity",
+        "b1Body": "Full compatibility with Buffer, crypto, and streams removed migration friction.",
+        "b2Title": "Streaming SSR support",
+        "b2Body": "React Server Components rendered progressively from the nearest region.",
+        "b3Title": "Region targeting rules",
+        "b3Body": "Sticky edge sessions pinned user state to a single geography for compliance.",
+        "cmdLine": "vercel --prod",
+        "outLine": "Edge config updated",
+        "okLine": "✓ DONE",
+        "domainText": "vercel.app",
+        "pageOf": "03 / 06"
+      }
+    },
+    {
+      "layoutId": "body-leak-dark",
+      "slots": {
+        "tag": "NETLIFY",
+        "stepMeta": "04 / 06",
+        "title": "Netlify Edge",
+        "titleAccent": "git driven flow",
+        "subtitle": "Serverless logic lives next to frontend code and deploys on every git push.",
+        "b1Title": "Branch based staging",
+        "b1Body": "Every PR spawned an isolated edge environment with unique env vars.",
+        "b2Title": "On demand builders",
+        "b2Body": "Stale-while-revalidate cached dynamic pages at the CDN automatically.",
+        "b3Title": "Blob storage edge",
+        "b3Body": "Mutable edge blobs replaced S3 for user-generated content uploads.",
+        "cmdLine": "netlify deploy --build",
+        "outLine": "Edge functions 12 uploaded",
+        "okLine": "✓ LIVE",
+        "domainText": "netlify.app",
+        "pageOf": "04 / 06"
+      }
+    },
+    {
+      "layoutId": "body-leak-dark",
+      "slots": {
+        "tag": "FASTLY",
+        "stepMeta": "05 / 06",
+        "title": "Fastly Compute",
+        "titleAccent": "microsecond scale",
+        "subtitle": "WebAssembly-powered compute processes requests in microseconds, not milliseconds.",
+        "b1Title": "Rust and JS SDKs",
+        "b1Body": "First-class Rust and JS toolchains compiled to WASM with tiny bundle sizes.",
+        "b2Title": "Config store API",
+        "b2Body": "Real-time config propagation hit all POPs in under 500ms without restarts.",
+        "b3Title": "Fan-out origin shield",
+        "b3Body": "Coalesced backend requests prevented thundering herd on inventory APIs.",
+        "cmdLine": "fastly compute publish",
+        "outLine": "Active on 95 POPs",
+        "okLine": "✓ ACTIVE",
+        "domainText": "fastly.com",
+        "pageOf": "05 / 06"
+      }
+    },
+    {
+      "layoutId": "body-leak-dark",
+      "slots": {
+        "tag": "SUPABASE",
+        "stepMeta": "06 / 06",
+        "title": "Supabase Edge",
+        "titleAccent": "Postgres co-located",
+        "subtitle": "Deno functions running next to Postgres reduced data latency to sub-millisecond.",
+        "b1Title": "Database webhooks ready",
+        "b1Body": "Postgres triggers invoked edge functions directly on row changes.",
+        "b2Title": "Auth context native",
+        "b2Body": "JWT validation reused existing Supabase sessions with zero external calls.",
+        "b3Title": "Realtime broadcast mode",
+        "b3Body": "Edge functions published to WebSocket channels without hitting the origin.",
+        "cmdLine": "supabase functions deploy",
+        "outLine": "Serverless function up",
+        "okLine": "✓ OK",
+        "domainText": "supabase.co",
+        "pageOf": "06 / 06"
+      }
+    },
+    {
+      "layoutId": "cta-leak-dark",
+      "slots": {
+        "tag": "WRAP UP",
+        "eyebrow": "// pick your edge weapon",
+        "ctaLine1": "Deploy faster",
+        "ctaLine2": "sleep better",
+        "ctaBody": "Edge runtimes are production-standard in 2026. Choose isolation, speed, and zero cold starts.",
+        "btnPrimary": "Start building",
+        "btnGhost": "Read the report",
+        "meta1": "open source · MIT",
+        "meta2": "built in 2026",
+        "domainText": "edge.run",
+        "pageOf": "06 / 06"
+      }
+    }
+  ]
+}

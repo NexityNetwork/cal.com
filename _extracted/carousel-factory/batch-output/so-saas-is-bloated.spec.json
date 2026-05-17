@@ -1,0 +1,153 @@
+{
+  "id": "so-saas-is-bloated",
+  "brand": "LEAN STACK",
+  "brief": "Most SaaS is bloated by design — 6 lean alternatives that just do one thing.",
+  "theme": "shout-orange",
+  "slides": [
+    {
+      "layoutId": "cover-shout-orange",
+      "slots": {
+        "tag": "TOOL STACK",
+        "swipeNote": "WHY? SWIPE →",
+        "shoutLine1": "STOP USING",
+        "shoutLine2": "BLOATED SAAS",
+        "subQuestion": "Why pay for forty features when you only need one?",
+        "pageOf": "01 / 08"
+      }
+    },
+    {
+      "layoutId": "body-shout-orange",
+      "slots": {
+        "tag": "ANALYTICS",
+        "slideNum": "02",
+        "eyebrow": "Ditch the dashboard bloat",
+        "shoutLine1": "TRACK WHAT",
+        "shoutLine2": "ACTUALLY MATTERS",
+        "bodyLabel": "TRUTH",
+        "bodyText": "Plausible delivers <em>privacy-first</em> insights with a single lightweight script. No cookies, no consent banners, no endless reports.",
+        "statLabel1": "SIZE",
+        "statValue1": "1.4KB",
+        "statLabel2": "SETUP",
+        "statValue2": "60 SEC",
+        "statLabel3": "PRICE",
+        "statValue3": "$9/mo",
+        "swipeNote": "UP NEXT",
+        "pageOf": "02 / 08"
+      }
+    },
+    {
+      "layoutId": "body-shout-orange",
+      "slots": {
+        "tag": "SOCIAL",
+        "slideNum": "03",
+        "eyebrow": "Posting without the panic",
+        "shoutLine1": "BUFFER BEATS",
+        "shoutLine2": "THE ALGORITHM",
+        "bodyLabel": "EDGE",
+        "bodyText": "Buffer schedules, analyzes, and publishes without the <em>feature creep</em> of enterprise suites. One queue, zero headaches.",
+        "statLabel1": "PLATFORMS",
+        "statValue1": "5+",
+        "statLabel2": "TIME",
+        "statValue2": "2 HR/WK",
+        "statLabel3": "COST",
+        "statValue3": "$6/mo",
+        "swipeNote": "ONWARD",
+        "pageOf": "03 / 08"
+      }
+    },
+    {
+      "layoutId": "body-shout-orange",
+      "slots": {
+        "tag": "VIDEO",
+        "slideNum": "04",
+        "eyebrow": "Kill the status meeting",
+        "shoutLine1": "LOOM RECORDS",
+        "shoutLine2": "YOUR THOUGHTS",
+        "bodyLabel": "WIN",
+        "bodyText": "Async video replaces <em>calendar chaos</em> with human context. Explain once, watch anytime, cancel the Zoom call.",
+        "statLabel1": "RETENTION",
+        "statValue1": "2.5x",
+        "statLabel2": "TIME",
+        "statValue2": "30 MIN",
+        "statLabel3": "VIEWS",
+        "statValue3": "UNLIMITED",
+        "swipeNote": "SWIPE ON",
+        "pageOf": "04 / 08"
+      }
+    },
+    {
+      "layoutId": "body-shout-orange",
+      "slots": {
+        "tag": "EMAIL",
+        "slideNum": "05",
+        "eyebrow": "Newsletters minus the noise",
+        "shoutLine1": "EMAIL MADE",
+        "shoutLine2": "FOR CREATORS",
+        "bodyLabel": "POINT",
+        "bodyText": "ConvertKit strips away <em>enterprise fluff</em> and focuses on sending beautiful emails that actually reach inboxes.",
+        "statLabel1": "LIST",
+        "statValue1": "1K FREE",
+        "statLabel2": "AUTOMATIONS",
+        "statValue2": "VISUAL",
+        "statLabel3": "DELIVERY",
+        "statValue3": "98%",
+        "swipeNote": "ALMOST THERE",
+        "pageOf": "05 / 08"
+      }
+    },
+    {
+      "layoutId": "body-shout-orange",
+      "slots": {
+        "tag": "SITES",
+        "slideNum": "06",
+        "eyebrow": "Launch in an afternoon",
+        "shoutLine1": "CARRD BUILDS",
+        "shoutLine2": "LANDING PAGES",
+        "bodyLabel": "VALUE",
+        "bodyText": "One-page sites that load instantly. No <em>plugin hell</em>, no hosting headaches, just a crisp URL that converts.",
+        "statLabel1": "SITES",
+        "statValue1": "3 FREE",
+        "statLabel2": "BUILD TIME",
+        "statValue2": "20 MIN",
+        "statLabel3": "SIZE",
+        "statValue3": "< 100KB",
+        "swipeNote": "TWO MORE",
+        "pageOf": "06 / 08"
+      }
+    },
+    {
+      "layoutId": "body-shout-orange",
+      "slots": {
+        "tag": "TIME",
+        "slideNum": "07",
+        "eyebrow": "End the email ping-pong",
+        "shoutLine1": "CALENDLY OWNS",
+        "shoutLine2": "YOUR SCHEDULE",
+        "bodyLabel": "POWER",
+        "bodyText": "Share one link and let prospects <em>book themselves</em>. No more timezone math or reply-all threads to set a call.",
+        "statLabel1": "INTEGRATIONS",
+        "statValue1": "6+",
+        "statLabel2": "REMINDERS",
+        "statValue2": "AUTO",
+        "statLabel3": "PRICE",
+        "statValue3": "FREE",
+        "swipeNote": "FINAL SLIDE",
+        "pageOf": "07 / 08"
+      }
+    },
+    {
+      "layoutId": "cta-shout-orange",
+      "slots": {
+        "tag": "FIN",
+        "eyebrow": "Build a leaner stack today",
+        "shoutLine1": "DITCH THE",
+        "shoutLine2": "BLOAT NOW",
+        "ctaBody": "Pick one tool. Swap it this week. Your workflow and wallet will thank you.",
+        "btnPrimary": "SAVE THIS LIST",
+        "btnGhost": "TAG A FOUNDER",
+        "footerMeta": "Built for makers",
+        "pageOf": "08 / 08"
+      }
+    }
+  ]
+}

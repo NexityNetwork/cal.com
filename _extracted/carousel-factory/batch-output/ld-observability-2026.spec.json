@@ -1,0 +1,168 @@
+{
+  "id": "ld-observability-2026",
+  "brand": "Observability.dev",
+  "brief": "Observability stack that actually catches incidents — 6 tools, real config.",
+  "theme": "leak-dark",
+  "slides": [
+    {
+      "layoutId": "cover-leak-dark",
+      "slots": {
+        "tag": "STACK DROP",
+        "dateMeta": "v1.0 · today",
+        "eyebrow": "// the obs stack that pages you",
+        "titleLine1": "Observability stack",
+        "titleLine2": "zero blindspots",
+        "filePath": "~/observability/stack.yml",
+        "codeComment": "configure once and alert everywhere",
+        "codeKeyword": "async",
+        "codeFn": "observe",
+        "codeArg": "production",
+        "codeReturn": "200",
+        "domainText": "observability.dev",
+        "swipeNote": "SCROLL"
+      }
+    },
+    {
+      "layoutId": "body-leak-dark",
+      "slots": {
+        "tag": "INSTRUMENT",
+        "stepMeta": "01 / 06",
+        "title": "Collect everything",
+        "titleAccent": "with OpenTelemetry",
+        "subtitle": "One agent captures metrics, logs, and traces without vendor lock-in.",
+        "b1Title": "Auto instrumentation enabled",
+        "b1Body": "Zero-code coverage for Node, Python, and Go services.",
+        "b2Title": "Unified export pipeline",
+        "b2Body": "Single collector exports to multiple backends simultaneously.",
+        "b3Title": "Context propagation headers",
+        "b3Body": "Trace IDs flow across every microservice boundary automatically.",
+        "cmdLine": "otelcol --config=config.yaml",
+        "outLine": "collector ready on :4317",
+        "okLine": "✓ READY",
+        "domainText": "observability.dev",
+        "pageOf": "01 / 06"
+      }
+    },
+    {
+      "layoutId": "body-leak-dark",
+      "slots": {
+        "tag": "METRICS",
+        "stepMeta": "02 / 06",
+        "title": "Store time series",
+        "titleAccent": "in Prometheus",
+        "subtitle": "Scrape service metrics and define alerting rules that actually fire.",
+        "b1Title": "Slice latency percentiles",
+        "b1Body": "Slice latency percentiles by endpoint and status code.",
+        "b2Title": "Pre-aggregate expensive queries",
+        "b2Body": "Aggregate queries ahead of time for instant dashboard loads.",
+        "b3Title": "Federated global storage",
+        "b3Body": "Global view across clusters with remote-write support.",
+        "cmdLine": "promtool check config prometheus.yml",
+        "outLine": "6 rules found, 0 errors",
+        "okLine": "✓ VALID",
+        "domainText": "observability.dev",
+        "pageOf": "02 / 06"
+      }
+    },
+    {
+      "layoutId": "body-leak-dark",
+      "slots": {
+        "tag": "LOGS",
+        "stepMeta": "03 / 06",
+        "title": "Indexless log search",
+        "titleAccent": "via Loki",
+        "subtitle": "Query terabytes of logs using labels instead of expensive indexing.",
+        "b1Title": "Label matcher filters",
+        "b1Body": "Filter by namespace, pod, and severity in milliseconds.",
+        "b2Title": "LogQL parsing pipelines",
+        "b2Body": "Extract JSON fields and calculate error rates from logs.",
+        "b3Title": "Grafana native integration",
+        "b3Body": "Jump from metric spike to relevant logs in one click.",
+        "cmdLine": "logcli query '{app=\\\"api\\\"}'",
+        "outLine": "streams: 12, entries: 8.4k",
+        "okLine": "✓ MATCHED",
+        "domainText": "observability.dev",
+        "pageOf": "03 / 06"
+      }
+    },
+    {
+      "layoutId": "body-leak-dark",
+      "slots": {
+        "tag": "TRACES",
+        "stepMeta": "04 / 06",
+        "title": "Distributed tracing",
+        "titleAccent": "with Tempo",
+        "subtitle": "Follow requests across services to find the exact failing span.",
+        "b1Title": "TraceQL attribute search",
+        "b1Body": "Find traces by duration, HTTP status, or custom attributes.",
+        "b2Title": "Object storage backend",
+        "b2Body": "Keep storage costs flat using S3 or GCS backends.",
+        "b3Title": "Span to metric links",
+        "b3Body": "Correlate traces to metrics and logs using shared exemplars.",
+        "cmdLine": "docker run grafana/tempo",
+        "outLine": "12 spans, 3 services",
+        "okLine": "✓ TRACED",
+        "domainText": "observability.dev",
+        "pageOf": "04 / 06"
+      }
+    },
+    {
+      "layoutId": "body-leak-dark",
+      "slots": {
+        "tag": "VISUALIZE",
+        "stepMeta": "05 / 06",
+        "title": "Unified dashboards",
+        "titleAccent": "in Grafana",
+        "subtitle": "One pane of glass for metrics, logs, traces, and on-call status.",
+        "b1Title": "Mixed datasource panels",
+        "b1Body": "Overlay Prometheus graphs with Loki annotations natively.",
+        "b2Title": "Alert state drilldowns",
+        "b2Body": "See firing alerts and drill into Tempo traces instantly.",
+        "b3Title": "Public dashboard sharing",
+        "b3Body": "Embed live dashboards for stakeholders without logins.",
+        "cmdLine": "docker run -p 3000:3000 grafana/grafana",
+        "outLine": "server listening on :3000",
+        "okLine": "✓ ACTIVE",
+        "domainText": "observability.dev",
+        "pageOf": "05 / 06"
+      }
+    },
+    {
+      "layoutId": "body-leak-dark",
+      "slots": {
+        "tag": "ALERT",
+        "stepMeta": "06 / 06",
+        "title": "Route incidents",
+        "titleAccent": "via Alertmanager",
+        "subtitle": "Deduplicate, group, and send alerts to Slack, PagerDuty, or webhooks.",
+        "b1Title": "Severity based routing",
+        "b1Body": "Route pages to the correct team based on severity.",
+        "b2Title": "Inhibit noisy alerts",
+        "b2Body": "Silence low-priority noise when critical alerts are firing.",
+        "b3Title": "On-call escalation hooks",
+        "b3Body": "Native PagerDuty integration with automatic escalation policies.",
+        "cmdLine": "amtool check-config alertmanager.yml",
+        "outLine": "3 routes, 2 receivers",
+        "okLine": "✓ CONFIGURED",
+        "domainText": "observability.dev",
+        "pageOf": "06 / 06"
+      }
+    },
+    {
+      "layoutId": "cta-leak-dark",
+      "slots": {
+        "tag": "WRAP UP",
+        "eyebrow": "// deploy the observability stack today",
+        "ctaLine1": "Stop flying blind",
+        "ctaLine2": "start observing",
+        "ctaBody": "Deploy this open-source observability stack in minutes with real configuration files and live examples.",
+        "btnPrimary": "Get the repo",
+        "btnGhost": "Read the docs",
+        "meta1": "open source · MIT",
+        "meta2": "built in 2025",
+        "domainText": "observability.dev",
+        "pageOf": "06 / 06"
+      }
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1080px;height:1350px;overflow:hidden;background:#0a0a0a;font-family:"Inter",sans-serif;color:#f5f5f5;-webkit-font-smoothing:antialiased}
+.outline{position:absolute;inset:24px;border:1px solid rgba(255,255,255,0.05);border-radius:32px;pointer-events:none;z-index:10}
+.grid-bg{position:absolute;inset:0;background-image:linear-gradient(rgba(255,255,255,0.025) 1px,transparent 1px),linear-gradient(90deg,rgba(255,255,255,0.025) 1px,transparent 1px);background-size:60px 60px;mask-image:radial-gradient(ellipse at 50% 60%,#000 0%,transparent 75%)}
+.tag-strip{position:absolute;top:80px;left:80px;right:80px;display:flex;justify-content:space-between;align-items:center}
+.tag-pill{display:inline-flex;align-items:center;gap:10px;padding:12px 22px;background:rgba(255,90,40,0.15);border:1px solid rgba(255,90,40,0.4);color:#ff7a3c;border-radius:50px;font-size:18px;font-weight:700;letter-spacing:0.12em;text-transform:uppercase}
+.tag-pill::before{content:"";width:8px;height:8px;border-radius:50%;background:#ff5722;box-shadow:0 0 12px #ff5722}
+.date-pill{font-family:"JetBrains Mono",monospace;font-size:16px;color:#9ca3af;font-weight:500}
+.headline-block{position:absolute;top:180px;left:80px;right:80px}
+.eyebrow{font-family:"JetBrains Mono",monospace;font-size:20px;font-weight:500;color:#ff7a3c;letter-spacing:0.06em;margin-bottom:18px}
+.headline{font-size:124px;font-weight:800;line-height:0.92;letter-spacing:-3px;color:#fafafa}
+.headline .accent{background:linear-gradient(180deg,#ff9959 0%,#ff5722 60%);-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent;filter:drop-shadow(0 0 40px rgba(255,90,40,0.4))}
+.preview-frame{position:absolute;top:640px;left:80px;right:80px;height:480px;background:#161616;border:1px solid rgba(255,255,255,0.08);border-radius:18px;overflow:hidden;display:flex;flex-direction:column;box-shadow:0 30px 80px rgba(255,90,40,0.15)}
+.pf-bar{height:42px;background:#1f1f1f;display:flex;align-items:center;padding:0 16px;gap:8px;border-bottom:1px solid rgba(255,255,255,0.06)}
+.pf-bar .d{width:12px;height:12px;border-radius:50%}
+.pf-bar .d.r{background:#ec4544}.pf-bar .d.y{background:#e5a73c}.pf-bar .d.g{background:#5cb95a}
+.pf-bar .path{margin-left:14px;font-family:"JetBrains Mono",monospace;font-size:13px;color:#71717a}
+.pf-body{flex:1;padding:24px 28px;font-family:"JetBrains Mono",monospace;font-size:18px;line-height:1.6;color:#cdd5df}
+.pf-body .com{color:#71717a}
+.pf-body .kw{color:#a78bfa}
+.pf-body .str{color:#86efac}
+.pf-body .fn{color:#ff7a3c}
+.pf-body .num{color:#fbbf24}
+.bottom-row{position:absolute;bottom:80px;left:80px;right:80px;display:flex;justify-content:space-between;align-items:center}
+.handle{display:inline-flex;align-items:center;gap:10px;padding:12px 22px;background:rgba(255,255,255,0.05);border:1px solid rgba(255,255,255,0.1);color:#cdd5df;border-radius:50px;font-size:18px;font-weight:500}
+.handle .globe{width:18px;height:18px;border:1.5px solid #cdd5df;border-radius:50%;position:relative}
+.handle .globe::before{content:"";position:absolute;top:50%;left:1px;right:1px;height:1.5px;background:#cdd5df}
+.swipe{font-size:18px;color:#9ca3af;font-weight:500;letter-spacing:0.06em;text-transform:uppercase}
+</style></head>
+<body>
+<div class="grid-bg"></div>
+<div class="outline"></div>
+<div class="tag-strip"><div class="tag-pill">{{tag}}</div><div class="date-pill">{{dateMeta}}</div></div>
+<div class="headline-block">
+  <div class="eyebrow">{{eyebrow}}</div>
+  <div class="headline">{{titleLine1}}<br><span class="accent">{{titleLine2}}</span></div>
+</div>
+<div class="preview-frame">
+  <div class="pf-bar"><div class="d r"></div><div class="d y"></div><div class="d g"></div><div class="path">{{filePath}}</div></div>
+  <div class="pf-body">
+    <span class="com">// {{codeComment}}</span><br>
+    <span class="kw">{{codeKeyword}}</span> <span class="fn">{{codeFn}}</span>(<span class="str">"{{codeArg}}"</span>) {<br>
+    &nbsp;&nbsp;<span class="kw">return</span> <span class="num">{{codeReturn}}</span>;<br>
+    }
+  </div>
+</div>
+<div class="bottom-row"><div class="handle"><div class="globe"></div><span>{{domainText}}</span></div><div class="swipe">{{swipeNote}} →</div></div>
+</body></html>

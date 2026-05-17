@@ -1,0 +1,168 @@
+{
+  "id": "ld-data-pipelines",
+  "brand": "factory.dev",
+  "brief": "Data pipelines for one-person teams — 6 setups that scale to billions of rows.",
+  "theme": "leak-dark",
+  "slides": [
+    {
+      "layoutId": "cover-leak-dark",
+      "slots": {
+        "tag": "NEW DROP",
+        "dateMeta": "v1.0 · today",
+        "eyebrow": "// build pipelines that scale solo",
+        "titleLine1": "Data Pipelines",
+        "titleLine2": "Billions Ready",
+        "filePath": "~/pipeline/ingest.ts",
+        "codeComment": "scale from laptop to cloud",
+        "codeKeyword": "async",
+        "codeFn": "ingest",
+        "codeArg": "s3://lake",
+        "codeReturn": "200",
+        "domainText": "factory.dev",
+        "swipeNote": "SCROLL"
+      }
+    },
+    {
+      "layoutId": "body-leak-dark",
+      "slots": {
+        "tag": "SETUP 1",
+        "stepMeta": "01 / 06",
+        "title": "DuckDB Lake",
+        "titleAccent": "Serverless",
+        "subtitle": "Query billions of Parquet rows directly from object storage with zero infrastructure.",
+        "b1Title": "S3 Compatible Object Storage",
+        "b1Body": "Store partitioned Parquet files cheaply without managing a database cluster.",
+        "b2Title": "In-Process Query Engine",
+        "b2Body": "DuckDB runs inside your script, eliminating network latency entirely.",
+        "b3Title": "Zero Infrastructure Cost",
+        "b3Body": "Pay only for storage and the compute of the machine running queries.",
+        "cmdLine": "duckdb -c \"SELECT * FROM '*.parquet'\"",
+        "outLine": "1.2B rows scanned in 3.4s",
+        "okLine": "✓ DONE",
+        "domainText": "factory.dev",
+        "pageOf": "01 / 06"
+      }
+    },
+    {
+      "layoutId": "body-leak-dark",
+      "slots": {
+        "tag": "SETUP 2",
+        "stepMeta": "02 / 06",
+        "title": "dbt Cloud",
+        "titleAccent": "Warehouse",
+        "subtitle": "Transform terabytes inside BigQuery using SQL and built-in incremental models.",
+        "b1Title": "SQL First Transformation",
+        "b1Body": "Write pure SQL models that compile down to optimized warehouse queries.",
+        "b2Title": "Incremental Model Builds",
+        "b2Body": "Process only new rows on each run to keep costs predictable.",
+        "b3Title": "Automated Test And Deploy",
+        "b3Body": "Automated testing and documentation generate with every pull request.",
+        "cmdLine": "dbt build --select tag:daily",
+        "outLine": "42 models, 8.7s",
+        "okLine": "✓ PASS",
+        "domainText": "factory.dev",
+        "pageOf": "02 / 06"
+      }
+    },
+    {
+      "layoutId": "body-leak-dark",
+      "slots": {
+        "tag": "SETUP 3",
+        "stepMeta": "03 / 06",
+        "title": "ClickHouse OLAP",
+        "titleAccent": "Single Node",
+        "subtitle": "Ingest millions of events per second on a single node before sharding.",
+        "b1Title": "Columnar MergeTree Engine",
+        "b1Body": "Columnar storage with automatic partitioning keeps query speeds sub-second.",
+        "b2Title": "Materialized View Aggregates",
+        "b2Body": "Pre-aggregate streams on ingestion to remove heavy compute at read time.",
+        "b3Title": "Simple Cluster Sharding",
+        "b3Body": "Scale out to distributed clusters when one node finally hits its ceiling.",
+        "cmdLine": "clickhouse-client --query \"SELECT count() FROM events\"",
+        "outLine": "2.1M rows/s inserted",
+        "okLine": "✓ LIVE",
+        "domainText": "factory.dev",
+        "pageOf": "03 / 06"
+      }
+    },
+    {
+      "layoutId": "body-leak-dark",
+      "slots": {
+        "tag": "SETUP 4",
+        "stepMeta": "04 / 06",
+        "title": "Spark Local",
+        "titleAccent": "To Cluster",
+        "subtitle": "Prototype on your laptop, then promote the same code to a managed cluster.",
+        "b1Title": "Unified Spark API",
+        "b1Body": "Use PySpark or Scala locally with identical syntax to production clusters.",
+        "b2Title": "Adaptive Query Execution",
+        "b2Body": "Spark optimizes shuffles and joins automatically as data volume grows.",
+        "b3Title": "Managed Cluster Jump",
+        "b3Body": "Move from local mode to Dataproc or EMR without rewriting any logic.",
+        "cmdLine": "spark-submit --master local[*] process.py",
+        "outLine": "stage 4/4 8.5B rows",
+        "okLine": "✓ DONE",
+        "domainText": "factory.dev",
+        "pageOf": "04 / 06"
+      }
+    },
+    {
+      "layoutId": "body-leak-dark",
+      "slots": {
+        "tag": "SETUP 5",
+        "stepMeta": "05 / 06",
+        "title": "Polars DataFrame",
+        "titleAccent": "Engine",
+        "subtitle": "Rust-powered DataFrames that outperform Pandas by an order of magnitude.",
+        "b1Title": "Zero Copy Arrow Reads",
+        "b1Body": "Apache Arrow memory format lets you scan files without deserialization overhead.",
+        "b2Title": "Lazy Query Planning",
+        "b2Body": "Query plans optimize automatically before touching a single row on disk.",
+        "b3Title": "Out of Core Mode",
+        "b3Body": "Process datasets larger than RAM with automatic chunked execution.",
+        "cmdLine": "python -c \"pl.scan_parquet('*.pq').collect()\"",
+        "outLine": "4.3B rows, 12s",
+        "okLine": "✓ DONE",
+        "domainText": "factory.dev",
+        "pageOf": "05 / 06"
+      }
+    },
+    {
+      "layoutId": "body-leak-dark",
+      "slots": {
+        "tag": "SETUP 6",
+        "stepMeta": "06 / 06",
+        "title": "Dagster Pipelines",
+        "titleAccent": "As Code",
+        "subtitle": "Define data assets as code with built-in observability and partition backfills.",
+        "b1Title": "Software Defined Assets",
+        "b1Body": "Declare tables and files as assets instead of fragile task dependencies.",
+        "b2Title": "Partitioned Backfill Runs",
+        "b2Body": "Replay a single day or hour without rerunning the entire pipeline.",
+        "b3Title": "Built In Observability",
+        "b3Body": "Asset catalog and run logs surface failures before stakeholders notice.",
+        "cmdLine": "dagster job execute -j daily_rollup",
+        "outLine": "materialized 14 assets",
+        "okLine": "✓ OK",
+        "domainText": "factory.dev",
+        "pageOf": "06 / 06"
+      }
+    },
+    {
+      "layoutId": "cta-leak-dark",
+      "slots": {
+        "tag": "WRAP UP",
+        "eyebrow": "// start building pipelines today",
+        "ctaLine1": "Ship Pipelines",
+        "ctaLine2": "That Scale",
+        "ctaBody": "Grab the repo and deploy your first billion-row pipeline in under an hour. No team required.",
+        "btnPrimary": "Get Repo",
+        "btnGhost": "Read Docs",
+        "meta1": "open source · MIT",
+        "meta2": "built in 2025",
+        "domainText": "factory.dev",
+        "pageOf": "06 / 06"
+      }
+    }
+  ]
+}

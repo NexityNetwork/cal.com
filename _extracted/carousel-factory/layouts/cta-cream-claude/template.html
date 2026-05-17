@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Fraunces:ital,wght@0,400;1,400;1,600&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1080px;height:1350px;overflow:hidden;background:#f5efe2;font-family:"Inter",sans-serif;color:#1a1410;-webkit-font-smoothing:antialiased}
+.grid-bg{position:absolute;inset:0;background-image:linear-gradient(rgba(26,20,16,0.04) 1px,transparent 1px),linear-gradient(90deg,rgba(26,20,16,0.04) 1px,transparent 1px);background-size:80px 100px}
+.tag-strip{position:absolute;top:80px;left:80px;right:80px;display:flex;justify-content:space-between;align-items:center}
+.tag-pill{display:inline-flex;align-items:center;gap:10px;padding:12px 22px;background:#1a1410;color:#f5efe2;border-radius:50px;font-size:18px;font-weight:700;letter-spacing:0.1em;text-transform:uppercase}
+.center{position:absolute;top:50%;left:80px;right:80px;transform:translateY(-50%);text-align:center}
+.starburst{display:inline-block;width:54px;height:54px;position:relative;margin-bottom:28px}
+.starburst::before,.starburst::after{content:"";position:absolute;background:#d97757;left:50%;top:50%}
+.starburst::before{width:4px;height:54px;transform:translate(-50%,-50%)}
+.starburst::after{width:54px;height:4px;transform:translate(-50%,-50%)}
+.star-x{display:inline-block;width:54px;height:54px;position:absolute;left:50%;top:42px;transform:translateX(-50%)}
+.star-x::before,.star-x::after{content:"";position:absolute;background:#d97757;left:50%;top:50%;width:4px;height:40px}
+.star-x::before{transform:translate(-50%,-50%) rotate(45deg)}
+.star-x::after{transform:translate(-50%,-50%) rotate(-45deg)}
+.eyebrow{font-family:"Fraunces",serif;font-style:italic;font-size:36px;color:#52443a;margin-bottom:18px}
+.headline{font-size:148px;font-weight:900;line-height:0.86;letter-spacing:-4px;color:#1a1410;margin-bottom:30px}
+.headline .accent{color:#d97757}
+.headline .em{font-family:"Fraunces",serif;font-style:italic;font-weight:400;color:#52443a}
+.sub{font-size:28px;font-weight:400;color:#52443a;line-height:1.5;max-width:780px;margin:0 auto 44px}
+.btn-row{display:flex;justify-content:center;gap:16px;margin-bottom:32px}
+.btn-primary{padding:22px 44px;background:#1a1410;color:#f5efe2;border-radius:14px;font-size:22px;font-weight:700;letter-spacing:-0.2px}
+.btn-ghost{padding:22px 32px;background:transparent;border:1.5px solid #1a1410;color:#1a1410;border-radius:14px;font-size:20px;font-weight:600}
+.signoff{font-family:"Fraunces",serif;font-style:italic;font-size:24px;color:#52443a}
+.bottom-row{position:absolute;bottom:80px;left:80px;right:80px;display:flex;justify-content:space-between;align-items:center;color:#52443a}
+.bottom-row .domain{font-size:18px;font-weight:500}
+.bottom-row .page{font-size:18px;font-weight:500}
+</style></head>
+<body>
+<div class="grid-bg"></div>
+<div class="tag-strip"><div class="tag-pill">{{tag}}</div></div>
+<div class="center">
+  <div style="position:relative;height:60px;margin-bottom:24px"><div class="starburst"></div><div class="star-x"></div></div>
+  <div class="eyebrow">{{eyebrow}}</div>
+  <div class="headline">{{ctaLine1}}<br><span class="accent">{{ctaAccent}}</span> <span class="em">{{ctaItalic}}</span></div>
+  <div class="sub">{{ctaBody}}</div>
+  <div class="btn-row"><div class="btn-primary">{{btnPrimary}}</div><div class="btn-ghost">{{btnGhost}}</div></div>
+  <div class="signoff">{{signoff}}</div>
+</div>
+<div class="bottom-row"><div class="domain">{{domainText}}</div><div class="page">{{pageOf}}</div></div>
+</body></html>

@@ -1,0 +1,153 @@
+{
+  "id": "so-stop-microservices",
+  "brand": "TECH TAKES",
+  "brief": "Stop splitting things into microservices until you have a real reason.",
+  "theme": "shout-orange",
+  "slides": [
+    {
+      "layoutId": "cover-shout-orange",
+      "slots": {
+        "tag": "HOT TAKE",
+        "swipeNote": "Why? swipe →",
+        "shoutLine1": "STOP RUSHING",
+        "shoutLine2": "TO MICROSERVICES",
+        "subQuestion": "If you can't ship a monolith, why would twenty services save you?",
+        "pageOf": "01 / 08"
+      }
+    },
+    {
+      "layoutId": "body-shout-orange",
+      "slots": {
+        "tag": "THE LIE",
+        "slideNum": "02",
+        "eyebrow": "everyone wants to be netflix",
+        "shoutLine1": "YOU ARE NOT",
+        "shoutLine2": "AT NETFLIX SCALE",
+        "bodyLabel": "REAL TALK",
+        "bodyText": "Microservices are not a magic fix for messy code. <em>Complexity is a tax</em> you pay every single deploy.",
+        "statLabel1": "COMPLEXITY",
+        "statValue1": "10x",
+        "statLabel2": "COST",
+        "statValue2": "+$5k",
+        "statLabel3": "TIME",
+        "statValue3": "3x",
+        "swipeNote": "swipe for more",
+        "pageOf": "02 / 08"
+      }
+    },
+    {
+      "layoutId": "body-shout-orange",
+      "slots": {
+        "tag": "THE TRUTH",
+        "slideNum": "03",
+        "eyebrow": "monoliths move faster early on",
+        "shoutLine1": "ONE CODEBASE",
+        "shoutLine2": "ZERO DRAMA",
+        "bodyLabel": "WHY IT WORKS",
+        "bodyText": "A single deploy means <em>one pipeline</em> to debug and one place to trace failures. Ship now, split later.",
+        "statLabel1": "DEPLOYS",
+        "statValue1": "DAILY",
+        "statLabel2": "DEBUG",
+        "statValue2": "EASY",
+        "statLabel3": "COST",
+        "statValue3": "$0",
+        "swipeNote": "what comes next",
+        "pageOf": "03 / 08"
+      }
+    },
+    {
+      "layoutId": "body-shout-orange",
+      "slots": {
+        "tag": "RED FLAGS",
+        "slideNum": "04",
+        "eyebrow": "when microservices actually hurt you",
+        "shoutLine1": "NETWORK FAILS",
+        "shoutLine2": "AND DATA SPLITS",
+        "bodyLabel": "WATCH OUT",
+        "bodyText": "Distributed transactions are nightmares. <em>Eventual consistency</em> means your users see wrong states while you chase bugs across ten repos.",
+        "statLabel1": "LATENCY",
+        "statValue1": "+200ms",
+        "statLabel2": "RETRIES",
+        "statValue2": "5x",
+        "statLabel3": "COST",
+        "statValue3": "+$8k",
+        "swipeNote": "keep on swiping",
+        "pageOf": "04 / 08"
+      }
+    },
+    {
+      "layoutId": "body-shout-orange",
+      "slots": {
+        "tag": "THE FIX",
+        "slideNum": "05",
+        "eyebrow": "modular monoliths are the cheat code",
+        "shoutLine1": "CLEAN MODULES",
+        "shoutLine2": "ONE DEPLOY",
+        "bodyLabel": "THE HACK",
+        "bodyText": "Build bounded contexts inside a single app. <em>Split by domain</em>, not by network calls, and extract later when metrics demand it.",
+        "statLabel1": "SPEED",
+        "statValue1": "10x",
+        "statLabel2": "COST",
+        "statValue2": "$0",
+        "statLabel3": "RISK",
+        "statValue3": "LOW",
+        "swipeNote": "almost there folks",
+        "pageOf": "05 / 08"
+      }
+    },
+    {
+      "layoutId": "body-shout-orange",
+      "slots": {
+        "tag": "REAL TALK",
+        "slideNum": "06",
+        "eyebrow": "only split when the pain is real",
+        "shoutLine1": "SCALE FIRST",
+        "shoutLine2": "THEN SPLIT",
+        "bodyLabel": "THE RULE",
+        "bodyText": "Wait for <em>team autonomy</em> or <em>deploy conflicts</em> before you pay the microservices tax. Premature splitting is just expensive procrastination.",
+        "statLabel1": "TEAMS",
+        "statValue1": "5+",
+        "statLabel2": "SCALE",
+        "statValue2": "YES",
+        "statLabel3": "COST",
+        "statValue3": "WORTH",
+        "swipeNote": "one more slide",
+        "pageOf": "06 / 08"
+      }
+    },
+    {
+      "layoutId": "body-shout-orange",
+      "slots": {
+        "tag": "RECAP",
+        "slideNum": "07",
+        "eyebrow": "keep it simple until it hurts",
+        "shoutLine1": "MONOLITH FIRST",
+        "shoutLine2": "SPLIT LATER",
+        "bodyLabel": "BOTTOM LINE",
+        "bodyText": "Complexity kills momentum. <em>Resist the hype</em>, ship a solid monolith, and break services only when your data proves you must.",
+        "statLabel1": "HYPE",
+        "statValue1": "0",
+        "statLabel2": "FOCUS",
+        "statValue2": "MAX",
+        "statLabel3": "SHIP",
+        "statValue3": "NOW",
+        "swipeNote": "get the guide",
+        "pageOf": "07 / 08"
+      }
+    },
+    {
+      "layoutId": "cta-shout-orange",
+      "slots": {
+        "tag": "FIN",
+        "eyebrow": "now go build the right way",
+        "ctaLine1": "GRAB THE",
+        "ctaLine2": "FREE CHECKLIST",
+        "ctaBody": "Get the 5 signs you're splitting too early and what to build instead. Link in bio.",
+        "btnPrimary": "GRAB THE LIST",
+        "btnGhost": "TAG A FRIEND",
+        "footerMeta": "LINK IN BIO",
+        "pageOf": "08 / 08"
+      }
+    }
+  ]
+}

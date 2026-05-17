@@ -1,0 +1,171 @@
+{
+  "id": "cc-rest-vs-rpc",
+  "brand": "API Patterns",
+  "brief": "REST vs RPC vs GraphQL — 6 calls real backend engineers make on real APIs.",
+  "theme": "cream-claude",
+  "slides": [
+    {
+      "layoutId": "cover-cream-claude",
+      "slots": {
+        "tag": "API DESIGN",
+        "handle": "api.51ultron.com",
+        "eyebrow": "Choosing the right interface style",
+        "titleLine1": "REST vs RPC vs",
+        "titleAccent": "GraphQL",
+        "titleItalic": "for real",
+        "subEyebrow": "WHY IT WORKS",
+        "subText": "Real backend engineers pick protocols based on <em>team velocity</em>, not hype. Here are the <em>six calls</em> that actually matter.",
+        "domainText": "api.51ultron.com",
+        "swipeNote": "READ"
+      }
+    },
+    {
+      "layoutId": "body-cream-claude",
+      "slots": {
+        "tag": "RPC",
+        "stepMeta": "01 / 06",
+        "sectionNum": "01",
+        "eyebrow": "CALL 01",
+        "title": "Health checks and",
+        "titleItalic": "internal commands",
+        "subtitle": "Microservices need fast, binary chatter behind the firewall.",
+        "codeComment": "// gRPC service proto definition",
+        "codeKeyword": "service",
+        "codeFn": "Check",
+        "codeArg": "HealthRequest",
+        "b1Title": "Low latency binary",
+        "b1Body": "Protobuf shrinks payloads and skips HTTP verb debates entirely.",
+        "b2Title": "Strict typed contracts",
+        "b2Body": "Generated stubs keep server and client in lockstep on every deploy.",
+        "domainText": "api.51ultron.com",
+        "pageOf": "02 / 08"
+      }
+    },
+    {
+      "layoutId": "body-cream-claude",
+      "slots": {
+        "tag": "REST",
+        "stepMeta": "02 / 06",
+        "sectionNum": "02",
+        "eyebrow": "CALL 02",
+        "title": "Fetch a single",
+        "titleItalic": "resource by ID",
+        "subtitle": "When caching and predictability matter more than payload size.",
+        "codeComment": "// canonical REST resource endpoint",
+        "codeKeyword": "GET",
+        "codeFn": "users",
+        "codeArg": ":id",
+        "b1Title": "CDN friendly cache",
+        "b1Body": "ETags and Cache-Control headers make repeated lookups essentially free.",
+        "b2Title": "Clear REST intent",
+        "b2Body": "HTTP verbs map cleanly to CRUD, onboarding juniors in minutes.",
+        "domainText": "api.51ultron.com",
+        "pageOf": "03 / 08"
+      }
+    },
+    {
+      "layoutId": "body-cream-claude",
+      "slots": {
+        "tag": "GRAPHQL",
+        "stepMeta": "03 / 06",
+        "sectionNum": "03",
+        "eyebrow": "CALL 03",
+        "title": "Query nested relational",
+        "titleItalic": "data graphs",
+        "subtitle": "One round-trip for a user, their posts, and comment authors.",
+        "codeComment": "// declarative nested data query",
+        "codeKeyword": "query",
+        "codeFn": "GetUser",
+        "codeArg": "posts { title }",
+        "b1Title": "Precise payload shape",
+        "b1Body": "Clients request exactly what they need, reducing over-fetching waste.",
+        "b2Title": "Single request graph",
+        "b2Body": "No more orchestrating five REST calls just to paint a dashboard.",
+        "domainText": "api.51ultron.com",
+        "pageOf": "04 / 08"
+      }
+    },
+    {
+      "layoutId": "body-cream-claude",
+      "slots": {
+        "tag": "RPC",
+        "stepMeta": "04 / 06",
+        "sectionNum": "04",
+        "eyebrow": "CALL 04",
+        "title": "Execute a remote",
+        "titleItalic": "command",
+        "subtitle": "Some operations are verbs, not nouns, and that is perfectly fine.",
+        "codeComment": "// action oriented RPC command",
+        "codeKeyword": "rpc",
+        "codeFn": "Refund",
+        "codeArg": "orderId",
+        "b1Title": "Verb first clarity",
+        "b1Body": "Charge, capture, and refund map to business events without URL yoga.",
+        "b2Title": "Stream when needed",
+        "b2Body": "Bidirectional flows handle real-time logs and push notifications easily.",
+        "domainText": "api.51ultron.com",
+        "pageOf": "05 / 08"
+      }
+    },
+    {
+      "layoutId": "body-cream-claude",
+      "slots": {
+        "tag": "REST",
+        "stepMeta": "05 / 06",
+        "sectionNum": "05",
+        "eyebrow": "CALL 05",
+        "title": "Paginate and filter",
+        "titleItalic": "collections",
+        "subtitle": "Standard query parameters keep list endpoints simple and cacheable.",
+        "codeComment": "// paginated list with filters",
+        "codeKeyword": "GET",
+        "codeFn": "invoices",
+        "codeArg": "?status=paid",
+        "b1Title": "Bookmarkable filter URLs",
+        "b1Body": "Every filtered view is a shareable link that hits the same cache key.",
+        "b2Title": "Mature middleware stack",
+        "b2Body": "OAuth, rate limiting, and middleware are battle-tested over decades.",
+        "domainText": "api.51ultron.com",
+        "pageOf": "06 / 08"
+      }
+    },
+    {
+      "layoutId": "body-cream-claude",
+      "slots": {
+        "tag": "GRAPHQL",
+        "stepMeta": "06 / 06",
+        "sectionNum": "06",
+        "eyebrow": "CALL 06",
+        "title": "Aggregate from many",
+        "titleItalic": "services",
+        "subtitle": "A unified gateway stitches microservices into one typed schema.",
+        "codeComment": "// gateway aggregation schema root",
+        "codeKeyword": "type",
+        "codeFn": "Query",
+        "codeArg": "user: User",
+        "b1Title": "Backend for frontend",
+        "b1Body": "Mobile and web teams each consume tailored views of the same graph.",
+        "b2Title": "Strong schema types",
+        "b2Body": "Strong typing catches breaking changes before they reach production.",
+        "domainText": "api.51ultron.com",
+        "pageOf": "07 / 08"
+      }
+    },
+    {
+      "layoutId": "cta-cream-claude",
+      "slots": {
+        "tag": "WRAP",
+        "eyebrow": "Build interfaces that last",
+        "ctaLine1": "Pick the right",
+        "ctaAccent": "protocol",
+        "ctaItalic": "every time",
+        "ctaBody": "Great engineers match the tool to the constraint. <em>Subscribe</em> for weekly API deep dives and real-world patterns.",
+        "btnPrimary": "Get the guide",
+        "btnGhost": "Read more",
+        "signoff": "Ship faster, break less",
+        "domainText": "api.51ultron.com",
+        "pageOf": "08 / 08"
+      }
+    }
+  ]
+}

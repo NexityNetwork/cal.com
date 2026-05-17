@@ -1,0 +1,153 @@
+{
+  "id": "so-dx-is-everything",
+  "brand": "STACKTONE",
+  "brief": "Developer experience is the only real moat — 6 takes on why DX wins.",
+  "theme": "shout-orange",
+  "slides": [
+    {
+      "layoutId": "cover-shout-orange",
+      "slots": {
+        "tag": "HOT TAKE",
+        "swipeNote": "Swipe for proof →",
+        "shoutLine1": "DX IS THE",
+        "shoutLine2": "ONLY REAL MOAT",
+        "subQuestion": "Why does developer experience beat every other competitive advantage?",
+        "pageOf": "01 / 08"
+      }
+    },
+    {
+      "layoutId": "body-shout-orange",
+      "slots": {
+        "tag": "ONBOARDING",
+        "slideNum": "02",
+        "eyebrow": "The first commit tells all.",
+        "shoutLine1": "FASTER SETUP",
+        "shoutLine2": "HAPPY DEVS",
+        "bodyLabel": "WHY IT MATTERS",
+        "bodyText": "Developers abandon tools that waste their weekend. <em>Zero-config onboarding</em> isn't lazy—it's a conversion funnel.",
+        "statLabel1": "SETUP TIME",
+        "statValue1": "-80%",
+        "statLabel2": "CHURN RATE",
+        "statValue2": "-40%",
+        "statLabel3": "ADOPTION",
+        "statValue3": "3x",
+        "swipeNote": "Next take →",
+        "pageOf": "02 / 08"
+      }
+    },
+    {
+      "layoutId": "body-shout-orange",
+      "slots": {
+        "tag": "DOCS",
+        "slideNum": "03",
+        "eyebrow": "If they read, they stay.",
+        "shoutLine1": "WRITE DOCS",
+        "shoutLine2": "LIKE PRODUCT",
+        "bodyLabel": "THE REALITY",
+        "bodyText": "Bad documentation is an unpaid support tax. <em>Great docs</em> scale your team without scaling headcount.",
+        "statLabel1": "SUPPORT TICKETS",
+        "statValue1": "-60%",
+        "statLabel2": "TIME LOST",
+        "statValue2": "12 hrs",
+        "statLabel3": "NPS",
+        "statValue3": "+35",
+        "swipeNote": "More proof →",
+        "pageOf": "03 / 08"
+      }
+    },
+    {
+      "layoutId": "body-shout-orange",
+      "slots": {
+        "tag": "ERGONOMICS",
+        "slideNum": "04",
+        "eyebrow": "Intuitive beats powerful every time.",
+        "shoutLine1": "NAMES THAT",
+        "shoutLine2": "JUST CLICK",
+        "bodyLabel": "THE PATTERN",
+        "bodyText": "Predictable APIs reduce cognitive load. When <em>functions feel obvious</em>, developers defend your tool like it's their own.",
+        "statLabel1": "COGNITIVE LOAD",
+        "statValue1": "-50%",
+        "statLabel2": "REWORK",
+        "statValue2": "-30%",
+        "statLabel3": "LOVE",
+        "statValue3": "99%",
+        "swipeNote": "Swipe on →",
+        "pageOf": "04 / 08"
+      }
+    },
+    {
+      "layoutId": "body-shout-orange",
+      "slots": {
+        "tag": "DEBUGGING",
+        "slideNum": "05",
+        "eyebrow": "Panic is a churn event.",
+        "shoutLine1": "FIX THE",
+        "shoutLine2": "STACK TRACE",
+        "bodyLabel": "WHY IT HURTS",
+        "bodyText": "Cryptic errors destroy confidence in seconds. <em>Actionable messages</em> turn frustration into five-star GitHub stars.",
+        "statLabel1": "DEBUG TIME",
+        "statValue1": "-70%",
+        "statLabel2": "RAGE QUITS",
+        "statValue2": "-55%",
+        "statLabel3": "TRUST",
+        "statValue3": "10x",
+        "swipeNote": "Still going →",
+        "pageOf": "05 / 08"
+      }
+    },
+    {
+      "layoutId": "body-shout-orange",
+      "slots": {
+        "tag": "TOOLING",
+        "slideNum": "06",
+        "eyebrow": "CLI is the new homepage.",
+        "shoutLine1": "YOUR CLI",
+        "shoutLine2": "IS BRANDING",
+        "bodyLabel": "THE MOAT",
+        "bodyText": "A beautiful terminal experience signals craft. Developers <em>promote tools</em> that respect their workflow and their time.",
+        "statLabel1": "SHARE RATE",
+        "statValue1": "+120%",
+        "statLabel2": "TIME",
+        "statValue2": "-45%",
+        "statLabel3": "HYPE",
+        "statValue3": "MAX",
+        "swipeNote": "Almost there →",
+        "pageOf": "06 / 08"
+      }
+    },
+    {
+      "layoutId": "body-shout-orange",
+      "slots": {
+        "tag": "RETENTION",
+        "slideNum": "07",
+        "eyebrow": "Great DX is retention engineering.",
+        "shoutLine1": "HAPPY DEVS",
+        "shoutLine2": "DON'T LEAVE",
+        "bodyLabel": "THE MATH",
+        "bodyText": "Switching costs drop when tools spark joy. <em>Developer love</em> is the only lock-in that survives open source.",
+        "statLabel1": "LIFETIME VALUE",
+        "statValue1": "4x",
+        "statLabel2": "REFERRALS",
+        "statValue2": "+90%",
+        "statLabel3": "COST",
+        "statValue3": "$0",
+        "swipeNote": "Final thought →",
+        "pageOf": "07 / 08"
+      }
+    },
+    {
+      "layoutId": "cta-shout-orange",
+      "slots": {
+        "tag": "FIN",
+        "eyebrow": "Build the experience they remember.",
+        "ctaLine1": "START WITH",
+        "ctaLine2": "THE DEVS",
+        "ctaBody": "Download the DX audit checklist and turn your tooling into your biggest competitive advantage.",
+        "btnPrimary": "GRAB THE LIST",
+        "btnGhost": "Share with a friend",
+        "footerMeta": "Built for devs",
+        "pageOf": "08 / 08"
+      }
+    }
+  ]
+}

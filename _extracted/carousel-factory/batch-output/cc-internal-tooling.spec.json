@@ -1,0 +1,171 @@
+{
+  "id": "cc-internal-tooling",
+  "brand": "factory.51ultron.com",
+  "brief": "6 internal tools every fast-shipping team builds before raising a seed round.",
+  "theme": "cream-claude",
+  "slides": [
+    {
+      "layoutId": "cover-cream-claude",
+      "slots": {
+        "tag": "TOOLS",
+        "handle": "factory.51ultron.com",
+        "eyebrow": "fast teams ship faster",
+        "titleLine1": "Build these",
+        "titleAccent": "six tools",
+        "titleItalic": "before you raise",
+        "subEyebrow": "WHY IT WORKS",
+        "subText": "Internal tooling is <em>compound interest</em> for engineering velocity. Ship now, scale later.",
+        "domainText": "factory.51ultron.com",
+        "swipeNote": "READ"
+      }
+    },
+    {
+      "layoutId": "body-cream-claude",
+      "slots": {
+        "tag": "SHIP",
+        "stepMeta": "02 / 08",
+        "sectionNum": "1",
+        "eyebrow": "FEATURE FLAGS",
+        "title": "Ship with feature flags",
+        "titleItalic": "without fear",
+        "subtitle": "Toggle functionality for subsets of users before global rollout.",
+        "codeComment": "// gate new logic",
+        "codeKeyword": "if",
+        "codeFn": "flag",
+        "codeArg": "new_dashboard",
+        "b1Title": "Kill switches",
+        "b1Body": "Instantly disable broken features without redeploying.",
+        "b2Title": "Canary releases",
+        "b2Body": "Test changes on 5% of traffic and monitor error rates.",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "02 / 08"
+      }
+    },
+    {
+      "layoutId": "body-cream-claude",
+      "slots": {
+        "tag": "ADMIN",
+        "stepMeta": "03 / 08",
+        "sectionNum": "2",
+        "eyebrow": "ADMIN PANEL",
+        "title": "Own your admin panel",
+        "titleItalic": "in-house",
+        "subtitle": "Stop relying on database clients to manage users and content.",
+        "codeComment": "// mount admin routes",
+        "codeKeyword": "route",
+        "codeFn": "get",
+        "codeArg": "/users",
+        "b1Title": "User management",
+        "b1Body": "Impersonate, suspend, and audit accounts in seconds.",
+        "b2Title": "Content ops",
+        "b2Body": "Edit records directly without engineering tickets.",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "03 / 08"
+      }
+    },
+    {
+      "layoutId": "body-cream-claude",
+      "slots": {
+        "tag": "TRACK",
+        "stepMeta": "04 / 08",
+        "sectionNum": "3",
+        "eyebrow": "EVENT PIPELINE",
+        "title": "Track every event",
+        "titleItalic": "from day one",
+        "subtitle": "Understand activation funnels with a first-party pipeline.",
+        "codeComment": "// capture user action",
+        "codeKeyword": "track",
+        "codeFn": "event",
+        "codeArg": "signup_complete",
+        "b1Title": "Funnel visibility",
+        "b1Body": "See exactly where users drop before paying.",
+        "b2Title": "Query speed",
+        "b2Body": "Answer product questions in minutes, not days.",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "04 / 08"
+      }
+    },
+    {
+      "layoutId": "body-cream-claude",
+      "slots": {
+        "tag": "SUPPORT",
+        "stepMeta": "05 / 08",
+        "sectionNum": "4",
+        "eyebrow": "SUPPORT CRM",
+        "title": "Support your users",
+        "titleItalic": "like a pro",
+        "subtitle": "Centralize conversations and context in one lightweight hub.",
+        "codeComment": "// fetch support thread",
+        "codeKeyword": "find",
+        "codeFn": "ticket",
+        "codeArg": "user_id",
+        "b1Title": "Full context",
+        "b1Body": "View session replay and billing next to every message.",
+        "b2Title": "Fast replies",
+        "b2Body": "Cut response time with canned snippets and macros.",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "05 / 08"
+      }
+    },
+    {
+      "layoutId": "body-cream-claude",
+      "slots": {
+        "tag": "DEPLOY",
+        "stepMeta": "06 / 08",
+        "sectionNum": "5",
+        "eyebrow": "AUTO DEPLOY",
+        "title": "Automate deploys",
+        "titleItalic": "end to end",
+        "subtitle": "Push to main and let robots test, build, and ship.",
+        "codeComment": "// run production deploy",
+        "codeKeyword": "run",
+        "codeFn": "deploy",
+        "codeArg": "production",
+        "b1Title": "Zero downtime",
+        "b1Body": "Blue-green releases keep the app live during updates.",
+        "b2Title": "Rollback ready",
+        "b2Body": "Revert to the last stable build with one click.",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "06 / 08"
+      }
+    },
+    {
+      "layoutId": "body-cream-claude",
+      "slots": {
+        "tag": "GROWTH",
+        "stepMeta": "07 / 08",
+        "sectionNum": "6",
+        "eyebrow": "USER ONBOARDING",
+        "title": "Own your onboarding",
+        "titleItalic": "and invites",
+        "subtitle": "Guide new users to value with custom flows and referral loops.",
+        "codeComment": "// trigger invite flow",
+        "codeKeyword": "send",
+        "codeFn": "invite",
+        "codeArg": "early_access",
+        "b1Title": "Self-serve setup",
+        "b1Body": "Reduce demo calls with step-by-step product tours.",
+        "b2Title": "Viral loops",
+        "b2Body": "Turn power users into growth channels with credits.",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "07 / 08"
+      }
+    },
+    {
+      "layoutId": "cta-cream-claude",
+      "slots": {
+        "tag": "WRAP",
+        "eyebrow": "build before you raise",
+        "ctaLine1": "Ship faster with",
+        "ctaAccent": "smart tools",
+        "ctaItalic": "today",
+        "ctaBody": "These six systems create the <em>velocity habit</em> investors want to see. Start with one this week.",
+        "btnPrimary": "Start Building",
+        "btnGhost": "Read More",
+        "signoff": "Happy shipping, stay building",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "08 / 08"
+      }
+    }
+  ]
+}

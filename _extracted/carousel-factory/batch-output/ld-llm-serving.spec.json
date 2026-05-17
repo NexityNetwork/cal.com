@@ -1,0 +1,168 @@
+{
+  "id": "ld-llm-serving",
+  "brand": "LLMOps",
+  "brief": "LLM serving without the GPU rental tax — 6 patterns running in prod.",
+  "theme": "leak-dark",
+  "slides": [
+    {
+      "layoutId": "cover-leak-dark",
+      "slots": {
+        "tag": "JUST SHIPPED",
+        "dateMeta": "v2.0 · today",
+        "eyebrow": "// skip the gpu rental tax",
+        "titleLine1": "Run LLMs",
+        "titleLine2": "without GPUs",
+        "filePath": "~/src/inference.ts",
+        "codeComment": "// deploy LLMs without the cloud GPU markup",
+        "codeKeyword": "async",
+        "codeFn": "serve",
+        "codeArg": "\"llama3\"",
+        "codeReturn": "200",
+        "domainText": "llmops.dev",
+        "swipeNote": "SCROLL"
+      }
+    },
+    {
+      "layoutId": "body-leak-dark",
+      "slots": {
+        "tag": "QUANTIZED",
+        "stepMeta": "01 / 06",
+        "title": "Shrink weights",
+        "titleAccent": "to INT4",
+        "subtitle": "Drop precision, not accuracy, and fit massive models into commodity RAM.",
+        "b1Title": "Four bit weight matrices",
+        "b1Body": "Weights compress to a quarter with negligible perplexity hit.",
+        "b2Title": "Run on CPU cores",
+        "b2Body": "llama.cpp turns any server into a host without a GPU.",
+        "b3Title": "Cut cold start time",
+        "b3Body": "Smaller files mean cold-start times drop by sixty percent.",
+        "cmdLine": "quantize --bits=4",
+        "outLine": "model.gguf 3.8 GB",
+        "okLine": "✓ DONE",
+        "domainText": "llmops.dev",
+        "pageOf": "01 / 06"
+      }
+    },
+    {
+      "layoutId": "body-leak-dark",
+      "slots": {
+        "tag": "KV CACHE",
+        "stepMeta": "02 / 06",
+        "title": "Cache keys",
+        "titleAccent": "in RAM",
+        "subtitle": "Reuse attention states across turns instead of recomputing from scratch every request.",
+        "b1Title": "Reuse attention states",
+        "b1Body": "Skip redundant matrix math by storing KV pairs per session.",
+        "b2Title": "Long context windows",
+        "b2Body": "Streaming cache lets you keep 128k tokens alive at once.",
+        "b3Title": "Lower latency per token",
+        "b3Body": "Second prompt returns in milliseconds because the graph is warm.",
+        "cmdLine": "cache --mode=stream",
+        "outLine": "kv_store 42 MB",
+        "okLine": "✓ READY",
+        "domainText": "llmops.dev",
+        "pageOf": "02 / 06"
+      }
+    },
+    {
+      "layoutId": "body-leak-dark",
+      "slots": {
+        "tag": "SPEC DECODE",
+        "stepMeta": "03 / 06",
+        "title": "Draft tokens",
+        "titleAccent": "in parallel",
+        "subtitle": "A tiny model guesses the next words so the big one verifies batches faster.",
+        "b1Title": "Small draft model",
+        "b1Body": "A 1B parameter assistant predicts three steps ahead for free.",
+        "b2Title": "Big model verifies",
+        "b2Body": "The main network checks guesses in a single batched forward pass.",
+        "b3Title": "Double token throughput",
+        "b3Body": "Acceptance rates above eighty percent mean fewer forward passes total.",
+        "cmdLine": "speculate --draft=1B",
+        "outLine": "accept 82%",
+        "okLine": "✓ FASTER",
+        "domainText": "llmops.dev",
+        "pageOf": "03 / 06"
+      }
+    },
+    {
+      "layoutId": "body-leak-dark",
+      "slots": {
+        "tag": "OFFLOAD",
+        "stepMeta": "04 / 06",
+        "title": "Split layers",
+        "titleAccent": "to CPU",
+        "subtitle": "ExLlama maps transformer layers between VRAM and system memory on demand.",
+        "b1Title": "Auto layer sharding",
+        "b1Body": "Hot layers live on GPU while cold weights stay in RAM.",
+        "b2Title": "Run 70B at home",
+        "b2Body": "Consumer cards with 24 GB VRAM can host models ten times larger.",
+        "b3Title": "Zero cloud spend",
+        "b3Body": "Stop renting A100s when your workstation can serve the same traffic.",
+        "cmdLine": "offload --ratio=0.3",
+        "outLine": "vram 18 GB",
+        "okLine": "✓ LOADED",
+        "domainText": "llmops.dev",
+        "pageOf": "04 / 06"
+      }
+    },
+    {
+      "layoutId": "body-leak-dark",
+      "slots": {
+        "tag": "BATCHING",
+        "stepMeta": "05 / 06",
+        "title": "Pack requests",
+        "titleAccent": "into blocks",
+        "subtitle": "vLLM squeezes concurrent users into the same GPU memory footprint with paging.",
+        "b1Title": "Use continuous batching",
+        "b1Body": "New prompts join the active batch without waiting for others to finish.",
+        "b2Title": "Use paged attention",
+        "b2Body": "Memory blocks allocate dynamically so KV cache never reserves empty padding space.",
+        "b3Title": "Triple request throughput",
+        "b3Body": "One cheap GPU now serves the traffic of three dedicated instances.",
+        "cmdLine": "vllm --max-batch=64",
+        "outLine": "avg 45 tok/s",
+        "okLine": "✓ SCALED",
+        "domainText": "llmops.dev",
+        "pageOf": "05 / 06"
+      }
+    },
+    {
+      "layoutId": "body-leak-dark",
+      "slots": {
+        "tag": "EDGE RUN",
+        "stepMeta": "06 / 06",
+        "title": "Ship models",
+        "titleAccent": "to devices",
+        "subtitle": "ONNX and llama.cpp let you serve inference on bare metal without cloud GPUs.",
+        "b1Title": "Run on premise servers",
+        "b1Body": "Keep data inside your network and skip every API egress fee.",
+        "b2Title": "ARM optimized kernels",
+        "b2Body": "Neon and Metal backends unlock phones and tablets as silent workers.",
+        "b3Title": "No rental fees",
+        "b3Body": "You bought the hardware once, so inference is now pure margin.",
+        "cmdLine": "edge --backend=onnx",
+        "outLine": "inference local",
+        "okLine": "✓ LIVE",
+        "domainText": "llmops.dev",
+        "pageOf": "06 / 06"
+      }
+    },
+    {
+      "layoutId": "cta-leak-dark",
+      "slots": {
+        "tag": "WRAP UP",
+        "eyebrow": "// stop renting GPUs today",
+        "ctaLine1": "Serve LLMs",
+        "ctaLine2": "rent free",
+        "ctaBody": "Cut your inference bill by ninety percent with these production-tested patterns. Deploy once, own forever.",
+        "btnPrimary": "Get the repo",
+        "btnGhost": "Read the docs",
+        "meta1": "open source · MIT",
+        "meta2": "built in 2025",
+        "domainText": "llmops.dev",
+        "pageOf": "08 / 08"
+      }
+    }
+  ]
+}
