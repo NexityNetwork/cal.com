@@ -83,6 +83,7 @@ const FAMILY_LAYOUTS = {
   "highlight-box":    { cover: "cover-highlight-box",   body: "body-highlight-box",   cta: "cta-highlight-box" },
   "stencil-stamp":    { cover: "cover-stencil-stamp",   body: "body-stencil-stamp",   cta: "cta-stencil-stamp" },
   "edu-bright":       { cover: "cover-edu-bright",      body: ["body-edu-bright-chart", "body-edu-bright-flow", "body-edu-bright-table"], cta: "cta-edu-bright" },
+  "terminal-glow":    { cover: "cover-terminal-glow",   body: "body-terminal-glow",   cta: "cta-terminal-glow" },
 };
 
 // CTA slot conventions, shared by all families:
@@ -357,6 +358,16 @@ body-edu-bright-flow (4-node flow diagram card): numLabel, handle, sectionLabel,
 body-edu-bright-table (4-row comparison table): numLabel, handle, sectionLabel, title, titleItalic, subtitle, colHead0 (uppercase mono 1-2 word column header like "MODEL"), colHead1 (mono 1-2 words like "COST"), colHead2 (mono 1-2 words like "SPEED"), colHead3 (mono 1-2 words like "SCORE"), row1Name..row4Name (4 short row names 1-3 words like "GPT-4o" / "Claude 3.5"), row1C1..row4C1 (4 short column-1 cell values), row1C2..row4C2 (4 short column-2 values), row1C3..row4C3 (4 short column-3 values — the "winner" row 3 gets highlighted), insightLabel, insightText, iconSlug1..iconSlug4 (4 row icons), iconSlug5..iconSlug8 (4 footer chip icons), pageOf.
 
 CTA cta-edu-bright: brandTag (1-2 uppercase words like "RECAP"), handle, eyebrow (3-6 italic-serif words), ctaLine1 (2-4 bold Inter words), ctaAccent (1-2 red-accent words), ctaItalic (1-3 italic Fraunces words like "this Friday"), recapLabel (italic 2-3 words like "the full stack"), iconSlug1..iconSlug6 (6 brand slugs full stack recap), ctaBody (1-2 sentences ≤30 words), btnPrimary (2-3 word primary CTA), btnGhost (2-3 word secondary), signoff (3-6 italic words), pageOf ("08 / 08").`,
+
+  "terminal-glow": `Layouts (deep #0a0e14 + 32px grid lines + #5fd9a8 mint-green terminal accent + JetBrains Mono throughout body chrome + huge Inter 900 headlines + faux-terminal windows showing commands & outputs — developer/CLI/devops aesthetic for hackers, SREs, CLI power-users).
+
+Uses iconSlug<N> brand-icon system (compose.js auto-renders SVG + brand color). Pass lowercase slugs for any brand mentioned.
+
+COVER cover-terminal-glow: brandTag (1-2 uppercase words like "DEVOPS" / "CLI TIPS"), handle (e.g. "@kernelhq" — terminal-feel handle), termTitle (faux file path like "~/devops/automation.sh" or "deploy-pipeline.yml"), cmdLine (a real-looking shell command ≤60 chars like "kubectl get pods --all-namespaces"), outLine (terminal output prefix ≤30 chars like "found 42 services across"), outHighlight (the highlighted suffix ≤14 chars like "12 clusters"), intro (3-6 italic-serif intro words like "the only CLI tools for"), titleLine1 (1-2 bold Inter words like "5 shell"), titleAccent (1-2 mint-green words like "secrets"), titleItalic (1-3 italic Fraunces words like "senior devs use"), stat1V..stat4V (4 short metric values like "47%" / "10x" / "0ms"), stat1L..stat4L (4 short uppercase labels 1-2 words like "FASTER"), iconSlug1..iconSlug5 (5 brand slugs), swipeLabel (1-2 words like "RUN"), pageOf ("01 / 08").
+
+BODY  body-terminal-glow: numLabel (uppercase like "CMD 02"), handle, sectionLabel (uppercase mono 2-3 words like "TRICK 02"), title (2-3 bold Inter words like "Pipe to"), titleAccent (1-2 mint words like "fzf"), titleItalic (1-3 italic Fraunces words like "for instant fuzzy search"), subtitle (1 sentence ≤22 words context for the trick), termTitle (file path/command name like "~/.zshrc" or "git-helpers.sh"), termBadge (uppercase short 1-2 words like "ZSH" / "BASH" / "DOCKER"), cmtLine (a # comment line ≤50 chars like "# replace cd with auto-complete jump"), cmd1/cmd2/cmd3 (3 real shell commands ≤60 chars each), out1/out2/out3 (3 short output prefixes ≤30 chars each), out1Hl/out2Hl/out3Hl (3 highlighted suffixes ≤14 chars each — could be numbers, paths, status), m1Value/m2Value/m3Value (3 short metric values like "47ms" / "10x"), m1Label/m2Label/m3Label (3 uppercase 1-2 word labels like "P99 LATENCY"), iconSlug1..iconSlug4 (4 brand slugs), pageOf ("02 / 08").
+
+CTA   cta-terminal-glow: brandTag (1-2 uppercase words like "WRAP"), handle, intro (3-6 italic-serif words like "now go ship faster"), ctaLine1 (2-4 bold Inter words like "Save this"), ctaAccent (1-2 mint-green words like "shell stack"), ctaItalic (1-3 italic Fraunces words like "for tomorrow"), recapLabel (uppercase 2-3 words like "FULL STACK"), iconSlug1..iconSlug6 (6 brand slugs), ctaBody (1-2 sentences ≤30 words with 1 <em>...</em>), btnPrimary (2-3 word primary CTA like "Bookmark Now"), btnGhost (2-3 word secondary like "Follow @kernelhq"), signoff (3-6 italic words like "ship fast, debug faster"), pageOf ("08 / 08").`,
 };
 
 const PROMPT_TEMPLATE = (brief, family) => `You are a carousel planner.
@@ -768,6 +779,13 @@ const BRIEFS = [
   { id: "eb-llm-eval-stack",          family: "edu-bright", text: "How to build an LLM eval stack — pipeline, metrics, and tools that actually catch drift." },
   { id: "eb-vector-db-comparison",    family: "edu-bright", text: "Vector DB showdown — 5 options compared on latency, cost, and indexing strategy." },
   { id: "eb-llm-fine-tuning",         family: "edu-bright", text: "5 fine-tuning techniques that beat prompting — benchmarks, costs, when to use each." },
+
+  // terminal-glow (developer/CLI/devops aesthetic — JetBrains Mono + faux terminal windows)
+  { id: "tg-shell-power-tips",        family: "terminal-glow", text: "5 shell tricks senior devs use daily — fzf, zoxide, eza, ripgrep, and bat." },
+  { id: "tg-kubectl-shortcuts",       family: "terminal-glow", text: "Top kubectl shortcuts and plugins that turn 10-line commands into 3 keystrokes." },
+  { id: "tg-git-deep-cuts",           family: "terminal-glow", text: "Git commands beyond commit/push — bisect, worktree, reflog, and how senior devs use them." },
+  { id: "tg-docker-debug-loop",       family: "terminal-glow", text: "5 docker commands that cut your debug loop in half — exec, logs, diff, and friends." },
+  { id: "tg-curl-cheatsheet",         family: "terminal-glow", text: "Curl beyond GET — auth headers, file upload, retries, and parallel requests in one tool." },
 ];
 
 // ─── Kimi planner with retry on JSON parse failure ─────────────────────────
