@@ -15,19 +15,20 @@ html,body{width:1080px;height:1350px;overflow:hidden;background:#faf6ed;font-fam
 .title .underline::after{content:"";position:absolute;left:-4px;right:-4px;bottom:-2px;height:12px;background:#d97757;opacity:0.45;border-radius:6px;z-index:-1}
 .title .accent{color:#d97757}
 .subtitle{font-size:22px;color:#5a4a3a;line-height:1.45;font-weight:500;max-width:920px;font-family:"Fraunces",serif;font-style:italic}
-.insights{flex:1;display:flex;flex-direction:column;gap:14px;min-height:0}
-.insight{flex:1;display:flex;align-items:stretch;gap:18px;padding:22px 26px;background:#ffffff;border:1px solid #e8dfc9;border-radius:18px;box-shadow:4px 4px 0 rgba(26,20,16,0.08);min-height:0}
-.insight .badge{width:64px;flex-shrink:0;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:4px;background:#faf6ed;border-radius:12px;border:1px solid #e8dfc9}
-.insight .badge .nm{font-family:"Fraunces",serif;font-style:italic;font-size:32px;font-weight:700;color:#d97757;line-height:1}
-.insight .badge .l{font-family:"JetBrains Mono",monospace;font-size:10px;color:#8a7a5a;letter-spacing:0.1em;text-transform:uppercase;font-weight:700}
-.insight .body{flex:1;min-width:0;display:flex;flex-direction:column;justify-content:center;gap:6px}
-.insight .body .ht{font-family:"Fraunces",serif;font-weight:700;font-size:26px;color:#1a1410;line-height:1.15}
+.insights{display:flex;flex-direction:column;gap:14px}
+.insight{display:flex;align-items:stretch;gap:22px;padding:30px 30px;background:#ffffff;border:1px solid #e8dfc9;border-radius:18px;box-shadow:4px 4px 0 rgba(26,20,16,0.08)}
+.insight .badge{width:88px;flex-shrink:0;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:6px;background:#faf6ed;border-radius:14px;border:1px solid #e8dfc9;padding:14px 8px}
+.insight .badge .nm{font-family:"Fraunces",serif;font-style:italic;font-size:48px;font-weight:700;color:#d97757;line-height:1}
+.insight .badge .l{font-family:"JetBrains Mono",monospace;font-size:13px;color:#8a7a5a;letter-spacing:0.12em;text-transform:uppercase;font-weight:700}
+.insight .body{flex:1;min-width:0;display:flex;flex-direction:column;justify-content:center;gap:10px}
+.insight .body .ht{font-family:"Fraunces",serif;font-weight:700;font-size:32px;color:#1a1410;line-height:1.15}
 .insight .body .ht em{font-style:italic;color:#d97757;font-weight:600}
-.insight .body .hs{font-size:17px;color:#5a4a3a;line-height:1.4;font-weight:500}
-.insight .arrow-note{display:flex;flex-direction:column;justify-content:center;align-items:center;gap:4px;width:120px;flex-shrink:0;padding:0 8px}
-.insight .arrow-note .doodle{font-family:"Caveat",cursive;font-size:18px;color:#8a7a5a;font-weight:600;line-height:1.15;text-align:center}
-.insight .arrow-note .pill{padding:7px 14px;background:#1a1410;color:#faf6ed;border-radius:50px;font-family:"JetBrains Mono",monospace;font-size:13px;font-weight:700;letter-spacing:0.06em;text-transform:uppercase}
-.author-line{display:flex;align-items:center;gap:14px;padding:18px 24px;background:#1a1410;border-radius:14px;color:#faf6ed}
+.insight .body .hs{font-size:20px;color:#5a4a3a;line-height:1.4;font-weight:500}
+.insight .arrow-note{display:flex;flex-direction:column;justify-content:center;align-items:flex-end;gap:8px;width:160px;flex-shrink:0;padding:0 6px}
+.insight .arrow-note .doodle{font-family:"Caveat",cursive;font-size:24px;color:#8a7a5a;font-weight:700;line-height:1.15;text-align:right}
+.insight .arrow-note .pill{padding:9px 16px;background:#1a1410;color:#faf6ed;border-radius:50px;font-family:"JetBrains Mono",monospace;font-size:15px;font-weight:700;letter-spacing:0.06em;text-transform:uppercase}
+.author-line{display:flex;align-items:center;gap:14px;padding:22px 26px;background:#1a1410;border-radius:14px;color:#faf6ed;margin-top:auto;position:relative}
+.author-line::before{content:"";position:absolute;left:0;right:0;top:-24px;border-top:1px dashed rgba(26,20,16,0.18)}
 .author-line .avatar{width:48px;height:48px;border-radius:50%;background:#d97757;display:flex;align-items:center;justify-content:center;color:#faf6ed;font-family:"Fraunces",serif;font-weight:700;font-size:22px;flex-shrink:0;border:2px solid #faf6ed}
 .author-line .info{flex:1;min-width:0}
 .author-line .quote{font-family:"Fraunces",serif;font-style:italic;font-size:20px;color:#faf6ed;line-height:1.3}
