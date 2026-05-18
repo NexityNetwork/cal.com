@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Fraunces:ital,wght@0,400;0,600;0,800;1,400;1,500;1,700&family=Caveat:wght@500;600;700&family=JetBrains+Mono:wght@500;700&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1080px;height:1350px;overflow:hidden;background:#faf6ed;font-family:"Inter",sans-serif;color:#1a1410;-webkit-font-smoothing:antialiased}
+.paper-grain{position:absolute;inset:0;background-image:radial-gradient(rgba(26,20,16,0.02) 1px,transparent 1px);background-size:6px 6px;opacity:0.6}
+.frame{position:absolute;inset:0;padding:60px;display:flex;flex-direction:column;gap:18px}
+.top-row{display:flex;justify-content:space-between;align-items:center}
+.num-pill{display:inline-flex;align-items:center;gap:10px;padding:10px 20px;background:#1a1410;color:#faf6ed;border-radius:50px;font-size:16px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase}
+.handle{font-family:"Caveat",cursive;font-size:26px;color:#8a7a5a;font-weight:600}
+.section{font-family:"Caveat",cursive;font-size:30px;color:#d97757;line-height:1;font-weight:700}
+.title{font-family:"Fraunces",serif;font-weight:700;font-size:72px;line-height:0.98;letter-spacing:-1.8px;color:#1a1410;font-style:italic;margin-top:-4px}
+.title .underline{position:relative;display:inline-block}
+.title .underline::after{content:"";position:absolute;left:-4px;right:-4px;bottom:-2px;height:12px;background:#d97757;opacity:0.45;border-radius:6px;z-index:-1}
+.title .accent{color:#d97757}
+.subtitle{font-size:22px;color:#5a4a3a;line-height:1.45;font-weight:500;max-width:920px;font-family:"Fraunces",serif;font-style:italic}
+.insights{flex:1;display:flex;flex-direction:column;gap:14px;min-height:0}
+.insight{flex:1;display:flex;align-items:stretch;gap:18px;padding:22px 26px;background:#ffffff;border:1px solid #e8dfc9;border-radius:18px;box-shadow:4px 4px 0 rgba(26,20,16,0.08);min-height:0}
+.insight .badge{width:64px;flex-shrink:0;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:4px;background:#faf6ed;border-radius:12px;border:1px solid #e8dfc9}
+.insight .badge .nm{font-family:"Fraunces",serif;font-style:italic;font-size:32px;font-weight:700;color:#d97757;line-height:1}
+.insight .badge .l{font-family:"JetBrains Mono",monospace;font-size:10px;color:#8a7a5a;letter-spacing:0.1em;text-transform:uppercase;font-weight:700}
+.insight .body{flex:1;min-width:0;display:flex;flex-direction:column;justify-content:center;gap:6px}
+.insight .body .ht{font-family:"Fraunces",serif;font-weight:700;font-size:26px;color:#1a1410;line-height:1.15}
+.insight .body .ht em{font-style:italic;color:#d97757;font-weight:600}
+.insight .body .hs{font-size:17px;color:#5a4a3a;line-height:1.4;font-weight:500}
+.insight .arrow-note{display:flex;flex-direction:column;justify-content:center;align-items:center;gap:4px;width:120px;flex-shrink:0;padding:0 8px}
+.insight .arrow-note .doodle{font-family:"Caveat",cursive;font-size:18px;color:#8a7a5a;font-weight:600;line-height:1.15;text-align:center}
+.insight .arrow-note .pill{padding:7px 14px;background:#1a1410;color:#faf6ed;border-radius:50px;font-family:"JetBrains Mono",monospace;font-size:13px;font-weight:700;letter-spacing:0.06em;text-transform:uppercase}
+.author-line{display:flex;align-items:center;gap:14px;padding:18px 24px;background:#1a1410;border-radius:14px;color:#faf6ed}
+.author-line .avatar{width:48px;height:48px;border-radius:50%;background:#d97757;display:flex;align-items:center;justify-content:center;color:#faf6ed;font-family:"Fraunces",serif;font-weight:700;font-size:22px;flex-shrink:0;border:2px solid #faf6ed}
+.author-line .info{flex:1;min-width:0}
+.author-line .quote{font-family:"Fraunces",serif;font-style:italic;font-size:20px;color:#faf6ed;line-height:1.3}
+.author-line .quote em{color:#d97757;font-style:italic}
+.bottom-row{display:flex;justify-content:space-between;align-items:center;margin-top:auto}
+.bottom-row .chips{display:flex;gap:10px}
+.bottom-row .chips .chip{width:44px;height:44px;border-radius:10px;background:#ffffff;border:1px solid #e8dfc9;display:flex;align-items:center;justify-content:center;padding:7px;box-shadow:2px 2px 0 rgba(26,20,16,0.08)}
+.bottom-row .chips .chip svg{width:100%;height:100%}
+.bottom-row .pg{padding:10px 20px;background:#1a1410;color:#faf6ed;border-radius:50px;font-family:"JetBrains Mono",monospace;font-size:18px;font-weight:700;letter-spacing:0.06em}
+</style></head>
+<body>
+<div class="paper-grain"></div>
+<div class="frame">
+  <div class="top-row"><div class="num-pill">{{numLabel}}</div><div class="handle">{{handle}}</div></div>
+  <div class="section">{{sectionLabel}}</div>
+  <div class="title">{{title}} <span class="underline">{{titleUnderline}}</span> <span class="accent">{{titleAccent}}</span></div>
+  <div class="subtitle">{{subtitle}}</div>
+  <div class="insights">
+    <div class="insight">
+      <div class="badge"><div class="nm">01</div><div class="l">{{insight1Tag}}</div></div>
+      <div class="body"><div class="ht">{{insight1Title}}</div><div class="hs">{{insight1Body}}</div></div>
+      <div class="arrow-note"><div class="doodle">↘ {{insight1Note}}</div><div class="pill">{{insight1Pill}}</div></div>
+    </div>
+    <div class="insight">
+      <div class="badge"><div class="nm">02</div><div class="l">{{insight2Tag}}</div></div>
+      <div class="body"><div class="ht">{{insight2Title}}</div><div class="hs">{{insight2Body}}</div></div>
+      <div class="arrow-note"><div class="doodle">↘ {{insight2Note}}</div><div class="pill">{{insight2Pill}}</div></div>
+    </div>
+    <div class="insight">
+      <div class="badge"><div class="nm">03</div><div class="l">{{insight3Tag}}</div></div>
+      <div class="body"><div class="ht">{{insight3Title}}</div><div class="hs">{{insight3Body}}</div></div>
+      <div class="arrow-note"><div class="doodle">↘ {{insight3Note}}</div><div class="pill">{{insight3Pill}}</div></div>
+    </div>
+  </div>
+  <div class="author-line">
+    <div class="avatar">{{avatarLetter}}</div>
+    <div class="info">
+      <div class="quote">{{authorQuote}}</div>
+    </div>
+  </div>
+  <div class="bottom-row">
+    <div class="chips">
+      <div class="chip">{{iconSvg1}}</div>
+      <div class="chip">{{iconSvg2}}</div>
+      <div class="chip">{{iconSvg3}}</div>
+      <div class="chip">{{iconSvg4}}</div>
+    </div>
+    <div class="pg">{{pageOf}}</div>
+  </div>
+</div>
+</body></html>

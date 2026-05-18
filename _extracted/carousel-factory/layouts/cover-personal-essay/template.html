@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Fraunces:ital,wght@0,400;0,600;0,800;1,400;1,500;1,700&family=Caveat:wght@500;600;700&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1080px;height:1350px;overflow:hidden;background:#faf6ed;font-family:"Inter",sans-serif;color:#1a1410;-webkit-font-smoothing:antialiased}
+.paper-grain{position:absolute;inset:0;background-image:radial-gradient(rgba(26,20,16,0.02) 1px,transparent 1px);background-size:6px 6px;opacity:0.6}
+.frame{position:absolute;inset:0;padding:60px;display:flex;flex-direction:column;gap:22px}
+.top-row{display:flex;justify-content:space-between;align-items:center}
+.tag{display:inline-flex;align-items:center;gap:10px;padding:10px 20px;background:#1a1410;color:#faf6ed;border-radius:50px;font-size:16px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase}
+.handle{font-family:"Caveat",cursive;font-size:28px;color:#8a7a5a;font-weight:600}
+.eyebrow{font-family:"Fraunces",serif;font-style:italic;font-size:34px;color:#8a7a5a;line-height:1.2;margin-top:4px}
+.title{font-family:"Fraunces",serif;font-weight:800;font-size:108px;line-height:0.96;letter-spacing:-3px;color:#1a1410;font-style:italic}
+.title .underline{position:relative;display:inline-block}
+.title .underline::after{content:"";position:absolute;left:-4px;right:-4px;bottom:-2px;height:14px;background:#d97757;opacity:0.45;border-radius:6px;z-index:-1}
+.title .accent{color:#d97757;font-style:italic}
+.author-card{display:flex;align-items:center;gap:22px;padding:24px 28px;background:#1a1410;border-radius:18px;color:#faf6ed;margin-top:4px;position:relative}
+.author-card::before{content:"";position:absolute;top:-12px;left:60px;width:24px;height:24px;background:#1a1410;transform:rotate(45deg)}
+.author-card .avatar{width:80px;height:80px;border-radius:50%;background:#d97757;display:flex;align-items:center;justify-content:center;color:#faf6ed;font-family:"Fraunces",serif;font-weight:700;font-size:36px;flex-shrink:0;border:3px solid #faf6ed}
+.author-card .info{flex:1;min-width:0}
+.author-card .info .by{font-family:"Caveat",cursive;font-size:22px;color:#d97757;line-height:1;margin-bottom:4px}
+.author-card .info .nm{font-family:"Fraunces",serif;font-size:30px;font-weight:600;color:#faf6ed;line-height:1.1;margin-bottom:2px}
+.author-card .info .rl{font-size:15px;color:#a39580;font-weight:500;letter-spacing:0.04em}
+.sticky{align-self:flex-end;padding:18px 22px;background:#fff8d6;border:1px solid #e0d4a8;border-radius:6px;transform:rotate(2deg);box-shadow:3px 4px 0 rgba(26,20,16,0.08);max-width:380px;font-family:"Caveat",cursive;font-size:26px;color:#1a1410;line-height:1.25;font-weight:600;margin-top:-12px}
+.sticky::before{content:"";position:absolute;left:-8px;top:50%;transform:translateY(-50%);width:16px;height:16px;background:#d97757;border-radius:50%}
+.body-block{flex:1;display:flex;flex-direction:column;gap:14px;justify-content:center;min-height:0}
+.intro{font-size:24px;color:#5a4a3a;line-height:1.45;font-weight:500;max-width:880px}
+.intro em{font-family:"Fraunces",serif;font-style:italic;font-weight:500;color:#d97757}
+.preview-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin-top:4px}
+.preview-tile{padding:22px 18px;background:#ffffff;border:1px solid #e8dfc9;border-radius:14px;text-align:center;box-shadow:3px 3px 0 rgba(26,20,16,0.06)}
+.preview-tile .ic{width:48px;height:48px;border-radius:10px;background:#faf6ed;border:1px solid #e8dfc9;display:flex;align-items:center;justify-content:center;padding:8px;margin:0 auto 10px}
+.preview-tile .ic svg{width:100%;height:100%}
+.preview-tile .lb{font-family:"Fraunces",serif;font-size:17px;font-weight:600;color:#1a1410;line-height:1.2}
+.bottom-row{display:flex;justify-content:space-between;align-items:center;margin-top:auto}
+.bottom-row .pg{padding:10px 20px;background:#1a1410;color:#faf6ed;border-radius:50px;font-family:"JetBrains Mono",monospace;font-size:18px;font-weight:700;letter-spacing:0.06em}
+.bottom-row .swipe{display:inline-flex;align-items:center;gap:14px}
+.bottom-row .swipe .lab{font-family:"Caveat",cursive;font-size:32px;color:#1a1410;font-weight:700}
+.bottom-row .swipe .arr{width:42px;height:42px;border-radius:50%;background:#d97757;color:#faf6ed;display:flex;align-items:center;justify-content:center;font-size:22px;font-weight:900}
+</style></head>
+<body>
+<div class="paper-grain"></div>
+<div class="frame">
+  <div class="top-row"><div class="tag">{{brandTag}}</div><div class="handle">{{handle}}</div></div>
+  <div class="eyebrow">{{eyebrow}}</div>
+  <div class="title">{{titleLine1}} <span class="underline">{{titleUnderline}}</span> <em class="accent">{{titleAccent}}</em></div>
+  <div class="author-card">
+    <div class="avatar">{{avatarLetter}}</div>
+    <div class="info">
+      <div class="by">{{byLine}}</div>
+      <div class="nm">{{authorName}}</div>
+      <div class="rl">{{authorRole}}</div>
+    </div>
+  </div>
+  <div class="sticky">{{stickyNote}}</div>
+  <div class="body-block">
+    <div class="intro">{{intro}}</div>
+    <div class="preview-grid">
+      <div class="preview-tile"><div class="ic">{{iconSvg1}}</div><div class="lb">{{tile1Label}}</div></div>
+      <div class="preview-tile"><div class="ic">{{iconSvg2}}</div><div class="lb">{{tile2Label}}</div></div>
+      <div class="preview-tile"><div class="ic">{{iconSvg3}}</div><div class="lb">{{tile3Label}}</div></div>
+      <div class="preview-tile"><div class="ic">{{iconSvg4}}</div><div class="lb">{{tile4Label}}</div></div>
+    </div>
+  </div>
+  <div class="bottom-row">
+    <div class="pg">{{pageOf}}</div>
+    <div class="swipe"><div class="lab">{{swipeLabel}}</div><div class="arr">→</div></div>
+  </div>
+</div>
+</body></html>

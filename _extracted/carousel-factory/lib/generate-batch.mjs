@@ -84,6 +84,7 @@ const FAMILY_LAYOUTS = {
   "stencil-stamp":    { cover: "cover-stencil-stamp",   body: "body-stencil-stamp",   cta: "cta-stencil-stamp" },
   "edu-bright":       { cover: "cover-edu-bright",      body: ["body-edu-bright-chart", "body-edu-bright-flow", "body-edu-bright-table"], cta: "cta-edu-bright" },
   "terminal-glow":    { cover: "cover-terminal-glow",   body: "body-terminal-glow",   cta: "cta-terminal-glow" },
+  "personal-essay":   { cover: "cover-personal-essay",  body: "body-personal-essay",  cta: "cta-personal-essay" },
 };
 
 // CTA slot conventions, shared by all families:
@@ -368,6 +369,16 @@ COVER cover-terminal-glow: brandTag (1-2 uppercase words like "DEVOPS" / "CLI TI
 BODY  body-terminal-glow: numLabel (uppercase like "CMD 02"), handle, sectionLabel (uppercase mono 2-3 words like "TRICK 02"), title (2-3 bold Inter words like "Pipe to"), titleAccent (1-2 mint words like "fzf"), titleItalic (1-3 italic Fraunces words like "for instant fuzzy search"), subtitle (1 sentence ≤22 words context for the trick), termTitle (file path/command name like "~/.zshrc" or "git-helpers.sh"), termBadge (uppercase short 1-2 words like "ZSH" / "BASH" / "DOCKER"), cmtLine (a # comment line ≤50 chars like "# replace cd with auto-complete jump"), cmd1/cmd2/cmd3 (3 real shell commands ≤60 chars each), out1/out2/out3 (3 short output prefixes ≤30 chars each), out1Hl/out2Hl/out3Hl (3 highlighted suffixes ≤14 chars each — could be numbers, paths, status), m1Value/m2Value/m3Value (3 short metric values like "47ms" / "10x"), m1Label/m2Label/m3Label (3 uppercase 1-2 word labels like "P99 LATENCY"), iconSlug1..iconSlug4 (4 brand slugs), pageOf ("02 / 08").
 
 CTA   cta-terminal-glow: brandTag (1-2 uppercase words like "WRAP"), handle, intro (3-6 italic-serif words like "now go ship faster"), ctaLine1 (2-4 bold Inter words like "Save this"), ctaAccent (1-2 mint-green words like "shell stack"), ctaItalic (1-3 italic Fraunces words like "for tomorrow"), recapLabel (uppercase 2-3 words like "FULL STACK"), iconSlug1..iconSlug6 (6 brand slugs), ctaBody (1-2 sentences ≤30 words with 1 <em>...</em>), btnPrimary (2-3 word primary CTA like "Bookmark Now"), btnGhost (2-3 word secondary like "Follow @kernelhq"), signoff (3-6 italic words like "ship fast, debug faster"), pageOf ("08 / 08").`,
+
+  "personal-essay": `Layouts (warm cream #faf6ed paper + huge Fraunces serif ITALIC headlines + coral #d97757 accent with translucent highlighter underline + Caveat handwritten cursive for annotations and section labels + sticky-note + author-card chrome — editorial/personal-blog/founder-essay aesthetic, like Greg Isenberg's design carousels — first-person, conversational, opinionated copy).
+
+Uses iconSlug<N> brand-icon system (compose.js auto-renders SVG + brand color).
+
+COVER cover-personal-essay: brandTag (1-2 uppercase words like "ESSAY" / "TAKES"), handle (e.g. "@gregisenberg-clone"), eyebrow (3-7 italic-serif intro words like "the only AI tools that"), titleLine1 (1-3 bold-italic Fraunces words like "we built"), titleUnderline (1-2 highlighted-italic words like "the same"), titleAccent (1-2 coral-italic Fraunces words like "product twice"), avatarLetter (single uppercase initial like "G" / "A" / "S"), byLine (cursive Caveat 2-3 words like "by the way" / "from the trenches"), authorName (full name like "Greg Isenberg" / "Anna Park"), authorRole (3-6 word role like "founder · late-night writer"), stickyNote (cursive sticky-note 6-12 words like "here's exactly what I did (and broke)"), intro (1-2 sentences ≤30 words conversational context with 1 <em>...</em>), tile1Label..tile4Label (4 short 1-3 word labels for preview tiles like "Cursor" / "Stripe" / "Linear"), iconSlug1..iconSlug4 (4 brand slugs matching the tile labels), swipeLabel (cursive 2-4 words like "let's go"), pageOf ("01 / 08").
+
+BODY  body-personal-essay: numLabel (uppercase short like "STORY 02"), handle, sectionLabel (cursive Caveat 2-4 words like "what I learned" / "the real cost"), title (2-4 italic Fraunces words like "Sales come"), titleUnderline (1-2 highlighted-italic words like "from speed"), titleAccent (1-2 coral-italic words like "not features"), subtitle (1 sentence ≤22 words italic-serif context), insight1Title/insight2Title/insight3Title (3 italic Fraunces insight headlines 4-8 words each with 1 <em>...</em> optional), insight1Body/insight2Body/insight3Body (3 single-sentence ≤16 word descriptions), insight1Tag/insight2Tag/insight3Tag (3 short uppercase tags 3-6 chars like "WIN" / "FAIL" / "AHA"), insight1Note/insight2Note/insight3Note (3 short Caveat doodle annotations 2-5 words like "this surprised me"), insight1Pill/insight2Pill/insight3Pill (3 short uppercase mono pills 1-3 words like "+34% MRR" / "DAY 12"), avatarLetter (single uppercase initial), authorQuote (1 italic-serif first-person quote ≤20 words with 1 <em>...</em>), iconSlug1..iconSlug4 (4 brand slugs), pageOf ("02 / 08").
+
+CTA   cta-personal-essay: brandTag (1-2 uppercase words like "OUTRO" / "WRAP"), handle, eyebrow (cursive Caveat 2-4 words like "if this helped you"), ctaLine1 (1-3 bold-italic Fraunces words like "save this"), ctaAccent (1-2 coral-italic words like "for later"), ctaItalic (1-3 italic Fraunces words like "or send to a friend"), recapLabel (cursive 2-3 words like "the cast"), iconSlug1..iconSlug6 (6 brand slugs), ctaBody (1-2 italic-serif sentences ≤30 words first-person with 1 <em>...</em>), btnPrimary (2-3 word primary CTA like "Save Post"), btnGhost (italic 2-3 word secondary like "follow for more"), signoff (cursive 3-6 word signoff like "more next week ✱"), pageOf ("08 / 08").`,
 };
 
 const PROMPT_TEMPLATE = (brief, family) => `You are a carousel planner.
@@ -786,6 +797,13 @@ const BRIEFS = [
   { id: "tg-git-deep-cuts",           family: "terminal-glow", text: "Git commands beyond commit/push — bisect, worktree, reflog, and how senior devs use them." },
   { id: "tg-docker-debug-loop",       family: "terminal-glow", text: "5 docker commands that cut your debug loop in half — exec, logs, diff, and friends." },
   { id: "tg-curl-cheatsheet",         family: "terminal-glow", text: "Curl beyond GET — auth headers, file upload, retries, and parallel requests in one tool." },
+
+  // personal-essay (Greg Isenberg-style founder/operator essay — cream + serif italic + Caveat annotations)
+  { id: "pe-vertical-ai-100m",        family: "personal-essay", text: "How to build the next $100M vertical-AI startup — what I learned shipping 5 in 18 months." },
+  { id: "pe-built-twice",             family: "personal-essay", text: "We built the same product twice. The second version made 10x more. Here's why." },
+  { id: "pe-startup-ideas-2026",      family: "personal-essay", text: "10 startup ideas hiding in plain sight in 2026 — what scrappy founders should build right now." },
+  { id: "pe-ai-keeping-up",           family: "personal-essay", text: "12 things about AI that keep me up at night — and three I think most founders are missing." },
+  { id: "pe-design-tools-review",     family: "personal-essay", text: "I tested every new AI design tool for 30 days. Three changed my workflow. The rest were noise." },
 ];
 
 // ─── Kimi planner with retry on JSON parse failure ─────────────────────────
