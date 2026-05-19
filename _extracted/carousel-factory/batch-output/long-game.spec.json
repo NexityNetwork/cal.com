@@ -22,7 +22,7 @@
       "layoutId": "body-cream-gold",
       "slots": {
         "brand": "",
-        "pageOf": "ii / viii",
+        "pageOf": "",
         "number": "I",
         "numberLabel": "Habit",
         "titleMain": "The Relentless",
@@ -35,7 +35,7 @@
       "layoutId": "body-cream-gold",
       "slots": {
         "brand": "",
-        "pageOf": "iii / viii",
+        "pageOf": "",
         "number": "II",
         "numberLabel": "Habit",
         "titleMain": "Protect Your",
@@ -48,7 +48,7 @@
       "layoutId": "body-cream-gold",
       "slots": {
         "brand": "",
-        "pageOf": "iv / viii",
+        "pageOf": "",
         "number": "III",
         "numberLabel": "Habit",
         "titleMain": "Build True",
@@ -61,7 +61,7 @@
       "layoutId": "body-cream-gold",
       "slots": {
         "brand": "",
-        "pageOf": "v / viii",
+        "pageOf": "",
         "number": "IV",
         "numberLabel": "Habit",
         "titleMain": "Sacred Reputation",
@@ -74,7 +74,7 @@
       "layoutId": "body-cream-gold",
       "slots": {
         "brand": "",
-        "pageOf": "vi / viii",
+        "pageOf": "",
         "number": "V",
         "numberLabel": "Habit",
         "titleMain": "Master Strategic",
@@ -87,7 +87,7 @@
       "layoutId": "body-cream-gold",
       "slots": {
         "brand": "",
-        "pageOf": "vii / viii",
+        "pageOf": "",
         "number": "VI",
         "numberLabel": "Habit",
         "titleMain": "Never Stop",
@@ -100,12 +100,12 @@
       "layoutId": "cta-cream-gold",
       "slots": {
         "brand": "",
-        "pageOf": "viii / viii",
+        "pageOf": "",
         "eyebrow": "THE LONG GAME",
         "headlineMain": "Start Your",
         "headlineItalic": "Legacy",
         "body": "Mastery is not a milestone. It is a practice. Begin today.",
-        "buttonLabel": "SAVE THIS POST",
+        "buttonLabel": "",
         "handle": ""
       }
     }

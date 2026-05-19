@@ -7,7 +7,7 @@
     {
       "layoutId": "cover-rounded-card",
       "slots": {
-        "pageBadge": "01 of 08",
+        "pageBadge": "",
         "headlineLine1": "How to grow",
         "headlineLine2": "like a 20-person team",
         "body": "10 systems that let one founder scale fast without burning out or hiring too fast.",
@@ -17,7 +17,7 @@
     {
       "layoutId": "body-rounded-card",
       "slots": {
-        "pageBadge": "02",
+        "pageBadge": "",
         "handle": "",
         "number": "01",
         "title": "Document every",
@@ -28,13 +28,13 @@
         "ico3": "📂",
         "ico4": "✓",
         "nextNote": "Next: automate the busywork",
-        "pageOf": "02 / 08"
+        "pageOf": ""
       }
     },
     {
       "layoutId": "body-rounded-card",
       "slots": {
-        "pageBadge": "03",
+        "pageBadge": "",
         "handle": "",
         "number": "02",
         "title": "Automate the",
@@ -45,13 +45,13 @@
         "ico3": "🤖",
         "ico4": "⏰",
         "nextNote": "Next: batch your calendar",
-        "pageOf": "03 / 08"
+        "pageOf": ""
       }
     },
     {
       "layoutId": "body-rounded-card",
       "slots": {
-        "pageBadge": "04",
+        "pageBadge": "",
         "handle": "",
         "number": "03",
         "title": "Batch your",
@@ -62,13 +62,13 @@
         "ico3": "⏳",
         "ico4": "📈",
         "nextNote": "Next: delegate with briefs",
-        "pageOf": "04 / 08"
+        "pageOf": ""
       }
     },
     {
       "layoutId": "body-rounded-card",
       "slots": {
-        "pageBadge": "05",
+        "pageBadge": "",
         "handle": "",
         "number": "04",
         "title": "Delegate with",
@@ -79,13 +79,13 @@
         "ico3": "💵",
         "ico4": "📤",
         "nextNote": "Next: templatize content",
-        "pageOf": "05 / 08"
+        "pageOf": ""
       }
     },
     {
       "layoutId": "body-rounded-card",
       "slots": {
-        "pageBadge": "06",
+        "pageBadge": "",
         "handle": "",
         "number": "05",
         "title": "Templatize your",
@@ -96,13 +96,13 @@
         "ico3": "📧",
         "ico4": "📊",
         "nextNote": "Next: review weekly metrics",
-        "pageOf": "06 / 08"
+        "pageOf": ""
       }
     },
     {
       "layoutId": "body-rounded-card",
       "slots": {
-        "pageBadge": "07",
+        "pageBadge": "",
         "handle": "",
         "number": "06",
         "title": "Review weekly",
@@ -113,19 +113,19 @@
         "ico3": "🔄",
         "ico4": "⏱",
         "nextNote": "Next: your action plan",
-        "pageOf": "07 / 08"
+        "pageOf": ""
       }
     },
     {
       "layoutId": "cta-rounded-card",
       "slots": {
-        "pageBadge": "08",
+        "pageBadge": "",
         "handle": "",
         "eyebrow": "YOUR TURN",
         "headlineLine1": "Pick one",
         "headlineLine2": "system this week",
         "body": "Start with the lowest-hanging system. Small wins compound into the momentum that builds your 20-person empire.",
-        "buttonLabel": "Grab the full guide",
+        "buttonLabel": "",
         "secondaryLabel": "Follow @foundersystems",
         "footerLeft": "Founder Systems",
         "footerRight": "Link in bio"

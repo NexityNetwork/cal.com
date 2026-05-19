@@ -38,7 +38,7 @@
         "bar1Pct": 95,
         "bar2Pct": 35,
         "bar3Pct": 7,
-        "pageOf": "02/08"
+        "pageOf": ""
       }
     },
     {
@@ -59,7 +59,7 @@
         "bar1Pct": 90,
         "bar2Pct": 32,
         "bar3Pct": 4,
-        "pageOf": "03/08"
+        "pageOf": ""
       }
     },
     {
@@ -80,7 +80,7 @@
         "bar1Pct": 95,
         "bar2Pct": 22,
         "bar3Pct": 2,
-        "pageOf": "04/08"
+        "pageOf": ""
       }
     },
     {
@@ -101,7 +101,7 @@
         "bar1Pct": 95,
         "bar2Pct": 32,
         "bar3Pct": 4,
-        "pageOf": "05/08"
+        "pageOf": ""
       }
     },
     {
@@ -122,7 +122,7 @@
         "bar1Pct": 95,
         "bar2Pct": 58,
         "bar3Pct": 20,
-        "pageOf": "06/08"
+        "pageOf": ""
       }
     },
     {
@@ -143,7 +143,7 @@
         "bar1Pct": 95,
         "bar2Pct": 24,
         "bar3Pct": 3,
-        "pageOf": "07/08"
+        "pageOf": ""
       }
     },
     {
@@ -155,8 +155,8 @@
         "eyebrow": "THE RESULT",
         "headline": "Beat the average",
         "body": "Stop guessing and start posting with benchmarks that actually move the needle in 2026.",
-        "buttonLabel": "Get the full guide",
-        "pageOf": "08/08"
+        "buttonLabel": "",
+        "pageOf": ""
       }
     }
   ]

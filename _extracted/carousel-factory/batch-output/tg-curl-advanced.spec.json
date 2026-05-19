@@ -30,8 +30,8 @@
         "iconSlug3": "insomnia",
         "iconSlug4": "linux",
         "iconSlug5": "docker",
-        "swipeLabel": "RUN",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -66,7 +66,7 @@
         "iconSlug2": "postman",
         "iconSlug3": "insomnia",
         "iconSlug4": "linux",
-        "pageOf": "02 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -101,7 +101,7 @@
         "iconSlug2": "linux",
         "iconSlug3": "docker",
         "iconSlug4": "git",
-        "pageOf": "03 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -136,7 +136,7 @@
         "iconSlug2": "linux",
         "iconSlug3": "docker",
         "iconSlug4": "github",
-        "pageOf": "04 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -171,7 +171,7 @@
         "iconSlug2": "linux",
         "iconSlug3": "docker",
         "iconSlug4": "git",
-        "pageOf": "05 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -206,7 +206,7 @@
         "iconSlug2": "linux",
         "iconSlug3": "docker",
         "iconSlug4": "github",
-        "pageOf": "06 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -241,7 +241,7 @@
         "iconSlug2": "linux",
         "iconSlug3": "docker",
         "iconSlug4": "github",
-        "pageOf": "07 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -261,10 +261,10 @@
         "iconSlug5": "docker",
         "iconSlug6": "git",
         "ctaBody": "Stop switching windows. <em>One binary</em> replaces your API toolkit—script it, alias it, and commit it.",
-        "btnPrimary": "Bookmark Now",
-        "btnGhost": "Follow @curlmaster",
+        "btnPrimary": "",
+        "btnGhost": "",
         "signoff": "ship fast, debug faster",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

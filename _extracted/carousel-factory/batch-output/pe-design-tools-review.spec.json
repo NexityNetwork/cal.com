@@ -13,10 +13,10 @@
         "titleLine1": "actually changed",
         "titleUnderline": "my design",
         "titleAccent": "workflow",
-        "avatarLetter": "S",
-        "byLine": "by the way",
-        "authorName": "Sara Lin",
-        "authorRole": "designer · tool skeptic",
+        "avatarLetter": "",
+        "byLine": "",
+        "authorName": "",
+        "authorRole": "",
         "stickyNote": "here's exactly what I kept (and deleted) after thirty days",
         "intro": "I tested every new AI design tool for 30 days. Only <em>three</em> changed my workflow.",
         "tile1Label": "Figma",
@@ -27,8 +27,8 @@
         "iconSlug2": "midjourney",
         "iconSlug3": "framer",
         "iconSlug4": "canva",
-        "swipeLabel": "let's go",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -56,13 +56,13 @@
         "insight3Tag": "UGH",
         "insight3Note": "delete it",
         "insight3Pill": "DAY 2",
-        "avatarLetter": "S",
-        "authorQuote": "I wanted a co-pilot, not a <em>PowerPoint</em> about AI.",
+        "avatarLetter": "",
+        "authorQuote": "",
         "iconSlug1": "adobe",
         "iconSlug2": "sketch",
         "iconSlug3": "invision",
         "iconSlug4": "xd",
-        "pageOf": "02 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -90,13 +90,13 @@
         "insight3Tag": "TEAM",
         "insight3Note": "they noticed",
         "insight3Pill": "NICE",
-        "avatarLetter": "S",
-        "authorQuote": "It felt like pair designing with a <em>senior</em> who never sleeps.",
+        "avatarLetter": "",
+        "authorQuote": "",
         "iconSlug1": "figma",
         "iconSlug2": "framer",
         "iconSlug3": "sketch",
         "iconSlug4": "adobe",
-        "pageOf": "03 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -124,13 +124,13 @@
         "insight3Tag": "ZEN",
         "insight3Note": "feels like magic",
         "insight3Pill": "V6",
-        "avatarLetter": "S",
-        "authorQuote": "I finally stopped scrolling Unsplash and started <em>creating</em> the vibe.",
+        "avatarLetter": "",
+        "authorQuote": "",
         "iconSlug1": "midjourney",
         "iconSlug2": "dribbble",
         "iconSlug3": "behance",
         "iconSlug4": "pinterest",
-        "pageOf": "04 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -158,13 +158,13 @@
         "insight3Tag": "ZEN",
         "insight3Note": "no backend tears",
         "insight3Pill": "CLEAN",
-        "avatarLetter": "S",
-        "authorQuote": "I published a landing page before my <em>Slack</em> status turned green.",
+        "avatarLetter": "",
+        "authorQuote": "",
         "iconSlug1": "framer",
         "iconSlug2": "vercel",
         "iconSlug3": "github",
         "iconSlug4": "codepen",
-        "pageOf": "05 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -192,13 +192,13 @@
         "insight3Tag": "YEP",
         "insight3Note": "taste matters",
         "insight3Pill": "BUILT-IN",
-        "avatarLetter": "S",
-        "authorQuote": "I don't need more buttons, just <em>better</em> silence while I work.",
+        "avatarLetter": "",
+        "authorQuote": "",
         "iconSlug1": "linear",
         "iconSlug2": "notion",
         "iconSlug3": "slack",
         "iconSlug4": "discord",
-        "pageOf": "06 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -226,13 +226,13 @@
         "insight3Tag": "YEP",
         "insight3Note": "depth wins",
         "insight3Pill": "SPEED",
-        "avatarLetter": "S",
-        "authorQuote": "The best tool is the one you know <em>too</em> well to quit.",
+        "avatarLetter": "",
+        "authorQuote": "",
         "iconSlug1": "figma",
         "iconSlug2": "midjourney",
         "iconSlug3": "framer",
         "iconSlug4": "linear",
-        "pageOf": "07 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -252,10 +252,10 @@
         "iconSlug5": "linear",
         "iconSlug6": "vercel",
         "ctaBody": "I tested every new AI design tool for 30 days. Only <em>three</em> changed my workflow.",
-        "btnPrimary": "Save Post",
-        "btnGhost": "follow for more",
+        "btnPrimary": "",
+        "btnGhost": "",
         "signoff": "more next week ✱",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

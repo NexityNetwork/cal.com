@@ -19,13 +19,13 @@
         "preview1": "How I survived the silent years",
         "preview2": "Why compounding beats going viral",
         "preview3": "The real cost of overnight fame",
-        "avatarLetter": "J",
-        "authorName": "Jordan Reeves",
-        "authorRole": "indie founder · 3 AI products shipped",
+        "avatarLetter": "",
+        "authorName": "",
+        "authorRole": "",
         "tag1": "FOUNDER",
         "tag2": "AI",
-        "swipeLabel": "Read the issue",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -55,7 +55,7 @@
         "iconSlug2": "edit-3",
         "iconSlug3": "user-x",
         "iconSlug4": "clock",
-        "pageOf": "02 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -85,7 +85,7 @@
         "iconSlug2": "hammer",
         "iconSlug3": "shield",
         "iconSlug4": "calendar",
-        "pageOf": "03 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -115,7 +115,7 @@
         "iconSlug2": "trophy",
         "iconSlug3": "umbrella",
         "iconSlug4": "trending-down",
-        "pageOf": "04 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -145,7 +145,7 @@
         "iconSlug2": "heart",
         "iconSlug3": "settings",
         "iconSlug4": "layers",
-        "pageOf": "05 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -175,7 +175,7 @@
         "iconSlug2": "file-text",
         "iconSlug3": "message-circle",
         "iconSlug4": "git-branch",
-        "pageOf": "06 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -205,7 +205,7 @@
         "iconSlug2": "book-open",
         "iconSlug3": "users",
         "iconSlug4": "sun",
-        "pageOf": "07 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -223,10 +223,10 @@
         "iconSlug3": "zap",
         "iconSlug4": "shield",
         "ctaBody": "The boring middle is not a punishment. <em>It is the price of admission.</em>",
-        "btnPrimary": "Save Post",
-        "btnGhost": "Follow along",
+        "btnPrimary": "",
+        "btnGhost": "",
         "signoff": "more essays weekly",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

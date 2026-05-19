@@ -8,7 +8,7 @@
       "layoutId": "cover-black-mindmap",
       "slots": {
         "handle": "",
-        "pageLabel": "01 / 08",
+        "pageLabel": "",
         "eyebrow": "SAVE THIS",
         "headlineLine1": "The 4 Pillars of",
         "headlineLine2": "Great Prompts",
@@ -19,7 +19,7 @@
       "layoutId": "body-black-mindmap",
       "slots": {
         "handle": "",
-        "pageLabel": "02 / 08",
+        "pageLabel": "",
         "number": "1",
         "title": "Context",
         "pill1": "No background",
@@ -33,7 +33,7 @@
       "layoutId": "body-black-mindmap",
       "slots": {
         "handle": "",
-        "pageLabel": "03 / 08",
+        "pageLabel": "",
         "number": "2",
         "title": "Role",
         "pill1": "No persona",
@@ -47,7 +47,7 @@
       "layoutId": "body-black-mindmap",
       "slots": {
         "handle": "",
-        "pageLabel": "04 / 08",
+        "pageLabel": "",
         "number": "3",
         "title": "Format",
         "pill1": "No structure",
@@ -61,7 +61,7 @@
       "layoutId": "body-black-mindmap",
       "slots": {
         "handle": "",
-        "pageLabel": "05 / 08",
+        "pageLabel": "",
         "number": "4",
         "title": "Rules",
         "pill1": "No limits",
@@ -75,7 +75,7 @@
       "layoutId": "body-black-mindmap",
       "slots": {
         "handle": "",
-        "pageLabel": "06 / 08",
+        "pageLabel": "",
         "number": "5",
         "title": "Mistakes",
         "pill1": "Vague prompts",
@@ -89,7 +89,7 @@
       "layoutId": "body-black-mindmap",
       "slots": {
         "handle": "",
-        "pageLabel": "07 / 08",
+        "pageLabel": "",
         "number": "6",
         "title": "Great",
         "pill1": "Clear task",
@@ -103,12 +103,12 @@
       "layoutId": "cta-black-mindmap",
       "slots": {
         "handle": "",
-        "pageLabel": "08 / 08",
+        "pageLabel": "",
         "eyebrow": "YOUR MOVE",
         "headlineLine1": "Build Better",
         "headlineLine2": "Prompts Today",
         "body": "Stop guessing. Use the 4 pillars and watch your AI outputs improve instantly.",
-        "buttonLabel": "Save this post",
+        "buttonLabel": "",
         "closing": "Tag a founder"
       }
     }

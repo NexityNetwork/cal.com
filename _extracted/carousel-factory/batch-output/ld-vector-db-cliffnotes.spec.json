@@ -40,7 +40,7 @@
         "outLine": "index live in 8s",
         "okLine": "✓ READY",
         "domainText": "",
-        "pageOf": "01 / 06"
+        "pageOf": ""
       }
     },
     {
@@ -61,7 +61,7 @@
         "outLine": "modules loaded",
         "okLine": "✓ LIVE",
         "domainText": "",
-        "pageOf": "02 / 06"
+        "pageOf": ""
       }
     },
     {
@@ -82,7 +82,7 @@
         "outLine": "hnsw built 4.2s",
         "okLine": "✓ DONE",
         "domainText": "",
-        "pageOf": "03 / 06"
+        "pageOf": ""
       }
     },
     {
@@ -103,7 +103,7 @@
         "outLine": "cluster node 1",
         "okLine": "✓ UP",
         "domainText": "",
-        "pageOf": "04 / 06"
+        "pageOf": ""
       }
     },
     {
@@ -124,7 +124,7 @@
         "outLine": "3 nodes ready",
         "okLine": "✓ NODES UP",
         "domainText": "",
-        "pageOf": "05 / 06"
+        "pageOf": ""
       }
     },
     {
@@ -145,7 +145,7 @@
         "outLine": "local db ready",
         "okLine": "✓ LOCAL",
         "domainText": "",
-        "pageOf": "06 / 06"
+        "pageOf": ""
       }
     },
     {
@@ -156,12 +156,12 @@
         "ctaLine1": "Compare all six",
         "ctaLine2": "vector databases",
         "ctaBody": "Download the benchmark sheet and deploy the sample workload to your stack.",
-        "btnPrimary": "Get the sheet",
-        "btnGhost": "View on GitHub",
+        "btnPrimary": "",
+        "btnGhost": "",
         "meta1": "open source · MIT",
         "meta2": "built in 2025",
         "domainText": "",
-        "pageOf": "06 / 06"
+        "pageOf": ""
       }
     }
   ]

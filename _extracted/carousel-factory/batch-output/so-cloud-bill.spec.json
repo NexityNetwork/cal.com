@@ -12,7 +12,7 @@
         "shoutLine1": "YOUR CLOUD",
         "shoutLine2": "BILL SUCKS",
         "subQuestion": "Why are you still paying rent for servers you barely touch?",
-        "pageOf": "01 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -32,7 +32,7 @@
         "statLabel3": "EFFORT",
         "statValue3": "1 HR",
         "swipeNote": "NEXT UP →",
-        "pageOf": "02 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -52,7 +52,7 @@
         "statLabel3": "RISK",
         "statValue3": "LOW",
         "swipeNote": "KEEP GOING →",
-        "pageOf": "03 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -72,7 +72,7 @@
         "statLabel3": "TIME",
         "statValue3": "30MIN",
         "swipeNote": "WHAT'S NEXT →",
-        "pageOf": "04 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -92,7 +92,7 @@
         "statLabel3": "UPTIME",
         "statValue3": "99.9%",
         "swipeNote": "HALFWAY THERE →",
-        "pageOf": "05 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -112,7 +112,7 @@
         "statLabel3": "SPEED",
         "statValue3": "SAME",
         "swipeNote": "ALMOST DONE →",
-        "pageOf": "06 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -132,7 +132,7 @@
         "statLabel3": "IMPACT",
         "statValue3": "ZERO",
         "swipeNote": "FINISH STRONG →",
-        "pageOf": "07 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -143,10 +143,10 @@
         "ctaLine1": "CUT THAT",
         "ctaLine2": "CLOUD BILL",
         "ctaBody": "Grab the cheat sheet and halve your AWS spend before lunch this Friday.",
-        "btnPrimary": "GRAB THE LIST",
-        "btnGhost": "SHARE THIS",
+        "btnPrimary": "",
+        "btnGhost": "",
         "footerMeta": "NO SPAM. EVER.",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

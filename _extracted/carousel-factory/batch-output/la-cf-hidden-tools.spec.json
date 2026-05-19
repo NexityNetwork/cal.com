@@ -19,8 +19,8 @@
         "iconSlug4": "cloudflare-ai-gateway",
         "iconSlug5": "cloudflare-vectorize",
         "iconSlug6": "cloudflare-hyperdrive",
-        "swipeLabel": "SEE LIST",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -41,7 +41,7 @@
         "metric2Value": "500K",
         "metric3Label": "OSS",
         "metric3Value": "No",
-        "pageOf": "02 / 08",
+        "pageOf": "",
         "footerNote": "serverless SQL edge"
       }
     },
@@ -63,7 +63,7 @@
         "metric2Value": "10 GB",
         "metric3Label": "REQUESTS",
         "metric3Value": "1M/mo",
-        "pageOf": "03 / 08",
+        "pageOf": "",
         "footerNote": "S3-compatible storage"
       }
     },
@@ -85,7 +85,7 @@
         "metric2Value": "1M",
         "metric3Label": "OSS",
         "metric3Value": "No",
-        "pageOf": "04 / 08",
+        "pageOf": "",
         "footerNote": "edge message queue"
       }
     },
@@ -107,7 +107,7 @@
         "metric2Value": "100K",
         "metric3Label": "PROVIDERS",
         "metric3Value": "10+",
-        "pageOf": "05 / 08",
+        "pageOf": "",
         "footerNote": "LLM proxy cache"
       }
     },
@@ -129,7 +129,7 @@
         "metric2Value": "1M",
         "metric3Label": "INDEXES",
         "metric3Value": "1",
-        "pageOf": "06 / 08",
+        "pageOf": "",
         "footerNote": "AI vector search"
       }
     },
@@ -151,7 +151,7 @@
         "metric2Value": "Unlimited",
         "metric3Label": "SETUP",
         "metric3Value": "1-click",
-        "pageOf": "07 / 08",
+        "pageOf": "",
         "footerNote": "Postgres accelerator"
       }
     },
@@ -164,15 +164,15 @@
         "ctaLine1": "Deploy to the",
         "ctaCallout": "edge",
         "ctaBody": "Start building with Cloudflare's free tier today. Global scale without the infrastructure bill.",
-        "btnPrimary": "Get Started",
-        "btnGhost": "Read Docs",
+        "btnPrimary": "",
+        "btnGhost": "",
         "iconSlug1": "cloudflare-d1",
         "iconSlug2": "cloudflare-r2",
         "iconSlug3": "cloudflare-queues",
         "iconSlug4": "cloudflare-ai-gateway",
         "iconSlug5": "cloudflare-vectorize",
         "iconSlug6": "cloudflare-hyperdrive",
-        "pageOf": "08 / 08",
+        "pageOf": "",
         "footerNote": "free tier forever"
       }
     }

@@ -10,12 +10,12 @@
         "titleLine1": "The Ultimate",
         "titleLine2": "Guide to",
         "titleBold": "SYSTEMS",
-        "authorInitials": "AC",
-        "authorName": "Alex Carter",
+        "authorInitials": "",
+        "authorName": "",
         "handle": "",
         "avatarBg1": "#37474f",
         "avatarBg2": "#78909c",
-        "pageOf": "01 - 08"
+        "pageOf": ""
       }
     },
     {
@@ -26,7 +26,7 @@
         "bodyLine3": "processed through",
         "bodyLine4": "a weekly",
         "bodyLine5": "writing ritual",
-        "pageOf": "02 - 08"
+        "pageOf": ""
       }
     },
     {
@@ -37,7 +37,7 @@
         "bodyLine3": "multiple channels",
         "bodyLine4": "with one",
         "bodyLine5": "publish button",
-        "pageOf": "03 - 08"
+        "pageOf": ""
       }
     },
     {
@@ -48,7 +48,7 @@
         "bodyLine3": "genuinely helping",
         "bodyLine4": "people every",
         "bodyLine5": "single day",
-        "pageOf": "04 - 08"
+        "pageOf": ""
       }
     },
     {
@@ -59,7 +59,7 @@
         "bodyLine3": "the next",
         "bodyLine4": "issue and",
         "bodyLine5": "build trust",
-        "pageOf": "05 - 08"
+        "pageOf": ""
       }
     },
     {
@@ -70,7 +70,7 @@
         "bodyLine3": "scaled through",
         "bodyLine4": "simple digital",
         "bodyLine5": "product offers",
-        "pageOf": "06 - 08"
+        "pageOf": ""
       }
     },
     {
@@ -81,18 +81,18 @@
         "bodyLine3": "you can",
         "bodyLine4": "focus on",
         "bodyLine5": "creating value",
-        "pageOf": "07 - 08"
+        "pageOf": ""
       }
     },
     {
       "layoutId": "cta-mint-condensed",
       "slots": {
-        "authorInitials": "AC",
-        "authorName": "Alex Carter",
+        "authorInitials": "",
+        "authorName": "",
         "handle": "",
         "avatarBg1": "#37474f",
         "avatarBg2": "#78909c",
-        "pageOf": "08 - 08",
+        "pageOf": "",
         "tagline": "Building creator systems that run while you sleep.",
         "ctaQuestion": "Ready to build your OS?"
       }

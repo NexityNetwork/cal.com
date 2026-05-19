@@ -15,7 +15,7 @@
         "previewColor3": "#FFD700",
         "previewColor4": "#7B2CBF",
         "previewColor5": "#FF6B6B",
-        "pageOf": "01/08"
+        "pageOf": ""
       }
     },
     {
@@ -32,7 +32,7 @@
         "hex4": "#92BDF9",
         "paletteName": "Corporate Cobalt",
         "paletteUseCase": "Ideal for fintech and SaaS brands that need trust, clarity, and professional authority.",
-        "pageOf": "02/08"
+        "pageOf": ""
       }
     },
     {
@@ -49,7 +49,7 @@
         "hex4": "#FFF5E6",
         "paletteName": "Autumn Ember",
         "paletteUseCase": "Perfect for food, lifestyle, and warm hospitality brands seeking earthy energy and comfort.",
-        "pageOf": "03/08"
+        "pageOf": ""
       }
     },
     {
@@ -66,7 +66,7 @@
         "hex4": "#DCEDC1",
         "paletteName": "Wellness Mint",
         "paletteUseCase": "Used by health, yoga, and eco-friendly startups to evoke calm and natural balance.",
-        "pageOf": "04/08"
+        "pageOf": ""
       }
     },
     {
@@ -83,7 +83,7 @@
         "hex4": "#F8F1FF",
         "paletteName": "Luxury Amethyst",
         "paletteUseCase": "Chosen by beauty and premium lifestyle brands to signal creativity and exclusivity.",
-        "pageOf": "05/08"
+        "pageOf": ""
       }
     },
     {
@@ -100,7 +100,7 @@
         "hex4": "#F7FFF7",
         "paletteName": "Pop Modern",
         "paletteUseCase": "Great for Gen-Z startups, apps, and creative agencies wanting bold contrast and playful energy.",
-        "pageOf": "06/08"
+        "pageOf": ""
       }
     },
     {
@@ -117,7 +117,7 @@
         "hex4": "#F4F1DE",
         "paletteName": "Desert Clay",
         "paletteUseCase": "Suits artisanal, handcrafted, and bohemian brands with an organic, grounded story.",
-        "pageOf": "07/08"
+        "pageOf": ""
       }
     },
     {
@@ -131,8 +131,8 @@
         "color3": "#F5F5F5",
         "color4": "#2C2C2C",
         "body": "Save these palettes and build a consistent brand identity that stands out everywhere.",
-        "buttonLabel": "Save these palettes",
-        "pageOf": "08/08"
+        "buttonLabel": "",
+        "pageOf": ""
       }
     }
   ]

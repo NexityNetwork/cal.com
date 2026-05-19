@@ -8,7 +8,7 @@
       "layoutId": "cover-dark-green-serif",
       "slots": {
         "brand": "",
-        "pageOf": "01 OF 08",
+        "pageOf": "",
         "headline": "Why My Morning Walk Won?",
         "subtitle": "The simple habit that outperformed four hundred dollars of tech.",
         "stickerText": "TRUTH BOMB",
@@ -19,7 +19,7 @@
       "layoutId": "body-dark-green-serif",
       "slots": {
         "brand": "",
-        "pageOf": "02 OF 08",
+        "pageOf": "",
         "number": "01",
         "title": "I Bought The Hype",
         "body": "I dropped four hundred dollars on a wearable that promised perfect recovery scores and elite sleep staging. I woke up staring at graphs instead of the sunrise. The data was endless; the calm was not.",
@@ -30,7 +30,7 @@
       "layoutId": "body-dark-green-serif",
       "slots": {
         "brand": "",
-        "pageOf": "03 OF 08",
+        "pageOf": "",
         "number": "02",
         "title": "The Twenty-Minute Experiment",
         "body": "I swapped the wrist tech for a barefoot loop around the block each morning. No metrics, no notifications, just birds and bad coffee. By day five, my resting heart rate settled and my head felt quieter.",
@@ -41,7 +41,7 @@
       "layoutId": "body-dark-green-serif",
       "slots": {
         "brand": "",
-        "pageOf": "04 OF 08",
+        "pageOf": "",
         "number": "03",
         "title": "What The Research Says",
         "body": "Studies show light morning movement lowers cortisol and stabilizes glucose better than evening exercise. Sunlight anchors your circadian rhythm. A wearable tells you that you slept poorly; a walk actually fixes it.",
@@ -52,7 +52,7 @@
       "layoutId": "body-dark-green-serif",
       "slots": {
         "brand": "",
-        "pageOf": "05 OF 08",
+        "pageOf": "",
         "number": "04",
         "title": "The Real Cost Comparison",
         "body": "Four hundred dollars buys roughly two years of daily twenty-minute walks. The device depreciates; the habit compounds. One drains a battery, the other charges your nervous system.",
@@ -63,7 +63,7 @@
       "layoutId": "body-dark-green-serif",
       "slots": {
         "brand": "",
-        "pageOf": "06 OF 08",
+        "pageOf": "",
         "number": "05",
         "title": "When Tech Actually Helps",
         "body": "I am not anti-gadget. Metrics work when they motivate, not when they rule your mood. But if the wearable becomes another screen to dread, the walk wins every time.",
@@ -74,7 +74,7 @@
       "layoutId": "body-dark-green-serif",
       "slots": {
         "brand": "",
-        "pageOf": "07 OF 08",
+        "pageOf": "",
         "number": "06",
         "title": "Start Tomorrow Morning",
         "body": "Leave the charger on the nightstand. Lace up, step out, and stay out for twenty minutes. The best health tracker has always been your own two feet.",
@@ -88,7 +88,7 @@
         "eyebrow": "JOIN US",
         "headline": "Walk With Us Daily",
         "body": "Get one simple, science-backed walking tip every morning. No noise, no notifications.",
-        "buttonLabel": "START WALKING",
+        "buttonLabel": "",
         "handle": ""
       }
     }

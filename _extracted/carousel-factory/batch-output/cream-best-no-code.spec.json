@@ -10,12 +10,12 @@
         "titleLine1": "6 tools that",
         "titleLine2": "run 7-figure",
         "topic": "BRANDS",
-        "authorInitials": "NB",
-        "authorName": "Nora Build",
+        "authorInitials": "",
+        "authorName": "",
         "handle": "",
         "avatarBg1": "#1acd8a",
         "avatarBg2": "#0ea5e9",
-        "pageOf": "01 - 08"
+        "pageOf": ""
       }
     },
     {
@@ -29,7 +29,7 @@
         "tileKey": "Productize your agency",
         "tileValue": "Package templates and retainers to escape hourly billing.",
         "tileGlyph": "W",
-        "pageOf": "02 - 08"
+        "pageOf": ""
       }
     },
     {
@@ -43,7 +43,7 @@
         "tileKey": "Start with pre-built themes",
         "tileValue": "Customize later; speed to market beats perfection.",
         "tileGlyph": "S",
-        "pageOf": "03 - 08"
+        "pageOf": ""
       }
     },
     {
@@ -57,7 +57,7 @@
         "tileKey": "Mirror a production studio",
         "tileValue": "Link scripts, shoots, and invoices for full visibility.",
         "tileGlyph": "A",
-        "pageOf": "04 - 08"
+        "pageOf": ""
       }
     },
     {
@@ -71,7 +71,7 @@
         "tileKey": "Automate before you hire",
         "tileValue": "Save 20+ hours weekly on repetitive data entry.",
         "tileGlyph": "Z",
-        "pageOf": "05 - 08"
+        "pageOf": ""
       }
     },
     {
@@ -85,7 +85,7 @@
         "tileKey": "Validate before you code",
         "tileValue": "Test pricing and features with real customers first.",
         "tileGlyph": "B",
-        "pageOf": "06 - 08"
+        "pageOf": ""
       }
     },
     {
@@ -99,18 +99,18 @@
         "tileKey": "Build once, sell twice",
         "tileValue": "Template libraries generate passive revenue monthly.",
         "tileGlyph": "N",
-        "pageOf": "07 - 08"
+        "pageOf": ""
       }
     },
     {
       "layoutId": "cta-cream-best",
       "slots": {
-        "authorInitials": "NB",
-        "authorName": "Nora Build",
+        "authorInitials": "",
+        "authorName": "",
         "handle": "",
         "avatarBg1": "#1acd8a",
         "avatarBg2": "#0ea5e9",
-        "pageOf": "08 - 08",
+        "pageOf": "",
         "tagline": "We break down no-code stacks so you can ship faster.",
         "ctaQuestion": "Ready to build your stack?"
       }

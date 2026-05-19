@@ -40,7 +40,7 @@
         "outLine": "1.2B rows scanned in 3.4s",
         "okLine": "✓ DONE",
         "domainText": "",
-        "pageOf": "01 / 06"
+        "pageOf": ""
       }
     },
     {
@@ -61,7 +61,7 @@
         "outLine": "42 models, 8.7s",
         "okLine": "✓ PASS",
         "domainText": "",
-        "pageOf": "02 / 06"
+        "pageOf": ""
       }
     },
     {
@@ -82,7 +82,7 @@
         "outLine": "2.1M rows/s inserted",
         "okLine": "✓ LIVE",
         "domainText": "",
-        "pageOf": "03 / 06"
+        "pageOf": ""
       }
     },
     {
@@ -103,7 +103,7 @@
         "outLine": "stage 4/4 8.5B rows",
         "okLine": "✓ DONE",
         "domainText": "",
-        "pageOf": "04 / 06"
+        "pageOf": ""
       }
     },
     {
@@ -124,7 +124,7 @@
         "outLine": "4.3B rows, 12s",
         "okLine": "✓ DONE",
         "domainText": "",
-        "pageOf": "05 / 06"
+        "pageOf": ""
       }
     },
     {
@@ -145,7 +145,7 @@
         "outLine": "materialized 14 assets",
         "okLine": "✓ OK",
         "domainText": "",
-        "pageOf": "06 / 06"
+        "pageOf": ""
       }
     },
     {
@@ -156,12 +156,12 @@
         "ctaLine1": "Ship Pipelines",
         "ctaLine2": "That Scale",
         "ctaBody": "Grab the repo and deploy your first billion-row pipeline in under an hour. No team required.",
-        "btnPrimary": "Get Repo",
-        "btnGhost": "Read Docs",
+        "btnPrimary": "",
+        "btnGhost": "",
         "meta1": "open source · MIT",
         "meta2": "built in 2025",
         "domainText": "",
-        "pageOf": "06 / 06"
+        "pageOf": ""
       }
     }
   ]

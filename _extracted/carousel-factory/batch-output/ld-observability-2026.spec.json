@@ -40,7 +40,7 @@
         "outLine": "collector ready on :4317",
         "okLine": "✓ READY",
         "domainText": "",
-        "pageOf": "01 / 06"
+        "pageOf": ""
       }
     },
     {
@@ -61,7 +61,7 @@
         "outLine": "6 rules found, 0 errors",
         "okLine": "✓ VALID",
         "domainText": "",
-        "pageOf": "02 / 06"
+        "pageOf": ""
       }
     },
     {
@@ -82,7 +82,7 @@
         "outLine": "streams: 12, entries: 8.4k",
         "okLine": "✓ MATCHED",
         "domainText": "",
-        "pageOf": "03 / 06"
+        "pageOf": ""
       }
     },
     {
@@ -103,7 +103,7 @@
         "outLine": "12 spans, 3 services",
         "okLine": "✓ TRACED",
         "domainText": "",
-        "pageOf": "04 / 06"
+        "pageOf": ""
       }
     },
     {
@@ -124,7 +124,7 @@
         "outLine": "server listening on :3000",
         "okLine": "✓ ACTIVE",
         "domainText": "",
-        "pageOf": "05 / 06"
+        "pageOf": ""
       }
     },
     {
@@ -145,7 +145,7 @@
         "outLine": "3 routes, 2 receivers",
         "okLine": "✓ CONFIGURED",
         "domainText": "",
-        "pageOf": "06 / 06"
+        "pageOf": ""
       }
     },
     {
@@ -156,12 +156,12 @@
         "ctaLine1": "Stop flying blind",
         "ctaLine2": "start observing",
         "ctaBody": "Deploy this open-source observability stack in minutes with real configuration files and live examples.",
-        "btnPrimary": "Get the repo",
-        "btnGhost": "Read the docs",
+        "btnPrimary": "",
+        "btnGhost": "",
         "meta1": "open source · MIT",
         "meta2": "built in 2025",
         "domainText": "",
-        "pageOf": "06 / 06"
+        "pageOf": ""
       }
     }
   ]

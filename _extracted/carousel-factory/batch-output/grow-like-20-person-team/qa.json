@@ -3,12 +3,11 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/grow-like-20-person-team/slide-01.png",
-      "bytes": 81962,
+      "bytes": 80088,
       "qa": {
         "verdict": "pass",
         "checks": {
           "no_unfilled_slots": true,
-          "page_badge_in_bounds": true,
           "body_text_present": true,
           "body_text_in_bounds": true,
           "body_text_no_overflow": true
@@ -18,12 +17,6 @@
       "fingerprint": {
         "layout": "unknown",
         "elements": {
-          ".page-badge": {
-            "x": 103,
-            "y": 103,
-            "w": 112,
-            "h": 37
-          },
           ".body-text": {
             "x": 103,
             "y": 1112,
@@ -36,231 +29,168 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/grow-like-20-person-team/slide-02.png",
-      "bytes": 68719,
+      "bytes": 66737,
       "qa": {
         "verdict": "pass",
         "checks": {
-          "no_unfilled_slots": true,
-          "page_badge_in_bounds": true
+          "no_unfilled_slots": true
         },
         "issues": []
       },
       "fingerprint": {
         "layout": "unknown",
-        "elements": {
-          ".page-badge": {
-            "x": 103,
-            "y": 103,
-            "w": 60,
-            "h": 37
-          }
-        }
+        "elements": {}
       }
     },
     {
       "index": 2,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/grow-like-20-person-team/slide-03.png",
-      "bytes": 74060,
+      "bytes": 71620,
       "qa": {
         "verdict": "pass",
         "checks": {
-          "no_unfilled_slots": true,
-          "page_badge_in_bounds": true
+          "no_unfilled_slots": true
         },
         "issues": []
       },
       "fingerprint": {
         "layout": "unknown",
-        "elements": {
-          ".page-badge": {
-            "x": 103,
-            "y": 103,
-            "w": 60,
-            "h": 37
-          }
-        }
+        "elements": {}
       }
     },
     {
       "index": 3,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/grow-like-20-person-team/slide-04.png",
-      "bytes": 72837,
+      "bytes": 70937,
       "qa": {
         "verdict": "pass",
         "checks": {
-          "no_unfilled_slots": true,
-          "page_badge_in_bounds": true
+          "no_unfilled_slots": true
         },
         "issues": []
       },
       "fingerprint": {
         "layout": "unknown",
-        "elements": {
-          ".page-badge": {
-            "x": 103,
-            "y": 103,
-            "w": 60,
-            "h": 37
-          }
-        }
+        "elements": {}
       }
     },
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/grow-like-20-person-team/slide-05.png",
-      "bytes": 68991,
+      "bytes": 66916,
       "qa": {
         "verdict": "pass",
         "checks": {
-          "no_unfilled_slots": true,
-          "page_badge_in_bounds": true
+          "no_unfilled_slots": true
         },
         "issues": []
       },
       "fingerprint": {
         "layout": "unknown",
-        "elements": {
-          ".page-badge": {
-            "x": 103,
-            "y": 103,
-            "w": 60,
-            "h": 37
-          }
-        }
+        "elements": {}
       }
     },
     {
       "index": 5,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/grow-like-20-person-team/slide-06.png",
-      "bytes": 76096,
+      "bytes": 73851,
       "qa": {
         "verdict": "pass",
         "checks": {
-          "no_unfilled_slots": true,
-          "page_badge_in_bounds": true
+          "no_unfilled_slots": true
         },
         "issues": []
       },
       "fingerprint": {
         "layout": "unknown",
-        "elements": {
-          ".page-badge": {
-            "x": 103,
-            "y": 103,
-            "w": 60,
-            "h": 37
-          }
-        }
+        "elements": {}
       }
     },
     {
       "index": 6,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/grow-like-20-person-team/slide-07.png",
-      "bytes": 71667,
+      "bytes": 69502,
       "qa": {
         "verdict": "pass",
         "checks": {
-          "no_unfilled_slots": true,
-          "page_badge_in_bounds": true
+          "no_unfilled_slots": true
         },
         "issues": []
       },
       "fingerprint": {
         "layout": "unknown",
-        "elements": {
-          ".page-badge": {
-            "x": 103,
-            "y": 103,
-            "w": 60,
-            "h": 37
-          }
-        }
+        "elements": {}
       }
     },
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/grow-like-20-person-team/slide-08.png",
-      "bytes": 68380,
+      "bytes": 61703,
       "qa": {
         "verdict": "pass",
         "checks": {
-          "no_unfilled_slots": true,
-          "page_badge_in_bounds": true
+          "no_unfilled_slots": true
         },
         "issues": []
       },
       "fingerprint": {
         "layout": "unknown",
-        "elements": {
-          ".page-badge": {
-            "x": 103,
-            "y": 103,
-            "w": 60,
-            "h": 37
-          }
-        }
+        "elements": {}
       }
     }
   ],
   "carouselQa": {
-    "verdict": "needs-review",
-    "issues": [
-      "slides 2 and 3 have nearly identical composition (sim=1.00)",
-      "slides 3 and 4 have nearly identical composition (sim=1.00)",
-      "slides 4 and 5 have nearly identical composition (sim=1.00)",
-      "slides 5 and 6 have nearly identical composition (sim=1.00)",
-      "slides 6 and 7 have nearly identical composition (sim=1.00)",
-      "slides 7 and 8 have nearly identical composition (sim=1.00)"
-    ],
+    "verdict": "pass",
+    "issues": [],
     "adjacencyChecks": [
       {
         "between": [
           1,
           2
         ],
-        "similarity": 0.47860082304526746
+        "similarity": 0
       },
       {
         "between": [
           2,
           3
         ],
-        "similarity": 1
+        "similarity": 0
       },
       {
         "between": [
           3,
           4
         ],
-        "similarity": 1
+        "similarity": 0
       },
       {
         "between": [
           4,
           5
         ],
-        "similarity": 1
+        "similarity": 0
       },
       {
         "between": [
           5,
           6
         ],
-        "similarity": 1
+        "similarity": 0
       },
       {
         "between": [
           6,
           7
         ],
-        "similarity": 1
+        "similarity": 0
       },
       {
         "between": [
           7,
           8
         ],
-        "similarity": 1
+        "similarity": 0
       }
     ]
   }

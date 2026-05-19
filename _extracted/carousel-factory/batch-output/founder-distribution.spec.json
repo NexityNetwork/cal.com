@@ -7,7 +7,7 @@
     {
       "layoutId": "cover-rounded-card",
       "slots": {
-        "pageBadge": "01",
+        "pageBadge": "",
         "headlineLine1": "One carousel",
         "headlineLine2": "twelve assets, zero effort",
         "body": "Founders waste hours manually resizing content for every platform. Here's the automated system I use to multiply reach.",
@@ -17,7 +17,7 @@
     {
       "layoutId": "body-rounded-card",
       "slots": {
-        "pageBadge": "02",
+        "pageBadge": "",
         "handle": "",
         "number": "01",
         "title": "Build the",
@@ -28,13 +28,13 @@
         "ico3": "📐",
         "ico4": "🖼",
         "nextNote": "Slice by platform",
-        "pageOf": "02 / 08"
+        "pageOf": ""
       }
     },
     {
       "layoutId": "body-rounded-card",
       "slots": {
-        "pageBadge": "03",
+        "pageBadge": "",
         "handle": "",
         "number": "02",
         "title": "Vertical clips for",
@@ -45,13 +45,13 @@
         "ico3": "🎬",
         "ico4": "⏯",
         "nextNote": "Square for feed",
-        "pageOf": "03 / 08"
+        "pageOf": ""
       }
     },
     {
       "layoutId": "body-rounded-card",
       "slots": {
-        "pageBadge": "04",
+        "pageBadge": "",
         "handle": "",
         "number": "03",
         "title": "Square tiles for",
@@ -62,13 +62,13 @@
         "ico3": "💼",
         "ico4": "□",
         "nextNote": "Widescreen is next",
-        "pageOf": "04 / 08"
+        "pageOf": ""
       }
     },
     {
       "layoutId": "body-rounded-card",
       "slots": {
-        "pageBadge": "05",
+        "pageBadge": "",
         "handle": "",
         "number": "04",
         "title": "Widescreen for",
@@ -79,13 +79,13 @@
         "ico3": "💻",
         "ico4": "📝",
         "nextNote": "Static quotes now",
-        "pageOf": "05 / 08"
+        "pageOf": ""
       }
     },
     {
       "layoutId": "body-rounded-card",
       "slots": {
-        "pageBadge": "06",
+        "pageBadge": "",
         "handle": "",
         "number": "05",
         "title": "Extract quote",
@@ -96,13 +96,13 @@
         "ico3": "📲",
         "ico4": "✨",
         "nextNote": "Automate the rest",
-        "pageOf": "06 / 08"
+        "pageOf": ""
       }
     },
     {
       "layoutId": "body-rounded-card",
       "slots": {
-        "pageBadge": "07",
+        "pageBadge": "",
         "handle": "",
         "number": "06",
         "title": "Schedule and",
@@ -113,19 +113,19 @@
         "ico3": "📅",
         "ico4": "🌐",
         "nextNote": "Start building now",
-        "pageOf": "07 / 08"
+        "pageOf": ""
       }
     },
     {
       "layoutId": "cta-rounded-card",
       "slots": {
-        "pageBadge": "08",
+        "pageBadge": "",
         "handle": "",
         "eyebrow": "YOUR MOVE",
         "headlineLine1": "Steal this",
         "headlineLine2": "distribution engine",
         "body": "Save ten hours a week. Drop your email below and I'll send you the exact automation template I use to scale content.",
-        "buttonLabel": "Get the template",
+        "buttonLabel": "",
         "secondaryLabel": "Follow @alexosborne",
         "footerLeft": "Founder Distribution",
         "footerRight": "Link in bio"

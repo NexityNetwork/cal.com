@@ -10,12 +10,12 @@
         "titleLine1": "The Ultimate",
         "titleLine2": "Guide to",
         "titleBold": "OUTREACH",
-        "authorInitials": "AB",
-        "authorName": "Alex Blake",
+        "authorInitials": "",
+        "authorName": "",
         "handle": "",
         "avatarBg1": "#37474f",
         "avatarBg2": "#78909c",
-        "pageOf": "01 - 08"
+        "pageOf": ""
       }
     },
     {
@@ -26,7 +26,7 @@
         "bodyLine3": "a single word",
         "bodyLine4": "so your hook",
         "bodyLine5": "feels deeply personal",
-        "pageOf": "02 - 08"
+        "pageOf": ""
       }
     },
     {
@@ -37,7 +37,7 @@
         "bodyLine3": "they already know",
         "bodyLine4": "but rarely admit",
         "bodyLine5": "to anyone else",
-        "pageOf": "03 - 08"
+        "pageOf": ""
       }
     },
     {
@@ -48,7 +48,7 @@
         "bodyLine3": "company you helped",
         "bodyLine4": "and instantly earn",
         "bodyLine5": "more of their trust",
-        "pageOf": "04 - 08"
+        "pageOf": ""
       }
     },
     {
@@ -59,7 +59,7 @@
         "bodyLine3": "eighty words",
         "bodyLine4": "so busy people",
         "bodyLine5": "actually read it",
-        "pageOf": "05 - 08"
+        "pageOf": ""
       }
     },
     {
@@ -70,7 +70,7 @@
         "bodyLine3": "question at the",
         "bodyLine4": "end to make",
         "bodyLine5": "replying effortless",
-        "pageOf": "06 - 08"
+        "pageOf": ""
       }
     },
     {
@@ -81,18 +81,18 @@
         "bodyLine3": "two weeks",
         "bodyLine4": "because most replies",
         "bodyLine5": "come after three",
-        "pageOf": "07 - 08"
+        "pageOf": ""
       }
     },
     {
       "layoutId": "cta-mint-condensed",
       "slots": {
-        "authorInitials": "AB",
-        "authorName": "Alex Blake",
+        "authorInitials": "",
+        "authorName": "",
         "handle": "",
         "avatarBg1": "#37474f",
         "avatarBg2": "#78909c",
-        "pageOf": "08 - 08",
+        "pageOf": "",
         "tagline": "Strategic outreach systems that turn cold leads into booked meetings.",
         "ctaQuestion": "Ready to book more meetings ?"
       }

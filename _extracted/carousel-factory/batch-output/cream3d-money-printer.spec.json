@@ -10,12 +10,12 @@
         "titleLine1": "Turn your",
         "titleBold": "WEBSITE INTO",
         "titleLine3": "a money printer",
-        "authorInitials": "AM",
-        "authorName": "Alex Marx",
+        "authorInitials": "",
+        "authorName": "",
         "handle": "",
         "avatarBg1": "#D4755F",
         "avatarBg2": "#F2D6B3",
-        "pageOf": "01 - 08"
+        "pageOf": ""
       }
     },
     {
@@ -28,7 +28,7 @@
         "bodyLine5": "trust and action",
         "tipLabel": "PRO TIP",
         "tipBody": "Add a recent-sales ticker to your checkout page to reduce cart abandonment by 18%.",
-        "pageOf": "02 - 08"
+        "pageOf": ""
       }
     },
     {
@@ -41,7 +41,7 @@
         "bodyLine5": "or free shipping",
         "tipLabel": "QUICK WIN",
         "tipBody": "Use an exit-intent popup to recover 15% of abandoning visitors with a timed coupon code.",
-        "pageOf": "03 - 08"
+        "pageOf": ""
       }
     },
     {
@@ -54,7 +54,7 @@
         "bodyLine5": "most excited to spend",
         "tipLabel": "REVENUE HACK",
         "tipBody": "Post-checkout upsells convert 3x higher than homepage offers because intent peaks at purchase.",
-        "pageOf": "04 - 08"
+        "pageOf": ""
       }
     },
     {
@@ -67,7 +67,7 @@
         "bodyLine5": "urgent action today",
         "tipLabel": "USE THIS",
         "tipBody": "Place deadline timers inside your hero section to lift conversion rates by up to 30%.",
-        "pageOf": "05 - 08"
+        "pageOf": ""
       }
     },
     {
@@ -80,7 +80,7 @@
         "bodyLine5": "safe saying yes",
         "tipLabel": "TRUST MOVE",
         "tipBody": "Highlight a 30-day money-back guarantee within two clicks of your buy button to crush objections.",
-        "pageOf": "06 - 08"
+        "pageOf": ""
       }
     },
     {
@@ -93,7 +93,7 @@
         "bodyLine5": "that solves one pain",
         "tipLabel": "GROW FAST",
         "tipBody": "Send a 3-day welcome sequence to new subscribers to convert 20% into buyers on autopilot.",
-        "pageOf": "07 - 08"
+        "pageOf": ""
       }
     },
     {
@@ -102,7 +102,7 @@
         "tagline": "We turn sleepy websites into 24/7 sales engines using psychology, design, and automation.",
         "ctaQuestion": "Ready to build your money printer ?",
         "handle": "",
-        "pageOf": "08 - 08"
+        "pageOf": ""
       }
     }
   ]

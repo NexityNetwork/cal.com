@@ -7,8 +7,8 @@
     {
       "layoutId": "cover-pastel-soft",
       "slots": {
-        "authorInitials": "NW",
-        "authorName": "Nora Wells",
+        "authorInitials": "",
+        "authorName": "",
         "handle": "",
         "tagBlue": "Self Growth",
         "tagPink": "Mindset",
@@ -23,8 +23,8 @@
     {
       "layoutId": "body-pastel-soft",
       "slots": {
-        "authorName": "Nora Wells",
-        "pageOf": "2 / 8",
+        "authorName": "",
+        "pageOf": "",
         "number": "1",
         "numberLabel": "Insight",
         "titleMain": "Toxic positivity",
@@ -36,8 +36,8 @@
     {
       "layoutId": "body-pastel-soft",
       "slots": {
-        "authorName": "Nora Wells",
-        "pageOf": "3 / 8",
+        "authorName": "",
+        "pageOf": "",
         "number": "2",
         "numberLabel": "Step",
         "titleMain": "Validate your",
@@ -49,8 +49,8 @@
     {
       "layoutId": "body-pastel-soft",
       "slots": {
-        "authorName": "Nora Wells",
-        "pageOf": "4 / 8",
+        "authorName": "",
+        "pageOf": "",
         "number": "3",
         "numberLabel": "Step",
         "titleMain": "Speak like a",
@@ -62,8 +62,8 @@
     {
       "layoutId": "body-pastel-soft",
       "slots": {
-        "authorName": "Nora Wells",
-        "pageOf": "5 / 8",
+        "authorName": "",
+        "pageOf": "",
         "number": "4",
         "numberLabel": "Step",
         "titleMain": "Rest without",
@@ -75,8 +75,8 @@
     {
       "layoutId": "body-pastel-soft",
       "slots": {
-        "authorName": "Nora Wells",
-        "pageOf": "6 / 8",
+        "authorName": "",
+        "pageOf": "",
         "number": "5",
         "numberLabel": "Step",
         "titleMain": "Remember your",
@@ -88,8 +88,8 @@
     {
       "layoutId": "body-pastel-soft",
       "slots": {
-        "authorName": "Nora Wells",
-        "pageOf": "7 / 8",
+        "authorName": "",
+        "pageOf": "",
         "number": "6",
         "numberLabel": "Step",
         "titleMain": "Offer gentle",
@@ -101,13 +101,13 @@
     {
       "layoutId": "cta-pastel-soft",
       "slots": {
-        "authorName": "Nora Wells",
-        "pageOf": "8 / 8",
+        "authorName": "",
+        "pageOf": "",
         "eyebrow": "YOUR TURN",
         "headlineMain": "Choose one",
         "headlineItalic": "today",
         "body": "Which practice will you try first? Save this carousel and come back whenever you need a gentle reminder.",
-        "buttonLabel": "Save this",
+        "buttonLabel": "",
         "secondaryLabel": "Share with a friend",
         "handle": ""
       }

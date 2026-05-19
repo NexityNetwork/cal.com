@@ -7,8 +7,8 @@
     {
       "layoutId": "cover-y2k-window",
       "slots": {
-        "authorInitials": "SN",
-        "authorName": "Noé Ellis",
+        "authorInitials": "",
+        "authorName": "",
         "handle": "",
         "number": "5",
         "firstWord": "Notion",
@@ -21,8 +21,8 @@
     {
       "layoutId": "body-y2k-window",
       "slots": {
-        "authorInitials": "SN",
-        "authorName": "Noé Ellis",
+        "authorInitials": "",
+        "authorName": "",
         "handle": "",
         "number": "1",
         "title": "Content Calendar",
@@ -33,8 +33,8 @@
     {
       "layoutId": "body-y2k-window",
       "slots": {
-        "authorInitials": "SN",
-        "authorName": "Noé Ellis",
+        "authorInitials": "",
+        "authorName": "",
         "handle": "",
         "number": "2",
         "title": "Project Tracker",
@@ -45,8 +45,8 @@
     {
       "layoutId": "body-y2k-window",
       "slots": {
-        "authorInitials": "SN",
-        "authorName": "Noé Ellis",
+        "authorInitials": "",
+        "authorName": "",
         "handle": "",
         "number": "3",
         "title": "Sponsor Pipeline",
@@ -57,8 +57,8 @@
     {
       "layoutId": "body-y2k-window",
       "slots": {
-        "authorInitials": "SN",
-        "authorName": "Noé Ellis",
+        "authorInitials": "",
+        "authorName": "",
         "handle": "",
         "number": "4",
         "title": "Finance Hub",
@@ -69,8 +69,8 @@
     {
       "layoutId": "body-y2k-window",
       "slots": {
-        "authorInitials": "SN",
-        "authorName": "Noé Ellis",
+        "authorInitials": "",
+        "authorName": "",
         "handle": "",
         "number": "5",
         "title": "Product Vault",
@@ -81,8 +81,8 @@
     {
       "layoutId": "body-y2k-window",
       "slots": {
-        "authorInitials": "SN",
-        "authorName": "Noé Ellis",
+        "authorInitials": "",
+        "authorName": "",
         "handle": "",
         "number": "6",
         "title": "Creator Dashboard",
@@ -93,14 +93,14 @@
     {
       "layoutId": "cta-y2k-window",
       "slots": {
-        "authorInitials": "SN",
-        "authorName": "Noé Ellis",
+        "authorInitials": "",
+        "authorName": "",
         "handle": "",
         "eyebrow": "YOUR TURN",
         "headlineMain": "SAVE THIS",
         "accentLine": "POST NOW",
         "body": "Which template will you build first? Comment below and tag a creator friend.",
-        "buttonLabel": "Save this post",
+        "buttonLabel": "",
         "websiteUrl": "noecreates.com"
       }
     }

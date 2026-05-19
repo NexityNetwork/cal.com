@@ -10,12 +10,12 @@
         "titleLine1": "6 best platforms",
         "titleLine2": "paid creators need",
         "topic": "NEWSLETTERS",
-        "authorInitials": "JD",
-        "authorName": "Jordan Doe",
+        "authorInitials": "",
+        "authorName": "",
         "handle": "",
         "avatarBg1": "#1acd8a",
         "avatarBg2": "#e2ffed",
-        "pageOf": "01 - 08"
+        "pageOf": ""
       }
     },
     {
@@ -29,7 +29,7 @@
         "tileKey": "Charge from day one",
         "tileValue": "Take home 90% after fees.",
         "tileGlyph": "S",
-        "pageOf": "02 - 08"
+        "pageOf": ""
       }
     },
     {
@@ -43,7 +43,7 @@
         "tileKey": "Zero percent revenue share",
         "tileValue": "Keep all subscription earnings.",
         "tileGlyph": "B",
-        "pageOf": "03 - 08"
+        "pageOf": ""
       }
     },
     {
@@ -57,7 +57,7 @@
         "tileKey": "Use visual funnels",
         "tileValue": "Nurture free readers into buyers.",
         "tileGlyph": "C",
-        "pageOf": "04 - 08"
+        "pageOf": ""
       }
     },
     {
@@ -71,7 +71,7 @@
         "tileKey": "Self host or managed",
         "tileValue": "Stripe fees are your only cost.",
         "tileGlyph": "G",
-        "pageOf": "05 - 08"
+        "pageOf": ""
       }
     },
     {
@@ -85,7 +85,7 @@
         "tileKey": "Start on free tier",
         "tileValue": "Upgrade only when revenue grows.",
         "tileGlyph": "M",
-        "pageOf": "06 - 08"
+        "pageOf": ""
       }
     },
     {
@@ -99,18 +99,18 @@
         "tileKey": "Markdown first workflow",
         "tileValue": "Write faster with zero clutter.",
         "tileGlyph": "⚡",
-        "pageOf": "07 - 08"
+        "pageOf": ""
       }
     },
     {
       "layoutId": "cta-cream-best",
       "slots": {
-        "authorInitials": "JD",
-        "authorName": "Jordan Doe",
+        "authorInitials": "",
+        "authorName": "",
         "handle": "",
         "avatarBg1": "#1acd8a",
         "avatarBg2": "#e2ffed",
-        "pageOf": "08 - 08",
+        "pageOf": "",
         "tagline": "Helping creators launch, monetize, and grow newsletters that actually pay the bills.",
         "ctaQuestion": "Want the full platform breakdown ?"
       }

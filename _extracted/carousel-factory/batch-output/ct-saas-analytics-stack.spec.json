@@ -34,8 +34,8 @@
         "name5": "June",
         "desc5": "B2B SaaS analytics that auto-generates actionable growth reports.",
         "tag5": "FREE TIER",
-        "swipeLabel": "SEE EACH ONE",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -62,7 +62,7 @@
         "iconSlug4": "stripe",
         "iconSlug5": "zapier",
         "iconSlug6": "vercel",
-        "pageOf": "02 / 08",
+        "pageOf": "",
         "footerNote": "Generous free tier included"
       }
     },
@@ -90,7 +90,7 @@
         "iconSlug4": "google",
         "iconSlug5": "posthog",
         "iconSlug6": "stripe",
-        "pageOf": "03 / 08",
+        "pageOf": "",
         "footerNote": "Self-host for free"
       }
     },
@@ -118,7 +118,7 @@
         "iconSlug4": "wordpress",
         "iconSlug5": "nextjs",
         "iconSlug6": "stripe",
-        "pageOf": "04 / 08",
+        "pageOf": "",
         "footerNote": "GDPR compliant out of box"
       }
     },
@@ -146,7 +146,7 @@
         "iconSlug4": "nextjs",
         "iconSlug5": "semrush",
         "iconSlug6": "ahrefs",
-        "pageOf": "05 / 08",
+        "pageOf": "",
         "footerNote": "Essential for SEO growth"
       }
     },
@@ -174,7 +174,7 @@
         "iconSlug4": "stripe",
         "iconSlug5": "hubspot",
         "iconSlug6": "salesforce",
-        "pageOf": "06 / 08",
+        "pageOf": "",
         "footerNote": "Built for B2B SaaS"
       }
     },
@@ -202,7 +202,7 @@
         "iconSlug4": "slack",
         "iconSlug5": "hubspot",
         "iconSlug6": "notion",
-        "pageOf": "07 / 08",
+        "pageOf": "",
         "footerNote": "Free up to $10k MRR"
       }
     },
@@ -216,8 +216,8 @@
         "titleAccent": "analytics stack",
         "titleItalic": "this weekend",
         "body": "Drop the enterprise bloat. These six tools give you clarity without the invoice shock.",
-        "btnPrimary": "Save stack",
-        "btnGhost": "Share this",
+        "btnPrimary": "",
+        "btnGhost": "",
         "stackLabel": "the full stack",
         "iconSlug1": "posthog",
         "iconSlug2": "metabase",
@@ -226,7 +226,7 @@
         "iconSlug5": "june",
         "iconSlug6": "chartmogul",
         "signoff": "ship your weekend project",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

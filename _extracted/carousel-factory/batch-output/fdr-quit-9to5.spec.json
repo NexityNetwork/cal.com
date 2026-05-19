@@ -13,10 +13,10 @@
         "titleLine1": "my safe job",
         "titleUnderline": "to build",
         "titleAccent": "with AI",
-        "avatarLetter": "J",
-        "byLine": "from the trenches",
-        "authorName": "Jake Donovan",
-        "authorRole": "founder · late-night writer",
+        "avatarLetter": "",
+        "byLine": "",
+        "authorName": "",
+        "authorRole": "",
         "stickyNote": "here's exactly what I did (and broke)",
         "intro": "I walked away from a $200k salary to build with AI. <em>Six months later, here's the honest truth.</em>",
         "tile1Label": "OpenAI",
@@ -27,8 +27,8 @@
         "iconSlug2": "stripe",
         "iconSlug3": "vercel",
         "iconSlug4": "notion",
-        "swipeLabel": "let's go",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -56,13 +56,13 @@
         "insight3Tag": "AHA",
         "insight3Note": "this surprised me",
         "insight3Pill": "$49 MRR",
-        "avatarLetter": "J",
-        "authorQuote": "I thought <em>build it and they will come</em> was actually true. It is not.",
+        "avatarLetter": "",
+        "authorQuote": "",
         "iconSlug1": "aws",
         "iconSlug2": "openai",
         "iconSlug3": "stripe",
         "iconSlug4": "github",
-        "pageOf": "02 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -90,13 +90,13 @@
         "insight3Tag": "WIN",
         "insight3Note": "finally clicked",
         "insight3Pill": "+40% DAU",
-        "avatarLetter": "J",
-        "authorQuote": "Speed of shipping <em>does not equal</em> speed of learning.",
+        "avatarLetter": "",
+        "authorQuote": "",
         "iconSlug1": "openai",
         "iconSlug2": "anthropic",
         "iconSlug3": "replit",
         "iconSlug4": "linear",
-        "pageOf": "03 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -124,13 +124,13 @@
         "insight3Tag": "WIN",
         "insight3Note": "community matters",
         "insight3Pill": "12 PEERS",
-        "avatarLetter": "J",
-        "authorQuote": "Staying quit <em>when it gets quiet</em> is the real founder test.",
+        "avatarLetter": "",
+        "authorQuote": "",
         "iconSlug1": "discord",
         "iconSlug2": "twitter",
         "iconSlug3": "linkedin",
         "iconSlug4": "slack",
-        "pageOf": "04 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -158,13 +158,13 @@
         "insight3Tag": "WIN",
         "insight3Note": "rhythm wins",
         "insight3Pill": "7 DAYS",
-        "avatarLetter": "J",
-        "authorQuote": "I spent months building what I could have <em>validated in a weekend.</em>",
+        "avatarLetter": "",
+        "authorQuote": "",
         "iconSlug1": "notion",
         "iconSlug2": "figma",
         "iconSlug3": "loom",
         "iconSlug4": "chrome",
-        "pageOf": "05 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -192,13 +192,13 @@
         "insight3Tag": "AHA",
         "insight3Note": "almost there",
         "insight3Pill": "MO 6",
-        "avatarLetter": "J",
-        "authorQuote": "Vanity metrics feel good but <em>bank balance keeps you alive.</em>",
+        "avatarLetter": "",
+        "authorQuote": "",
         "iconSlug1": "stripe",
         "iconSlug2": "zapier",
         "iconSlug3": "google",
         "iconSlug4": "notion",
-        "pageOf": "06 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -226,13 +226,13 @@
         "insight3Tag": "WIN",
         "insight3Note": "good problems",
         "insight3Pill": "CHOICE",
-        "avatarLetter": "J",
-        "authorQuote": "The middle is where <em>founders are actually made.</em>",
+        "avatarLetter": "",
+        "authorQuote": "",
         "iconSlug1": "vercel",
         "iconSlug2": "linear",
         "iconSlug3": "slack",
         "iconSlug4": "notion",
-        "pageOf": "07 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -252,10 +252,10 @@
         "iconSlug5": "linear",
         "iconSlug6": "discord",
         "ctaBody": "Building in public keeps me honest. <em>Follow along for month seven.</em>",
-        "btnPrimary": "Save Post",
-        "btnGhost": "follow for more",
+        "btnPrimary": "",
+        "btnGhost": "",
         "signoff": "more next week ✱",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

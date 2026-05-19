@@ -30,8 +30,8 @@
         "iconSlug3": "docker",
         "iconSlug4": "istio",
         "iconSlug5": "prometheus",
-        "swipeLabel": "DEPLOY",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -66,7 +66,7 @@
         "iconSlug2": "helm",
         "iconSlug3": "docker",
         "iconSlug4": "linux",
-        "pageOf": "02 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -101,7 +101,7 @@
         "iconSlug2": "terraform",
         "iconSlug3": "aws",
         "iconSlug4": "docker",
-        "pageOf": "03 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -136,7 +136,7 @@
         "iconSlug2": "linux",
         "iconSlug3": "bash",
         "iconSlug4": "zsh",
-        "pageOf": "04 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -171,7 +171,7 @@
         "iconSlug2": "docker",
         "iconSlug3": "prometheus",
         "iconSlug4": "grafana",
-        "pageOf": "05 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -206,7 +206,7 @@
         "iconSlug2": "linux",
         "iconSlug3": "git",
         "iconSlug4": "github",
-        "pageOf": "06 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -241,7 +241,7 @@
         "iconSlug2": "docker",
         "iconSlug3": "helm",
         "iconSlug4": "prometheus",
-        "pageOf": "07 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -261,10 +261,10 @@
         "iconSlug5": "prometheus",
         "iconSlug6": "grafana",
         "ctaBody": "Bookmark these <em>kubectl power moves</em> and turn long YAML marathons into instant shell magic.",
-        "btnPrimary": "Bookmark Now",
-        "btnGhost": "Follow @kubehacker",
+        "btnPrimary": "",
+        "btnGhost": "",
         "signoff": "ship fast, debug faster",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

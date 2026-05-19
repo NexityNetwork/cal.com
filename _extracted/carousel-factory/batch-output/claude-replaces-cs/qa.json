@@ -115,7 +115,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/claude-replaces-cs/slide-08.png",
-      "bytes": 77269,
+      "bytes": 69326,
       "qa": {
         "verdict": "pass",
         "checks": {

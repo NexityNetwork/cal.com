@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/la-postgres-superpowers/slide-01.png",
-      "bytes": 64540,
+      "bytes": 60101,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -19,7 +19,7 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/la-postgres-superpowers/slide-02.png",
-      "bytes": 90888,
+      "bytes": 89468,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -45,7 +45,7 @@
     {
       "index": 2,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/la-postgres-superpowers/slide-03.png",
-      "bytes": 88063,
+      "bytes": 86269,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -71,7 +71,7 @@
     {
       "index": 3,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/la-postgres-superpowers/slide-04.png",
-      "bytes": 82337,
+      "bytes": 80979,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -97,7 +97,7 @@
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/la-postgres-superpowers/slide-05.png",
-      "bytes": 87290,
+      "bytes": 85803,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -123,7 +123,7 @@
     {
       "index": 5,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/la-postgres-superpowers/slide-06.png",
-      "bytes": 84495,
+      "bytes": 82932,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -149,7 +149,7 @@
     {
       "index": 6,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/la-postgres-superpowers/slide-07.png",
-      "bytes": 87582,
+      "bytes": 86380,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -175,7 +175,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/la-postgres-superpowers/slide-08.png",
-      "bytes": 188842,
+      "bytes": 182940,
       "qa": {
         "verdict": "pass",
         "checks": {

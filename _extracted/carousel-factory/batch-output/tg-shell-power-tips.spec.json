@@ -30,8 +30,8 @@
         "iconSlug3": "apple",
         "iconSlug4": "github",
         "iconSlug5": "docker",
-        "swipeLabel": "RUN",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -66,7 +66,7 @@
         "iconSlug2": "gnubash",
         "iconSlug3": "neovim",
         "iconSlug4": "linux",
-        "pageOf": "02 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -101,7 +101,7 @@
         "iconSlug2": "apple",
         "iconSlug3": "gnubash",
         "iconSlug4": "zsh",
-        "pageOf": "03 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -136,7 +136,7 @@
         "iconSlug2": "linux",
         "iconSlug3": "gnubash",
         "iconSlug4": "rust",
-        "pageOf": "04 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -171,7 +171,7 @@
         "iconSlug2": "rust",
         "iconSlug3": "neovim",
         "iconSlug4": "linux",
-        "pageOf": "05 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -206,7 +206,7 @@
         "iconSlug2": "rust",
         "iconSlug3": "github",
         "iconSlug4": "linux",
-        "pageOf": "06 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -241,7 +241,7 @@
         "iconSlug2": "linux",
         "iconSlug3": "git",
         "iconSlug4": "neovim",
-        "pageOf": "07 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -261,10 +261,10 @@
         "iconSlug5": "git",
         "iconSlug6": "docker",
         "ctaBody": "Drop these <em>5 tools</em> into your dotfiles and turn your terminal into a senior dev cockpit.",
-        "btnPrimary": "Bookmark Now",
-        "btnGhost": "Follow @shellstack",
+        "btnPrimary": "",
+        "btnGhost": "",
         "signoff": "ship fast, debug faster",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

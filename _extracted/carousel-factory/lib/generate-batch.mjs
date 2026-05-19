@@ -1048,7 +1048,17 @@ const startedAt = Date.now();
 
 // Identity slots stripped from every spec before composition.
 // Templates can keep the slots; compose substitutes "" when missing.
-const KILL_SLOTS = ["handle", "brand", "brandTag", "domain", "domainText"];
+const KILL_SLOTS = [
+  // identity
+  "handle", "brand", "brandTag", "domain", "domainText",
+  // author/byline
+  "author", "authorName", "authorInitials", "authorQuote", "authorRole",
+  "byLine", "avatarLetter",
+  // pagination / swipe
+  "pageOf", "pageNumber", "pageBadge", "pageLabel", "swipeLabel",
+  // CTA button labels (containers stripped by compose.stripEmptyDecoratives)
+  "buttonLabel", "btnPrimary", "btnGhost", "buttonLine",
+];
 function killIdentitySlots(spec) {
   for (const slide of spec.slides || []) {
     if (!slide.slots) continue;

@@ -12,9 +12,9 @@
         "word1": "BAD",
         "word2": "Good",
         "word3": "Great",
-        "authorInitials": "JD",
-        "authorName": "Jordan Doe",
-        "authorRole": "AI Engineer",
+        "authorInitials": "",
+        "authorName": "",
+        "authorRole": "",
         "handle": ""
       }
     },
@@ -28,9 +28,9 @@
         "titleUnderline": "not commands",
         "body": "Bad prompts demand blindly. Good ones ask clearly. Great prompts wrap the task in role, audience, and constraints first.",
         "note": "Context reduces hallucination and aligns tone instantly.",
-        "authorInitials": "JD",
-        "authorName": "Jordan Doe",
-        "pageOf": "2 / 8"
+        "authorInitials": "",
+        "authorName": "",
+        "pageOf": ""
       }
     },
     {
@@ -43,9 +43,9 @@
         "titleUnderline": "into steps",
         "body": "Bad prompts cram everything into one sentence. Good prompts list requirements. Great prompts sequence reasoning so the model checks itself.",
         "note": "Step-by-step structures outperform flat instructions every time.",
-        "authorInitials": "JD",
-        "authorName": "Jordan Doe",
-        "pageOf": "3 / 8"
+        "authorInitials": "",
+        "authorName": "",
+        "pageOf": ""
       }
     },
     {
@@ -58,9 +58,9 @@
         "titleUnderline": "you want",
         "body": "Bad prompts leave output shape to chance. Good ones mention format. Great prompts provide a template or example to fill verbatim.",
         "note": "Examples beat descriptions when precision matters.",
-        "authorInitials": "JD",
-        "authorName": "Jordan Doe",
-        "pageOf": "4 / 8"
+        "authorInitials": "",
+        "authorName": "",
+        "pageOf": ""
       }
     },
     {
@@ -73,9 +73,9 @@
         "titleUnderline": "and bounds",
         "body": "Bad prompts ignore length and style. Good prompts add a constraint or two. Great prompts define what to avoid as clearly as what to include.",
         "note": "Negative constraints cut fluff faster than positive ones.",
-        "authorInitials": "JD",
-        "authorName": "Jordan Doe",
-        "pageOf": "5 / 8"
+        "authorInitials": "",
+        "authorName": "",
+        "pageOf": ""
       }
     },
     {
@@ -88,9 +88,9 @@
         "titleUnderline": "and review",
         "body": "Bad prompts accept the first draft. Good prompts ask for revision. Great prompts build in a critique loop where the model scores its own answer.",
         "note": "Meta-cognition turns decent answers into exceptional ones.",
-        "authorInitials": "JD",
-        "authorName": "Jordan Doe",
-        "pageOf": "6 / 8"
+        "authorInitials": "",
+        "authorName": "",
+        "pageOf": ""
       }
     },
     {
@@ -103,9 +103,9 @@
         "titleUnderline": "not a task",
         "body": "Bad prompts treat the model like a search engine. Good ones assign a job title. Great prompts flesh out expertise, bias, and voice.",
         "note": "A vivid persona unlocks latent knowledge in the weights.",
-        "authorInitials": "JD",
-        "authorName": "Jordan Doe",
-        "pageOf": "7 / 8"
+        "authorInitials": "",
+        "authorName": "",
+        "pageOf": ""
       }
     },
     {
@@ -115,9 +115,9 @@
         "headlineMain": "Which tier",
         "headlineAccent": "will you choose",
         "body": "Save this framework and test it on your next prompt. Great results come from great structure.",
-        "buttonLabel": "Save this post",
-        "authorInitials": "JD",
-        "authorName": "Jordan Doe",
+        "buttonLabel": "",
+        "authorInitials": "",
+        "authorName": "",
         "handle": ""
       }
     }

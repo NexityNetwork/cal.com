@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/fdr-killed-ads/slide-01.png",
-      "bytes": 112671,
+      "bytes": 111097,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -115,7 +115,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/fdr-killed-ads/slide-08.png",
-      "bytes": 59423,
+      "bytes": 57566,
       "qa": {
         "verdict": "pass",
         "checks": {

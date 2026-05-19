@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/ba-cold-email-ai/slide-01.png",
-      "bytes": 107806,
+      "bytes": 106242,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -115,7 +115,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/ba-cold-email-ai/slide-08.png",
-      "bytes": 56552,
+      "bytes": 54769,
       "qa": {
         "verdict": "pass",
         "checks": {

@@ -7,9 +7,9 @@
     {
       "layoutId": "cover-linkedin-pro",
       "slots": {
-        "author": "Maya Patel",
+        "author": "",
         "badgeText": "LINKEDIN CAROUSEL POST",
-        "pageNumber": "1",
+        "pageNumber": "",
         "accentColor": "#4f3df5",
         "headline": "We Don't Do Coding Tests Anymore",
         "heroSymbol": "⚡",
@@ -21,9 +21,9 @@
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Maya Patel",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "2",
+        "pageNumber": "",
         "accentColor": "#4f3df5",
         "title": "System Design Over Syntax",
         "body": "We ask candidates to architect a feature, not memorize algorithms. Clean trade-offs beat clever code.",
@@ -36,9 +36,9 @@
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Maya Patel",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "3",
+        "pageNumber": "",
         "accentColor": "#4f3df5",
         "title": "Communication Is a Feature",
         "body": "Engineers who write clear docs and explain trade-offs ship faster. We test this in every interview.",
@@ -51,9 +51,9 @@
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Maya Patel",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "4",
+        "pageNumber": "",
         "accentColor": "#4f3df5",
         "title": "AI Fluency Matters Most",
         "body": "We don't ban ChatGPT. We watch how candidates prompt, verify, and refine AI-generated output.",
@@ -66,9 +66,9 @@
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Maya Patel",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "5",
+        "pageNumber": "",
         "accentColor": "#4f3df5",
         "title": "Own the Problem End-to-End",
         "body": "We look for curiosity about the 'why' behind the ticket. Ownership beats task completion every time.",
@@ -81,9 +81,9 @@
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Maya Patel",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "6",
+        "pageNumber": "",
         "accentColor": "#4f3df5",
         "title": "Learn in Public",
         "body": "Tech stacks expire. We hire engineers who show proof of learning from failure and feedback loops.",
@@ -96,9 +96,9 @@
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Maya Patel",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "7",
+        "pageNumber": "",
         "accentColor": "#4f3df5",
         "title": "Culture Add, Not Fit",
         "body": "We want diverse perspectives that challenge us. Hiring clones kills innovation and team resilience.",
@@ -111,14 +111,14 @@
     {
       "layoutId": "cta-linkedin-pro",
       "slots": {
-        "author": "Maya Patel",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "8",
+        "pageNumber": "",
         "accentColor": "#4f3df5",
         "eyebrow": "YOUR TURN?",
         "headline": "What Are You Looking For?",
         "body": "Drop one trait you value most when building your engineering team in 2026.",
-        "buttonLabel": "Follow for More",
+        "buttonLabel": "",
         "secondaryLabel": "Repost",
         "handle": ""
       }

@@ -12,9 +12,9 @@
         "word1": "BAD",
         "word2": "Good",
         "word3": "Great",
-        "authorInitials": "JD",
-        "authorName": "Jordan Doe",
-        "authorRole": "Content Strategist",
+        "authorInitials": "",
+        "authorName": "",
+        "authorRole": "",
         "handle": ""
       }
     },
@@ -28,9 +28,9 @@
         "titleUnderline": "Open Loop",
         "body": "Bad hooks give away the answer in the first line. Great hooks open a loop your reader must close. The gap between what they know and want to know is your leverage.",
         "note": "Use before a payoff or reveal.",
-        "authorInitials": "JD",
-        "authorName": "Jordan Doe",
-        "pageOf": "2 / 8"
+        "authorInitials": "",
+        "authorName": "",
+        "pageOf": ""
       }
     },
     {
@@ -43,9 +43,9 @@
         "titleUnderline": "Concrete Promise",
         "body": "Saying many tips is vague and easy to skip. Attaching an odd number creates a concrete promise. Seven ways feels more trustworthy than several ways ever will.",
         "note": "Odd numbers outperform even ones.",
-        "authorInitials": "JD",
-        "authorName": "Jordan Doe",
-        "pageOf": "3 / 8"
+        "authorInitials": "",
+        "authorName": "",
+        "pageOf": ""
       }
     },
     {
@@ -58,9 +58,9 @@
         "titleUnderline": "Fear Relief",
         "body": "People scroll past generic advice they have already heard. They pause when you name a specific mistake they are making. Relief comes from knowing there is a fix.",
         "note": "Call out the error, then offer salvation.",
-        "authorInitials": "JD",
-        "authorName": "Jordan Doe",
-        "pageOf": "4 / 8"
+        "authorInitials": "",
+        "authorName": "",
+        "pageOf": ""
       }
     },
     {
@@ -73,9 +73,9 @@
         "titleUnderline": "Scene First",
         "body": "Starting with stats feels like a report nobody asked for. Starting in the middle of a moment creates instant immersion. Show the scene, then teach the lesson.",
         "note": "Drop readers into action, not exposition.",
-        "authorInitials": "JD",
-        "authorName": "Jordan Doe",
-        "pageOf": "5 / 8"
+        "authorInitials": "",
+        "authorName": "",
+        "pageOf": ""
       }
     },
     {
@@ -88,9 +88,9 @@
         "titleUnderline": "Interrupt Pattern",
         "body": "Agreeing with common wisdom is invisible in a crowded feed. Challenging a sacred belief triggers an emotional need to read on. Make them prove you wrong.",
         "note": "Be respectful but genuinely contrarian.",
-        "authorInitials": "JD",
-        "authorName": "Jordan Doe",
-        "pageOf": "6 / 8"
+        "authorInitials": "",
+        "authorName": "",
+        "pageOf": ""
       }
     },
     {
@@ -103,9 +103,9 @@
         "titleUnderline": "Quick Win",
         "body": "Learn this skill feels like homework without a deadline. Learn this in five minutes feels achievable before lunch. Compress the timeline to remove friction.",
         "note": "Shorter time horizons increase saves and shares.",
-        "authorInitials": "JD",
-        "authorName": "Jordan Doe",
-        "pageOf": "7 / 8"
+        "authorInitials": "",
+        "authorName": "",
+        "pageOf": ""
       }
     },
     {
@@ -115,9 +115,9 @@
         "headlineMain": "Which hook will",
         "headlineAccent": "you test first",
         "body": "Save this carousel as your swipe file. Great hooks are built, not born.",
-        "buttonLabel": "Save this post",
-        "authorInitials": "JD",
-        "authorName": "Jordan Doe",
+        "buttonLabel": "",
+        "authorInitials": "",
+        "authorName": "",
         "handle": ""
       }
     }

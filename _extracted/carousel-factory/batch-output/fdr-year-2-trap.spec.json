@@ -19,13 +19,13 @@
         "preview1": "Why most founders abandon ship by month eighteen",
         "preview2": "Three warning signs your runway is becoming a trap",
         "preview3": "How AI tools rebuild momentum when motivation dies",
-        "avatarLetter": "J",
-        "authorName": "Jordan Marks",
-        "authorRole": "indie founder · 3 products shipped",
+        "avatarLetter": "",
+        "authorName": "",
+        "authorRole": "",
         "tag1": "FOUNDER",
         "tag2": "2026",
-        "swipeLabel": "Read the issue",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -55,7 +55,7 @@
         "iconSlug2": "figma",
         "iconSlug3": "stripe",
         "iconSlug4": "loom",
-        "pageOf": "02 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -85,7 +85,7 @@
         "iconSlug2": "notion",
         "iconSlug3": "github",
         "iconSlug4": "vercel",
-        "pageOf": "03 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -115,7 +115,7 @@
         "iconSlug2": "notion",
         "iconSlug3": "obsidian",
         "iconSlug4": "linear",
-        "pageOf": "04 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -145,7 +145,7 @@
         "iconSlug2": "linkedin",
         "iconSlug3": "producthunt",
         "iconSlug4": "indiehackers",
-        "pageOf": "05 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -175,7 +175,7 @@
         "iconSlug2": "anthropic",
         "iconSlug3": "midjourney",
         "iconSlug4": "replit",
-        "pageOf": "06 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -205,7 +205,7 @@
         "iconSlug2": "convertkit",
         "iconSlug3": "stripe",
         "iconSlug4": "figma",
-        "pageOf": "07 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -223,10 +223,10 @@
         "iconSlug3": "linkedin",
         "iconSlug4": "github",
         "ctaBody": "Year two is a filter, not a finish line. <em>Build systems, leverage AI, and outlast the dip.</em>",
-        "btnPrimary": "Save Post",
-        "btnGhost": "Follow along",
+        "btnPrimary": "",
+        "btnGhost": "",
         "signoff": "more essays weekly",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

@@ -11,7 +11,7 @@
         "pillLeft": "Keyboard",
         "pillRight": "first apps",
         "subline": "essential utilities for keyboard power users",
-        "pageOf": "01 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -23,7 +23,7 @@
         "slideTitle": "The launcher that killed Spotlight",
         "slideSubtitle": "A command palette for apps, scripts, and system control without ever pointing.",
         "domainText": "",
-        "pageOf": "02 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -35,7 +35,7 @@
         "slideTitle": "Window tiling without the trackpad",
         "slideSubtitle": "Ditch drag-and-drop window management for instant keyboard-driven snapping across any Mac display.",
         "domainText": "",
-        "pageOf": "03 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -47,7 +47,7 @@
         "slideTitle": "Vim motions inside your browser",
         "slideSubtitle": "Turn Chrome or Firefox into a keyboard-first experience where every link is a shortcut away.",
         "domainText": "",
-        "pageOf": "04 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -59,7 +59,7 @@
         "slideTitle": "Project management without the clicks",
         "slideSubtitle": "Linear keeps your hands on the keyboard from ticket creation to sprint completion every day.",
         "domainText": "",
-        "pageOf": "05 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -71,7 +71,7 @@
         "slideTitle": "Note-taking for keyboard purists",
         "slideSubtitle": "Build a personal knowledge base without ever breaking flow to reach for your pointer.",
         "domainText": "",
-        "pageOf": "06 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -83,7 +83,7 @@
         "slideTitle": "Mouseless clicking finally done right",
         "slideSubtitle": "Homerow overlays labels onto UI elements, letting you click precisely without moving your cursor.",
         "domainText": "",
-        "pageOf": "07 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -94,7 +94,7 @@
         "headlineMain": "Go mouseless",
         "headlineGlow": "today",
         "sublineItalic": "Pick one tool, master its shortcuts, and reclaim the seconds you spend reaching for the cursor.",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

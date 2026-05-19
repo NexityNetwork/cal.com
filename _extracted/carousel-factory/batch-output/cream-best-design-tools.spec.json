@@ -10,12 +10,12 @@
         "titleLine1": "The 6 best",
         "titleLine2": "design tools for",
         "topic": "FOUNDERS",
-        "authorInitials": "AL",
-        "authorName": "Alex Lane",
+        "authorInitials": "",
+        "authorName": "",
         "handle": "",
         "avatarBg1": "#1acd8a",
         "avatarBg2": "#0b8c6b",
-        "pageOf": "01 - 08"
+        "pageOf": ""
       }
     },
     {
@@ -29,7 +29,7 @@
         "tileKey": "Build your component kit first",
         "tileValue": "Start with variables and modes to ship faster.",
         "tileGlyph": "F",
-        "pageOf": "02 - 08"
+        "pageOf": ""
       }
     },
     {
@@ -43,7 +43,7 @@
         "tileKey": "Use CMS collections early",
         "tileValue": "Structure content once, then scale pages effortlessly.",
         "tileGlyph": "W",
-        "pageOf": "03 - 08"
+        "pageOf": ""
       }
     },
     {
@@ -57,7 +57,7 @@
         "tileKey": "Publish from prototype",
         "tileValue": "Skip handoff by deploying your frame directly.",
         "tileGlyph": "R",
-        "pageOf": "04 - 08"
+        "pageOf": ""
       }
     },
     {
@@ -71,7 +71,7 @@
         "tileKey": "Batch with Magic Resize",
         "tileValue": "One design becomes ten formats instantly.",
         "tileGlyph": "C",
-        "pageOf": "05 - 08"
+        "pageOf": ""
       }
     },
     {
@@ -85,7 +85,7 @@
         "tileKey": "Export as URL embed",
         "tileValue": "Drop the iframe into Webflow or Framer.",
         "tileGlyph": "S",
-        "pageOf": "06 - 08"
+        "pageOf": ""
       }
     },
     {
@@ -99,18 +99,18 @@
         "tileKey": "Use data imports live",
         "tileValue": "Link charts to Google Sheets for real-time updates.",
         "tileGlyph": "P",
-        "pageOf": "07 - 08"
+        "pageOf": ""
       }
     },
     {
       "layoutId": "cta-cream-best",
       "slots": {
-        "authorInitials": "AL",
-        "authorName": "Alex Lane",
+        "authorInitials": "",
+        "authorName": "",
         "handle": "",
         "avatarBg1": "#1acd8a",
         "avatarBg2": "#0b8c6b",
-        "pageOf": "08 - 08",
+        "pageOf": "",
         "tagline": "Clear, founder-focused design tips every week. No fluff, just tools that ship.",
         "ctaQuestion": "Want the full founder stack ?"
       }

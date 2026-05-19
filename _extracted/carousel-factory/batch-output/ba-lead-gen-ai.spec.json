@@ -7,7 +7,7 @@
     {
       "layoutId": "cover-before-after",
       "slots": {
-        "pageOf": "01 / 08",
+        "pageOf": "",
         "handle": "",
         "title": "Stop doing lead gen",
         "titleAccent": "the hard way",
@@ -161,7 +161,7 @@
     {
       "layoutId": "cta-before-after",
       "slots": {
-        "pageOf": "08 / 08",
+        "pageOf": "",
         "handle": "",
         "eyebrow": "MAKE THE SWITCH",
         "headlineLine1": "Pipeline doubled",

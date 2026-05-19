@@ -19,7 +19,7 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/email-funnel-groovy/slide-02.png",
-      "bytes": 72620,
+      "bytes": 72644,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -35,7 +35,7 @@
     {
       "index": 2,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/email-funnel-groovy/slide-03.png",
-      "bytes": 71822,
+      "bytes": 71848,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -51,7 +51,7 @@
     {
       "index": 3,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/email-funnel-groovy/slide-04.png",
-      "bytes": 76774,
+      "bytes": 76798,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -67,7 +67,7 @@
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/email-funnel-groovy/slide-05.png",
-      "bytes": 76013,
+      "bytes": 76041,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -83,7 +83,7 @@
     {
       "index": 5,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/email-funnel-groovy/slide-06.png",
-      "bytes": 72231,
+      "bytes": 72254,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -99,7 +99,7 @@
     {
       "index": 6,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/email-funnel-groovy/slide-07.png",
-      "bytes": 70976,
+      "bytes": 71001,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -115,7 +115,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/email-funnel-groovy/slide-08.png",
-      "bytes": 73066,
+      "bytes": 66240,
       "qa": {
         "verdict": "pass",
         "checks": {

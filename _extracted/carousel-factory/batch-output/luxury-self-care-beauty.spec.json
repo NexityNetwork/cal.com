@@ -8,7 +8,7 @@
       "layoutId": "cover-minimal-beauty",
       "slots": {
         "handle": "",
-        "author": "AMARA LIN",
+        "author": "",
         "role": "SKIN SPECIALIST",
         "titleLine1": "LUXURY FOR",
         "titleLine2": "LESS THAN",
@@ -20,7 +20,7 @@
       "layoutId": "body-minimal-beauty",
       "slots": {
         "handle": "",
-        "author": "AMARA LIN",
+        "author": "",
         "number": "STEP 01",
         "title": "FACIAL MASSAGE",
         "body": "Use clean fingertips to gently sweep from the center of your face outward along jaw and cheekbones. This simple ritual drains tension, reduces puffiness, and restores a lifted, luminous glow in under five minutes."
@@ -30,7 +30,7 @@
       "layoutId": "body-minimal-beauty",
       "slots": {
         "handle": "",
-        "author": "AMARA LIN",
+        "author": "",
         "number": "STEP 02",
         "title": "AROMA STEAM",
         "body": "Drape a warm, herb-infused towel over your face and breathe slowly for three minutes. The gentle heat opens pores, softens skin, and calms the mind without spending a single extra penny."
@@ -40,7 +40,7 @@
       "layoutId": "body-minimal-beauty",
       "slots": {
         "handle": "",
-        "author": "AMARA LIN",
+        "author": "",
         "number": "STEP 03",
         "title": "SCALP RITUAL",
         "body": "Warm a teaspoon of coconut or olive oil between your palms and massage into your scalp with slow, circular motions. This nourishes roots, stimulates circulation, and invites a deep sense of calm before bed."
@@ -50,7 +50,7 @@
       "layoutId": "body-minimal-beauty",
       "slots": {
         "handle": "",
-        "author": "AMARA LIN",
+        "author": "",
         "number": "STEP 04",
         "title": "BODY POLISH",
         "body": "Blend one tablespoon of sugar with a drizzle of honey or body oil to create a sumptuous scrub. Massage over damp skin in gentle circles to reveal silky softness and a healthy, radiant glow."
@@ -60,7 +60,7 @@
       "layoutId": "body-minimal-beauty",
       "slots": {
         "handle": "",
-        "author": "AMARA LIN",
+        "author": "",
         "number": "STEP 05",
         "title": "FOOT SOAK",
         "body": "Fill a basin with warm water and a handful of Epsom salts or fresh herbs. Soak for ten minutes while the minerals ease tired muscles and leave your feet feeling pampered and light."
@@ -70,7 +70,7 @@
       "layoutId": "body-minimal-beauty",
       "slots": {
         "handle": "",
-        "author": "AMARA LIN",
+        "author": "",
         "number": "STEP 06",
         "title": "EYE COMPRESS",
         "body": "Chill two chamomile tea bags or cucumber slices, then place them over closed eyes for five minutes. The coolness soothes delicate skin, diminishes puffiness, and delivers a spa-worthy refresh to your gaze."
@@ -80,12 +80,12 @@
       "layoutId": "cta-minimal-beauty",
       "slots": {
         "handle": "",
-        "author": "AMARA LIN",
+        "author": "",
         "role": "SKIN SPECIALIST",
         "eyebrow": "YOUR RITUAL",
         "headline": "START TODAY",
         "body": "Choose one ritual tonight and notice how your skin and spirit respond.",
-        "buttonLabel": "BOOK A CONSULT"
+        "buttonLabel": ""
       }
     }
   ]

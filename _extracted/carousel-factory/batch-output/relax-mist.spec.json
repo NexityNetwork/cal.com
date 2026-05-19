@@ -9,7 +9,7 @@
       "slots": {
         "brand": "",
         "handle": "",
-        "pageOf": "1 / 8",
+        "pageOf": "",
         "searchQuery": "How to relax when you're stressed"
       }
     },
@@ -18,7 +18,7 @@
       "slots": {
         "brand": "",
         "handle": "",
-        "pageOf": "2 / 8",
+        "pageOf": "",
         "stepLabel": "STEP ONE:",
         "body": "Pause and name the tension resting in your body without judgment. Awareness is the first gentle doorway back to calm."
       }
@@ -28,7 +28,7 @@
       "slots": {
         "brand": "",
         "handle": "",
-        "pageOf": "3 / 8",
+        "pageOf": "",
         "stepLabel": "STEP TWO:",
         "body": "Breathe slowly through your nose, letting each exhale soften your shoulders and quiet your racing thoughts."
       }
@@ -38,7 +38,7 @@
       "slots": {
         "brand": "",
         "handle": "",
-        "pageOf": "4 / 8",
+        "pageOf": "",
         "stepLabel": "STEP THREE:",
         "body": "Place one hand on your heart and feel its steady rhythm anchor you to the present moment."
       }
@@ -48,7 +48,7 @@
       "slots": {
         "brand": "",
         "handle": "",
-        "pageOf": "5 / 8",
+        "pageOf": "",
         "stepLabel": "STEP FOUR:",
         "body": "Scan your surroundings and name five soft things you can see, hear, or touch right now."
       }
@@ -58,7 +58,7 @@
       "slots": {
         "brand": "",
         "handle": "",
-        "pageOf": "6 / 8",
+        "pageOf": "",
         "stepLabel": "STEP FIVE:",
         "body": "Whisper a kind phrase to yourself, offering the same patience you would give a dear friend."
       }
@@ -68,7 +68,7 @@
       "slots": {
         "brand": "",
         "handle": "",
-        "pageOf": "7 / 8",
+        "pageOf": "",
         "stepLabel": "STEP SIX:",
         "body": "Carry this softness forward, letting one small ritual hold you through the rest of your day."
       }
@@ -81,7 +81,7 @@
         "eyebrow": "YOUR RITUAL",
         "headline": "Begin again, gently",
         "body": "You deserve rest that is slow, simple, and entirely yours. Let this be your starting place.",
-        "buttonLabel": "SAVE THIS RITUAL"
+        "buttonLabel": ""
       }
     }
   ]

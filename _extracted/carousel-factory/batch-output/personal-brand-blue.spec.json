@@ -13,9 +13,9 @@
         "sub1": "killing your personal",
         "sub2": "brand right now",
         "strip": "AND WHAT TO DO INSTEAD",
-        "authorInitials": "AM",
-        "authorName": "Alex Morgan",
-        "authorRole": "Brand Strategist"
+        "authorInitials": "",
+        "authorName": "",
+        "authorRole": ""
       }
     },
     {
@@ -28,9 +28,9 @@
         "title": "Posting without a clear strategy",
         "stripText": "STRATEGY FIRST",
         "body": "Random content confuses your audience and dilutes your message. A clear strategy builds trust and authority over time.",
-        "authorInitials": "AM",
-        "authorName": "Alex Morgan",
-        "authorRole": "Brand Strategist"
+        "authorInitials": "",
+        "authorName": "",
+        "authorRole": ""
       }
     },
     {
@@ -43,9 +43,9 @@
         "title": "Trying to appeal to everyone",
         "stripText": "NICHE DOWN",
         "body": "When you speak to everyone, you resonate with no one. Define your ideal audience and create content specifically for them.",
-        "authorInitials": "AM",
-        "authorName": "Alex Morgan",
-        "authorRole": "Brand Strategist"
+        "authorInitials": "",
+        "authorName": "",
+        "authorRole": ""
       }
     },
     {
@@ -58,9 +58,9 @@
         "title": "Using inconsistent visuals across platforms",
         "stripText": "STAY CONSISTENT",
         "body": "Mismatched colors and fonts make you look amateur. Consistent visuals signal professionalism and build instant recognition.",
-        "authorInitials": "AM",
-        "authorName": "Alex Morgan",
-        "authorRole": "Brand Strategist"
+        "authorInitials": "",
+        "authorName": "",
+        "authorRole": ""
       }
     },
     {
@@ -73,9 +73,9 @@
         "title": "Ignoring community and all engagement",
         "stripText": "ENGAGE DAILY",
         "body": "Broadcasting without interaction feels impersonal. Reply to comments and messages to turn followers into loyal advocates.",
-        "authorInitials": "AM",
-        "authorName": "Alex Morgan",
-        "authorRole": "Brand Strategist"
+        "authorInitials": "",
+        "authorName": "",
+        "authorRole": ""
       }
     },
     {
@@ -88,9 +88,9 @@
         "title": "Copying others instead of being authentic",
         "stripText": "BE YOURSELF",
         "body": "Imitation might feel safe, but it erases your unique value. Your audience follows you for your perspective, not a replica.",
-        "authorInitials": "AM",
-        "authorName": "Alex Morgan",
-        "authorRole": "Brand Strategist"
+        "authorInitials": "",
+        "authorName": "",
+        "authorRole": ""
       }
     },
     {
@@ -103,9 +103,9 @@
         "title": "Audit your brand and start fresh",
         "stripText": "TAKE ACTION",
         "body": "Review your content, tighten your visuals, and engage daily. Small consistent changes rebuild your brand faster than you think.",
-        "authorInitials": "AM",
-        "authorName": "Alex Morgan",
-        "authorRole": "Brand Strategist"
+        "authorInitials": "",
+        "authorName": "",
+        "authorRole": ""
       }
     },
     {
@@ -116,10 +116,10 @@
         "eyebrow": "YOUR TURN",
         "headline": "Fix your brand today",
         "body": "Ready to build a brand that actually converts? Book a free strategy call.",
-        "buttonLabel": "Book a call",
-        "authorInitials": "AM",
-        "authorName": "Alex Morgan",
-        "authorRole": "Brand Strategist"
+        "buttonLabel": "",
+        "authorInitials": "",
+        "authorName": "",
+        "authorRole": ""
       }
     }
   ]

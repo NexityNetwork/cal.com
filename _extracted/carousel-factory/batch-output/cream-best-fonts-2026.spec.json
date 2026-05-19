@@ -10,12 +10,12 @@
         "titleLine1": "6 UI fonts",
         "titleLine2": "to know now",
         "topic": "FONTS",
-        "authorInitials": "AC",
-        "authorName": "Alex Chen",
+        "authorInitials": "",
+        "authorName": "",
         "handle": "",
         "avatarBg1": "#1acd8a",
         "avatarBg2": "#0d9488",
-        "pageOf": "01 - 08"
+        "pageOf": ""
       }
     },
     {
@@ -29,7 +29,7 @@
         "tileKey": "Pair with Space Grotesk",
         "tileValue": "Use for headlines to add organic contrast to Inter's neutrality.",
         "tileGlyph": "I",
-        "pageOf": "02 - 08"
+        "pageOf": ""
       }
     },
     {
@@ -43,7 +43,7 @@
         "tileKey": "Zero layout shift",
         "tileValue": "Variable file is only 90 KB and supports Latin glyphs.",
         "tileGlyph": "G",
-        "pageOf": "03 - 08"
+        "pageOf": ""
       }
     },
     {
@@ -57,7 +57,7 @@
         "tileKey": "Use all eight weights",
         "tileValue": "Thin through ExtraBold gives you full control without loading another family.",
         "tileGlyph": "M",
-        "pageOf": "04 - 08"
+        "pageOf": ""
       }
     },
     {
@@ -71,7 +71,7 @@
         "tileKey": "Mind the letter spacing",
         "tileValue": "Default tracking is wide; tighten to -2% for dense admin panels.",
         "tileGlyph": "S",
-        "pageOf": "05 - 08"
+        "pageOf": ""
       }
     },
     {
@@ -85,7 +85,7 @@
         "tileKey": "Enable opsz feature now",
         "tileValue": "Turn on optical sizing in CSS for crisp text below 14 px.",
         "tileGlyph": "D",
-        "pageOf": "06 - 08"
+        "pageOf": ""
       }
     },
     {
@@ -99,18 +99,18 @@
         "tileKey": "Check true italics",
         "tileValue": "The italic is not merely slanted; redrawn strokes add real emphasis.",
         "tileGlyph": "★",
-        "pageOf": "07 - 08"
+        "pageOf": ""
       }
     },
     {
       "layoutId": "cta-cream-best",
       "slots": {
-        "authorInitials": "AC",
-        "authorName": "Alex Chen",
+        "authorInitials": "",
+        "authorName": "",
         "handle": "",
         "avatarBg1": "#1acd8a",
         "avatarBg2": "#0d9488",
-        "pageOf": "08 - 08",
+        "pageOf": "",
         "tagline": "Clear, practical design tips for product teams who care about craft.",
         "ctaQuestion": "Want to upgrade your type stack?"
       }

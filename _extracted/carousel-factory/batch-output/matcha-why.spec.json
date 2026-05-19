@@ -8,7 +8,7 @@
       "layoutId": "cover-dark-green-serif",
       "slots": {
         "brand": "",
-        "pageOf": "01 OF 08",
+        "pageOf": "",
         "headline": "More Than a Trend?",
         "subtitle": "The daily ritual that goes way beyond your average cup.",
         "stickerText": "DISCOVER MORE",
@@ -19,7 +19,7 @@
       "layoutId": "body-dark-green-serif",
       "slots": {
         "brand": "",
-        "pageOf": "02 OF 08",
+        "pageOf": "",
         "number": "01",
         "title": "Centuries in the Making",
         "body": "Monks in Japan have used matcha since the 12th century. It was never about trends—just focus and calm. That legacy lives in every bowl today.",
@@ -30,7 +30,7 @@
       "layoutId": "body-dark-green-serif",
       "slots": {
         "brand": "",
-        "pageOf": "03 OF 08",
+        "pageOf": "",
         "number": "02",
         "title": "Nutrients, Not Just Caffeine",
         "body": "You drink the whole leaf, so nothing is wasted. That means more antioxidants, more chlorophyll, and a gentler lift than coffee.",
@@ -41,7 +41,7 @@
       "layoutId": "body-dark-green-serif",
       "slots": {
         "brand": "",
-        "pageOf": "04 OF 08",
+        "pageOf": "",
         "number": "03",
         "title": "Calm Energy, Zero Crash",
         "body": "L-theanine meets caffeine for a slow, steady buzz. No jitters. No slump. Just hours of clear-headed focus without the aftermath.",
@@ -52,7 +52,7 @@
       "layoutId": "body-dark-green-serif",
       "slots": {
         "brand": "",
-        "pageOf": "05 OF 08",
+        "pageOf": "",
         "number": "04",
         "title": "A Ritual, Not a Routine",
         "body": "Whisking matcha slows you down for thirty seconds. It turns a habit into a moment. That mindfulness shapes the whole day.",
@@ -63,7 +63,7 @@
       "layoutId": "body-dark-green-serif",
       "slots": {
         "brand": "",
-        "pageOf": "06 OF 08",
+        "pageOf": "",
         "number": "05",
         "title": "Beyond the Latte Bowl",
         "body": "Smoothies, oats, face masks—matcha plays well everywhere. One vibrant green powder, endless ways to elevate your daily rituals.",
@@ -74,7 +74,7 @@
       "layoutId": "body-dark-green-serif",
       "slots": {
         "brand": "",
-        "pageOf": "07 OF 08",
+        "pageOf": "",
         "number": "06",
         "title": "Clean, Green, and Simple",
         "body": "One ingredient. No waste. Shade-grown leaves ground to a fine powder. It is as close to the earth as a drink gets.",
@@ -85,11 +85,11 @@
       "layoutId": "cta-dark-green-serif",
       "slots": {
         "brand": "",
-        "pageOf": "08 OF 08",
+        "pageOf": "",
         "eyebrow": "JOIN THE RITUAL",
         "headline": "Upgrade Your Morning Ritual",
         "body": "Swap the jitters for calm focus. Your first bowl is waiting.",
-        "buttonLabel": "SHOP NOW",
+        "buttonLabel": "",
         "handle": ""
       }
     }

@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/fdr-freelancer-to-agency/slide-01.png",
-      "bytes": 112839,
+      "bytes": 112020,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -115,7 +115,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/fdr-freelancer-to-agency/slide-08.png",
-      "bytes": 72424,
+      "bytes": 71288,
       "qa": {
         "verdict": "pass",
         "checks": {

@@ -15,7 +15,7 @@
         "previewColor3": "#00D9FF",
         "previewColor4": "#7B61FF",
         "previewColor5": "#FF0055",
-        "pageOf": "01/08"
+        "pageOf": ""
       }
     },
     {
@@ -32,7 +32,7 @@
         "hex4": "#92BDF9",
         "paletteName": "Corporate Cobalt",
         "paletteUseCase": "Perfect for fintech and SaaS brands that need trust and professionalism.",
-        "pageOf": "02/08"
+        "pageOf": ""
       }
     },
     {
@@ -49,7 +49,7 @@
         "hex4": "#FDE8D0",
         "paletteName": "Sunset Warmth",
         "paletteUseCase": "Ideal for lifestyle and food brands seeking earthy, inviting warmth.",
-        "pageOf": "03/08"
+        "pageOf": ""
       }
     },
     {
@@ -66,7 +66,7 @@
         "hex4": "#BBF7D0",
         "paletteName": "Forest Growth",
         "paletteUseCase": "Great for eco-friendly startups and wellness apps focused on nature.",
-        "pageOf": "04/08"
+        "pageOf": ""
       }
     },
     {
@@ -83,7 +83,7 @@
         "hex4": "#F0ABFC",
         "paletteName": "Berry Pop",
         "paletteUseCase": "Bold choice for beauty and creative agencies wanting playful energy.",
-        "pageOf": "05/08"
+        "pageOf": ""
       }
     },
     {
@@ -100,7 +100,7 @@
         "hex4": "#FEF08A",
         "paletteName": "Midnight Gold",
         "paletteUseCase": "Luxurious feel for premium products and high-end consulting firms.",
-        "pageOf": "06/08"
+        "pageOf": ""
       }
     },
     {
@@ -117,7 +117,7 @@
         "hex4": "#FFEDD5",
         "paletteName": "Coral Energy",
         "paletteUseCase": "High-impact palette for fitness brands and motivational content creators.",
-        "pageOf": "07/08"
+        "pageOf": ""
       }
     },
     {
@@ -131,8 +131,8 @@
         "color3": "#316FF6",
         "color4": "#92BDF9",
         "body": "Save these palettes and build a brand identity that stands out instantly.",
-        "buttonLabel": "Save these palettes",
-        "pageOf": "08/08"
+        "buttonLabel": "",
+        "pageOf": ""
       }
     }
   ]

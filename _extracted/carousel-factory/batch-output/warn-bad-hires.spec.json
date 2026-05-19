@@ -25,7 +25,7 @@
         "body": "Your first ten hires set the DNA of your company. Bad fits don't quit quietly.",
         "calloutLabel": "KEY INSIGHT",
         "calloutBody": "One toxic early hire can repel the next fifty candidates.",
-        "pageOf": "Slide 02"
+        "pageOf": ""
       }
     },
     {
@@ -37,7 +37,7 @@
         "body": "Candidates who play the victim in interview stories become toxic teammates overnight.",
         "calloutLabel": "RED FLAG",
         "calloutBody": "Listen for 'I' versus 'they' when they describe past failures.",
-        "pageOf": "Slide 03"
+        "pageOf": ""
       }
     },
     {
@@ -49,7 +49,7 @@
         "body": "Dominating the interview is a preview of dominating every meeting. Ego scales poorly.",
         "calloutLabel": "RED FLAG",
         "calloutBody": "Great hires ask questions. Bad ones only perform monologues.",
-        "pageOf": "Slide 04"
+        "pageOf": ""
       }
     },
     {
@@ -61,7 +61,7 @@
         "body": "If they require luxury tools to start, they won't survive startup chaos.",
         "calloutLabel": "RED FLAG",
         "calloutBody": "Scrappiness is a skill. Look for resourceful problem solvers.",
-        "pageOf": "Slide 05"
+        "pageOf": ""
       }
     },
     {
@@ -73,7 +73,7 @@
         "body": "Indifference to your 'why' becomes indifference to customers and teammates.",
         "calloutLabel": "RED FLAG",
         "calloutBody": "Hire believers. Skills transfer; passion rarely does.",
-        "pageOf": "Slide 06"
+        "pageOf": ""
       }
     },
     {
@@ -85,7 +85,7 @@
         "body": "Trash-talking former employers in interviews becomes office politics later.",
         "calloutLabel": "RED FLAG",
         "calloutBody": "Professional discretion is a minimum, not a nice-to-have.",
-        "pageOf": "Slide 07"
+        "pageOf": ""
       }
     },
     {
@@ -97,8 +97,8 @@
         "headlineLine1": "Audit Your",
         "headlineAccent": "Next Hire",
         "body": "Save this list. Check it before every offer letter. Your future self will thank you.",
-        "buttonLabel": "Follow for more",
-        "pageOf": "Slide 08"
+        "buttonLabel": "",
+        "pageOf": ""
       }
     }
   ]

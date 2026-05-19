@@ -115,7 +115,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/claude-replaces-recruiter/slide-08.png",
-      "bytes": 67472,
+      "bytes": 58679,
       "qa": {
         "verdict": "pass",
         "checks": {

@@ -25,7 +25,7 @@
         "body": "A YC founder scaled to fifty people in weeks. The wrong hires burned cash and morale.",
         "calloutLabel": "SURVIVOR MOVE",
         "calloutBody": "Interview for values alignment first. Skills can be taught; culture cannot.",
-        "pageOf": "Slide 02"
+        "pageOf": ""
       }
     },
     {
@@ -37,7 +37,7 @@
         "body": "A SaaS founder spent heavily on ads. Revenue soared, but margins stayed dangerously negative.",
         "calloutLabel": "DO THIS",
         "calloutBody": "Model unit economics before scaling. Profitability is a feature, not a bug.",
-        "pageOf": "Slide 03"
+        "pageOf": ""
       }
     },
     {
@@ -49,7 +49,7 @@
         "body": "Two founders avoided equity discussions for years. Resentment quietly killed their partnership and product.",
         "calloutLabel": "KEY INSIGHT",
         "calloutBody": "Address equity and roles in month one. Silence compounds into divorce.",
-        "pageOf": "Slide 04"
+        "pageOf": ""
       }
     },
     {
@@ -61,7 +61,7 @@
         "body": "A fintech founder built for eighteen months. Launch day revealed nobody wanted the product.",
         "calloutLabel": "DO THIS",
         "calloutBody": "Sell before you build. Customer conversations de-risk your roadmap faster than code.",
-        "pageOf": "Slide 05"
+        "pageOf": ""
       }
     },
     {
@@ -73,7 +73,7 @@
         "body": "One founder chased every rival update. Users forgot why the product existed at all.",
         "calloutLabel": "KEY INSIGHT",
         "calloutBody": "Build for your ideal customer, not your competitor's changelog. Differentiation wins.",
-        "pageOf": "Slide 06"
+        "pageOf": ""
       }
     },
     {
@@ -85,7 +85,7 @@
         "body": "A well-funded founder hired a massive team. Dilution and burn killed optionality within months.",
         "calloutLabel": "SURVIVOR MOVE",
         "calloutBody": "Raise what you need for eighteen months. Capital is a tool, not a trophy.",
-        "pageOf": "Slide 07"
+        "pageOf": ""
       }
     },
     {
@@ -97,8 +97,8 @@
         "headlineLine1": "Build With",
         "headlineAccent": "Intention",
         "body": "The best founders don't avoid hard decisions. They make them loud, early, and with data.",
-        "buttonLabel": "Follow for more",
-        "pageOf": "Slide 08"
+        "buttonLabel": "",
+        "pageOf": ""
       }
     }
   ]

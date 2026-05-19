@@ -7,7 +7,7 @@
     {
       "layoutId": "cover-display-cta",
       "slots": {
-        "pageNumber": "01",
+        "pageNumber": "",
         "headlineLine1": "One Founder",
         "headlineLine2": "Ten-Person Output",
         "accentSuffix": "."
@@ -16,7 +16,7 @@
     {
       "layoutId": "body-icon-centered",
       "slots": {
-        "pageNumber": "02",
+        "pageNumber": "",
         "title": "1. Claude Code, the engineer",
         "body": "Claude Code handles full-stack coding, debugging, and refactors in your terminal. It writes tests, explains legacy code, and ships features while you focus on product decisions.",
         "iconSlug": "anthropic",
@@ -26,7 +26,7 @@
     {
       "layoutId": "body-icon-centered",
       "slots": {
-        "pageNumber": "03",
+        "pageNumber": "",
         "title": "2. Next.js, the foundation",
         "body": "App Router, Server Actions, and Vercel deployment mean zero-config hosting. One codebase handles SSR, API routes, and edge functions without DevOps overhead.",
         "iconSlug": "nextdotjs",
@@ -36,7 +36,7 @@
     {
       "layoutId": "body-icon-centered",
       "slots": {
-        "pageNumber": "04",
+        "pageNumber": "",
         "title": "3. Supabase, the backend",
         "body": "Postgres database, auth, and storage with instant APIs. Row-level security and real-time subscriptions replace a backend team from day one.",
         "iconSlug": "supabase",
@@ -46,7 +46,7 @@
     {
       "layoutId": "body-icon-centered",
       "slots": {
-        "pageNumber": "05",
+        "pageNumber": "",
         "title": "4. Stripe, the finance team",
         "body": "Billing, subscriptions, and invoicing wrapped in prebuilt components. Webhooks sync payments to your database while you sleep.",
         "iconSlug": "stripe",
@@ -56,7 +56,7 @@
     {
       "layoutId": "body-icon-centered",
       "slots": {
-        "pageNumber": "06",
+        "pageNumber": "",
         "title": "5. Figma, the design studio",
         "body": "Design, prototype, and hand off responsive components directly to code. Claude reads exported assets and builds pixel-perfect UI in minutes.",
         "iconSlug": "figma",
@@ -66,7 +66,7 @@
     {
       "layoutId": "body-icon-centered",
       "slots": {
-        "pageNumber": "07",
+        "pageNumber": "",
         "title": "6. Linear, the project manager",
         "body": "Issue tracking and roadmaps that stay in sync with GitHub. Cycles keep shipping velocity high without standups or sprint planning.",
         "iconSlug": "linear",
@@ -76,11 +76,11 @@
     {
       "layoutId": "cta-display-cta",
       "slots": {
-        "pageNumber": "08",
+        "pageNumber": "",
         "eyebrow": "READY?",
         "headline": "Build Your Solo Stack",
         "subline": "Copy this setup, cut your build time in half, and launch before your competition hires their first engineer.",
-        "buttonLabel": "Save this post",
+        "buttonLabel": "",
         "handle": ""
       }
     }

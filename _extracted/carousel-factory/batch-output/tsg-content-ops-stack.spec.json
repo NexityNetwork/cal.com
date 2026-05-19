@@ -24,7 +24,7 @@
         "role4": "RECORDS VIDEO CLIPS",
         "role5": "DESIGNS THE CREATIVE",
         "role6": "PUBLISHES WEB PAGES",
-        "pageOf": "01 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -47,7 +47,7 @@
         "iconSlug4": "loom",
         "iconSlug5": "figma",
         "domainText": "",
-        "pageOf": "02 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -70,7 +70,7 @@
         "iconSlug4": "webflow",
         "iconSlug5": "loom",
         "domainText": "",
-        "pageOf": "03 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -93,7 +93,7 @@
         "iconSlug4": "webflow",
         "iconSlug5": "youtube",
         "domainText": "",
-        "pageOf": "04 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -116,7 +116,7 @@
         "iconSlug4": "make",
         "iconSlug5": "youtube",
         "domainText": "",
-        "pageOf": "05 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -139,7 +139,7 @@
         "iconSlug4": "claude",
         "iconSlug5": "make",
         "domainText": "",
-        "pageOf": "06 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -162,7 +162,7 @@
         "iconSlug4": "figma",
         "iconSlug5": "make",
         "domainText": "",
-        "pageOf": "07 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -180,10 +180,10 @@
         "iconSlug4": "loom",
         "iconSlug5": "figma",
         "iconSlug6": "webflow",
-        "btnPrimary": "Get the stack",
-        "btnGhost": "View pricing",
+        "btnPrimary": "",
+        "btnGhost": "",
         "domainText": "",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

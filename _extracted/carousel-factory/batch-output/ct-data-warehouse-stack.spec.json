@@ -34,8 +34,8 @@
         "name5": "Hex",
         "desc5": "Share living notebooks that sync to your warehouse.",
         "tag5": "SHARE",
-        "swipeLabel": "SEE EACH ONE",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -62,7 +62,7 @@
         "iconSlug4": "amplitude",
         "iconSlug5": "hex",
         "iconSlug6": "hightouch",
-        "pageOf": "02 / 08",
+        "pageOf": "",
         "footerNote": "Start with one source."
       }
     },
@@ -90,7 +90,7 @@
         "iconSlug4": "amplitude",
         "iconSlug5": "hex",
         "iconSlug6": "hightouch",
-        "pageOf": "03 / 08",
+        "pageOf": "",
         "footerNote": "Storage scales infinitely."
       }
     },
@@ -118,7 +118,7 @@
         "iconSlug4": "amplitude",
         "iconSlug5": "hex",
         "iconSlug6": "hightouch",
-        "pageOf": "04 / 08",
+        "pageOf": "",
         "footerNote": "Transform with software rigor."
       }
     },
@@ -146,7 +146,7 @@
         "iconSlug4": "dbt",
         "iconSlug5": "hex",
         "iconSlug6": "hightouch",
-        "pageOf": "05 / 08",
+        "pageOf": "",
         "footerNote": "Behavior beats pure opinion."
       }
     },
@@ -174,7 +174,7 @@
         "iconSlug4": "dbt",
         "iconSlug5": "amplitude",
         "iconSlug6": "hightouch",
-        "pageOf": "06 / 08",
+        "pageOf": "",
         "footerNote": "Notebooks replace static decks."
       }
     },
@@ -202,7 +202,7 @@
         "iconSlug4": "dbt",
         "iconSlug5": "amplitude",
         "iconSlug6": "hex",
-        "pageOf": "07 / 08",
+        "pageOf": "",
         "footerNote": "Ship data to tools."
       }
     },
@@ -216,8 +216,8 @@
         "titleAccent": "faster",
         "titleItalic": "with the stack",
         "body": "Build a pipeline that turns raw behavior into product decisions. No guesswork, just clean data.",
-        "btnPrimary": "Get the stack",
-        "btnGhost": "Read guide",
+        "btnPrimary": "",
+        "btnGhost": "",
         "stackLabel": "the full stack",
         "iconSlug1": "segment",
         "iconSlug2": "snowflake",
@@ -226,7 +226,7 @@
         "iconSlug5": "hex",
         "iconSlug6": "hightouch",
         "signoff": "turn events into outcomes",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

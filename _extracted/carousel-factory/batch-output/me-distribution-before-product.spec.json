@@ -19,13 +19,13 @@
         "preview1": "How a newsletter became a $4M SaaS before beta",
         "preview2": "The Twitter thread that pre-sold nine hundred seats",
         "preview3": "Why community is cheaper than cold ads",
-        "avatarLetter": "C",
-        "authorName": "Casey Stone",
-        "authorRole": "indie founder · audience-first",
+        "avatarLetter": "",
+        "authorName": "",
+        "authorRole": "",
         "tag1": "FOUNDER",
         "tag2": "GROWTH",
-        "swipeLabel": "Read the issue",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -55,7 +55,7 @@
         "iconSlug2": "twitter",
         "iconSlug3": "linkedin",
         "iconSlug4": "producthunt",
-        "pageOf": "02 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -85,7 +85,7 @@
         "iconSlug2": "figma",
         "iconSlug3": "gumroad",
         "iconSlug4": "linkedin",
-        "pageOf": "03 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -115,7 +115,7 @@
         "iconSlug2": "twitter",
         "iconSlug3": "stripe",
         "iconSlug4": "notion",
-        "pageOf": "04 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -145,7 +145,7 @@
         "iconSlug2": "twitch",
         "iconSlug3": "github",
         "iconSlug4": "twitter",
-        "pageOf": "05 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -175,7 +175,7 @@
         "iconSlug2": "apple",
         "iconSlug3": "linkedin",
         "iconSlug4": "substack",
-        "pageOf": "06 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -205,7 +205,7 @@
         "iconSlug2": "twitter",
         "iconSlug3": "stripe",
         "iconSlug4": "notion",
-        "pageOf": "07 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -223,10 +223,10 @@
         "iconSlug3": "linkedin",
         "iconSlug4": "github",
         "ctaBody": "Audience-first founders win because distribution compounds while code depreciates. <em>Build the crowd before the castle.</em>",
-        "btnPrimary": "Save Post",
-        "btnGhost": "Follow along",
+        "btnPrimary": "",
+        "btnGhost": "",
         "signoff": "more essays weekly",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

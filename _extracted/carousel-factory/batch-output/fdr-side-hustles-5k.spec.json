@@ -7,9 +7,9 @@
     {
       "layoutId": "cover-linkedin-pro",
       "slots": {
-        "author": "Morgan Reid",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "1",
+        "pageNumber": "",
         "accentColor": "#4f3df5",
         "headline": "5 AI Side Hustles Making $5K Monthly",
         "heroSymbol": "$5",
@@ -21,9 +21,9 @@
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Morgan Reid",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "2",
+        "pageNumber": "",
         "accentColor": "#4f3df5",
         "title": "The 2026 AI Income Map",
         "body": "These five models need under 15 hours weekly. Each solves a painful B2B or premium B2C problem.",
@@ -36,9 +36,9 @@
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Morgan Reid",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "3",
+        "pageNumber": "",
         "accentColor": "#4f3df5",
         "title": "AI Automation Agency",
         "body": "Build no-code AI workflows for local service businesses. Charge $2K–$5K monthly retainers. Time: 10–15 hrs/week.",
@@ -51,9 +51,9 @@
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Morgan Reid",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "4",
+        "pageNumber": "",
         "accentColor": "#4f3df5",
         "title": "AI Avatar Ad Agency",
         "body": "Create synthetic spokesperson UGC for DTC brands using AI avatars. Productized packages start at $3K per campaign.",
@@ -66,9 +66,9 @@
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Morgan Reid",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "5",
+        "pageNumber": "",
         "accentColor": "#4f3df5",
         "title": "Custom AI Agent Builder",
         "body": "Deploy customer-support and lead-qualification AI agents for SaaS and e-commerce. Build fee plus monthly maintenance.",
@@ -81,9 +81,9 @@
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Morgan Reid",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "6",
+        "pageNumber": "",
         "accentColor": "#4f3df5",
         "title": "Hyper-Niche AI Newsletter",
         "body": "Curate AI tools for one vertical. Monetize via premium subs at $20/mo and niche sponsorships once you hit 5K readers.",
@@ -96,9 +96,9 @@
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Morgan Reid",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "7",
+        "pageNumber": "",
         "accentColor": "#4f3df5",
         "title": "Fractional AI Consultant",
         "body": "Advise startups on AI stack strategy and prompt engineering. High-ticket retainers averaging $4K–$6K per month.",
@@ -111,14 +111,14 @@
     {
       "layoutId": "cta-linkedin-pro",
       "slots": {
-        "author": "Morgan Reid",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "8",
+        "pageNumber": "",
         "accentColor": "#4f3df5",
         "eyebrow": "YOUR TURN?",
         "headline": "Which Hustle Will You Start?",
         "body": "Drop a comment below and repost this carousel to save it for later.",
-        "buttonLabel": "Follow for more",
+        "buttonLabel": "",
         "secondaryLabel": "Repost",
         "handle": ""
       }

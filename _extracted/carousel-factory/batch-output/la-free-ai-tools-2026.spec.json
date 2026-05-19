@@ -19,8 +19,8 @@
         "iconSlug4": "replicate",
         "iconSlug5": "ollama",
         "iconSlug6": "perplexity",
-        "swipeLabel": "SEE LIST",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -41,7 +41,7 @@
         "metric2Value": "GPT-4o / Claude",
         "metric3Label": "IDE",
         "metric3Value": "VS Code fork",
-        "pageOf": "02 / 08",
+        "pageOf": "",
         "footerNote": "Pro plan available"
       }
     },
@@ -63,7 +63,7 @@
         "metric2Value": "200K tokens",
         "metric3Label": "API",
         "metric3Value": "Available",
-        "pageOf": "03 / 08",
+        "pageOf": "",
         "footerNote": "Sonnet 3.5 powered"
       }
     },
@@ -85,7 +85,7 @@
         "metric2Value": "React / Next.js",
         "metric3Label": "DEPLOY",
         "metric3Value": "Vercel ready",
-        "pageOf": "04 / 08",
+        "pageOf": "",
         "footerNote": "Generous free tier"
       }
     },
@@ -107,7 +107,7 @@
         "metric2Value": "10,000+",
         "metric3Label": "HOSTING",
         "metric3Value": "Serverless",
-        "pageOf": "05 / 08",
+        "pageOf": "",
         "footerNote": "Startup credits available"
       }
     },
@@ -129,7 +129,7 @@
         "metric2Value": "MIT",
         "metric3Label": "PLATFORM",
         "metric3Value": "Mac / Linux / Win",
-        "pageOf": "06 / 08",
+        "pageOf": "",
         "footerNote": "Open source community driven"
       }
     },
@@ -151,7 +151,7 @@
         "metric2Value": "Academic / Web",
         "metric3Label": "SPEED",
         "metric3Value": "Real-time",
-        "pageOf": "07 / 08",
+        "pageOf": "",
         "footerNote": "No login required"
       }
     },
@@ -164,15 +164,15 @@
         "ctaLine1": "Start building",
         "ctaCallout": "today",
         "ctaBody": "Combine these free AI tools to ship faster, spend less, and compete with teams ten times your size.",
-        "btnPrimary": "Get the stack",
-        "btnGhost": "Share list",
+        "btnPrimary": "",
+        "btnGhost": "",
         "iconSlug1": "cursor",
         "iconSlug2": "anthropic",
         "iconSlug3": "vercel",
         "iconSlug4": "replicate",
         "iconSlug5": "ollama",
         "iconSlug6": "perplexity",
-        "pageOf": "08 / 08",
+        "pageOf": "",
         "footerNote": "Updated for 2026"
       }
     }

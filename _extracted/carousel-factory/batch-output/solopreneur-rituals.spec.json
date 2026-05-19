@@ -14,15 +14,15 @@
         "subtitle": "The five daily rituals that keep a solopreneur sane, solvent, and proud of their work.",
         "ctaLabel": "Read below",
         "handle": "",
-        "author": "Solo & Sane",
+        "author": "",
         "slideCount": "5"
       }
     },
     {
       "layoutId": "body-terracotta",
       "slots": {
-        "author": "Solo & Sane",
-        "pageOf": "1/6",
+        "author": "",
+        "pageOf": "",
         "number": "01",
         "numberLabel": "Mindset",
         "titleMain": "Start With",
@@ -34,8 +34,8 @@
     {
       "layoutId": "body-terracotta",
       "slots": {
-        "author": "Solo & Sane",
-        "pageOf": "2/6",
+        "author": "",
+        "pageOf": "",
         "number": "02",
         "numberLabel": "Ritual",
         "titleMain": "Protect Your",
@@ -47,8 +47,8 @@
     {
       "layoutId": "body-terracotta",
       "slots": {
-        "author": "Solo & Sane",
-        "pageOf": "3/6",
+        "author": "",
+        "pageOf": "",
         "number": "03",
         "numberLabel": "Ritual",
         "titleMain": "Know Your",
@@ -60,8 +60,8 @@
     {
       "layoutId": "body-terracotta",
       "slots": {
-        "author": "Solo & Sane",
-        "pageOf": "4/6",
+        "author": "",
+        "pageOf": "",
         "number": "04",
         "numberLabel": "Ritual",
         "titleMain": "Move Your",
@@ -73,8 +73,8 @@
     {
       "layoutId": "body-terracotta",
       "slots": {
-        "author": "Solo & Sane",
-        "pageOf": "5/6",
+        "author": "",
+        "pageOf": "",
         "number": "05",
         "numberLabel": "Ritual",
         "titleMain": "Close The",
@@ -86,8 +86,8 @@
     {
       "layoutId": "body-terracotta",
       "slots": {
-        "author": "Solo & Sane",
-        "pageOf": "6/6",
+        "author": "",
+        "pageOf": "",
         "number": "06",
         "numberLabel": "Ritual",
         "titleMain": "Honor One",
@@ -99,13 +99,13 @@
     {
       "layoutId": "cta-terracotta",
       "slots": {
-        "author": "Solo & Sane",
-        "pageOf": "8/8",
+        "author": "",
+        "pageOf": "",
         "eyebrow": "YOUR TURN",
         "headlineMain": "Start Today",
         "headlineItalic": "right now",
         "body": "Pick one ritual to practice tomorrow morning. Small shifts repeated daily build a business that feels like freedom, not a cage.",
-        "buttonLabel": "Save this post",
+        "buttonLabel": "",
         "handle": ""
       }
     }

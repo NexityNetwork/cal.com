@@ -24,7 +24,7 @@
         "role4": "TRACKS CLAIMS AND SOURCES",
         "role5": "RUNS AUTOMATED WORKFLOWS",
         "role6": "WRITES FINAL DRAFTS",
-        "pageOf": "01 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -47,7 +47,7 @@
         "iconSlug4": "airtable",
         "iconSlug5": "n8n",
         "domainText": "",
-        "pageOf": "02 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -70,7 +70,7 @@
         "iconSlug4": "airtable",
         "iconSlug5": "cursor",
         "domainText": "",
-        "pageOf": "03 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -93,7 +93,7 @@
         "iconSlug4": "airtable",
         "iconSlug5": "n8n",
         "domainText": "",
-        "pageOf": "04 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -116,7 +116,7 @@
         "iconSlug4": "notion",
         "iconSlug5": "n8n",
         "domainText": "",
-        "pageOf": "05 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -139,7 +139,7 @@
         "iconSlug4": "notion",
         "iconSlug5": "airtable",
         "domainText": "",
-        "pageOf": "06 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -162,7 +162,7 @@
         "iconSlug4": "github",
         "iconSlug5": "perplexity",
         "domainText": "",
-        "pageOf": "07 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -180,10 +180,10 @@
         "iconSlug4": "airtable",
         "iconSlug5": "n8n",
         "iconSlug6": "cursor",
-        "btnPrimary": "Build Stack",
-        "btnGhost": "Read More",
+        "btnPrimary": "",
+        "btnGhost": "",
         "domainText": "",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

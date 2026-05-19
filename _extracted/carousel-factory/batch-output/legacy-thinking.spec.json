@@ -22,7 +22,7 @@
       "layoutId": "body-cream-gold",
       "slots": {
         "brand": "",
-        "pageOf": "2 / 8",
+        "pageOf": "",
         "number": "I",
         "numberLabel": "Truth",
         "titleMain": "The Lie",
@@ -35,7 +35,7 @@
       "layoutId": "body-cream-gold",
       "slots": {
         "brand": "",
-        "pageOf": "3 / 8",
+        "pageOf": "",
         "number": "II",
         "numberLabel": "Mistake",
         "titleMain": "Chasing Noise",
@@ -48,7 +48,7 @@
       "layoutId": "body-cream-gold",
       "slots": {
         "brand": "",
-        "pageOf": "4 / 8",
+        "pageOf": "",
         "number": "III",
         "numberLabel": "Mistake",
         "titleMain": "The Exit",
@@ -61,7 +61,7 @@
       "layoutId": "body-cream-gold",
       "slots": {
         "brand": "",
-        "pageOf": "5 / 8",
+        "pageOf": "",
         "number": "IV",
         "numberLabel": "Mistake",
         "titleMain": "The Pedigree",
@@ -74,7 +74,7 @@
       "layoutId": "body-cream-gold",
       "slots": {
         "brand": "",
-        "pageOf": "6 / 8",
+        "pageOf": "",
         "number": "V",
         "numberLabel": "Mistake",
         "titleMain": "Growth Masks",
@@ -87,7 +87,7 @@
       "layoutId": "body-cream-gold",
       "slots": {
         "brand": "",
-        "pageOf": "7 / 8",
+        "pageOf": "",
         "number": "VI",
         "numberLabel": "Mistake",
         "titleMain": "Founder Myth",
@@ -100,12 +100,12 @@
       "layoutId": "cta-cream-gold",
       "slots": {
         "brand": "",
-        "pageOf": "8 / 8",
+        "pageOf": "",
         "eyebrow": "A FINAL WORD",
         "headlineMain": "Build What",
         "headlineItalic": "Outlasts You",
         "body": "Legacy is not a milestone. It is the quiet result of refusing to trade tomorrow’s relevance for today’s applause.",
-        "buttonLabel": "SAVE THIS POST",
+        "buttonLabel": "",
         "handle": ""
       }
     }

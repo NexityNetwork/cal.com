@@ -27,8 +27,8 @@
         "iconSlug5": "elevenlabs",
         "sourceValue": "5 in 6",
         "sourceLabel": "FIRMS CUT",
-        "swipeLabel": "INSIDE",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -63,7 +63,7 @@
         "iconSlug3": "midjourney",
         "iconSlug4": "runway",
         "iconSlug5": "notion",
-        "pageOf": "02 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -98,7 +98,7 @@
         "iconSlug3": "freshdesk",
         "iconSlug4": "salesforce",
         "iconSlug5": "hubspot",
-        "pageOf": "03 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -133,7 +133,7 @@
         "iconSlug3": "canva",
         "iconSlug4": "figma",
         "iconSlug5": "runway",
-        "pageOf": "04 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -168,7 +168,7 @@
         "iconSlug3": "replit",
         "iconSlug4": "gitlab",
         "iconSlug5": "vercel",
-        "pageOf": "05 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -203,7 +203,7 @@
         "iconSlug3": "google",
         "iconSlug4": "smartling",
         "iconSlug5": "phrase",
-        "pageOf": "06 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -238,7 +238,7 @@
         "iconSlug3": "adobe",
         "iconSlug4": "capcut",
         "iconSlug5": "descript",
-        "pageOf": "07 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -251,8 +251,8 @@
         "ctaLine1": "Follow for",
         "ctaHighlight": "weekly signals",
         "ctaBody": "We track the tools reshaping work before headlines catch up. Join 50K readers.",
-        "btnPrimary": "FOLLOW NOW",
-        "btnGhost": "SAVE POST",
+        "btnPrimary": "",
+        "btnGhost": "",
         "stackLabel": "powered by",
         "iconSlug1": "openai",
         "iconSlug2": "midjourney",
@@ -261,7 +261,7 @@
         "iconSlug5": "deepl",
         "iconSlug6": "zendesk",
         "signoff": "see you next week",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

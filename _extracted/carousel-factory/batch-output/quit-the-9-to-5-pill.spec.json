@@ -11,7 +11,7 @@
         "preLine": "Why I",
         "pillText": "QUIT",
         "postLine": "my 9-to-5 job",
-        "author": "Alex Chen"
+        "author": ""
       }
     },
     {
@@ -22,7 +22,7 @@
         "numberLabel": "Catalyst",
         "title": "SNAP POINT",
         "body": "I ignored burnout for six months until a Tuesday panic attack in a parking lot rewrote my priorities overnight.",
-        "author": "Alex Chen"
+        "author": ""
       }
     },
     {
@@ -33,7 +33,7 @@
         "numberLabel": "Mistake",
         "title": "NO PLAN",
         "body": "I handed in my notice with no savings runway and no client pipeline, trading one stress for a deeper, quieter dread.",
-        "author": "Alex Chen"
+        "author": ""
       }
     },
     {
@@ -44,7 +44,7 @@
         "numberLabel": "Pivot",
         "title": "SKILL FIRST",
         "body": "If I started over, I would monetize one proven skill before quitting, letting the side income validate the leap.",
-        "author": "Alex Chen"
+        "author": ""
       }
     },
     {
@@ -55,7 +55,7 @@
         "numberLabel": "Buffer",
         "title": "SAVE FIRST",
         "body": "Three months of expenses is the minimum; six buys you the calm to say no to bad clients and worse projects.",
-        "author": "Alex Chen"
+        "author": ""
       }
     },
     {
@@ -66,7 +66,7 @@
         "numberLabel": "Network",
         "title": "TALK EARLY",
         "body": "I wish I had told trusted peers about my exit three months sooner; opportunities arrive faster when people know you're leaving.",
-        "author": "Alex Chen"
+        "author": ""
       }
     },
     {
@@ -77,7 +77,7 @@
         "numberLabel": "Reality",
         "title": "WORTH IT",
         "body": "The first year was harder than the job, yet reclaiming my mornings, mind, and margin made every risk feel inevitable.",
-        "author": "Alex Chen"
+        "author": ""
       }
     },
     {
@@ -87,8 +87,8 @@
         "eyebrow": "YOUR TURN",
         "headline": "GO",
         "body": "Quit the dream of quitting blindly; build the runway first, then leap with your eyes wide open.",
-        "buttonLabel": "Save this post",
-        "author": "Alex Chen"
+        "buttonLabel": "",
+        "author": ""
       }
     }
   ]

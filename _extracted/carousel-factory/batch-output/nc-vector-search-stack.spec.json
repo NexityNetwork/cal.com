@@ -29,8 +29,8 @@
         "iconSlug3": "fastapi",
         "iconSlug4": "redis",
         "iconSlug5": "grafana",
-        "swipeLabel": "DIVE IN",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -58,7 +58,7 @@
         "iconSlug2": "docker",
         "iconSlug3": "nginx",
         "iconSlug4": "prometheus",
-        "pageOf": "02 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -86,7 +86,7 @@
         "iconSlug2": "prisma",
         "iconSlug3": "supabase",
         "iconSlug4": "docker",
-        "pageOf": "03 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -114,7 +114,7 @@
         "iconSlug2": "python",
         "iconSlug3": "docker",
         "iconSlug4": "nginx",
-        "pageOf": "04 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -142,7 +142,7 @@
         "iconSlug2": "docker",
         "iconSlug3": "nginx",
         "iconSlug4": "linux",
-        "pageOf": "05 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -170,7 +170,7 @@
         "iconSlug2": "prometheus",
         "iconSlug3": "docker",
         "iconSlug4": "nginx",
-        "pageOf": "06 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -198,7 +198,7 @@
         "iconSlug2": "nginx",
         "iconSlug3": "linux",
         "iconSlug4": "github",
-        "pageOf": "07 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -218,11 +218,11 @@
         "iconSlug5": "grafana",
         "iconSlug6": "docker",
         "ctaBody": "Deploy the exact <em>12ms vector stack</em> we run in production. Configs included, no guesswork required.",
-        "btnPrimary": "Bookmark Now",
-        "btnGhost": "Follow Along",
+        "btnPrimary": "",
+        "btnGhost": "",
         "iconSlug7": "github",
         "iconSlug8": "nginx",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

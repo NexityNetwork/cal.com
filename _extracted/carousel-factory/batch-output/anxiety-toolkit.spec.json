@@ -7,8 +7,8 @@
     {
       "layoutId": "cover-pastel-soft",
       "slots": {
-        "authorInitials": "SL",
-        "authorName": "Sara Lin",
+        "authorInitials": "",
+        "authorName": "",
         "handle": "",
         "tagBlue": "Self Growth",
         "tagPink": "Anxiety Relief",
@@ -23,8 +23,8 @@
     {
       "layoutId": "body-pastel-soft",
       "slots": {
-        "authorName": "Sara Lin",
-        "pageOf": "2 / 8",
+        "authorName": "",
+        "pageOf": "",
         "number": "1",
         "numberLabel": "Tool",
         "titleMain": "Box Breathing",
@@ -36,8 +36,8 @@
     {
       "layoutId": "body-pastel-soft",
       "slots": {
-        "authorName": "Sara Lin",
-        "pageOf": "3 / 8",
+        "authorName": "",
+        "pageOf": "",
         "number": "2",
         "numberLabel": "Tool",
         "titleMain": "Grounding Senses",
@@ -49,8 +49,8 @@
     {
       "layoutId": "body-pastel-soft",
       "slots": {
-        "authorName": "Sara Lin",
-        "pageOf": "4 / 8",
+        "authorName": "",
+        "pageOf": "",
         "number": "3",
         "numberLabel": "Tool",
         "titleMain": "Cold Water",
@@ -62,8 +62,8 @@
     {
       "layoutId": "body-pastel-soft",
       "slots": {
-        "authorName": "Sara Lin",
-        "pageOf": "5 / 8",
+        "authorName": "",
+        "pageOf": "",
         "number": "4",
         "numberLabel": "Tool",
         "titleMain": "Muscle Release",
@@ -75,8 +75,8 @@
     {
       "layoutId": "body-pastel-soft",
       "slots": {
-        "authorName": "Sara Lin",
-        "pageOf": "6 / 8",
+        "authorName": "",
+        "pageOf": "",
         "number": "5",
         "numberLabel": "Tool",
         "titleMain": "Name It",
@@ -88,8 +88,8 @@
     {
       "layoutId": "body-pastel-soft",
       "slots": {
-        "authorName": "Sara Lin",
-        "pageOf": "7 / 8",
+        "authorName": "",
+        "pageOf": "",
         "number": "6",
         "numberLabel": "Tool",
         "titleMain": "Physiological Sigh",
@@ -101,13 +101,13 @@
     {
       "layoutId": "cta-pastel-soft",
       "slots": {
-        "authorName": "Sara Lin",
-        "pageOf": "8 / 8",
+        "authorName": "",
+        "pageOf": "",
         "eyebrow": "YOUR TURN",
         "headlineMain": "Save these",
         "headlineItalic": "tools",
         "body": "Which technique will you try first? Save this carousel for the moments you need quick, gentle relief.",
-        "buttonLabel": "Save this",
+        "buttonLabel": "",
         "secondaryLabel": "Share with a friend",
         "handle": ""
       }

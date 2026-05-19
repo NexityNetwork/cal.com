@@ -22,7 +22,7 @@
       "layoutId": "body-cream-gold",
       "slots": {
         "brand": "",
-        "pageOf": "ii / viii",
+        "pageOf": "",
         "number": "I",
         "numberLabel": "Principle",
         "titleMain": "Wealth Whispers",
@@ -35,7 +35,7 @@
       "layoutId": "body-cream-gold",
       "slots": {
         "brand": "",
-        "pageOf": "iii / viii",
+        "pageOf": "",
         "number": "II",
         "numberLabel": "Principle",
         "titleMain": "Time Is",
@@ -48,7 +48,7 @@
       "layoutId": "body-cream-gold",
       "slots": {
         "brand": "",
-        "pageOf": "iv / viii",
+        "pageOf": "",
         "number": "III",
         "numberLabel": "Principle",
         "titleMain": "Live Below",
@@ -61,7 +61,7 @@
       "layoutId": "body-cream-gold",
       "slots": {
         "brand": "",
-        "pageOf": "v / viii",
+        "pageOf": "",
         "number": "IV",
         "numberLabel": "Principle",
         "titleMain": "Cash Flow",
@@ -74,7 +74,7 @@
       "layoutId": "body-cream-gold",
       "slots": {
         "brand": "",
-        "pageOf": "vi / viii",
+        "pageOf": "",
         "number": "V",
         "numberLabel": "Principle",
         "titleMain": "Trust Is",
@@ -87,7 +87,7 @@
       "layoutId": "body-cream-gold",
       "slots": {
         "brand": "",
-        "pageOf": "vii / viii",
+        "pageOf": "",
         "number": "VI",
         "numberLabel": "Principle",
         "titleMain": "Know When",
@@ -100,12 +100,12 @@
       "layoutId": "cta-cream-gold",
       "slots": {
         "brand": "",
-        "pageOf": "viii / viii",
+        "pageOf": "",
         "eyebrow": "A FINAL WORD",
         "headlineMain": "Keep It",
         "headlineItalic": "Quiet",
         "body": "True wealth is built in silence and protected by patience. Begin again with principle one.",
-        "buttonLabel": "SAVE THIS POST",
+        "buttonLabel": "",
         "handle": ""
       }
     }

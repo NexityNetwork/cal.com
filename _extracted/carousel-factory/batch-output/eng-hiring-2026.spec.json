@@ -28,7 +28,7 @@
       "layoutId": "body-dark-navy",
       "slots": {
         "brand": "",
-        "pageOf": "02/08",
+        "pageOf": "",
         "stepLabel": "# 1 check the architecture signal",
         "number": "1",
         "titleMain": "System",
@@ -42,7 +42,7 @@
       "layoutId": "body-dark-navy",
       "slots": {
         "brand": "",
-        "pageOf": "03/08",
+        "pageOf": "",
         "stepLabel": "# 2 debug production incidents live",
         "number": "2",
         "titleMain": "Debug",
@@ -56,7 +56,7 @@
       "layoutId": "body-dark-navy",
       "slots": {
         "brand": "",
-        "pageOf": "04/08",
+        "pageOf": "",
         "stepLabel": "# 3 measure code review impact",
         "number": "3",
         "titleMain": "Review",
@@ -70,7 +70,7 @@
       "layoutId": "body-dark-navy",
       "slots": {
         "brand": "",
-        "pageOf": "05/08",
+        "pageOf": "",
         "stepLabel": "# 4 read the decision records",
         "number": "4",
         "titleMain": "Write",
@@ -84,7 +84,7 @@
       "layoutId": "body-dark-navy",
       "slots": {
         "brand": "",
-        "pageOf": "06/08",
+        "pageOf": "",
         "stepLabel": "# 5 align across team boundaries",
         "number": "5",
         "titleMain": "Ship",
@@ -98,7 +98,7 @@
       "layoutId": "body-dark-navy",
       "slots": {
         "brand": "",
-        "pageOf": "07/08",
+        "pageOf": "",
         "stepLabel": "# 6 own the full outcome",
         "number": "6",
         "titleMain": "Own",
@@ -112,12 +112,12 @@
       "layoutId": "cta-dark-navy",
       "slots": {
         "brand": "",
-        "pageOf": "08/08",
+        "pageOf": "",
         "terminalTag": "exec senior-hire.sh --stage=final --apply",
         "headLine1": "Hire",
         "headLine2": "Smarter",
         "body": "Drop the trivia. Build a senior team that ships. Follow for weekly engineering leadership playbooks.",
-        "buttonLabel": "Follow BuildLog",
+        "buttonLabel": "",
         "secondaryNote": "follow for more threads",
         "handle": ""
       }

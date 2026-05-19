@@ -8,7 +8,7 @@
       "layoutId": "cover-black-mindmap",
       "slots": {
         "handle": "",
-        "pageLabel": "01 / 08",
+        "pageLabel": "",
         "eyebrow": "SAVE THIS",
         "headlineLine1": "The 4 Pillars of",
         "headlineLine2": "AI Agents",
@@ -19,7 +19,7 @@
       "layoutId": "body-black-mindmap",
       "slots": {
         "handle": "",
-        "pageLabel": "02 / 08",
+        "pageLabel": "",
         "number": "1",
         "title": "Prompt",
         "pill1": "Vague prompts",
@@ -33,7 +33,7 @@
       "layoutId": "body-black-mindmap",
       "slots": {
         "handle": "",
-        "pageLabel": "03 / 08",
+        "pageLabel": "",
         "number": "2",
         "title": "Tools",
         "pill1": "Wrong tool pick",
@@ -47,7 +47,7 @@
       "layoutId": "body-black-mindmap",
       "slots": {
         "handle": "",
-        "pageLabel": "04 / 08",
+        "pageLabel": "",
         "number": "3",
         "title": "Memory",
         "pill1": "Lost context",
@@ -61,7 +61,7 @@
       "layoutId": "body-black-mindmap",
       "slots": {
         "handle": "",
-        "pageLabel": "05 / 08",
+        "pageLabel": "",
         "number": "4",
         "title": "Eval",
         "pill1": "Missing tests",
@@ -75,7 +75,7 @@
       "layoutId": "body-black-mindmap",
       "slots": {
         "handle": "",
-        "pageLabel": "06 / 08",
+        "pageLabel": "",
         "number": "5",
         "title": "Flow",
         "pill1": "Tight coupling",
@@ -89,7 +89,7 @@
       "layoutId": "body-black-mindmap",
       "slots": {
         "handle": "",
-        "pageLabel": "07 / 08",
+        "pageLabel": "",
         "number": "6",
         "title": "Deploy",
         "pill1": "No monitoring",
@@ -103,12 +103,12 @@
       "layoutId": "cta-black-mindmap",
       "slots": {
         "handle": "",
-        "pageLabel": "08 / 08",
+        "pageLabel": "",
         "eyebrow": "YOUR MOVE",
         "headlineLine1": "Build agents",
         "headlineLine2": "that ship",
         "body": "Master these 4 pillars and ship AI agents that don't break in production.",
-        "buttonLabel": "Save this post",
+        "buttonLabel": "",
         "closing": "Follow for more"
       }
     }

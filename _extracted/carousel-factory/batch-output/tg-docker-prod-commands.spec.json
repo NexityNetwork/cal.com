@@ -30,8 +30,8 @@
         "iconSlug3": "linux",
         "iconSlug4": "nginx",
         "iconSlug5": "prometheus",
-        "swipeLabel": "EXEC",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -66,7 +66,7 @@
         "iconSlug2": "linux",
         "iconSlug3": "alpine",
         "iconSlug4": "ubuntu",
-        "pageOf": "02 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -101,7 +101,7 @@
         "iconSlug2": "kubernetes",
         "iconSlug3": "elasticsearch",
         "iconSlug4": "fluentd",
-        "pageOf": "03 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -136,7 +136,7 @@
         "iconSlug2": "nginx",
         "iconSlug3": "redis",
         "iconSlug4": "postgresql",
-        "pageOf": "04 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -171,7 +171,7 @@
         "iconSlug2": "jenkins",
         "iconSlug3": "gitlab",
         "iconSlug4": "githubactions",
-        "pageOf": "05 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -206,7 +206,7 @@
         "iconSlug2": "istio",
         "iconSlug3": "traefik",
         "iconSlug4": "cloudflare",
-        "pageOf": "06 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -241,7 +241,7 @@
         "iconSlug2": "kubernetes",
         "iconSlug3": "terraform",
         "iconSlug4": "ansible",
-        "pageOf": "07 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -261,10 +261,10 @@
         "iconSlug5": "prometheus",
         "iconSlug6": "github",
         "ctaBody": "Memorize these 6 commands and <em>never ssh into a burning box at 3am again</em>.",
-        "btnPrimary": "Bookmark Now",
-        "btnGhost": "Follow @dockercraft",
+        "btnPrimary": "",
+        "btnGhost": "",
         "signoff": "ship fast, debug faster",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

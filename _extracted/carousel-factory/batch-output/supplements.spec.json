@@ -8,7 +8,7 @@
       "layoutId": "cover-dark-green-serif",
       "slots": {
         "brand": "",
-        "pageOf": "01 OF 08",
+        "pageOf": "",
         "headline": "What Survived Three Years of Testing?",
         "subtitle": "The only pills still in my cabinet after 1,000 days.",
         "stickerText": "KEEPERS ONLY",
@@ -19,7 +19,7 @@
       "layoutId": "body-dark-green-serif",
       "slots": {
         "brand": "",
-        "pageOf": "02 OF 08",
+        "pageOf": "",
         "number": "01",
         "title": "Magnesium Glycinate Every Night",
         "body": "This is the one supplement I notice immediately when I skip it. Two capsules before bed and my sleep is deeper, my muscles feel looser, and I wake up actually rested. It beats melatonin hands down.",
@@ -30,7 +30,7 @@
       "layoutId": "body-dark-green-serif",
       "slots": {
         "brand": "",
-        "pageOf": "03 OF 08",
+        "pageOf": "",
         "number": "02",
         "title": "Daily Omega-3 for Inflammation",
         "body": "I started taking this for joint stiffness, but the mental clarity was the real surprise. Three years in, my bloodwork shows lower inflammatory markers and my skin is less reactive. It is a non-negotiable.",
@@ -41,7 +41,7 @@
       "layoutId": "body-dark-green-serif",
       "slots": {
         "brand": "",
-        "pageOf": "04 OF 08",
+        "pageOf": "",
         "number": "03",
         "title": "Vitamin D3 with K2",
         "body": "My levels were chronically low despite living in the sun. Adding K2 changed the game. It directs calcium to bones instead of arteries. One tiny softgel each morning keeps me in the optimal range year-round.",
@@ -52,7 +52,7 @@
       "layoutId": "body-dark-green-serif",
       "slots": {
         "brand": "",
-        "pageOf": "05 OF 08",
+        "pageOf": "",
         "number": "04",
         "title": "Creatine Monohydrate Daily",
         "body": "It is not just for gym bros. Five grams a day improved my lifts, but also my focus and memory. It is the most researched supplement on the planet, dirt cheap, and I will never cycle off.",
@@ -63,7 +63,7 @@
       "layoutId": "body-dark-green-serif",
       "slots": {
         "brand": "",
-        "pageOf": "06 OF 08",
+        "pageOf": "",
         "number": "05",
         "title": "Ashwagandha for Cortisol",
         "body": "My cortisol was through the roof during deadline season. This adaptogen smooths out my anxiety without making me drowsy. I take it in the afternoon and my sleep tracker proves I recover faster.",
@@ -74,7 +74,7 @@
       "layoutId": "body-dark-green-serif",
       "slots": {
         "brand": "",
-        "pageOf": "07 OF 08",
+        "pageOf": "",
         "number": "06",
         "title": "Collagen for Skin and Joints",
         "body": "I was skeptical about this one, but my knee creaking stopped within a month. My nails are stronger and my skin looks noticeably plumper. It mixes into coffee and I barely notice it.",
@@ -88,7 +88,7 @@
         "eyebrow": "SAVE THIS",
         "headline": "Build Your Own Keeper Stack",
         "body": "Start with one, track for thirty days, and only keep what you actually feel. Your protocol should fit your life, not a shopping list.",
-        "buttonLabel": "SAVE STACK",
+        "buttonLabel": "",
         "handle": ""
       }
     }

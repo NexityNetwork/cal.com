@@ -13,10 +13,10 @@
         "titleLine1": "stopped working",
         "titleUnderline": "and watched",
         "titleAccent": "MRR climb",
-        "avatarLetter": "G",
-        "byLine": "from the trenches",
-        "authorName": "Greg Isenberg",
-        "authorRole": "founder · late-night writer",
+        "avatarLetter": "",
+        "byLine": "",
+        "authorName": "",
+        "authorRole": "",
         "stickyNote": "the leverage paradox no one warns you about",
         "intro": "I burned out. Then my revenue went up. Here's the <em>uncomfortable truth</em> about solo leverage.",
         "tile1Label": "Stripe",
@@ -27,8 +27,8 @@
         "iconSlug2": "notion",
         "iconSlug3": "linear",
         "iconSlug4": "vercel",
-        "swipeLabel": "let's go",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -56,13 +56,13 @@
         "insight3Tag": "FAIL",
         "insight3Note": "don't do this",
         "insight3Pill": "ZERO SLEEP",
-        "avatarLetter": "G",
-        "authorQuote": "I thought grinding harder was the <em>only</em> way to scale.",
+        "avatarLetter": "",
+        "authorQuote": "",
         "iconSlug1": "slack",
         "iconSlug2": "gmail",
         "iconSlug3": "notion",
         "iconSlug4": "stripe",
-        "pageOf": "02 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -90,13 +90,13 @@
         "insight3Tag": "AHA",
         "insight3Note": "money doesn't sleep",
         "insight3Pill": "+$3.2K",
-        "avatarLetter": "G",
-        "authorQuote": "Stepping away revealed how much <em>noise</em> I was creating.",
+        "avatarLetter": "",
+        "authorQuote": "",
         "iconSlug1": "netflix",
         "iconSlug2": "apple",
         "iconSlug3": "spotify",
         "iconSlug4": "stripe",
-        "pageOf": "03 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -124,13 +124,13 @@
         "insight3Tag": "AHA",
         "insight3Note": "hard lesson",
         "insight3Pill": "SYSTEM",
-        "avatarLetter": "G",
-        "authorQuote": "Your MRR doesn't care how <em>tired</em> you are.",
+        "avatarLetter": "",
+        "authorQuote": "",
         "iconSlug1": "zapier",
         "iconSlug2": "make",
         "iconSlug3": "airtable",
         "iconSlug4": "stripe",
-        "pageOf": "04 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -158,13 +158,13 @@
         "insight3Tag": "RULE",
         "insight3Note": "non negotiable",
         "insight3Pill": "DAY 0",
-        "avatarLetter": "G",
-        "authorQuote": "Rest isn't the reward. It's the <em>requirement</em> for growth.",
+        "avatarLetter": "",
+        "authorQuote": "",
         "iconSlug1": "zapier",
         "iconSlug2": "notion",
         "iconSlug3": "slack",
         "iconSlug4": "linear",
-        "pageOf": "05 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -192,13 +192,13 @@
         "insight3Tag": "WIN",
         "insight3Note": "the real win",
         "insight3Pill": "JOY",
-        "avatarLetter": "G",
-        "authorQuote": "The business grew when I stopped treating myself like a <em>machine</em>.",
+        "avatarLetter": "",
+        "authorQuote": "",
         "iconSlug1": "stripe",
         "iconSlug2": "chartmogul",
         "iconSlug3": "notion",
         "iconSlug4": "linear",
-        "pageOf": "06 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -226,13 +226,13 @@
         "insight3Tag": "WIN",
         "insight3Note": "protect this",
         "insight3Pill": "YOU INC",
-        "avatarLetter": "G",
-        "authorQuote": "The most profitable thing I did was admit I was <em>burned out</em>.",
+        "avatarLetter": "",
+        "authorQuote": "",
         "iconSlug1": "notion",
         "iconSlug2": "apple",
         "iconSlug3": "headspace",
         "iconSlug4": "stripe",
-        "pageOf": "07 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -252,10 +252,10 @@
         "iconSlug5": "slack",
         "iconSlug6": "vercel",
         "ctaBody": "I write about the messy truth of building in public. <em>Follow along</em> if you're tired of the hustle gospel.",
-        "btnPrimary": "Save Post",
-        "btnGhost": "follow for more",
+        "btnPrimary": "",
+        "btnGhost": "",
         "signoff": "rest is leverage ✱",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

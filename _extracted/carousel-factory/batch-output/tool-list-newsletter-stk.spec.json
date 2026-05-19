@@ -15,7 +15,7 @@
         "previewColor3": "#F97316",
         "previewColor4": "#A855F7",
         "previewColor5": "#F43F5E",
-        "pageOf": "01/08"
+        "pageOf": ""
       }
     },
     {
@@ -32,7 +32,7 @@
         "hex4": "#92BDF9",
         "paletteName": "Corporate Cobalt",
         "paletteUseCase": "Perfect for fintech and SaaS brands that need trust and clarity.",
-        "pageOf": "02/08"
+        "pageOf": ""
       }
     },
     {
@@ -49,7 +49,7 @@
         "hex4": "#86EFAC",
         "paletteName": "Forest Growth",
         "paletteUseCase": "Ideal for eco-friendly startups and wellness companies seeking natural harmony.",
-        "pageOf": "03/08"
+        "pageOf": ""
       }
     },
     {
@@ -66,7 +66,7 @@
         "hex4": "#FDBA74",
         "paletteName": "Sunset Warmth",
         "paletteUseCase": "Great for food brands and lifestyle content that demands energy.",
-        "pageOf": "04/08"
+        "pageOf": ""
       }
     },
     {
@@ -83,7 +83,7 @@
         "hex4": "#D8B4FE",
         "paletteName": "Luxury Plum",
         "paletteUseCase": "Suited for beauty and high-end fashion houses.",
-        "pageOf": "05/08"
+        "pageOf": ""
       }
     },
     {
@@ -100,7 +100,7 @@
         "hex4": "#FEF08A",
         "paletteName": "Urban Signal",
         "paletteUseCase": "Works for tech editorials and modern urban apparel brands.",
-        "pageOf": "06/08"
+        "pageOf": ""
       }
     },
     {
@@ -117,7 +117,7 @@
         "hex4": "#FDA4AF",
         "paletteName": "Coral Energy",
         "paletteUseCase": "Excellent for creative agencies and youth-focused platforms.",
-        "pageOf": "07/08"
+        "pageOf": ""
       }
     },
     {
@@ -131,8 +131,8 @@
         "color3": "#38BDF8",
         "color4": "#E0F2FE",
         "body": "Stand out with colors that tell your story. Save these palettes and start building today.",
-        "buttonLabel": "Save these palettes",
-        "pageOf": "08/08"
+        "buttonLabel": "",
+        "pageOf": ""
       }
     }
   ]

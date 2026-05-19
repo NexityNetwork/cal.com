@@ -7,9 +7,9 @@
     {
       "layoutId": "cover-linkedin-pro",
       "slots": {
-        "author": "Jordan Lee",
+        "author": "",
         "badgeText": "LINKEDIN CAROUSEL POST",
-        "pageNumber": "1",
+        "pageNumber": "",
         "accentColor": "#4f3df5",
         "headline": "The LinkedIn Loop That Built 50K",
         "heroSymbol": "50",
@@ -21,9 +21,9 @@
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Jordan Lee",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "2",
+        "pageNumber": "",
         "accentColor": "#4f3df5",
         "title": "Start With One Core Idea",
         "body": "Every week, pick one topic your audience struggles with. Turn that single idea into the foundation of your entire content calendar.",
@@ -36,9 +36,9 @@
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Jordan Lee",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "3",
+        "pageNumber": "",
         "accentColor": "#4f3df5",
         "title": "Break It Into Micro-Posts",
         "body": "Slice your core idea into five to seven bite-sized tips. Each micro-post becomes a standalone LinkedIn update with clear value.",
@@ -51,9 +51,9 @@
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Jordan Lee",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "4",
+        "pageNumber": "",
         "accentColor": "#4f3df5",
         "title": "Repurpose Into a Carousel",
         "body": "Take your best-performing micro-post and expand it into a visual carousel. Visuals multiply reach and drive deeper audience engagement.",
@@ -66,9 +66,9 @@
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Jordan Lee",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "5",
+        "pageNumber": "",
         "accentColor": "#4f3df5",
         "title": "Turn Comments Into Content",
         "body": "Read every comment. The best questions become your next posts. This creates an endless feedback loop with your community.",
@@ -81,9 +81,9 @@
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Jordan Lee",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "6",
+        "pageNumber": "",
         "accentColor": "#4f3df5",
         "title": "Stack Proof and Stories",
         "body": "Add client wins, personal stories, and data to your loop. Proof builds trust and transforms followers into loyal fans.",
@@ -96,9 +96,9 @@
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Jordan Lee",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "7",
+        "pageNumber": "",
         "accentColor": "#4f3df5",
         "title": "Repeat for 90 Days",
         "body": "Consistency compounds. Run this loop three times per week for ninety days and watch your following explode with engaged readers.",
@@ -111,14 +111,14 @@
     {
       "layoutId": "cta-linkedin-pro",
       "slots": {
-        "author": "Jordan Lee",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "8",
+        "pageNumber": "",
         "accentColor": "#4f3df5",
         "eyebrow": "YOUR TURN?",
         "headline": "Ready to Build Your Loop?",
         "body": "Save this carousel and start your first loop today. Which step will you tackle first?",
-        "buttonLabel": "Follow for More",
+        "buttonLabel": "",
         "secondaryLabel": "Repost",
         "handle": ""
       }

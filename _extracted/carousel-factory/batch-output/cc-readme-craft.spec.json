@@ -38,7 +38,7 @@
         "b2Title": "Avoid jargon overload",
         "b2Body": "Replace buzzwords with the exact pain point your tool removes.",
         "domainText": "",
-        "pageOf": "01 / 06"
+        "pageOf": ""
       }
     },
     {
@@ -60,7 +60,7 @@
         "b2Title": "Show live output",
         "b2Body": "A terminal screenshot proves your project works without configuration hell.",
         "domainText": "",
-        "pageOf": "02 / 06"
+        "pageOf": ""
       }
     },
     {
@@ -82,7 +82,7 @@
         "b2Title": "Use real scenarios",
         "b2Body": "Concrete examples beat abstract claims when recruiting technical talent.",
         "domainText": "",
-        "pageOf": "03 / 06"
+        "pageOf": ""
       }
     },
     {
@@ -104,7 +104,7 @@
         "b2Title": "Own the constraints",
         "b2Body": "Honest limits attract collaborators more than polished marketing ever could.",
         "domainText": "",
-        "pageOf": "04 / 06"
+        "pageOf": ""
       }
     },
     {
@@ -126,7 +126,7 @@
         "b2Title": "Automate the setup",
         "b2Body": "One script to configure dev envs removes friction that kills enthusiasm.",
         "domainText": "",
-        "pageOf": "05 / 06"
+        "pageOf": ""
       }
     },
     {
@@ -148,7 +148,7 @@
         "b2Title": "Share the roadmap",
         "b2Body": "A public changelog proves the project is alive and professionally maintained.",
         "domainText": "",
-        "pageOf": "06 / 06"
+        "pageOf": ""
       }
     },
     {
@@ -160,11 +160,11 @@
         "ctaAccent": "for talent",
         "ctaItalic": "for builders",
         "ctaBody": "Apply these six patterns and watch your repository become a <em>magnet for talent</em> instead of a graveyard of confusion.",
-        "btnPrimary": "Start writing",
-        "btnGhost": "View examples",
+        "btnPrimary": "",
+        "btnGhost": "",
         "signoff": "Now go ship it",
         "domainText": "",
-        "pageOf": "06 / 06"
+        "pageOf": ""
       }
     }
   ]

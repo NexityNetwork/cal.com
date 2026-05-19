@@ -30,8 +30,8 @@
         "iconSlug3": "gitlab",
         "iconSlug4": "bitbucket",
         "iconSlug5": "linux",
-        "swipeLabel": "CLONE",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -66,7 +66,7 @@
         "iconSlug2": "github",
         "iconSlug3": "linux",
         "iconSlug4": "vim",
-        "pageOf": "02 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -101,7 +101,7 @@
         "iconSlug2": "github",
         "iconSlug3": "vscode",
         "iconSlug4": "linux",
-        "pageOf": "03 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -136,7 +136,7 @@
         "iconSlug2": "github",
         "iconSlug3": "linux",
         "iconSlug4": "gitlab",
-        "pageOf": "04 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -171,7 +171,7 @@
         "iconSlug2": "github",
         "iconSlug3": "vscode",
         "iconSlug4": "neovim",
-        "pageOf": "05 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -206,7 +206,7 @@
         "iconSlug2": "github",
         "iconSlug3": "gitlab",
         "iconSlug4": "linux",
-        "pageOf": "06 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -241,7 +241,7 @@
         "iconSlug2": "github",
         "iconSlug3": "linux",
         "iconSlug4": "bitbucket",
-        "pageOf": "07 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -261,10 +261,10 @@
         "iconSlug5": "linux",
         "iconSlug6": "vscode",
         "ctaBody": "Bookmark these 7 tricks and <em>never lose a commit again</em>.",
-        "btnPrimary": "Bookmark Now",
-        "btnGhost": "Follow Along",
+        "btnPrimary": "",
+        "btnGhost": "",
         "signoff": "commit often, revert wisely",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

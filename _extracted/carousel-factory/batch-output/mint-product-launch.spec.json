@@ -10,12 +10,12 @@
         "titleLine1": "The Ultimate",
         "titleLine2": "Guide to",
         "titleBold": "LAUNCHES",
-        "authorInitials": "AR",
-        "authorName": "Alex Rivera",
+        "authorInitials": "",
+        "authorName": "",
         "handle": "",
         "avatarBg1": "#37474F",
         "avatarBg2": "#90A4AE",
-        "pageOf": "01 - 08"
+        "pageOf": ""
       }
     },
     {
@@ -26,7 +26,7 @@
         "bodyLine3": "audience you",
         "bodyLine4": "truly own",
         "bodyLine5": "for launches",
-        "pageOf": "02 - 08"
+        "pageOf": ""
       }
     },
     {
@@ -37,7 +37,7 @@
         "bodyLine3": "before you",
         "bodyLine4": "ever spend",
         "bodyLine5": "a dollar",
-        "pageOf": "03 - 08"
+        "pageOf": ""
       }
     },
     {
@@ -48,7 +48,7 @@
         "bodyLine3": "faster than",
         "bodyLine4": "any brand",
         "bodyLine5": "channel can",
-        "pageOf": "04 - 08"
+        "pageOf": ""
       }
     },
     {
@@ -59,7 +59,7 @@
         "bodyLine3": "to exact",
         "bodyLine4": "target audiences",
         "bodyLine5": "in hours",
-        "pageOf": "05 - 08"
+        "pageOf": ""
       }
     },
     {
@@ -70,7 +70,7 @@
         "bodyLine3": "qualified visitors",
         "bodyLine4": "months after",
         "bodyLine5": "launch day",
-        "pageOf": "06 - 08"
+        "pageOf": ""
       }
     },
     {
@@ -81,18 +81,18 @@
         "bodyLine3": "instant feedback",
         "bodyLine4": "and real",
         "bodyLine5": "user momentum",
-        "pageOf": "07 - 08"
+        "pageOf": ""
       }
     },
     {
       "layoutId": "cta-mint-condensed",
       "slots": {
-        "authorInitials": "AR",
-        "authorName": "Alex Rivera",
+        "authorInitials": "",
+        "authorName": "",
         "handle": "",
         "avatarBg1": "#37474F",
         "avatarBg2": "#90A4AE",
-        "pageOf": "08 - 08",
+        "pageOf": "",
         "tagline": "Strategic design that turns every product launch into market momentum.",
         "ctaQuestion": "Ready to launch smarter ?"
       }

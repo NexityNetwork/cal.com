@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/sleep-rituals/slide-01.png",
-      "bytes": 164932,
+      "bytes": 163194,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -19,7 +19,7 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/sleep-rituals/slide-02.png",
-      "bytes": 79074,
+      "bytes": 77192,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -45,7 +45,7 @@
     {
       "index": 2,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/sleep-rituals/slide-03.png",
-      "bytes": 73052,
+      "bytes": 71154,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -71,7 +71,7 @@
     {
       "index": 3,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/sleep-rituals/slide-04.png",
-      "bytes": 80032,
+      "bytes": 78316,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -97,7 +97,7 @@
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/sleep-rituals/slide-05.png",
-      "bytes": 82327,
+      "bytes": 80413,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -123,7 +123,7 @@
     {
       "index": 5,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/sleep-rituals/slide-06.png",
-      "bytes": 72782,
+      "bytes": 70757,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -149,7 +149,7 @@
     {
       "index": 6,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/sleep-rituals/slide-07.png",
-      "bytes": 73631,
+      "bytes": 71887,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -175,7 +175,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/sleep-rituals/slide-08.png",
-      "bytes": 75549,
+      "bytes": 67875,
       "qa": {
         "verdict": "pass",
         "checks": {

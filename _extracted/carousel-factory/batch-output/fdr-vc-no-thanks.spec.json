@@ -13,10 +13,10 @@
         "titleLine1": "I turned down",
         "titleUnderline": "VC money",
         "titleAccent": "twice",
-        "avatarLetter": "M",
-        "byLine": "from the inside",
-        "authorName": "Morgan Chen",
-        "authorRole": "founder · solo builder",
+        "avatarLetter": "",
+        "byLine": "",
+        "authorName": "",
+        "authorRole": "",
         "stickyNote": "the optionality cost they don't teach in YC",
         "intro": "Most founders are sold a story about <em>needing</em> funding. I built differently.",
         "tile1Label": "Notion",
@@ -27,8 +27,8 @@
         "iconSlug2": "stripe",
         "iconSlug3": "linear",
         "iconSlug4": "vercel",
-        "swipeLabel": "swipe through",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -56,13 +56,13 @@
         "insight3Tag": "AHA",
         "insight3Note": "wake up call",
         "insight3Pill": "WEEK 3",
-        "avatarLetter": "M",
-        "authorQuote": "I wanted freedom more than I wanted <em>approval</em> from Sand Hill.",
+        "avatarLetter": "",
+        "authorQuote": "",
         "iconSlug1": "notion",
         "iconSlug2": "slack",
         "iconSlug3": "figma",
         "iconSlug4": "github",
-        "pageOf": "02 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -90,13 +90,13 @@
         "insight3Tag": "WIN",
         "insight3Note": "zero meetings",
         "insight3Pill": "SHIP DAILY",
-        "avatarLetter": "M",
-        "authorQuote": "Small and sovereign beats <em>fast</em> and beholden every time.",
+        "avatarLetter": "",
+        "authorQuote": "",
         "iconSlug1": "stripe",
         "iconSlug2": "linear",
         "iconSlug3": "vercel",
         "iconSlug4": "loom",
-        "pageOf": "03 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -124,13 +124,13 @@
         "insight3Tag": "AHA",
         "insight3Note": "real power",
         "insight3Pill": "Q4 PROFIT",
-        "avatarLetter": "M",
-        "authorQuote": "I chose <em>sustainability</em> over the growth narrative they sell.",
+        "avatarLetter": "",
+        "authorQuote": "",
         "iconSlug1": "cursor",
         "iconSlug2": "claude",
         "iconSlug3": "arc",
         "iconSlug4": "raycast",
-        "pageOf": "04 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -158,13 +158,13 @@
         "insight3Tag": "FAIL",
         "insight3Note": "nightmare fuel",
         "insight3Pill": "BOARD",
-        "avatarLetter": "M",
-        "authorQuote": "I refused to let my <em>company</em> become someone else's spreadsheet cell.",
+        "avatarLetter": "",
+        "authorQuote": "",
         "iconSlug1": "x",
         "iconSlug2": "linkedin",
         "iconSlug3": "producthunt",
         "iconSlug4": "techcrunch",
-        "pageOf": "05 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -192,13 +192,13 @@
         "insight3Tag": "WIN",
         "insight3Note": "silent wealth",
         "insight3Pill": "PROFIT",
-        "avatarLetter": "M",
-        "authorQuote": "I realized the story was <em>designed</em> to make me feel small without them.",
+        "avatarLetter": "",
+        "authorQuote": "",
         "iconSlug1": "substack",
         "iconSlug2": "youtube",
         "iconSlug3": "spotify",
         "iconSlug4": "apple",
-        "pageOf": "06 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -226,13 +226,13 @@
         "insight3Tag": "AHA",
         "insight3Note": "the whole point",
         "insight3Pill": "OPTIONAL",
-        "avatarLetter": "M",
-        "authorQuote": "Turning them down was the <em>best</em> product decision I ever made.",
+        "avatarLetter": "",
+        "authorQuote": "",
         "iconSlug1": "notion",
         "iconSlug2": "stripe",
         "iconSlug3": "linear",
         "iconSlug4": "figma",
-        "pageOf": "07 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -252,10 +252,10 @@
         "iconSlug5": "cursor",
         "iconSlug6": "claude",
         "ctaBody": "Bootstrapping isn't for everyone, but <em>optionality</em> should be. Build on your terms.",
-        "btnPrimary": "Save Post",
-        "btnGhost": "follow for more",
+        "btnPrimary": "",
+        "btnGhost": "",
         "signoff": "build different ✱",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

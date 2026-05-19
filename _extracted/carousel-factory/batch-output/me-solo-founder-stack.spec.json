@@ -19,13 +19,13 @@
         "preview1": "How AI agents replaced my first engineering hire",
         "preview2": "The no-code stack that scales to ten thousand users",
         "preview3": "Automations that reply to customers while you sleep",
-        "avatarLetter": "J",
-        "authorName": "Jordan Marks",
-        "authorRole": "indie founder · 6 products shipped",
+        "avatarLetter": "",
+        "authorName": "",
+        "authorRole": "",
         "tag1": "FOUNDER",
         "tag2": "TOOLS",
-        "swipeLabel": "Read the issue",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -55,7 +55,7 @@
         "iconSlug2": "github",
         "iconSlug3": "vscode",
         "iconSlug4": "openai",
-        "pageOf": "02 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -85,7 +85,7 @@
         "iconSlug2": "framer",
         "iconSlug3": "webflow",
         "iconSlug4": "canva",
-        "pageOf": "03 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -115,7 +115,7 @@
         "iconSlug2": "make",
         "iconSlug3": "slack",
         "iconSlug4": "airtable",
-        "pageOf": "04 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -145,7 +145,7 @@
         "iconSlug2": "coda",
         "iconSlug3": "loom",
         "iconSlug4": "linear",
-        "pageOf": "05 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -175,7 +175,7 @@
         "iconSlug2": "mixpanel",
         "iconSlug3": "amplitude",
         "iconSlug4": "plausible",
-        "pageOf": "06 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -205,7 +205,7 @@
         "iconSlug2": "railway",
         "iconSlug3": "supabase",
         "iconSlug4": "aws",
-        "pageOf": "07 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -223,10 +223,10 @@
         "iconSlug3": "zapier",
         "iconSlug4": "notion",
         "ctaBody": "Ship faster, spend less, and own the entire stack. <em>The solo founder's advantage is focus, not funding.</em>",
-        "btnPrimary": "Save Post",
-        "btnGhost": "Follow along",
+        "btnPrimary": "",
+        "btnGhost": "",
         "signoff": "more essays weekly",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

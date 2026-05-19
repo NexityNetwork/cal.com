@@ -28,8 +28,8 @@
         "iconSlug5": "milvus",
         "toolCount": "5+",
         "countLabel": "DBS TESTED",
-        "swipeLabel": "READ",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -61,7 +61,7 @@
         "iconSlug2": "pinecone",
         "iconSlug3": "milvus",
         "iconSlug4": "weaviate",
-        "pageOf": "02 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -94,7 +94,7 @@
         "iconSlug2": "weaviate",
         "iconSlug3": "qdrant",
         "iconSlug4": "pinecone",
-        "pageOf": "03 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -136,7 +136,7 @@
         "iconSlug6": "postgresql",
         "iconSlug7": "redis",
         "iconSlug8": "elasticsearch",
-        "pageOf": "04 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -168,7 +168,7 @@
         "iconSlug2": "qdrant",
         "iconSlug3": "pinecone",
         "iconSlug4": "chroma",
-        "pageOf": "05 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -201,7 +201,7 @@
         "iconSlug2": "pinecone",
         "iconSlug3": "qdrant",
         "iconSlug4": "milvus",
-        "pageOf": "06 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -243,7 +243,7 @@
         "iconSlug6": "redis",
         "iconSlug7": "elasticsearch",
         "iconSlug8": "opensearch",
-        "pageOf": "07 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -263,10 +263,10 @@
         "iconSlug5": "chroma",
         "iconSlug6": "elasticsearch",
         "ctaBody": "Save this guide and share it with your team before your next RAG architecture review.",
-        "btnPrimary": "Save Guide",
-        "btnGhost": "Read More",
+        "btnPrimary": "",
+        "btnGhost": "",
         "signoff": "Happy building friends",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

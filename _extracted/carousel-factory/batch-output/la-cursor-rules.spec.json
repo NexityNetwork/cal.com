@@ -19,8 +19,8 @@
         "iconSlug4": "git",
         "iconSlug5": "nodedotjs",
         "iconSlug6": "github",
-        "swipeLabel": "SEE LIST",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -41,7 +41,7 @@
         "metric2Value": "1 min",
         "metric3Label": "PAYOFF",
         "metric3Value": "10x",
-        "pageOf": "02 / 08",
+        "pageOf": "",
         "footerNote": "always plan first"
       }
     },
@@ -63,7 +63,7 @@
         "metric2Value": "5 min",
         "metric3Label": "PAYOFF",
         "metric3Value": "High",
-        "pageOf": "03 / 08",
+        "pageOf": "",
         "footerNote": "context is king"
       }
     },
@@ -85,7 +85,7 @@
         "metric2Value": "Low",
         "metric3Label": "PAYOFF",
         "metric3Value": "Critical",
-        "pageOf": "04 / 08",
+        "pageOf": "",
         "footerNote": "test first always"
       }
     },
@@ -107,7 +107,7 @@
         "metric2Value": "30 sec",
         "metric3Label": "PAYOFF",
         "metric3Value": "Huge",
-        "pageOf": "05 / 08",
+        "pageOf": "",
         "footerNote": "review every diff"
       }
     },
@@ -129,7 +129,7 @@
         "metric2Value": "Low",
         "metric3Label": "PAYOFF",
         "metric3Value": "Steady",
-        "pageOf": "06 / 08",
+        "pageOf": "",
         "footerNote": "iterate in chunks"
       }
     },
@@ -151,7 +151,7 @@
         "metric2Value": "Medium",
         "metric3Label": "PAYOFF",
         "metric3Value": "Compounding",
-        "pageOf": "07 / 08",
+        "pageOf": "",
         "footerNote": "feed the context"
       }
     },
@@ -164,15 +164,15 @@
         "ctaLine1": "Deploy these",
         "ctaCallout": "rules",
         "ctaBody": "Turn your editor into a senior teammate today with a single .cursorrules file.",
-        "btnPrimary": "Copy Rules",
-        "btnGhost": "Read Guide",
+        "btnPrimary": "",
+        "btnGhost": "",
         "iconSlug1": "visualstudiocode",
         "iconSlug2": "typescript",
         "iconSlug3": "jest",
         "iconSlug4": "git",
         "iconSlug5": "nodedotjs",
         "iconSlug6": "github",
-        "pageOf": "08 / 08",
+        "pageOf": "",
         "footerNote": "ship faster now"
       }
     }

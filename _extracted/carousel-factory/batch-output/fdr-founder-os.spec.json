@@ -34,8 +34,8 @@
         "name5": "Vercel",
         "desc5": "Frontend cloud deploys that turn every push into a live production URL.",
         "tag5": "FREE TIER",
-        "swipeLabel": "SEE THEM",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -62,7 +62,7 @@
         "iconSlug4": "linear",
         "iconSlug5": "github",
         "iconSlug6": "zapier",
-        "pageOf": "02 / 08",
+        "pageOf": "",
         "footerNote": "Start with templates"
       }
     },
@@ -90,7 +90,7 @@
         "iconSlug4": "zapier",
         "iconSlug5": "linear",
         "iconSlug6": "vercel",
-        "pageOf": "03 / 08",
+        "pageOf": "",
         "footerNote": "Revenue starts here"
       }
     },
@@ -118,7 +118,7 @@
         "iconSlug4": "notion",
         "iconSlug5": "slack",
         "iconSlug6": "vercel",
-        "pageOf": "04 / 08",
+        "pageOf": "",
         "footerNote": "Speed is a feature"
       }
     },
@@ -146,7 +146,7 @@
         "iconSlug4": "vercel",
         "iconSlug5": "github",
         "iconSlug6": "slack",
-        "pageOf": "05 / 08",
+        "pageOf": "",
         "footerNote": "Design in the open"
       }
     },
@@ -174,7 +174,7 @@
         "iconSlug4": "stripe",
         "iconSlug5": "figma",
         "iconSlug6": "slack",
-        "pageOf": "06 / 08",
+        "pageOf": "",
         "footerNote": "Ship faster daily"
       }
     },
@@ -202,7 +202,7 @@
         "iconSlug4": "slack",
         "iconSlug5": "gmail",
         "iconSlug6": "linear",
-        "pageOf": "07 / 08",
+        "pageOf": "",
         "footerNote": "Automate or stagnate"
       }
     },
@@ -216,8 +216,8 @@
         "titleAccent": "serious founder",
         "titleItalic": "starting today",
         "body": "Revenue, focus, and freedom are not accidents. They are the output of a deliberate daily stack.",
-        "btnPrimary": "Save this",
-        "btnGhost": "Share stack",
+        "btnPrimary": "",
+        "btnGhost": "",
         "stackLabel": "the full stack",
         "iconSlug1": "notion",
         "iconSlug2": "stripe",
@@ -226,7 +226,7 @@
         "iconSlug5": "vercel",
         "iconSlug6": "zapier",
         "signoff": "ship your weekend project",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

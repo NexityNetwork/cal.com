@@ -40,7 +40,7 @@
         "outLine": "Published 3.4s (9ms p99)",
         "okLine": "✓ LIVE",
         "domainText": "",
-        "pageOf": "01 / 06"
+        "pageOf": ""
       }
     },
     {
@@ -61,7 +61,7 @@
         "outLine": "Project linked to prod",
         "okLine": "✓ READY",
         "domainText": "",
-        "pageOf": "02 / 06"
+        "pageOf": ""
       }
     },
     {
@@ -82,7 +82,7 @@
         "outLine": "Edge config updated",
         "okLine": "✓ DONE",
         "domainText": "",
-        "pageOf": "03 / 06"
+        "pageOf": ""
       }
     },
     {
@@ -103,7 +103,7 @@
         "outLine": "Edge functions 12 uploaded",
         "okLine": "✓ LIVE",
         "domainText": "",
-        "pageOf": "04 / 06"
+        "pageOf": ""
       }
     },
     {
@@ -124,7 +124,7 @@
         "outLine": "Active on 95 POPs",
         "okLine": "✓ ACTIVE",
         "domainText": "",
-        "pageOf": "05 / 06"
+        "pageOf": ""
       }
     },
     {
@@ -145,7 +145,7 @@
         "outLine": "Serverless function up",
         "okLine": "✓ OK",
         "domainText": "",
-        "pageOf": "06 / 06"
+        "pageOf": ""
       }
     },
     {
@@ -156,12 +156,12 @@
         "ctaLine1": "Deploy faster",
         "ctaLine2": "sleep better",
         "ctaBody": "Edge runtimes are production-standard in 2026. Choose isolation, speed, and zero cold starts.",
-        "btnPrimary": "Start building",
-        "btnGhost": "Read the report",
+        "btnPrimary": "",
+        "btnGhost": "",
         "meta1": "open source · MIT",
         "meta2": "built in 2026",
         "domainText": "",
-        "pageOf": "06 / 06"
+        "pageOf": ""
       }
     }
   ]

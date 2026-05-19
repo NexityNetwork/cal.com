@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/ba-claude-code-adoption/slide-01.png",
-      "bytes": 104859,
+      "bytes": 103188,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -115,7 +115,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/ba-claude-code-adoption/slide-08.png",
-      "bytes": 74176,
+      "bytes": 72354,
       "qa": {
         "verdict": "pass",
         "checks": {

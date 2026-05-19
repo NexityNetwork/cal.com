@@ -28,8 +28,8 @@
         "iconSlug5": "meta",
         "toolCount": "5",
         "countLabel": "METHODS COVERED",
-        "swipeLabel": "READ",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -61,7 +61,7 @@
         "iconSlug2": "huggingface",
         "iconSlug3": "nvidia",
         "iconSlug4": "openai",
-        "pageOf": "02 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -94,7 +94,7 @@
         "iconSlug2": "huggingface",
         "iconSlug3": "nvidia",
         "iconSlug4": "google",
-        "pageOf": "03 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -136,7 +136,7 @@
         "iconSlug6": "microsoft",
         "iconSlug7": "pytorch",
         "iconSlug8": "tensorflow",
-        "pageOf": "04 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -168,7 +168,7 @@
         "iconSlug2": "huggingface",
         "iconSlug3": "nvidia",
         "iconSlug4": "openai",
-        "pageOf": "05 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -201,7 +201,7 @@
         "iconSlug2": "anthropic",
         "iconSlug3": "google",
         "iconSlug4": "meta",
-        "pageOf": "06 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -243,7 +243,7 @@
         "iconSlug6": "microsoft",
         "iconSlug7": "pytorch",
         "iconSlug8": "tensorflow",
-        "pageOf": "07 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -263,10 +263,10 @@
         "iconSlug5": "meta",
         "iconSlug6": "pytorch",
         "ctaBody": "Download the complete benchmark sheet and pick the right method for your next model shipment.",
-        "btnPrimary": "Get the sheet",
-        "btnGhost": "Read more",
+        "btnPrimary": "",
+        "btnGhost": "",
         "signoff": "Happy training to you",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

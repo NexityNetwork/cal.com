@@ -12,7 +12,7 @@
         "shoutLine1": "YOUR RESUME",
         "shoutLine2": "IS BROKEN",
         "subQuestion": "Why treat a tool like a memoir when recruiters scan in six seconds flat?",
-        "pageOf": "01 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -32,7 +32,7 @@
         "statLabel3": "CALLS",
         "statValue3": "+47%",
         "swipeNote": "keep on going →",
-        "pageOf": "02 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -52,7 +52,7 @@
         "statLabel3": "READS",
         "statValue3": "2X",
         "swipeNote": "next one up →",
-        "pageOf": "03 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -72,7 +72,7 @@
         "statLabel3": "INTERVIEWS",
         "statValue3": "5X",
         "swipeNote": "swipe on now →",
-        "pageOf": "04 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -92,7 +92,7 @@
         "statLabel3": "CLARITY",
         "statValue3": "A+",
         "swipeNote": "keep moving on →",
-        "pageOf": "05 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -112,7 +112,7 @@
         "statLabel3": "RECALL",
         "statValue3": "+65%",
         "swipeNote": "you're almost there →",
-        "pageOf": "06 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -132,7 +132,7 @@
         "statLabel3": "SCAN",
         "statValue3": "< 6S",
         "swipeNote": "last one next →",
-        "pageOf": "07 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -143,10 +143,10 @@
         "ctaLine1": "GRAB THE",
         "ctaLine2": "CHECKLIST NOW",
         "ctaBody": "Stop guessing. Use the 6-point resume audit that top candidates rely on to land interviews fast.",
-        "btnPrimary": "GET THE LIST",
-        "btnGhost": "SHARE THIS",
+        "btnPrimary": "",
+        "btnGhost": "",
         "footerMeta": "LINK IN BIO",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

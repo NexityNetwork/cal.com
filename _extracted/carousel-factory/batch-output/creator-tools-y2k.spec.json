@@ -7,8 +7,8 @@
     {
       "layoutId": "cover-y2k-window",
       "slots": {
-        "authorInitials": "MV",
-        "authorName": "Morgan Vale",
+        "authorInitials": "",
+        "authorName": "",
         "handle": "",
         "number": "5",
         "firstWord": "Free",
@@ -21,8 +21,8 @@
     {
       "layoutId": "body-y2k-window",
       "slots": {
-        "authorInitials": "MV",
-        "authorName": "Morgan Vale",
+        "authorInitials": "",
+        "authorName": "",
         "handle": "",
         "number": "1",
         "title": "Notion Workspace",
@@ -33,8 +33,8 @@
     {
       "layoutId": "body-y2k-window",
       "slots": {
-        "authorInitials": "MV",
-        "authorName": "Morgan Vale",
+        "authorInitials": "",
+        "authorName": "",
         "handle": "",
         "number": "2",
         "title": "ChatGPT Drafts",
@@ -45,8 +45,8 @@
     {
       "layoutId": "body-y2k-window",
       "slots": {
-        "authorInitials": "MV",
-        "authorName": "Morgan Vale",
+        "authorInitials": "",
+        "authorName": "",
         "handle": "",
         "number": "3",
         "title": "Canva Designs",
@@ -57,8 +57,8 @@
     {
       "layoutId": "body-y2k-window",
       "slots": {
-        "authorInitials": "MV",
-        "authorName": "Morgan Vale",
+        "authorInitials": "",
+        "authorName": "",
         "handle": "",
         "number": "4",
         "title": "CapCut Edits",
@@ -69,8 +69,8 @@
     {
       "layoutId": "body-y2k-window",
       "slots": {
-        "authorInitials": "MV",
-        "authorName": "Morgan Vale",
+        "authorInitials": "",
+        "authorName": "",
         "handle": "",
         "number": "5",
         "title": "Buffer Queue",
@@ -81,8 +81,8 @@
     {
       "layoutId": "body-y2k-window",
       "slots": {
-        "authorInitials": "MV",
-        "authorName": "Morgan Vale",
+        "authorInitials": "",
+        "authorName": "",
         "handle": "",
         "number": "6",
         "title": "Daily Workflow",
@@ -93,14 +93,14 @@
     {
       "layoutId": "cta-y2k-window",
       "slots": {
-        "authorInitials": "MV",
-        "authorName": "Morgan Vale",
+        "authorInitials": "",
+        "authorName": "",
         "handle": "",
         "eyebrow": "YOUR TURN",
         "headlineMain": "START SHIPPING",
         "accentLine": "DAILY TODAY",
         "body": "Pick one tool, build a 7-day calendar, and post your first piece before midnight. Consistency wins.",
-        "buttonLabel": "Save this post",
+        "buttonLabel": "",
         "websiteUrl": "morganvale.co"
       }
     }

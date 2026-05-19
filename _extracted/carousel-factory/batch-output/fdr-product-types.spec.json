@@ -34,8 +34,8 @@
         "tag3": "PAID",
         "tag4": "API",
         "tag5": "OSS",
-        "swipeLabel": "SEE EACH ONE",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -62,7 +62,7 @@
         "iconSlug4": "stripe",
         "iconSlug5": "vercel",
         "iconSlug6": "notion",
-        "pageOf": "02 / 08",
+        "pageOf": "",
         "footerNote": "Launch on Twitter first"
       }
     },
@@ -90,7 +90,7 @@
         "iconSlug4": "figma",
         "iconSlug5": "shopify",
         "iconSlug6": "google",
-        "pageOf": "03 / 08",
+        "pageOf": "",
         "footerNote": "Launch on Product Hunt"
       }
     },
@@ -118,7 +118,7 @@
         "iconSlug4": "zapier",
         "iconSlug5": "notion",
         "iconSlug6": "vercel",
-        "pageOf": "04 / 08",
+        "pageOf": "",
         "footerNote": "Launch on LinkedIn first"
       }
     },
@@ -146,7 +146,7 @@
         "iconSlug4": "figma",
         "iconSlug5": "twitter",
         "iconSlug6": "vercel",
-        "pageOf": "05 / 08",
+        "pageOf": "",
         "footerNote": "Launch on Instagram first"
       }
     },
@@ -174,7 +174,7 @@
         "iconSlug4": "openai",
         "iconSlug5": "notion",
         "iconSlug6": "discord",
-        "pageOf": "06 / 08",
+        "pageOf": "",
         "footerNote": "Launch on GitHub first"
       }
     },
@@ -202,7 +202,7 @@
         "iconSlug4": "zapier",
         "iconSlug5": "stripe",
         "iconSlug6": "twitter",
-        "pageOf": "07 / 08",
+        "pageOf": "",
         "footerNote": "Launch on LinkedIn first"
       }
     },
@@ -216,8 +216,8 @@
         "titleAccent": "products",
         "titleItalic": "to sell tomorrow",
         "body": "Choose a stack, build a landing page, and launch before Monday. Your first customer is already looking.",
-        "btnPrimary": "Start Building",
-        "btnGhost": "Get the List",
+        "btnPrimary": "",
+        "btnGhost": "",
         "stackLabel": "the full stack",
         "iconSlug1": "openai",
         "iconSlug2": "midjourney",
@@ -226,7 +226,7 @@
         "iconSlug5": "zapier",
         "iconSlug6": "notion",
         "signoff": "ship your weekend project",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

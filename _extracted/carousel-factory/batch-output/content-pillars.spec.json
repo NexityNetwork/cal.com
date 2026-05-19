@@ -22,7 +22,7 @@
       "layoutId": "body-coral-mag",
       "slots": {
         "brand": "",
-        "pageLabel": "P.02",
+        "pageLabel": "",
         "number": "01",
         "eyebrow": "THE LIE",
         "titleWord1": "POSTING",
@@ -36,7 +36,7 @@
       "layoutId": "body-coral-mag",
       "slots": {
         "brand": "",
-        "pageLabel": "P.03",
+        "pageLabel": "",
         "number": "02",
         "eyebrow": "PILLAR 01",
         "titleWord1": "MINE YOUR",
@@ -50,7 +50,7 @@
       "layoutId": "body-coral-mag",
       "slots": {
         "brand": "",
-        "pageLabel": "P.04",
+        "pageLabel": "",
         "number": "03",
         "eyebrow": "PILLAR 02",
         "titleWord1": "MAP THEIR",
@@ -64,7 +64,7 @@
       "layoutId": "body-coral-mag",
       "slots": {
         "brand": "",
-        "pageLabel": "P.05",
+        "pageLabel": "",
         "number": "04",
         "eyebrow": "PILLAR 03",
         "titleWord1": "BUILD",
@@ -78,7 +78,7 @@
       "layoutId": "body-coral-mag",
       "slots": {
         "brand": "",
-        "pageLabel": "P.06",
+        "pageLabel": "",
         "number": "05",
         "eyebrow": "PILLAR 04",
         "titleWord1": "STEAL FROM",
@@ -92,7 +92,7 @@
       "layoutId": "body-coral-mag",
       "slots": {
         "brand": "",
-        "pageLabel": "P.07",
+        "pageLabel": "",
         "number": "06",
         "eyebrow": "PILLAR 05",
         "titleWord1": "REPURPOSE",
@@ -106,12 +106,12 @@
       "layoutId": "cta-coral-mag",
       "slots": {
         "brand": "",
-        "pageOf": "08/08",
+        "pageOf": "",
         "tag": "YOUR MOVE",
         "headWord1": "SAVE",
         "headWord2": "THIS",
         "body": "Build your editorial system today and stop guessing what to post next week.",
-        "buttonLabel": "Follow for more",
+        "buttonLabel": "",
         "handle": ""
       }
     }

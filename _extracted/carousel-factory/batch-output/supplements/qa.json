@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/supplements/slide-01.png",
-      "bytes": 175189,
+      "bytes": 173484,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -19,7 +19,7 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/supplements/slide-02.png",
-      "bytes": 94665,
+      "bytes": 92803,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -45,7 +45,7 @@
     {
       "index": 2,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/supplements/slide-03.png",
-      "bytes": 90367,
+      "bytes": 88359,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -71,7 +71,7 @@
     {
       "index": 3,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/supplements/slide-04.png",
-      "bytes": 83576,
+      "bytes": 81998,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -97,7 +97,7 @@
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/supplements/slide-05.png",
-      "bytes": 84345,
+      "bytes": 82489,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -123,7 +123,7 @@
     {
       "index": 5,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/supplements/slide-06.png",
-      "bytes": 86814,
+      "bytes": 84543,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -149,7 +149,7 @@
     {
       "index": 6,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/supplements/slide-07.png",
-      "bytes": 86558,
+      "bytes": 84461,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -175,7 +175,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/supplements/slide-08.png",
-      "bytes": 90841,
+      "bytes": 81920,
       "qa": {
         "verdict": "pass",
         "checks": {

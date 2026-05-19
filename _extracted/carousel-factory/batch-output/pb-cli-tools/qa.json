@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/pb-cli-tools/slide-01.png",
-      "bytes": 106671,
+      "bytes": 101313,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -19,7 +19,7 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/pb-cli-tools/slide-02.png",
-      "bytes": 80309,
+      "bytes": 79146,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -45,7 +45,7 @@
     {
       "index": 2,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/pb-cli-tools/slide-03.png",
-      "bytes": 83968,
+      "bytes": 83026,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -71,7 +71,7 @@
     {
       "index": 3,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/pb-cli-tools/slide-04.png",
-      "bytes": 77022,
+      "bytes": 75937,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -97,7 +97,7 @@
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/pb-cli-tools/slide-05.png",
-      "bytes": 80978,
+      "bytes": 79928,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -123,7 +123,7 @@
     {
       "index": 5,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/pb-cli-tools/slide-06.png",
-      "bytes": 86250,
+      "bytes": 85121,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -149,7 +149,7 @@
     {
       "index": 6,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/pb-cli-tools/slide-07.png",
-      "bytes": 85398,
+      "bytes": 84381,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -175,7 +175,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/pb-cli-tools/slide-08.png",
-      "bytes": 242071,
+      "bytes": 237286,
       "qa": {
         "verdict": "pass",
         "checks": {

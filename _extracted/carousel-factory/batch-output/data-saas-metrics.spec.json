@@ -7,9 +7,9 @@
     {
       "layoutId": "cover-data-table",
       "slots": {
-        "pageOf": "1 / 8",
-        "authorInitials": "TK",
-        "authorName": "Tristan K.",
+        "pageOf": "",
+        "authorInitials": "",
+        "authorName": "",
         "handle": "",
         "avatarBg1": "#c4541f",
         "avatarBg2": "#1a2e35",
@@ -31,9 +31,9 @@
     {
       "layoutId": "body-data-table",
       "slots": {
-        "pageOf": "2 / 8",
-        "authorInitials": "TK",
-        "authorName": "Tristan K.",
+        "pageOf": "",
+        "authorInitials": "",
+        "authorName": "",
         "handle": "",
         "avatarBg1": "#c4541f",
         "avatarBg2": "#1a2e35",
@@ -55,9 +55,9 @@
     {
       "layoutId": "body-data-table",
       "slots": {
-        "pageOf": "3 / 8",
-        "authorInitials": "TK",
-        "authorName": "Tristan K.",
+        "pageOf": "",
+        "authorInitials": "",
+        "authorName": "",
         "handle": "",
         "avatarBg1": "#c4541f",
         "avatarBg2": "#1a2e35",
@@ -79,9 +79,9 @@
     {
       "layoutId": "body-data-table",
       "slots": {
-        "pageOf": "4 / 8",
-        "authorInitials": "TK",
-        "authorName": "Tristan K.",
+        "pageOf": "",
+        "authorInitials": "",
+        "authorName": "",
         "handle": "",
         "avatarBg1": "#c4541f",
         "avatarBg2": "#1a2e35",
@@ -103,9 +103,9 @@
     {
       "layoutId": "body-data-table",
       "slots": {
-        "pageOf": "5 / 8",
-        "authorInitials": "TK",
-        "authorName": "Tristan K.",
+        "pageOf": "",
+        "authorInitials": "",
+        "authorName": "",
         "handle": "",
         "avatarBg1": "#c4541f",
         "avatarBg2": "#1a2e35",
@@ -127,9 +127,9 @@
     {
       "layoutId": "body-data-table",
       "slots": {
-        "pageOf": "6 / 8",
-        "authorInitials": "TK",
-        "authorName": "Tristan K.",
+        "pageOf": "",
+        "authorInitials": "",
+        "authorName": "",
         "handle": "",
         "avatarBg1": "#c4541f",
         "avatarBg2": "#1a2e35",
@@ -151,9 +151,9 @@
     {
       "layoutId": "body-data-table",
       "slots": {
-        "pageOf": "7 / 8",
-        "authorInitials": "TK",
-        "authorName": "Tristan K.",
+        "pageOf": "",
+        "authorInitials": "",
+        "authorName": "",
         "handle": "",
         "avatarBg1": "#c4541f",
         "avatarBg2": "#1a2e35",
@@ -175,9 +175,9 @@
     {
       "layoutId": "cta-data-table",
       "slots": {
-        "pageOf": "8 / 8",
-        "authorInitials": "TK",
-        "authorName": "Tristan K.",
+        "pageOf": "",
+        "authorInitials": "",
+        "authorName": "",
         "handle": "",
         "avatarBg1": "#c4541f",
         "avatarBg2": "#1a2e35",
@@ -186,7 +186,7 @@
         "headlineLine1": "TRACK THESE",
         "headlineLine2": "6 METRICS",
         "body": "Founders who monitor these benchmarks make sharper capital decisions and outlast downturns.",
-        "buttonLabel": "AUDIT YOUR METRICS"
+        "buttonLabel": ""
       }
     }
   ]

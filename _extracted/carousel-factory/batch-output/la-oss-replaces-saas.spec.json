@@ -19,8 +19,8 @@
         "iconSlug4": "penpot",
         "iconSlug5": "plausible",
         "iconSlug6": "nextcloud",
-        "swipeLabel": "SEE LIST",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -41,7 +41,7 @@
         "metric2Value": "500K+",
         "metric3Label": "OSS",
         "metric3Value": "Apache 2.0",
-        "pageOf": "02 / 08",
+        "pageOf": "",
         "footerNote": "self-host friendly"
       }
     },
@@ -63,7 +63,7 @@
         "metric2Value": "200K+",
         "metric3Label": "LICENSE",
         "metric3Value": "Fair-code",
-        "pageOf": "03 / 08",
+        "pageOf": "",
         "footerNote": "host on Docker"
       }
     },
@@ -85,7 +85,7 @@
         "metric2Value": "50K+",
         "metric3Label": "OSS",
         "metric3Value": "AGPL",
-        "pageOf": "04 / 08",
+        "pageOf": "",
         "footerNote": "enterprise ready"
       }
     },
@@ -107,7 +107,7 @@
         "metric2Value": "300K+",
         "metric3Label": "OSS",
         "metric3Value": "MPL 2.0",
-        "pageOf": "05 / 08",
+        "pageOf": "",
         "footerNote": "no vendor lock-in"
       }
     },
@@ -129,7 +129,7 @@
         "metric2Value": "100K+",
         "metric3Label": "OSS",
         "metric3Value": "AGPL",
-        "pageOf": "06 / 08",
+        "pageOf": "",
         "footerNote": "privacy first"
       }
     },
@@ -151,7 +151,7 @@
         "metric2Value": "Millions",
         "metric3Label": "OSS",
         "metric3Value": "AGPL",
-        "pageOf": "07 / 08",
+        "pageOf": "",
         "footerNote": "full workspace"
       }
     },
@@ -164,15 +164,15 @@
         "ctaLine1": "Deploy your",
         "ctaCallout": "stack",
         "ctaBody": "Cut $800 in monthly SaaS costs and own your data. Start with one tool and expand your open-source infrastructure.",
-        "btnPrimary": "Get Started",
-        "btnGhost": "View Docs",
+        "btnPrimary": "",
+        "btnGhost": "",
         "iconSlug1": "supabase",
         "iconSlug2": "n8n",
         "iconSlug3": "metabase",
         "iconSlug4": "penpot",
         "iconSlug5": "plausible",
         "iconSlug6": "nextcloud",
-        "pageOf": "08 / 08",
+        "pageOf": "",
         "footerNote": "all production-ready"
       }
     }

@@ -18,7 +18,7 @@
         "stat2Label": "SaaS industry average",
         "stat3Val": "10x",
         "stat3Label": "Volume since 2024",
-        "pageOf": "01 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -39,7 +39,7 @@
         "bar3Label": "Generic",
         "bar3Val": "19%",
         "bar3Pct": 45,
-        "pageOf": "02 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -60,7 +60,7 @@
         "bar3Label": "Emoji use",
         "bar3Val": "17%",
         "bar3Pct": 45,
-        "pageOf": "03 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -81,7 +81,7 @@
         "bar3Label": "Vague ask",
         "bar3Val": "15%",
         "bar3Pct": 44,
-        "pageOf": "04 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -102,7 +102,7 @@
         "bar3Label": "Cold pitch",
         "bar3Val": "14%",
         "bar3Pct": 45,
-        "pageOf": "05 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -123,7 +123,7 @@
         "bar3Label": "Catalog",
         "bar3Val": "12%",
         "bar3Pct": 43,
-        "pageOf": "06 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -144,7 +144,7 @@
         "bar3Label": "Rate card",
         "bar3Val": "9%",
         "bar3Pct": 38,
-        "pageOf": "07 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -156,8 +156,8 @@
         "eyebrow": "THE RESULT",
         "headline": "Better data beats more volume",
         "body": "Stop guessing and start sending with the 2026 outreach playbook built on real benchmarks.",
-        "buttonLabel": "Get the playbook",
-        "pageOf": "08 / 08"
+        "buttonLabel": "",
+        "pageOf": ""
       }
     }
   ]

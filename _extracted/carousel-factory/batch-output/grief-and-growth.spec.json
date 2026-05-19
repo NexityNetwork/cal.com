@@ -7,8 +7,8 @@
     {
       "layoutId": "cover-pastel-soft",
       "slots": {
-        "authorInitials": "EV",
-        "authorName": "Elena Voss",
+        "authorInitials": "",
+        "authorName": "",
         "handle": "",
         "tagBlue": "Self Growth",
         "tagPink": "Healing",
@@ -23,8 +23,8 @@
     {
       "layoutId": "body-pastel-soft",
       "slots": {
-        "authorName": "Elena Voss",
-        "pageOf": "2 / 8",
+        "authorName": "",
+        "pageOf": "",
         "number": "1",
         "numberLabel": "Start",
         "titleMain": "Before the",
@@ -36,8 +36,8 @@
     {
       "layoutId": "body-pastel-soft",
       "slots": {
-        "authorName": "Elena Voss",
-        "pageOf": "3 / 8",
+        "authorName": "",
+        "pageOf": "",
         "number": "2",
         "numberLabel": "Truth",
         "titleMain": "No fixed",
@@ -49,8 +49,8 @@
     {
       "layoutId": "body-pastel-soft",
       "slots": {
-        "authorName": "Elena Voss",
-        "pageOf": "4 / 8",
+        "authorName": "",
+        "pageOf": "",
         "number": "3",
         "numberLabel": "Truth",
         "titleMain": "Numbness is",
@@ -62,8 +62,8 @@
     {
       "layoutId": "body-pastel-soft",
       "slots": {
-        "authorName": "Elena Voss",
-        "pageOf": "5 / 8",
+        "authorName": "",
+        "pageOf": "",
         "number": "4",
         "numberLabel": "Truth",
         "titleMain": "You become",
@@ -75,8 +75,8 @@
     {
       "layoutId": "body-pastel-soft",
       "slots": {
-        "authorName": "Elena Voss",
-        "pageOf": "6 / 8",
+        "authorName": "",
+        "pageOf": "",
         "number": "5",
         "numberLabel": "Truth",
         "titleMain": "Joy and pain",
@@ -88,8 +88,8 @@
     {
       "layoutId": "body-pastel-soft",
       "slots": {
-        "authorName": "Elena Voss",
-        "pageOf": "7 / 8",
+        "authorName": "",
+        "pageOf": "",
         "number": "6",
         "numberLabel": "Truth",
         "titleMain": "Growth is",
@@ -101,13 +101,13 @@
     {
       "layoutId": "cta-pastel-soft",
       "slots": {
-        "authorName": "Elena Voss",
-        "pageOf": "8 / 8",
+        "authorName": "",
+        "pageOf": "",
         "eyebrow": "YOUR TURN",
         "headlineMain": "Which truth",
         "headlineItalic": "resonated?",
         "body": "Save this for the days you need a gentle reminder that your healing is valid, messy, and uniquely yours.",
-        "buttonLabel": "Save this",
+        "buttonLabel": "",
         "secondaryLabel": "Share with a friend",
         "handle": ""
       }

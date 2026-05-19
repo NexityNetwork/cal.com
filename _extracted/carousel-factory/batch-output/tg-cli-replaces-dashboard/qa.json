@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/tg-cli-replaces-dashboard/slide-01.png",
-      "bytes": 205531,
+      "bytes": 203918,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -19,7 +19,7 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/tg-cli-replaces-dashboard/slide-02.png",
-      "bytes": 143040,
+      "bytes": 140920,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -35,7 +35,7 @@
     {
       "index": 2,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/tg-cli-replaces-dashboard/slide-03.png",
-      "bytes": 131974,
+      "bytes": 129814,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -51,7 +51,7 @@
     {
       "index": 3,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/tg-cli-replaces-dashboard/slide-04.png",
-      "bytes": 142057,
+      "bytes": 140295,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -67,7 +67,7 @@
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/tg-cli-replaces-dashboard/slide-05.png",
-      "bytes": 125867,
+      "bytes": 123869,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -83,7 +83,7 @@
     {
       "index": 5,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/tg-cli-replaces-dashboard/slide-06.png",
-      "bytes": 125235,
+      "bytes": 123227,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -99,7 +99,7 @@
     {
       "index": 6,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/tg-cli-replaces-dashboard/slide-07.png",
-      "bytes": 135284,
+      "bytes": 133392,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -115,7 +115,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/tg-cli-replaces-dashboard/slide-08.png",
-      "bytes": 276059,
+      "bytes": 267713,
       "qa": {
         "verdict": "pass",
         "checks": {

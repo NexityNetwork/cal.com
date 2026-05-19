@@ -30,8 +30,8 @@
         "iconSlug3": "apple",
         "iconSlug4": "windows",
         "iconSlug5": "git",
-        "swipeLabel": "RUN",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -66,7 +66,7 @@
         "iconSlug2": "linux",
         "iconSlug3": "apple",
         "iconSlug4": "windows",
-        "pageOf": "02 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -101,7 +101,7 @@
         "iconSlug2": "git",
         "iconSlug3": "github",
         "iconSlug4": "linux",
-        "pageOf": "03 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -136,7 +136,7 @@
         "iconSlug2": "linux",
         "iconSlug3": "git",
         "iconSlug4": "github",
-        "pageOf": "04 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -171,7 +171,7 @@
         "iconSlug2": "linux",
         "iconSlug3": "apple",
         "iconSlug4": "windows",
-        "pageOf": "05 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -206,7 +206,7 @@
         "iconSlug2": "git",
         "iconSlug3": "github",
         "iconSlug4": "linux",
-        "pageOf": "06 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -241,7 +241,7 @@
         "iconSlug2": "git",
         "iconSlug3": "linux",
         "iconSlug4": "apple",
-        "pageOf": "07 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -261,10 +261,10 @@
         "iconSlug5": "windows",
         "iconSlug6": "docker",
         "ctaBody": "Copy these configs into your dotfiles repo and <em>never set up a machine manually again</em>.",
-        "btnPrimary": "Bookmark Now",
-        "btnGhost": "Follow @termstack",
+        "btnPrimary": "",
+        "btnGhost": "",
         "signoff": "ship fast, debug faster",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

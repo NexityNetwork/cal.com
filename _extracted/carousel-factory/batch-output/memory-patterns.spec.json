@@ -7,7 +7,7 @@
     {
       "layoutId": "cover-mono-pattern",
       "slots": {
-        "pageOf": "01 / 08",
+        "pageOf": "",
         "handle": "",
         "patternLabel": "INTRO",
         "word1": "THE",
@@ -23,7 +23,7 @@
     {
       "layoutId": "body-mono-pattern",
       "slots": {
-        "pageOf": "02 / 08",
+        "pageOf": "",
         "handle": "",
         "patternLabel": "PATTERN 01",
         "titleWord1": "VECTOR",
@@ -43,7 +43,7 @@
     {
       "layoutId": "body-mono-pattern",
       "slots": {
-        "pageOf": "03 / 08",
+        "pageOf": "",
         "handle": "",
         "patternLabel": "PATTERN 02",
         "titleWord1": "KV",
@@ -63,7 +63,7 @@
     {
       "layoutId": "body-mono-pattern",
       "slots": {
-        "pageOf": "04 / 08",
+        "pageOf": "",
         "handle": "",
         "patternLabel": "PATTERN 03",
         "titleWord1": "EPISODIC",
@@ -83,7 +83,7 @@
     {
       "layoutId": "body-mono-pattern",
       "slots": {
-        "pageOf": "05 / 08",
+        "pageOf": "",
         "handle": "",
         "patternLabel": "PATTERN 04",
         "titleWord1": "WORKING",
@@ -103,7 +103,7 @@
     {
       "layoutId": "body-mono-pattern",
       "slots": {
-        "pageOf": "06 / 08",
+        "pageOf": "",
         "handle": "",
         "patternLabel": "PATTERN 05",
         "titleWord1": "NO",
@@ -123,7 +123,7 @@
     {
       "layoutId": "body-mono-pattern",
       "slots": {
-        "pageOf": "07 / 08",
+        "pageOf": "",
         "handle": "",
         "patternLabel": "DECISION",
         "titleWord1": "WHEN",
@@ -143,14 +143,14 @@
     {
       "layoutId": "cta-mono-pattern",
       "slots": {
-        "pageOf": "08 / 08",
+        "pageOf": "",
         "handle": "",
         "patternLabel": "WRAP",
         "word1": "PICK",
         "word2": "YOUR STACK",
         "body": "Start with the problem, not the database. The right memory pattern turns an LLM call into a coherent agent.",
         "quote": "MEMORY IS WHAT SEPARATES CHATBOTS FROM AGENTS",
-        "buttonLabel": "Save this post",
+        "buttonLabel": "",
         "rightNote": "5 patterns inside",
         "footerLeft": "carousel · 08",
         "footerRight": "@agentmemory"

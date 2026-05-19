@@ -28,7 +28,7 @@
       "layoutId": "body-dark-navy",
       "slots": {
         "brand": "",
-        "pageOf": "02/08",
+        "pageOf": "",
         "stepLabel": "// select your stack — opinionated defaults",
         "number": "1",
         "titleMain": "Pick your",
@@ -42,7 +42,7 @@
       "layoutId": "body-dark-navy",
       "slots": {
         "brand": "",
-        "pageOf": "03/08",
+        "pageOf": "",
         "stepLabel": "// scaffold auth in minutes, not days",
         "number": "2",
         "titleMain": "Auth is",
@@ -56,7 +56,7 @@
       "layoutId": "body-dark-navy",
       "slots": {
         "brand": "",
-        "pageOf": "04/08",
+        "pageOf": "",
         "stepLabel": "// define schema first, write logic second",
         "number": "3",
         "titleMain": "Model the",
@@ -70,7 +70,7 @@
       "layoutId": "body-dark-navy",
       "slots": {
         "brand": "",
-        "pageOf": "05/08",
+        "pageOf": "",
         "stepLabel": "// ship ugly, then polish fast",
         "number": "4",
         "titleMain": "UI at",
@@ -84,7 +84,7 @@
       "layoutId": "body-dark-navy",
       "slots": {
         "brand": "",
-        "pageOf": "06/08",
+        "pageOf": "",
         "stepLabel": "// deploy on push, sleep at night",
         "number": "5",
         "titleMain": "Push to",
@@ -98,7 +98,7 @@
       "layoutId": "body-dark-navy",
       "slots": {
         "brand": "",
-        "pageOf": "07/08",
+        "pageOf": "",
         "stepLabel": "// launch loud today, monitor silently tomorrow",
         "number": "6",
         "titleMain": "Launch and",
@@ -112,12 +112,12 @@
       "layoutId": "cta-dark-navy",
       "slots": {
         "brand": "",
-        "pageOf": "08/08",
+        "pageOf": "",
         "terminalTag": "npm run deploy --target=feed --notify",
         "headLine1": "Ship",
         "headLine2": "now",
         "body": "Save this thread and run the playbook. Your production deploy is closer than you think.",
-        "buttonLabel": "Follow for more",
+        "buttonLabel": "",
         "secondaryNote": "// follow @solostack for weekly playbooks",
         "handle": ""
       }

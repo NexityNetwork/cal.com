@@ -7,7 +7,7 @@
     {
       "layoutId": "cover-display-cta",
       "slots": {
-        "pageNumber": "01",
+        "pageNumber": "",
         "headlineLine1": "One Engineer",
         "headlineLine2": "Full Team Stack",
         "accentSuffix": "!"
@@ -16,7 +16,7 @@
     {
       "layoutId": "body-icon-centered",
       "slots": {
-        "pageNumber": "02",
+        "pageNumber": "",
         "title": "1. GitHub, the Senior Dev",
         "body": "Code review, version control, and seamless collaboration let you ship with confidence as if a senior engineer reviewed every commit.",
         "iconSlug": "github"
@@ -25,7 +25,7 @@
     {
       "layoutId": "body-icon-centered",
       "slots": {
-        "pageNumber": "03",
+        "pageNumber": "",
         "title": "2. Vercel, the DevOps Lead",
         "body": "Instant previews, automated deployments, and global edge caching replace an entire infrastructure team with zero config.",
         "iconSlug": "vercel"
@@ -34,7 +34,7 @@
     {
       "layoutId": "body-icon-centered",
       "slots": {
-        "pageNumber": "04",
+        "pageNumber": "",
         "title": "3. Supabase, the Backend Team",
         "body": "PostgreSQL database, auth, and real-time APIs give your app a scalable backend without hiring backend engineers.",
         "iconSlug": "supabase"
@@ -43,7 +43,7 @@
     {
       "layoutId": "body-icon-centered",
       "slots": {
-        "pageNumber": "05",
+        "pageNumber": "",
         "title": "4. Stripe, the Finance Ops",
         "body": "Payments, invoicing, and subscription logic are handled out-of-the-box so you never need a billing department.",
         "iconSlug": "stripe"
@@ -52,7 +52,7 @@
     {
       "layoutId": "body-icon-centered",
       "slots": {
-        "pageNumber": "06",
+        "pageNumber": "",
         "title": "5. Linear, the Product Manager",
         "body": "Issue tracking, roadmaps, and sprint planning keep your solo workflow organized like a dedicated PM.",
         "iconSlug": "linear"
@@ -61,7 +61,7 @@
     {
       "layoutId": "body-icon-centered",
       "slots": {
-        "pageNumber": "07",
+        "pageNumber": "",
         "title": "6. Slack, the Team Connector",
         "body": "Integrations and alerts from every tool feed into one channel so nothing slips through the cracks.",
         "iconSlug": "slack"
@@ -70,11 +70,11 @@
     {
       "layoutId": "cta-display-cta",
       "slots": {
-        "pageNumber": "08",
+        "pageNumber": "",
         "eyebrow": "YOUR MOVE",
         "headline": "Build Like a Team",
         "subline": "Start with these six tools and ship faster than teams triple your size.",
-        "buttonLabel": "Save this post",
+        "buttonLabel": "",
         "handle": ""
       }
     }

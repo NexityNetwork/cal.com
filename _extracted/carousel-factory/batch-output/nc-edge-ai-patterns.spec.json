@@ -29,8 +29,8 @@
         "iconSlug3": "cloudflare",
         "iconSlug4": "apple",
         "iconSlug5": "raspberrypi",
-        "swipeLabel": "DIVE IN",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -58,7 +58,7 @@
         "iconSlug2": "firefox",
         "iconSlug3": "onnx",
         "iconSlug4": "tensorflow",
-        "pageOf": "02 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -86,7 +86,7 @@
         "iconSlug2": "android",
         "iconSlug3": "pytorch",
         "iconSlug4": "tensorflow",
-        "pageOf": "03 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -114,7 +114,7 @@
         "iconSlug2": "vercel",
         "iconSlug3": "webassembly",
         "iconSlug4": "rust",
-        "pageOf": "04 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -142,7 +142,7 @@
         "iconSlug2": "arduino",
         "iconSlug3": "c",
         "iconSlug4": "linux",
-        "pageOf": "05 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -170,7 +170,7 @@
         "iconSlug2": "nvidia",
         "iconSlug3": "linux",
         "iconSlug4": "github",
-        "pageOf": "06 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -198,7 +198,7 @@
         "iconSlug2": "tensorflow",
         "iconSlug3": "apple",
         "iconSlug4": "raspberrypi",
-        "pageOf": "07 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -218,11 +218,11 @@
         "iconSlug5": "raspberrypi",
         "iconSlug6": "nvidia",
         "ctaBody": "Skip the GPU rental and run inference <em>where your data lives</em> — on device, in browser, or at the edge.",
-        "btnPrimary": "Save Stack",
-        "btnGhost": "Follow Along",
+        "btnPrimary": "",
+        "btnGhost": "",
         "iconSlug7": "linux",
         "iconSlug8": "googlechrome",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

@@ -22,7 +22,7 @@
       "layoutId": "body-coral-mag",
       "slots": {
         "brand": "",
-        "pageLabel": "P.01",
+        "pageLabel": "",
         "number": "01",
         "eyebrow": "PATTERN INTERRUPT",
         "titleWord1": "BREAK THE",
@@ -36,7 +36,7 @@
       "layoutId": "body-coral-mag",
       "slots": {
         "brand": "",
-        "pageLabel": "P.02",
+        "pageLabel": "",
         "number": "02",
         "eyebrow": "CURIOSITY GAP",
         "titleWord1": "CREATE A",
@@ -50,7 +50,7 @@
       "layoutId": "body-coral-mag",
       "slots": {
         "brand": "",
-        "pageLabel": "P.03",
+        "pageLabel": "",
         "number": "03",
         "eyebrow": "PROVOCATION HOOK",
         "titleWord1": "USE A",
@@ -64,7 +64,7 @@
       "layoutId": "body-coral-mag",
       "slots": {
         "brand": "",
-        "pageLabel": "P.04",
+        "pageLabel": "",
         "number": "04",
         "eyebrow": "STORY START",
         "titleWord1": "START WITH",
@@ -78,7 +78,7 @@
       "layoutId": "body-coral-mag",
       "slots": {
         "brand": "",
-        "pageLabel": "P.05",
+        "pageLabel": "",
         "number": "05",
         "eyebrow": "PAIN AGITATION",
         "titleWord1": "AGITATE THE",
@@ -92,7 +92,7 @@
       "layoutId": "body-coral-mag",
       "slots": {
         "brand": "",
-        "pageLabel": "P.06",
+        "pageLabel": "",
         "number": "06",
         "eyebrow": "AUTHORITY DROP",
         "titleWord1": "DROP THE",
@@ -106,12 +106,12 @@
       "layoutId": "cta-coral-mag",
       "slots": {
         "brand": "",
-        "pageOf": "P.08",
+        "pageOf": "",
         "tag": "YOUR MOVE",
         "headWord1": "SAVE",
         "headWord2": "THIS",
         "body": "Which hook will you test first? Drop a comment and tag a marketer who needs to see this.",
-        "buttonLabel": "Follow for more",
+        "buttonLabel": "",
         "handle": ""
       }
     }

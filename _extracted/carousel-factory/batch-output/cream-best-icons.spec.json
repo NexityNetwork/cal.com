@@ -10,12 +10,12 @@
         "titleLine1": "6 icon libraries",
         "titleLine2": "every designer should",
         "topic": "ICONS",
-        "authorInitials": "JD",
-        "authorName": "Jane Doe",
+        "authorInitials": "",
+        "authorName": "",
         "handle": "",
         "avatarBg1": "#1acd8a",
         "avatarBg2": "#0fa968",
-        "pageOf": "01 - 08"
+        "pageOf": ""
       }
     },
     {
@@ -29,7 +29,7 @@
         "tileKey": "Use variable weight for hierarchy",
         "tileValue": "Thicker icons draw attention to primary actions.",
         "tileGlyph": "★",
-        "pageOf": "02 - 08"
+        "pageOf": ""
       }
     },
     {
@@ -43,7 +43,7 @@
         "tileKey": "Match style to your UI density",
         "tileValue": "Outline styles work best in spacious dashboards.",
         "tileGlyph": "H",
-        "pageOf": "03 - 08"
+        "pageOf": ""
       }
     },
     {
@@ -57,7 +57,7 @@
         "tileKey": "Prioritize crisp pixel alignment",
         "tileValue": "Feather shines in dense toolbars and nav lists.",
         "tileGlyph": "F",
-        "pageOf": "04 - 08"
+        "pageOf": ""
       }
     },
     {
@@ -71,7 +71,7 @@
         "tileKey": "Search by category first",
         "tileValue": "Filtering saves time in this massive collection.",
         "tileGlyph": "T",
-        "pageOf": "05 - 08"
+        "pageOf": ""
       }
     },
     {
@@ -85,7 +85,7 @@
         "tileKey": "Pair with Radix primitives",
         "tileValue": "Consistent sizing across your design system.",
         "tileGlyph": "R",
-        "pageOf": "06 - 08"
+        "pageOf": ""
       }
     },
     {
@@ -99,18 +99,18 @@
         "tileKey": "Check the Figma plugin",
         "tileValue": "Drag and drop directly into your mockups.",
         "tileGlyph": "L",
-        "pageOf": "07 - 08"
+        "pageOf": ""
       }
     },
     {
       "layoutId": "cta-cream-best",
       "slots": {
-        "authorInitials": "JD",
-        "authorName": "Jane Doe",
+        "authorInitials": "",
+        "authorName": "",
         "handle": "",
         "avatarBg1": "#1acd8a",
         "avatarBg2": "#0fa968",
-        "pageOf": "08 - 08",
+        "pageOf": "",
         "tagline": "Curated design resources and no-fluff breakdowns for product teams who ship fast.",
         "ctaQuestion": "Want more design tools ?"
       }

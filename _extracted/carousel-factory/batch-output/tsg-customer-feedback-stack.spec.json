@@ -24,7 +24,7 @@
         "role5": "TRACKS SHIPPING",
         "iconSlug6": "loom",
         "role6": "CLOSES THE LOOP",
-        "pageOf": "01 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -47,7 +47,7 @@
         "iconSlug4": "loom",
         "iconSlug5": "linear",
         "domainText": "",
-        "pageOf": "02 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -70,7 +70,7 @@
         "iconSlug4": "linear",
         "iconSlug5": "loom",
         "domainText": "",
-        "pageOf": "03 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -93,7 +93,7 @@
         "iconSlug4": "figma",
         "iconSlug5": "linear",
         "domainText": "",
-        "pageOf": "04 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -116,7 +116,7 @@
         "iconSlug4": "loom",
         "iconSlug5": "airtable",
         "domainText": "",
-        "pageOf": "05 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -139,7 +139,7 @@
         "iconSlug4": "figma",
         "iconSlug5": "loom",
         "domainText": "",
-        "pageOf": "06 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -162,7 +162,7 @@
         "iconSlug4": "linear",
         "iconSlug5": "make",
         "domainText": "",
-        "pageOf": "07 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -180,10 +180,10 @@
         "iconSlug4": "figma",
         "iconSlug5": "linear",
         "iconSlug6": "loom",
-        "btnPrimary": "Get the stack",
-        "btnGhost": "View templates",
+        "btnPrimary": "",
+        "btnGhost": "",
         "domainText": "",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

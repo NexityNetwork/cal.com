@@ -40,7 +40,7 @@
         "outLine": "model.gguf 3.8 GB",
         "okLine": "✓ DONE",
         "domainText": "",
-        "pageOf": "01 / 06"
+        "pageOf": ""
       }
     },
     {
@@ -61,7 +61,7 @@
         "outLine": "kv_store 42 MB",
         "okLine": "✓ READY",
         "domainText": "",
-        "pageOf": "02 / 06"
+        "pageOf": ""
       }
     },
     {
@@ -82,7 +82,7 @@
         "outLine": "accept 82%",
         "okLine": "✓ FASTER",
         "domainText": "",
-        "pageOf": "03 / 06"
+        "pageOf": ""
       }
     },
     {
@@ -103,7 +103,7 @@
         "outLine": "vram 18 GB",
         "okLine": "✓ LOADED",
         "domainText": "",
-        "pageOf": "04 / 06"
+        "pageOf": ""
       }
     },
     {
@@ -124,7 +124,7 @@
         "outLine": "avg 45 tok/s",
         "okLine": "✓ SCALED",
         "domainText": "",
-        "pageOf": "05 / 06"
+        "pageOf": ""
       }
     },
     {
@@ -145,7 +145,7 @@
         "outLine": "inference local",
         "okLine": "✓ LIVE",
         "domainText": "",
-        "pageOf": "06 / 06"
+        "pageOf": ""
       }
     },
     {
@@ -156,12 +156,12 @@
         "ctaLine1": "Serve LLMs",
         "ctaLine2": "rent free",
         "ctaBody": "Cut your inference bill by ninety percent with these production-tested patterns. Deploy once, own forever.",
-        "btnPrimary": "Get the repo",
-        "btnGhost": "Read the docs",
+        "btnPrimary": "",
+        "btnGhost": "",
         "meta1": "open source · MIT",
         "meta2": "built in 2025",
         "domainText": "",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

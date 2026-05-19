@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/me-pricing-power/slide-01.png",
-      "bytes": 91317,
+      "bytes": 80421,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -19,7 +19,7 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/me-pricing-power/slide-02.png",
-      "bytes": 79540,
+      "bytes": 78673,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -35,7 +35,7 @@
     {
       "index": 2,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/me-pricing-power/slide-03.png",
-      "bytes": 85001,
+      "bytes": 84097,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -51,7 +51,7 @@
     {
       "index": 3,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/me-pricing-power/slide-04.png",
-      "bytes": 80187,
+      "bytes": 79350,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -67,7 +67,7 @@
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/me-pricing-power/slide-05.png",
-      "bytes": 83521,
+      "bytes": 82604,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -83,7 +83,7 @@
     {
       "index": 5,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/me-pricing-power/slide-06.png",
-      "bytes": 79859,
+      "bytes": 78946,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -99,7 +99,7 @@
     {
       "index": 6,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/me-pricing-power/slide-07.png",
-      "bytes": 78701,
+      "bytes": 77835,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -115,7 +115,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/me-pricing-power/slide-08.png",
-      "bytes": 67302,
+      "bytes": 61110,
       "qa": {
         "verdict": "pass",
         "checks": {

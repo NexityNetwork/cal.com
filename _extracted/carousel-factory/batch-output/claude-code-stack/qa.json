@@ -3,12 +3,11 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/claude-code-stack/slide-01.png",
-      "bytes": 49342,
+      "bytes": 48014,
       "qa": {
         "verdict": "pass",
         "checks": {
           "no_unfilled_slots": true,
-          "page_badge_in_bounds": true,
           "cover_title_present": true,
           "cover_title_in_bounds": true,
           "play_stack_visible": true
@@ -18,12 +17,6 @@
       "fingerprint": {
         "layout": "cover",
         "elements": {
-          ".page-badge": {
-            "x": 87,
-            "y": 87,
-            "w": 63,
-            "h": 44
-          },
           ".cover-title": {
             "x": 119,
             "y": 511,
@@ -42,12 +35,11 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/claude-code-stack/slide-02.png",
-      "bytes": 78268,
+      "bytes": 76582,
       "qa": {
         "verdict": "pass",
         "checks": {
           "no_unfilled_slots": true,
-          "page_badge_in_bounds": true,
           "body_title_present": true,
           "body_title_in_bounds": true,
           "body_title_no_overflow": true,
@@ -63,12 +55,6 @@
       "fingerprint": {
         "layout": "body",
         "elements": {
-          ".page-badge": {
-            "x": 87,
-            "y": 87,
-            "w": 63,
-            "h": 44
-          },
           ".body-title": {
             "x": 119,
             "y": 287,
@@ -93,12 +79,11 @@
     {
       "index": 2,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/claude-code-stack/slide-03.png",
-      "bytes": 79365,
+      "bytes": 77618,
       "qa": {
         "verdict": "pass",
         "checks": {
           "no_unfilled_slots": true,
-          "page_badge_in_bounds": true,
           "body_title_present": true,
           "body_title_in_bounds": true,
           "body_title_no_overflow": true,
@@ -114,12 +99,6 @@
       "fingerprint": {
         "layout": "body",
         "elements": {
-          ".page-badge": {
-            "x": 87,
-            "y": 87,
-            "w": 63,
-            "h": 44
-          },
           ".body-title": {
             "x": 119,
             "y": 287,
@@ -144,12 +123,11 @@
     {
       "index": 3,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/claude-code-stack/slide-04.png",
-      "bytes": 69889,
+      "bytes": 68352,
       "qa": {
         "verdict": "pass",
         "checks": {
           "no_unfilled_slots": true,
-          "page_badge_in_bounds": true,
           "body_title_present": true,
           "body_title_in_bounds": true,
           "body_title_no_overflow": true,
@@ -165,12 +143,6 @@
       "fingerprint": {
         "layout": "body",
         "elements": {
-          ".page-badge": {
-            "x": 87,
-            "y": 87,
-            "w": 63,
-            "h": 44
-          },
           ".body-title": {
             "x": 119,
             "y": 287,
@@ -195,12 +167,11 @@
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/claude-code-stack/slide-05.png",
-      "bytes": 65068,
+      "bytes": 63261,
       "qa": {
         "verdict": "pass",
         "checks": {
           "no_unfilled_slots": true,
-          "page_badge_in_bounds": true,
           "body_title_present": true,
           "body_title_in_bounds": true,
           "body_title_no_overflow": true,
@@ -216,12 +187,6 @@
       "fingerprint": {
         "layout": "body",
         "elements": {
-          ".page-badge": {
-            "x": 87,
-            "y": 87,
-            "w": 63,
-            "h": 44
-          },
           ".body-title": {
             "x": 119,
             "y": 287,
@@ -246,12 +211,11 @@
     {
       "index": 5,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/claude-code-stack/slide-06.png",
-      "bytes": 71890,
+      "bytes": 70085,
       "qa": {
         "verdict": "pass",
         "checks": {
           "no_unfilled_slots": true,
-          "page_badge_in_bounds": true,
           "body_title_present": true,
           "body_title_in_bounds": true,
           "body_title_no_overflow": true,
@@ -267,12 +231,6 @@
       "fingerprint": {
         "layout": "body",
         "elements": {
-          ".page-badge": {
-            "x": 87,
-            "y": 87,
-            "w": 63,
-            "h": 44
-          },
           ".body-title": {
             "x": 119,
             "y": 287,
@@ -297,12 +255,11 @@
     {
       "index": 6,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/claude-code-stack/slide-07.png",
-      "bytes": 69145,
+      "bytes": 67508,
       "qa": {
         "verdict": "pass",
         "checks": {
           "no_unfilled_slots": true,
-          "page_badge_in_bounds": true,
           "body_title_present": true,
           "body_title_in_bounds": true,
           "body_title_no_overflow": true,
@@ -318,12 +275,6 @@
       "fingerprint": {
         "layout": "body",
         "elements": {
-          ".page-badge": {
-            "x": 87,
-            "y": 87,
-            "w": 63,
-            "h": 44
-          },
           ".body-title": {
             "x": 119,
             "y": 287,
@@ -348,25 +299,17 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/claude-code-stack/slide-08.png",
-      "bytes": 50078,
+      "bytes": 44111,
       "qa": {
         "verdict": "pass",
         "checks": {
-          "no_unfilled_slots": true,
-          "page_badge_in_bounds": true
+          "no_unfilled_slots": true
         },
         "issues": []
       },
       "fingerprint": {
         "layout": "unknown",
-        "elements": {
-          ".page-badge": {
-            "x": 87,
-            "y": 87,
-            "w": 58,
-            "h": 44
-          }
-        }
+        "elements": {}
       }
     }
   ],
@@ -406,21 +349,21 @@
           4,
           5
         ],
-        "similarity": 0.9901234567901235
+        "similarity": 0.9868312757201646
       },
       {
         "between": [
           5,
           6
         ],
-        "similarity": 0.9901234567901235
+        "similarity": 0.9868312757201646
       },
       {
         "between": [
           6,
           7
         ],
-        "similarity": 0.9901234567901235
+        "similarity": 0.9868312757201646
       },
       {
         "between": [

@@ -9,7 +9,7 @@
       "slots": {
         "brand": "",
         "handle": "",
-        "pageOf": "1 / 8",
+        "pageOf": "",
         "searchQuery": "How to begin the day gently grounded"
       }
     },
@@ -18,7 +18,7 @@
       "slots": {
         "brand": "",
         "handle": "",
-        "pageOf": "2 / 8",
+        "pageOf": "",
         "stepLabel": "STEP ONE:",
         "body": "Before you reach for your phone, take three slow breaths and let your shoulders drop away from your ears."
       }
@@ -28,7 +28,7 @@
       "slots": {
         "brand": "",
         "handle": "",
-        "pageOf": "3 / 8",
+        "pageOf": "",
         "stepLabel": "STEP TWO:",
         "body": "Drink warm water with lemon and feel the quiet gratitude of a body waking without hurry."
       }
@@ -38,7 +38,7 @@
       "slots": {
         "brand": "",
         "handle": "",
-        "pageOf": "4 / 8",
+        "pageOf": "",
         "stepLabel": "STEP THREE:",
         "body": "Step outside barefoot for two minutes. Let the earth hold you while the sky opens above."
       }
@@ -48,7 +48,7 @@
       "slots": {
         "brand": "",
         "handle": "",
-        "pageOf": "5 / 8",
+        "pageOf": "",
         "stepLabel": "STEP FOUR:",
         "body": "Write three lines in a journal. No edits, no judgment, only honest thoughts spilled gently onto the page."
       }
@@ -58,7 +58,7 @@
       "slots": {
         "brand": "",
         "handle": "",
-        "pageOf": "6 / 8",
+        "pageOf": "",
         "stepLabel": "STEP FIVE:",
         "body": "Stretch your arms overhead and whisper one kind intention before the noise of the world arrives."
       }
@@ -68,7 +68,7 @@
       "slots": {
         "brand": "",
         "handle": "",
-        "pageOf": "7 / 8",
+        "pageOf": "",
         "stepLabel": "CLOSING NOTE:",
         "body": "You do not need an hour to honor the morning. Five mindful minutes are enough to begin again."
       }
@@ -81,7 +81,7 @@
         "eyebrow": "YOUR RITUAL",
         "headline": "Start slow, stay soft",
         "body": "Return to these small practices whenever the world feels too loud. Your peace is always within reach.",
-        "buttonLabel": "Save This Ritual"
+        "buttonLabel": ""
       }
     }
   ]

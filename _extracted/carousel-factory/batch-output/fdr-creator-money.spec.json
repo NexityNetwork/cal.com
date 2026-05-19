@@ -22,7 +22,7 @@
       "layoutId": "body-coral-mag",
       "slots": {
         "brand": "",
-        "pageLabel": "P.02",
+        "pageLabel": "",
         "number": "01",
         "eyebrow": "THE SHIFT",
         "titleWord1": "WRITERS BECOME",
@@ -36,7 +36,7 @@
       "layoutId": "body-coral-mag",
       "slots": {
         "brand": "",
-        "pageLabel": "P.03",
+        "pageLabel": "",
         "number": "02",
         "eyebrow": "THE MODEL",
         "titleWord1": "PODCASTERS BUILD",
@@ -50,7 +50,7 @@
       "layoutId": "body-coral-mag",
       "slots": {
         "brand": "",
-        "pageLabel": "P.04",
+        "pageLabel": "",
         "number": "03",
         "eyebrow": "THE EDGE",
         "titleWord1": "EDUCATORS SELL",
@@ -64,7 +64,7 @@
       "layoutId": "body-coral-mag",
       "slots": {
         "brand": "",
-        "pageLabel": "P.05",
+        "pageLabel": "",
         "number": "04",
         "eyebrow": "THE STACK",
         "titleWord1": "INCOME GETS",
@@ -78,7 +78,7 @@
       "layoutId": "body-coral-mag",
       "slots": {
         "brand": "",
-        "pageLabel": "P.06",
+        "pageLabel": "",
         "number": "05",
         "eyebrow": "THE RISK",
         "titleWord1": "THE REAL",
@@ -92,7 +92,7 @@
       "layoutId": "body-coral-mag",
       "slots": {
         "brand": "",
-        "pageLabel": "P.07",
+        "pageLabel": "",
         "number": "06",
         "eyebrow": "THE FUTURE",
         "titleWord1": "FOUNDERS SCALE",
@@ -106,12 +106,12 @@
       "layoutId": "cta-coral-mag",
       "slots": {
         "brand": "",
-        "pageOf": "08 / 08",
+        "pageOf": "",
         "tag": "YOUR MOVE",
         "headWord1": "BUILD",
         "headWord2": "YOURS",
         "body": "The tools are ready. The only missing piece is your voice. Start compounding today.",
-        "buttonLabel": "FOLLOW FOR MORE",
+        "buttonLabel": "",
         "handle": ""
       }
     }

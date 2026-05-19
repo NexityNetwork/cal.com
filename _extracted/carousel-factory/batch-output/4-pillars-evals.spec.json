@@ -8,7 +8,7 @@
       "layoutId": "cover-black-mindmap",
       "slots": {
         "handle": "",
-        "pageLabel": "01 / 08",
+        "pageLabel": "",
         "eyebrow": "SAVE THIS",
         "headlineLine1": "The 4 Pillars of",
         "headlineLine2": "AI Evals",
@@ -19,7 +19,7 @@
       "layoutId": "body-black-mindmap",
       "slots": {
         "handle": "",
-        "pageLabel": "02 / 08",
+        "pageLabel": "",
         "number": "1",
         "title": "Tests",
         "pill1": "Unit tests",
@@ -33,7 +33,7 @@
       "layoutId": "body-black-mindmap",
       "slots": {
         "handle": "",
-        "pageLabel": "03 / 08",
+        "pageLabel": "",
         "number": "2",
         "title": "Traces",
         "pill1": "Session logs",
@@ -47,7 +47,7 @@
       "layoutId": "body-black-mindmap",
       "slots": {
         "handle": "",
-        "pageLabel": "04 / 08",
+        "pageLabel": "",
         "number": "3",
         "title": "Scorers",
         "pill1": "LLM judges",
@@ -61,7 +61,7 @@
       "layoutId": "body-black-mindmap",
       "slots": {
         "handle": "",
-        "pageLabel": "05 / 08",
+        "pageLabel": "",
         "number": "4",
         "title": "Drift",
         "pill1": "Input drift",
@@ -75,7 +75,7 @@
       "layoutId": "body-black-mindmap",
       "slots": {
         "handle": "",
-        "pageLabel": "06 / 08",
+        "pageLabel": "",
         "number": "5",
         "title": "Gate",
         "pill1": "PR checks",
@@ -89,7 +89,7 @@
       "layoutId": "body-black-mindmap",
       "slots": {
         "handle": "",
-        "pageLabel": "07 / 08",
+        "pageLabel": "",
         "number": "6",
         "title": "Loop",
         "pill1": "Live logs",
@@ -103,12 +103,12 @@
       "layoutId": "cta-black-mindmap",
       "slots": {
         "handle": "",
-        "pageLabel": "08 / 08",
+        "pageLabel": "",
         "eyebrow": "YOUR MOVE",
         "headlineLine1": "Ship AI with",
         "headlineLine2": "Total Confidence",
         "body": "Build your eval stack before the next deploy. No more flying blind in production.",
-        "buttonLabel": "Save this post",
+        "buttonLabel": "",
         "closing": "Tag your team"
       }
     }

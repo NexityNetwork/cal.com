@@ -7,9 +7,9 @@
     {
       "layoutId": "cover-linkedin-pro",
       "slots": {
-        "author": "Drew Nolan",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "1",
+        "pageNumber": "",
         "accentColor": "#4f3df5",
         "headline": "Stop Selling Hours. Start Selling Outcomes.",
         "heroSymbol": "$$",
@@ -21,9 +21,9 @@
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Drew Nolan",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "2",
+        "pageNumber": "",
         "accentColor": "#4f3df5",
         "title": "The Hourly Trap",
         "body": "Charging $50 per hour ties your revenue to your time. You work more to earn more, which breaks leverage.",
@@ -36,9 +36,9 @@
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Drew Nolan",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "3",
+        "pageNumber": "",
         "accentColor": "#4f3df5",
         "title": "Retainers Reward Speed",
         "body": "A fixed fee lets you profit from efficiency. Deliver faster results and keep the margin without raising rates.",
@@ -51,9 +51,9 @@
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Drew Nolan",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "4",
+        "pageNumber": "",
         "accentColor": "#4f3df5",
         "title": "Price The Outcome",
         "body": "Clients buy outcomes, not hours. Shift the conversation from time spent to business results and risk reversal.",
@@ -66,9 +66,9 @@
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Drew Nolan",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "5",
+        "pageNumber": "",
         "accentColor": "#4f3df5",
         "title": "Package The $5K Offer",
         "body": "Bundle strategy, implementation, and advisory into one tier. Clear scope creates confident buyers and faster sales cycles.",
@@ -81,9 +81,9 @@
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Drew Nolan",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "6",
+        "pageNumber": "",
         "accentColor": "#4f3df5",
         "title": "Position As Partner",
         "body": "Stop presenting a menu of tasks. Present a roadmap that shows exactly how you drive revenue every month.",
@@ -96,9 +96,9 @@
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Drew Nolan",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "7",
+        "pageNumber": "",
         "accentColor": "#4f3df5",
         "title": "Close With Confidence",
         "body": "When you believe the retainer is a steal, the client believes it too. Confidence is your best sales asset.",
@@ -111,14 +111,14 @@
     {
       "layoutId": "cta-linkedin-pro",
       "slots": {
-        "author": "Drew Nolan",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "8",
+        "pageNumber": "",
         "accentColor": "#4f3df5",
         "eyebrow": "YOUR TURN?",
         "headline": "Time To Ditch Hourly?",
         "body": "Drop a 🚀 if you are moving to retainers this quarter. Save this post for your next pricing review.",
-        "buttonLabel": "Follow For More",
+        "buttonLabel": "",
         "secondaryLabel": "Repost",
         "handle": ""
       }

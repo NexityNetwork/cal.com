@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/tsg-indie-hacker-prereqs/slide-01.png",
-      "bytes": 126832,
+      "bytes": 125761,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -19,7 +19,7 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/tsg-indie-hacker-prereqs/slide-02.png",
-      "bytes": 103686,
+      "bytes": 102514,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -35,7 +35,7 @@
     {
       "index": 2,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/tsg-indie-hacker-prereqs/slide-03.png",
-      "bytes": 110308,
+      "bytes": 109163,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -51,7 +51,7 @@
     {
       "index": 3,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/tsg-indie-hacker-prereqs/slide-04.png",
-      "bytes": 100571,
+      "bytes": 99439,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -67,7 +67,7 @@
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/tsg-indie-hacker-prereqs/slide-05.png",
-      "bytes": 105747,
+      "bytes": 104585,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -83,7 +83,7 @@
     {
       "index": 5,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/tsg-indie-hacker-prereqs/slide-06.png",
-      "bytes": 105361,
+      "bytes": 104141,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -99,7 +99,7 @@
     {
       "index": 6,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/tsg-indie-hacker-prereqs/slide-07.png",
-      "bytes": 103901,
+      "bytes": 102740,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -115,7 +115,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/tsg-indie-hacker-prereqs/slide-08.png",
-      "bytes": 288391,
+      "bytes": 275489,
       "qa": {
         "verdict": "pass",
         "checks": {

@@ -19,8 +19,8 @@
         "iconSlug4": "meta",
         "iconSlug5": "mistral",
         "iconSlug6": "cohere",
-        "swipeLabel": "SEE LIST",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -42,7 +42,7 @@
         "metric2Value": "2-3x accuracy",
         "metric3Label": "SETUP",
         "metric3Value": "Zero-shot",
-        "pageOf": "02 / 08",
+        "pageOf": "",
         "footerNote": "Add to any prompt"
       }
     },
@@ -65,7 +65,7 @@
         "metric2Value": "Same call",
         "metric3Label": "COST",
         "metric3Value": "Near zero",
-        "pageOf": "03 / 08",
+        "pageOf": "",
         "footerNote": "Pattern matching hack"
       }
     },
@@ -88,7 +88,7 @@
         "metric2Value": "Instant",
         "metric3Label": "VERSATILE",
         "metric3Value": "Any domain",
-        "pageOf": "04 / 08",
+        "pageOf": "",
         "footerNote": "Persona activation"
       }
     },
@@ -111,7 +111,7 @@
         "metric2Value": "Hackathon",
         "metric3Label": "USE CASE",
         "metric3Value": "Any task",
-        "pageOf": "05 / 08",
+        "pageOf": "",
         "footerNote": "Singapore GovTech"
       }
     },
@@ -134,7 +134,7 @@
         "metric2Value": "10x complex",
         "metric3Label": "MODEL",
         "metric3Value": "GPT-4 / Opus",
-        "pageOf": "06 / 08",
+        "pageOf": "",
         "footerNote": "Multi-path reasoning"
       }
     },
@@ -157,7 +157,7 @@
         "metric2Value": "< 30 sec",
         "metric3Label": "FORMAT",
         "metric3Value": "Any output",
-        "pageOf": "07 / 08",
+        "pageOf": "",
         "footerNote": "Daily driver"
       }
     },
@@ -170,15 +170,15 @@
         "ctaLine1": "Prompt like a",
         "ctaCallout": "pro",
         "ctaBody": "Save this carousel and test one framework on your next prompt. Small change, massive difference.",
-        "btnPrimary": "Save Carousel",
-        "btnGhost": "Share This",
+        "btnPrimary": "",
+        "btnGhost": "",
         "iconSlug1": "openai",
         "iconSlug2": "anthropic",
         "iconSlug3": "google",
         "iconSlug4": "meta",
         "iconSlug5": "mistral",
         "iconSlug6": "cohere",
-        "pageOf": "08 / 08",
+        "pageOf": "",
         "footerNote": "Now go prompt better"
       }
     }

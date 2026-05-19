@@ -38,7 +38,7 @@
         "b2Title": "Strict typed contracts",
         "b2Body": "Generated stubs keep server and client in lockstep on every deploy.",
         "domainText": "",
-        "pageOf": "02 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -60,7 +60,7 @@
         "b2Title": "Clear REST intent",
         "b2Body": "HTTP verbs map cleanly to CRUD, onboarding juniors in minutes.",
         "domainText": "",
-        "pageOf": "03 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -82,7 +82,7 @@
         "b2Title": "Single request graph",
         "b2Body": "No more orchestrating five REST calls just to paint a dashboard.",
         "domainText": "",
-        "pageOf": "04 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -104,7 +104,7 @@
         "b2Title": "Stream when needed",
         "b2Body": "Bidirectional flows handle real-time logs and push notifications easily.",
         "domainText": "",
-        "pageOf": "05 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -126,7 +126,7 @@
         "b2Title": "Mature middleware stack",
         "b2Body": "OAuth, rate limiting, and middleware are battle-tested over decades.",
         "domainText": "",
-        "pageOf": "06 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -148,7 +148,7 @@
         "b2Title": "Strong schema types",
         "b2Body": "Strong typing catches breaking changes before they reach production.",
         "domainText": "",
-        "pageOf": "07 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -160,11 +160,11 @@
         "ctaAccent": "protocol",
         "ctaItalic": "every time",
         "ctaBody": "Great engineers match the tool to the constraint. <em>Subscribe</em> for weekly API deep dives and real-world patterns.",
-        "btnPrimary": "Get the guide",
-        "btnGhost": "Read more",
+        "btnPrimary": "",
+        "btnGhost": "",
         "signoff": "Ship faster, break less",
         "domainText": "",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

@@ -34,8 +34,8 @@
         "name5": "Vercel",
         "desc5": "Ship one-feature SaaS tools that solve a single pain.",
         "tag5": "PAID",
-        "swipeLabel": "SEE EACH ONE",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -62,7 +62,7 @@
         "iconSlug4": "midjourney",
         "iconSlug5": "notion",
         "iconSlug6": "figma",
-        "pageOf": "02 / 08",
+        "pageOf": "",
         "footerNote": "Effort is minimal"
       }
     },
@@ -90,7 +90,7 @@
         "iconSlug4": "twitter",
         "iconSlug5": "linkedin",
         "iconSlug6": "zapier",
-        "pageOf": "03 / 08",
+        "pageOf": "",
         "footerNote": "Effort stays low"
       }
     },
@@ -118,7 +118,7 @@
         "iconSlug4": "slack",
         "iconSlug5": "stripe",
         "iconSlug6": "calcom",
-        "pageOf": "04 / 08",
+        "pageOf": "",
         "footerNote": "Medium effort level"
       }
     },
@@ -146,7 +146,7 @@
         "iconSlug4": "midjourney",
         "iconSlug5": "openai",
         "iconSlug6": "tiktok",
-        "pageOf": "05 / 08",
+        "pageOf": "",
         "footerNote": "High effort needed"
       }
     },
@@ -174,7 +174,7 @@
         "iconSlug4": "supabase",
         "iconSlug5": "nextjs",
         "iconSlug6": "tailwindcss",
-        "pageOf": "06 / 08",
+        "pageOf": "",
         "footerNote": "Very hard build"
       }
     },
@@ -202,7 +202,7 @@
         "iconSlug4": "notion",
         "iconSlug5": "slack",
         "iconSlug6": "salesforce",
-        "pageOf": "07 / 08",
+        "pageOf": "",
         "footerNote": "Hardest but richest"
       }
     },
@@ -216,8 +216,8 @@
         "titleAccent": "AI hustle",
         "titleItalic": "and start today",
         "body": "Choose one stream, ship your first version this weekend, then iterate toward profit.",
-        "btnPrimary": "Start now",
-        "btnGhost": "Read more",
+        "btnPrimary": "",
+        "btnGhost": "",
         "stackLabel": "the full stack",
         "iconSlug1": "gumroad",
         "iconSlug2": "substack",
@@ -226,7 +226,7 @@
         "iconSlug5": "vercel",
         "iconSlug6": "upwork",
         "signoff": "ship your weekend project",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

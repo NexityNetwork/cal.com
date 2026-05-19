@@ -30,8 +30,8 @@
         "iconSlug3": "git",
         "iconSlug4": "github",
         "iconSlug5": "docker",
-        "swipeLabel": "RUN",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -66,7 +66,7 @@
         "iconSlug2": "linux",
         "iconSlug3": "git",
         "iconSlug4": "github",
-        "pageOf": "02 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -101,7 +101,7 @@
         "iconSlug2": "docker",
         "iconSlug3": "github",
         "iconSlug4": "linux",
-        "pageOf": "03 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -136,7 +136,7 @@
         "iconSlug2": "kubernetes",
         "iconSlug3": "linux",
         "iconSlug4": "docker",
-        "pageOf": "04 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -171,7 +171,7 @@
         "iconSlug2": "linux",
         "iconSlug3": "git",
         "iconSlug4": "github",
-        "pageOf": "05 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -206,7 +206,7 @@
         "iconSlug2": "linux",
         "iconSlug3": "github",
         "iconSlug4": "docker",
-        "pageOf": "06 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -241,7 +241,7 @@
         "iconSlug2": "linux",
         "iconSlug3": "git",
         "iconSlug4": "github",
-        "pageOf": "07 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -261,10 +261,10 @@
         "iconSlug5": "docker",
         "iconSlug6": "kubernetes",
         "ctaBody": "Bookmark these flags so you never <em>google curl syntax</em> again. Follow for weekly terminal tricks.",
-        "btnPrimary": "Bookmark Now",
-        "btnGhost": "Follow @devtoolbox",
+        "btnPrimary": "",
+        "btnGhost": "",
         "signoff": "ship fast, debug faster",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

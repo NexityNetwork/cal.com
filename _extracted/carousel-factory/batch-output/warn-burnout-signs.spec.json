@@ -25,7 +25,7 @@
         "body": "High performers ignore exhaustion until the cost becomes irreversible. Founders pride themselves on grinding through the warning signals.",
         "calloutLabel": "KEY INSIGHT",
         "calloutBody": "Recovery takes ten times longer than prevention, so watch for the early signals daily.",
-        "pageOf": "Slide 02"
+        "pageOf": ""
       }
     },
     {
@@ -37,7 +37,7 @@
         "body": "You log eight hours but wake up foggy and drained. Rest feels like a pause, not recovery.",
         "calloutLabel": "DO THIS",
         "calloutBody": "Schedule one full recovery day weekly with zero meetings or investor calls.",
-        "pageOf": "Slide 03"
+        "pageOf": ""
       }
     },
     {
@@ -49,7 +49,7 @@
         "body": "Projects that once excited you now feel like meaningless chores. Cynicism replaces the passion that built your startup.",
         "calloutLabel": "DO THIS",
         "calloutBody": "Reconnect with your original customer story to remember why you started.",
-        "pageOf": "Slide 04"
+        "pageOf": ""
       }
     },
     {
@@ -61,7 +61,7 @@
         "body": "You stare at emails for hours unable to hit send. Cognitive fatigue masks itself as procrastination and self-doubt.",
         "calloutLabel": "DO THIS",
         "calloutBody": "Batch decisions into morning blocks before willpower reserves deplete completely.",
-        "pageOf": "Slide 05"
+        "pageOf": ""
       }
     },
     {
@@ -73,7 +73,7 @@
         "body": "You skip investor updates and dodge cofounder dinners entirely. Withdrawal feels like focus but it is actually self-preservation gone wrong.",
         "calloutLabel": "DO THIS",
         "calloutBody": "Book one honest conversation with a peer or mentor before Friday ends.",
-        "pageOf": "Slide 06"
+        "pageOf": ""
       }
     },
     {
@@ -85,7 +85,7 @@
         "body": "Headaches, gut issues, and tension appear every single morning. Stress stored in the body eventually demands to be addressed.",
         "calloutLabel": "DO THIS",
         "calloutBody": "Get a blood panel and commit to thirty minutes of movement daily.",
-        "pageOf": "Slide 07"
+        "pageOf": ""
       }
     },
     {
@@ -97,8 +97,8 @@
         "headlineLine1": "Protect Your",
         "headlineAccent": "Energy First",
         "body": "Burnout is a systems failure, not a personal one. Build recovery into your operating rhythm before the crash.",
-        "buttonLabel": "Save This Checklist",
-        "pageOf": "Slide 08"
+        "buttonLabel": "",
+        "pageOf": ""
       }
     }
   ]

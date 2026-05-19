@@ -11,7 +11,7 @@
         "preLine": "How to",
         "pillText": "LAUNCH",
         "postLine": "a product in 7 days",
-        "author": "Riley Park"
+        "author": ""
       }
     },
     {
@@ -22,7 +22,7 @@
         "numberLabel": "Step",
         "title": "FIND PAIN",
         "body": "Pick a problem you’ve solved before and validate it with three quick conversations today.",
-        "author": "Riley Park"
+        "author": ""
       }
     },
     {
@@ -33,7 +33,7 @@
         "numberLabel": "Step",
         "title": "PRE-SELL",
         "body": "Build a simple checkout page before the product exists and offer a founding-member discount.",
-        "author": "Riley Park"
+        "author": ""
       }
     },
     {
@@ -44,7 +44,7 @@
         "numberLabel": "Step",
         "title": "BUILD FAST",
         "body": "Spend 48 hours creating the minimum solution that delivers the promised outcome without fluff.",
-        "author": "Riley Park"
+        "author": ""
       }
     },
     {
@@ -55,7 +55,7 @@
         "numberLabel": "Step",
         "title": "CONTENT",
         "body": "Publish five short posts across platforms telling the story behind the product, not the specs.",
-        "author": "Riley Park"
+        "author": ""
       }
     },
     {
@@ -66,7 +66,7 @@
         "numberLabel": "Step",
         "title": "LAUNCH",
         "body": "Email every contact, post in relevant communities, and run a small ad to cold traffic.",
-        "author": "Riley Park"
+        "author": ""
       }
     },
     {
@@ -77,7 +77,7 @@
         "numberLabel": "Step",
         "title": "OPTIMIZE",
         "body": "Fix the top objection from day-one buyers, raise the price, and automate delivery next.",
-        "author": "Riley Park"
+        "author": ""
       }
     },
     {
@@ -87,8 +87,8 @@
         "eyebrow": "YOUR TURN",
         "headline": "GO",
         "body": "Launch your product this week and prove that audience size is just an excuse.",
-        "buttonLabel": "Save this post",
-        "author": "Riley Park"
+        "buttonLabel": "",
+        "author": ""
       }
     }
   ]

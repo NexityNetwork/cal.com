@@ -29,8 +29,8 @@
         "tag3": "WAF",
         "tag4": "SCAN",
         "tag5": "VAULT",
-        "swipeLabel": "SEE EACH ONE",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -56,7 +56,7 @@
         "iconSlug4": "snyk",
         "iconSlug5": "cloudflare",
         "iconSlug6": "datadog",
-        "pageOf": "02 / 08",
+        "pageOf": "",
         "footerNote": "Close deals faster"
       }
     },
@@ -83,7 +83,7 @@
         "iconSlug4": "docker",
         "iconSlug5": "jira",
         "iconSlug6": "kubernetes",
-        "pageOf": "03 / 08",
+        "pageOf": "",
         "footerNote": "Ship secure code"
       }
     },
@@ -110,7 +110,7 @@
         "iconSlug4": "microsoftazure",
         "iconSlug5": "terraform",
         "iconSlug6": "datadog",
-        "pageOf": "04 / 08",
+        "pageOf": "",
         "footerNote": "Protect the edge"
       }
     },
@@ -137,7 +137,7 @@
         "iconSlug4": "docker",
         "iconSlug5": "jira",
         "iconSlug6": "amazonaws",
-        "pageOf": "05 / 08",
+        "pageOf": "",
         "footerNote": "Secure your repos"
       }
     },
@@ -164,7 +164,7 @@
         "iconSlug4": "amazonaws",
         "iconSlug5": "googleworkspace",
         "iconSlug6": "okta",
-        "pageOf": "06 / 08",
+        "pageOf": "",
         "footerNote": "Vault your secrets"
       }
     },
@@ -191,7 +191,7 @@
         "iconSlug4": "googleworkspace",
         "iconSlug5": "okta",
         "iconSlug6": "slack",
-        "pageOf": "07 / 08",
+        "pageOf": "",
         "footerNote": "Lock every endpoint"
       }
     },
@@ -205,8 +205,8 @@
         "titleAccent": "security stack",
         "titleItalic": "before closing",
         "body": "Enterprise buyers demand proof. Run these six tools to close revenue faster and sleep soundly.",
-        "btnPrimary": "Get the checklist",
-        "btnGhost": "Book a review",
+        "btnPrimary": "",
+        "btnGhost": "",
         "stackLabel": "the full stack",
         "iconSlug1": "vanta",
         "iconSlug2": "snyk",
@@ -215,7 +215,7 @@
         "iconSlug5": "1password",
         "iconSlug6": "crowdstrike",
         "signoff": "close that enterprise deal",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

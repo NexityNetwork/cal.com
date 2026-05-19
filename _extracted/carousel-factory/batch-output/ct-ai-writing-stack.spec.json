@@ -29,8 +29,8 @@
         "tag3": "PAID",
         "tag4": "FREEMIUM",
         "tag5": "PAID",
-        "swipeLabel": "SWIPE ON",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -57,7 +57,7 @@
         "iconSlug4": "zapier",
         "iconSlug5": "slack",
         "iconSlug6": "webflow",
-        "pageOf": "02 / 08",
+        "pageOf": "",
         "footerNote": "Start with a detailed prompt."
       }
     },
@@ -85,7 +85,7 @@
         "iconSlug4": "zapier",
         "iconSlug5": "notion",
         "iconSlug6": "slack",
-        "pageOf": "03 / 08",
+        "pageOf": "",
         "footerNote": "Upload PDFs for context."
       }
     },
@@ -113,7 +113,7 @@
         "iconSlug4": "zapier",
         "iconSlug5": "notion",
         "iconSlug6": "semrush",
-        "pageOf": "04 / 08",
+        "pageOf": "",
         "footerNote": "Train your brand voice first."
       }
     },
@@ -141,7 +141,7 @@
         "iconSlug4": "slack",
         "iconSlug5": "loom",
         "iconSlug6": "webflow",
-        "pageOf": "05 / 08",
+        "pageOf": "",
         "footerNote": "Use the freestyle tool."
       }
     },
@@ -169,7 +169,7 @@
         "iconSlug4": "zapier",
         "iconSlug5": "notion",
         "iconSlug6": "semrush",
-        "pageOf": "06 / 08",
+        "pageOf": "",
         "footerNote": "Enable factual data mode."
       }
     },
@@ -197,7 +197,7 @@
         "iconSlug4": "zapier",
         "iconSlug5": "slack",
         "iconSlug6": "googledocs",
-        "pageOf": "07 / 08",
+        "pageOf": "",
         "footerNote": "Use the SERP analyzer."
       }
     },
@@ -211,8 +211,8 @@
         "titleAccent": "budget",
         "titleItalic": "on agencies",
         "body": "These six tools replace expensive retainers and deliver copy faster than any traditional workflow.",
-        "btnPrimary": "Save this list",
-        "btnGhost": "Share the stack",
+        "btnPrimary": "",
+        "btnGhost": "",
         "stackLabel": "the full stack",
         "iconSlug1": "chatgpt",
         "iconSlug2": "claude",
@@ -221,7 +221,7 @@
         "iconSlug5": "writesonic",
         "iconSlug6": "rytr",
         "signoff": "ship faster, write better",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

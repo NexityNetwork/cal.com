@@ -11,7 +11,7 @@
         "pillLeft": "Privacy",
         "pillRight": "first tools",
         "subline": "Secure products for teams that value data sovereignty",
-        "pageOf": "01 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -23,7 +23,7 @@
         "slideTitle": "Analytics that respect visitors",
         "slideSubtitle": "GDPR-compliant out of the box, no cookie banner required, and fully open source.",
         "domainText": "",
-        "pageOf": "02 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -35,7 +35,7 @@
         "slideTitle": "Secrets that stay fully encrypted",
         "slideSubtitle": "Zero-knowledge architecture means even Bitwarden cannot read your vault contents.",
         "domainText": "",
-        "pageOf": "03 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -47,7 +47,7 @@
         "slideTitle": "Email privacy made simple",
         "slideSubtitle": "Reply anonymously through aliases and protect your identity across every signup.",
         "domainText": "",
-        "pageOf": "04 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -59,7 +59,7 @@
         "slideTitle": "Thoughts belong to you",
         "slideSubtitle": "AES-256 encryption keeps your notes readable only by you, not the server or staff.",
         "domainText": "",
-        "pageOf": "05 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -71,7 +71,7 @@
         "slideTitle": "An inbox free from surveillance",
         "slideSubtitle": "No ads, no tracking, and no scanning your emails to build a profile.",
         "domainText": "",
-        "pageOf": "06 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -83,7 +83,7 @@
         "slideTitle": "Private conversations without eavesdroppers",
         "slideSubtitle": "Open-source protocols and nonprofit funding mean your chats are never mined for ads.",
         "domainText": "",
-        "pageOf": "07 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -94,7 +94,7 @@
         "headlineMain": "Start private",
         "headlineGlow": "today",
         "sublineItalic": "Switch to tools that treat your data like it belongs to you, not their bottom line.",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

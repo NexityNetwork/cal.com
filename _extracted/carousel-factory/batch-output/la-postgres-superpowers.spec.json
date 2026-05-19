@@ -19,8 +19,8 @@
         "iconSlug4": "postgrest",
         "iconSlug5": "dbeaver",
         "iconSlug6": "timescaledb",
-        "swipeLabel": "SEE LIST",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -41,7 +41,7 @@
         "metric2Value": "PostgreSQL",
         "metric3Label": "STARS",
         "metric3Value": "15k+",
-        "pageOf": "02 / 08",
+        "pageOf": "",
         "footerNote": "open source extension"
       }
     },
@@ -63,7 +63,7 @@
         "metric2Value": "Node / TS",
         "metric3Label": "ADOPTERS",
         "metric3Value": "100k+",
-        "pageOf": "03 / 08",
+        "pageOf": "",
         "footerNote": "Apache 2.0 licensed"
       }
     },
@@ -85,7 +85,7 @@
         "metric2Value": "Yes",
         "metric3Label": "OSS",
         "metric3Value": "Fully",
-        "pageOf": "04 / 08",
+        "pageOf": "",
         "footerNote": "MIT & Apache 2.0"
       }
     },
@@ -107,7 +107,7 @@
         "metric2Value": "Haskell",
         "metric3Label": "LATENCY",
         "metric3Value": "< 10ms",
-        "pageOf": "05 / 08",
+        "pageOf": "",
         "footerNote": "open source, MIT"
       }
     },
@@ -129,7 +129,7 @@
         "metric2Value": "All OS",
         "metric3Label": "USERS",
         "metric3Value": "10M+",
-        "pageOf": "06 / 08",
+        "pageOf": "",
         "footerNote": "Apache 2.0 licensed"
       }
     },
@@ -151,7 +151,7 @@
         "metric2Value": "1M+ / sec",
         "metric3Label": "COMPAT",
         "metric3Value": "PG 14+",
-        "pageOf": "07 / 08",
+        "pageOf": "",
         "footerNote": "Apache 2.0 edition"
       }
     },
@@ -164,15 +164,15 @@
         "ctaLine1": "Level up your",
         "ctaCallout": "postgres",
         "ctaBody": "Deploy these tools to cut boilerplate, boost performance, and keep your data layer future-proof.",
-        "btnPrimary": "Get Started",
-        "btnGhost": "Learn More",
+        "btnPrimary": "",
+        "btnGhost": "",
         "iconSlug1": "pgvector",
         "iconSlug2": "prisma",
         "iconSlug3": "supabase",
         "iconSlug4": "postgrest",
         "iconSlug5": "dbeaver",
         "iconSlug6": "timescaledb",
-        "pageOf": "08 / 08",
+        "pageOf": "",
         "footerNote": "share this stack"
       }
     }

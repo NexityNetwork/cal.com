@@ -7,7 +7,7 @@
     {
       "layoutId": "cover-display-cta",
       "slots": {
-        "pageNumber": "01",
+        "pageNumber": "",
         "headlineLine1": "8 Founder Mistakes",
         "headlineLine2": "Cost Me $250K",
         "accentSuffix": "!"
@@ -16,7 +16,7 @@
     {
       "layoutId": "body-icon-centered",
       "slots": {
-        "pageNumber": "02",
+        "pageNumber": "",
         "title": "1. Hiring, the mistake",
         "body": "I hired five senior engineers before finding product-market fit. The burn rate crushed our runway in eleven months.",
         "iconSlug": "github",
@@ -26,7 +26,7 @@
     {
       "layoutId": "body-icon-centered",
       "slots": {
-        "pageNumber": "03",
+        "pageNumber": "",
         "title": "2. Building, the trap",
         "body": "We spent eight months rebuilding the app for a 'v2.0' launch. Users never asked for half the features.",
         "iconSlug": "react",
@@ -36,7 +36,7 @@
     {
       "layoutId": "body-icon-centered",
       "slots": {
-        "pageNumber": "04",
+        "pageNumber": "",
         "title": "3. Economics, the blindspot",
         "body": "I focused on top-line revenue while our CAC was 3x LTV. We were growing ourselves bankrupt.",
         "iconSlug": "stripe",
@@ -46,7 +46,7 @@
     {
       "layoutId": "body-icon-centered",
       "slots": {
-        "pageNumber": "05",
+        "pageNumber": "",
         "title": "4. Deals, the trap",
         "body": "One enterprise client demanded bespoke features that broke our roadmap. We became an expensive dev shop.",
         "iconSlug": "zoom",
@@ -56,7 +56,7 @@
     {
       "layoutId": "body-icon-centered",
       "slots": {
-        "pageNumber": "06",
+        "pageNumber": "",
         "title": "5. Control, the bottleneck",
         "body": "I micromanaged every pixel and email instead of trusting my team. Decisions bottlenecked and velocity died.",
         "iconSlug": "notion",
@@ -66,7 +66,7 @@
     {
       "layoutId": "body-icon-centered",
       "slots": {
-        "pageNumber": "07",
+        "pageNumber": "",
         "title": "6. Equity, the giveaway",
         "body": "I gave away 40 percent equity in our pre-seed for $150K. Future rounds diluted me into irrelevance.",
         "iconSlug": "googlemeet",
@@ -76,11 +76,11 @@
     {
       "layoutId": "cta-display-cta",
       "slots": {
-        "pageNumber": "08",
+        "pageNumber": "",
         "eyebrow": "YOUR MOVE",
         "headline": "Don't Repeat My Errors",
         "subline": "Follow for weekly teardowns on building without burning cash.",
-        "buttonLabel": "Follow for more",
+        "buttonLabel": "",
         "handle": ""
       }
     }

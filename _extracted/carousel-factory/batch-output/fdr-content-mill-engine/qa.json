@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/fdr-content-mill-engine/slide-01.png",
-      "bytes": 110030,
+      "bytes": 108470,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -115,7 +115,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/fdr-content-mill-engine/slide-08.png",
-      "bytes": 68105,
+      "bytes": 66275,
       "qa": {
         "verdict": "pass",
         "checks": {

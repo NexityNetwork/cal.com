@@ -7,9 +7,9 @@
     {
       "layoutId": "cover-linkedin-pro",
       "slots": {
-        "author": "Nico Reed",
+        "author": "",
         "badgeText": "LINKEDIN CAROUSEL POST",
-        "pageNumber": "1",
+        "pageNumber": "",
         "accentColor": "#4f3df5",
         "headline": "The Micro-SaaS AI Playbook",
         "heroSymbol": "🤖",
@@ -21,9 +21,9 @@
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Nico Reed",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "2",
+        "pageNumber": "",
         "accentColor": "#4f3df5",
         "title": "Pick a Painful Niche",
         "body": "Don't build for everyone. The richest micro-SaaS products solve one expensive problem for one specific audience.",
@@ -36,9 +36,9 @@
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Nico Reed",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "3",
+        "pageNumber": "",
         "accentColor": "#4f3df5",
         "title": "Ship One Killer Feature",
         "body": "Users don't want dashboards. They want outcomes. Build the single AI feature that delivers instant, obvious value.",
@@ -51,9 +51,9 @@
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Nico Reed",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "4",
+        "pageNumber": "",
         "accentColor": "#4f3df5",
         "title": "Price for Value, Not Cost",
         "body": "If your AI tool saves 10 hours, charge accordingly. $49–$99/mo is the sweet spot for B2B micro-tools.",
@@ -66,9 +66,9 @@
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Nico Reed",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "5",
+        "pageNumber": "",
         "accentColor": "#4f3df5",
         "title": "Leverage No-Code AI APIs",
         "body": "You don't need a PhD. Glue together GPT-4, Stripe, and a landing page. Launch in days, not months.",
@@ -81,9 +81,9 @@
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Nico Reed",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "6",
+        "pageNumber": "",
         "accentColor": "#4f3df5",
         "title": "Avoid Feature Creep Early",
         "body": "The fastest way to kill momentum is adding bloat. Say no to 90% of requests until you hit $10k MRR.",
@@ -96,9 +96,9 @@
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Nico Reed",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "7",
+        "pageNumber": "",
         "accentColor": "#4f3df5",
         "title": "Distribution Beats Perfection",
         "body": "Build in public, post daily, and DM your first 50 users. Product is useless if nobody knows it exists.",
@@ -111,14 +111,14 @@
     {
       "layoutId": "cta-linkedin-pro",
       "slots": {
-        "author": "Nico Reed",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "8",
+        "pageNumber": "",
         "accentColor": "#4f3df5",
         "eyebrow": "YOUR TURN?",
         "headline": "Ready to Build Your AI Tool?",
         "body": "Drop a comment with your niche idea. Let's discuss how to launch it this weekend.",
-        "buttonLabel": "Follow for More",
+        "buttonLabel": "",
         "secondaryLabel": "Repost",
         "handle": ""
       }

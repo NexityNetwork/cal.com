@@ -19,8 +19,8 @@
         "iconSlug4": "n8n",
         "iconSlug5": "homeassistant",
         "iconSlug6": "jellyfin",
-        "swipeLabel": "SEE LIST",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -41,7 +41,7 @@
         "metric2Value": "UNLIMITED",
         "metric3Label": "OSS",
         "metric3Value": "GPLV3",
-        "pageOf": "02 / 08",
+        "pageOf": "",
         "footerNote": "docker compose ready"
       }
     },
@@ -63,7 +63,7 @@
         "metric2Value": "UNLIMITED",
         "metric3Label": "LICENSE",
         "metric3Value": "AGPL",
-        "pageOf": "03 / 08",
+        "pageOf": "",
         "footerNote": "vaultwarden lightweight option"
       }
     },
@@ -85,7 +85,7 @@
         "metric2Value": "UNLIMITED",
         "metric3Label": "OSS",
         "metric3Value": "GPLV3",
-        "pageOf": "04 / 08",
+        "pageOf": "",
         "footerNote": "mysql and php stack"
       }
     },
@@ -107,7 +107,7 @@
         "metric2Value": "UNLIMITED",
         "metric3Label": "LICENSE",
         "metric3Value": "FAIR CODE",
-        "pageOf": "05 / 08",
+        "pageOf": "",
         "footerNote": "postgres backend included"
       }
     },
@@ -129,7 +129,7 @@
         "metric2Value": "UNLIMITED",
         "metric3Label": "OSS",
         "metric3Value": "APACHE2",
-        "pageOf": "06 / 08",
+        "pageOf": "",
         "footerNote": "raspberry pi friendly"
       }
     },
@@ -151,7 +151,7 @@
         "metric2Value": "ALL PLATFORMS",
         "metric3Label": "LICENSE",
         "metric3Value": "GPLV2",
-        "pageOf": "07 / 08",
+        "pageOf": "",
         "footerNote": "docker ready setup"
       }
     },
@@ -164,15 +164,15 @@
         "ctaLine1": "Deploy your",
         "ctaCallout": "stack",
         "ctaBody": "Spin up these apps on a $5 VPS and keep your data yours. Start with one tool this weekend.",
-        "btnPrimary": "Get Started",
-        "btnGhost": "View Docs",
+        "btnPrimary": "",
+        "btnGhost": "",
         "iconSlug1": "nextcloud",
         "iconSlug2": "bitwarden",
         "iconSlug3": "matomo",
         "iconSlug4": "n8n",
         "iconSlug5": "homeassistant",
         "iconSlug6": "jellyfin",
-        "pageOf": "08 / 08",
+        "pageOf": "",
         "footerNote": "open source, MIT"
       }
     }

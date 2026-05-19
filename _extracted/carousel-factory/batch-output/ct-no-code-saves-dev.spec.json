@@ -34,8 +34,8 @@
         "tag3": "DATA",
         "tag4": "APP",
         "tag5": "AUTO",
-        "swipeLabel": "SEE EACH ONE",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -62,7 +62,7 @@
         "iconSlug4": "zapier",
         "iconSlug5": "airtable",
         "iconSlug6": "make",
-        "pageOf": "02 / 08",
+        "pageOf": "",
         "footerNote": "Replaced frontend contractor spend."
       }
     },
@@ -90,7 +90,7 @@
         "iconSlug4": "slack",
         "iconSlug5": "google-sheets",
         "iconSlug6": "hubspot",
-        "pageOf": "03 / 08",
+        "pageOf": "",
         "footerNote": "Cut API dev spend."
       }
     },
@@ -118,7 +118,7 @@
         "iconSlug4": "webflow",
         "iconSlug5": "slack",
         "iconSlug6": "google-sheets",
-        "pageOf": "04 / 08",
+        "pageOf": "",
         "footerNote": "No backend engineer needed."
       }
     },
@@ -146,7 +146,7 @@
         "iconSlug4": "airtable",
         "iconSlug5": "memberstack",
         "iconSlug6": "make",
-        "pageOf": "05 / 08",
+        "pageOf": "",
         "footerNote": "Replaced our Rails contract."
       }
     },
@@ -174,7 +174,7 @@
         "iconSlug4": "zapier",
         "iconSlug5": "slack",
         "iconSlug6": "notion",
-        "pageOf": "06 / 08",
+        "pageOf": "",
         "footerNote": "Retired our dev scripts."
       }
     },
@@ -202,7 +202,7 @@
         "iconSlug4": "zapier",
         "iconSlug5": "airtable",
         "iconSlug6": "bubble",
-        "pageOf": "07 / 08",
+        "pageOf": "",
         "footerNote": "No auth sprint required."
       }
     },
@@ -216,8 +216,8 @@
         "titleAccent": "without code",
         "titleItalic": "this weekend",
         "body": "Replace expensive dev retainers with this battle-tested no-code stack. Start building free today.",
-        "btnPrimary": "Get the stack",
-        "btnGhost": "Save for later",
+        "btnPrimary": "",
+        "btnGhost": "",
         "stackLabel": "the full stack",
         "iconSlug1": "webflow",
         "iconSlug2": "zapier",
@@ -226,7 +226,7 @@
         "iconSlug5": "make",
         "iconSlug6": "memberstack",
         "signoff": "ship your weekend project",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

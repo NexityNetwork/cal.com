@@ -34,8 +34,8 @@
         "name5": "Apollo",
         "desc5": "Outbound engine for finding leads and booking meetings fast.",
         "tag5": "CONVERT",
-        "swipeLabel": "SEE ALL",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -62,7 +62,7 @@
         "iconSlug4": "convertkit",
         "iconSlug5": "lavender",
         "iconSlug6": "apollo",
-        "pageOf": "02 / 08",
+        "pageOf": "",
         "footerNote": "Metrics from real case studies."
       }
     },
@@ -90,7 +90,7 @@
         "iconSlug4": "notion",
         "iconSlug5": "shopify",
         "iconSlug6": "twitter",
-        "pageOf": "03 / 08",
+        "pageOf": "",
         "footerNote": "Best for content-driven capture."
       }
     },
@@ -118,7 +118,7 @@
         "iconSlug4": "zapier",
         "iconSlug5": "facebook",
         "iconSlug6": "google-ads",
-        "pageOf": "04 / 08",
+        "pageOf": "",
         "footerNote": "Ecommerce revenue engine."
       }
     },
@@ -146,7 +146,7 @@
         "iconSlug4": "stripe",
         "iconSlug5": "twitter",
         "iconSlug6": "youtube",
-        "pageOf": "05 / 08",
+        "pageOf": "",
         "footerNote": "Built for creators."
       }
     },
@@ -174,7 +174,7 @@
         "iconSlug4": "linkedin",
         "iconSlug5": "gmail",
         "iconSlug6": "slack",
-        "pageOf": "06 / 08",
+        "pageOf": "",
         "footerNote": "Outbound sales essential."
       }
     },
@@ -202,7 +202,7 @@
         "iconSlug4": "slack",
         "iconSlug5": "google-calendar",
         "iconSlug6": "zoom",
-        "pageOf": "07 / 08",
+        "pageOf": "",
         "footerNote": "B2B conversion machine."
       }
     },
@@ -216,8 +216,8 @@
         "titleAccent": "5 tools",
         "titleItalic": "and print revenue",
         "body": "Email isn't dead—it's the highest-ROI channel founders ignore. Start with capture, automate nurture, and convert with precision.",
-        "btnPrimary": "Save Stack",
-        "btnGhost": "Share This",
+        "btnPrimary": "",
+        "btnGhost": "",
         "stackLabel": "the full stack",
         "iconSlug1": "beehiiv",
         "iconSlug2": "klaviyo",
@@ -226,7 +226,7 @@
         "iconSlug5": "apollo",
         "iconSlug6": "zapier",
         "signoff": "ship your weekend project",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

@@ -7,7 +7,7 @@
     {
       "layoutId": "cover-mono-pattern",
       "slots": {
-        "pageOf": "01 / 08",
+        "pageOf": "",
         "handle": "",
         "patternLabel": "INTRO",
         "word1": "THE",
@@ -23,7 +23,7 @@
     {
       "layoutId": "body-mono-pattern",
       "slots": {
-        "pageOf": "02 / 08",
+        "pageOf": "",
         "handle": "",
         "patternLabel": "FAILURE 01",
         "titleWord1": "THE",
@@ -43,7 +43,7 @@
     {
       "layoutId": "body-mono-pattern",
       "slots": {
-        "pageOf": "03 / 08",
+        "pageOf": "",
         "handle": "",
         "patternLabel": "FAILURE 02",
         "titleWord1": "THE",
@@ -63,7 +63,7 @@
     {
       "layoutId": "body-mono-pattern",
       "slots": {
-        "pageOf": "04 / 08",
+        "pageOf": "",
         "handle": "",
         "patternLabel": "FAILURE 03",
         "titleWord1": "THE",
@@ -83,7 +83,7 @@
     {
       "layoutId": "body-mono-pattern",
       "slots": {
-        "pageOf": "05 / 08",
+        "pageOf": "",
         "handle": "",
         "patternLabel": "FAILURE 04",
         "titleWord1": "THE",
@@ -103,7 +103,7 @@
     {
       "layoutId": "body-mono-pattern",
       "slots": {
-        "pageOf": "06 / 08",
+        "pageOf": "",
         "handle": "",
         "patternLabel": "FAILURE 05",
         "titleWord1": "THE",
@@ -123,7 +123,7 @@
     {
       "layoutId": "body-mono-pattern",
       "slots": {
-        "pageOf": "07 / 08",
+        "pageOf": "",
         "handle": "",
         "patternLabel": "FAILURE 06",
         "titleWord1": "THE",
@@ -143,14 +143,14 @@
     {
       "layoutId": "cta-mono-pattern",
       "slots": {
-        "pageOf": "08 / 08",
+        "pageOf": "",
         "handle": "",
         "patternLabel": "WRAP",
         "word1": "DEPLOY",
         "word2": "WITH CONFIDENCE",
         "body": "Pick one failure mode to instrument this week. Detection beats disaster every single time.",
         "quote": "Observability is the only insurance in production.",
-        "buttonLabel": "Save this playbook",
+        "buttonLabel": "",
         "rightNote": "7 failures inside",
         "footerLeft": "carousel · 08",
         "footerRight": "@agentops"

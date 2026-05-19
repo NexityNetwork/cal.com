@@ -24,7 +24,7 @@
         "role5": "CACHES QUERIES",
         "iconSlug6": "vercel",
         "role6": "DELIVERS INSIGHTS",
-        "pageOf": "01 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -47,7 +47,7 @@
         "iconSlug4": "docker",
         "iconSlug5": "redis",
         "domainText": "",
-        "pageOf": "02 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -70,7 +70,7 @@
         "iconSlug4": "docker",
         "iconSlug5": "vercel",
         "domainText": "",
-        "pageOf": "03 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -93,7 +93,7 @@
         "iconSlug4": "redis",
         "iconSlug5": "vercel",
         "domainText": "",
-        "pageOf": "04 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -116,7 +116,7 @@
         "iconSlug4": "redis",
         "iconSlug5": "vercel",
         "domainText": "",
-        "pageOf": "05 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -139,7 +139,7 @@
         "iconSlug4": "docker",
         "iconSlug5": "vercel",
         "domainText": "",
-        "pageOf": "06 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -162,7 +162,7 @@
         "iconSlug4": "redis",
         "iconSlug5": "docker",
         "domainText": "",
-        "pageOf": "07 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -180,10 +180,10 @@
         "iconSlug4": "docker",
         "iconSlug5": "redis",
         "iconSlug6": "vercel",
-        "btnPrimary": "Get the Stack",
-        "btnGhost": "Read the Guide",
+        "btnPrimary": "",
+        "btnGhost": "",
         "domainText": "",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

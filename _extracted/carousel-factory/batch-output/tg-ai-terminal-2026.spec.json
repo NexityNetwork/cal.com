@@ -30,8 +30,8 @@
         "iconSlug3": "amazon",
         "iconSlug4": "openai",
         "iconSlug5": "zsh",
-        "swipeLabel": "RUN",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -66,7 +66,7 @@
         "iconSlug2": "kubernetes",
         "iconSlug3": "docker",
         "iconSlug4": "linux",
-        "pageOf": "02 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -101,7 +101,7 @@
         "iconSlug2": "git",
         "iconSlug3": "githubactions",
         "iconSlug4": "npm",
-        "pageOf": "03 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -136,7 +136,7 @@
         "iconSlug2": "amazonaws",
         "iconSlug3": "terraform",
         "iconSlug4": "docker",
-        "pageOf": "04 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -171,7 +171,7 @@
         "iconSlug2": "linux",
         "iconSlug3": "python",
         "iconSlug4": "rust",
-        "pageOf": "05 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -206,7 +206,7 @@
         "iconSlug2": "linux",
         "iconSlug3": "ubuntu",
         "iconSlug4": "debian",
-        "pageOf": "06 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -241,7 +241,7 @@
         "iconSlug2": "github",
         "iconSlug3": "zsh",
         "iconSlug4": "docker",
-        "pageOf": "07 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -261,10 +261,10 @@
         "iconSlug5": "zsh",
         "iconSlug6": "docker",
         "ctaBody": "Tag a dev who still types every flag by hand. <em>AI is the new autocomplete.</em>",
-        "btnPrimary": "Bookmark Now",
-        "btnGhost": "Follow @kernelhq",
+        "btnPrimary": "",
+        "btnGhost": "",
         "signoff": "ship fast, debug faster",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

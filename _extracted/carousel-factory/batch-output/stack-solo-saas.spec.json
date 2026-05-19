@@ -155,7 +155,7 @@
     {
       "layoutId": "cta-stack-tour",
       "slots": {
-        "pageOf": "08 / 08",
+        "pageOf": "",
         "handle": "",
         "eyebrow": "YOUR TURN",
         "headlineLine1": "Build lean,",

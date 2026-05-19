@@ -13,10 +13,10 @@
         "titleLine1": "I finally",
         "titleUnderline": "changed",
         "titleAccent": "everything",
-        "avatarLetter": "S",
-        "byLine": "from the ashes",
-        "authorName": "Sasha Lin",
-        "authorRole": "founder · late-night writer",
+        "avatarLetter": "",
+        "byLine": "",
+        "authorName": "",
+        "authorRole": "",
         "stickyNote": "here's exactly what I did (and broke) five times",
         "intro": "I spent three years building things nobody wanted. <em>This</em> is the story of how startup six became inevitable.",
         "tile1Label": "OpenAI",
@@ -27,8 +27,8 @@
         "iconSlug2": "cursor",
         "iconSlug3": "vercel",
         "iconSlug4": "stripe",
-        "swipeLabel": "let's go",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -56,13 +56,13 @@
         "insight3Tag": "FAIL",
         "insight3Note": "big ouch",
         "insight3Pill": "DAY 90",
-        "avatarLetter": "S",
-        "authorQuote": "I thought more resources meant more success. <em>I was wrong.</em>",
+        "avatarLetter": "",
+        "authorQuote": "",
         "iconSlug1": "github",
         "iconSlug2": "linear",
         "iconSlug3": "figma",
         "iconSlug4": "notion",
-        "pageOf": "02 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -90,13 +90,13 @@
         "insight3Tag": "WIN",
         "insight3Note": "brutal but right",
         "insight3Pill": "-80% SCOPE",
-        "avatarLetter": "S",
-        "authorQuote": "Constraints didn't limit me; <em>they freed me.</em>",
+        "avatarLetter": "",
+        "authorQuote": "",
         "iconSlug1": "notion",
         "iconSlug2": "loom",
         "iconSlug3": "slack",
         "iconSlug4": "twitter",
-        "pageOf": "03 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -124,13 +124,13 @@
         "insight3Tag": "AHA",
         "insight3Note": "so hard",
         "insight3Pill": "ONE BET",
-        "avatarLetter": "S",
-        "authorQuote": "I stopped asking 'can I build it?' and asked '<em>should I?</em>'",
+        "avatarLetter": "",
+        "authorQuote": "",
         "iconSlug1": "linear",
         "iconSlug2": "figma",
         "iconSlug3": "slack",
         "iconSlug4": "notion",
-        "pageOf": "04 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -158,13 +158,13 @@
         "insight3Tag": "AHA",
         "insight3Note": "scary but works",
         "insight3Pill": "PRE SELL",
-        "avatarLetter": "S",
-        "authorQuote": "The deadline was fake but the urgency <em>was real.</em>",
+        "avatarLetter": "",
+        "authorQuote": "",
         "iconSlug1": "cursor",
         "iconSlug2": "vercel",
         "iconSlug3": "openai",
         "iconSlug4": "replit",
-        "pageOf": "05 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -192,13 +192,13 @@
         "insight3Tag": "WIN",
         "insight3Note": "better role",
         "insight3Pill": "EDITOR MODE",
-        "avatarLetter": "S",
-        "authorQuote": "I traded syntax for strategy, and <em>everything changed.</em>",
+        "avatarLetter": "",
+        "authorQuote": "",
         "iconSlug1": "openai",
         "iconSlug2": "cursor",
         "iconSlug3": "github",
         "iconSlug4": "vercel",
-        "pageOf": "06 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -226,13 +226,13 @@
         "insight3Tag": "AHA",
         "insight3Note": "best feeling",
         "insight3Pill": "PURE ORGANIC",
-        "avatarLetter": "S",
-        "authorQuote": "Failure taught me the rules. <em>AI let me break them.</em>",
+        "avatarLetter": "",
+        "authorQuote": "",
         "iconSlug1": "stripe",
         "iconSlug2": "twitter",
         "iconSlug3": "slack",
         "iconSlug4": "notion",
-        "pageOf": "07 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -252,10 +252,10 @@
         "iconSlug5": "notion",
         "iconSlug6": "loom",
         "ctaBody": "I break down founder lessons and AI workflows every week. <em>Follow along</em> if you're building.",
-        "btnPrimary": "Save Post",
-        "btnGhost": "follow for more",
+        "btnPrimary": "",
+        "btnGhost": "",
         "signoff": "see you next week ✱",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

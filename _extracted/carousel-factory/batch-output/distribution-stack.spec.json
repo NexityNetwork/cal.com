@@ -7,7 +7,7 @@
     {
       "layoutId": "cover-rounded-card",
       "slots": {
-        "pageBadge": "01",
+        "pageBadge": "",
         "headlineLine1": "One essay",
         "headlineLine2": "everywhere that matters",
         "body": "Turn a single long-form post into a week of native content across every major platform.",
@@ -17,7 +17,7 @@
     {
       "layoutId": "body-rounded-card",
       "slots": {
-        "pageBadge": "02",
+        "pageBadge": "",
         "handle": "",
         "number": "01",
         "title": "Start with",
@@ -28,13 +28,13 @@
         "ico3": "📋",
         "ico4": "✏️",
         "nextNote": "Next: format it visually",
-        "pageOf": "02 / 08"
+        "pageOf": ""
       }
     },
     {
       "layoutId": "body-rounded-card",
       "slots": {
-        "pageBadge": "03",
+        "pageBadge": "",
         "handle": "",
         "number": "02",
         "title": "Design the",
@@ -45,13 +45,13 @@
         "ico3": "🖼️",
         "ico4": "👆",
         "nextNote": "Next: cut the video",
-        "pageOf": "03 / 08"
+        "pageOf": ""
       }
     },
     {
       "layoutId": "body-rounded-card",
       "slots": {
-        "pageBadge": "04",
+        "pageBadge": "",
         "handle": "",
         "number": "03",
         "title": "Cut short",
@@ -62,13 +62,13 @@
         "ico3": "🎬",
         "ico4": "🎤",
         "nextNote": "Next: write the thread",
-        "pageOf": "04 / 08"
+        "pageOf": ""
       }
     },
     {
       "layoutId": "body-rounded-card",
       "slots": {
-        "pageBadge": "05",
+        "pageBadge": "",
         "handle": "",
         "number": "04",
         "title": "Build the",
@@ -79,13 +79,13 @@
         "ico3": "🔗",
         "ico4": "📣",
         "nextNote": "Next: remix for audio",
-        "pageOf": "05 / 08"
+        "pageOf": ""
       }
     },
     {
       "layoutId": "body-rounded-card",
       "slots": {
-        "pageBadge": "06",
+        "pageBadge": "",
         "handle": "",
         "number": "05",
         "title": "Repurpose into",
@@ -96,13 +96,13 @@
         "ico3": "♪",
         "ico4": "🔊",
         "nextNote": "Next: schedule and ship",
-        "pageOf": "06 / 08"
+        "pageOf": ""
       }
     },
     {
       "layoutId": "body-rounded-card",
       "slots": {
-        "pageBadge": "07",
+        "pageBadge": "",
         "handle": "",
         "number": "06",
         "title": "Schedule and",
@@ -113,19 +113,19 @@
         "ico3": "🚀",
         "ico4": "📊",
         "nextNote": "Next: your action plan",
-        "pageOf": "07 / 08"
+        "pageOf": ""
       }
     },
     {
       "layoutId": "cta-rounded-card",
       "slots": {
-        "pageBadge": "08",
+        "pageBadge": "",
         "handle": "",
         "eyebrow": "YOUR TURN",
         "headlineLine1": "Steal this",
         "headlineLine2": "distribution stack",
         "body": "Save this carousel and build your own system. One essay should fuel an entire week of content.",
-        "buttonLabel": "Get the template",
+        "buttonLabel": "",
         "secondaryLabel": "Follow @yourbrand",
         "footerLeft": "Save ↓",
         "footerRight": "Share →"

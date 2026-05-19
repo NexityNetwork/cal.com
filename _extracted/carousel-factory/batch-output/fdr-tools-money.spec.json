@@ -34,8 +34,8 @@
         "tag3": "$9/MO",
         "tag4": "$59/MO",
         "tag5": "$5/MO",
-        "swipeLabel": "SEE ALL",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -62,7 +62,7 @@
         "iconSlug4": "make",
         "iconSlug5": "apollo",
         "iconSlug6": "framer",
-        "pageOf": "02 / 08",
+        "pageOf": "",
         "footerNote": "Stack costs $20/mo"
       }
     },
@@ -90,7 +90,7 @@
         "iconSlug4": "make",
         "iconSlug5": "elevenlabs",
         "iconSlug6": "figma",
-        "pageOf": "03 / 08",
+        "pageOf": "",
         "footerNote": "Cancel designer retainers"
       }
     },
@@ -118,7 +118,7 @@
         "iconSlug4": "slack",
         "iconSlug5": "notion",
         "iconSlug6": "stripe",
-        "pageOf": "04 / 08",
+        "pageOf": "",
         "footerNote": "No engineers required"
       }
     },
@@ -146,7 +146,7 @@
         "iconSlug4": "slack",
         "iconSlug5": "salesforce",
         "iconSlug6": "linkedin",
-        "pageOf": "05 / 08",
+        "pageOf": "",
         "footerNote": "ROI in one quarter"
       }
     },
@@ -174,7 +174,7 @@
         "iconSlug4": "make",
         "iconSlug5": "youtube",
         "iconSlug6": "descript",
-        "pageOf": "06 / 08",
+        "pageOf": "",
         "footerNote": "Record once scale forever"
       }
     },
@@ -202,7 +202,7 @@
         "iconSlug4": "make",
         "iconSlug5": "stripe",
         "iconSlug6": "google",
-        "pageOf": "07 / 08",
+        "pageOf": "",
         "footerNote": "No code required"
       }
     },
@@ -216,8 +216,8 @@
         "titleAccent": "This Weekend",
         "titleItalic": "with AI",
         "body": "Combine these six tools into a revenue engine that works while you sleep. Start with the free tiers.",
-        "btnPrimary": "Get The Stack",
-        "btnGhost": "Save For Later",
+        "btnPrimary": "",
+        "btnGhost": "",
         "stackLabel": "the full stack",
         "iconSlug1": "openai",
         "iconSlug2": "midjourney",
@@ -226,7 +226,7 @@
         "iconSlug5": "elevenlabs",
         "iconSlug6": "framer",
         "signoff": "ship your weekend project",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

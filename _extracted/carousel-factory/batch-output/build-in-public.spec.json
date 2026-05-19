@@ -22,7 +22,7 @@
       "layoutId": "body-neon-dark",
       "slots": {
         "handle": "",
-        "pageOf": "02 / 07",
+        "pageOf": "",
         "number": "1",
         "titleLabel": "THE PROCESS",
         "titleMain": "Document don't",
@@ -36,7 +36,7 @@
       "layoutId": "body-neon-dark",
       "slots": {
         "handle": "",
-        "pageOf": "03 / 07",
+        "pageOf": "",
         "number": "2",
         "titleLabel": "CONSISTENCY",
         "titleMain": "Show up",
@@ -50,7 +50,7 @@
       "layoutId": "body-neon-dark",
       "slots": {
         "handle": "",
-        "pageOf": "04 / 07",
+        "pageOf": "",
         "number": "3",
         "titleLabel": "TEACHING",
         "titleMain": "Teach what you",
@@ -64,7 +64,7 @@
       "layoutId": "body-neon-dark",
       "slots": {
         "handle": "",
-        "pageOf": "05 / 07",
+        "pageOf": "",
         "number": "4",
         "titleLabel": "ENGAGEMENT",
         "titleMain": "Reply like a",
@@ -78,7 +78,7 @@
       "layoutId": "body-neon-dark",
       "slots": {
         "handle": "",
-        "pageOf": "06 / 07",
+        "pageOf": "",
         "number": "5",
         "titleLabel": "METRICS",
         "titleMain": "Share the",
@@ -92,7 +92,7 @@
       "layoutId": "body-neon-dark",
       "slots": {
         "handle": "",
-        "pageOf": "07 / 07",
+        "pageOf": "",
         "number": "6",
         "titleLabel": "ADVOCATES",
         "titleMain": "Turn fans into",
@@ -106,12 +106,12 @@
       "layoutId": "cta-neon-dark",
       "slots": {
         "handle": "",
-        "pageOf": "08 / 07",
+        "pageOf": "",
         "eyebrow": "YOUR MOVE",
         "headlineNeon": "SAVE",
         "headlineWhite": "this post",
         "body": "Start building in public today. Your future audience is waiting for the real you.",
-        "buttonLabel": "Save this post",
+        "buttonLabel": "",
         "secondaryLabel": "// follow @handle"
       }
     }

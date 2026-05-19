@@ -27,8 +27,8 @@
         "iconSlug5": "openai",
         "sourceValue": "5 in 6",
         "sourceLabel": "FOUNDERS MISS",
-        "swipeLabel": "INSIDE",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -62,7 +62,7 @@
         "iconSlug3": "azure",
         "iconSlug4": "snowflake",
         "iconSlug5": "cloudflare",
-        "pageOf": "02 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -96,7 +96,7 @@
         "iconSlug3": "zendesk",
         "iconSlug4": "intercom",
         "iconSlug5": "gainsight",
-        "pageOf": "03 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -130,7 +130,7 @@
         "iconSlug3": "cohere",
         "iconSlug4": "huggingface",
         "iconSlug5": "stability",
-        "pageOf": "04 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -164,7 +164,7 @@
         "iconSlug3": "chargebee",
         "iconSlug4": "plaid",
         "iconSlug5": "adyen",
-        "pageOf": "05 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -198,7 +198,7 @@
         "iconSlug3": "workday",
         "iconSlug4": "servicenow",
         "iconSlug5": "monday",
-        "pageOf": "06 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -232,7 +232,7 @@
         "iconSlug3": "sequoia",
         "iconSlug4": "crunchbase",
         "iconSlug5": "pitchbook",
-        "pageOf": "07 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -245,8 +245,8 @@
         "ctaLine1": "Audit your true",
         "ctaHighlight": "gross margin",
         "ctaBody": "Split COGS by vendor, reclassify success teams, and show investors clean SaaS metrics that survive diligence.",
-        "btnPrimary": "GET AUDIT",
-        "btnGhost": "SHARE POST",
+        "btnPrimary": "",
+        "btnGhost": "",
         "stackLabel": "stacked by",
         "iconSlug1": "aws",
         "iconSlug2": "stripe",
@@ -255,7 +255,7 @@
         "iconSlug5": "openai",
         "iconSlug6": "hubspot",
         "signoff": "margin matters more than ever",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

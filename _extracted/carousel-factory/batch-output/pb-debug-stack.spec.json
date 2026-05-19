@@ -20,8 +20,8 @@
         "iconSlug5": "wireshark",
         "statValue": "6",
         "statLabel": "TOOLS",
-        "swipeLabel": "SCROLL",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -44,7 +44,7 @@
         "skill4Body": "Link errors to releases for instant blame.",
         "cmdLine": "npm install @sentry/node",
         "outLine": "sdk initialized · 0 errors",
-        "pageOf": "02 / 08",
+        "pageOf": "",
         "footerNote": "error tracking that actually helps"
       }
     },
@@ -68,7 +68,7 @@
         "skill4Body": "Use trace search to find latency outliers.",
         "cmdLine": "datadog-agent status",
         "outLine": "apm enabled · 12 services",
-        "pageOf": "03 / 08",
+        "pageOf": "",
         "footerNote": "observability at scale"
       }
     },
@@ -92,7 +92,7 @@
         "skill4Body": "Use breakpoints in source-mapped files.",
         "cmdLine": "debugger; // in source",
         "outLine": "paused at breakpoint",
-        "pageOf": "04 / 08",
+        "pageOf": "",
         "footerNote": "built into every browser"
       }
     },
@@ -116,7 +116,7 @@
         "skill4Body": "Save failing requests as regression tests.",
         "cmdLine": "postman collection run",
         "outLine": "200 ok · 14ms response",
-        "pageOf": "05 / 08",
+        "pageOf": "",
         "footerNote": "api debugging essentials"
       }
     },
@@ -140,7 +140,7 @@
         "skill4Body": "Filter by tcp.port to reduce noise.",
         "cmdLine": "tshark -i eth0 -f tcp",
         "outLine": "capturing on eth0 · 0 loss",
-        "pageOf": "06 / 08",
+        "pageOf": "",
         "footerNote": "packet-level precision"
       }
     },
@@ -164,7 +164,7 @@
         "skill4Body": "Automate with git bisect run.",
         "cmdLine": "git bisect start HEAD v1.2",
         "outLine": "Bisecting: 4 revisions",
-        "pageOf": "07 / 08",
+        "pageOf": "",
         "footerNote": "version control detective"
       }
     },
@@ -177,15 +177,15 @@
         "ctaLine1": "SAVE",
         "ctaLine2": "HOURS",
         "ctaBody": "Add these six tools to your workflow and turn all-night incidents into quick fixes before your team even notices.",
-        "btnPrimary": "FOLLOW ME",
-        "btnGhost": "SHARE POST",
+        "btnPrimary": "",
+        "btnGhost": "",
         "iconSlug1": "sentry",
         "iconSlug2": "datadog",
         "iconSlug3": "googlechrome",
         "iconSlug4": "postman",
         "iconSlug5": "wireshark",
         "iconSlug6": "git",
-        "pageOf": "08 / 08",
+        "pageOf": "",
         "footerNote": "built for busy engineers"
       }
     }

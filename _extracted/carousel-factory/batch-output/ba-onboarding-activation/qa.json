@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/ba-onboarding-activation/slide-01.png",
-      "bytes": 119463,
+      "bytes": 117957,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -115,7 +115,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/ba-onboarding-activation/slide-08.png",
-      "bytes": 68677,
+      "bytes": 66843,
       "qa": {
         "verdict": "pass",
         "checks": {

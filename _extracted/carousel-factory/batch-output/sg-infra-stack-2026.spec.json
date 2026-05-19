@@ -17,12 +17,12 @@
         "titleAccent": "SHIP",
         "titleLine2": "PRODUCT",
         "subtitle": "A ruthlessly minimal stack for builders who own their pipeline without surrendering to platform tax or vendor drift.",
-        "authorName": "ALEX RIVERA",
-        "authorRole": "solo operator · 2026",
+        "authorName": "",
+        "authorRole": "",
         "tag1": "INFRA",
         "tag2": "SELF HOSTED",
         "tag3": "2026",
-        "pageOf": "01 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -47,7 +47,7 @@
         "iconSlug2": "docker",
         "iconSlug3": "github",
         "iconSlug4": "git",
-        "pageOf": "02 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -72,7 +72,7 @@
         "iconSlug2": "s3",
         "iconSlug3": "linux",
         "iconSlug4": "docker",
-        "pageOf": "03 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -97,7 +97,7 @@
         "iconSlug2": "docker",
         "iconSlug3": "linux",
         "iconSlug4": "letsencrypt",
-        "pageOf": "04 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -122,7 +122,7 @@
         "iconSlug2": "wireguard",
         "iconSlug3": "tailscale",
         "iconSlug4": "linux",
-        "pageOf": "05 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -147,7 +147,7 @@
         "iconSlug2": "prometheus",
         "iconSlug3": "loki",
         "iconSlug4": "docker",
-        "pageOf": "06 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -172,7 +172,7 @@
         "iconSlug2": "terraform",
         "iconSlug3": "git",
         "iconSlug4": "docker",
-        "pageOf": "07 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -190,10 +190,10 @@
         "iconSlug3": "caddy",
         "iconSlug4": "grafana",
         "ctaBody": "Start with the component that hurts most today. <em>Momentum beats perfection.</em>",
-        "btnPrimary": "SAVE THIS",
-        "btnGhost": "Follow along",
+        "btnPrimary": "",
+        "btnGhost": "",
         "signoff": "Ship solo, own everything.",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

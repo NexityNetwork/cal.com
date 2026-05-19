@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/slow-growth/slide-01.png",
-      "bytes": 290668,
+      "bytes": 286735,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -19,7 +19,7 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/slow-growth/slide-02.png",
-      "bytes": 76856,
+      "bytes": 72886,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -35,7 +35,7 @@
     {
       "index": 2,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/slow-growth/slide-03.png",
-      "bytes": 72952,
+      "bytes": 69000,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -51,7 +51,7 @@
     {
       "index": 3,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/slow-growth/slide-04.png",
-      "bytes": 70095,
+      "bytes": 66145,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -67,7 +67,7 @@
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/slow-growth/slide-05.png",
-      "bytes": 69924,
+      "bytes": 65895,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -83,7 +83,7 @@
     {
       "index": 5,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/slow-growth/slide-06.png",
-      "bytes": 67255,
+      "bytes": 63341,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -99,7 +99,7 @@
     {
       "index": 6,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/slow-growth/slide-07.png",
-      "bytes": 69937,
+      "bytes": 66306,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -115,7 +115,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/slow-growth/slide-08.png",
-      "bytes": 329554,
+      "bytes": 323022,
       "qa": {
         "verdict": "pass",
         "checks": {

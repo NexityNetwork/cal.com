@@ -22,7 +22,7 @@
       "layoutId": "body-cream-gold",
       "slots": {
         "brand": "",
-        "pageOf": "ii / viii",
+        "pageOf": "",
         "number": "I",
         "numberLabel": "Lesson",
         "titleMain": "Wealth Is",
@@ -35,7 +35,7 @@
       "layoutId": "body-cream-gold",
       "slots": {
         "brand": "",
-        "pageOf": "iii / viii",
+        "pageOf": "",
         "number": "II",
         "numberLabel": "Lesson",
         "titleMain": "Enough Is a",
@@ -48,7 +48,7 @@
       "layoutId": "body-cream-gold",
       "slots": {
         "brand": "",
-        "pageOf": "iv / viii",
+        "pageOf": "",
         "number": "III",
         "numberLabel": "Lesson",
         "titleMain": "Safety Without",
@@ -61,7 +61,7 @@
       "layoutId": "body-cream-gold",
       "slots": {
         "brand": "",
-        "pageOf": "v / viii",
+        "pageOf": "",
         "number": "IV",
         "numberLabel": "Lesson",
         "titleMain": "Time Is the",
@@ -74,7 +74,7 @@
       "layoutId": "body-cream-gold",
       "slots": {
         "brand": "",
-        "pageOf": "vi / viii",
+        "pageOf": "",
         "number": "V",
         "numberLabel": "Lesson",
         "titleMain": "Trust Scales",
@@ -87,7 +87,7 @@
       "layoutId": "body-cream-gold",
       "slots": {
         "brand": "",
-        "pageOf": "vii / viii",
+        "pageOf": "",
         "number": "VI",
         "numberLabel": "Lesson",
         "titleMain": "Wealth Is a",
@@ -100,12 +100,12 @@
       "layoutId": "cta-cream-gold",
       "slots": {
         "brand": "",
-        "pageOf": "viii / viii",
+        "pageOf": "",
         "eyebrow": "A FINAL WORD",
         "headlineMain": "Define Your",
         "headlineItalic": "Own Enough",
         "body": "Wealth is a mindset long before it is a number. Choose your finish line with intention.",
-        "buttonLabel": "SAVE THIS POST",
+        "buttonLabel": "",
         "handle": ""
       }
     }

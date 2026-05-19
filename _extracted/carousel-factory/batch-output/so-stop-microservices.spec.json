@@ -12,7 +12,7 @@
         "shoutLine1": "STOP RUSHING",
         "shoutLine2": "TO MICROSERVICES",
         "subQuestion": "If you can't ship a monolith, why would twenty services save you?",
-        "pageOf": "01 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -32,7 +32,7 @@
         "statLabel3": "TIME",
         "statValue3": "3x",
         "swipeNote": "swipe for more",
-        "pageOf": "02 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -52,7 +52,7 @@
         "statLabel3": "COST",
         "statValue3": "$0",
         "swipeNote": "what comes next",
-        "pageOf": "03 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -72,7 +72,7 @@
         "statLabel3": "COST",
         "statValue3": "+$8k",
         "swipeNote": "keep on swiping",
-        "pageOf": "04 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -92,7 +92,7 @@
         "statLabel3": "RISK",
         "statValue3": "LOW",
         "swipeNote": "almost there folks",
-        "pageOf": "05 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -112,7 +112,7 @@
         "statLabel3": "COST",
         "statValue3": "WORTH",
         "swipeNote": "one more slide",
-        "pageOf": "06 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -132,7 +132,7 @@
         "statLabel3": "SHIP",
         "statValue3": "NOW",
         "swipeNote": "get the guide",
-        "pageOf": "07 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -143,10 +143,10 @@
         "ctaLine1": "GRAB THE",
         "ctaLine2": "FREE CHECKLIST",
         "ctaBody": "Get the 5 signs you're splitting too early and what to build instead. Link in bio.",
-        "btnPrimary": "GRAB THE LIST",
-        "btnGhost": "TAG A FRIEND",
+        "btnPrimary": "",
+        "btnGhost": "",
         "footerMeta": "LINK IN BIO",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

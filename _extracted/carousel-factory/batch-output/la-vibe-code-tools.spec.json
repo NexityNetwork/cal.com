@@ -19,8 +19,8 @@
         "iconSlug4": "ollama",
         "iconSlug5": "warp",
         "iconSlug6": "bolt",
-        "swipeLabel": "SEE LIST",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -41,7 +41,7 @@
         "metric2Value": "GPT-4o",
         "metric3Label": "OSS",
         "metric3Value": "No",
-        "pageOf": "02 / 08",
+        "pageOf": "",
         "footerNote": "Pro tier available"
       }
     },
@@ -63,7 +63,7 @@
         "metric2Value": "Vercel",
         "metric3Label": "OSS",
         "metric3Value": "Partial",
-        "pageOf": "03 / 08",
+        "pageOf": "",
         "footerNote": "usage limits apply"
       }
     },
@@ -85,7 +85,7 @@
         "metric2Value": "15M+",
         "metric3Label": "OSS",
         "metric3Value": "No",
-        "pageOf": "04 / 08",
+        "pageOf": "",
         "footerNote": "private repos limited"
       }
     },
@@ -107,7 +107,7 @@
         "metric2Value": "Optional",
         "metric3Label": "OSS",
         "metric3Value": "Yes",
-        "pageOf": "05 / 08",
+        "pageOf": "",
         "footerNote": "MIT licensed core"
       }
     },
@@ -129,7 +129,7 @@
         "metric2Value": "Mac/Linux",
         "metric3Label": "OSS",
         "metric3Value": "No",
-        "pageOf": "06 / 08",
+        "pageOf": "",
         "footerNote": "team plans exist"
       }
     },
@@ -151,7 +151,7 @@
         "metric2Value": "WebContainer",
         "metric3Label": "OSS",
         "metric3Value": "Partial",
-        "pageOf": "07 / 08",
+        "pageOf": "",
         "footerNote": "public projects free"
       }
     },
@@ -164,15 +164,15 @@
         "ctaLine1": "Start vibe coding",
         "ctaCallout": "today",
         "ctaBody": "Grab these free tools and ship faster in 2026. Your indie stack is one prompt away from production.",
-        "btnPrimary": "Get Stack",
-        "btnGhost": "Read Guide",
+        "btnPrimary": "",
+        "btnGhost": "",
         "iconSlug1": "cursor",
         "iconSlug2": "vercel",
         "iconSlug3": "github",
         "iconSlug4": "ollama",
         "iconSlug5": "warp",
         "iconSlug6": "bolt",
-        "pageOf": "08 / 08",
+        "pageOf": "",
         "footerNote": "updated monthly"
       }
     }

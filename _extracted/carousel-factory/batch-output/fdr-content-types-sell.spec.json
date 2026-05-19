@@ -34,8 +34,8 @@
         "name5": "Ad Creative",
         "desc5": "Full ad packs: hooks, body, CTAs for paid acquisition.",
         "tag5": "PAID",
-        "swipeLabel": "SEE EACH",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -62,7 +62,7 @@
         "iconSlug4": "openai",
         "iconSlug5": "notion",
         "iconSlug6": "figma",
-        "pageOf": "02 / 08",
+        "pageOf": "",
         "footerNote": "Charge $500–$2k per sequence"
       }
     },
@@ -90,7 +90,7 @@
         "iconSlug4": "tiktok",
         "iconSlug5": "descript",
         "iconSlug6": "openai",
-        "pageOf": "03 / 08",
+        "pageOf": "",
         "footerNote": "Charge $300–$1k per batch"
       }
     },
@@ -118,7 +118,7 @@
         "iconSlug4": "notion",
         "iconSlug5": "zapier",
         "iconSlug6": "shopify",
-        "pageOf": "04 / 08",
+        "pageOf": "",
         "footerNote": "Charge $1k–$5k per page"
       }
     },
@@ -146,7 +146,7 @@
         "iconSlug4": "beehiiv",
         "iconSlug5": "figma",
         "iconSlug6": "zapier",
-        "pageOf": "05 / 08",
+        "pageOf": "",
         "footerNote": "Charge $250–$750 each"
       }
     },
@@ -174,7 +174,7 @@
         "iconSlug4": "figma",
         "iconSlug5": "shopify",
         "iconSlug6": "zapier",
-        "pageOf": "06 / 08",
+        "pageOf": "",
         "footerNote": "Charge $500–$2k per pack"
       }
     },
@@ -202,7 +202,7 @@
         "iconSlug4": "notion",
         "iconSlug5": "stripe",
         "iconSlug6": "calendly",
-        "pageOf": "07 / 08",
+        "pageOf": "",
         "footerNote": "Charge $1k–$3k per script"
       }
     },
@@ -216,8 +216,8 @@
         "titleAccent": "AI offer",
         "titleItalic": "this weekend",
         "body": "Pick one format, create the sample, and land your first client by Monday. The tools are free; the leverage is real.",
-        "btnPrimary": "Get the list",
-        "btnGhost": "Follow along",
+        "btnPrimary": "",
+        "btnGhost": "",
         "stackLabel": "the full stack",
         "iconSlug1": "mailchimp",
         "iconSlug2": "youtube",
@@ -226,7 +226,7 @@
         "iconSlug5": "meta",
         "iconSlug6": "zoom",
         "signoff": "ship your weekend project",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

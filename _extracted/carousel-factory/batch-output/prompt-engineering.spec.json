@@ -22,7 +22,7 @@
       "layoutId": "body-neon-dark",
       "slots": {
         "handle": "",
-        "pageOf": "02 / 08",
+        "pageOf": "",
         "number": "1",
         "titleLabel": "MINDSET",
         "titleMain": "Amateurs ask.",
@@ -36,7 +36,7 @@
       "layoutId": "body-neon-dark",
       "slots": {
         "handle": "",
-        "pageOf": "03 / 08",
+        "pageOf": "",
         "number": "2",
         "titleLabel": "PATTERN 01",
         "titleMain": "Meta-prompt your",
@@ -50,7 +50,7 @@
       "layoutId": "body-neon-dark",
       "slots": {
         "handle": "",
-        "pageOf": "04 / 08",
+        "pageOf": "",
         "number": "3",
         "titleLabel": "PATTERN 02",
         "titleMain": "Split into",
@@ -64,7 +64,7 @@
       "layoutId": "body-neon-dark",
       "slots": {
         "handle": "",
-        "pageOf": "05 / 08",
+        "pageOf": "",
         "number": "4",
         "titleLabel": "PATTERN 03",
         "titleMain": "Anchor with",
@@ -78,7 +78,7 @@
       "layoutId": "body-neon-dark",
       "slots": {
         "handle": "",
-        "pageOf": "06 / 08",
+        "pageOf": "",
         "number": "5",
         "titleLabel": "PATTERN 04",
         "titleMain": "Force red-team",
@@ -92,7 +92,7 @@
       "layoutId": "body-neon-dark",
       "slots": {
         "handle": "",
-        "pageOf": "07 / 08",
+        "pageOf": "",
         "number": "6",
         "titleLabel": "PATTERN 05",
         "titleMain": "Budget your",
@@ -106,12 +106,12 @@
       "layoutId": "cta-neon-dark",
       "slots": {
         "handle": "",
-        "pageOf": "08 / 08",
+        "pageOf": "",
         "eyebrow": "YOUR MOVE",
         "headlineNeon": "SAVE",
         "headlineWhite": "this thread",
         "body": "Start engineering your prompts like a pro. The amateurs are already falling behind.",
-        "buttonLabel": "Save this post",
+        "buttonLabel": "",
         "secondaryLabel": "// follow @neonprompt"
       }
     }

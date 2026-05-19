@@ -28,7 +28,7 @@
       "layoutId": "body-dark-navy",
       "slots": {
         "brand": "",
-        "pageOf": "02/08",
+        "pageOf": "",
         "stepLabel": "# instrument every service with otel",
         "number": "1",
         "titleMain": "Unified",
@@ -42,7 +42,7 @@
       "layoutId": "body-dark-navy",
       "slots": {
         "brand": "",
-        "pageOf": "03/08",
+        "pageOf": "",
         "stepLabel": "# scrape red metrics from every pod",
         "number": "2",
         "titleMain": "RED",
@@ -56,7 +56,7 @@
       "layoutId": "body-dark-navy",
       "slots": {
         "brand": "",
-        "pageOf": "04/08",
+        "pageOf": "",
         "stepLabel": "# visualize golden signals in dashboards",
         "number": "3",
         "titleMain": "Golden",
@@ -70,7 +70,7 @@
       "layoutId": "body-dark-navy",
       "slots": {
         "brand": "",
-        "pageOf": "05/08",
+        "pageOf": "",
         "stepLabel": "# trace requests end to end",
         "number": "4",
         "titleMain": "Deep",
@@ -84,7 +84,7 @@
       "layoutId": "body-dark-navy",
       "slots": {
         "brand": "",
-        "pageOf": "06/08",
+        "pageOf": "",
         "stepLabel": "# correlate logs and traces by id",
         "number": "5",
         "titleMain": "Log",
@@ -98,7 +98,7 @@
       "layoutId": "body-dark-navy",
       "slots": {
         "brand": "",
-        "pageOf": "07/08",
+        "pageOf": "",
         "stepLabel": "# alert on symptoms and not noise",
         "number": "6",
         "titleMain": "Smart",
@@ -112,12 +112,12 @@
       "layoutId": "cta-dark-navy",
       "slots": {
         "brand": "",
-        "pageOf": "08/08",
+        "pageOf": "",
         "terminalTag": "curl stack.sh | bash --mode=observe",
         "headLine1": "Cut",
         "headLine2": "Latency",
         "body": "Deploy this six-tool observability stack and start measuring what matters.",
-        "buttonLabel": "Clone Stack",
+        "buttonLabel": "",
         "secondaryNote": "follow for more threads",
         "handle": ""
       }

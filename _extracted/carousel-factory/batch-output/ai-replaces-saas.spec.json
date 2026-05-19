@@ -7,7 +7,7 @@
     {
       "layoutId": "cover-display-cta",
       "slots": {
-        "pageNumber": "01",
+        "pageNumber": "",
         "headlineLine1": "5 SaaS Categories",
         "headlineLine2": "Agents Will Kill",
         "accentSuffix": "!"
@@ -16,7 +16,7 @@
     {
       "layoutId": "body-icon-centered",
       "slots": {
-        "pageNumber": "02",
+        "pageNumber": "",
         "title": "0. The Shift, the signal",
         "body": "AI agents are replacing single-purpose SaaS tools with autonomous workflows. Founders building point solutions will face extinction by 2026.",
         "iconSlug": "anthropic"
@@ -25,7 +25,7 @@
     {
       "layoutId": "body-icon-centered",
       "slots": {
-        "pageNumber": "03",
+        "pageNumber": "",
         "title": "1. CRM, the casualty",
         "body": "Manual data entry and static pipelines die when agents auto-log every interaction. Build an AI-native relationship operating system instead.",
         "iconSlug": "airtable"
@@ -34,7 +34,7 @@
     {
       "layoutId": "body-icon-centered",
       "slots": {
-        "pageNumber": "04",
+        "pageNumber": "",
         "title": "2. Support, the obsolete",
         "body": "Rule-based chatbots and ticket queues collapse against agents that resolve issues end-to-end. Build autonomous resolution infrastructure instead.",
         "iconSlug": "slack"
@@ -43,7 +43,7 @@
     {
       "layoutId": "body-icon-centered",
       "slots": {
-        "pageNumber": "05",
+        "pageNumber": "",
         "title": "3. Scheduling, the victim",
         "body": "Link-sharing schedulers fail when agents negotiate times across time zones and priorities. Build an executive agent with context-aware autonomy.",
         "iconSlug": "calendly"
@@ -52,7 +52,7 @@
     {
       "layoutId": "body-icon-centered",
       "slots": {
-        "pageNumber": "06",
+        "pageNumber": "",
         "title": "4. Research, the replaced",
         "body": "Dashboards requiring human interpretation lose to agents that deliver answers and actions. Build agentic insight generators with source verification.",
         "iconSlug": "langchain"
@@ -61,7 +61,7 @@
     {
       "layoutId": "body-icon-centered",
       "slots": {
-        "pageNumber": "07",
+        "pageNumber": "",
         "title": "5. Projects, the dead",
         "body": "Static task boards rot when agents autonomously plan, delegate, and ship software. Build self-organizing execution systems with memory.",
         "iconSlug": "linear"
@@ -70,11 +70,11 @@
     {
       "layoutId": "cta-display-cta",
       "slots": {
-        "pageNumber": "08",
+        "pageNumber": "",
         "eyebrow": "YOUR MOVE",
         "headline": "Build the Agent Layer",
         "subline": "Stop building tools AI will swallow. Start building the autonomous infrastructure that replaces them.",
-        "buttonLabel": "Save this post",
+        "buttonLabel": "",
         "handle": ""
       }
     }

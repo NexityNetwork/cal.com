@@ -12,7 +12,7 @@
         "shoutLine1": "DX IS THE",
         "shoutLine2": "ONLY REAL MOAT",
         "subQuestion": "Why does developer experience beat every other competitive advantage?",
-        "pageOf": "01 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -32,7 +32,7 @@
         "statLabel3": "ADOPTION",
         "statValue3": "3x",
         "swipeNote": "Next take →",
-        "pageOf": "02 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -52,7 +52,7 @@
         "statLabel3": "NPS",
         "statValue3": "+35",
         "swipeNote": "More proof →",
-        "pageOf": "03 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -72,7 +72,7 @@
         "statLabel3": "LOVE",
         "statValue3": "99%",
         "swipeNote": "Swipe on →",
-        "pageOf": "04 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -92,7 +92,7 @@
         "statLabel3": "TRUST",
         "statValue3": "10x",
         "swipeNote": "Still going →",
-        "pageOf": "05 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -112,7 +112,7 @@
         "statLabel3": "HYPE",
         "statValue3": "MAX",
         "swipeNote": "Almost there →",
-        "pageOf": "06 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -132,7 +132,7 @@
         "statLabel3": "COST",
         "statValue3": "$0",
         "swipeNote": "Final thought →",
-        "pageOf": "07 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -143,10 +143,10 @@
         "ctaLine1": "START WITH",
         "ctaLine2": "THE DEVS",
         "ctaBody": "Download the DX audit checklist and turn your tooling into your biggest competitive advantage.",
-        "btnPrimary": "GRAB THE LIST",
-        "btnGhost": "Share with a friend",
+        "btnPrimary": "",
+        "btnGhost": "",
         "footerMeta": "Built for devs",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

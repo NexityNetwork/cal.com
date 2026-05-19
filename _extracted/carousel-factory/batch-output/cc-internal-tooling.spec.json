@@ -38,7 +38,7 @@
         "b2Title": "Canary releases",
         "b2Body": "Test changes on 5% of traffic and monitor error rates.",
         "domainText": "",
-        "pageOf": "02 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -60,7 +60,7 @@
         "b2Title": "Content ops",
         "b2Body": "Edit records directly without engineering tickets.",
         "domainText": "",
-        "pageOf": "03 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -82,7 +82,7 @@
         "b2Title": "Query speed",
         "b2Body": "Answer product questions in minutes, not days.",
         "domainText": "",
-        "pageOf": "04 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -104,7 +104,7 @@
         "b2Title": "Fast replies",
         "b2Body": "Cut response time with canned snippets and macros.",
         "domainText": "",
-        "pageOf": "05 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -126,7 +126,7 @@
         "b2Title": "Rollback ready",
         "b2Body": "Revert to the last stable build with one click.",
         "domainText": "",
-        "pageOf": "06 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -148,7 +148,7 @@
         "b2Title": "Viral loops",
         "b2Body": "Turn power users into growth channels with credits.",
         "domainText": "",
-        "pageOf": "07 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -160,11 +160,11 @@
         "ctaAccent": "smart tools",
         "ctaItalic": "today",
         "ctaBody": "These six systems create the <em>velocity habit</em> investors want to see. Start with one this week.",
-        "btnPrimary": "Start Building",
-        "btnGhost": "Read More",
+        "btnPrimary": "",
+        "btnGhost": "",
         "signoff": "Happy shipping, stay building",
         "domainText": "",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

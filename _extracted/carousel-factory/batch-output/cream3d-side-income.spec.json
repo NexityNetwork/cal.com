@@ -10,12 +10,12 @@
         "titleLine1": "Six real",
         "titleBold": "income streams",
         "titleLine3": "ship this weekend",
-        "authorInitials": "SF",
-        "authorName": "Solo Foundr",
+        "authorInitials": "",
+        "authorName": "",
         "handle": "",
         "avatarBg1": "#E07A5F",
         "avatarBg2": "#264653",
-        "pageOf": "01 - 08"
+        "pageOf": ""
       }
     },
     {
@@ -28,7 +28,7 @@
         "bodyLine5": "$3K first month",
         "tipLabel": "PRO TIP",
         "tipBody": "Niche down to one job title and solve their exact morning workflow problem.",
-        "pageOf": "02 - 08"
+        "pageOf": ""
       }
     },
     {
@@ -41,7 +41,7 @@
         "bodyLine5": "$2K MRR fast",
         "tipLabel": "PRO TIP",
         "tipBody": "Use Manifest V3 and charge yearly to reduce churn from day one.",
-        "pageOf": "03 - 08"
+        "pageOf": ""
       }
     },
     {
@@ -54,7 +54,7 @@
         "bodyLine5": "Weekend to launch",
         "tipLabel": "PRO TIP",
         "tipBody": "Write the first ten issues before you open paid subs or sponsorships.",
-        "pageOf": "04 - 08"
+        "pageOf": ""
       }
     },
     {
@@ -67,7 +67,7 @@
         "bodyLine5": "$4K month one",
         "tipLabel": "PRO TIP",
         "tipBody": "Bundle a quick video tutorial to justify a premium price point.",
-        "pageOf": "05 - 08"
+        "pageOf": ""
       }
     },
     {
@@ -80,7 +80,7 @@
         "bodyLine5": "$3K in revenue",
         "tipLabel": "PRO TIP",
         "tipBody": "Sell outcomes, not pages. Thirty pages of action beats a hundred of theory.",
-        "pageOf": "06 - 08"
+        "pageOf": ""
       }
     },
     {
@@ -93,7 +93,7 @@
         "bodyLine5": "$5K MRR possible",
         "tipLabel": "PRO TIP",
         "tipBody": "Target a trending job role so your SEO matches active buyer searches.",
-        "pageOf": "07 - 08"
+        "pageOf": ""
       }
     },
     {
@@ -102,7 +102,7 @@
         "tagline": "Real numbers, real weekends. Solo founder revenue starts with one shipped product.",
         "ctaQuestion": "Ready to ship your first income stream ?",
         "handle": "",
-        "pageOf": "08 - 08"
+        "pageOf": ""
       }
     }
   ]

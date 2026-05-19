@@ -34,8 +34,8 @@
         "tag3": "PAID",
         "tag4": "PAID",
         "tag5": "FREE",
-        "swipeLabel": "MEET THEM",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -62,7 +62,7 @@
         "iconSlug4": "openai",
         "iconSlug5": "loom",
         "iconSlug6": "slack",
-        "pageOf": "02 / 08",
+        "pageOf": "",
         "footerNote": "Start with a template"
       }
     },
@@ -90,7 +90,7 @@
         "iconSlug4": "openai",
         "iconSlug5": "loom",
         "iconSlug6": "stripe",
-        "pageOf": "03 / 08",
+        "pageOf": "",
         "footerNote": "Self-host or cloud"
       }
     },
@@ -118,7 +118,7 @@
         "iconSlug4": "openai",
         "iconSlug5": "loom",
         "iconSlug6": "slack",
-        "pageOf": "04 / 08",
+        "pageOf": "",
         "footerNote": "5,000+ app connections"
       }
     },
@@ -146,7 +146,7 @@
         "iconSlug4": "zapier",
         "iconSlug5": "loom",
         "iconSlug6": "github",
-        "pageOf": "05 / 08",
+        "pageOf": "",
         "footerNote": "Includes GPT-4o access"
       }
     },
@@ -174,7 +174,7 @@
         "iconSlug4": "zapier",
         "iconSlug5": "openai",
         "iconSlug6": "slack",
-        "pageOf": "06 / 08",
+        "pageOf": "",
         "footerNote": "Auto transcription built-in"
       }
     },
@@ -202,7 +202,7 @@
         "iconSlug4": "zapier",
         "iconSlug5": "openai",
         "iconSlug6": "github",
-        "pageOf": "07 / 08",
+        "pageOf": "",
         "footerNote": "Import VS Code free"
       }
     },
@@ -216,8 +216,8 @@
         "titleAccent": "10 hours",
         "titleItalic": "every week",
         "body": "Set these six tools up once and watch your deep-work time multiply. Start with Notion, then automate the rest.",
-        "btnPrimary": "Get the stack",
-        "btnGhost": "Save for later",
+        "btnPrimary": "",
+        "btnGhost": "",
         "stackLabel": "the full stack",
         "iconSlug1": "notion",
         "iconSlug2": "cal",
@@ -226,7 +226,7 @@
         "iconSlug5": "loom",
         "iconSlug6": "cursor",
         "signoff": "ship your weekend project",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

@@ -24,7 +24,7 @@
         "role5": "TAKES ALL PAYMENTS",
         "iconSlug6": "vercel",
         "role6": "DEPLOYS TO PROD",
-        "pageOf": "01 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -47,7 +47,7 @@
         "iconSlug4": "github",
         "iconSlug5": "loom",
         "domainText": "",
-        "pageOf": "02 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -70,7 +70,7 @@
         "iconSlug4": "nextdotjs",
         "iconSlug5": "github",
         "domainText": "",
-        "pageOf": "03 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -93,7 +93,7 @@
         "iconSlug4": "vercel",
         "iconSlug5": "raycast",
         "domainText": "",
-        "pageOf": "04 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -116,7 +116,7 @@
         "iconSlug4": "postgresql",
         "iconSlug5": "typescript",
         "domainText": "",
-        "pageOf": "05 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -139,7 +139,7 @@
         "iconSlug4": "notion",
         "iconSlug5": "calendly",
         "domainText": "",
-        "pageOf": "06 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -162,7 +162,7 @@
         "iconSlug4": "supabase",
         "iconSlug5": "linear",
         "domainText": "",
-        "pageOf": "07 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -180,10 +180,10 @@
         "iconSlug4": "supabase",
         "iconSlug5": "stripe",
         "iconSlug6": "vercel",
-        "btnPrimary": "Start Building",
-        "btnGhost": "View Stack",
+        "btnPrimary": "",
+        "btnGhost": "",
         "domainText": "",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

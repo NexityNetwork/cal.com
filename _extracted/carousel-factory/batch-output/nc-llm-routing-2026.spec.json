@@ -29,8 +29,8 @@
         "iconSlug3": "langchain",
         "iconSlug4": "vercel",
         "iconSlug5": "huggingface",
-        "swipeLabel": "DIVE IN",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -58,7 +58,7 @@
         "iconSlug2": "anthropic",
         "iconSlug3": "meta",
         "iconSlug4": "mistral",
-        "pageOf": "02 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -86,7 +86,7 @@
         "iconSlug2": "upstash",
         "iconSlug3": "pinecone",
         "iconSlug4": "cloudflare",
-        "pageOf": "03 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -114,7 +114,7 @@
         "iconSlug2": "googlecloud",
         "iconSlug3": "cloudflare",
         "iconSlug4": "vercel",
-        "pageOf": "04 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -142,7 +142,7 @@
         "iconSlug2": "openai",
         "iconSlug3": "anthropic",
         "iconSlug4": "github",
-        "pageOf": "05 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -170,7 +170,7 @@
         "iconSlug2": "mistral",
         "iconSlug3": "huggingface",
         "iconSlug4": "nvidia",
-        "pageOf": "06 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -198,7 +198,7 @@
         "iconSlug2": "kubernetes",
         "iconSlug3": "grafana",
         "iconSlug4": "prometheus",
-        "pageOf": "07 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -218,11 +218,11 @@
         "iconSlug5": "kubernetes",
         "iconSlug6": "docker",
         "ctaBody": "Stop burning budget on brute-force inference and <em>route smarter</em> with cascading, caching, and elastic scaling today.",
-        "btnPrimary": "Bookmark Now",
-        "btnGhost": "Follow Along",
+        "btnPrimary": "",
+        "btnGhost": "",
         "iconSlug7": "github",
         "iconSlug8": "x",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

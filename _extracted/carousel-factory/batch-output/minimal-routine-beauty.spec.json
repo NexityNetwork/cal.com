@@ -8,7 +8,7 @@
       "layoutId": "cover-minimal-beauty",
       "slots": {
         "handle": "",
-        "author": "ELENA VOSS",
+        "author": "",
         "role": "SKIN SPECIALIST",
         "titleLine1": "5 PRODUCTS",
         "titleLine2": "BEAT",
@@ -20,7 +20,7 @@
       "layoutId": "body-minimal-beauty",
       "slots": {
         "handle": "",
-        "author": "ELENA VOSS",
+        "author": "",
         "number": "00 / 05",
         "title": "EDIT YOUR SHELF",
         "body": "I traded overwhelm for intention. These five essentials deliver everything my skin needs without redundancy or irritation. Simplicity is the ultimate sophistication."
@@ -30,7 +30,7 @@
       "layoutId": "body-minimal-beauty",
       "slots": {
         "handle": "",
-        "author": "ELENA VOSS",
+        "author": "",
         "number": "01 / 05",
         "title": "GENTLE CLEANSE",
         "body": "Start with a non-stripping balm or milk to dissolve SPF and impurities. One thorough cleanse preserves your barrier better than two harsh scrubs ever could."
@@ -40,7 +40,7 @@
       "layoutId": "body-minimal-beauty",
       "slots": {
         "handle": "",
-        "author": "ELENA VOSS",
+        "author": "",
         "number": "02 / 05",
         "title": "HYDRATING TONER",
         "body": "A weightless essence preps skin to receive active ingredients. Think of it as the primer that makes every subsequent layer absorb beautifully and work harder."
@@ -50,7 +50,7 @@
       "layoutId": "body-minimal-beauty",
       "slots": {
         "handle": "",
-        "author": "ELENA VOSS",
+        "author": "",
         "number": "03 / 05",
         "title": "TARGETED SERUM",
         "body": "This is where you treat. Choose one potent formula for brightening or barrier repair. Layering three serums creates conflict; one hero delivers clarity."
@@ -60,7 +60,7 @@
       "layoutId": "body-minimal-beauty",
       "slots": {
         "handle": "",
-        "author": "ELENA VOSS",
+        "author": "",
         "number": "04 / 05",
         "title": "BARRIER CREAM",
         "body": "Lock in moisture with a ceramide-rich cream that mimics your natural lipid layer. It seals every step and shields against environmental stress all day."
@@ -70,7 +70,7 @@
       "layoutId": "body-minimal-beauty",
       "slots": {
         "handle": "",
-        "author": "ELENA VOSS",
+        "author": "",
         "number": "05 / 05",
         "title": "DAILY SHIELD",
         "body": "No routine is complete without broad-spectrum SPF every single morning. It is the final and most important layer for preventing damage and premature aging."
@@ -80,12 +80,12 @@
       "layoutId": "cta-minimal-beauty",
       "slots": {
         "handle": "",
-        "author": "ELENA VOSS",
+        "author": "",
         "role": "SKIN SPECIALIST",
         "eyebrow": "YOUR RITUAL",
         "headline": "START YOUR EDIT",
         "body": "Discover the five-product routine tailored to your skin. Book a personalized consultation today.",
-        "buttonLabel": "BOOK A CONSULT"
+        "buttonLabel": ""
       }
     }
   ]

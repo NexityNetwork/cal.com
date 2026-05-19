@@ -27,8 +27,8 @@
         "iconSlug5": "perplexity",
         "sourceValue": "9 in 10",
         "sourceLabel": "PAGES AIDED",
-        "swipeLabel": "INSIDE",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -63,7 +63,7 @@
         "iconSlug3": "meta",
         "iconSlug4": "anthropic",
         "iconSlug5": "wordpress",
-        "pageOf": "02 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -98,7 +98,7 @@
         "iconSlug3": "xai",
         "iconSlug4": "reddit",
         "iconSlug5": "wordpress",
-        "pageOf": "03 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -133,7 +133,7 @@
         "iconSlug3": "huggingface",
         "iconSlug4": "vercel",
         "iconSlug5": "wordpress",
-        "pageOf": "04 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -168,7 +168,7 @@
         "iconSlug3": "notion",
         "iconSlug4": "slack",
         "iconSlug5": "zoom",
-        "pageOf": "05 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -203,7 +203,7 @@
         "iconSlug3": "github",
         "iconSlug4": "wikipedia",
         "iconSlug5": "arxiv",
-        "pageOf": "06 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -238,7 +238,7 @@
         "iconSlug3": "google",
         "iconSlug4": "anthropic",
         "iconSlug5": "meta",
-        "pageOf": "07 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -251,8 +251,8 @@
         "ctaLine1": "Follow for",
         "ctaHighlight": "AI data",
         "ctaBody": "We break down the numbers behind the synthetic web every week. Join 50K readers.",
-        "btnPrimary": "FOLLOW US",
-        "btnGhost": "READ MORE",
+        "btnPrimary": "",
+        "btnGhost": "",
         "stackLabel": "powered by",
         "iconSlug1": "openai",
         "iconSlug2": "google",
@@ -261,7 +261,7 @@
         "iconSlug5": "perplexity",
         "iconSlug6": "xai",
         "signoff": "stay human out there",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

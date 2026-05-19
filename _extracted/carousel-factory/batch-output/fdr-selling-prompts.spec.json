@@ -7,9 +7,9 @@
     {
       "layoutId": "cover-linkedin-pro",
       "slots": {
-        "author": "Maya Ortiz",
+        "author": "",
         "badgeText": "LINKEDIN CAROUSEL POST",
-        "pageNumber": "1",
+        "pageNumber": "",
         "accentColor": "#4f3df5",
         "headline": "Sell AI Prompts Like Products in 2026",
         "heroSymbol": "🚀",
@@ -21,9 +21,9 @@
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Maya Ortiz",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "2",
+        "pageNumber": "",
         "accentColor": "#4f3df5",
         "title": "Price by Outcome, Not Words",
         "body": "Stop charging $5 for 50 prompts. Bundle by use case and charge $27-$97 for transformation, not text files.",
@@ -36,9 +36,9 @@
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Maya Ortiz",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "3",
+        "pageNumber": "",
         "accentColor": "#4f3df5",
         "title": "Package Prompts as Systems",
         "body": "Sell templates, SOPs, and prompt chains together. Buyers pay for workflow speed, not isolated chat inputs.",
@@ -51,9 +51,9 @@
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Maya Ortiz",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "4",
+        "pageNumber": "",
         "accentColor": "#4f3df5",
         "title": "Sell Where Buyers Already Are",
         "body": "Gumroad, Lemon Squeezy, and X DMs convert best. Avoid crowded marketplaces that bury your listings.",
@@ -66,9 +66,9 @@
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Maya Ortiz",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "5",
+        "pageNumber": "",
         "accentColor": "#4f3df5",
         "title": "Lead With the Aha Moment",
         "body": "Show the before-and-after output in your preview. Proof beats promises when selling invisible tools.",
@@ -81,9 +81,9 @@
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Maya Ortiz",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "6",
+        "pageNumber": "",
         "accentColor": "#4f3df5",
         "title": "Niche Down to Scale Up",
         "body": "Generic prompt packs are commodities now. Win in 2026 by solving one painful job-to-be-done.",
@@ -96,9 +96,9 @@
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Maya Ortiz",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "7",
+        "pageNumber": "",
         "accentColor": "#4f3df5",
         "title": "Own Your Audience First",
         "body": "Collect emails before you launch. One warm list will outsell a hundred cold impressions every time.",
@@ -111,14 +111,14 @@
     {
       "layoutId": "cta-linkedin-pro",
       "slots": {
-        "author": "Maya Ortiz",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "8",
+        "pageNumber": "",
         "accentColor": "#4f3df5",
         "eyebrow": "YOUR TURN?",
         "headline": "Ready to Monetize Your Prompts?",
         "body": "Drop a 🚀 if you're building your first prompt product this month.",
-        "buttonLabel": "FOLLOW FOR MORE",
+        "buttonLabel": "",
         "secondaryLabel": "SHARE THIS POST",
         "handle": ""
       }

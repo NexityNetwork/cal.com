@@ -13,10 +13,10 @@
         "titleLine1": "keep me up",
         "titleUnderline": "at night",
         "titleAccent": "every night",
-        "avatarLetter": "N",
-        "byLine": "by the way",
-        "authorName": "Noah Anton",
-        "authorRole": "founder · late-night writer",
+        "avatarLetter": "",
+        "byLine": "",
+        "authorName": "",
+        "authorRole": "",
         "stickyNote": "here's what scares me most (and what most miss)",
         "intro": "I spent the last year building with AI. These are the <em>real</em> fears—not the hype.",
         "tile1Label": "OpenAI",
@@ -27,8 +27,8 @@
         "iconSlug2": "anthropic",
         "iconSlug3": "cursor",
         "iconSlug4": "vercel",
-        "swipeLabel": "let's go",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -56,13 +56,13 @@
         "insight3Tag": "DEEP",
         "insight3Note": "unsure yet",
         "insight3Pill": "MOAT",
-        "avatarLetter": "N",
-        "authorQuote": "I don't fear AI replacing me. I fear me <em>becoming</em> the API layer.",
+        "avatarLetter": "",
+        "authorQuote": "",
         "iconSlug1": "openai",
         "iconSlug2": "midjourney",
         "iconSlug3": "elevenlabs",
         "iconSlug4": "huggingface",
-        "pageOf": "02 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -90,13 +90,13 @@
         "insight3Tag": "SPEED",
         "insight3Note": "speed wins",
         "insight3Pill": "<200MS",
-        "avatarLetter": "N",
-        "authorQuote": "If your product's special sauce is a <em>system prompt</em>, you don't have sauce.",
+        "avatarLetter": "",
+        "authorQuote": "",
         "iconSlug1": "vercel",
         "iconSlug2": "linear",
         "iconSlug3": "notion",
         "iconSlug4": "figma",
-        "pageOf": "03 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -124,13 +124,13 @@
         "insight3Tag": "OPS",
         "insight3Note": "hire fast",
         "insight3Pill": "24/7",
-        "avatarLetter": "N",
-        "authorQuote": "We're not software businesses anymore. We're <em>arbitrage</em> businesses with better UI.",
+        "avatarLetter": "",
+        "authorQuote": "",
         "iconSlug1": "stripe",
         "iconSlug2": "aws",
         "iconSlug3": "twilio",
         "iconSlug4": "segment",
-        "pageOf": "04 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -158,13 +158,13 @@
         "insight3Tag": "HARD",
         "insight3Note": "paradox of choice",
         "insight3Pill": "DAILY",
-        "avatarLetter": "N",
-        "authorQuote": "I hired builders, not <em>validators</em>. Now I wonder which is which.",
+        "avatarLetter": "",
+        "authorQuote": "",
         "iconSlug1": "github",
         "iconSlug2": "slack",
         "iconSlug3": "notion",
         "iconSlug4": "loom",
-        "pageOf": "05 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -192,13 +192,13 @@
         "insight3Tag": "AHA",
         "insight3Note": "show your work",
         "insight3Pill": "TRUST",
-        "avatarLetter": "N",
-        "authorQuote": "The winners won't have the best model. They'll have the best <em>judgment</em>.",
+        "avatarLetter": "",
+        "authorQuote": "",
         "iconSlug1": "linear",
         "iconSlug2": "figma",
         "iconSlug3": "notion",
         "iconSlug4": "stripe",
-        "pageOf": "06 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -226,13 +226,13 @@
         "insight3Tag": "FOCUS",
         "insight3Note": "not demo day",
         "insight3Pill": "1 USER",
-        "avatarLetter": "N",
-        "authorQuote": "Anxiety is a signal. The trick is aiming it at <em>building</em>, not doomscrolling.",
+        "avatarLetter": "",
+        "authorQuote": "",
         "iconSlug1": "cursor",
         "iconSlug2": "vercel",
         "iconSlug3": "github",
         "iconSlug4": "slack",
-        "pageOf": "07 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -252,10 +252,10 @@
         "iconSlug5": "linear",
         "iconSlug6": "stripe",
         "ctaBody": "I write about the messy middle of building with AI. <em>Follow</em> if you're in it too.",
-        "btnPrimary": "Save Post",
-        "btnGhost": "follow for more",
+        "btnPrimary": "",
+        "btnGhost": "",
         "signoff": "sleep well, build better ✱",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

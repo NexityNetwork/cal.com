@@ -30,8 +30,8 @@
         "iconSlug3": "git",
         "iconSlug4": "vim",
         "iconSlug5": "github",
-        "swipeLabel": "EXEC",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -66,7 +66,7 @@
         "iconSlug2": "linux",
         "iconSlug3": "ubuntu",
         "iconSlug4": "bash",
-        "pageOf": "02 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -101,7 +101,7 @@
         "iconSlug2": "linux",
         "iconSlug3": "gnu",
         "iconSlug4": "nginx",
-        "pageOf": "03 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -136,7 +136,7 @@
         "iconSlug2": "linux",
         "iconSlug3": "git",
         "iconSlug4": "alpine",
-        "pageOf": "04 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -171,7 +171,7 @@
         "iconSlug2": "linux",
         "iconSlug3": "vim",
         "iconSlug4": "neovim",
-        "pageOf": "05 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -206,7 +206,7 @@
         "iconSlug2": "linux",
         "iconSlug3": "prometheus",
         "iconSlug4": "grafana",
-        "pageOf": "06 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -241,7 +241,7 @@
         "iconSlug2": "linux",
         "iconSlug3": "github",
         "iconSlug4": "git",
-        "pageOf": "07 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -261,10 +261,10 @@
         "iconSlug5": "vim",
         "iconSlug6": "neovim",
         "ctaBody": "Bookmark these 6 commands so you can <em>exec, inspect, and diff</em> your way through any production fire.",
-        "btnPrimary": "Bookmark Now",
-        "btnGhost": "Follow @containerops",
+        "btnPrimary": "",
+        "btnGhost": "",
         "signoff": "ship fast, debug faster",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

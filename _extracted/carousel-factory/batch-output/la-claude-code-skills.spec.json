@@ -19,8 +19,8 @@
         "iconSlug4": "vitest",
         "iconSlug5": "gitlab",
         "iconSlug6": "docker",
-        "swipeLabel": "SEE LIST",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -42,7 +42,7 @@
         "metric2Value": "3x",
         "metric3Label": "COST",
         "metric3Value": "-40%",
-        "pageOf": "02 / 08",
+        "pageOf": "",
         "footerNote": "master context engineering"
       }
     },
@@ -65,7 +65,7 @@
         "metric2Value": "-5h",
         "metric3Label": "RISK",
         "metric3Value": "low",
-        "pageOf": "03 / 08",
+        "pageOf": "",
         "footerNote": "git automation flow"
       }
     },
@@ -88,7 +88,7 @@
         "metric2Value": "5 min",
         "metric3Label": "STD",
         "metric3Value": "open",
-        "pageOf": "04 / 08",
+        "pageOf": "",
         "footerNote": "model context protocol"
       }
     },
@@ -111,7 +111,7 @@
         "metric2Value": "-60%",
         "metric3Label": "SPEED",
         "metric3Value": "2x",
-        "pageOf": "05 / 08",
+        "pageOf": "",
         "footerNote": "test driven quality"
       }
     },
@@ -134,7 +134,7 @@
         "metric2Value": "zero",
         "metric3Label": "TIME",
         "metric3Value": "-8h",
-        "pageOf": "06 / 08",
+        "pageOf": "",
         "footerNote": "safe refactoring moves"
       }
     },
@@ -157,7 +157,7 @@
         "metric2Value": "Docker",
         "metric3Label": "UPTIME",
         "metric3Value": "99.9%",
-        "pageOf": "07 / 08",
+        "pageOf": "",
         "footerNote": "continuous deploy mode"
       }
     },
@@ -170,15 +170,15 @@
         "ctaLine1": "Master Claude",
         "ctaCallout": "today",
         "ctaBody": "Start with one skill this week and compound gains before Q3. Your future self will thank you.",
-        "btnPrimary": "Get Started",
-        "btnGhost": "Read Docs",
+        "btnPrimary": "",
+        "btnGhost": "",
         "iconSlug1": "anthropic",
         "iconSlug2": "github",
         "iconSlug3": "visualstudiocode",
         "iconSlug4": "vitest",
         "iconSlug5": "gitlab",
         "iconSlug6": "docker",
-        "pageOf": "08 / 08",
+        "pageOf": "",
         "footerNote": "level up now"
       }
     }

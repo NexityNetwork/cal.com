@@ -34,8 +34,8 @@
         "tag3": "DATABASE",
         "tag4": "AUTOMATION",
         "tag5": "PAYMENTS",
-        "swipeLabel": "SEE ALL",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -62,7 +62,7 @@
         "iconSlug4": "make",
         "iconSlug5": "stripe",
         "iconSlug6": "crisp",
-        "pageOf": "02 / 08",
+        "pageOf": "",
         "footerNote": "Zero engineers required"
       }
     },
@@ -90,7 +90,7 @@
         "iconSlug4": "make",
         "iconSlug5": "stripe",
         "iconSlug6": "crisp",
-        "pageOf": "03 / 08",
+        "pageOf": "",
         "footerNote": "No backend needed"
       }
     },
@@ -118,7 +118,7 @@
         "iconSlug4": "make",
         "iconSlug5": "stripe",
         "iconSlug6": "crisp",
-        "pageOf": "04 / 08",
+        "pageOf": "",
         "footerNote": "Backend in minutes"
       }
     },
@@ -146,7 +146,7 @@
         "iconSlug4": "airtable",
         "iconSlug5": "stripe",
         "iconSlug6": "crisp",
-        "pageOf": "05 / 08",
+        "pageOf": "",
         "footerNote": "Automate every task"
       }
     },
@@ -174,7 +174,7 @@
         "iconSlug4": "airtable",
         "iconSlug5": "make",
         "iconSlug6": "crisp",
-        "pageOf": "06 / 08",
+        "pageOf": "",
         "footerNote": "Revenue on autopilot"
       }
     },
@@ -202,7 +202,7 @@
         "iconSlug4": "airtable",
         "iconSlug5": "make",
         "iconSlug6": "stripe",
-        "pageOf": "07 / 08",
+        "pageOf": "",
         "footerNote": "Customers stay happy"
       }
     },
@@ -216,8 +216,8 @@
         "titleAccent": "no-code SaaS",
         "titleItalic": "this weekend",
         "body": "Combine these six tools and launch a revenue-ready product without writing a single line of code.",
-        "btnPrimary": "Start Building",
-        "btnGhost": "Save Stack",
+        "btnPrimary": "",
+        "btnGhost": "",
         "stackLabel": "the full stack",
         "iconSlug1": "webflow",
         "iconSlug2": "memberstack",
@@ -226,7 +226,7 @@
         "iconSlug5": "stripe",
         "iconSlug6": "crisp",
         "signoff": "ship your weekend project",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

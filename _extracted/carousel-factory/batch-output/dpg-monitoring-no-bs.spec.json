@@ -11,7 +11,7 @@
         "pillLeft": "SRE",
         "pillRight": "monitoring",
         "subline": "Production monitoring built for serious SRE teams",
-        "pageOf": "01 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -23,7 +23,7 @@
         "slideTitle": "Time-series metrics done right",
         "slideSubtitle": "Cut through dashboard noise with PromQL and alerts that trigger on real thresholds.",
         "domainText": "",
-        "pageOf": "02 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -35,7 +35,7 @@
         "slideTitle": "Visualize everything in one place",
         "slideSubtitle": "Stop tab-switching during outages with customizable panels that show the signal, not noise.",
         "domainText": "",
-        "pageOf": "03 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -47,7 +47,7 @@
         "slideTitle": "On-call that respects your sleep",
         "slideSubtitle": "Escalation policies and event intelligence reduce false positives and prevent alert fatigue daily.",
         "domainText": "",
-        "pageOf": "04 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -59,7 +59,7 @@
         "slideTitle": "One platform for every layer",
         "slideSubtitle": "Out-of-the-box integrations mean less configuration time and more shipping reliable features fast.",
         "domainText": "",
-        "pageOf": "05 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -71,7 +71,7 @@
         "slideTitle": "Explore unknowns without blind spots",
         "slideSubtitle": "Slice real-time event data by user ID or build version to find hidden bottlenecks instantly.",
         "domainText": "",
-        "pageOf": "06 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -83,7 +83,7 @@
         "slideTitle": "Find needles in log haystacks",
         "slideSubtitle": "Powerful SPL queries transform raw text into security and operational insights within seconds.",
         "domainText": "",
-        "pageOf": "07 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -94,7 +94,7 @@
         "headlineMain": "Go monitor",
         "headlineGlow": "something",
         "sublineItalic": "Pick one tool, implement it properly, and stop flying blind through your next incident.",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

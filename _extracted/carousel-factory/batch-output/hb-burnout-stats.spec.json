@@ -27,8 +27,8 @@
         "iconSlug5": "deloitte",
         "sourceValue": "2x faster",
         "sourceLabel": "BURNOUT RATE",
-        "swipeLabel": "INSIDE",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -63,7 +63,7 @@
         "iconSlug3": "linear",
         "iconSlug4": "notion",
         "iconSlug5": "slack",
-        "pageOf": "02 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -98,7 +98,7 @@
         "iconSlug3": "linkedin",
         "iconSlug4": "gallup",
         "iconSlug5": "deloitte",
-        "pageOf": "03 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -133,7 +133,7 @@
         "iconSlug3": "aws",
         "iconSlug4": "gitlab",
         "iconSlug5": "slack",
-        "pageOf": "04 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -168,7 +168,7 @@
         "iconSlug3": "figma",
         "iconSlug4": "linear",
         "iconSlug5": "slack",
-        "pageOf": "05 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -203,7 +203,7 @@
         "iconSlug3": "rippling",
         "iconSlug4": "gusto",
         "iconSlug5": "deel",
-        "pageOf": "06 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -238,7 +238,7 @@
         "iconSlug3": "blind",
         "iconSlug4": "levels-fyi",
         "iconSlug5": "indeed",
-        "pageOf": "07 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -251,8 +251,8 @@
         "ctaLine1": "Protect your",
         "ctaHighlight": "senior talent",
         "ctaBody": "Burnout is a data problem before it becomes a retention crisis. Audit the signals.",
-        "btnPrimary": "Get Audit",
-        "btnGhost": "Read Report",
+        "btnPrimary": "",
+        "btnGhost": "",
         "stackLabel": "powered by",
         "iconSlug1": "slack",
         "iconSlug2": "notion",
@@ -261,7 +261,7 @@
         "iconSlug5": "datadog",
         "iconSlug6": "aws",
         "signoff": "see you next week",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

@@ -20,8 +20,8 @@
         "iconSlug2": "webflow",
         "iconSlug3": "framer",
         "iconSlug4": "sketch",
-        "swipeLabel": "OPEN",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -49,7 +49,7 @@
         "iconSlug3": "framer",
         "iconSlug4": "sketch",
         "iconSlug5": "adobe",
-        "pageOf": "02 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -77,7 +77,7 @@
         "iconSlug3": "stripe",
         "iconSlug4": "notion",
         "iconSlug5": "slack",
-        "pageOf": "03 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -105,7 +105,7 @@
         "iconSlug3": "sketch",
         "iconSlug4": "invision",
         "iconSlug5": "adobe",
-        "pageOf": "04 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -133,7 +133,7 @@
         "iconSlug3": "webflow",
         "iconSlug4": "copyai",
         "iconSlug5": "framer",
-        "pageOf": "05 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -161,7 +161,7 @@
         "iconSlug3": "framer",
         "iconSlug4": "shopify",
         "iconSlug5": "stripe",
-        "pageOf": "06 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -189,7 +189,7 @@
         "iconSlug3": "visa",
         "iconSlug4": "mastercard",
         "iconSlug5": "apple",
-        "pageOf": "07 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -201,8 +201,8 @@
         "ctaStamp": "SAVE THIS",
         "ctaOutline": "GUIDE",
         "ctaBody": "Apply these six tricks to your next landing page and watch conversions climb within forty-eight hours.",
-        "btnPrimary": "FOLLOW US",
-        "btnGhost": "SHARE POST",
+        "btnPrimary": "",
+        "btnGhost": "",
         "stackLabel": "the design stack",
         "iconSlug1": "figma",
         "iconSlug2": "webflow",
@@ -211,7 +211,7 @@
         "iconSlug5": "notion",
         "iconSlug6": "shopify",
         "signoff": "keep it brutal",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

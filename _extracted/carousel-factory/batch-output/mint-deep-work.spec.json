@@ -10,12 +10,12 @@
         "titleLine1": "The Ultimate",
         "titleLine2": "Guide to",
         "titleBold": "DEEPWORK",
-        "authorInitials": "JD",
-        "authorName": "Jordan Doe",
+        "authorInitials": "",
+        "authorName": "",
         "handle": "",
         "avatarBg1": "#37474f",
         "avatarBg2": "#e2ffed",
-        "pageOf": "01 - 08"
+        "pageOf": ""
       }
     },
     {
@@ -26,7 +26,7 @@
         "bodyLine3": "blocks first",
         "bodyLine4": "before any",
         "bodyLine5": "meetings start",
-        "pageOf": "02 - 08"
+        "pageOf": ""
       }
     },
     {
@@ -37,7 +37,7 @@
         "bodyLine3": "same headphones",
         "bodyLine4": "same playlist",
         "bodyLine5": "every day",
-        "pageOf": "03 - 08"
+        "pageOf": ""
       }
     },
     {
@@ -48,7 +48,7 @@
         "bodyLine3": "another room",
         "bodyLine4": "during every",
         "bodyLine5": "focused session",
-        "pageOf": "04 - 08"
+        "pageOf": ""
       }
     },
     {
@@ -59,7 +59,7 @@
         "bodyLine3": "five minute",
         "bodyLine4": "warmup routine",
         "bodyLine5": "without fail",
-        "pageOf": "05 - 08"
+        "pageOf": ""
       }
     },
     {
@@ -70,7 +70,7 @@
         "bodyLine3": "to your",
         "bodyLine4": "peak energy",
         "bodyLine5": "morning hours",
-        "pageOf": "06 - 08"
+        "pageOf": ""
       }
     },
     {
@@ -81,18 +81,18 @@
         "bodyLine3": "with a",
         "bodyLine4": "shutdown ritual",
         "bodyLine5": "to disconnect",
-        "pageOf": "07 - 08"
+        "pageOf": ""
       }
     },
     {
       "layoutId": "cta-mint-condensed",
       "slots": {
-        "authorInitials": "JD",
-        "authorName": "Jordan Doe",
+        "authorInitials": "",
+        "authorName": "",
         "handle": "",
         "avatarBg1": "#37474f",
         "avatarBg2": "#e2ffed",
-        "pageOf": "08 - 08",
+        "pageOf": "",
         "tagline": "Helping creatives build focused workflows that scale.",
         "ctaQuestion": "Want to master deep work ?"
       }

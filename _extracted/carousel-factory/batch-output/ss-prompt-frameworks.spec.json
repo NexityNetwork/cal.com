@@ -20,8 +20,8 @@
         "iconSlug2": "anthropic",
         "iconSlug3": "perplexity",
         "iconSlug4": "langchain",
-        "swipeLabel": "OPEN",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -49,7 +49,7 @@
         "iconSlug3": "perplexity",
         "iconSlug4": "langchain",
         "iconSlug5": "github",
-        "pageOf": "02 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -77,7 +77,7 @@
         "iconSlug3": "perplexity",
         "iconSlug4": "notion",
         "iconSlug5": "github",
-        "pageOf": "03 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -105,7 +105,7 @@
         "iconSlug3": "langchain",
         "iconSlug4": "vercel",
         "iconSlug5": "replit",
-        "pageOf": "04 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -133,7 +133,7 @@
         "iconSlug3": "anthropic",
         "iconSlug4": "pinecone",
         "iconSlug5": "supabase",
-        "pageOf": "05 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -161,7 +161,7 @@
         "iconSlug3": "anthropic",
         "iconSlug4": "vercel",
         "iconSlug5": "docker",
-        "pageOf": "06 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -189,7 +189,7 @@
         "iconSlug3": "anthropic",
         "iconSlug4": "vercel",
         "iconSlug5": "notion",
-        "pageOf": "07 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -201,8 +201,8 @@
         "ctaStamp": "SAVE THIS",
         "ctaOutline": "GUIDE",
         "ctaBody": "Bookmark this carousel and share it with your team. Which framework will you deploy first? Drop a comment below.",
-        "btnPrimary": "FOLLOW US",
-        "btnGhost": "SHARE POST",
+        "btnPrimary": "",
+        "btnGhost": "",
         "stackLabel": "the full stack",
         "iconSlug1": "openai",
         "iconSlug2": "anthropic",
@@ -211,7 +211,7 @@
         "iconSlug5": "github",
         "iconSlug6": "vercel",
         "signoff": "happy building in 2026",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

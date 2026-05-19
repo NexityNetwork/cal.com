@@ -19,13 +19,13 @@
         "preview1": "Why the VC playbook is no longer the only path",
         "preview2": "The AI stack that replaces a six-person team",
         "preview3": "How to charge early and sleep soundly",
-        "avatarLetter": "J",
-        "authorName": "Jordan Marks",
-        "authorRole": "indie founder · 5 products shipped",
+        "avatarLetter": "",
+        "authorName": "",
+        "authorRole": "",
         "tag1": "FOUNDER",
         "tag2": "2026",
-        "swipeLabel": "Read the issue",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -55,7 +55,7 @@
         "iconSlug2": "vercel",
         "iconSlug3": "stripe",
         "iconSlug4": "linear",
-        "pageOf": "02 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -85,7 +85,7 @@
         "iconSlug2": "github",
         "iconSlug3": "notion",
         "iconSlug4": "zapier",
-        "pageOf": "03 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -115,7 +115,7 @@
         "iconSlug2": "convertkit",
         "iconSlug3": "loom",
         "iconSlug4": "gumroad",
-        "pageOf": "04 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -145,7 +145,7 @@
         "iconSlug2": "paddle",
         "iconSlug3": "calcom",
         "iconSlug4": "mailchimp",
-        "pageOf": "05 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -175,7 +175,7 @@
         "iconSlug2": "readwise",
         "iconSlug3": "spotify",
         "iconSlug4": "arc",
-        "pageOf": "06 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -205,7 +205,7 @@
         "iconSlug2": "indiehackers",
         "iconSlug3": "substack",
         "iconSlug4": "github",
-        "pageOf": "07 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -223,10 +223,10 @@
         "iconSlug3": "notion",
         "iconSlug4": "twitter",
         "ctaBody": "Money and meaning aren't opposites. <em>Build small, charge fairly, and own the work.</em>",
-        "btnPrimary": "Save Post",
-        "btnGhost": "Follow along",
+        "btnPrimary": "",
+        "btnGhost": "",
         "signoff": "more essays weekly",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

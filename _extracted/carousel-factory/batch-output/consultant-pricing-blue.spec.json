@@ -13,9 +13,9 @@
         "sub1": "For pricing your",
         "sub2": "consulting work right",
         "strip": "GET PAID WHAT YOU'RE WORTH",
-        "authorInitials": "AL",
-        "authorName": "Alex Lane",
-        "authorRole": "Consultant"
+        "authorInitials": "",
+        "authorName": "",
+        "authorRole": ""
       }
     },
     {
@@ -28,9 +28,9 @@
         "title": "Price Based on Client Value",
         "stripText": "ANCHOR ON OUTCOMES",
         "body": "Stop tracking hours. Price based on the business outcome your client receives. When they win big, you earn more without penalty for efficiency.",
-        "authorInitials": "AL",
-        "authorName": "Alex Lane",
-        "authorRole": "Consultant"
+        "authorInitials": "",
+        "authorName": "",
+        "authorRole": ""
       }
     },
     {
@@ -43,9 +43,9 @@
         "title": "Productize Your Core Service",
         "stripText": "PACKAGED FOR CLARITY",
         "body": "Bundle your process into a fixed-scope deliverable with a set price. Clients love clarity, and you escape the hourly trap forever.",
-        "authorInitials": "AL",
-        "authorName": "Alex Lane",
-        "authorRole": "Consultant"
+        "authorInitials": "",
+        "authorName": "",
+        "authorRole": ""
       }
     },
     {
@@ -58,9 +58,9 @@
         "title": "Lock In Monthly Retainers",
         "stripText": "PREDICTABLE REVENUE",
         "body": "Charge a monthly fee for ongoing access to your expertise. It smooths cash flow and builds long-term client relationships.",
-        "authorInitials": "AL",
-        "authorName": "Alex Lane",
-        "authorRole": "Consultant"
+        "authorInitials": "",
+        "authorName": "",
+        "authorRole": ""
       }
     },
     {
@@ -73,9 +73,9 @@
         "title": "Offer Good Better Best Tiers",
         "stripText": "GOOD BETTER BEST",
         "body": "Offer three options. Most buyers pick the middle tier, while the anchor makes your preferred price feel like a smart choice.",
-        "authorInitials": "AL",
-        "authorName": "Alex Lane",
-        "authorRole": "Consultant"
+        "authorInitials": "",
+        "authorName": "",
+        "authorRole": ""
       }
     },
     {
@@ -88,9 +88,9 @@
         "title": "Reverse Engineer Your Income Goal",
         "stripText": "START WITH THE GOAL",
         "body": "Decide your annual income and work backwards to project fees. This ensures every engagement pushes you toward your real target.",
-        "authorInitials": "AL",
-        "authorName": "Alex Lane",
-        "authorRole": "Consultant"
+        "authorInitials": "",
+        "authorName": "",
+        "authorRole": ""
       }
     },
     {
@@ -103,9 +103,9 @@
         "title": "Collect Deposits Before You Start",
         "stripText": "CASH FLOW FIRST",
         "body": "Require a deposit before work begins. It filters serious clients and protects your time from scope creep or late payments.",
-        "authorInitials": "AL",
-        "authorName": "Alex Lane",
-        "authorRole": "Consultant"
+        "authorInitials": "",
+        "authorName": "",
+        "authorRole": ""
       }
     },
     {
@@ -116,10 +116,10 @@
         "eyebrow": "YOUR TURN",
         "headline": "Price with confidence",
         "body": "Ready to stop undercharging and start scaling? Book a free strategy call today.",
-        "buttonLabel": "Book a call",
-        "authorInitials": "AL",
-        "authorName": "Alex Lane",
-        "authorRole": "Consultant"
+        "buttonLabel": "",
+        "authorInitials": "",
+        "authorName": "",
+        "authorRole": ""
       }
     }
   ]

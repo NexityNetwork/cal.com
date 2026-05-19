@@ -14,15 +14,15 @@
         "subtitle": "Five quiet shifts that redesigned my workday around focus, rest, and honest output.",
         "ctaLabel": "Read below",
         "handle": "",
-        "author": "Slow Foundry",
+        "author": "",
         "slideCount": "5"
       }
     },
     {
       "layoutId": "body-terracotta",
       "slots": {
-        "author": "Slow Foundry",
-        "pageOf": "1/6",
+        "author": "",
+        "pageOf": "",
         "number": "01",
         "numberLabel": "Insight",
         "titleMain": "Measure",
@@ -34,8 +34,8 @@
     {
       "layoutId": "body-terracotta",
       "slots": {
-        "author": "Slow Foundry",
-        "pageOf": "2/6",
+        "author": "",
+        "pageOf": "",
         "number": "02",
         "numberLabel": "Shift",
         "titleMain": "Map Your",
@@ -47,8 +47,8 @@
     {
       "layoutId": "body-terracotta",
       "slots": {
-        "author": "Slow Foundry",
-        "pageOf": "3/6",
+        "author": "",
+        "pageOf": "",
         "number": "03",
         "numberLabel": "Shift",
         "titleMain": "Protect The",
@@ -60,8 +60,8 @@
     {
       "layoutId": "body-terracotta",
       "slots": {
-        "author": "Slow Foundry",
-        "pageOf": "4/6",
+        "author": "",
+        "pageOf": "",
         "number": "04",
         "numberLabel": "Shift",
         "titleMain": "Batch The",
@@ -73,8 +73,8 @@
     {
       "layoutId": "body-terracotta",
       "slots": {
-        "author": "Slow Foundry",
-        "pageOf": "5/6",
+        "author": "",
+        "pageOf": "",
         "number": "05",
         "numberLabel": "Shift",
         "titleMain": "Schedule",
@@ -86,8 +86,8 @@
     {
       "layoutId": "body-terracotta",
       "slots": {
-        "author": "Slow Foundry",
-        "pageOf": "6/6",
+        "author": "",
+        "pageOf": "",
         "number": "06",
         "numberLabel": "Shift",
         "titleMain": "Close With",
@@ -99,13 +99,13 @@
     {
       "layoutId": "cta-terracotta",
       "slots": {
-        "author": "Slow Foundry",
-        "pageOf": "8/8",
+        "author": "",
+        "pageOf": "",
         "eyebrow": "YOUR TURN",
         "headlineMain": "Start",
         "headlineItalic": "right now",
         "body": "Pick one shift to try this week. Small changes compound into a calmer, more sustainable work life.",
-        "buttonLabel": "Save this post",
+        "buttonLabel": "",
         "handle": ""
       }
     }

@@ -7,7 +7,7 @@
     {
       "layoutId": "cover-display-cta",
       "slots": {
-        "pageNumber": "01",
+        "pageNumber": "",
         "headlineLine1": "Orchestrating 12 Agents",
         "headlineLine2": "In Production",
         "accentSuffix": "."
@@ -16,7 +16,7 @@
     {
       "layoutId": "body-icon-centered",
       "slots": {
-        "pageNumber": "02",
+        "pageNumber": "",
         "title": "1. LangChain, the conductor",
         "body": "We use LangGraph to route tasks between agents. State machines handle retries, branching, and fan-out without fragile if-else chains.",
         "iconSlug": "langchain",
@@ -26,7 +26,7 @@
     {
       "layoutId": "body-icon-centered",
       "slots": {
-        "pageNumber": "03",
+        "pageNumber": "",
         "title": "2. Postgres, the memory layer",
         "body": "Every agent writes checkpoints to a shared Postgres schema. This gives us observability, time-travel debugging, and exactly-once execution guarantees.",
         "iconSlug": "postgresql",
@@ -36,7 +36,7 @@
     {
       "layoutId": "body-icon-centered",
       "slots": {
-        "pageNumber": "04",
+        "pageNumber": "",
         "title": "3. Redis, the traffic cop",
         "body": "Redis streams queue agent tasks and rate-limit external APIs. We set TTLs on locks to prevent zombie agents from holding resources.",
         "iconSlug": "redis",
@@ -46,7 +46,7 @@
     {
       "layoutId": "body-icon-centered",
       "slots": {
-        "pageNumber": "05",
+        "pageNumber": "",
         "title": "4. Docker, the isolation layer",
         "body": "Each agent runs in its own container with resource limits. One rogue loop only crashes its pod, not the entire swarm.",
         "iconSlug": "docker",
@@ -56,7 +56,7 @@
     {
       "layoutId": "body-icon-centered",
       "slots": {
-        "pageNumber": "06",
+        "pageNumber": "",
         "title": "5. Slack, the human loop",
         "body": "When confidence scores drop below 0.8, agents post to Slack and pause. Humans approve, edit, or kill the job in thread.",
         "iconSlug": "slack",
@@ -66,7 +66,7 @@
     {
       "layoutId": "body-icon-centered",
       "slots": {
-        "pageNumber": "07",
+        "pageNumber": "",
         "title": "6. Anthropic, the model brain",
         "body": "We shard long context across Claude instances and merge outputs. The gotcha: tool schemas must match exactly or agents hallucinate calls.",
         "iconSlug": "anthropic",
@@ -76,11 +76,11 @@
     {
       "layoutId": "cta-display-cta",
       "slots": {
-        "pageNumber": "08",
+        "pageNumber": "",
         "eyebrow": "YOUR MOVE",
         "headline": "Build Your Swarm",
         "subline": "Save this carousel and DM 'stack' for our agent infra playbook.",
-        "buttonLabel": "Save this post",
+        "buttonLabel": "",
         "handle": ""
       }
     }

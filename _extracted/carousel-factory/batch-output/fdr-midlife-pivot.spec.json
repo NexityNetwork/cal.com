@@ -13,10 +13,10 @@
         "titleLine1": "I pivoted",
         "titleUnderline": "to AI",
         "titleAccent": "at forty-two",
-        "avatarLetter": "M",
-        "byLine": "from the inside",
-        "authorName": "Marcus Hale",
-        "authorRole": "former VP · indie founder",
+        "avatarLetter": "",
+        "byLine": "",
+        "authorName": "",
+        "authorRole": "",
         "stickyNote": "here's what I unlearned and rebuilt",
         "intro": "I spent fifteen years climbing the corporate ladder, then <em>burned the whole map</em> to build with AI.",
         "tile1Label": "OpenAI",
@@ -27,8 +27,8 @@
         "iconSlug2": "cursor",
         "iconSlug3": "vercel",
         "iconSlug4": "stripe",
-        "swipeLabel": "swipe through",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -56,13 +56,13 @@
         "insight3Tag": "HUMBLE",
         "insight3Note": "ego check",
         "insight3Pill": "DAY 9",
-        "avatarLetter": "M",
-        "authorQuote": "I had to become a beginner again, and <em>it stung</em>.",
+        "avatarLetter": "",
+        "authorQuote": "",
         "iconSlug1": "notion",
         "iconSlug2": "slack",
         "iconSlug3": "linear",
         "iconSlug4": "figma",
-        "pageOf": "02 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -90,13 +90,13 @@
         "insight3Tag": "SHIP",
         "insight3Note": "done beats perfect",
         "insight3Pill": "+47 USERS",
-        "avatarLetter": "M",
-        "authorQuote": "I built my first MVP in a weekend, something that <em>used to take quarters</em>.",
+        "avatarLetter": "",
+        "authorQuote": "",
         "iconSlug1": "cursor",
         "iconSlug2": "vercel",
         "iconSlug3": "github",
         "iconSlug4": "openai",
-        "pageOf": "03 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -124,13 +124,13 @@
         "insight3Tag": "LEAN",
         "insight3Note": "brutal cuts",
         "insight3Pill": "-$400",
-        "avatarLetter": "M",
-        "authorQuote": "Nothing focuses the mind like watching your <em>bank account shrink</em>.",
+        "avatarLetter": "",
+        "authorQuote": "",
         "iconSlug1": "stripe",
         "iconSlug2": "mercury",
         "iconSlug3": "loom",
         "iconSlug4": "notion",
-        "pageOf": "04 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -158,13 +158,13 @@
         "insight3Tag": "TRIBE",
         "insight3Note": "find your people",
         "insight3Pill": "NEW",
-        "avatarLetter": "M",
-        "authorQuote": "I had to kill the old me to <em>make room</em> for who I'm becoming.",
+        "avatarLetter": "",
+        "authorQuote": "",
         "iconSlug1": "linkedin",
         "iconSlug2": "twitter",
         "iconSlug3": "discord",
         "iconSlug4": "slack",
-        "pageOf": "05 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -192,13 +192,13 @@
         "insight3Tag": "NARR",
         "insight3Note": "words are leverage",
         "insight3Pill": "COPY",
-        "avatarLetter": "M",
-        "authorQuote": "Experience isn't baggage, it's <em>fuel</em> when you finally find the right fire.",
+        "avatarLetter": "",
+        "authorQuote": "",
         "iconSlug1": "gmail",
         "iconSlug2": "notion",
         "iconSlug3": "figma",
         "iconSlug4": "webflow",
-        "pageOf": "06 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -226,13 +226,13 @@
         "insight3Tag": "HOPE",
         "insight3Note": "finally alive",
         "insight3Pill": "YEAR 1",
-        "avatarLetter": "M",
-        "authorQuote": "If you're waiting for permission to start over, <em>this is it</em>.",
+        "avatarLetter": "",
+        "authorQuote": "",
         "iconSlug1": "linear",
         "iconSlug2": "vercel",
         "iconSlug3": "cursor",
         "iconSlug4": "stripe",
-        "pageOf": "07 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -252,10 +252,10 @@
         "iconSlug5": "notion",
         "iconSlug6": "linear",
         "ctaBody": "I write weekly about unlearning corporate habits and <em>building in public</em> with AI.",
-        "btnPrimary": "Save Post",
-        "btnGhost": "follow for more",
+        "btnPrimary": "",
+        "btnGhost": "",
         "signoff": "see you next monday ✱",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

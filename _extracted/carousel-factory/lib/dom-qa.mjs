@@ -70,6 +70,7 @@ export async function renderAndQa(htmls, outDir, opts = {}) {
       try {
         await page.setContent(html, { waitUntil: "networkidle" });
         await page.evaluate(() => document.fonts.ready);
+        await page.evaluate(stripEmptyDecorativesDom);
 
         // 1. Screenshot
         const name = `slide-${String(idx + 1).padStart(2, "0")}.png`;
@@ -118,10 +119,47 @@ export async function renderAndQa(htmls, outDir, opts = {}) {
   }
 }
 
+// ─── Browser-side: strip decorative containers left empty after slot kills ──
+// Runs inside page.evaluate(). Removes identity/pagination/button bubbles that
+// became empty when their slot text was killed (handle, author, pageOf, etc).
+// Multi-pass inside-out so nested empties cascade up.
+/* eslint-disable */
+function stripEmptyDecorativesDom() {
+  const CLASSES = [
+    // identity
+    "handle", "handle-text", "brand", "brand-pill", "brand-tag", "tag",
+    // buttons
+    "btn", "btn-ghost", "btn-primary", "btn-row", "button", "button-label", "cta-btn",
+    // pagination / swipe
+    "page-num", "pg", "pagination", "page-of", "page-label", "page-badge",
+    "swipe", "swipe-label",
+    // author
+    "byline", "author", "author-bar", "author-card", "author-info",
+    "author-sticky-row", "author-name", "author-role",
+    "avatar", "avatar-letter",
+    // arrows that may sit standalone
+    "arr",
+  ];
+  const SEPARATOR_RE = /[→←↑↓•·|\/\s]/g;
+  let removed = true;
+  let safety = 12;
+  while (removed && safety-- > 0) {
+    removed = false;
+    for (const cls of CLASSES) {
+      document.querySelectorAll("." + cls).forEach((el) => {
+        const text = (el.textContent || "").replace(SEPARATOR_RE, "");
+        if (text === "") {
+          el.remove();
+          removed = true;
+        }
+      });
+    }
+  }
+}
+
 // ─── Browser-side DOM measurement ───────────────────────────────────────────
 // Runs inside page.evaluate(). Returns plain JSON-serialisable objects.
 
-/* eslint-disable */
 function domQaInBrowser({ W, H }) {
   const TOLERANCE = 4; // px wiggle for sub-pixel rounding
 

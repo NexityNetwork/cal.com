@@ -115,7 +115,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/claude-replaces-research/slide-08.png",
-      "bytes": 83158,
+      "bytes": 75177,
       "qa": {
         "verdict": "pass",
         "checks": {

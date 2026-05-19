@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/fdr-newsletter-zero-50k/slide-01.png",
-      "bytes": 112790,
+      "bytes": 111215,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -115,7 +115,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/fdr-newsletter-zero-50k/slide-08.png",
-      "bytes": 69624,
+      "bytes": 67808,
       "qa": {
         "verdict": "pass",
         "checks": {

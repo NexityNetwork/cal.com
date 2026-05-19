@@ -13,10 +13,10 @@
         "titleLine1": "I sold to",
         "titleUnderline": "1,200 people",
         "titleAccent": "$40k MRR",
-        "avatarLetter": "M",
-        "byLine": "from the margins",
-        "authorName": "Maya Lin",
-        "authorRole": "niche founder · writer",
+        "avatarLetter": "",
+        "byLine": "",
+        "authorName": "",
+        "authorRole": "",
         "stickyNote": "here's how small beats big and pays better",
         "intro": "I ignored every guru and built for a market most founders would laugh at. <em>It changed everything.</em>",
         "tile1Label": "Stripe",
@@ -27,8 +27,8 @@
         "iconSlug2": "linear",
         "iconSlug3": "cursor",
         "iconSlug4": "vercel",
-        "swipeLabel": "let's go",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -56,13 +56,13 @@
         "insight3Tag": "EDGE",
         "insight3Note": "leverage is everything",
         "insight3Pill": "1 TO 1000",
-        "avatarLetter": "M",
-        "authorQuote": "I stopped building for everyone and <em>finally</em> started winning.",
+        "avatarLetter": "",
+        "authorQuote": "",
         "iconSlug1": "notion",
         "iconSlug2": "figma",
         "iconSlug3": "github",
         "iconSlug4": "slack",
-        "pageOf": "02 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -90,13 +90,13 @@
         "insight3Tag": "AHA",
         "insight3Note": "pain over polish",
         "insight3Pill": "0 CHURN",
-        "avatarLetter": "M",
-        "authorQuote": "Perfection is just <em>fear</em> in a nicer font.",
+        "avatarLetter": "",
+        "authorQuote": "",
         "iconSlug1": "vercel",
         "iconSlug2": "webflow",
         "iconSlug3": "framer",
         "iconSlug4": "airtable",
-        "pageOf": "03 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -124,13 +124,13 @@
         "insight3Tag": "WIN",
         "insight3Note": "cash is king",
         "insight3Pill": "YEAR 1",
-        "avatarLetter": "M",
-        "authorQuote": "The riches are in the <em>niches</em> everyone ignores.",
+        "avatarLetter": "",
+        "authorQuote": "",
         "iconSlug1": "stripe",
         "iconSlug2": "paddle",
         "iconSlug3": "lemonsqueezy",
         "iconSlug4": "shopify",
-        "pageOf": "04 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -158,13 +158,13 @@
         "insight3Tag": "EDGE",
         "insight3Note": "compounding value",
         "insight3Pill": "SMARTER",
-        "avatarLetter": "M",
-        "authorQuote": "AI didn't replace me. It made my niche <em>unstoppable</em>.",
+        "avatarLetter": "",
+        "authorQuote": "",
         "iconSlug1": "openai",
         "iconSlug2": "anthropic",
         "iconSlug3": "perplexity",
         "iconSlug4": "midjourney",
-        "pageOf": "05 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -192,13 +192,13 @@
         "insight3Tag": "AHA",
         "insight3Note": "revenue > logos",
         "insight3Pill": "$40K",
-        "avatarLetter": "M",
-        "authorQuote": "The hardest wins come from <em>refusing</em> the wrong yes.",
+        "avatarLetter": "",
+        "authorQuote": "",
         "iconSlug1": "salesforce",
         "iconSlug2": "hubspot",
         "iconSlug3": "zendesk",
         "iconSlug4": "intercom",
-        "pageOf": "06 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -226,13 +226,13 @@
         "insight3Tag": "EDGE",
         "insight3Note": "you're worth it",
         "insight3Pill": "2X IT",
-        "avatarLetter": "M",
-        "authorQuote": "Your niche isn't too small. <em>Your ambition</em> is just too loud.",
+        "avatarLetter": "",
+        "authorQuote": "",
         "iconSlug1": "twitter",
         "iconSlug2": "linkedin",
         "iconSlug3": "producthunt",
         "iconSlug4": "indiehackers",
-        "pageOf": "07 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -252,10 +252,10 @@
         "iconSlug5": "openai",
         "iconSlug6": "notion",
         "ctaBody": "If one founder skips the crowded market because of this, <em>my job is done.</em>",
-        "btnPrimary": "Save Post",
-        "btnGhost": "follow for more",
+        "btnPrimary": "",
+        "btnGhost": "",
         "signoff": "build small, win big ✱",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

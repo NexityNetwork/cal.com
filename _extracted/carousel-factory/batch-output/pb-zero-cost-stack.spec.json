@@ -20,8 +20,8 @@
         "iconSlug5": "figma",
         "statValue": "10",
         "statLabel": "TOOLS",
-        "swipeLabel": "SCROLL",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -44,7 +44,7 @@
         "skill4Body": "Use Actions to auto-deploy to Vercel.",
         "cmdLine": "git push origin main",
         "outLine": "✓ deployed in 42s",
-        "pageOf": "02 / 08",
+        "pageOf": "",
         "footerNote": "gh v2.42.0"
       }
     },
@@ -68,7 +68,7 @@
         "skill4Body": "Use edge config for feature flags.",
         "cmdLine": "vercel --prod",
         "outLine": "Production ready in 12s",
-        "pageOf": "03 / 08",
+        "pageOf": "",
         "footerNote": "vercel 33.0.0"
       }
     },
@@ -92,7 +92,7 @@
         "skill4Body": "Enable realtime for live dashboard updates.",
         "cmdLine": "supabase start",
         "outLine": "API ready at localhost:54321",
-        "pageOf": "04 / 08",
+        "pageOf": "",
         "footerNote": "supabase 1.100.0"
       }
     },
@@ -116,7 +116,7 @@
         "skill4Body": "Use customer portal for self-serve upgrades.",
         "cmdLine": "stripe listen --forward-to localhost:3000",
         "outLine": "Ready! Your webhook signing secret is...",
-        "pageOf": "05 / 08",
+        "pageOf": "",
         "footerNote": "stripe 1.18.0"
       }
     },
@@ -140,7 +140,7 @@
         "skill4Body": "Use feature flags to roll out safely.",
         "cmdLine": "npx posthog-cli",
         "outLine": "Events captured: 1,024",
-        "pageOf": "06 / 08",
+        "pageOf": "",
         "footerNote": "posthog 3.0.0"
       }
     },
@@ -164,7 +164,7 @@
         "skill4Body": "Use auto-layout to mirror flexbox logic.",
         "cmdLine": "figma export --format=svg",
         "outLine": "3 assets exported to ./public",
-        "pageOf": "07 / 08",
+        "pageOf": "",
         "footerNote": "figma 116.0"
       }
     },
@@ -177,15 +177,15 @@
         "ctaLine1": "START NOW",
         "ctaLine2": "FOR FREE",
         "ctaBody": "Stack these tools and ship your indie SaaS without touching runway. The best price is zero.",
-        "btnPrimary": "SAVE STACK",
-        "btnGhost": "READ BLOG",
+        "btnPrimary": "",
+        "btnGhost": "",
         "iconSlug1": "github",
         "iconSlug2": "vercel",
         "iconSlug3": "supabase",
         "iconSlug4": "stripe",
         "iconSlug5": "figma",
         "iconSlug6": "posthog",
-        "pageOf": "08 / 08",
+        "pageOf": "",
         "footerNote": "built with zero budget"
       }
     }

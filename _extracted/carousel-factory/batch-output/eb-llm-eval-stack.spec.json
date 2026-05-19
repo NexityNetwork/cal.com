@@ -28,8 +28,8 @@
         "iconSlug5": "cohere",
         "toolCount": "15+",
         "countLabel": "TOOLS COVERED",
-        "swipeLabel": "READ",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -61,7 +61,7 @@
         "iconSlug2": "mlflow",
         "iconSlug3": "langchain",
         "iconSlug4": "huggingface",
-        "pageOf": "02 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -94,7 +94,7 @@
         "iconSlug2": "anthropic",
         "iconSlug3": "langchain",
         "iconSlug4": "pinecone",
-        "pageOf": "03 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -136,7 +136,7 @@
         "iconSlug6": "huggingface",
         "iconSlug7": "weights-and-biases",
         "iconSlug8": "mlflow",
-        "pageOf": "04 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -168,7 +168,7 @@
         "iconSlug2": "evidently",
         "iconSlug3": "whylabs",
         "iconSlug4": "fiddler",
-        "pageOf": "05 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -201,7 +201,7 @@
         "iconSlug2": "openai",
         "iconSlug3": "weights-and-biases",
         "iconSlug4": "launchdarkly",
-        "pageOf": "06 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -243,7 +243,7 @@
         "iconSlug6": "datadog",
         "iconSlug7": "grafana",
         "iconSlug8": "prometheus",
-        "pageOf": "07 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -263,10 +263,10 @@
         "iconSlug5": "arize",
         "iconSlug6": "weights-and-biases",
         "ctaBody": "Deploy continuous benchmarks, synthetic judges, and embedding alerts to catch drift before users notice.",
-        "btnPrimary": "Get the guide",
-        "btnGhost": "Book a call",
+        "btnPrimary": "",
+        "btnGhost": "",
         "signoff": "Stay sharp, stay evaluated",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

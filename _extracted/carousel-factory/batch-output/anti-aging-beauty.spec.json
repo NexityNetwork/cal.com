@@ -8,7 +8,7 @@
       "layoutId": "cover-minimal-beauty",
       "slots": {
         "handle": "",
-        "author": "DR. ELENA VOSS",
+        "author": "",
         "role": "AESTHETIC PHYSICIAN",
         "titleLine1": "SCIENCE BACKED",
         "titleLine2": "AGELESS",
@@ -20,7 +20,7 @@
       "layoutId": "body-minimal-beauty",
       "slots": {
         "handle": "",
-        "author": "DR. ELENA VOSS",
+        "author": "",
         "number": "STEP 01",
         "title": "DAILY SUN PROTECTION",
         "body": "Ultraviolet radiation causes up to ninety percent of visible skin aging. A broad-spectrum sunscreen preserves collagen and prevents fine lines daily. It is the most potent anti-aging treatment you can wear."
@@ -30,7 +30,7 @@
       "layoutId": "body-minimal-beauty",
       "slots": {
         "handle": "",
-        "author": "DR. ELENA VOSS",
+        "author": "",
         "number": "STEP 02",
         "title": "RETINOIDS AT NIGHT",
         "body": "Vitamin A derivatives accelerate cell turnover and stimulate collagen production over time. With consistent nightly use, skin texture becomes smoother and pigmentation fades gently."
@@ -40,7 +40,7 @@
       "layoutId": "body-minimal-beauty",
       "slots": {
         "handle": "",
-        "author": "DR. ELENA VOSS",
+        "author": "",
         "number": "STEP 03",
         "title": "PRIORITIZE DEEP SLEEP",
         "body": "Your skin repairs itself most aggressively during deep sleep cycles. Seven to nine hours allows cortisol to drop and growth hormones to restore elasticity."
@@ -50,7 +50,7 @@
       "layoutId": "body-minimal-beauty",
       "slots": {
         "handle": "",
-        "author": "DR. ELENA VOSS",
+        "author": "",
         "number": "STEP 04",
         "title": "STAY HYDRATED ALWAYS",
         "body": "Internal hydration supports the skin barrier and maintains plumpness from within. Pair water intake with a ceramide-rich moisturizer to lock in resilience."
@@ -60,7 +60,7 @@
       "layoutId": "body-minimal-beauty",
       "slots": {
         "handle": "",
-        "author": "DR. ELENA VOSS",
+        "author": "",
         "number": "STEP 05",
         "title": "MOVE YOUR BODY",
         "body": "Regular exercise boosts circulation, delivering oxygen and nutrients that nourish the complexion. The resulting glow is as real as the science behind it."
@@ -70,7 +70,7 @@
       "layoutId": "body-minimal-beauty",
       "slots": {
         "handle": "",
-        "author": "DR. ELENA VOSS",
+        "author": "",
         "number": "STEP 06",
         "title": "EAT ANTIOXIDANTS DAILY",
         "body": "Colorful fruits and vegetables neutralize free radicals that break down collagen fibers. A nutrient-dense plate is a foundational step toward lasting luminosity."
@@ -80,12 +80,12 @@
       "layoutId": "cta-minimal-beauty",
       "slots": {
         "handle": "",
-        "author": "DR. ELENA VOSS",
+        "author": "",
         "role": "AESTHETIC PHYSICIAN",
         "eyebrow": "YOUR RITUAL",
         "headline": "START TODAY",
         "body": "Begin your science-backed journey to radiant, ageless skin today.",
-        "buttonLabel": "BOOK A CONSULT"
+        "buttonLabel": ""
       }
     }
   ]

@@ -20,8 +20,8 @@
         "iconSlug5": "framer",
         "statValue": "8",
         "statLabel": "LIBS",
-        "swipeLabel": "SCROLL",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -44,7 +44,7 @@
         "skill4Body": "Open source and forever free.",
         "cmdLine": "npx shadcn@latest init",
         "outLine": "initialized in 2.4s",
-        "pageOf": "02 / 08",
+        "pageOf": "",
         "footerNote": "zero dependencies to lock you in"
       }
     },
@@ -68,7 +68,7 @@
         "skill4Body": "Completely free and open source.",
         "cmdLine": "npm install @radix-ui/react-dialog",
         "outLine": "added 3 packages",
-        "pageOf": "03 / 08",
+        "pageOf": "",
         "footerNote": "Accessible out of the box"
       }
     },
@@ -92,7 +92,7 @@
         "skill4Body": "Free, with paid Tailwind UI optional.",
         "cmdLine": "npm install -D tailwindcss",
         "outLine": "created tailwind.config.js",
-        "pageOf": "04 / 08",
+        "pageOf": "",
         "footerNote": "No design system lock-in"
       }
     },
@@ -116,7 +116,7 @@
         "skill4Body": "Zero dollars, tiny bundle size.",
         "cmdLine": "npm install react-hook-form",
         "outLine": "installed in 1.1s",
-        "pageOf": "05 / 08",
+        "pageOf": "",
         "footerNote": "No more form library fees"
       }
     },
@@ -140,7 +140,7 @@
         "skill4Body": "Free MIT license for most features.",
         "cmdLine": "npm install framer-motion",
         "outLine": "added framer-motion@11",
-        "pageOf": "06 / 08",
+        "pageOf": "",
         "footerNote": "Studio-grade motion free"
       }
     },
@@ -164,7 +164,7 @@
         "skill4Body": "Open source, no seat licenses.",
         "cmdLine": "npm install @tanstack/react-query",
         "outLine": "ready to fetch",
-        "pageOf": "07 / 08",
+        "pageOf": "",
         "footerNote": "No enterprise tax"
       }
     },
@@ -177,15 +177,15 @@
         "ctaLine1": "BUILD",
         "ctaLine2": "BETTER",
         "ctaBody": "Ditch the subscription fatigue. Stack these open-source React libraries and ship premium interfaces today.",
-        "btnPrimary": "SAVE LIST",
-        "btnGhost": "READ BLOG",
+        "btnPrimary": "",
+        "btnGhost": "",
         "iconSlug1": "shadcnui",
         "iconSlug2": "radixui",
         "iconSlug3": "tailwindcss",
         "iconSlug4": "reacthookform",
         "iconSlug5": "framer",
         "iconSlug6": "reactquery",
-        "pageOf": "08 / 08",
+        "pageOf": "",
         "footerNote": "built by developers, for developers"
       }
     }

@@ -13,10 +13,10 @@
         "titleLine1": "I ever built",
         "titleUnderline": "for $19",
         "titleAccent": "that mattered",
-        "avatarLetter": "A",
-        "byLine": "by the way",
-        "authorName": "Alex Rivera",
-        "authorRole": "founder · late-night builder",
+        "avatarLetter": "",
+        "byLine": "",
+        "authorName": "",
+        "authorRole": "",
         "stickyNote": "here's how 12,000 people found it (and paid)",
         "intro": "One product changed <em>everything</em>. Not a course — a tiny AI tool that found its market without ads.",
         "tile1Label": "Gumroad",
@@ -27,8 +27,8 @@
         "iconSlug2": "twitter",
         "iconSlug3": "claude",
         "iconSlug4": "notion",
-        "swipeLabel": "let's go",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -56,13 +56,13 @@
         "insight3Tag": "PRICE",
         "insight3Note": "no discounts needed",
         "insight3Pill": "$19",
-        "avatarLetter": "A",
-        "authorQuote": "I built it in a weekend because I was <em>annoyed</em>, not because I had a business plan.",
+        "avatarLetter": "",
+        "authorQuote": "",
         "iconSlug1": "github",
         "iconSlug2": "vercel",
         "iconSlug3": "figma",
         "iconSlug4": "stripe",
-        "pageOf": "02 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -90,13 +90,13 @@
         "insight3Tag": "FOCUS",
         "insight3Note": "say no often",
         "insight3Pill": "STAY SMALL",
-        "avatarLetter": "A",
-        "authorQuote": "My first customer found a bug I didn't know existed. That bug became <em>the</em> feature.",
+        "avatarLetter": "",
+        "authorQuote": "",
         "iconSlug1": "twitter",
         "iconSlug2": "producthunt",
         "iconSlug3": "github",
         "iconSlug4": "slack",
-        "pageOf": "03 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -124,13 +124,13 @@
         "insight3Tag": "REPLY",
         "insight3Note": "DMs = sales",
         "insight3Pill": "12K",
-        "avatarLetter": "A",
-        "authorQuote": "I wrote the thread at 2am. By morning it had <em>paid</em> my rent for three months.",
+        "avatarLetter": "",
+        "authorQuote": "",
         "iconSlug1": "twitter",
         "iconSlug2": "telegram",
         "iconSlug3": "reddit",
         "iconSlug4": "discord",
-        "pageOf": "04 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -158,13 +158,13 @@
         "insight3Tag": "MAGIC",
         "insight3Note": "no branding",
         "insight3Pill": "CLEAN",
-        "avatarLetter": "A",
-        "authorQuote": "Users told me they forgot they paid for it. That's when I knew it was <em>invisible</em> enough.",
+        "avatarLetter": "",
+        "authorQuote": "",
         "iconSlug1": "openai",
         "iconSlug2": "vercel",
         "iconSlug3": "notion",
         "iconSlug4": "figma",
-        "pageOf": "05 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -192,13 +192,13 @@
         "insight3Tag": "MARGIN",
         "insight3Note": "profit from day 1",
         "insight3Pill": "90%",
-        "avatarLetter": "A",
-        "authorQuote": "I made more from this $19 tool than from my $2,000 <em>course</em>.",
+        "avatarLetter": "",
+        "authorQuote": "",
         "iconSlug1": "stripe",
         "iconSlug2": "gumroad",
         "iconSlug3": "google-analytics",
         "iconSlug4": "zapier",
-        "pageOf": "06 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -226,13 +226,13 @@
         "insight3Tag": "TRUTH",
         "insight3Note": "start there",
         "insight3Pill": "YOU",
-        "avatarLetter": "A",
-        "authorQuote": "The best products don't find markets. They find <em>people</em> who feel seen.",
+        "avatarLetter": "",
+        "authorQuote": "",
         "iconSlug1": "notion",
         "iconSlug2": "linear",
         "iconSlug3": "slack",
         "iconSlug4": "spotify",
-        "pageOf": "07 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -252,10 +252,10 @@
         "iconSlug5": "stripe",
         "iconSlug6": "notion",
         "ctaBody": "My next product hid in today's annoyance. Go build the <em>$19</em> thing.",
-        "btnPrimary": "Save Post",
-        "btnGhost": "follow for more",
+        "btnPrimary": "",
+        "btnGhost": "",
         "signoff": "build small, win big ✱",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

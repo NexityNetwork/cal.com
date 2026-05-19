@@ -12,7 +12,7 @@
         "shoutLine1": "STOP USING",
         "shoutLine2": "BLOATED SAAS",
         "subQuestion": "Why pay for forty features when you only need one?",
-        "pageOf": "01 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -32,7 +32,7 @@
         "statLabel3": "PRICE",
         "statValue3": "$9/mo",
         "swipeNote": "UP NEXT",
-        "pageOf": "02 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -52,7 +52,7 @@
         "statLabel3": "COST",
         "statValue3": "$6/mo",
         "swipeNote": "ONWARD",
-        "pageOf": "03 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -72,7 +72,7 @@
         "statLabel3": "VIEWS",
         "statValue3": "UNLIMITED",
         "swipeNote": "SWIPE ON",
-        "pageOf": "04 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -92,7 +92,7 @@
         "statLabel3": "DELIVERY",
         "statValue3": "98%",
         "swipeNote": "ALMOST THERE",
-        "pageOf": "05 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -112,7 +112,7 @@
         "statLabel3": "SIZE",
         "statValue3": "< 100KB",
         "swipeNote": "TWO MORE",
-        "pageOf": "06 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -132,7 +132,7 @@
         "statLabel3": "PRICE",
         "statValue3": "FREE",
         "swipeNote": "FINAL SLIDE",
-        "pageOf": "07 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -143,10 +143,10 @@
         "shoutLine1": "DITCH THE",
         "shoutLine2": "BLOAT NOW",
         "ctaBody": "Pick one tool. Swap it this week. Your workflow and wallet will thank you.",
-        "btnPrimary": "SAVE THIS LIST",
-        "btnGhost": "TAG A FOUNDER",
+        "btnPrimary": "",
+        "btnGhost": "",
         "footerMeta": "Built for makers",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

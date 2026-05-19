@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/ba-content-ai/slide-01.png",
-      "bytes": 99899,
+      "bytes": 98543,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -115,7 +115,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/ba-content-ai/slide-08.png",
-      "bytes": 62230,
+      "bytes": 60391,
       "qa": {
         "verdict": "pass",
         "checks": {

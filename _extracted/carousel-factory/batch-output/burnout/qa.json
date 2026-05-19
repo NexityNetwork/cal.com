@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/burnout/slide-01.png",
-      "bytes": 155432,
+      "bytes": 155399,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -19,7 +19,7 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/burnout/slide-02.png",
-      "bytes": 248161,
+      "bytes": 248106,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -35,7 +35,7 @@
     {
       "index": 2,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/burnout/slide-03.png",
-      "bytes": 227197,
+      "bytes": 227125,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -51,7 +51,7 @@
     {
       "index": 3,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/burnout/slide-04.png",
-      "bytes": 223246,
+      "bytes": 223272,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -67,7 +67,7 @@
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/burnout/slide-05.png",
-      "bytes": 234491,
+      "bytes": 234431,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -83,7 +83,7 @@
     {
       "index": 5,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/burnout/slide-06.png",
-      "bytes": 237276,
+      "bytes": 237196,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -99,7 +99,7 @@
     {
       "index": 6,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/burnout/slide-07.png",
-      "bytes": 231593,
+      "bytes": 231542,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -115,7 +115,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/burnout/slide-08.png",
-      "bytes": 150224,
+      "bytes": 146487,
       "qa": {
         "verdict": "pass",
         "checks": {

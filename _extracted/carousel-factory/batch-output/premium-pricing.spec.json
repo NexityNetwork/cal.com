@@ -22,7 +22,7 @@
       "layoutId": "body-cream-gold",
       "slots": {
         "brand": "",
-        "pageOf": "2 / 8",
+        "pageOf": "",
         "number": "I",
         "numberLabel": "Preface",
         "titleMain": "The Hourly",
@@ -35,7 +35,7 @@
       "layoutId": "body-cream-gold",
       "slots": {
         "brand": "",
-        "pageOf": "3 / 8",
+        "pageOf": "",
         "number": "II",
         "numberLabel": "Shift",
         "titleMain": "Price the",
@@ -48,7 +48,7 @@
       "layoutId": "body-cream-gold",
       "slots": {
         "brand": "",
-        "pageOf": "4 / 8",
+        "pageOf": "",
         "number": "III",
         "numberLabel": "Shift",
         "titleMain": "Rejection Is a",
@@ -61,7 +61,7 @@
       "layoutId": "body-cream-gold",
       "slots": {
         "brand": "",
-        "pageOf": "5 / 8",
+        "pageOf": "",
         "number": "IV",
         "numberLabel": "Shift",
         "titleMain": "Fees Shape",
@@ -74,7 +74,7 @@
       "layoutId": "body-cream-gold",
       "slots": {
         "brand": "",
-        "pageOf": "6 / 8",
+        "pageOf": "",
         "number": "V",
         "numberLabel": "Shift",
         "titleMain": "Confidence Is",
@@ -87,7 +87,7 @@
       "layoutId": "body-cream-gold",
       "slots": {
         "brand": "",
-        "pageOf": "7 / 8",
+        "pageOf": "",
         "number": "VI",
         "numberLabel": "Shift",
         "titleMain": "Scarcity Is a",
@@ -100,12 +100,12 @@
       "layoutId": "cta-cream-gold",
       "slots": {
         "brand": "",
-        "pageOf": "8 / 8",
+        "pageOf": "",
         "eyebrow": "A FINAL WORD",
         "headlineMain": "Raise the",
         "headlineItalic": "Standard",
         "body": "Your rate is a declaration of how you see yourself. Change the belief, and the number follows without resistance.",
-        "buttonLabel": "SAVE THIS POST",
+        "buttonLabel": "",
         "handle": ""
       }
     }

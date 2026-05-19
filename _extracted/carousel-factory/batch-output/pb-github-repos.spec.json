@@ -20,8 +20,8 @@
         "iconSlug5": "linux",
         "statValue": "9",
         "statLabel": "REPOS",
-        "swipeLabel": "SCROLL",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -44,7 +44,7 @@
         "skill4Body": "Docker must be running locally to execute jobs.",
         "cmdLine": "act push",
         "outLine": "[OK] build succeeded in 42s",
-        "pageOf": "02 / 08",
+        "pageOf": "",
         "footerNote": "nektos/act on GitHub"
       }
     },
@@ -68,7 +68,7 @@
         "skill4Body": "Remember to allow each .envrc with direnv allow.",
         "cmdLine": "direnv allow",
         "outLine": "exporting ~12 variables",
-        "pageOf": "03 / 08",
+        "pageOf": "",
         "footerNote": "direnv/direnv on GitHub"
       }
     },
@@ -92,7 +92,7 @@
         "skill4Body": "Configure your BAT_THEME for consistent color output.",
         "cmdLine": "git diff HEAD~1",
         "outLine": "14 files changed, +203 -41",
-        "pageOf": "04 / 08",
+        "pageOf": "",
         "footerNote": "dandavison/delta on GitHub"
       }
     },
@@ -116,7 +116,7 @@
         "skill4Body": "Close background apps to reduce noise in results.",
         "cmdLine": "hyperfine 'fd .' 'find .'",
         "outLine": "fastest: fd . -- 45.2 ms",
-        "pageOf": "05 / 08",
+        "pageOf": "",
         "footerNote": "sharkdp/hyperfine on GitHub"
       }
     },
@@ -140,7 +140,7 @@
         "skill4Body": "Backups are your responsibility; schedule them early.",
         "cmdLine": "docker run gitea/gitea",
         "outLine": "listening on :3000",
-        "pageOf": "06 / 08",
+        "pageOf": "",
         "footerNote": "go-gitea/gitea on GitHub"
       }
     },
@@ -164,7 +164,7 @@
         "skill4Body": "Keep devices online for real-time bidirectional syncing.",
         "cmdLine": "syncthing --no-browser",
         "outLine": "synced 12 folders, 0 conflicts",
-        "pageOf": "07 / 08",
+        "pageOf": "",
         "footerNote": "syncthing/syncthing on GitHub"
       }
     },
@@ -177,15 +177,15 @@
         "ctaLine1": "STAR NOW",
         "ctaLine2": "BUILD",
         "ctaBody": "Add these repos to your toolkit and thank yourself later. Serious devs build in silence.",
-        "btnPrimary": "GET THE LIST",
-        "btnGhost": "SHARE POST",
+        "btnPrimary": "",
+        "btnGhost": "",
         "iconSlug1": "github",
         "iconSlug2": "git",
         "iconSlug3": "rust",
         "iconSlug4": "gnubash",
         "iconSlug5": "linux",
         "iconSlug6": "docker",
-        "pageOf": "08 / 08",
+        "pageOf": "",
         "footerNote": "built by @codex"
       }
     }

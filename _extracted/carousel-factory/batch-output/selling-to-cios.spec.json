@@ -7,9 +7,9 @@
     {
       "layoutId": "cover-linkedin-pro",
       "slots": {
-        "author": "Marcus Chen",
+        "author": "",
         "badgeText": "LINKEDIN CAROUSEL POST",
-        "pageNumber": "1",
+        "pageNumber": "",
         "accentColor": "#0a66c2",
         "headline": "5 Things That Actually Close Enterprise Deals",
         "heroSymbol": "🏢",
@@ -21,9 +21,9 @@
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Marcus Chen",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "2",
+        "pageNumber": "",
         "accentColor": "#0a66c2",
         "title": "Champion a Power Sponsor",
         "body": "Find the executive with budget authority and a burning pain. Coach them to sell internally. No champion, no deal.",
@@ -36,9 +36,9 @@
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Marcus Chen",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "3",
+        "pageNumber": "",
         "accentColor": "#0a66c2",
         "title": "Map the Buying Committee",
         "body": "Enterprise decisions have 6–10 stakeholders. Map each influencer, blocker, and gatekeeper. Then build a plan to win every vote.",
@@ -51,9 +51,9 @@
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Marcus Chen",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "4",
+        "pageNumber": "",
         "accentColor": "#0a66c2",
         "title": "Quantify ROI Early",
         "body": "Buyers need business case ammo for finance. Show exact cost of inaction and projected ROI in their language, not yours.",
@@ -66,9 +66,9 @@
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Marcus Chen",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "5",
+        "pageNumber": "",
         "accentColor": "#0a66c2",
         "title": "Co-Create the Evaluation",
         "body": "Don't pitch; architect the criteria with the buyer. When your solution defines the rubric, competitors become checked boxes.",
@@ -81,9 +81,9 @@
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Marcus Chen",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "6",
+        "pageNumber": "",
         "accentColor": "#0a66c2",
         "title": "Secure Mutual Action Plans",
         "body": "Replace vague follow-ups with signed milestones. A mutual close plan creates accountability and exposes red flags before they kill the deal.",
@@ -96,9 +96,9 @@
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Marcus Chen",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "7",
+        "pageNumber": "",
         "accentColor": "#0a66c2",
         "title": "Remove Risk Before Closing",
         "body": "Enterprise buyers fear career risk more than price. Offer pilots, phased rollouts, and escape clauses to make saying yes safe.",
@@ -111,14 +111,14 @@
     {
       "layoutId": "cta-linkedin-pro",
       "slots": {
-        "author": "Marcus Chen",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "8",
+        "pageNumber": "",
         "accentColor": "#0a66c2",
         "eyebrow": "YOUR TURN?",
         "headline": "What's Your Best Enterprise Closing Move?",
         "body": "Drop your #1 deal-closing tactic in the comments. I'd love to steal your playbook.",
-        "buttonLabel": "Comment Below",
+        "buttonLabel": "",
         "secondaryLabel": "Repost",
         "handle": ""
       }

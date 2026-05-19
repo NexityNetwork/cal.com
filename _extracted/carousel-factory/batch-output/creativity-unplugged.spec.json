@@ -14,15 +14,15 @@
         "subtitle": "Six timeless offline habits that outsmart digital noise and restore your creative flow without subscriptions.",
         "ctaLabel": "Swipe through",
         "handle": "",
-        "author": "Studio Elm",
+        "author": "",
         "slideCount": "6"
       }
     },
     {
       "layoutId": "body-terracotta",
       "slots": {
-        "author": "Studio Elm",
-        "pageOf": "1/6",
+        "author": "",
+        "pageOf": "",
         "number": "01",
         "numberLabel": "Ritual",
         "titleMain": "Write Morning",
@@ -34,8 +34,8 @@
     {
       "layoutId": "body-terracotta",
       "slots": {
-        "author": "Studio Elm",
-        "pageOf": "2/6",
+        "author": "",
+        "pageOf": "",
         "number": "02",
         "numberLabel": "Practice",
         "titleMain": "Walk Without",
@@ -47,8 +47,8 @@
     {
       "layoutId": "body-terracotta",
       "slots": {
-        "author": "Studio Elm",
-        "pageOf": "3/6",
+        "author": "",
+        "pageOf": "",
         "number": "03",
         "numberLabel": "System",
         "titleMain": "Plan Your Week",
@@ -60,8 +60,8 @@
     {
       "layoutId": "body-terracotta",
       "slots": {
-        "author": "Studio Elm",
-        "pageOf": "4/6",
+        "author": "",
+        "pageOf": "",
         "number": "04",
         "numberLabel": "Habit",
         "titleMain": "Read Physical",
@@ -73,8 +73,8 @@
     {
       "layoutId": "body-terracotta",
       "slots": {
-        "author": "Studio Elm",
-        "pageOf": "5/6",
+        "author": "",
+        "pageOf": "",
         "number": "05",
         "numberLabel": "Craft",
         "titleMain": "Work With",
@@ -86,8 +86,8 @@
     {
       "layoutId": "body-terracotta",
       "slots": {
-        "author": "Studio Elm",
-        "pageOf": "6/6",
+        "author": "",
+        "pageOf": "",
         "number": "06",
         "numberLabel": "Letter",
         "titleMain": "Send Real",
@@ -99,13 +99,13 @@
     {
       "layoutId": "cta-terracotta",
       "slots": {
-        "author": "Studio Elm",
-        "pageOf": "8/8",
+        "author": "",
+        "pageOf": "",
         "eyebrow": "YOUR TURN",
         "headlineMain": "Pick One",
         "headlineItalic": "analog habit",
         "body": "Start tomorrow. The best creative tool is already in your hands.",
-        "buttonLabel": "Save this post",
+        "buttonLabel": "",
         "handle": ""
       }
     }

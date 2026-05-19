@@ -7,9 +7,9 @@
     {
       "layoutId": "cover-linkedin-pro",
       "slots": {
-        "author": "Jordan Lee",
+        "author": "",
         "badgeText": "LINKEDIN CAROUSEL POST",
-        "pageNumber": "1",
+        "pageNumber": "",
         "accentColor": "#4f3df5",
         "headline": "How We Landed 100 Customers Without Ads",
         "heroSymbol": "🚀",
@@ -21,9 +21,9 @@
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Jordan Lee",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "2",
+        "pageNumber": "",
         "accentColor": "#4f3df5",
         "title": "Start With Your Inner Circle",
         "body": "Our first 20 customers came from friends and former colleagues. Don't underestimate your existing network.",
@@ -36,9 +36,9 @@
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Jordan Lee",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "3",
+        "pageNumber": "",
         "accentColor": "#4f3df5",
         "title": "LinkedIn Direct Outreach",
         "body": "We sent 50 personalized DMs daily to our ideal buyer persona. Context beats copy-paste every time.",
@@ -51,9 +51,9 @@
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Jordan Lee",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "4",
+        "pageNumber": "",
         "accentColor": "#4f3df5",
         "title": "Niche Online Communities",
         "body": "Slack groups, Reddit threads, and Discord servers were goldmines. We gave value before pitching anything.",
@@ -66,9 +66,9 @@
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Jordan Lee",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "5",
+        "pageNumber": "",
         "accentColor": "#4f3df5",
         "title": "Build Strategic Micro-Partnerships",
         "body": "We co-hosted webinars with complementary tools. Their audience became our audience overnight.",
@@ -81,9 +81,9 @@
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Jordan Lee",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "6",
+        "pageNumber": "",
         "accentColor": "#4f3df5",
         "title": "Hyper-Targeted Cold Email",
         "body": "Scraping was out; manual research was in. Every email referenced a specific recent company milestone.",
@@ -96,9 +96,9 @@
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Jordan Lee",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "7",
+        "pageNumber": "",
         "accentColor": "#4f3df5",
         "title": "Engineer Word of Mouth",
         "body": "We gave every happy user a simple referral link. Incentives turned customers into our sales team.",
@@ -111,14 +111,14 @@
     {
       "layoutId": "cta-linkedin-pro",
       "slots": {
-        "author": "Jordan Lee",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "8",
+        "pageNumber": "",
         "accentColor": "#4f3df5",
         "eyebrow": "YOUR TURN?",
         "headline": "Which Channel Will You Test First?",
         "body": "Drop your biggest growth challenge below. I read every comment.",
-        "buttonLabel": "Follow for more",
+        "buttonLabel": "",
         "secondaryLabel": "Repost",
         "handle": ""
       }

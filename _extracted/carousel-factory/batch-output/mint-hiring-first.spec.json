@@ -10,12 +10,12 @@
         "titleLine1": "The Ultimate",
         "titleLine2": "Guide to",
         "titleBold": "HIRING",
-        "authorInitials": "RK",
-        "authorName": "Riley Kim",
+        "authorInitials": "",
+        "authorName": "",
         "handle": "",
         "avatarBg1": "#4ECDC4",
         "avatarBg2": "#556270",
-        "pageOf": "01 - 08"
+        "pageOf": ""
       }
     },
     {
@@ -26,7 +26,7 @@
         "bodyLine3": "before you",
         "bodyLine4": "start the",
         "bodyLine5": "search process.",
-        "pageOf": "02 - 08"
+        "pageOf": ""
       }
     },
     {
@@ -37,7 +37,7 @@
         "bodyLine3": "than perfect",
         "bodyLine4": "skills on",
         "bodyLine5": "day one.",
-        "pageOf": "03 - 08"
+        "pageOf": ""
       }
     },
     {
@@ -48,7 +48,7 @@
         "bodyLine3": "company culture",
         "bodyLine4": "for years",
         "bodyLine5": "to come.",
-        "pageOf": "04 - 08"
+        "pageOf": ""
       }
     },
     {
@@ -59,7 +59,7 @@
         "bodyLine3": "projects not",
         "bodyLine4": "just talking",
         "bodyLine5": "and resumes.",
-        "pageOf": "05 - 08"
+        "pageOf": ""
       }
     },
     {
@@ -70,7 +70,7 @@
         "bodyLine3": "candidates or",
         "bodyLine4": "lose them",
         "bodyLine5": "to competitors.",
-        "pageOf": "06 - 08"
+        "pageOf": ""
       }
     },
     {
@@ -81,18 +81,18 @@
         "bodyLine3": "from the",
         "bodyLine4": "very first",
         "bodyLine5": "day together.",
-        "pageOf": "07 - 08"
+        "pageOf": ""
       }
     },
     {
       "layoutId": "cta-mint-condensed",
       "slots": {
-        "authorInitials": "RK",
-        "authorName": "Riley Kim",
+        "authorInitials": "",
+        "authorName": "",
         "handle": "",
         "avatarBg1": "#4ECDC4",
         "avatarBg2": "#556270",
-        "pageOf": "08 - 08",
+        "pageOf": "",
         "tagline": "Strategic goal driven web design for ambitious founders.",
         "ctaQuestion": "Want to learn more?"
       }

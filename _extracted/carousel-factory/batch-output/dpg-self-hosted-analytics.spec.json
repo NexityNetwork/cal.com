@@ -11,7 +11,7 @@
         "pillLeft": "Self-hosted",
         "pillRight": "analytics",
         "subline": "Seven open-source dashboards for data teams",
-        "pageOf": "01 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -23,7 +23,7 @@
         "slideTitle": "Complete data sovereignty for every team",
         "slideSubtitle": "Migrate from GA without losing historical reports or custom dimensions.",
         "domainText": "",
-        "pageOf": "02 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -35,7 +35,7 @@
         "slideTitle": "The all-in-one product analytics stack",
         "slideSubtitle": "Replace Mixpanel and LaunchDarkly with one self-hosted open-source platform.",
         "domainText": "",
-        "pageOf": "03 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -47,7 +47,7 @@
         "slideTitle": "Lean privacy stacks for modern brands",
         "slideSubtitle": "Drop heavy scripts and still capture every metric that matters.",
         "domainText": "",
-        "pageOf": "04 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -59,7 +59,7 @@
         "slideTitle": "Democratize your data warehouse today",
         "slideSubtitle": "Turn raw tables into visual answers in minutes, not engineering sprints.",
         "domainText": "",
-        "pageOf": "05 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -71,7 +71,7 @@
         "slideTitle": "Enterprise charts without limits",
         "slideSubtitle": "Power Airbnb-scale analytics on your own servers and terms.",
         "domainText": "",
-        "pageOf": "06 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -83,7 +83,7 @@
         "slideTitle": "Unified mobile intelligence for growth teams",
         "slideSubtitle": "Self-host your entire mobile growth stack with full EU compliance.",
         "domainText": "",
-        "pageOf": "07 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -94,7 +94,7 @@
         "headlineMain": "Own your",
         "headlineGlow": "data stack",
         "sublineItalic": "Deploy these seven tools and finally ditch the SaaS surveillance model.",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

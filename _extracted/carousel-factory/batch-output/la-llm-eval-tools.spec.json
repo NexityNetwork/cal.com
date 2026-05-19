@@ -19,8 +19,8 @@
         "iconSlug4": "weightsandbiases",
         "iconSlug5": "trulens",
         "iconSlug6": "arize",
-        "swipeLabel": "SEE LIST",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -42,7 +42,7 @@
         "metric2Value": "CLI / Docker",
         "metric3Label": "LICENSE",
         "metric3Value": "Apache 2.0",
-        "pageOf": "02 / 08",
+        "pageOf": "",
         "footerNote": "Open source MIT licensed"
       }
     },
@@ -65,7 +65,7 @@
         "metric2Value": "Cloud / OSS",
         "metric3Label": "INTEGRATION",
         "metric3Value": "SDK + API",
-        "pageOf": "03 / 08",
+        "pageOf": "",
         "footerNote": "Self hosted or cloud"
       }
     },
@@ -88,7 +88,7 @@
         "metric2Value": "500K+",
         "metric3Label": "PLATFORM",
         "metric3Value": "Cloud",
-        "pageOf": "04 / 08",
+        "pageOf": "",
         "footerNote": "Official LangChain project"
       }
     },
@@ -111,7 +111,7 @@
         "metric2Value": "Enterprise",
         "metric3Label": "MODELS",
         "metric3Value": "Any provider",
-        "pageOf": "05 / 08",
+        "pageOf": "",
         "footerNote": "Enterprise SOC2 ready"
       }
     },
@@ -134,7 +134,7 @@
         "metric2Value": "Python",
         "metric3Label": "FOCUS",
         "metric3Value": "RAG eval",
-        "pageOf": "06 / 08",
+        "pageOf": "",
         "footerNote": "TruEra open source"
       }
     },
@@ -157,7 +157,7 @@
         "metric2Value": "Apache 2.0",
         "metric3Label": "RUNTIME",
         "metric3Value": "Notebook",
-        "pageOf": "07 / 08",
+        "pageOf": "",
         "footerNote": "Runs fully local, OSS"
       }
     },
@@ -170,15 +170,15 @@
         "ctaLine1": "Ship safer",
         "ctaCallout": "today",
         "ctaBody": "Pick one eval tool, wire it to CI, and stop hallucinations from reaching production.",
-        "btnPrimary": "Start free",
-        "btnGhost": "Read docs",
+        "btnPrimary": "",
+        "btnGhost": "",
         "iconSlug1": "promptfoo",
         "iconSlug2": "langfuse",
         "iconSlug3": "langchain",
         "iconSlug4": "weightsandbiases",
         "iconSlug5": "trulens",
         "iconSlug6": "arize",
-        "pageOf": "08 / 08",
+        "pageOf": "",
         "footerNote": "Open source, MIT"
       }
     }

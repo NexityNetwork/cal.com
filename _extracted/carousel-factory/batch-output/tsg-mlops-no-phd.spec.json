@@ -24,7 +24,7 @@
         "role4": "SHIPS TO PRODUCTION",
         "role5": "WRITES THE CODE",
         "role6": "CONTAINERIZES THE RUNTIME",
-        "pageOf": "01 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -47,7 +47,7 @@
         "iconSlug4": "vercel",
         "iconSlug5": "cursor",
         "domainText": "",
-        "pageOf": "02 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -70,7 +70,7 @@
         "iconSlug4": "vercel",
         "iconSlug5": "docker",
         "domainText": "",
-        "pageOf": "03 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -93,7 +93,7 @@
         "iconSlug4": "vercel",
         "iconSlug5": "docker",
         "domainText": "",
-        "pageOf": "04 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -116,7 +116,7 @@
         "iconSlug4": "n8n",
         "iconSlug5": "cursor",
         "domainText": "",
-        "pageOf": "05 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -139,7 +139,7 @@
         "iconSlug4": "supabase",
         "iconSlug5": "docker",
         "domainText": "",
-        "pageOf": "06 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -162,7 +162,7 @@
         "iconSlug4": "vercel",
         "iconSlug5": "cursor",
         "domainText": "",
-        "pageOf": "07 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -180,10 +180,10 @@
         "iconSlug4": "vercel",
         "iconSlug5": "cursor",
         "iconSlug6": "docker",
-        "btnPrimary": "Get the Template",
-        "btnGhost": "Read the Guide",
+        "btnPrimary": "",
+        "btnGhost": "",
         "domainText": "",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

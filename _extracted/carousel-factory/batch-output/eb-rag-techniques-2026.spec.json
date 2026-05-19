@@ -28,8 +28,8 @@
         "iconSlug5": "neo4j",
         "toolCount": "12+",
         "countLabel": "TOOLS COVERED",
-        "swipeLabel": "READ",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -61,7 +61,7 @@
         "iconSlug2": "anthropic",
         "iconSlug3": "pinecone",
         "iconSlug4": "weaviate",
-        "pageOf": "02 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -94,7 +94,7 @@
         "iconSlug2": "pinecone",
         "iconSlug3": "python",
         "iconSlug4": "huggingface",
-        "pageOf": "03 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -136,7 +136,7 @@
         "iconSlug6": "weaviate",
         "iconSlug7": "huggingface",
         "iconSlug8": "neo4j",
-        "pageOf": "04 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -168,7 +168,7 @@
         "iconSlug2": "langchain",
         "iconSlug3": "openai",
         "iconSlug4": "anthropic",
-        "pageOf": "05 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -201,7 +201,7 @@
         "iconSlug2": "openai",
         "iconSlug3": "anthropic",
         "iconSlug4": "python",
-        "pageOf": "06 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -243,7 +243,7 @@
         "iconSlug6": "weaviate",
         "iconSlug7": "huggingface",
         "iconSlug8": "docker",
-        "pageOf": "07 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -263,10 +263,10 @@
         "iconSlug5": "neo4j",
         "iconSlug6": "huggingface",
         "ctaBody": "Download the complete benchmark deck and starter templates for every technique covered.",
-        "btnPrimary": "Get the deck",
-        "btnGhost": "Read blog",
+        "btnPrimary": "",
+        "btnGhost": "",
         "signoff": "Ship reliable answers",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

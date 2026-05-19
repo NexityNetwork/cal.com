@@ -22,7 +22,7 @@
       "layoutId": "body-coral-mag",
       "slots": {
         "brand": "",
-        "pageLabel": "P.02",
+        "pageLabel": "",
         "number": "01",
         "eyebrow": "THE LIE",
         "titleWord1": "COPYCAT",
@@ -36,7 +36,7 @@
       "layoutId": "body-coral-mag",
       "slots": {
         "brand": "",
-        "pageLabel": "P.03",
+        "pageLabel": "",
         "number": "02",
         "eyebrow": "TRUTH ONE",
         "titleWord1": "AUDIT YOUR",
@@ -50,7 +50,7 @@
       "layoutId": "body-coral-mag",
       "slots": {
         "brand": "",
-        "pageLabel": "P.04",
+        "pageLabel": "",
         "number": "03",
         "eyebrow": "TRUTH TWO",
         "titleWord1": "BUILD A",
@@ -64,7 +64,7 @@
       "layoutId": "body-coral-mag",
       "slots": {
         "brand": "",
-        "pageLabel": "P.05",
+        "pageLabel": "",
         "number": "04",
         "eyebrow": "TRUTH THREE",
         "titleWord1": "RULES",
@@ -78,7 +78,7 @@
       "layoutId": "body-coral-mag",
       "slots": {
         "brand": "",
-        "pageLabel": "P.06",
+        "pageLabel": "",
         "number": "05",
         "eyebrow": "TRUTH FOUR",
         "titleWord1": "TRAIN THE",
@@ -92,7 +92,7 @@
       "layoutId": "body-coral-mag",
       "slots": {
         "brand": "",
-        "pageLabel": "P.07",
+        "pageLabel": "",
         "number": "06",
         "eyebrow": "TRUTH FIVE",
         "titleWord1": "EVOLVE",
@@ -106,12 +106,12 @@
       "layoutId": "cta-coral-mag",
       "slots": {
         "brand": "",
-        "pageOf": "08/08",
+        "pageOf": "",
         "tag": "YOUR MOVE",
         "headWord1": "SAVE",
         "headWord2": "THIS",
         "body": "Build a brand voice that gets remembered, not ignored.",
-        "buttonLabel": "Follow for more",
+        "buttonLabel": "",
         "handle": ""
       }
     }

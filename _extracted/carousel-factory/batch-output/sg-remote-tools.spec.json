@@ -17,12 +17,12 @@
         "titleAccent": "SHIP",
         "titleLine2": "FASTER",
         "subtitle": "The quiet infrastructure behind the most focused distributed teams of 2026. No noise, only signal.",
-        "authorName": "ALEX CHEN",
-        "authorRole": "remote ops lead · 2026",
+        "authorName": "",
+        "authorRole": "",
         "tag1": "REMOTE",
         "tag2": "TOOLS",
         "tag3": "2026",
-        "pageOf": "01 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -47,7 +47,7 @@
         "iconSlug2": "github",
         "iconSlug3": "slack",
         "iconSlug4": "figma",
-        "pageOf": "02 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -72,7 +72,7 @@
         "iconSlug2": "linear",
         "iconSlug3": "zoom",
         "iconSlug4": "spotify",
-        "pageOf": "03 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -97,7 +97,7 @@
         "iconSlug2": "github",
         "iconSlug3": "docker",
         "iconSlug4": "aws",
-        "pageOf": "04 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -122,7 +122,7 @@
         "iconSlug2": "vscode",
         "iconSlug3": "github",
         "iconSlug4": "linear",
-        "pageOf": "05 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -147,7 +147,7 @@
         "iconSlug2": "loom",
         "iconSlug3": "youtube",
         "iconSlug4": "notion",
-        "pageOf": "06 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -172,7 +172,7 @@
         "iconSlug2": "google",
         "iconSlug3": "zoom",
         "iconSlug4": "slack",
-        "pageOf": "07 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -190,10 +190,10 @@
         "iconSlug3": "warp",
         "iconSlug4": "notion",
         "ctaBody": "High-output teams invest in <em>invisible infrastructure</em> that removes friction before anyone asks for help.",
-        "btnPrimary": "SAVE THIS",
-        "btnGhost": "Follow along",
+        "btnPrimary": "",
+        "btnGhost": "",
         "signoff": "Build the quiet stack.",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

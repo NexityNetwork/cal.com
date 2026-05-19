@@ -7,7 +7,7 @@
     {
       "layoutId": "cover-display-cta",
       "slots": {
-        "pageNumber": "01",
+        "pageNumber": "",
         "headlineLine1": "Week One Stack",
         "headlineLine2": "For AI Startups",
         "accentSuffix": "!"
@@ -16,7 +16,7 @@
     {
       "layoutId": "body-icon-centered",
       "slots": {
-        "pageNumber": "02",
+        "pageNumber": "",
         "title": "1. Prompt Lab, the proving ground",
         "body": "A stripped-down UI where engineers test system prompts against edge cases with live token counts and latency metrics before any customer sees them.",
         "iconSlug": "openai",
@@ -26,7 +26,7 @@
     {
       "layoutId": "body-icon-centered",
       "slots": {
-        "pageNumber": "03",
+        "pageNumber": "",
         "title": "2. Admin Panel, the mission control",
         "body": "A Supabase-backed dashboard showing user signups, API quota burn, and daily inference costs so founders catch spikes before the bill arrives.",
         "iconSlug": "supabase",
@@ -36,7 +36,7 @@
     {
       "layoutId": "body-icon-centered",
       "slots": {
-        "pageNumber": "04",
+        "pageNumber": "",
         "title": "3. Support Bot, the first responder",
         "body": "A Slack-integrated agent that triages #support tickets, drafts replies from the knowledge base, and escalates to engineers with full context.",
         "iconSlug": "slack",
@@ -46,7 +46,7 @@
     {
       "layoutId": "body-icon-centered",
       "slots": {
-        "pageNumber": "05",
+        "pageNumber": "",
         "title": "4. Ingestion Pipe, the memory builder",
         "body": "A Notion-triggered pipeline that chunks product docs, embeds them into Postgres with pgvector, and refreshes the index on every edit.",
         "iconSlug": "notion",
@@ -56,7 +56,7 @@
     {
       "layoutId": "body-icon-centered",
       "slots": {
-        "pageNumber": "06",
+        "pageNumber": "",
         "title": "5. Preview Env, the safety net",
         "body": "Vercel Preview deployments for every PR that spin up isolated staging databases so prompt changes never touch production data.",
         "iconSlug": "vercel",
@@ -66,7 +66,7 @@
     {
       "layoutId": "body-icon-centered",
       "slots": {
-        "pageNumber": "07",
+        "pageNumber": "",
         "title": "6. Notetaker, the context keeper",
         "body": "A Zoom bot that joins user research calls, transcribes audio, extracts feature requests, and drops structured tickets into Linear.",
         "iconSlug": "zoom",
@@ -76,11 +76,11 @@
     {
       "layoutId": "cta-display-cta",
       "slots": {
-        "pageNumber": "08",
+        "pageNumber": "",
         "eyebrow": "YOUR MOVE",
         "headline": "Ship Yours This Week",
         "subline": "Steal this sequence to ship fast and stay sane. Which tool are you building first?",
-        "buttonLabel": "DM 'stack'",
+        "buttonLabel": "",
         "handle": ""
       }
     }

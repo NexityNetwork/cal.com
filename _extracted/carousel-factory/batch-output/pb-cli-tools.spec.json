@@ -20,8 +20,8 @@
         "iconSlug5": "terminal",
         "statValue": "7",
         "statLabel": "TOOLS",
-        "swipeLabel": "SCROLL",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -44,7 +44,7 @@
         "skill4Body": "Bind it to Ctrl+R to replace default history search.",
         "cmdLine": "fzf --preview 'bat --color=always {}'",
         "outLine": "▸ src/main.rs",
-        "pageOf": "02 / 08",
+        "pageOf": "",
         "footerNote": "type less, find faster"
       }
     },
@@ -68,7 +68,7 @@
         "skill4Body": "Use -C 2 to show two lines of context around matches.",
         "cmdLine": "rg 'TODO' --type rust",
         "outLine": "src/lib.rs:42: // TODO: refactor",
-        "pageOf": "03 / 08",
+        "pageOf": "",
         "footerNote": "grep is dead, long live rg"
       }
     },
@@ -92,7 +92,7 @@
         "skill4Body": "Alias cat to bat and use --plain for pipe compatibility.",
         "cmdLine": "bat src/main.rs",
         "outLine": "  42 │ fn main() {",
-        "pageOf": "04 / 08",
+        "pageOf": "",
         "footerNote": "cat got wings"
       }
     },
@@ -116,7 +116,7 @@
         "skill4Body": "Use -l --git --icons for the ultimate directory overview.",
         "cmdLine": "eza -la --git",
         "outLine": "drwxr-xr-x  - user  today 12:00  src",
-        "pageOf": "05 / 08",
+        "pageOf": "",
         "footerNote": "ls is legacy"
       }
     },
@@ -140,7 +140,7 @@
         "skill4Body": "Init with your shell and alias cd to z.",
         "cmdLine": "z myproject",
         "outLine": "~/code/work/client/myproject",
-        "pageOf": "06 / 08",
+        "pageOf": "",
         "footerNote": "cd is too slow"
       }
     },
@@ -164,7 +164,7 @@
         "skill4Body": "Add battery and kubernetes modules for full devops visibility.",
         "cmdLine": "eval \"$(starship init bash)\"",
         "outLine": "main via 🦀 v1.75 > ",
-        "pageOf": "07 / 08",
+        "pageOf": "",
         "footerNote": "your prompt just leveled up"
       }
     },
@@ -177,15 +177,15 @@
         "ctaLine1": "RUN THESE",
         "ctaLine2": "DAILY",
         "ctaBody": "Install the modern CLI stack and spend less time typing paths. Your terminal deserves an upgrade.",
-        "btnPrimary": "INSTALL NOW",
-        "btnGhost": "READ BLOG",
+        "btnPrimary": "",
+        "btnGhost": "",
         "iconSlug1": "git",
         "iconSlug2": "github",
         "iconSlug3": "linux",
         "iconSlug4": "rust",
         "iconSlug5": "terminal",
         "iconSlug6": "vim",
-        "pageOf": "08 / 08",
+        "pageOf": "",
         "footerNote": "stay sharp, stay terminal"
       }
     }

@@ -34,8 +34,8 @@
         "name5": "Fontshare",
         "desc5": "Quality free fonts from Indian Type Foundry for commercial projects.",
         "tag5": "FREE",
-        "swipeLabel": "SEE EACH ONE",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -62,7 +62,7 @@
         "iconSlug4": "removebg",
         "iconSlug5": "fontshare",
         "iconSlug6": "photopea",
-        "pageOf": "02 / 08",
+        "pageOf": "",
         "footerNote": "Free tier includes 3 projects"
       }
     },
@@ -90,7 +90,7 @@
         "iconSlug4": "removebg",
         "iconSlug5": "fontshare",
         "iconSlug6": "photopea",
-        "pageOf": "03 / 08",
+        "pageOf": "",
         "footerNote": "No cloud required"
       }
     },
@@ -118,7 +118,7 @@
         "iconSlug4": "removebg",
         "iconSlug5": "fontshare",
         "iconSlug6": "photopea",
-        "pageOf": "04 / 08",
+        "pageOf": "",
         "footerNote": "No signup needed"
       }
     },
@@ -146,7 +146,7 @@
         "iconSlug4": "coolors",
         "iconSlug5": "fontshare",
         "iconSlug6": "photopea",
-        "pageOf": "05 / 08",
+        "pageOf": "",
         "footerNote": "Free low-res downloads"
       }
     },
@@ -174,7 +174,7 @@
         "iconSlug4": "coolors",
         "iconSlug5": "removebg",
         "iconSlug6": "photopea",
-        "pageOf": "06 / 08",
+        "pageOf": "",
         "footerNote": "100% free license"
       }
     },
@@ -202,7 +202,7 @@
         "iconSlug4": "coolors",
         "iconSlug5": "removebg",
         "iconSlug6": "fontshare",
-        "pageOf": "07 / 08",
+        "pageOf": "",
         "footerNote": "Runs in browser"
       }
     },
@@ -216,8 +216,8 @@
         "titleAccent": "design stack",
         "titleItalic": "today",
         "body": "Stop paying for bloated software. This six-tool workflow covers wireframes to production assets.",
-        "btnPrimary": "Save this",
-        "btnGhost": "Share stack",
+        "btnPrimary": "",
+        "btnGhost": "",
         "stackLabel": "the full stack",
         "iconSlug1": "figma",
         "iconSlug2": "penpot",
@@ -226,7 +226,7 @@
         "iconSlug5": "fontshare",
         "iconSlug6": "photopea",
         "signoff": "ship your weekend project",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

@@ -38,7 +38,7 @@
         "b2Title": "SHORTER REVIEW CYCLES",
         "b2Body": "Peers can review fifty lines in minutes, not five hundred in days.",
         "domainText": "",
-        "pageOf": "02 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -60,7 +60,7 @@
         "b2Title": "KEEP MAIN SHIPPABLE",
         "b2Body": "Main is production-ready at any moment, not just at sprint end.",
         "domainText": "",
-        "pageOf": "03 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -82,7 +82,7 @@
         "b2Title": "KILL WITHOUT ROLLBACK",
         "b2Body": "Turn off a flag in seconds instead of reverting an entire release.",
         "domainText": "",
-        "pageOf": "04 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -104,7 +104,7 @@
         "b2Title": "NO HUMAN BOTTLENECK",
         "b2Body": "Shipping isn't gated on someone manually clicking through staging at 5 PM.",
         "domainText": "",
-        "pageOf": "05 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -126,7 +126,7 @@
         "b2Title": "FIX WITHOUT REVERTING",
         "b2Body": "Forward-fix culture keeps momentum; rollbacks are the last resort.",
         "domainText": "",
-        "pageOf": "06 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -148,7 +148,7 @@
         "b2Title": "WRITE REPEATABLE RUNBOOKS",
         "b2Body": "Documented steps turn heroics into habits anyone can execute.",
         "domainText": "",
-        "pageOf": "07 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -160,11 +160,11 @@
         "ctaAccent": "BEST TEAMS",
         "ctaItalic": "starting now",
         "ctaBody": "Pick one principle this week and make your next release smaller, faster, and <em>less dramatic</em> than the last.",
-        "btnPrimary": "START SMALL",
-        "btnGhost": "READ MORE",
+        "btnPrimary": "",
+        "btnGhost": "",
         "signoff": "Ship calm, ship often",
         "domainText": "",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

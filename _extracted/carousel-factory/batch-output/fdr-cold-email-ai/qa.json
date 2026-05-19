@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/fdr-cold-email-ai/slide-01.png",
-      "bytes": 108868,
+      "bytes": 107347,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -117,7 +117,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/fdr-cold-email-ai/slide-08.png",
-      "bytes": 67189,
+      "bytes": 65359,
       "qa": {
         "verdict": "pass",
         "checks": {

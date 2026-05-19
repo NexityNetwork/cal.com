@@ -13,10 +13,10 @@
         "titleLine1": "10 startups",
         "titleUnderline": "hiding in",
         "titleAccent": "plain sight",
-        "avatarLetter": "M",
-        "byLine": "from the trenches",
-        "authorName": "Maya Chen",
-        "authorRole": "founder · late-night writer",
+        "avatarLetter": "",
+        "byLine": "",
+        "authorName": "",
+        "authorRole": "",
         "stickyNote": "here's exactly where I'd place my bets (and why)",
         "intro": "I spent 2025 watching <em>boring industries</em> mint new millionaires. These are the gaps no one is filling yet.",
         "tile1Label": "Stripe",
@@ -27,8 +27,8 @@
         "iconSlug2": "openai",
         "iconSlug3": "linear",
         "iconSlug4": "notion",
-        "swipeLabel": "let's go",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -56,13 +56,13 @@
         "insight3Tag": "RULE",
         "insight3Note": "write this down",
         "insight3Pill": "+MARGIN",
-        "avatarLetter": "M",
-        "authorQuote": "The best startups in 2026 won't be cool. They'll be <em>necessary</em>.",
+        "avatarLetter": "",
+        "authorQuote": "",
         "iconSlug1": "stripe",
         "iconSlug2": "openai",
         "iconSlug3": "linear",
         "iconSlug4": "notion",
-        "pageOf": "02 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -90,13 +90,13 @@
         "insight3Tag": "RULE",
         "insight3Note": "permanent tailwinds",
         "insight3Pill": "2026+",
-        "avatarLetter": "M",
-        "authorQuote": "I watch my friends <em>and</em> my parents. Both groups are desperate.",
+        "avatarLetter": "",
+        "authorQuote": "",
         "iconSlug1": "stripe",
         "iconSlug2": "openai",
         "iconSlug3": "linear",
         "iconSlug4": "notion",
-        "pageOf": "03 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -124,13 +124,13 @@
         "insight3Tag": "RULE",
         "insight3Note": "messy = money",
         "insight3Pill": "LTV 3X",
-        "avatarLetter": "M",
-        "authorQuote": "If it runs on WhatsApp and spreadsheets, <em>productize it</em> immediately.",
+        "avatarLetter": "",
+        "authorQuote": "",
         "iconSlug1": "stripe",
         "iconSlug2": "openai",
         "iconSlug3": "linear",
         "iconSlug4": "notion",
-        "pageOf": "04 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -158,13 +158,13 @@
         "insight3Tag": "RULE",
         "insight3Note": "outcomes sell",
         "insight3Pill": "FOCUS",
-        "avatarLetter": "M",
-        "authorQuote": "If it ships in a box or shows up in person, <em>margins</em> still exist.",
+        "avatarLetter": "",
+        "authorQuote": "",
         "iconSlug1": "stripe",
         "iconSlug2": "openai",
         "iconSlug3": "linear",
         "iconSlug4": "notion",
-        "pageOf": "05 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -192,13 +192,13 @@
         "insight3Tag": "RULE",
         "insight3Note": "ship fast",
         "insight3Pill": "WEEK 1",
-        "avatarLetter": "M",
-        "authorQuote": "I built my first company on a <em>weekend</em>. The idea was ugly. The revenue wasn't.",
+        "avatarLetter": "",
+        "authorQuote": "",
         "iconSlug1": "stripe",
         "iconSlug2": "openai",
         "iconSlug3": "linear",
         "iconSlug4": "notion",
-        "pageOf": "06 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -226,13 +226,13 @@
         "insight3Tag": "AHA",
         "insight3Note": "bottoms up",
         "insight3Pill": "LAND",
-        "avatarLetter": "M",
-        "authorQuote": "My worst mistake was building for <em>approvers</em> instead of users.",
+        "avatarLetter": "",
+        "authorQuote": "",
         "iconSlug1": "stripe",
         "iconSlug2": "openai",
         "iconSlug3": "linear",
         "iconSlug4": "notion",
-        "pageOf": "07 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -252,10 +252,10 @@
         "iconSlug5": "framer",
         "iconSlug6": "vercel",
         "ctaBody": "I write these essays at 2am because <em>founders deserve</em> honest maps, not hype. Which idea are you stealing?",
-        "btnPrimary": "Save Post",
-        "btnGhost": "follow for more",
+        "btnPrimary": "",
+        "btnGhost": "",
         "signoff": "more next week ✱",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

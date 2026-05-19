@@ -29,8 +29,8 @@
         "iconSlug3": "qdrant",
         "iconSlug4": "grafana",
         "iconSlug5": "ollama",
-        "swipeLabel": "DIVE IN",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -58,7 +58,7 @@
         "iconSlug2": "docker",
         "iconSlug3": "postgresql",
         "iconSlug4": "slack",
-        "pageOf": "02 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -86,7 +86,7 @@
         "iconSlug2": "typescript",
         "iconSlug3": "python",
         "iconSlug4": "go",
-        "pageOf": "03 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -114,7 +114,7 @@
         "iconSlug2": "rust",
         "iconSlug3": "python",
         "iconSlug4": "openai",
-        "pageOf": "04 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -142,7 +142,7 @@
         "iconSlug2": "prometheus",
         "iconSlug3": "docker",
         "iconSlug4": "kubernetes",
-        "pageOf": "05 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -170,7 +170,7 @@
         "iconSlug2": "linux",
         "iconSlug3": "docker",
         "iconSlug4": "python",
-        "pageOf": "06 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -198,7 +198,7 @@
         "iconSlug2": "supabase",
         "iconSlug3": "postgresql",
         "iconSlug4": "docker",
-        "pageOf": "07 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -218,11 +218,11 @@
         "iconSlug5": "ollama",
         "iconSlug6": "supabase",
         "ctaBody": "Production AI ops that <em>ship while you sleep</em>. Benchmarks included, hype excluded.",
-        "btnPrimary": "Bookmark Now",
-        "btnGhost": "Follow Along",
+        "btnPrimary": "",
+        "btnGhost": "",
         "iconSlug7": "docker",
         "iconSlug8": "kubernetes",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

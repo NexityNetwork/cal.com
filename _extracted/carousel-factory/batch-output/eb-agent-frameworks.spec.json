@@ -28,8 +28,8 @@
         "iconSlug5": "openai",
         "toolCount": "12+",
         "countLabel": "TOOLS COVERED",
-        "swipeLabel": "READ",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -61,7 +61,7 @@
         "iconSlug2": "llamaindex",
         "iconSlug3": "langchain",
         "iconSlug4": "openai",
-        "pageOf": "02 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -94,7 +94,7 @@
         "iconSlug2": "autogen",
         "iconSlug3": "openai",
         "iconSlug4": "vercel",
-        "pageOf": "03 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -136,7 +136,7 @@
         "iconSlug6": "anthropic",
         "iconSlug7": "google",
         "iconSlug8": "huggingface",
-        "pageOf": "04 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -168,7 +168,7 @@
         "iconSlug2": "crewai",
         "iconSlug3": "openai",
         "iconSlug4": "anthropic",
-        "pageOf": "05 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -201,7 +201,7 @@
         "iconSlug2": "openai",
         "iconSlug3": "anthropic",
         "iconSlug4": "vercel",
-        "pageOf": "06 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -243,7 +243,7 @@
         "iconSlug6": "anthropic",
         "iconSlug7": "google",
         "iconSlug8": "huggingface",
-        "pageOf": "07 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -263,10 +263,10 @@
         "iconSlug5": "openai",
         "iconSlug6": "anthropic",
         "ctaBody": "Get the complete benchmark report and starter templates for every major framework.",
-        "btnPrimary": "Download PDF",
-        "btnGhost": "Read blog",
+        "btnPrimary": "",
+        "btnGhost": "",
         "signoff": "Happy building",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

@@ -7,7 +7,7 @@
     {
       "layoutId": "cover-display-cta",
       "slots": {
-        "pageNumber": "01",
+        "pageNumber": "",
         "headlineLine1": "Bye Heroku",
         "headlineLine2": "Hello Edge",
         "accentSuffix": "!"
@@ -16,7 +16,7 @@
     {
       "layoutId": "body-icon-centered",
       "slots": {
-        "pageNumber": "02",
+        "pageNumber": "",
         "title": "1. Cloudflare, the edge",
         "body": "Kill the monolith. Workers run your inference at the edge, R2 stores models cheaply.",
         "iconSlug": "cloudflare",
@@ -26,7 +26,7 @@
     {
       "layoutId": "body-icon-centered",
       "slots": {
-        "pageNumber": "03",
+        "pageNumber": "",
         "title": "2. Supabase, the database",
         "body": "Postgres with auth, realtime, and pgvector built-in. No more juggling RDS and Cognito.",
         "iconSlug": "supabase",
@@ -36,7 +36,7 @@
     {
       "layoutId": "body-icon-centered",
       "slots": {
-        "pageNumber": "04",
+        "pageNumber": "",
         "title": "3. Vercel, the frontend",
         "body": "Next.js deploys to the edge with one click. AI SDK streams tokens without server setup.",
         "iconSlug": "vercel",
@@ -46,7 +46,7 @@
     {
       "layoutId": "body-icon-centered",
       "slots": {
-        "pageNumber": "05",
+        "pageNumber": "",
         "title": "4. Stripe, the billing",
         "body": "Metered usage for tokens and API calls. Invoice customers automatically based on inference volume.",
         "iconSlug": "stripe",
@@ -56,7 +56,7 @@
     {
       "layoutId": "body-icon-centered",
       "slots": {
-        "pageNumber": "06",
+        "pageNumber": "",
         "title": "5. Anthropic, the brain",
         "body": "Claude handles reasoning with a 200K context window. Route complex tasks away from cheap models.",
         "iconSlug": "anthropic",
@@ -66,7 +66,7 @@
     {
       "layoutId": "body-icon-centered",
       "slots": {
-        "pageNumber": "07",
+        "pageNumber": "",
         "title": "6. Redis, the cache",
         "body": "Cache embeddings and rate-limit API keys. Sub-millisecond lookups prevent redundant LLM calls.",
         "iconSlug": "redis",
@@ -76,11 +76,11 @@
     {
       "layoutId": "cta-display-cta",
       "slots": {
-        "pageNumber": "08",
+        "pageNumber": "",
         "eyebrow": "YOUR MOVE",
         "headline": "Build your AI stack",
         "subline": "Swap Heroku for the edge. Save this checklist and start shipping faster tomorrow.",
-        "buttonLabel": "Save this post",
+        "buttonLabel": "",
         "handle": ""
       }
     }

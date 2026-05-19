@@ -19,13 +19,13 @@
         "preview1": "Why being technical is now a liability",
         "preview2": "The ownership gap nobody warned you about",
         "preview3": "From code monkey to product owner",
-        "avatarLetter": "J",
-        "authorName": "Jordan Marks",
-        "authorRole": "technical founder · 3 exits · ex-Google",
+        "avatarLetter": "",
+        "authorName": "",
+        "authorRole": "",
         "tag1": "FOUNDER",
         "tag2": "AI ERA",
-        "swipeLabel": "Read the issue",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -55,7 +55,7 @@
         "iconSlug2": "github",
         "iconSlug3": "vercel",
         "iconSlug4": "openai",
-        "pageOf": "02 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -85,7 +85,7 @@
         "iconSlug2": "mixpanel",
         "iconSlug3": "segment",
         "iconSlug4": "stripe",
-        "pageOf": "03 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -115,7 +115,7 @@
         "iconSlug2": "slack",
         "iconSlug3": "loom",
         "iconSlug4": "google",
-        "pageOf": "04 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -145,7 +145,7 @@
         "iconSlug2": "railway",
         "iconSlug3": "supabase",
         "iconSlug4": "twilio",
-        "pageOf": "05 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -175,7 +175,7 @@
         "iconSlug2": "mercury",
         "iconSlug3": "angel",
         "iconSlug4": "carta",
-        "pageOf": "06 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -205,7 +205,7 @@
         "iconSlug2": "notion",
         "iconSlug3": "figma",
         "iconSlug4": "slack",
-        "pageOf": "07 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -223,10 +223,10 @@
         "iconSlug3": "notion",
         "iconSlug4": "vercel",
         "ctaBody": "AI didn't kill your job—it killed the illusion that you ever wanted one. <em>Start building equity.</em>",
-        "btnPrimary": "Save Post",
-        "btnGhost": "Follow along",
+        "btnPrimary": "",
+        "btnGhost": "",
         "signoff": "more essays weekly",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

@@ -22,7 +22,7 @@
       "layoutId": "body-coral-mag",
       "slots": {
         "brand": "",
-        "pageLabel": "P.02",
+        "pageLabel": "",
         "number": "01",
         "eyebrow": "MISTAKE 01",
         "titleWord1": "RANDOM",
@@ -36,7 +36,7 @@
       "layoutId": "body-coral-mag",
       "slots": {
         "brand": "",
-        "pageLabel": "P.03",
+        "pageLabel": "",
         "number": "02",
         "eyebrow": "MISTAKE 02",
         "titleWord1": "CHEAP",
@@ -50,7 +50,7 @@
       "layoutId": "body-coral-mag",
       "slots": {
         "brand": "",
-        "pageLabel": "P.04",
+        "pageLabel": "",
         "number": "03",
         "eyebrow": "MISTAKE 03",
         "titleWord1": "CROWDED",
@@ -64,7 +64,7 @@
       "layoutId": "body-coral-mag",
       "slots": {
         "brand": "",
-        "pageLabel": "P.05",
+        "pageLabel": "",
         "number": "04",
         "eyebrow": "MISTAKE 04",
         "titleWord1": "WRONG",
@@ -78,7 +78,7 @@
       "layoutId": "body-coral-mag",
       "slots": {
         "brand": "",
-        "pageLabel": "P.06",
+        "pageLabel": "",
         "number": "05",
         "eyebrow": "MISTAKE 05",
         "titleWord1": "WEAK",
@@ -92,7 +92,7 @@
       "layoutId": "body-coral-mag",
       "slots": {
         "brand": "",
-        "pageLabel": "P.07",
+        "pageLabel": "",
         "number": "06",
         "eyebrow": "THE FIX",
         "titleWord1": "CLEAN",
@@ -106,12 +106,12 @@
       "layoutId": "cta-coral-mag",
       "slots": {
         "brand": "",
-        "pageOf": "08 / 08",
+        "pageOf": "",
         "tag": "YOUR MOVE",
         "headWord1": "SAVE",
         "headWord2": "THIS",
         "body": "Bookmark this checklist and audit your profile before your next post goes live.",
-        "buttonLabel": "FOLLOW FOR MORE",
+        "buttonLabel": "",
         "handle": ""
       }
     }

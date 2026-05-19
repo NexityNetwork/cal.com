@@ -22,7 +22,7 @@
       "layoutId": "body-coral-mag",
       "slots": {
         "brand": "",
-        "pageLabel": "P.02",
+        "pageLabel": "",
         "number": "01",
         "eyebrow": "THE TACTIC",
         "titleWord1": "FOUNDER",
@@ -36,7 +36,7 @@
       "layoutId": "body-coral-mag",
       "slots": {
         "brand": "",
-        "pageLabel": "P.03",
+        "pageLabel": "",
         "number": "02",
         "eyebrow": "THE SYSTEM",
         "titleWord1": "REFERRAL",
@@ -50,7 +50,7 @@
       "layoutId": "body-coral-mag",
       "slots": {
         "brand": "",
-        "pageLabel": "P.04",
+        "pageLabel": "",
         "number": "03",
         "eyebrow": "THE FUNNEL",
         "titleWord1": "HIGH-VALUE",
@@ -64,7 +64,7 @@
       "layoutId": "body-coral-mag",
       "slots": {
         "brand": "",
-        "pageLabel": "P.05",
+        "pageLabel": "",
         "number": "04",
         "eyebrow": "THE CHANNEL",
         "titleWord1": "PODCAST",
@@ -78,7 +78,7 @@
       "layoutId": "body-coral-mag",
       "slots": {
         "brand": "",
-        "pageLabel": "P.06",
+        "pageLabel": "",
         "number": "05",
         "eyebrow": "THE ALLIANCE",
         "titleWord1": "PLATFORM",
@@ -92,7 +92,7 @@
       "layoutId": "body-coral-mag",
       "slots": {
         "brand": "",
-        "pageLabel": "P.07",
+        "pageLabel": "",
         "number": "06",
         "eyebrow": "THE ENGINE",
         "titleWord1": "PRIVATE",
@@ -106,12 +106,12 @@
       "layoutId": "cta-coral-mag",
       "slots": {
         "brand": "",
-        "pageOf": "07 / 07",
+        "pageOf": "",
         "tag": "YOUR MOVE",
         "headWord1": "SAVE",
         "headWord2": "THIS",
         "body": "Steal these tactics and rebuild your pipeline without cold email. Follow for weekly growth plays.",
-        "buttonLabel": "Follow for more",
+        "buttonLabel": "",
         "handle": ""
       }
     }

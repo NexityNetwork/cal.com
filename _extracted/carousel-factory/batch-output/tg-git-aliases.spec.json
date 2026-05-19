@@ -30,8 +30,8 @@
         "iconSlug3": "gitlab",
         "iconSlug4": "gnubash",
         "iconSlug5": "linux",
-        "swipeLabel": "CLONE",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -66,7 +66,7 @@
         "iconSlug2": "github",
         "iconSlug3": "gitlab",
         "iconSlug4": "linux",
-        "pageOf": "02 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -101,7 +101,7 @@
         "iconSlug2": "github",
         "iconSlug3": "gnubash",
         "iconSlug4": "linux",
-        "pageOf": "03 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -136,7 +136,7 @@
         "iconSlug2": "github",
         "iconSlug3": "gitlab",
         "iconSlug4": "bitbucket",
-        "pageOf": "04 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -171,7 +171,7 @@
         "iconSlug2": "github",
         "iconSlug3": "gitlab",
         "iconSlug4": "linux",
-        "pageOf": "05 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -206,7 +206,7 @@
         "iconSlug2": "github",
         "iconSlug3": "gnubash",
         "iconSlug4": "linux",
-        "pageOf": "06 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -241,7 +241,7 @@
         "iconSlug2": "github",
         "iconSlug3": "gitlab",
         "iconSlug4": "linux",
-        "pageOf": "07 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -261,10 +261,10 @@
         "iconSlug5": "gnubash",
         "iconSlug6": "linux",
         "ctaBody": "Paste these 5 aliases into your <em>~/.gitconfig</em> and watch your daily commit speed triple overnight.",
-        "btnPrimary": "Copy Aliases",
-        "btnGhost": "Follow @githacks",
+        "btnPrimary": "",
+        "btnGhost": "",
         "signoff": "commit often, push fast",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

@@ -19,8 +19,8 @@
         "iconSlug4": "betterstack",
         "iconSlug5": "datadog",
         "iconSlug6": "newrelic",
-        "swipeLabel": "SEE LIST",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -41,7 +41,7 @@
         "metric2Value": "5K/MO",
         "metric3Label": "OSS",
         "metric3Value": "YES",
-        "pageOf": "02 / 08",
+        "pageOf": "",
         "footerNote": "open source, SDK"
       }
     },
@@ -63,7 +63,7 @@
         "metric2Value": "10K",
         "metric3Label": "OSS",
         "metric3Value": "YES",
-        "pageOf": "03 / 08",
+        "pageOf": "",
         "footerNote": "hosted, open core"
       }
     },
@@ -85,7 +85,7 @@
         "metric2Value": "50",
         "metric3Label": "FREQ",
         "metric3Value": "60S",
-        "pageOf": "04 / 08",
+        "pageOf": "",
         "footerNote": "no card required"
       }
     },
@@ -107,7 +107,7 @@
         "metric2Value": "10",
         "metric3Label": "TEAM",
         "metric3Value": "UNLIM",
-        "pageOf": "05 / 08",
+        "pageOf": "",
         "footerNote": "status page free"
       }
     },
@@ -129,7 +129,7 @@
         "metric2Value": "5",
         "metric3Label": "LOGS",
         "metric3Value": "1GB",
-        "pageOf": "06 / 08",
+        "pageOf": "",
         "footerNote": "cloud native, pro"
       }
     },
@@ -151,7 +151,7 @@
         "metric2Value": "100GB",
         "metric3Label": "USERS",
         "metric3Value": "UNLIM",
-        "pageOf": "07 / 08",
+        "pageOf": "",
         "footerNote": "generous free tier"
       }
     },
@@ -164,15 +164,15 @@
         "ctaLine1": "Monitor your",
         "ctaCallout": "stack free",
         "ctaBody": "Deploy one tool today and stop guessing why production breaks. Your users will thank you.",
-        "btnPrimary": "Start Free",
-        "btnGhost": "Read Docs",
+        "btnPrimary": "",
+        "btnGhost": "",
         "iconSlug1": "sentry",
         "iconSlug2": "grafana",
         "iconSlug3": "uptimerobot",
         "iconSlug4": "betterstack",
         "iconSlug5": "datadog",
         "iconSlug6": "newrelic",
-        "pageOf": "08 / 08",
+        "pageOf": "",
         "footerNote": "free tiers only"
       }
     }

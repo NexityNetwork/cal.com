@@ -28,7 +28,7 @@
       "layoutId": "body-dark-navy",
       "slots": {
         "brand": "",
-        "pageOf": "02/08",
+        "pageOf": "",
         "stepLabel": "#1 version inside the URL path",
         "number": "1",
         "titleMain": "Lock the",
@@ -42,7 +42,7 @@
       "layoutId": "body-dark-navy",
       "slots": {
         "brand": "",
-        "pageOf": "03/08",
+        "pageOf": "",
         "stepLabel": "#2 require idempotency keys on mutations",
         "number": "2",
         "titleMain": "Write once",
@@ -56,7 +56,7 @@
       "layoutId": "body-dark-navy",
       "slots": {
         "brand": "",
-        "pageOf": "04/08",
+        "pageOf": "",
         "stepLabel": "#3 return predictable standard error shapes",
         "number": "3",
         "titleMain": "Errors stay",
@@ -70,7 +70,7 @@
       "layoutId": "body-dark-navy",
       "slots": {
         "brand": "",
-        "pageOf": "05/08",
+        "pageOf": "",
         "stepLabel": "#4 paginate collections using opaque cursors",
         "number": "4",
         "titleMain": "Pages via",
@@ -84,7 +84,7 @@
       "layoutId": "body-dark-navy",
       "slots": {
         "brand": "",
-        "pageOf": "06/08",
+        "pageOf": "",
         "stepLabel": "#5 sign webhooks with timestamped headers",
         "number": "5",
         "titleMain": "Verify every",
@@ -98,7 +98,7 @@
       "layoutId": "body-dark-navy",
       "slots": {
         "brand": "",
-        "pageOf": "07/08",
+        "pageOf": "",
         "stepLabel": "#6 define contracts in OpenAPI first",
         "number": "6",
         "titleMain": "Schema as",
@@ -112,12 +112,12 @@
       "layoutId": "cta-dark-navy",
       "slots": {
         "brand": "",
-        "pageOf": "08/08",
+        "pageOf": "",
         "terminalTag": "run deploy.sh --to=your-feed --topic=api-design",
         "headLine1": "Ship",
         "headLine2": "clean APIs",
         "body": "Follow for more systems design threads that cut maintenance and keep your integrations stable at scale.",
-        "buttonLabel": "Follow now",
+        "buttonLabel": "",
         "secondaryNote": "follow for more threads",
         "handle": ""
       }

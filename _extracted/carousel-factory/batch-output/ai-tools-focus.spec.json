@@ -22,7 +22,7 @@
       "layoutId": "body-neon-dark",
       "slots": {
         "handle": "",
-        "pageOf": "02 / 08",
+        "pageOf": "",
         "number": "1",
         "titleLabel": "THE WRITER",
         "titleMain": "ChatGPT drafts",
@@ -36,7 +36,7 @@
       "layoutId": "body-neon-dark",
       "slots": {
         "handle": "",
-        "pageOf": "03 / 08",
+        "pageOf": "",
         "number": "2",
         "titleLabel": "THE DESIGNER",
         "titleMain": "Midjourney makes",
@@ -50,7 +50,7 @@
       "layoutId": "body-neon-dark",
       "slots": {
         "handle": "",
-        "pageOf": "04 / 08",
+        "pageOf": "",
         "number": "3",
         "titleLabel": "THE EDITOR",
         "titleMain": "OpusClip edits",
@@ -64,7 +64,7 @@
       "layoutId": "body-neon-dark",
       "slots": {
         "handle": "",
-        "pageOf": "05 / 08",
+        "pageOf": "",
         "number": "4",
         "titleLabel": "THE VOICE",
         "titleMain": "ElevenLabs speaks",
@@ -78,7 +78,7 @@
       "layoutId": "body-neon-dark",
       "slots": {
         "handle": "",
-        "pageOf": "06 / 08",
+        "pageOf": "",
         "number": "5",
         "titleLabel": "THE EFFECTS",
         "titleMain": "Runway adds",
@@ -92,7 +92,7 @@
       "layoutId": "body-neon-dark",
       "slots": {
         "handle": "",
-        "pageOf": "07 / 08",
+        "pageOf": "",
         "number": "6",
         "titleLabel": "THE HOST",
         "titleMain": "HeyGen films",
@@ -106,12 +106,12 @@
       "layoutId": "cta-neon-dark",
       "slots": {
         "handle": "",
-        "pageOf": "08 / 08",
+        "pageOf": "",
         "eyebrow": "YOUR MOVE",
         "headlineNeon": "SAVE",
         "headlineWhite": "this post",
         "body": "Swap 12 apps for 6 AI tools and ship content daily without the bloat.",
-        "buttonLabel": "Save this post",
+        "buttonLabel": "",
         "secondaryLabel": "// follow @creatorstack"
       }
     }

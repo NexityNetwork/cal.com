@@ -13,10 +13,10 @@
         "titleLine1": "we built",
         "titleUnderline": "the same",
         "titleAccent": "product twice",
-        "avatarLetter": "A",
-        "byLine": "from the trenches",
-        "authorName": "Alex Chen",
-        "authorRole": "founder · late-night writer",
+        "avatarLetter": "",
+        "byLine": "",
+        "authorName": "",
+        "authorRole": "",
         "stickyNote": "here's exactly what I did (and broke)",
         "intro": "The second version made <em>10x more revenue</em> with half the features.",
         "tile1Label": "Cursor",
@@ -27,8 +27,8 @@
         "iconSlug2": "stripe",
         "iconSlug3": "linear",
         "iconSlug4": "notion",
-        "swipeLabel": "let's go",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -56,13 +56,13 @@
         "insight3Tag": "AHA",
         "insight3Note": "hard lesson",
         "insight3Pill": "12 MO",
-        "avatarLetter": "A",
-        "authorQuote": "I thought polish would sell itself. <em>I was wrong.</em>",
+        "avatarLetter": "",
+        "authorQuote": "",
         "iconSlug1": "github",
         "iconSlug2": "vercel",
         "iconSlug3": "figma",
         "iconSlug4": "framer",
-        "pageOf": "02 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -90,13 +90,13 @@
         "insight3Tag": "AHA",
         "insight3Note": "write that down",
         "insight3Pill": "10X RULE",
-        "avatarLetter": "A",
-        "authorQuote": "I stopped building for <em>myself</em> and started building for strangers with credit cards.",
+        "avatarLetter": "",
+        "authorQuote": "",
         "iconSlug1": "loom",
         "iconSlug2": "slack",
         "iconSlug3": "notion",
         "iconSlug4": "arc",
-        "pageOf": "03 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -124,13 +124,13 @@
         "insight3Tag": "MOVE",
         "insight3Note": "momentum builds",
         "insight3Pill": "PUBLIC",
-        "avatarLetter": "A",
-        "authorQuote": "The second time, we sold the <em>promise</em> before we wrote the first line of code.",
+        "avatarLetter": "",
+        "authorQuote": "",
         "iconSlug1": "figma",
         "iconSlug2": "stripe",
         "iconSlug3": "twitter",
         "iconSlug4": "linear",
-        "pageOf": "04 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -158,13 +158,13 @@
         "insight3Tag": "CLOSE",
         "insight3Note": "fear of missing out",
         "insight3Pill": "6 HRS",
-        "avatarLetter": "A",
-        "authorQuote": "We traded our pride for <em>presence</em> everywhere our customers already lived.",
+        "avatarLetter": "",
+        "authorQuote": "",
         "iconSlug1": "loom",
         "iconSlug2": "twitter",
         "iconSlug3": "slack",
         "iconSlug4": "notion",
-        "pageOf": "05 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -192,13 +192,13 @@
         "insight3Tag": "EDGE",
         "insight3Note": "keep shipping",
         "insight3Pill": "WEEKLY",
-        "avatarLetter": "A",
-        "authorQuote": "The product that took two weeks made more than the <em>year-long</em> masterpiece.",
+        "avatarLetter": "",
+        "authorQuote": "",
         "iconSlug1": "stripe",
         "iconSlug2": "linear",
         "iconSlug3": "vercel",
         "iconSlug4": "cursor",
-        "pageOf": "06 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -226,13 +226,13 @@
         "insight3Tag": "GROW",
         "insight3Note": "audience first",
         "insight3Pill": "500 LIST",
-        "avatarLetter": "A",
-        "authorQuote": "My next idea didn't need more time. It needed <em>more courage</em> to launch ugly.",
+        "avatarLetter": "",
+        "authorQuote": "",
         "iconSlug1": "twitter",
         "iconSlug2": "notion",
         "iconSlug3": "stripe",
         "iconSlug4": "loom",
-        "pageOf": "07 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -252,10 +252,10 @@
         "iconSlug5": "loom",
         "iconSlug6": "figma",
         "ctaBody": "I write about shipping fast and breaking things gently. <em>Follow along</em> if you're building in public too.",
-        "btnPrimary": "Save Post",
-        "btnGhost": "follow for more",
+        "btnPrimary": "",
+        "btnGhost": "",
         "signoff": "more next week ✱",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

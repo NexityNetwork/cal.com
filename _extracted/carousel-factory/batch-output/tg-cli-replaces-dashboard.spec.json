@@ -30,8 +30,8 @@
         "iconSlug3": "github",
         "iconSlug4": "linux",
         "iconSlug5": "gnu",
-        "swipeLabel": "RUN",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -66,7 +66,7 @@
         "iconSlug2": "linux",
         "iconSlug3": "gnu",
         "iconSlug4": "vim",
-        "pageOf": "02 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -101,7 +101,7 @@
         "iconSlug2": "linux",
         "iconSlug3": "github",
         "iconSlug4": "gnu",
-        "pageOf": "03 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -136,7 +136,7 @@
         "iconSlug2": "gnu",
         "iconSlug3": "github",
         "iconSlug4": "docker",
-        "pageOf": "04 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -171,7 +171,7 @@
         "iconSlug2": "rust",
         "iconSlug3": "gnu",
         "iconSlug4": "github",
-        "pageOf": "05 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -206,7 +206,7 @@
         "iconSlug2": "linux",
         "iconSlug3": "github",
         "iconSlug4": "docker",
-        "pageOf": "06 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -241,7 +241,7 @@
         "iconSlug2": "git",
         "iconSlug3": "linux",
         "iconSlug4": "gnu",
-        "pageOf": "07 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -261,10 +261,10 @@
         "iconSlug5": "gnu",
         "iconSlug6": "git",
         "ctaBody": "Bookmark these <em>6 TUI tools</em> and cut your dashboard time in half. Follow for weekly shell tricks.",
-        "btnPrimary": "Bookmark Now",
-        "btnGhost": "Follow @srehq",
+        "btnPrimary": "",
+        "btnGhost": "",
         "signoff": "ship fast, debug faster",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

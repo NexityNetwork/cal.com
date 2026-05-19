@@ -22,7 +22,7 @@
       "layoutId": "body-neon-dark",
       "slots": {
         "handle": "",
-        "pageOf": "02 / 08",
+        "pageOf": "",
         "number": "1",
         "titleLabel": "HABIT ONE",
         "titleMain": "Inline edits",
@@ -36,7 +36,7 @@
       "layoutId": "body-neon-dark",
       "slots": {
         "handle": "",
-        "pageOf": "03 / 08",
+        "pageOf": "",
         "number": "2",
         "titleLabel": "CONTEXT",
         "titleMain": "Mention files",
@@ -50,7 +50,7 @@
       "layoutId": "body-neon-dark",
       "slots": {
         "handle": "",
-        "pageOf": "04 / 08",
+        "pageOf": "",
         "number": "3",
         "titleLabel": "THE RULES",
         "titleMain": "Set project",
@@ -64,7 +64,7 @@
       "layoutId": "body-neon-dark",
       "slots": {
         "handle": "",
-        "pageOf": "05 / 08",
+        "pageOf": "",
         "number": "4",
         "titleLabel": "AGENT MODE",
         "titleMain": "Let Agent",
@@ -78,7 +78,7 @@
       "layoutId": "body-neon-dark",
       "slots": {
         "handle": "",
-        "pageOf": "06 / 08",
+        "pageOf": "",
         "number": "5",
         "titleLabel": "ITERATE",
         "titleMain": "Chat first",
@@ -92,7 +92,7 @@
       "layoutId": "body-neon-dark",
       "slots": {
         "handle": "",
-        "pageOf": "07 / 08",
+        "pageOf": "",
         "number": "6",
         "titleLabel": "COMPOSER",
         "titleMain": "Edit across",
@@ -106,12 +106,12 @@
       "layoutId": "cta-neon-dark",
       "slots": {
         "handle": "",
-        "pageOf": "08 / 08",
+        "pageOf": "",
         "eyebrow": "YOUR MOVE",
         "headlineNeon": "SAVE",
         "headlineWhite": "this post",
         "body": "Build your own 5x Cursor workflow. Which habit will you try first? Drop a comment below.",
-        "buttonLabel": "Save this post",
+        "buttonLabel": "",
         "secondaryLabel": "// follow @cursordev"
       }
     }

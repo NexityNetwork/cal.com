@@ -22,7 +22,7 @@
       "layoutId": "body-neon-dark",
       "slots": {
         "handle": "",
-        "pageOf": "02 / 08",
+        "pageOf": "",
         "number": "1",
         "titleLabel": "THE STACK",
         "titleMain": "Tools I Use",
@@ -36,7 +36,7 @@
       "layoutId": "body-neon-dark",
       "slots": {
         "handle": "",
-        "pageOf": "03 / 08",
+        "pageOf": "",
         "number": "2",
         "titleLabel": "THE FLOW",
         "titleMain": "Idea to Inbox",
@@ -50,7 +50,7 @@
       "layoutId": "body-neon-dark",
       "slots": {
         "handle": "",
-        "pageOf": "04 / 08",
+        "pageOf": "",
         "number": "3",
         "titleLabel": "NIGHT HABIT",
         "titleMain": "Shutdown Routine",
@@ -64,7 +64,7 @@
       "layoutId": "body-neon-dark",
       "slots": {
         "handle": "",
-        "pageOf": "05 / 08",
+        "pageOf": "",
         "number": "4",
         "titleLabel": "MISTAKE",
         "titleMain": "Skipping Rest Days",
@@ -78,7 +78,7 @@
       "layoutId": "body-neon-dark",
       "slots": {
         "handle": "",
-        "pageOf": "06 / 08",
+        "pageOf": "",
         "number": "5",
         "titleLabel": "GROWTH HACK",
         "titleMain": "Referral Engine",
@@ -92,7 +92,7 @@
       "layoutId": "body-neon-dark",
       "slots": {
         "handle": "",
-        "pageOf": "07 / 08",
+        "pageOf": "",
         "number": "6",
         "titleLabel": "THE PAYOFF",
         "titleMain": "Six Figures",
@@ -106,12 +106,12 @@
       "layoutId": "cta-neon-dark",
       "slots": {
         "handle": "",
-        "pageOf": "08 / 08",
+        "pageOf": "",
         "eyebrow": "YOUR MOVE",
         "headlineNeon": "STEAL",
         "headlineWhite": "this system",
         "body": "Save this post and build your own creator OS tonight. Your future newsletter will thank you.",
-        "buttonLabel": "Save this post",
+        "buttonLabel": "",
         "secondaryLabel": "// follow @creator"
       }
     }

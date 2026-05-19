@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/tsg-saas-starter-stack/slide-01.png",
-      "bytes": 119313,
+      "bytes": 118235,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -19,7 +19,7 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/tsg-saas-starter-stack/slide-02.png",
-      "bytes": 110939,
+      "bytes": 109841,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -35,7 +35,7 @@
     {
       "index": 2,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/tsg-saas-starter-stack/slide-03.png",
-      "bytes": 109660,
+      "bytes": 108486,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -51,7 +51,7 @@
     {
       "index": 3,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/tsg-saas-starter-stack/slide-04.png",
-      "bytes": 109452,
+      "bytes": 108358,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -67,7 +67,7 @@
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/tsg-saas-starter-stack/slide-05.png",
-      "bytes": 104613,
+      "bytes": 103438,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -83,7 +83,7 @@
     {
       "index": 5,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/tsg-saas-starter-stack/slide-06.png",
-      "bytes": 104822,
+      "bytes": 103604,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -99,7 +99,7 @@
     {
       "index": 6,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/tsg-saas-starter-stack/slide-07.png",
-      "bytes": 108824,
+      "bytes": 107678,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -115,7 +115,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/tsg-saas-starter-stack/slide-08.png",
-      "bytes": 300317,
+      "bytes": 286958,
       "qa": {
         "verdict": "pass",
         "checks": {

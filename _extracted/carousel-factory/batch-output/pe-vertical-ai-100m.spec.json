@@ -13,10 +13,10 @@
         "titleLine1": "we shipped",
         "titleUnderline": "five AI",
         "titleAccent": "verticals fast",
-        "avatarLetter": "A",
-        "byLine": "from the trenches",
-        "authorName": "Alex Vert",
-        "authorRole": "founder · late-night builder",
+        "avatarLetter": "",
+        "byLine": "",
+        "authorName": "",
+        "authorRole": "",
         "stickyNote": "here's exactly what worked (and what flopped)",
         "intro": "I built five vertical AI startups in 18 months. Here is the <em>exact</em> playbook I wish I had on day one.",
         "tile1Label": "Cursor",
@@ -27,8 +27,8 @@
         "iconSlug2": "stripe",
         "iconSlug3": "linear",
         "iconSlug4": "vercel",
-        "swipeLabel": "swipe through",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -56,13 +56,13 @@
         "insight3Tag": "AHA",
         "insight3Note": "do this first",
         "insight3Pill": "WEEK 2",
-        "avatarLetter": "A",
-        "authorQuote": "If they won't pay in week one, the AI isn't <em>vertical</em> enough.",
+        "avatarLetter": "",
+        "authorQuote": "",
         "iconSlug1": "openai",
         "iconSlug2": "anthropic",
         "iconSlug3": "replicate",
         "iconSlug4": "huggingface",
-        "pageOf": "02 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -90,13 +90,13 @@
         "insight3Tag": "WIN",
         "insight3Note": "magic ratio",
         "insight3Pill": "$100K MRR",
-        "avatarLetter": "A",
-        "authorQuote": "We were a services company wearing <em>software</em> pajamas until month six.",
+        "avatarLetter": "",
+        "authorQuote": "",
         "iconSlug1": "cursor",
         "iconSlug2": "stripe",
         "iconSlug3": "twilio",
         "iconSlug4": "retool",
-        "pageOf": "03 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -124,13 +124,13 @@
         "insight3Tag": "WIN",
         "insight3Note": "cash is king",
         "insight3Pill": "12MO CASH",
-        "avatarLetter": "A",
-        "authorQuote": "Customers don't want AI. They want <em>the job</em> done cheaper.",
+        "avatarLetter": "",
+        "authorQuote": "",
         "iconSlug1": "stripe",
         "iconSlug2": "notion",
         "iconSlug3": "figma",
         "iconSlug4": "loom",
-        "pageOf": "04 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -158,13 +158,13 @@
         "insight3Tag": "FAIL",
         "insight3Note": "wrong crowd",
         "insight3Pill": "0.2% CONV",
-        "avatarLetter": "A",
-        "authorQuote": "Distribution is the only <em>unfair</em> advantage that compounds.",
+        "avatarLetter": "",
+        "authorQuote": "",
         "iconSlug1": "twitter",
         "iconSlug2": "linkedin",
         "iconSlug3": "youtube",
         "iconSlug4": "substack",
-        "pageOf": "05 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -192,13 +192,13 @@
         "insight3Tag": "WIN",
         "insight3Note": "life changing",
         "insight3Pill": "2X SPEED",
-        "avatarLetter": "A",
-        "authorQuote": "Small teams move <em>faster</em> because politics scale with headcount.",
+        "avatarLetter": "",
+        "authorQuote": "",
         "iconSlug1": "slack",
         "iconSlug2": "loom",
         "iconSlug3": "notion",
         "iconSlug4": "linear",
-        "pageOf": "06 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -226,13 +226,13 @@
         "insight3Tag": "AHA",
         "insight3Note": "hybrid magic",
         "insight3Pill": "60% RULES",
-        "avatarLetter": "A",
-        "authorQuote": "Your margin is my <em>opportunity</em> only if you have one left.",
+        "avatarLetter": "",
+        "authorQuote": "",
         "iconSlug1": "openai",
         "iconSlug2": "anthropic",
         "iconSlug3": "groq",
         "iconSlug4": "cloudflare",
-        "pageOf": "07 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -252,10 +252,10 @@
         "iconSlug5": "openai",
         "iconSlug6": "anthropic",
         "ctaBody": "I shipped five vertical AI startups so you don't have to repeat my <em>expensive</em> mistakes. Save this thread.",
-        "btnPrimary": "Save Post",
-        "btnGhost": "follow for more",
+        "btnPrimary": "",
+        "btnGhost": "",
         "signoff": "building in public ✱",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

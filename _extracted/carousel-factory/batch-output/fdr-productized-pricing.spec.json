@@ -7,9 +7,9 @@
     {
       "layoutId": "cover-linkedin-pro",
       "slots": {
-        "author": "Morgan Vale",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "1",
+        "pageNumber": "",
         "accentColor": "#4f3df5",
         "headline": "Productized AI Pricing That Actually Converts",
         "heroSymbol": "AI",
@@ -21,9 +21,9 @@
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Morgan Vale",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "2",
+        "pageNumber": "",
         "accentColor": "#4f3df5",
         "title": "Why Hourly Pricing Is Broken",
         "body": "Tracking hours punishes efficiency. The faster you deliver AI value, the less you earn. That’s a broken incentive.",
@@ -36,9 +36,9 @@
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Morgan Vale",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "3",
+        "pageNumber": "",
         "accentColor": "#4f3df5",
         "title": "The Flat-Rate Model Explained",
         "body": "Scope the deliverable, not the hours. Clients buy outcomes—chatbots, audits, integrations—with a fixed price and clear boundary.",
@@ -51,9 +51,9 @@
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Morgan Vale",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "4",
+        "pageNumber": "",
         "accentColor": "#4f3df5",
         "title": "Three Tiers That Actually Sell",
         "body": "Starter, Pro, and Enterprise packages let clients self-select. It cuts negotiation time and increases average deal size instantly.",
@@ -66,9 +66,9 @@
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Morgan Vale",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "5",
+        "pageNumber": "",
         "accentColor": "#4f3df5",
         "title": "Avoid The Retainer Trap",
         "body": "Monthly retainers sound safe until scope balloons. Productized services define the finish line so every engagement stays profitable.",
@@ -81,9 +81,9 @@
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Morgan Vale",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "6",
+        "pageNumber": "",
         "accentColor": "#4f3df5",
         "title": "Productize Your AI Stack Now",
         "body": "Package one repeatable workflow into a named service. Add a price, a timeline, and a checklist. Then sell it on repeat.",
@@ -96,9 +96,9 @@
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Morgan Vale",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "7",
+        "pageNumber": "",
         "accentColor": "#4f3df5",
         "title": "What Conversion Looks Like",
         "body": "Clear pricing builds instant trust. Buyers skip the sales call because they already know the cost and exactly what’s included.",
@@ -111,14 +111,14 @@
     {
       "layoutId": "cta-linkedin-pro",
       "slots": {
-        "author": "Morgan Vale",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "8",
+        "pageNumber": "",
         "accentColor": "#4f3df5",
         "eyebrow": "YOUR TURN?",
         "headline": "Ready To Ditch Hourly Billing?",
         "body": "Comment below and repost this to save the framework. Let’s build productized offers together.",
-        "buttonLabel": "Follow for More",
+        "buttonLabel": "",
         "secondaryLabel": "Repost",
         "handle": ""
       }

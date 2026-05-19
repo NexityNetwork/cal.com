@@ -7,9 +7,9 @@
     {
       "layoutId": "cover-linkedin-pro",
       "slots": {
-        "author": "Jordan Reeves",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "1",
+        "pageNumber": "",
         "accentColor": "#4f3df5",
         "headline": "6 AI Forces Shaping Future Business",
         "heroSymbol": "🤖",
@@ -21,9 +21,9 @@
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Jordan Reeves",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "2",
+        "pageNumber": "",
         "accentColor": "#4f3df5",
         "title": "Hyper-Personalization at Scale",
         "body": "AI delivers one-to-one customer experiences without expanding headcount. Founders who deploy it capture loyalty and revenue faster than competitors.",
@@ -36,9 +36,9 @@
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Jordan Reeves",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "3",
+        "pageNumber": "",
         "accentColor": "#4f3df5",
         "title": "Autonomous Decision Making",
         "body": "Algorithms now optimize pricing, inventory, and forecasting in real time. Let machines handle operations while you focus on vision.",
@@ -51,9 +51,9 @@
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Jordan Reeves",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "4",
+        "pageNumber": "",
         "accentColor": "#4f3df5",
         "title": "AI-Native Operations",
         "body": "From legal review to code deployment, AI agents handle repetitive workflows. Build leaner teams that punch far above their weight.",
@@ -66,9 +66,9 @@
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Jordan Reeves",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "5",
+        "pageNumber": "",
         "accentColor": "#4f3df5",
         "title": "Predictive Market Intel",
         "body": "Spot trends before they break by analyzing unstructured data. AI turns market noise into actionable strategy every single morning.",
@@ -81,9 +81,9 @@
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Jordan Reeves",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "6",
+        "pageNumber": "",
         "accentColor": "#4f3df5",
         "title": "Creative Augmentation",
         "body": "Generative tools accelerate branding, copy, and product design. The bottleneck is no longer production speed; it is your taste.",
@@ -96,9 +96,9 @@
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Jordan Reeves",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "7",
+        "pageNumber": "",
         "accentColor": "#4f3df5",
         "title": "Trust-First Architecture",
         "body": "Future businesses will compete on data ethics and transparency. Implement responsible AI now to become the vendor customers trust most.",
@@ -111,14 +111,14 @@
     {
       "layoutId": "cta-linkedin-pro",
       "slots": {
-        "author": "Jordan Reeves",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "8",
+        "pageNumber": "",
         "accentColor": "#4f3df5",
         "eyebrow": "YOUR TURN?",
         "headline": "Which AI Shift Will You Act On?",
         "body": "Drop a comment with the number you're tackling first. Follow for weekly founder playbooks.",
-        "buttonLabel": "Save This Post",
+        "buttonLabel": "",
         "secondaryLabel": "Share",
         "handle": ""
       }

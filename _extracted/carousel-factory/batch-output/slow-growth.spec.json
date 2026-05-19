@@ -14,15 +14,15 @@
         "subtitle": "Six principles to build a calm, profitable business that honors your energy and the life you want.",
         "ctaLabel": "Read below",
         "handle": "",
-        "author": "Slow Foundry",
+        "author": "",
         "slideCount": "6"
       }
     },
     {
       "layoutId": "body-terracotta",
       "slots": {
-        "author": "Slow Foundry",
-        "pageOf": "1/6",
+        "author": "",
+        "pageOf": "",
         "number": "01",
         "numberLabel": "Principle",
         "titleMain": "Protect Your",
@@ -34,8 +34,8 @@
     {
       "layoutId": "body-terracotta",
       "slots": {
-        "author": "Slow Foundry",
-        "pageOf": "2/6",
+        "author": "",
+        "pageOf": "",
         "number": "02",
         "numberLabel": "Truth",
         "titleMain": "Boundaries Beat",
@@ -47,8 +47,8 @@
     {
       "layoutId": "body-terracotta",
       "slots": {
-        "author": "Slow Foundry",
-        "pageOf": "3/6",
+        "author": "",
+        "pageOf": "",
         "number": "03",
         "numberLabel": "Shift",
         "titleMain": "Profit Over",
@@ -60,8 +60,8 @@
     {
       "layoutId": "body-terracotta",
       "slots": {
-        "author": "Slow Foundry",
-        "pageOf": "4/6",
+        "author": "",
+        "pageOf": "",
         "number": "04",
         "numberLabel": "Rule",
         "titleMain": "Systems Create",
@@ -73,8 +73,8 @@
     {
       "layoutId": "body-terracotta",
       "slots": {
-        "author": "Slow Foundry",
-        "pageOf": "5/6",
+        "author": "",
+        "pageOf": "",
         "number": "05",
         "numberLabel": "Habit",
         "titleMain": "Rest is",
@@ -86,8 +86,8 @@
     {
       "layoutId": "body-terracotta",
       "slots": {
-        "author": "Slow Foundry",
-        "pageOf": "6/6",
+        "author": "",
+        "pageOf": "",
         "number": "06",
         "numberLabel": "Wisdom",
         "titleMain": "Serve Your",
@@ -99,13 +99,13 @@
     {
       "layoutId": "cta-terracotta",
       "slots": {
-        "author": "Slow Foundry",
-        "pageOf": "8/8",
+        "author": "",
+        "pageOf": "",
         "eyebrow": "YOUR TURN",
         "headlineMain": "Begin Your",
         "headlineItalic": "slow growth",
         "body": "Pick one principle and practice it this week. Small shifts compound into a business that truly fits your life.",
-        "buttonLabel": "Save this post",
+        "buttonLabel": "",
         "handle": ""
       }
     }

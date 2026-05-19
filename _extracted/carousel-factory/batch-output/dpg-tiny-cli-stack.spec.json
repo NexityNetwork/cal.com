@@ -11,7 +11,7 @@
         "pillLeft": "Daily CLI",
         "pillRight": "stack",
         "subline": "Terminal utilities for senior engineers",
-        "pageOf": "01 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -23,7 +23,7 @@
         "slideTitle": "Find anything with fuzzy precision",
         "slideSubtitle": "Stop memorizing paths; just type fragments and watch fzf narrow results instantly.",
         "domainText": "",
-        "pageOf": "02 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -35,7 +35,7 @@
         "slideTitle": "Grep entire repos in milliseconds",
         "slideSubtitle": "Ripgrep respects gitignore by default and outperforms classic grep across large codebases.",
         "domainText": "",
-        "pageOf": "03 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -47,7 +47,7 @@
         "slideTitle": "Navigate folders without typing paths",
         "slideSubtitle": "Zoxide replaces cd with intelligent shortcuts based on frequency and recency scores.",
         "domainText": "",
-        "pageOf": "04 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -59,7 +59,7 @@
         "slideTitle": "View directories with clarity and style",
         "slideSubtitle": "Eza adds color-coded metadata and hyperlinks to make file browsing actually enjoyable.",
         "domainText": "",
-        "pageOf": "05 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -71,7 +71,7 @@
         "slideTitle": "Read code with syntax highlighting",
         "slideSubtitle": "Bat turns plain file dumps into readable, colorized output with inline git annotations.",
         "domainText": "",
-        "pageOf": "06 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -83,7 +83,7 @@
         "slideTitle": "A prompt that tells your story",
         "slideSubtitle": "Starship gives you exactly the context you need without cluttering your terminal window.",
         "domainText": "",
-        "pageOf": "07 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -94,7 +94,7 @@
         "headlineMain": "Build your",
         "headlineGlow": "own stack",
         "sublineItalic": "Swap one tool at a time and watch your terminal workflow transform completely.",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

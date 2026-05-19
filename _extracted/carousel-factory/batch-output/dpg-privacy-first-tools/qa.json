@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/dpg-privacy-first-tools/slide-01.png",
-      "bytes": 126795,
+      "bytes": 125552,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -19,7 +19,7 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/dpg-privacy-first-tools/slide-02.png",
-      "bytes": 119029,
+      "bytes": 117682,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -35,7 +35,7 @@
     {
       "index": 2,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/dpg-privacy-first-tools/slide-03.png",
-      "bytes": 125174,
+      "bytes": 123748,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -51,7 +51,7 @@
     {
       "index": 3,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/dpg-privacy-first-tools/slide-04.png",
-      "bytes": 108503,
+      "bytes": 107172,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -67,7 +67,7 @@
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/dpg-privacy-first-tools/slide-05.png",
-      "bytes": 106567,
+      "bytes": 105209,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -83,7 +83,7 @@
     {
       "index": 5,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/dpg-privacy-first-tools/slide-06.png",
-      "bytes": 109863,
+      "bytes": 108460,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -99,7 +99,7 @@
     {
       "index": 6,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/dpg-privacy-first-tools/slide-07.png",
-      "bytes": 124344,
+      "bytes": 123025,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -115,7 +115,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/dpg-privacy-first-tools/slide-08.png",
-      "bytes": 151041,
+      "bytes": 149579,
       "qa": {
         "verdict": "pass",
         "checks": {

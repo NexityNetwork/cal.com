@@ -29,8 +29,8 @@
         "iconSlug3": "redis",
         "iconSlug4": "kubernetes",
         "iconSlug5": "clickhouse",
-        "swipeLabel": "DIVE IN",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -58,7 +58,7 @@
         "iconSlug2": "nginx",
         "iconSlug3": "redis",
         "iconSlug4": "docker",
-        "pageOf": "02 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -86,7 +86,7 @@
         "iconSlug2": "apachepulsar",
         "iconSlug3": "confluent",
         "iconSlug4": "redpanda",
-        "pageOf": "03 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -114,7 +114,7 @@
         "iconSlug2": "apachespark",
         "iconSlug3": "influxdb",
         "iconSlug4": "docker",
-        "pageOf": "04 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -142,7 +142,7 @@
         "iconSlug2": "redis",
         "iconSlug3": "postgresql",
         "iconSlug4": "elasticsearch",
-        "pageOf": "05 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -170,7 +170,7 @@
         "iconSlug2": "apacheflink",
         "iconSlug3": "databricks",
         "iconSlug4": "snowflake",
-        "pageOf": "06 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -198,7 +198,7 @@
         "iconSlug2": "prometheus",
         "iconSlug3": "grafana",
         "iconSlug4": "amazonwebservices",
-        "pageOf": "07 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -218,11 +218,11 @@
         "iconSlug5": "kubernetes",
         "iconSlug6": "prometheus",
         "ctaBody": "Build pipelines that <em>never flinch</em> under viral traffic. Bookmark this architecture and tag your platform team.",
-        "btnPrimary": "Bookmark Now",
-        "btnGhost": "Follow Along",
+        "btnPrimary": "",
+        "btnGhost": "",
         "iconSlug7": "docker",
         "iconSlug8": "nginx",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

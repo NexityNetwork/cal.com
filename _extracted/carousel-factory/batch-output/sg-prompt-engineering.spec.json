@@ -17,12 +17,12 @@
         "titleAccent": "SHIP",
         "titleLine2": "PRODUCT",
         "subtitle": "Between a fragile demo and working system lies the discipline of structured thinking wrapped around the prompt.",
-        "authorName": "MARCUS REID",
-        "authorRole": "ai systems engineer · 2026",
+        "authorName": "",
+        "authorRole": "",
         "tag1": "AI",
         "tag2": "PROMPT",
         "tag3": "2026",
-        "pageOf": "01 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -47,7 +47,7 @@
         "iconSlug2": "anthropic",
         "iconSlug3": "meta",
         "iconSlug4": "google",
-        "pageOf": "02 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -72,7 +72,7 @@
         "iconSlug2": "langchain",
         "iconSlug3": "ollama",
         "iconSlug4": "groq",
-        "pageOf": "03 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -97,7 +97,7 @@
         "iconSlug2": "gitlab",
         "iconSlug3": "bitbucket",
         "iconSlug4": "sourcehut",
-        "pageOf": "04 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -122,7 +122,7 @@
         "iconSlug2": "netlify",
         "iconSlug3": "cloudflare",
         "iconSlug4": "aws",
-        "pageOf": "05 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -147,7 +147,7 @@
         "iconSlug2": "twilio",
         "iconSlug3": "sendgrid",
         "iconSlug4": "segment",
-        "pageOf": "06 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -172,7 +172,7 @@
         "iconSlug2": "figma",
         "iconSlug3": "linear",
         "iconSlug4": "raycast",
-        "pageOf": "07 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -190,10 +190,10 @@
         "iconSlug3": "vercel",
         "iconSlug4": "github",
         "ctaBody": "Pick one pattern and retrofit it into your highest-traffic prompt <em>this week</em>. Reliability compounds faster than model upgrades.",
-        "btnPrimary": "SAVE THIS",
-        "btnGhost": "Follow along",
+        "btnPrimary": "",
+        "btnGhost": "",
         "signoff": "Build systems, not demos.",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

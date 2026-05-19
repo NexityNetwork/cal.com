@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/glow-skin-beauty/slide-01.png",
-      "bytes": 77509,
+      "bytes": 70770,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -19,7 +19,7 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/glow-skin-beauty/slide-02.png",
-      "bytes": 62341,
+      "bytes": 59313,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -35,7 +35,7 @@
     {
       "index": 2,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/glow-skin-beauty/slide-03.png",
-      "bytes": 63701,
+      "bytes": 60475,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -51,7 +51,7 @@
     {
       "index": 3,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/glow-skin-beauty/slide-04.png",
-      "bytes": 63406,
+      "bytes": 60385,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -67,7 +67,7 @@
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/glow-skin-beauty/slide-05.png",
-      "bytes": 67898,
+      "bytes": 64458,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -83,7 +83,7 @@
     {
       "index": 5,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/glow-skin-beauty/slide-06.png",
-      "bytes": 62597,
+      "bytes": 59572,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -99,7 +99,7 @@
     {
       "index": 6,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/glow-skin-beauty/slide-07.png",
-      "bytes": 58052,
+      "bytes": 54949,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -115,7 +115,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/glow-skin-beauty/slide-08.png",
-      "bytes": 64155,
+      "bytes": 55560,
       "qa": {
         "verdict": "pass",
         "checks": {

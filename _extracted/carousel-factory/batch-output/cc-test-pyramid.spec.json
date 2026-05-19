@@ -38,7 +38,7 @@
         "b2Title": "Fail fast in CI pipelines",
         "b2Body": "Breaking schema changes never reach staging or production environments.",
         "domainText": "",
-        "pageOf": "02 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -60,7 +60,7 @@
         "b2Title": "Minimize mock maintenance tax",
         "b2Body": "Fewer mocks means less maintenance and higher signal tests.",
         "domainText": "",
-        "pageOf": "03 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -82,7 +82,7 @@
         "b2Title": "Check invariants at scale",
         "b2Body": "Assert properties hold across thousands of generated random cases.",
         "domainText": "",
-        "pageOf": "04 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -104,7 +104,7 @@
         "b2Title": "Define steady state bounds",
         "b2Body": "Abort experiments when deviations exceed defined metric thresholds.",
         "domainText": "",
-        "pageOf": "05 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -126,7 +126,7 @@
         "b2Title": "Approve visual baseline changes",
         "b2Body": "Review and approve intentional visual diffs through collaborative workflows.",
         "domainText": "",
-        "pageOf": "06 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -148,7 +148,7 @@
         "b2Title": "Roll out via feature flags",
         "b2Body": "Ship to one percent of traffic and observe metrics closely.",
         "domainText": "",
-        "pageOf": "07 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -160,11 +160,11 @@
         "ctaAccent": "for good",
         "ctaItalic": "starting today",
         "ctaBody": "Pick one pattern, run a pilot this sprint, and watch your <em>flaky suite</em> become a <em>signal machine</em>.",
-        "btnPrimary": "Start pilot",
-        "btnGhost": "Read guide",
+        "btnPrimary": "",
+        "btnGhost": "",
         "signoff": "Build with confidence",
         "domainText": "",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

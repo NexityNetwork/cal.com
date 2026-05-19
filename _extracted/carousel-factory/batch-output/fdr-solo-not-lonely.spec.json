@@ -13,10 +13,10 @@
         "titleLine1": "I built",
         "titleUnderline": "a team",
         "titleAccent": "of agents",
-        "avatarLetter": "M",
-        "byLine": "from the trenches",
-        "authorName": "Maya Lin",
-        "authorRole": "founder · late-night writer",
+        "avatarLetter": "",
+        "byLine": "",
+        "authorName": "",
+        "authorRole": "",
         "stickyNote": "the honest cost of freedom (and wins)",
         "intro": "Solo doesn't mean lonely anymore. I hired <em>AI agents</em> and finally slept through the night.",
         "tile1Label": "ChatGPT",
@@ -27,8 +27,8 @@
         "iconSlug2": "claude",
         "iconSlug3": "cursor",
         "iconSlug4": "github",
-        "swipeLabel": "let's go",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -56,13 +56,13 @@
         "insight3Tag": "REAL",
         "insight3Note": "hard truth",
         "insight3Pill": "WEEK 6",
-        "avatarLetter": "M",
-        "authorQuote": "I thought freedom meant <em>peace</em>, but first it meant terror.",
+        "avatarLetter": "",
+        "authorQuote": "",
         "iconSlug1": "claude",
         "iconSlug2": "notion",
         "iconSlug3": "slack",
         "iconSlug4": "github",
-        "pageOf": "02 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -90,13 +90,13 @@
         "insight3Tag": "WIN",
         "insight3Note": "customers love it",
         "insight3Pill": "-80% TIME",
-        "avatarLetter": "M",
-        "authorQuote": "I finally stopped <em>context-switching</em> into tasks I hate.",
+        "avatarLetter": "",
+        "authorQuote": "",
         "iconSlug1": "chatgpt",
         "iconSlug2": "cursor",
         "iconSlug3": "replit",
         "iconSlug4": "notion",
-        "pageOf": "03 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -124,13 +124,13 @@
         "insight3Tag": "PEACE",
         "insight3Note": "pure bliss",
         "insight3Pill": "SOLO",
-        "avatarLetter": "M",
-        "authorQuote": "Profit is the <em>oxygen</em> of freedom, not vanity.",
+        "avatarLetter": "",
+        "authorQuote": "",
         "iconSlug1": "stripe",
         "iconSlug2": "notion",
         "iconSlug3": "linear",
         "iconSlug4": "slack",
-        "pageOf": "04 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -158,13 +158,13 @@
         "insight3Tag": "HEAVY",
         "insight3Note": "burnout risk",
         "insight3Pill": "WATCH",
-        "avatarLetter": "M",
-        "authorQuote": "The cost isn't money, it's <em>emotional</em> infrastructure.",
+        "avatarLetter": "",
+        "authorQuote": "",
         "iconSlug1": "slack",
         "iconSlug2": "notion",
         "iconSlug3": "github",
         "iconSlug4": "chatgpt",
-        "pageOf": "05 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -192,13 +192,13 @@
         "insight3Tag": "REAL",
         "insight3Note": "genuine connection",
         "insight3Pill": "ZOOM CALL",
-        "avatarLetter": "M",
-        "authorQuote": "Solo doesn't mean <em>alone</em> if you build with the lights on.",
+        "avatarLetter": "",
+        "authorQuote": "",
         "iconSlug1": "discord",
         "iconSlug2": "slack",
         "iconSlug3": "linear",
         "iconSlug4": "notion",
-        "pageOf": "06 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -226,13 +226,13 @@
         "insight3Tag": "GROW",
         "insight3Note": "build in public",
         "insight3Pill": "POST NOW",
-        "avatarLetter": "M",
-        "authorQuote": "The best time to go solo was <em>2020</em>. The second best is today.",
+        "avatarLetter": "",
+        "authorQuote": "",
         "iconSlug1": "claude",
         "iconSlug2": "cursor",
         "iconSlug3": "chatgpt",
         "iconSlug4": "notion",
-        "pageOf": "07 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -252,10 +252,10 @@
         "iconSlug5": "notion",
         "iconSlug6": "slack",
         "ctaBody": "I built my dream team out of <em>APIs</em> and stubbornness. You can too.",
-        "btnPrimary": "Save Post",
-        "btnGhost": "follow for more",
+        "btnPrimary": "",
+        "btnGhost": "",
         "signoff": "more next week ✱",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

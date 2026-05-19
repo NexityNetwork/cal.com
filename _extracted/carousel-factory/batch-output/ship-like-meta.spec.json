@@ -7,7 +7,7 @@
     {
       "layoutId": "cover-rounded-card",
       "slots": {
-        "pageBadge": "01",
+        "pageBadge": "",
         "headlineLine1": "Ship like a",
         "headlineLine2": "Meta product team",
         "body": "Solo founders don't need headcount to move fast. They need the right internal stack.",
@@ -17,7 +17,7 @@
     {
       "layoutId": "body-rounded-card",
       "slots": {
-        "pageBadge": "02",
+        "pageBadge": "",
         "handle": "",
         "number": "01",
         "title": "Centralize your",
@@ -28,13 +28,13 @@
         "ico3": "🔍",
         "ico4": "📚",
         "nextNote": "Next: the roadmap",
-        "pageOf": "02 / 08"
+        "pageOf": ""
       }
     },
     {
       "layoutId": "body-rounded-card",
       "slots": {
-        "pageBadge": "03",
+        "pageBadge": "",
         "handle": "",
         "number": "02",
         "title": "Run a tight",
@@ -45,13 +45,13 @@
         "ico3": "✅",
         "ico4": "🚀",
         "nextNote": "Next: content factory",
-        "pageOf": "03 / 08"
+        "pageOf": ""
       }
     },
     {
       "layoutId": "body-rounded-card",
       "slots": {
-        "pageBadge": "04",
+        "pageBadge": "",
         "handle": "",
         "number": "03",
         "title": "Build a content",
@@ -62,13 +62,13 @@
         "ico3": "🤖",
         "ico4": "📅",
         "nextNote": "Next: automation layer",
-        "pageOf": "04 / 08"
+        "pageOf": ""
       }
     },
     {
       "layoutId": "body-rounded-card",
       "slots": {
-        "pageBadge": "05",
+        "pageBadge": "",
         "handle": "",
         "number": "04",
         "title": "Wire an",
@@ -79,13 +79,13 @@
         "ico3": "📥",
         "ico4": "🤖",
         "nextNote": "Next: data command",
-        "pageOf": "05 / 08"
+        "pageOf": ""
       }
     },
     {
       "layoutId": "body-rounded-card",
       "slots": {
-        "pageBadge": "06",
+        "pageBadge": "",
         "handle": "",
         "number": "05",
         "title": "Own your",
@@ -96,13 +96,13 @@
         "ico3": "📈",
         "ico4": "🔮",
         "nextNote": "Next: AI workforce",
-        "pageOf": "06 / 08"
+        "pageOf": ""
       }
     },
     {
       "layoutId": "body-rounded-card",
       "slots": {
-        "pageBadge": "07",
+        "pageBadge": "",
         "handle": "",
         "number": "06",
         "title": "Deploy an",
@@ -113,19 +113,19 @@
         "ico3": "💬",
         "ico4": "📡",
         "nextNote": "Next: start building",
-        "pageOf": "07 / 08"
+        "pageOf": ""
       }
     },
     {
       "layoutId": "cta-rounded-card",
       "slots": {
-        "pageBadge": "08",
+        "pageBadge": "",
         "handle": "",
         "eyebrow": "YOUR TURN",
         "headlineLine1": "Build your",
         "headlineLine2": "internal stack today",
         "body": "Pick one tool this week and wire it up. Speed comes from systems, not more hours.",
-        "buttonLabel": "Get the toolkit",
+        "buttonLabel": "",
         "secondaryLabel": "Follow @systemssolo",
         "footerLeft": "Save this ↓",
         "footerRight": "Share with a founder"

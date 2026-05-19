@@ -34,8 +34,8 @@
         "tag3": "LEGAL",
         "tag4": "BURNOUT",
         "tag5": "WASTE",
-        "swipeLabel": "SEE EACH ONE",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -62,7 +62,7 @@
         "iconSlug4": "receipt",
         "iconSlug5": "calculator",
         "iconSlug6": "shield",
-        "pageOf": "02 / 08",
+        "pageOf": "",
         "footerNote": "Separate every dollar."
       }
     },
@@ -90,7 +90,7 @@
         "iconSlug4": "invoice",
         "iconSlug5": "clock",
         "iconSlug6": "alert",
-        "pageOf": "03 / 08",
+        "pageOf": "",
         "footerNote": "Cash is oxygen."
       }
     },
@@ -118,7 +118,7 @@
         "iconSlug4": "shield",
         "iconSlug5": "gavel",
         "iconSlug6": "code",
-        "pageOf": "04 / 08",
+        "pageOf": "",
         "footerNote": "Sign paperwork first."
       }
     },
@@ -146,7 +146,7 @@
         "iconSlug4": "bed",
         "iconSlug5": "fire",
         "iconSlug6": "smile",
-        "pageOf": "05 / 08",
+        "pageOf": "",
         "footerNote": "Pay yourself first."
       }
     },
@@ -174,7 +174,7 @@
         "iconSlug4": "desktop",
         "iconSlug5": "megaphone",
         "iconSlug6": "box",
-        "pageOf": "06 / 08",
+        "pageOf": "",
         "footerNote": "Revenue before polish."
       }
     },
@@ -202,7 +202,7 @@
         "iconSlug4": "building",
         "iconSlug5": "mail",
         "iconSlug6": "lock",
-        "pageOf": "07 / 08",
+        "pageOf": "",
         "footerNote": "Taxes are coming."
       }
     },
@@ -216,8 +216,8 @@
         "titleAccent": "costly traps",
         "titleItalic": "from day one",
         "body": "Year one is about survival, not perfection. Fix your finances now and ship with confidence.",
-        "btnPrimary": "Save this",
-        "btnGhost": "Share post",
+        "btnPrimary": "",
+        "btnGhost": "",
         "stackLabel": "the full list",
         "iconSlug1": "bank",
         "iconSlug2": "chart-line-down",
@@ -226,7 +226,7 @@
         "iconSlug5": "palette",
         "iconSlug6": "receipt",
         "signoff": "keep your cash and your sanity",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

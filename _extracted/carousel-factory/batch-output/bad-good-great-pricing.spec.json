@@ -12,9 +12,9 @@
         "word1": "BAD",
         "word2": "Good",
         "word3": "Great",
-        "authorInitials": "MK",
-        "authorName": "Morgan K.",
-        "authorRole": "Pricing Strategist",
+        "authorInitials": "",
+        "authorName": "",
+        "authorRole": "",
         "handle": ""
       }
     },
@@ -28,9 +28,9 @@
         "titleUnderline": "Not Numbers",
         "body": "A standalone price is just a number. Great offers anchor value against the cost of inaction or expensive alternatives, making the fee feel trivial by comparison.",
         "note": "Always show the premium option first.",
-        "authorInitials": "MK",
-        "authorName": "Morgan K.",
-        "pageOf": "2 / 8"
+        "authorInitials": "",
+        "authorName": "",
+        "pageOf": ""
       }
     },
     {
@@ -43,9 +43,9 @@
         "titleUnderline": "Not Features",
         "body": "Good sellers list benefits. Great sellers absorb risk with bold guarantees, transforming the buyer's question from can I afford this to can I afford to wait.",
         "note": "The stronger the guarantee, the higher the price.",
-        "authorInitials": "MK",
-        "authorName": "Morgan K.",
-        "pageOf": "3 / 8"
+        "authorInitials": "",
+        "authorName": "",
+        "pageOf": ""
       }
     },
     {
@@ -58,9 +58,9 @@
         "titleUnderline": "Not Process",
         "body": "Bad pricing charges for hours and deliverables. Great pricing charges for the transformation, revenue lift, or status gained, never the labor involved.",
         "note": "Clients buy futures, not tasks.",
-        "authorInitials": "MK",
-        "authorName": "Morgan K.",
-        "pageOf": "4 / 8"
+        "authorInitials": "",
+        "authorName": "",
+        "pageOf": ""
       }
     },
     {
@@ -73,9 +73,9 @@
         "titleUnderline": "Desire",
         "body": "Open calendars signal desperation. Great offers use limited seats, application filters, or waitlists to frame access as a privilege worth paying premium rates for.",
         "note": "Easy to buy is hard to value.",
-        "authorInitials": "MK",
-        "authorName": "Morgan K.",
-        "pageOf": "5 / 8"
+        "authorInitials": "",
+        "authorName": "",
+        "pageOf": ""
       }
     },
     {
@@ -88,9 +88,9 @@
         "titleUnderline": "Choice",
         "body": "One option forces a yes or no. Great pricing presents three tiers where the middle feels sensible and the premium becomes an aspirational anchor.",
         "note": "Most buyers choose the middle.",
-        "authorInitials": "MK",
-        "authorName": "Morgan K.",
-        "pageOf": "6 / 8"
+        "authorInitials": "",
+        "authorName": "",
+        "pageOf": ""
       }
     },
     {
@@ -103,9 +103,9 @@
         "titleUnderline": "Not Cost",
         "body": "Bad offers emphasize the expense leaving their wallet. Great pricing frames the fee as capital allocation toward growth, positioning spend as strategic, not indulgent.",
         "note": "ROI language justifies premium fees.",
-        "authorInitials": "MK",
-        "authorName": "Morgan K.",
-        "pageOf": "7 / 8"
+        "authorInitials": "",
+        "authorName": "",
+        "pageOf": ""
       }
     },
     {
@@ -115,9 +115,9 @@
         "headlineMain": "Which Pattern",
         "headlineAccent": "Will You Test",
         "body": "Steal these six shifts and watch your next offer convert at prices that finally match your expertise.",
-        "buttonLabel": "Save this post",
-        "authorInitials": "MK",
-        "authorName": "Morgan K.",
+        "buttonLabel": "",
+        "authorInitials": "",
+        "authorName": "",
         "handle": ""
       }
     }

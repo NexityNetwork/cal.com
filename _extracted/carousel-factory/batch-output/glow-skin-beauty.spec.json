@@ -8,7 +8,7 @@
       "layoutId": "cover-minimal-beauty",
       "slots": {
         "handle": "",
-        "author": "Dr. Sarah Chen",
+        "author": "",
         "role": "BOARD-CERTIFIED DERMATOLOGIST",
         "titleLine1": "THE GLOW",
         "titleLine2": "SKIN GUIDE",
@@ -20,7 +20,7 @@
       "layoutId": "body-minimal-beauty",
       "slots": {
         "handle": "",
-        "author": "Dr. Sarah Chen",
+        "author": "",
         "number": "STEP 01",
         "title": "GENTLE CLEANSE",
         "body": "Start every morning and evening with a mild, pH-balanced cleanser. This removes impurities without stripping your skin's natural moisture barrier."
@@ -30,7 +30,7 @@
       "layoutId": "body-minimal-beauty",
       "slots": {
         "handle": "",
-        "author": "Dr. Sarah Chen",
+        "author": "",
         "number": "STEP 02",
         "title": "EXFOLIATE WEEKLY",
         "body": "Use a chemical exfoliant with AHAs or BHAs two to three times per week. Smooth, refined texture allows your natural radiance to surface."
@@ -40,7 +40,7 @@
       "layoutId": "body-minimal-beauty",
       "slots": {
         "handle": "",
-        "author": "Dr. Sarah Chen",
+        "author": "",
         "number": "STEP 03",
         "title": "HYDRATE DEEPLY",
         "body": "Apply a hyaluronic acid serum to damp skin immediately after cleansing. Locking in water plumps the complexion and creates that dewy, lit-from-within finish."
@@ -50,7 +50,7 @@
       "layoutId": "body-minimal-beauty",
       "slots": {
         "handle": "",
-        "author": "Dr. Sarah Chen",
+        "author": "",
         "number": "STEP 04",
         "title": "SEAL WITH MOISTURE",
         "body": "Choose a ceramide-rich moisturizer to repair and strengthen your lipid barrier. Healthy, resilient skin reflects light beautifully and feels supple all day."
@@ -60,7 +60,7 @@
       "layoutId": "body-minimal-beauty",
       "slots": {
         "handle": "",
-        "author": "Dr. Sarah Chen",
+        "author": "",
         "number": "STEP 05",
         "title": "PROTECT DAILY",
         "body": "Broad-spectrum SPF thirty or higher is the final and most crucial step. Consistent sun protection prevents dullness, dark spots, and premature aging."
@@ -70,7 +70,7 @@
       "layoutId": "body-minimal-beauty",
       "slots": {
         "handle": "",
-        "author": "Dr. Sarah Chen",
+        "author": "",
         "number": "PRO TIP",
         "title": "BE CONSISTENT",
         "body": "Results reveal themselves through patience and daily devotion. Follow this ritual for at least four weeks to reveal your most luminous skin."
@@ -80,12 +80,12 @@
       "layoutId": "cta-minimal-beauty",
       "slots": {
         "handle": "",
-        "author": "Dr. Sarah Chen",
+        "author": "",
         "role": "BOARD-CERTIFIED DERMATOLOGIST",
         "eyebrow": "YOUR RITUAL",
         "headline": "START TODAY",
         "body": "Book your personalized consultation and begin your journey to radiant, healthy skin.",
-        "buttonLabel": "BOOK A CONSULT"
+        "buttonLabel": ""
       }
     }
   ]

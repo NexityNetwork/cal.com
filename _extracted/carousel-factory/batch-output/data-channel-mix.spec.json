@@ -38,7 +38,7 @@
         "bar3Label": "Lookalike",
         "bar3Val": "10%",
         "bar3Pct": 20,
-        "pageOf": "02 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -59,7 +59,7 @@
         "bar3Label": "Generic",
         "bar3Val": "21%",
         "bar3Pct": 42,
-        "pageOf": "03 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -80,7 +80,7 @@
         "bar3Label": "UGC clips",
         "bar3Val": "14%",
         "bar3Pct": 23,
-        "pageOf": "04 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -101,7 +101,7 @@
         "bar3Label": "Newsletter",
         "bar3Val": "23%",
         "bar3Pct": 46,
-        "pageOf": "05 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -122,7 +122,7 @@
         "bar3Label": "Templates",
         "bar3Val": "14%",
         "bar3Pct": 26,
-        "pageOf": "06 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -143,7 +143,7 @@
         "bar3Label": "Integrations",
         "bar3Val": "13%",
         "bar3Pct": 21,
-        "pageOf": "07 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -155,8 +155,8 @@
         "eyebrow": "THE RESULT",
         "headline": "Build your $1M channel mix",
         "body": "Download the full playbook with budgets, creatives, and exact campaign templates we used.",
-        "buttonLabel": "Get the playbook",
-        "pageOf": "08 / 08"
+        "buttonLabel": "",
+        "pageOf": ""
       }
     }
   ]

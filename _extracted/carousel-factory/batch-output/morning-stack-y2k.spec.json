@@ -7,8 +7,8 @@
     {
       "layoutId": "cover-y2k-window",
       "slots": {
-        "authorInitials": "MV",
-        "authorName": "Morgan Vale",
+        "authorInitials": "",
+        "authorName": "",
         "handle": "",
         "number": "5",
         "firstWord": "Morning",
@@ -21,8 +21,8 @@
     {
       "layoutId": "body-y2k-window",
       "slots": {
-        "authorInitials": "MV",
-        "authorName": "Morgan Vale",
+        "authorInitials": "",
+        "authorName": "",
         "handle": "",
         "number": "1",
         "title": "Start With Silence",
@@ -33,8 +33,8 @@
     {
       "layoutId": "body-y2k-window",
       "slots": {
-        "authorInitials": "MV",
-        "authorName": "Morgan Vale",
+        "authorInitials": "",
+        "authorName": "",
         "handle": "",
         "number": "2",
         "title": "Hydrate Immediately",
@@ -45,8 +45,8 @@
     {
       "layoutId": "body-y2k-window",
       "slots": {
-        "authorInitials": "MV",
-        "authorName": "Morgan Vale",
+        "authorInitials": "",
+        "authorName": "",
         "handle": "",
         "number": "3",
         "title": "Move Your Body",
@@ -57,8 +57,8 @@
     {
       "layoutId": "body-y2k-window",
       "slots": {
-        "authorInitials": "MV",
-        "authorName": "Morgan Vale",
+        "authorInitials": "",
+        "authorName": "",
         "handle": "",
         "number": "4",
         "title": "Map Three Wins",
@@ -69,8 +69,8 @@
     {
       "layoutId": "body-y2k-window",
       "slots": {
-        "authorInitials": "MV",
-        "authorName": "Morgan Vale",
+        "authorInitials": "",
+        "authorName": "",
         "handle": "",
         "number": "5",
         "title": "Eat The Frog",
@@ -81,8 +81,8 @@
     {
       "layoutId": "body-y2k-window",
       "slots": {
-        "authorInitials": "MV",
-        "authorName": "Morgan Vale",
+        "authorInitials": "",
+        "authorName": "",
         "handle": "",
         "number": "6",
         "title": "Block Distractions",
@@ -93,14 +93,14 @@
     {
       "layoutId": "cta-y2k-window",
       "slots": {
-        "authorInitials": "MV",
-        "authorName": "Morgan Vale",
+        "authorInitials": "",
+        "authorName": "",
         "handle": "",
         "eyebrow": "YOUR TURN",
         "headlineMain": "SAVE THIS",
         "accentLine": "FOR MONDAY",
         "body": "Pick one habit to test tomorrow morning. Small starts lead to massive weekly wins.",
-        "buttonLabel": "Save this post",
+        "buttonLabel": "",
         "websiteUrl": "morganvale.com"
       }
     }

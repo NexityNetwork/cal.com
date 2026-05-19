@@ -8,7 +8,7 @@
       "layoutId": "cover-dark-green-serif",
       "slots": {
         "brand": "",
-        "pageOf": "01 OF 08",
+        "pageOf": "",
         "headline": "What Changed the Game?",
         "subtitle": "Five habits that actually moved the needle on my health.",
         "stickerText": "THE STACK",
@@ -19,7 +19,7 @@
       "layoutId": "body-dark-green-serif",
       "slots": {
         "brand": "",
-        "pageOf": "02 OF 08",
+        "pageOf": "",
         "number": "01",
         "title": "Prioritize Deep Sleep",
         "body": "I used to brag about five-hour nights. Then I tracked my focus: trash. Eight hours is now my non-negotiable baseline. Everything else stacks on top.",
@@ -30,7 +30,7 @@
       "layoutId": "body-dark-green-serif",
       "slots": {
         "brand": "",
-        "pageOf": "03 OF 08",
+        "pageOf": "",
         "number": "02",
         "title": "Get Morning Sunlight",
         "body": "Ten minutes within an hour of waking anchors my circadian rhythm. Coffee second, light first. My mood and energy shifted within a week.",
@@ -41,7 +41,7 @@
       "layoutId": "body-dark-green-serif",
       "slots": {
         "brand": "",
-        "pageOf": "04 OF 08",
+        "pageOf": "",
         "number": "03",
         "title": "Lift Heavy Things",
         "body": "Cardio made me tired; lifting made me capable. Three sessions a week rebuilt my metabolism and posture. It is the ultimate longevity hack.",
@@ -52,7 +52,7 @@
       "layoutId": "body-dark-green-serif",
       "slots": {
         "brand": "",
-        "pageOf": "05 OF 08",
+        "pageOf": "",
         "number": "04",
         "title": "Eat More Protein",
         "body": "Aiming for thirty grams per meal killed the afternoon crash. It takes effort, but muscle and satiety are worth the grocery bill.",
@@ -63,7 +63,7 @@
       "layoutId": "body-dark-green-serif",
       "slots": {
         "brand": "",
-        "pageOf": "06 OF 08",
+        "pageOf": "",
         "number": "05",
         "title": "Set a Digital Sunset",
         "body": "Blue light after 9 PM was wrecking my REM. Now screens go dark one hour before bed. The difference in morning clarity is unreal.",
@@ -74,7 +74,7 @@
       "layoutId": "body-dark-green-serif",
       "slots": {
         "brand": "",
-        "pageOf": "07 OF 08",
+        "pageOf": "",
         "number": "06",
         "title": "Stay Boringly Consistent",
         "body": "None of these work in isolation. The magic is doing them when motivation is zero. Stack them daily; the compound effect is undeniable.",
@@ -88,7 +88,7 @@
         "eyebrow": "YOUR TURN",
         "headline": "Build Your Own Stack",
         "body": "Pick one habit. Master it this week, then add another. Small wins compound faster than overnight overhauls.",
-        "buttonLabel": "SAVE THIS",
+        "buttonLabel": "",
         "handle": ""
       }
     }

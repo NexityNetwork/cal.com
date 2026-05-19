@@ -7,8 +7,8 @@
     {
       "layoutId": "cover-pastel-soft",
       "slots": {
-        "authorInitials": "EL",
-        "authorName": "Elena Lane",
+        "authorInitials": "",
+        "authorName": "",
         "handle": "",
         "tagBlue": "Attachment Styles",
         "tagPink": "Inner Work",
@@ -23,8 +23,8 @@
     {
       "layoutId": "body-pastel-soft",
       "slots": {
-        "authorName": "Elena Lane",
-        "pageOf": "2 / 8",
+        "authorName": "",
+        "pageOf": "",
         "number": "1",
         "numberLabel": "Insight",
         "titleMain": "Your Attachment",
@@ -36,8 +36,8 @@
     {
       "layoutId": "body-pastel-soft",
       "slots": {
-        "authorName": "Elena Lane",
-        "pageOf": "3 / 8",
+        "authorName": "",
+        "pageOf": "",
         "number": "2",
         "numberLabel": "Style",
         "titleMain": "Anxious &",
@@ -49,8 +49,8 @@
     {
       "layoutId": "body-pastel-soft",
       "slots": {
-        "authorName": "Elena Lane",
-        "pageOf": "4 / 8",
+        "authorName": "",
+        "pageOf": "",
         "number": "3",
         "numberLabel": "Style",
         "titleMain": "Avoidant &",
@@ -62,8 +62,8 @@
     {
       "layoutId": "body-pastel-soft",
       "slots": {
-        "authorName": "Elena Lane",
-        "pageOf": "5 / 8",
+        "authorName": "",
+        "pageOf": "",
         "number": "4",
         "numberLabel": "Style",
         "titleMain": "Disorganized &",
@@ -75,8 +75,8 @@
     {
       "layoutId": "body-pastel-soft",
       "slots": {
-        "authorName": "Elena Lane",
-        "pageOf": "6 / 8",
+        "authorName": "",
+        "pageOf": "",
         "number": "5",
         "numberLabel": "Style",
         "titleMain": "Secure &",
@@ -88,8 +88,8 @@
     {
       "layoutId": "body-pastel-soft",
       "slots": {
-        "authorName": "Elena Lane",
-        "pageOf": "7 / 8",
+        "authorName": "",
+        "pageOf": "",
         "number": "6",
         "numberLabel": "Step",
         "titleMain": "Heal Your",
@@ -101,13 +101,13 @@
     {
       "layoutId": "cta-pastel-soft",
       "slots": {
-        "authorName": "Elena Lane",
-        "pageOf": "8 / 8",
+        "authorName": "",
+        "pageOf": "",
         "eyebrow": "YOUR TURN",
         "headlineMain": "Start Your",
         "headlineItalic": "healing",
         "body": "Which style resonated most? Begin with one gentle practice today.",
-        "buttonLabel": "Save this",
+        "buttonLabel": "",
         "secondaryLabel": "Share with a friend",
         "handle": ""
       }

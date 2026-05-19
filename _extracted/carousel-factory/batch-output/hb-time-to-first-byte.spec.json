@@ -27,8 +27,8 @@
         "iconSlug5": "vercel",
         "sourceValue": "9 in 10",
         "sourceLabel": "AGREE WITH",
-        "swipeLabel": "INSIDE",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -62,7 +62,7 @@
         "iconSlug3": "akamai",
         "iconSlug4": "cloudflare",
         "iconSlug5": "vercel",
-        "pageOf": "02 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -96,7 +96,7 @@
         "iconSlug3": "akamai",
         "iconSlug4": "cloudflare",
         "iconSlug5": "vercel",
-        "pageOf": "03 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -130,7 +130,7 @@
         "iconSlug3": "shopify",
         "iconSlug4": "akamai",
         "iconSlug5": "cloudflare",
-        "pageOf": "04 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -164,7 +164,7 @@
         "iconSlug3": "akamai",
         "iconSlug4": "shopify",
         "iconSlug5": "cloudflare",
-        "pageOf": "05 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -198,7 +198,7 @@
         "iconSlug3": "google",
         "iconSlug4": "akamai",
         "iconSlug5": "shopify",
-        "pageOf": "06 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -232,7 +232,7 @@
         "iconSlug3": "akamai",
         "iconSlug4": "cloudflare",
         "iconSlug5": "vercel",
-        "pageOf": "07 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -245,8 +245,8 @@
         "ctaLine1": "Audit your",
         "ctaHighlight": "conversion stack",
         "ctaBody": "Run these five checks this week and watch revenue climb. Share this with your frontend team.",
-        "btnPrimary": "Audit Now",
-        "btnGhost": "Learn More",
+        "btnPrimary": "",
+        "btnGhost": "",
         "stackLabel": "powered by",
         "iconSlug1": "chrome",
         "iconSlug2": "shopify",
@@ -255,7 +255,7 @@
         "iconSlug5": "cloudflare",
         "iconSlug6": "google",
         "signoff": "now go optimize",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

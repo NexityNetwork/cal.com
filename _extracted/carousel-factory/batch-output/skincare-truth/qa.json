@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/skincare-truth/slide-01.png",
-      "bytes": 161105,
+      "bytes": 159358,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -19,7 +19,7 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/skincare-truth/slide-02.png",
-      "bytes": 76323,
+      "bytes": 74740,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -45,7 +45,7 @@
     {
       "index": 2,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/skincare-truth/slide-03.png",
-      "bytes": 76279,
+      "bytes": 74443,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -71,7 +71,7 @@
     {
       "index": 3,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/skincare-truth/slide-04.png",
-      "bytes": 77746,
+      "bytes": 75684,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -97,7 +97,7 @@
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/skincare-truth/slide-05.png",
-      "bytes": 75256,
+      "bytes": 73549,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -123,7 +123,7 @@
     {
       "index": 5,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/skincare-truth/slide-06.png",
-      "bytes": 87632,
+      "bytes": 85519,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -149,7 +149,7 @@
     {
       "index": 6,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/skincare-truth/slide-07.png",
-      "bytes": 81531,
+      "bytes": 79806,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -175,7 +175,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/skincare-truth/slide-08.png",
-      "bytes": 83408,
+      "bytes": 73166,
       "qa": {
         "verdict": "pass",
         "checks": {

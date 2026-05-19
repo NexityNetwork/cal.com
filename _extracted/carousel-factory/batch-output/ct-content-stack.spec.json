@@ -29,8 +29,8 @@
         "tag3": "PAID",
         "tag4": "FREE",
         "tag5": "FREE",
-        "swipeLabel": "SEE EACH ONE",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -56,7 +56,7 @@
         "iconSlug4": "openai",
         "iconSlug5": "buffer",
         "iconSlug6": "copyai",
-        "pageOf": "02 / 08",
+        "pageOf": "",
         "footerNote": "Start with a template."
       }
     },
@@ -83,7 +83,7 @@
         "iconSlug4": "openai",
         "iconSlug5": "buffer",
         "iconSlug6": "copyai",
-        "pageOf": "03 / 08",
+        "pageOf": "",
         "footerNote": "Pro tier unlocks magic."
       }
     },
@@ -110,7 +110,7 @@
         "iconSlug4": "openai",
         "iconSlug5": "buffer",
         "iconSlug6": "copyai",
-        "pageOf": "04 / 08",
+        "pageOf": "",
         "footerNote": "Free plan included."
       }
     },
@@ -137,7 +137,7 @@
         "iconSlug4": "descript",
         "iconSlug5": "buffer",
         "iconSlug6": "copyai",
-        "pageOf": "05 / 08",
+        "pageOf": "",
         "footerNote": "GPT-4 for depth."
       }
     },
@@ -164,7 +164,7 @@
         "iconSlug4": "descript",
         "iconSlug5": "openai",
         "iconSlug6": "copyai",
-        "pageOf": "06 / 08",
+        "pageOf": "",
         "footerNote": "Free for 3 accounts."
       }
     },
@@ -191,7 +191,7 @@
         "iconSlug4": "descript",
         "iconSlug5": "openai",
         "iconSlug6": "buffer",
-        "pageOf": "07 / 08",
+        "pageOf": "",
         "footerNote": "Free trial first."
       }
     },
@@ -205,8 +205,8 @@
         "titleAccent": "today",
         "titleItalic": "starting at $0",
         "body": "This lean stack handles strategy, design, editing, writing and distribution. Start with one, add the rest free.",
-        "btnPrimary": "Save this list",
-        "btnGhost": "Share stack",
+        "btnPrimary": "",
+        "btnGhost": "",
         "stackLabel": "the full stack",
         "iconSlug1": "notion",
         "iconSlug2": "canva",
@@ -215,7 +215,7 @@
         "iconSlug5": "buffer",
         "iconSlug6": "copyai",
         "signoff": "ship content that converts",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

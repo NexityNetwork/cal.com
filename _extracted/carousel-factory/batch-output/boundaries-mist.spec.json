@@ -9,7 +9,7 @@
       "slots": {
         "brand": "",
         "handle": "",
-        "pageOf": "1 / 8",
+        "pageOf": "",
         "searchQuery": "How to set soft boundaries without losing people"
       }
     },
@@ -18,7 +18,7 @@
       "slots": {
         "brand": "",
         "handle": "",
-        "pageOf": "2 / 8",
+        "pageOf": "",
         "stepLabel": "START HERE:",
         "body": "Soft boundaries are not walls; they are bridges that keep connection alive while honoring your limits."
       }
@@ -28,7 +28,7 @@
       "slots": {
         "brand": "",
         "handle": "",
-        "pageOf": "3 / 8",
+        "pageOf": "",
         "stepLabel": "STEP ONE:",
         "body": "Wait before you answer any request. One breath buys you clarity and keeps resentment at bay."
       }
@@ -38,7 +38,7 @@
       "slots": {
         "brand": "",
         "handle": "",
-        "pageOf": "4 / 8",
+        "pageOf": "",
         "stepLabel": "STEP TWO:",
         "body": "Ask yourself what you truly need right now. Honesty with yourself is the first gentle boundary."
       }
@@ -48,7 +48,7 @@
       "slots": {
         "brand": "",
         "handle": "",
-        "pageOf": "5 / 8",
+        "pageOf": "",
         "stepLabel": "STEP THREE:",
         "body": "Offer only what you can give freely. A partial yes protects your peace better than a resentful no."
       }
@@ -58,7 +58,7 @@
       "slots": {
         "brand": "",
         "handle": "",
-        "pageOf": "6 / 8",
+        "pageOf": "",
         "stepLabel": "STEP FOUR:",
         "body": "Guard the edges of your day like sacred ground. Availability is a gift, not an obligation."
       }
@@ -68,7 +68,7 @@
       "slots": {
         "brand": "",
         "handle": "",
-        "pageOf": "7 / 8",
+        "pageOf": "",
         "stepLabel": "STEP FIVE:",
         "body": "Decline with warmth instead of over-explaining. A soft no preserves both your energy and the relationship."
       }
@@ -81,7 +81,7 @@
         "eyebrow": "YOUR RITUAL",
         "headline": "Protect what restores you",
         "body": "Pick one boundary to practice this week. Small shifts create the most lasting peace.",
-        "buttonLabel": "SAVE THIS RITUAL"
+        "buttonLabel": ""
       }
     }
   ]

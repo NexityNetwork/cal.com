@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/ba-cicd-overhaul/slide-01.png",
-      "bytes": 114303,
+      "bytes": 112736,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -115,7 +115,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/ba-cicd-overhaul/slide-08.png",
-      "bytes": 67294,
+      "bytes": 65443,
       "qa": {
         "verdict": "pass",
         "checks": {

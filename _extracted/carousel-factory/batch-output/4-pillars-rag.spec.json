@@ -8,7 +8,7 @@
       "layoutId": "cover-black-mindmap",
       "slots": {
         "handle": "",
-        "pageLabel": "01 / 08",
+        "pageLabel": "",
         "eyebrow": "SAVE THIS",
         "headlineLine1": "The 4 Pillars of",
         "headlineLine2": "RAG Systems",
@@ -19,7 +19,7 @@
       "layoutId": "body-black-mindmap",
       "slots": {
         "handle": "",
-        "pageLabel": "02 / 08",
+        "pageLabel": "",
         "number": "1",
         "title": "Chunking",
         "pill1": "Semantic boundaries",
@@ -33,7 +33,7 @@
       "layoutId": "body-black-mindmap",
       "slots": {
         "handle": "",
-        "pageLabel": "03 / 08",
+        "pageLabel": "",
         "number": "2",
         "title": "Retrieval",
         "pill1": "Hybrid search",
@@ -47,7 +47,7 @@
       "layoutId": "body-black-mindmap",
       "slots": {
         "handle": "",
-        "pageLabel": "04 / 08",
+        "pageLabel": "",
         "number": "3",
         "title": "Rerank",
         "pill1": "Reranker model",
@@ -61,7 +61,7 @@
       "layoutId": "body-black-mindmap",
       "slots": {
         "handle": "",
-        "pageLabel": "05 / 08",
+        "pageLabel": "",
         "number": "4",
         "title": "Cite",
         "pill1": "Source links",
@@ -75,7 +75,7 @@
       "layoutId": "body-black-mindmap",
       "slots": {
         "handle": "",
-        "pageLabel": "06 / 08",
+        "pageLabel": "",
         "number": "5",
         "title": "Evaluate",
         "pill1": "Test queries",
@@ -89,7 +89,7 @@
       "layoutId": "body-black-mindmap",
       "slots": {
         "handle": "",
-        "pageLabel": "07 / 08",
+        "pageLabel": "",
         "number": "6",
         "title": "Guard",
         "pill1": "Output rules",
@@ -103,12 +103,12 @@
       "layoutId": "cta-black-mindmap",
       "slots": {
         "handle": "",
-        "pageLabel": "08 / 08",
+        "pageLabel": "",
         "eyebrow": "YOUR MOVE",
         "headlineLine1": "Build RAG That",
         "headlineLine2": "Users Trust",
         "body": "Stop bad answers. Use chunking, retrieval, rerank, and citations to ground every response.",
-        "buttonLabel": "Save this post",
+        "buttonLabel": "",
         "closing": "Follow for more AI tips"
       }
     }

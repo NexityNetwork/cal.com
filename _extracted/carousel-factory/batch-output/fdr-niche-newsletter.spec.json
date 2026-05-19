@@ -7,9 +7,9 @@
     {
       "layoutId": "cover-linkedin-pro",
       "slots": {
-        "author": "Maya Kern",
+        "author": "",
         "badgeText": "LINKEDIN CAROUSEL POST",
-        "pageNumber": "1",
+        "pageNumber": "",
         "accentColor": "#0a66c2",
         "headline": "The Niche Newsletter Business Plan",
         "heroSymbol": "NL",
@@ -21,9 +21,9 @@
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Maya Kern",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "2",
+        "pageNumber": "",
         "accentColor": "#0a66c2",
         "title": "Pick a Painful Problem",
         "body": "The best niches solve expensive problems for specific people. If they feel the pain daily, they will pay for answers.",
@@ -36,9 +36,9 @@
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Maya Kern",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "3",
+        "pageNumber": "",
         "accentColor": "#0a66c2",
         "title": "Size Your Audience",
         "body": "You only need ten thousand true fans. Sell a fifty-dollar product to one percent and earn five thousand monthly.",
@@ -51,9 +51,9 @@
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Maya Kern",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "4",
+        "pageNumber": "",
         "accentColor": "#0a66c2",
         "title": "Let AI Amplify It",
         "body": "Choose a niche where AI speeds research, writing, or personalization. Your leverage multiplies when technology does the heavy lifting.",
@@ -66,9 +66,9 @@
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Maya Kern",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "5",
+        "pageNumber": "",
         "accentColor": "#0a66c2",
         "title": "Build the Monetization Stack",
         "body": "Combine sponsorships, premium subs, and digital products. Multiple income streams make your newsletter recession-proof and highly profitable.",
@@ -81,9 +81,9 @@
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Maya Kern",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "6",
+        "pageNumber": "",
         "accentColor": "#0a66c2",
         "title": "Design the Flywheel",
         "body": "One idea becomes a post, thread, newsletter, and course. Repurposing creates consistency without burning out each week.",
@@ -96,9 +96,9 @@
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Maya Kern",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "7",
+        "pageNumber": "",
         "accentColor": "#0a66c2",
         "title": "Validate in One Week",
         "body": "Publish three posts on the topic. If engagement is high, you have proof. If not, pivot fast without regret.",
@@ -111,14 +111,14 @@
     {
       "layoutId": "cta-linkedin-pro",
       "slots": {
-        "author": "Maya Kern",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "8",
+        "pageNumber": "",
         "accentColor": "#0a66c2",
         "eyebrow": "YOUR TURN?",
         "headline": "Start Your Niche Newsletter",
         "body": "Which niche will you dominate this year? Drop it in the comments and tag a founder who needs this plan.",
-        "buttonLabel": "Follow for More",
+        "buttonLabel": "",
         "secondaryLabel": "Repost",
         "handle": ""
       }

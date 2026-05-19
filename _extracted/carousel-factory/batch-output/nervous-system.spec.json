@@ -7,8 +7,8 @@
     {
       "layoutId": "cover-pastel-soft",
       "slots": {
-        "authorInitials": "SB",
-        "authorName": "Sage Bloom",
+        "authorInitials": "",
+        "authorName": "",
         "handle": "",
         "tagBlue": "Nervous System",
         "tagPink": "Self Soothe",
@@ -23,8 +23,8 @@
     {
       "layoutId": "body-pastel-soft",
       "slots": {
-        "authorName": "Sage Bloom",
-        "pageOf": "2 / 8",
+        "authorName": "",
+        "pageOf": "",
         "number": "1",
         "numberLabel": "Way",
         "titleMain": "Ground your",
@@ -36,8 +36,8 @@
     {
       "layoutId": "body-pastel-soft",
       "slots": {
-        "authorName": "Sage Bloom",
-        "pageOf": "3 / 8",
+        "authorName": "",
+        "pageOf": "",
         "number": "2",
         "numberLabel": "Way",
         "titleMain": "Slow your",
@@ -49,8 +49,8 @@
     {
       "layoutId": "body-pastel-soft",
       "slots": {
-        "authorName": "Sage Bloom",
-        "pageOf": "4 / 8",
+        "authorName": "",
+        "pageOf": "",
         "number": "3",
         "numberLabel": "Way",
         "titleMain": "Shake it",
@@ -62,8 +62,8 @@
     {
       "layoutId": "body-pastel-soft",
       "slots": {
-        "authorName": "Sage Bloom",
-        "pageOf": "5 / 8",
+        "authorName": "",
+        "pageOf": "",
         "number": "4",
         "numberLabel": "Way",
         "titleMain": "Offer your",
@@ -75,8 +75,8 @@
     {
       "layoutId": "body-pastel-soft",
       "slots": {
-        "authorName": "Sage Bloom",
-        "pageOf": "6 / 8",
+        "authorName": "",
+        "pageOf": "",
         "number": "5",
         "numberLabel": "Way",
         "titleMain": "Hum or",
@@ -88,8 +88,8 @@
     {
       "layoutId": "body-pastel-soft",
       "slots": {
-        "authorName": "Sage Bloom",
-        "pageOf": "7 / 8",
+        "authorName": "",
+        "pageOf": "",
         "number": "6",
         "numberLabel": "Way",
         "titleMain": "Name the",
@@ -101,13 +101,13 @@
     {
       "layoutId": "cta-pastel-soft",
       "slots": {
-        "authorName": "Sage Bloom",
-        "pageOf": "8 / 8",
+        "authorName": "",
+        "pageOf": "",
         "eyebrow": "YOUR TURN",
         "headlineMain": "Save these",
         "headlineItalic": "tools",
         "body": "Which practice will you try first? Share this with someone who needs a gentle reminder today.",
-        "buttonLabel": "Save this",
+        "buttonLabel": "",
         "secondaryLabel": "Share with a friend",
         "handle": ""
       }

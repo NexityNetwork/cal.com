@@ -12,9 +12,9 @@
         "word1": "BAD",
         "word2": "Good",
         "word3": "Great",
-        "authorInitials": "JD",
-        "authorName": "Jordan Doe",
-        "authorRole": "Growth Lead",
+        "authorInitials": "",
+        "authorName": "",
+        "authorRole": "",
         "handle": ""
       }
     },
@@ -28,9 +28,9 @@
         "titleUnderline": "Replies",
         "body": "Every cold email asks for the same thing: a conversation. Yet the response rate swings from silence to meetings. The gap is not the ask—it's the angle.",
         "note": "Intent is constant. Framing changes everything.",
-        "authorInitials": "JD",
-        "authorName": "Jordan Doe",
-        "pageOf": "2 / 8"
+        "authorInitials": "",
+        "authorName": "",
+        "pageOf": ""
       }
     },
     {
@@ -43,9 +43,9 @@
         "titleUnderline": "Pray",
         "body": "Hi [Name], I hope you are well. We are a leading provider of AI solutions. I would love to jump on a quick call to discuss your needs. Are you free Tuesday?",
         "note": "Self-centered, vague, and instantly deletable.",
-        "authorInitials": "JD",
-        "authorName": "Jordan Doe",
-        "pageOf": "3 / 8"
+        "authorInitials": "",
+        "authorName": "",
+        "pageOf": ""
       }
     },
     {
@@ -58,9 +58,9 @@
         "titleUnderline": "Ask",
         "body": "Hi [Name], noticed your team doubled headcount in Q2. Most fast-growing sales teams struggle with onboarding velocity. We cut ramp time by 30% for similar teams.",
         "note": "Relevant hook, but still slightly self-serving.",
-        "authorInitials": "JD",
-        "authorName": "Jordan Doe",
-        "pageOf": "4 / 8"
+        "authorInitials": "",
+        "authorName": "",
+        "pageOf": ""
       }
     },
     {
@@ -73,9 +73,9 @@
         "titleUnderline": "First",
         "body": "Hi [Name], saw your Series B announcement—congrats. I interviewed three VPs who scaled through similar rounds. Their biggest regret was delaying revops hires. Happy to send the notes.",
         "note": "Leads with value. The meeting becomes a natural next step.",
-        "authorInitials": "JD",
-        "authorName": "Jordan Doe",
-        "pageOf": "5 / 8"
+        "authorInitials": "",
+        "authorName": "",
+        "pageOf": ""
       }
     },
     {
@@ -88,9 +88,9 @@
         "titleUnderline": "Resource",
         "body": "Bad emails beg. Good emails pitch. Great emails teach. The reply rate skyrockets when the sender becomes a resource before they become a vendor.",
         "note": "Flip the timeline: give, then ask.",
-        "authorInitials": "JD",
-        "authorName": "Jordan Doe",
-        "pageOf": "6 / 8"
+        "authorInitials": "",
+        "authorName": "",
+        "pageOf": ""
       }
     },
     {
@@ -103,9 +103,9 @@
         "titleUnderline": "Test",
         "body": "Before you send, delete every 'I' and 'we' until you have at least two 'you' or 'your' insights. If you cannot offer a micro-win, do not hit send.",
         "note": "One genuine insight beats a hundred templates.",
-        "authorInitials": "JD",
-        "authorName": "Jordan Doe",
-        "pageOf": "7 / 8"
+        "authorInitials": "",
+        "authorName": "",
+        "pageOf": ""
       }
     },
     {
@@ -115,9 +115,9 @@
         "headlineMain": "Which email",
         "headlineAccent": "will you send",
         "body": "Save this framework and rewrite your next cold email before lunch. Your future reply rate will thank you.",
-        "buttonLabel": "Save this post",
-        "authorInitials": "JD",
-        "authorName": "Jordan Doe",
+        "buttonLabel": "",
+        "authorInitials": "",
+        "authorName": "",
         "handle": ""
       }
     }

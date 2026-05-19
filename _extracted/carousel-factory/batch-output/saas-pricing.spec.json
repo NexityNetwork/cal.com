@@ -7,9 +7,9 @@
     {
       "layoutId": "cover-linkedin-pro",
       "slots": {
-        "author": "Jordan Lee",
+        "author": "",
         "badgeText": "LINKEDIN CAROUSEL POST",
-        "pageNumber": "1",
+        "pageNumber": "",
         "accentColor": "#4f3df5",
         "headline": "5 Pricing Models That Print Money in 2026",
         "heroSymbol": "$$",
@@ -21,9 +21,9 @@
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Jordan Lee",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "2",
+        "pageNumber": "",
         "title": "Pay As You Grow Pricing",
         "body": "Charge by API calls, seats, or storage consumed. Customers start small and scale spend with value received. It aligns revenue directly to customer success.",
         "heroSymbol": "1",
@@ -35,9 +35,9 @@
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Jordan Lee",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "3",
+        "pageNumber": "",
         "title": "Good Better Best Tiers",
         "body": "Three clear packages anchor perceived value. The middle tier drives 60% of sales by looking like the smart compromise. Never offer more than four options.",
         "heroSymbol": "2",
@@ -49,9 +49,9 @@
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Jordan Lee",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "4",
+        "pageNumber": "",
         "title": "Land Then Expand Pricing",
         "body": "Price the core product aggressively to win the account. Monetize through add-ons, modules, and premium support later. Expansion revenue is pure margin.",
         "heroSymbol": "3",
@@ -63,9 +63,9 @@
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Jordan Lee",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "5",
+        "pageNumber": "",
         "title": "Pay For Outcomes Only",
         "body": "Customers pay only when they achieve defined results. This builds extreme trust and locks in long contracts. It requires tight usage tracking but prints cash.",
         "heroSymbol": "4",
@@ -77,9 +77,9 @@
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Jordan Lee",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "6",
+        "pageNumber": "",
         "title": "Real-Time Dynamic AI Pricing",
         "body": "Adjust prices automatically based on demand, segment, and willingness to pay. AI models optimize every deal in real time. This maximizes yield without manual quoting.",
         "heroSymbol": "5",
@@ -91,9 +91,9 @@
     {
       "layoutId": "body-linkedin-pro",
       "slots": {
-        "author": "Jordan Lee",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "7",
+        "pageNumber": "",
         "title": "Hybrid Stacks Win 2026",
         "body": "The best founders combine two or three of these models. Hybrid pricing reduces churn and increases lifetime value. Test aggressively and iterate quarterly.",
         "heroSymbol": "★",
@@ -105,14 +105,14 @@
     {
       "layoutId": "cta-linkedin-pro",
       "slots": {
-        "author": "Jordan Lee",
+        "author": "",
         "badgeText": "SAVE THIS POST",
-        "pageNumber": "8",
+        "pageNumber": "",
         "accentColor": "#4f3df5",
         "eyebrow": "YOUR TURN?",
         "headline": "Which Pricing Model Will You Try?",
         "body": "Drop your current model in the comments. I will reply with one tweak to increase your ARR.",
-        "buttonLabel": "Follow for more",
+        "buttonLabel": "",
         "secondaryLabel": "Repost",
         "handle": ""
       }

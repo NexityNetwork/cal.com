@@ -9,7 +9,7 @@
       "slots": {
         "brand": "",
         "handle": "",
-        "pageOf": "1 / 8",
+        "pageOf": "",
         "searchQuery": "How to fall asleep when anxious"
       }
     },
@@ -18,7 +18,7 @@
       "slots": {
         "brand": "",
         "handle": "",
-        "pageOf": "2 / 8",
+        "pageOf": "",
         "stepLabel": "START HERE:",
         "body": "Set your phone aside and dim every light an hour before you plan to sleep."
       }
@@ -28,7 +28,7 @@
       "slots": {
         "brand": "",
         "handle": "",
-        "pageOf": "3 / 8",
+        "pageOf": "",
         "stepLabel": "STEP ONE:",
         "body": "Place one hand on your heart and breathe in for four counts, then out for six."
       }
@@ -38,7 +38,7 @@
       "slots": {
         "brand": "",
         "handle": "",
-        "pageOf": "4 / 8",
+        "pageOf": "",
         "stepLabel": "STEP TWO:",
         "body": "Tense each muscle group for five seconds, then release from your toes to your forehead."
       }
@@ -48,7 +48,7 @@
       "slots": {
         "brand": "",
         "handle": "",
-        "pageOf": "5 / 8",
+        "pageOf": "",
         "stepLabel": "STEP THREE:",
         "body": "Picture a quiet garden and walk slowly through it, letting each step feel heavier."
       }
@@ -58,7 +58,7 @@
       "slots": {
         "brand": "",
         "handle": "",
-        "pageOf": "6 / 8",
+        "pageOf": "",
         "stepLabel": "STEP FOUR:",
         "body": "Write every worry onto paper until your mind feels lighter and the page holds them instead."
       }
@@ -68,7 +68,7 @@
       "slots": {
         "brand": "",
         "handle": "",
-        "pageOf": "7 / 8",
+        "pageOf": "",
         "stepLabel": "STEP FIVE:",
         "body": "Whisper a gentle mantra like 'I am safe' and let it repeat until your eyes close."
       }
@@ -81,7 +81,7 @@
         "eyebrow": "YOUR RITUAL",
         "headline": "Let the night hold you",
         "body": "Return to these steps whenever rest feels far away; sleep will find you again.",
-        "buttonLabel": "SAVE THIS RITUAL"
+        "buttonLabel": ""
       }
     }
   ]

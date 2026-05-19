@@ -19,7 +19,7 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/data-saas-metrics/slide-02.png",
-      "bytes": 47470,
+      "bytes": 46458,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -35,7 +35,7 @@
     {
       "index": 2,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/data-saas-metrics/slide-03.png",
-      "bytes": 57198,
+      "bytes": 56163,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -51,7 +51,7 @@
     {
       "index": 3,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/data-saas-metrics/slide-04.png",
-      "bytes": 52943,
+      "bytes": 52042,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -67,7 +67,7 @@
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/data-saas-metrics/slide-05.png",
-      "bytes": 47046,
+      "bytes": 46024,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -83,7 +83,7 @@
     {
       "index": 5,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/data-saas-metrics/slide-06.png",
-      "bytes": 46355,
+      "bytes": 45248,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -99,7 +99,7 @@
     {
       "index": 6,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/data-saas-metrics/slide-07.png",
-      "bytes": 53677,
+      "bytes": 52783,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -115,7 +115,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/data-saas-metrics/slide-08.png",
-      "bytes": 59279,
+      "bytes": 51817,
       "qa": {
         "verdict": "pass",
         "checks": {

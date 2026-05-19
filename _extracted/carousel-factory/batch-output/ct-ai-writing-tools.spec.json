@@ -29,8 +29,8 @@
         "tag3": "PAID",
         "tag4": "PAID",
         "tag5": "PAID",
-        "swipeLabel": "SEE EACH ONE",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -56,7 +56,7 @@
         "iconSlug4": "notion",
         "iconSlug5": "webflow",
         "iconSlug6": "airtable",
-        "pageOf": "02 / 08",
+        "pageOf": "",
         "footerNote": "Pro tier pricing"
       }
     },
@@ -83,7 +83,7 @@
         "iconSlug4": "github",
         "iconSlug5": "vscode",
         "iconSlug6": "chrome",
-        "pageOf": "03 / 08",
+        "pageOf": "",
         "footerNote": "Plus plan required"
       }
     },
@@ -110,7 +110,7 @@
         "iconSlug4": "figma",
         "iconSlug5": "github",
         "iconSlug6": "linear",
-        "pageOf": "04 / 08",
+        "pageOf": "",
         "footerNote": "Per member add-on"
       }
     },
@@ -137,7 +137,7 @@
         "iconSlug4": "zapier",
         "iconSlug5": "mailchimp",
         "iconSlug6": "webflow",
-        "pageOf": "05 / 08",
+        "pageOf": "",
         "footerNote": "Pro plan pricing"
       }
     },
@@ -164,7 +164,7 @@
         "iconSlug4": "slack",
         "iconSlug5": "notion",
         "iconSlug6": "chrome",
-        "pageOf": "06 / 08",
+        "pageOf": "",
         "footerNote": "Business tier only"
       }
     },
@@ -191,7 +191,7 @@
         "iconSlug4": "copyai",
         "iconSlug5": "grammarly",
         "iconSlug6": "zapier",
-        "pageOf": "07 / 08",
+        "pageOf": "",
         "footerNote": "Based on pro tiers"
       }
     },
@@ -205,8 +205,8 @@
         "titleAccent": "AI stack",
         "titleItalic": "for 2026",
         "body": "Honest breakdowns every week. Follow for tools that actually move the needle.",
-        "btnPrimary": "Follow now",
-        "btnGhost": "Read more",
+        "btnPrimary": "",
+        "btnGhost": "",
         "stackLabel": "the full stack",
         "iconSlug1": "claude",
         "iconSlug2": "openai",
@@ -215,7 +215,7 @@
         "iconSlug5": "grammarly",
         "iconSlug6": "zapier",
         "signoff": "ship your weekend project",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

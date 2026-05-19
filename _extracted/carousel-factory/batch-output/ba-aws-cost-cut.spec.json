@@ -7,7 +7,7 @@
     {
       "layoutId": "cover-before-after",
       "slots": {
-        "pageOf": "1 / 8",
+        "pageOf": "",
         "handle": "",
         "title": "Stop burning cash",
         "titleAccent": "on AWS waste",
@@ -161,7 +161,7 @@
     {
       "layoutId": "cta-before-after",
       "slots": {
-        "pageOf": "8 / 8",
+        "pageOf": "",
         "handle": "",
         "eyebrow": "MAKE THE SWITCH",
         "headlineLine1": "Cut cloud costs",

@@ -17,12 +17,12 @@
         "titleAccent": "KILL",
         "titleLine2": "STARTUPS",
         "subtitle": "The expensive lessons learned by founders who have survived the first crucible and refuse to repeat them.",
-        "authorName": "MARCUS CHEN",
-        "authorRole": "serial founder · 2026",
+        "authorName": "",
+        "authorRole": "",
         "tag1": "STARTUPS",
         "tag2": "SCALE",
         "tag3": "2026",
-        "pageOf": "01 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -47,7 +47,7 @@
         "iconSlug2": "zoom",
         "iconSlug3": "notion",
         "iconSlug4": "loom",
-        "pageOf": "02 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -72,7 +72,7 @@
         "iconSlug2": "slack",
         "iconSlug3": "notion",
         "iconSlug4": "deel",
-        "pageOf": "03 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -97,7 +97,7 @@
         "iconSlug2": "mercury",
         "iconSlug3": "brex",
         "iconSlug4": "quickbooks",
-        "pageOf": "04 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -122,7 +122,7 @@
         "iconSlug2": "github",
         "iconSlug3": "linear",
         "iconSlug4": "framer",
-        "pageOf": "05 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -147,7 +147,7 @@
         "iconSlug2": "loom",
         "iconSlug3": "slack",
         "iconSlug4": "asana",
-        "pageOf": "06 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -172,7 +172,7 @@
         "iconSlug2": "mixpanel",
         "iconSlug3": "segment",
         "iconSlug4": "stripe",
-        "pageOf": "07 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -190,10 +190,10 @@
         "iconSlug3": "linear",
         "iconSlug4": "slack",
         "ctaBody": "Pick <em>one mistake</em> to eliminate this quarter and watch your runway extend overnight.",
-        "btnPrimary": "SAVE THIS",
-        "btnGhost": "Follow along",
+        "btnPrimary": "",
+        "btnGhost": "",
         "signoff": "Build with intent.",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

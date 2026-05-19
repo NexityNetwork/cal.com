@@ -28,7 +28,7 @@
       "layoutId": "body-dark-navy",
       "slots": {
         "brand": "",
-        "pageOf": "02/08",
+        "pageOf": "",
         "stepLabel": "managed postgres foundation layer",
         "number": "1",
         "titleMain": "Postgres",
@@ -42,7 +42,7 @@
       "layoutId": "body-dark-navy",
       "slots": {
         "brand": "",
-        "pageOf": "03/08",
+        "pageOf": "",
         "stepLabel": "nextjs app router shell",
         "number": "2",
         "titleMain": "App",
@@ -56,7 +56,7 @@
       "layoutId": "body-dark-navy",
       "slots": {
         "brand": "",
-        "pageOf": "04/08",
+        "pageOf": "",
         "stepLabel": "row level security policies",
         "number": "3",
         "titleMain": "RLS",
@@ -70,7 +70,7 @@
       "layoutId": "body-dark-navy",
       "slots": {
         "brand": "",
-        "pageOf": "05/08",
+        "pageOf": "",
         "stepLabel": "passwordless auth session layer",
         "number": "4",
         "titleMain": "Magic",
@@ -84,7 +84,7 @@
       "layoutId": "body-dark-navy",
       "slots": {
         "brand": "",
-        "pageOf": "06/08",
+        "pageOf": "",
         "stepLabel": "supabase storage edge pattern",
         "number": "5",
         "titleMain": "Edge",
@@ -98,7 +98,7 @@
       "layoutId": "body-dark-navy",
       "slots": {
         "brand": "",
-        "pageOf": "07/08",
+        "pageOf": "",
         "stepLabel": "vercel deploy pipeline step",
         "number": "6",
         "titleMain": "Vercel",
@@ -112,12 +112,12 @@
       "layoutId": "cta-dark-navy",
       "slots": {
         "brand": "",
-        "pageOf": "08/08",
+        "pageOf": "",
         "terminalTag": "deploy --to=your-feed",
         "headLine1": "Clone",
         "headLine2": "This",
         "body": "Repost the first slide to bookmark this stack. I break down production SaaS architecture weekly.",
-        "buttonLabel": "Follow along",
+        "buttonLabel": "",
         "secondaryNote": "follow for more stack threads",
         "handle": ""
       }

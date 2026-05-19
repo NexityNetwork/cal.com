@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/tsg-data-engineering-stack/slide-01.png",
-      "bytes": 127290,
+      "bytes": 126219,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -19,7 +19,7 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/tsg-data-engineering-stack/slide-02.png",
-      "bytes": 113989,
+      "bytes": 112906,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -35,7 +35,7 @@
     {
       "index": 2,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/tsg-data-engineering-stack/slide-03.png",
-      "bytes": 117862,
+      "bytes": 116744,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -51,7 +51,7 @@
     {
       "index": 3,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/tsg-data-engineering-stack/slide-04.png",
-      "bytes": 122814,
+      "bytes": 121750,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -67,7 +67,7 @@
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/tsg-data-engineering-stack/slide-05.png",
-      "bytes": 119724,
+      "bytes": 118603,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -83,7 +83,7 @@
     {
       "index": 5,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/tsg-data-engineering-stack/slide-06.png",
-      "bytes": 116692,
+      "bytes": 115560,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -99,7 +99,7 @@
     {
       "index": 6,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/tsg-data-engineering-stack/slide-07.png",
-      "bytes": 120047,
+      "bytes": 118964,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -115,7 +115,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/tsg-data-engineering-stack/slide-08.png",
-      "bytes": 318290,
+      "bytes": 302074,
       "qa": {
         "verdict": "pass",
         "checks": {

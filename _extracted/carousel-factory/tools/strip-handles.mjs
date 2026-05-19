@@ -16,7 +16,17 @@ const FACTORY = resolve(import.meta.dirname, "..");
 const LAYOUTS = resolve(FACTORY, "layouts");
 const OUT = resolve(FACTORY, "batch-output");
 
-const KILL_SLOTS = ["handle", "brand", "brandTag", "domain", "domainText"];
+const KILL_SLOTS = [
+  // identity
+  "handle", "brand", "brandTag", "domain", "domainText",
+  // author/byline
+  "author", "authorName", "authorInitials", "authorQuote", "authorRole",
+  "byLine", "avatarLetter",
+  // pagination / swipe
+  "pageOf", "pageNumber", "pageBadge", "pageLabel", "swipeLabel",
+  // CTA button labels (containers stripped by compose.stripEmptyDecoratives)
+  "buttonLabel", "btnPrimary", "btnGhost", "buttonLine",
+];
 const CONCURRENCY = Number(process.env.CONCURRENCY || 4);
 
 const idFilter = process.argv[2]
@@ -53,28 +63,21 @@ const results = await pmap(specFiles, CONCURRENCY, async (id, idx) => {
     const specPath = join(OUT, `${id}.spec.json`);
     const spec = JSON.parse(await readFile(specPath, "utf8"));
 
-    let changed = false;
     for (const slide of spec.slides || []) {
       if (!slide.slots) continue;
       for (const key of KILL_SLOTS) {
-        if (key in slide.slots && slide.slots[key] !== "") {
-          slide.slots[key] = "";
-          changed = true;
-        }
+        if (key in slide.slots) slide.slots[key] = "";
       }
     }
 
-    if (!changed) {
-      skipped++;
-      return { id, status: "skipped" };
-    }
-
+    // Always re-render: compose.stripEmptyDecoratives may have changed even
+    // when slot values were already empty, so the output PNGs need refresh.
     await writeFile(specPath, JSON.stringify(spec, null, 2));
     const htmls = await compose(spec, { layoutsDir: LAYOUTS });
     const dir = join(OUT, id);
     await renderAndQa(htmls, dir, { concurrency: 2 });
     stripped++;
-    console.log(`✓ ${tag} — handles stripped`);
+    console.log(`✓ ${tag} — handles/author/pagination/buttons stripped`);
     return { id, status: "ok" };
   } catch (e) {
     console.log(`✗ ${tag} — ${e.message}`);

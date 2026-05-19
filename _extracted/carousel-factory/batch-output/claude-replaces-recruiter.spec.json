@@ -141,7 +141,7 @@
         "body": "Copy the exact weekend build. Prompts, tools, and loops included.",
         "targetLine1": "FREE",
         "targetLine2": "SYSTEM",
-        "buttonLine": "Comment 'SHIP' for access",
+        "buttonLine": "",
         "handle": ""
       }
     }

@@ -19,13 +19,13 @@
         "preview1": "How to think in bets when capital is tight",
         "preview2": "The leverage playbook that killed my hourly rate",
         "preview3": "Why systems always beat goals on chaotic Mondays",
-        "avatarLetter": "A",
-        "authorName": "Alex Rivera",
-        "authorRole": "founder · 52 books read",
+        "avatarLetter": "",
+        "authorName": "",
+        "authorRole": "",
         "tag1": "FOUNDER",
         "tag2": "READING",
-        "swipeLabel": "Read the issue",
-        "pageOf": "01 / 08"
+        "swipeLabel": "",
+        "pageOf": ""
       }
     },
     {
@@ -55,7 +55,7 @@
         "iconSlug2": "brain",
         "iconSlug3": "notebook",
         "iconSlug4": "target",
-        "pageOf": "02 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -85,7 +85,7 @@
         "iconSlug2": "cpu",
         "iconSlug3": "trending-up",
         "iconSlug4": "anchor",
-        "pageOf": "03 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -115,7 +115,7 @@
         "iconSlug2": "users",
         "iconSlug3": "gauge",
         "iconSlug4": "zap",
-        "pageOf": "04 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -145,7 +145,7 @@
         "iconSlug2": "repeat",
         "iconSlug3": "sliders",
         "iconSlug4": "check-circle",
-        "pageOf": "05 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -175,7 +175,7 @@
         "iconSlug2": "sword",
         "iconSlug3": "heart",
         "iconSlug4": "anchor",
-        "pageOf": "06 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -205,7 +205,7 @@
         "iconSlug2": "hourglass",
         "iconSlug3": "sunset",
         "iconSlug4": "coffee",
-        "pageOf": "07 / 08"
+        "pageOf": ""
       }
     },
     {
@@ -223,10 +223,10 @@
         "iconSlug3": "glasses",
         "iconSlug4": "coffee",
         "ctaBody": "The right book at the right moment rewires how you build. <em>Which one will you read first?</em>",
-        "btnPrimary": "Save Post",
-        "btnGhost": "Follow along",
+        "btnPrimary": "",
+        "btnGhost": "",
         "signoff": "more essays weekly",
-        "pageOf": "08 / 08"
+        "pageOf": ""
       }
     }
   ]

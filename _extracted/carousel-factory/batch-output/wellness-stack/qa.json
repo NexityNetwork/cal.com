@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/wellness-stack/slide-01.png",
-      "bytes": 160494,
+      "bytes": 158664,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -19,7 +19,7 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/wellness-stack/slide-02.png",
-      "bytes": 67958,
+      "bytes": 66048,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -45,7 +45,7 @@
     {
       "index": 2,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/wellness-stack/slide-03.png",
-      "bytes": 69921,
+      "bytes": 67961,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -71,7 +71,7 @@
     {
       "index": 3,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/wellness-stack/slide-04.png",
-      "bytes": 67114,
+      "bytes": 65334,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -97,7 +97,7 @@
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/wellness-stack/slide-05.png",
-      "bytes": 63939,
+      "bytes": 62085,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -123,7 +123,7 @@
     {
       "index": 5,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/wellness-stack/slide-06.png",
-      "bytes": 63218,
+      "bytes": 61184,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -149,7 +149,7 @@
     {
       "index": 6,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/wellness-stack/slide-07.png",
-      "bytes": 74067,
+      "bytes": 72178,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -175,7 +175,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/wellness-stack/slide-08.png",
-      "bytes": 74945,
+      "bytes": 67297,
       "qa": {
         "verdict": "pass",
         "checks": {

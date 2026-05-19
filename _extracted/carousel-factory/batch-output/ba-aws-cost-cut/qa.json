@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/ba-aws-cost-cut/slide-01.png",
-      "bytes": 122035,
+      "bytes": 121245,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -115,7 +115,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/ba-aws-cost-cut/slide-08.png",
-      "bytes": 72107,
+      "bytes": 70957,
       "qa": {
         "verdict": "pass",
         "checks": {
