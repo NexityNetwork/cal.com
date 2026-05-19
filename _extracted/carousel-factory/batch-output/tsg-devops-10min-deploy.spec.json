@@ -1,0 +1,190 @@
+{
+  "id": "tsg-devops-10min-deploy",
+  "brand": "51ultron",
+  "brief": "The devops stack that ships features to production in under 10 minutes — 6 tools, real config.",
+  "theme": "tech-stack-grid",
+  "slides": [
+    {
+      "layoutId": "cover-tech-stack-grid",
+      "slots": {
+        "tag": "MY STACK",
+        "handle": "factory.51ultron.com",
+        "eyebrow": "ship faster, deploy safer, sleep better",
+        "titleLine1": "The devops tools",
+        "titleAccent": "that ship fast",
+        "iconSlug1": "github",
+        "iconSlug2": "docker",
+        "iconSlug3": "vercel",
+        "iconSlug4": "supabase",
+        "iconSlug5": "n8n",
+        "iconSlug6": "redis",
+        "role1": "MANAGES SOURCE CODE",
+        "role2": "CONTAINERIZES ALL APPS",
+        "role3": "DEPLOYS TO PRODUCTION",
+        "role4": "HOSTS POSTGRES DATA",
+        "role5": "RUNS DEV WORKFLOWS",
+        "role6": "CACHES HOT DATA",
+        "pageOf": "01 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "SOURCE",
+        "stepMeta": "02 / 08",
+        "iconSlug1": "github",
+        "toolRole": "MANAGES SOURCE CODE",
+        "toolTagline": "DEV ESSENTIAL",
+        "tagline": "The foundation where every feature branch starts its journey to production.",
+        "f1Title": "GitHub Actions CI",
+        "f1Body": "Automated test and build pipelines trigger on every pull request instantly.",
+        "f2Title": "Branch Protection Rules",
+        "f2Body": "Enforce reviews and status checks before any code reaches the main branch.",
+        "f3Title": "Smart Webhook Integrations",
+        "f3Body": "Connect commits to deployments and notify your team across every channel.",
+        "iconSlug2": "docker",
+        "iconSlug3": "vercel",
+        "iconSlug4": "supabase",
+        "iconSlug5": "n8n",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "02 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "BUILD",
+        "stepMeta": "03 / 08",
+        "iconSlug1": "docker",
+        "toolRole": "CONTAINERIZES ALL APPS",
+        "toolTagline": "BUILD CRITICAL",
+        "tagline": "Package applications into portable containers that run identically across every environment.",
+        "f1Title": "Lean Multi Stage Builds",
+        "f1Body": "Compile production images under fifty megabytes for blazing fast startup times.",
+        "f2Title": "Compose Local Stack",
+        "f2Body": "Spin up Postgres, Redis, and APIs with one command during development.",
+        "f3Title": "Automated Registry Pushes",
+        "f3Body": "Ship immutable images to private registries ready for production orchestration.",
+        "iconSlug2": "github",
+        "iconSlug3": "vercel",
+        "iconSlug4": "supabase",
+        "iconSlug5": "redis",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "03 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "DEPLOY",
+        "stepMeta": "04 / 08",
+        "iconSlug1": "vercel",
+        "toolRole": "DEPLOYS TO PRODUCTION",
+        "toolTagline": "SHIP VELOCITY",
+        "tagline": "Ship frontend changes to global edge nodes in seconds with zero configuration overhead.",
+        "f1Title": "Instant Preview Deployments",
+        "f1Body": "Every pull request generates a live staging URL for immediate team review.",
+        "f2Title": "Global Edge Network",
+        "f2Body": "Cache static assets across two-hundred locations for sub-millisecond global response.",
+        "f3Title": "Serverless API Functions",
+        "f3Body": "Run Node and Python APIs that scale automatically without managing backend servers.",
+        "iconSlug2": "github",
+        "iconSlug3": "docker",
+        "iconSlug4": "supabase",
+        "iconSlug5": "redis",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "04 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "DATABASE",
+        "stepMeta": "05 / 08",
+        "iconSlug1": "supabase",
+        "toolRole": "HOSTS POSTGRES DATA",
+        "toolTagline": "DATA BACKEND",
+        "tagline": "Managed Postgres with real-time subscriptions and instant APIs for your data layer.",
+        "f1Title": "Row Level Security",
+        "f1Body": "Lock down data access with Postgres policies that scale with your user base.",
+        "f2Title": "Instant Data APIs",
+        "f2Body": "Auto-generated REST and GraphQL endpoints eliminate backend boilerplate completely.",
+        "f3Title": "Safe Database Branching",
+        "f3Body": "Fork production schema for testing migrations without risking live customer data.",
+        "iconSlug2": "github",
+        "iconSlug3": "docker",
+        "iconSlug4": "n8n",
+        "iconSlug5": "redis",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "05 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "AUTOMATE",
+        "stepMeta": "06 / 08",
+        "iconSlug1": "n8n",
+        "toolRole": "RUNS DEV WORKFLOWS",
+        "toolTagline": "OPS CONNECTOR",
+        "tagline": "Self-hosted automation that triggers deployments and alerts across your entire pipeline.",
+        "f1Title": "Event Webhook Triggers",
+        "f1Body": "Start workflows from GitHub events or form submissions in real time.",
+        "f2Title": "Smart Error Handling",
+        "f2Body": "Retry failed nodes and notify Slack when production jobs need attention.",
+        "f3Title": "Full Self Hosted Control",
+        "f3Body": "Keep sensitive data inside your infrastructure instead of third-party cloud automation.",
+        "iconSlug2": "github",
+        "iconSlug3": "docker",
+        "iconSlug4": "supabase",
+        "iconSlug5": "redis",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "06 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "CACHE",
+        "stepMeta": "07 / 08",
+        "iconSlug1": "redis",
+        "toolRole": "CACHES HOT DATA",
+        "toolTagline": "CACHE PERFORMANCE",
+        "tagline": "In-memory store that cuts database load and speeds up API responses tenfold.",
+        "f1Title": "User Session Storage",
+        "f1Body": "Manage user authentication state across serverless functions without disk bottlenecks.",
+        "f2Title": "API Rate Limiting",
+        "f2Body": "Protect endpoints from traffic spikes using atomic counter operations per second.",
+        "f3Title": "Pub Sub Messaging",
+        "f3Body": "Broadcast real-time events to connected clients via lightweight in-memory channels.",
+        "iconSlug2": "docker",
+        "iconSlug3": "supabase",
+        "iconSlug4": "n8n",
+        "iconSlug5": "vercel",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "07 / 08"
+      }
+    },
+    {
+      "layoutId": "cta-tech-stack-grid",
+      "slots": {
+        "tag": "WRAP",
+        "handle": "factory.51ultron.com",
+        "eyebrow": "ready to ship faster now",
+        "ctaLine1": "Build your own",
+        "ctaLine2": "10 minute stack",
+        "ctaBody": "Steal this exact toolchain and start shipping production features before your coffee gets cold.",
+        "iconSlug1": "github",
+        "iconSlug2": "docker",
+        "iconSlug3": "vercel",
+        "iconSlug4": "supabase",
+        "iconSlug5": "n8n",
+        "iconSlug6": "redis",
+        "btnPrimary": "Get The Repo",
+        "btnGhost": "Read Guide",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "08 / 08"
+      }
+    }
+  ]
+}

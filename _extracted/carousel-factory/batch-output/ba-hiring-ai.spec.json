@@ -1,0 +1,180 @@
+{
+  "id": "ba-hiring-ai",
+  "brand": "HireFlow",
+  "brief": "Hiring funnel before vs after AI — 200 applicants, same quality, no recruiter.",
+  "theme": "before-after",
+  "slides": [
+    {
+      "layoutId": "cover-before-after",
+      "slots": {
+        "pageOf": "01 / 08",
+        "handle": "@hireflow",
+        "title": "Stop wasting",
+        "titleAccent": "hiring budget",
+        "description": "200 applicants, same talent quality, zero recruiter overhead. See how AI reshapes every step.",
+        "badLabel1": "Manually screening every resume",
+        "badLabel2": "Endless back-and-forth scheduling threads",
+        "badStat1": "3 weeks to hire",
+        "badStat2": "$8,000 per role",
+        "goodLabel1": "AI builds instant shortlist",
+        "goodLabel2": "Auto-books candidate interviews instantly",
+        "goodStat1": "48 hours to hire",
+        "goodStat2": "$800 per role",
+        "iconSlug1": "slack",
+        "iconSlug2": "notion",
+        "iconSlug3": "linear",
+        "iconSlug4": "zoom"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 01 / 06",
+        "handle": "@hireflow",
+        "title": "Post once",
+        "titleAccent": "reach all",
+        "description": "AI syndicates your open role across every major job board instantly.",
+        "badLabel": "BEFORE",
+        "badText": "Copy-paste the same job description into ten different portals.",
+        "badStat": "4 hours",
+        "iconSlug1": "google",
+        "iconSlug2": "microsoft",
+        "goodLabel": "AFTER",
+        "goodText": "One click distributes an optimized listing everywhere in seconds.",
+        "goodStat": "2 minutes",
+        "iconSlug3": "openai",
+        "iconSlug4": "slack",
+        "iconSlug5": "notion",
+        "ctaArrow": "See the next step"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 02 / 06",
+        "handle": "@hireflow",
+        "title": "Screen resumes",
+        "titleAccent": "in seconds",
+        "description": "AI reads and ranks every applicant against your scorecard instantly.",
+        "badLabel": "BEFORE",
+        "badText": "Recruiters skim resumes for hours and miss strong candidates.",
+        "badStat": "12 hours",
+        "iconSlug1": "dropbox",
+        "iconSlug2": "apple",
+        "goodLabel": "AFTER",
+        "goodText": "An agent scores all 200 applicants in a single pass.",
+        "goodStat": "3 minutes",
+        "iconSlug3": "openai",
+        "iconSlug4": "anthropic",
+        "iconSlug5": "linear",
+        "ctaArrow": "Go to next step"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 03 / 06",
+        "handle": "@hireflow",
+        "title": "Schedule interviews",
+        "titleAccent": "without email",
+        "description": "AI finds open slots across calendars and books candidates automatically.",
+        "badLabel": "BEFORE",
+        "badText": "Endless threads to find a thirty-minute window that works.",
+        "badStat": "3 days",
+        "iconSlug1": "zoom",
+        "iconSlug2": "google",
+        "goodLabel": "AFTER",
+        "goodText": "Candidates pick a time and the meeting auto-appears.",
+        "goodStat": "Zero emails",
+        "iconSlug3": "calendly",
+        "iconSlug4": "notion",
+        "iconSlug5": "linear",
+        "ctaArrow": "See how it works"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 04 / 06",
+        "handle": "@hireflow",
+        "title": "Run structured",
+        "titleAccent": "interviews",
+        "description": "AI generates role-specific questions and scores answers in real time.",
+        "badLabel": "BEFORE",
+        "badText": "Hiring managers wing it with inconsistent questions every round.",
+        "badStat": "High bias",
+        "iconSlug1": "microsoft",
+        "iconSlug2": "apple",
+        "goodLabel": "AFTER",
+        "goodText": "Every candidate gets the same calibrated AI-led assessment.",
+        "goodStat": "95% fair",
+        "iconSlug3": "openai",
+        "iconSlug4": "github",
+        "iconSlug5": "jira",
+        "ctaArrow": "Move to next phase"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 05 / 06",
+        "handle": "@hireflow",
+        "title": "Score fairly",
+        "titleAccent": "with data",
+        "description": "AI compiles structured feedback and ranks finalists by fit score.",
+        "badLabel": "BEFORE",
+        "badText": "Debates in chat with no record of who said what.",
+        "badStat": "5 days",
+        "iconSlug1": "slack",
+        "iconSlug2": "discord",
+        "goodLabel": "AFTER",
+        "goodText": "A unified scorecard surfaces the best fit instantly.",
+        "goodStat": "2 hours",
+        "iconSlug3": "linear",
+        "iconSlug4": "loom",
+        "iconSlug5": "notion",
+        "ctaArrow": "Continue to last step"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 06 / 06",
+        "handle": "@hireflow",
+        "title": "Close faster",
+        "titleAccent": "win talent",
+        "description": "AI drafts offers and handles follow-up so you never lose speed.",
+        "badLabel": "BEFORE",
+        "badText": "Legal reviews and back-and-forth delay the final signature.",
+        "badStat": "10 days",
+        "iconSlug1": "adobe",
+        "iconSlug2": "microsoft",
+        "goodLabel": "AFTER",
+        "goodText": "Auto-generated docs and e-sign close the loop same day.",
+        "goodStat": "24 hours",
+        "iconSlug3": "slack",
+        "iconSlug4": "notion",
+        "iconSlug5": "linear",
+        "ctaArrow": "See the final win"
+      }
+    },
+    {
+      "layoutId": "cta-before-after",
+      "slots": {
+        "pageOf": "08 / 08",
+        "handle": "@hireflow",
+        "eyebrow": "MAKE THE SWITCH",
+        "headlineLine1": "Hire smarter",
+        "headlineAccent": "not harder",
+        "body": "Join teams that cut time-to-hire by 90% without adding headcount.",
+        "iconSlug1": "slack",
+        "iconSlug2": "notion",
+        "iconSlug3": "linear",
+        "iconSlug4": "loom",
+        "iconSlug5": "openai",
+        "iconSlug6": "anthropic",
+        "ctaText": "Start hiring free"
+      }
+    }
+  ]
+}

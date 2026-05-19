@@ -1,0 +1,190 @@
+{
+  "id": "tsg-serverless-backend",
+  "brand": "51ultron",
+  "brief": "The no-infrastructure backend stack: 6 serverless tools running $50K ARR businesses.",
+  "theme": "tech-stack-grid",
+  "slides": [
+    {
+      "layoutId": "cover-tech-stack-grid",
+      "slots": {
+        "tag": "MY STACK",
+        "handle": "factory.51ultron.com",
+        "eyebrow": "Zero servers, infinite scale.",
+        "titleLine1": "The Backend",
+        "titleAccent": "That Ships",
+        "iconSlug1": "nextdotjs",
+        "iconSlug2": "supabase",
+        "iconSlug3": "vercel",
+        "iconSlug4": "stripe",
+        "iconSlug5": "n8n",
+        "iconSlug6": "github",
+        "role1": "FULLSTACK APP FOUNDATION",
+        "role2": "BACKEND DATA PLATFORM",
+        "role3": "EDGE DEPLOYMENT ENGINE",
+        "role4": "PAYMENT PROCESSING CORE",
+        "role5": "WORKFLOW AUTOMATION LAYER",
+        "role6": "CODE & CI/CD HUB",
+        "pageOf": "01 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "FRAMEWORK",
+        "stepMeta": "02 / 08",
+        "iconSlug1": "nextdotjs",
+        "toolRole": "FULLSTACK APP FOUNDATION",
+        "toolTagline": "CORE FRAMEWORK",
+        "tagline": "The React framework for serverless APIs and frontend apps without infrastructure.",
+        "f1Title": "Built-in App Router APIs",
+        "f2Title": "React Server Components",
+        "f3Title": "Edge Middleware Runtime",
+        "f1Body": "Build backend endpoints inside your frontend repo without any server setup.",
+        "f2Body": "Render pages on the edge without provisioning Node instances or load balancers.",
+        "f3Body": "Intercept requests globally for auth and A/B tests at the edge.",
+        "iconSlug2": "supabase",
+        "iconSlug3": "vercel",
+        "iconSlug4": "stripe",
+        "iconSlug5": "n8n",
+        "domainText": "nextjs.org",
+        "pageOf": "02 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "DATABASE",
+        "stepMeta": "03 / 08",
+        "iconSlug1": "supabase",
+        "toolRole": "BACKEND DATA PLATFORM",
+        "toolTagline": "DATA LAYER",
+        "tagline": "Open-source Firebase alternative that gives you Postgres, auth, and edge functions without servers.",
+        "f1Title": "Managed Postgres Database",
+        "f2Title": "Row Level Security Rules",
+        "f3Title": "Serverless Edge Functions",
+        "f1Body": "Store relational data on managed Postgres with automatic scaling and backups.",
+        "f2Body": "Secure data access per user directly inside the database without backend code.",
+        "f3Body": "Deploy serverless TypeScript functions globally with zero container management.",
+        "iconSlug2": "nextdotjs",
+        "iconSlug3": "vercel",
+        "iconSlug4": "stripe",
+        "iconSlug5": "github",
+        "domainText": "supabase.com",
+        "pageOf": "03 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "HOSTING",
+        "stepMeta": "04 / 08",
+        "iconSlug1": "vercel",
+        "toolRole": "EDGE DEPLOYMENT ENGINE",
+        "toolTagline": "HOSTING LAYER",
+        "tagline": "Deploy frontend and serverless functions globally on a zero-configuration edge network.",
+        "f1Title": "Zero Config Git Deployments",
+        "f2Title": "Serverless API Functions",
+        "f3Title": "Global Edge Network",
+        "f1Body": "Push to GitHub and watch preview and production deploy automatically in seconds.",
+        "f2Body": "Run API routes as pay-per-request functions without provisioning servers or VMs.",
+        "f3Body": "Cache and serve content from over one hundred edge nodes for minimal latency.",
+        "iconSlug2": "nextdotjs",
+        "iconSlug3": "supabase",
+        "iconSlug4": "stripe",
+        "iconSlug5": "github",
+        "domainText": "vercel.com",
+        "pageOf": "04 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "PAYMENTS",
+        "stepMeta": "05 / 08",
+        "iconSlug1": "stripe",
+        "toolRole": "PAYMENT PROCESSING CORE",
+        "toolTagline": "REVENUE CORE",
+        "tagline": "Collect payments, manage subscriptions, and handle invoicing with only a few lines of code.",
+        "f1Title": "Subscription Billing Engine",
+        "f2Title": "Webhook Event Handling",
+        "f3Title": "Hosted Checkout Pages",
+        "f1Body": "Charge customers monthly or annually without building your own billing ledger.",
+        "f2Body": "Listen to payment events to provision accounts and send emails instantly.",
+        "f3Body": "Redirect buyers to prebuilt hosted payment forms that convert and comply.",
+        "iconSlug2": "nextdotjs",
+        "iconSlug3": "supabase",
+        "iconSlug4": "vercel",
+        "iconSlug5": "n8n",
+        "domainText": "stripe.com",
+        "pageOf": "05 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "AUTOMATION",
+        "stepMeta": "06 / 08",
+        "iconSlug1": "n8n",
+        "toolRole": "WORKFLOW AUTOMATION LAYER",
+        "toolTagline": "AUTOMATION HUB",
+        "tagline": "Automate backend tasks and data flows visually without maintaining any cron servers.",
+        "f1Title": "Visual Workflow Builder",
+        "f2Title": "Instant Webhook Triggers",
+        "f3Title": "Low-code Logic Nodes",
+        "f1Body": "Drag and drop nodes to replace thousands of lines of integration code.",
+        "f2Body": "Expose HTTP endpoints that trigger workflows from Stripe or form events.",
+        "f3Body": "Automate tasks on their cloud or a lightweight self-hosted container.",
+        "iconSlug2": "supabase",
+        "iconSlug3": "vercel",
+        "iconSlug4": "stripe",
+        "iconSlug5": "github",
+        "domainText": "n8n.io",
+        "pageOf": "06 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "DEVOPS",
+        "stepMeta": "07 / 08",
+        "iconSlug1": "github",
+        "toolRole": "CODE & CI/CD HUB",
+        "toolTagline": "DEVOPS BASE",
+        "tagline": "Host code, run CI pipelines, and automate releases with GitHub Actions workflows.",
+        "f1Title": "Automated GitHub Actions CI",
+        "f2Title": "Protected Pull Requests",
+        "f3Title": "Tagged Release Deploys",
+        "f1Body": "Test and deploy your stack on every push with YAML workflow files.",
+        "f2Body": "Review changes safely before merging into production with protected branches.",
+        "f3Body": "Version every deploy so you can roll back serverless releases in seconds.",
+        "iconSlug2": "nextdotjs",
+        "iconSlug3": "supabase",
+        "iconSlug4": "vercel",
+        "iconSlug5": "n8n",
+        "domainText": "github.com",
+        "pageOf": "07 / 08"
+      }
+    },
+    {
+      "layoutId": "cta-tech-stack-grid",
+      "slots": {
+        "tag": "WRAP",
+        "handle": "factory.51ultron.com",
+        "eyebrow": "Build once, profit forever.",
+        "ctaLine1": "Ship Faster",
+        "ctaLine2": "Without Servers",
+        "ctaBody": "This six-tool stack replaces an entire DevOps team. Run lean at any revenue stage.",
+        "iconSlug1": "nextdotjs",
+        "iconSlug2": "supabase",
+        "iconSlug3": "vercel",
+        "iconSlug4": "stripe",
+        "iconSlug5": "n8n",
+        "iconSlug6": "github",
+        "btnPrimary": "Build Stack",
+        "btnGhost": "Read Guide",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "08 / 08"
+      }
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "id": "tsg-solo-mobile-dev",
+  "brand": "51ultron",
+  "brief": "6 tools I use to ship mobile apps as a solo web developer — no native knowledge required.",
+  "theme": "tech-stack-grid",
+  "slides": [
+    {
+      "layoutId": "cover-tech-stack-grid",
+      "slots": {
+        "tag": "MY STACK",
+        "handle": "factory.51ultron.com",
+        "eyebrow": "ship apps without native code",
+        "titleLine1": "Six tools that",
+        "titleAccent": "ship mobile apps",
+        "iconSlug1": "figma",
+        "iconSlug2": "cursor",
+        "iconSlug3": "nextdotjs",
+        "iconSlug4": "supabase",
+        "iconSlug5": "stripe",
+        "iconSlug6": "vercel",
+        "role1": "DESIGNS MOBILE UI",
+        "role2": "WRITES PRODUCTION CODE",
+        "role3": "FULLSTACK APP FRAMEWORK",
+        "role4": "BACKEND DATA PLATFORM",
+        "role5": "PROCESSES APP PAYMENTS",
+        "role6": "HOST AND DEPLOY",
+        "pageOf": "01 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "DESIGN",
+        "stepMeta": "02 / 08",
+        "iconSlug1": "figma",
+        "toolRole": "UI DESIGN SYSTEM",
+        "toolTagline": "DESIGN ESSENTIAL",
+        "tagline": "Design pixel-perfect mobile interfaces and component libraries that developers build directly from.",
+        "f1Title": "Auto layout frames",
+        "f1Body": "Build responsive components that scale across screen sizes instantly.",
+        "f2Title": "Shared component libraries",
+        "f2Body": "Keep colors, type, and assets synced across every project file.",
+        "f3Title": "Developer handoff mode",
+        "f3Body": "Export CSS values and measurements without any guesswork.",
+        "iconSlug2": "cursor",
+        "iconSlug3": "nextdotjs",
+        "iconSlug4": "supabase",
+        "iconSlug5": "vercel",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "02 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "EDITOR",
+        "stepMeta": "03 / 08",
+        "iconSlug1": "cursor",
+        "toolRole": "AI CODE EDITOR",
+        "toolTagline": "FORCE MULTIPLIER",
+        "tagline": "Write, refactor, and debug full-stack mobile features with an AI pair programmer inside your IDE.",
+        "f1Title": "Tab to complete",
+        "f1Body": "Accept entire functions and component blocks in a single keystroke.",
+        "f2Title": "Context aware chat",
+        "f2Body": "Ask questions about your codebase and get file-aware answers instantly.",
+        "f3Title": "One click refactor",
+        "f3Body": "Rename variables, extract components, and clean syntax automatically.",
+        "iconSlug2": "figma",
+        "iconSlug3": "nextdotjs",
+        "iconSlug4": "supabase",
+        "iconSlug5": "vercel",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "03 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "FRAMEWORK",
+        "stepMeta": "04 / 08",
+        "iconSlug1": "nextdotjs",
+        "toolRole": "FULLSTACK APP FRAMEWORK",
+        "toolTagline": "THE FOUNDATION",
+        "tagline": "Ship server-rendered web apps that feel native on mobile browsers and install like apps.",
+        "f1Title": "App router architecture",
+        "f1Body": "Stream data and code to devices with zero client-side bloat.",
+        "f2Title": "Built in API routes",
+        "f2Body": "Run backend logic without managing a separate server layer.",
+        "f3Title": "Installable PWA support",
+        "f3Body": "Add offline support and home-screen installability in minutes.",
+        "iconSlug2": "react",
+        "iconSlug3": "supabase",
+        "iconSlug4": "vercel",
+        "iconSlug5": "stripe",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "04 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "BACKEND",
+        "stepMeta": "05 / 08",
+        "iconSlug1": "supabase",
+        "toolRole": "BACKEND DATA PLATFORM",
+        "toolTagline": "CORE DATABASE",
+        "tagline": "Replace Firebase with an open-source Postgres stack handling auth, storage, and real-time data.",
+        "f1Title": "Instant user auth",
+        "f1Body": "Add magic-link and social login with a few lines of code.",
+        "f2Title": "Relational Postgres database",
+        "f2Body": "Query relational data with full SQL power and row-level security.",
+        "f3Title": "Real time sync",
+        "f3Body": "Push live updates to every connected mobile client automatically.",
+        "iconSlug2": "nextdotjs",
+        "iconSlug3": "vercel",
+        "iconSlug4": "stripe",
+        "iconSlug5": "cursor",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "05 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "PAYMENTS",
+        "stepMeta": "06 / 08",
+        "iconSlug1": "stripe",
+        "toolRole": "APP PAYMENTS LAYER",
+        "toolTagline": "REVENUE ENGINE",
+        "tagline": "Collect subscriptions and one-time purchases inside your app with pre-built mobile-ready components.",
+        "f1Title": "Hosted checkout sessions",
+        "f1Body": "Redirect users to a branded payment page that converts.",
+        "f2Title": "Secure webhook events",
+        "f2Body": "Sync payment status to your database in real time securely.",
+        "f3Title": "Recurring subscription billing",
+        "f3Body": "Manage trials, invoicing, and recurring revenue without extra code.",
+        "iconSlug2": "supabase",
+        "iconSlug3": "nextdotjs",
+        "iconSlug4": "vercel",
+        "iconSlug5": "cursor",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "06 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "DEPLOY",
+        "stepMeta": "07 / 08",
+        "iconSlug1": "vercel",
+        "toolRole": "HOST AND DEPLOY",
+        "toolTagline": "LAUNCH PAD",
+        "tagline": "Deploy every push to a global edge network and preview changes before they reach users.",
+        "f1Title": "Git connected deploys",
+        "f1Body": "Ship production updates with every commit automatically.",
+        "f2Title": "Instant preview URLs",
+        "f2Body": "Share branch previews with stakeholders for instant visual feedback.",
+        "f3Title": "Global edge functions",
+        "f3Body": "Run serverless logic close to users for sub-second API responses.",
+        "iconSlug2": "nextdotjs",
+        "iconSlug3": "supabase",
+        "iconSlug4": "stripe",
+        "iconSlug5": "github",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "07 / 08"
+      }
+    },
+    {
+      "layoutId": "cta-tech-stack-grid",
+      "slots": {
+        "tag": "WRAP",
+        "handle": "factory.51ultron.com",
+        "eyebrow": "start shipping apps today",
+        "ctaLine1": "Build once,",
+        "ctaLine2": "ship everywhere",
+        "ctaBody": "No native teams required. This web stack ships mobile experiences that feel native and convert fast.",
+        "iconSlug1": "figma",
+        "iconSlug2": "cursor",
+        "iconSlug3": "nextdotjs",
+        "iconSlug4": "supabase",
+        "iconSlug5": "stripe",
+        "iconSlug6": "vercel",
+        "btnPrimary": "Get the stack",
+        "btnGhost": "Watch demo",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "08 / 08"
+      }
+    }
+  ]
+}

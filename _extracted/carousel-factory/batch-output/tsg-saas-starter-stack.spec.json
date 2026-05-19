@@ -1,0 +1,190 @@
+{
+  "id": "tsg-saas-starter-stack",
+  "brand": "51ultron",
+  "brief": "The 6-tool SaaS starter stack in 2026 — from auth to payments to deploy in one weekend.",
+  "theme": "tech-stack-grid",
+  "slides": [
+    {
+      "layoutId": "cover-tech-stack-grid",
+      "slots": {
+        "tag": "MY STACK",
+        "handle": "factory.51ultron.com",
+        "eyebrow": "build lean, ship fast",
+        "titleLine1": "The 2026 SaaS",
+        "titleAccent": "starter stack",
+        "iconSlug1": "nextdotjs",
+        "role1": "REACT APP FRAMEWORK",
+        "iconSlug2": "supabase",
+        "role2": "AUTH & DATABASE",
+        "iconSlug3": "stripe",
+        "role3": "PAYMENTS & BILLING",
+        "iconSlug4": "vercel",
+        "role4": "GLOBAL EDGE PLATFORM",
+        "iconSlug5": "cursor",
+        "role5": "AI CODE EDITOR",
+        "iconSlug6": "n8n",
+        "role6": "AUTOMATES WORKFLOWS",
+        "pageOf": "01 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "FRAMEWORK",
+        "stepMeta": "02 / 08",
+        "iconSlug1": "nextdotjs",
+        "toolRole": "FULLSTACK FOUNDATION",
+        "toolTagline": "ESSENTIAL",
+        "tagline": "The React framework for production-grade apps with server components and fast refreshes.",
+        "f1Title": "App Router Built-In",
+        "f1Body": "File-based routing with layouts and loading states requires zero configuration.",
+        "f2Title": "React Server Components",
+        "f2Body": "Render async data on the server to cut client JavaScript bundles.",
+        "f3Title": "Built-in API Routes",
+        "f3Body": "Deploy serverless functions alongside your UI for a unified codebase.",
+        "iconSlug2": "supabase",
+        "iconSlug3": "vercel",
+        "iconSlug4": "stripe",
+        "iconSlug5": "n8n",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "02 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "BACKEND",
+        "stepMeta": "03 / 08",
+        "iconSlug1": "supabase",
+        "toolRole": "AUTH & DATABASE",
+        "toolTagline": "CORE",
+        "tagline": "Open-source Firebase alternative that spins up Postgres, auth, and real-time APIs in minutes.",
+        "f1Title": "Managed Postgres Database",
+        "f1Body": "Row-level security and instant APIs give you enterprise data safety.",
+        "f2Title": "Built-in User Auth",
+        "f2Body": "Magic links, OAuth, and email providers wired to your users table.",
+        "f3Title": "Real-time Data Sync",
+        "f3Body": "Subscribe to database changes for live UI updates without WebSocket boilerplate.",
+        "iconSlug2": "nextdotjs",
+        "iconSlug3": "vercel",
+        "iconSlug4": "stripe",
+        "iconSlug5": "cursor",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "03 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "PAYMENTS",
+        "stepMeta": "04 / 08",
+        "iconSlug1": "stripe",
+        "toolRole": "REVENUE ENGINE",
+        "toolTagline": "CRITICAL",
+        "tagline": "The payments platform that lets you bill customers, manage subscriptions, and handle tax compliance.",
+        "f1Title": "Subscription Billing Engine",
+        "f1Body": "Metered plans and trials automate recurring revenue with webhooks.",
+        "f2Title": "Automatic Global Tax",
+        "f2Body": "Automatic VAT and sales tax calculation keeps you compliant worldwide.",
+        "f3Title": "Hosted Checkout Pages",
+        "f3Body": "Pre-built payment pages reduce PCI scope and boost conversion rates.",
+        "iconSlug2": "nextdotjs",
+        "iconSlug3": "supabase",
+        "iconSlug4": "vercel",
+        "iconSlug5": "n8n",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "04 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "DEPLOY",
+        "stepMeta": "05 / 08",
+        "iconSlug1": "vercel",
+        "toolRole": "EDGE PLATFORM",
+        "toolTagline": "HOSTING",
+        "tagline": "Deploy Next.js to a global edge network with previews, analytics, and zero-config CI.",
+        "f1Title": "Instant Deploy Previews",
+        "f1Body": "Every push generates a live preview URL for team review and QA.",
+        "f2Title": "Serverless Edge Functions",
+        "f2Body": "Run middleware and API routes close to users for sub-50ms cold starts.",
+        "f3Title": "Built-in Web Analytics",
+        "f3Body": "Real-world Core Web Vitals tracking shows exactly where speed lags.",
+        "iconSlug2": "nextdotjs",
+        "iconSlug3": "supabase",
+        "iconSlug4": "stripe",
+        "iconSlug5": "cursor",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "05 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "EDITOR",
+        "stepMeta": "06 / 08",
+        "iconSlug1": "cursor",
+        "toolRole": "AI NATIVE IDE",
+        "toolTagline": "MULTIPLIER",
+        "tagline": "An AI-first code editor that predicts your intent, refactors instantly, and ships features faster.",
+        "f1Title": "Smart Tab Prediction",
+        "f1Body": "Multi-line edits autocomplete before you finish typing the thought.",
+        "f2Title": "Codebase Chat Context",
+        "f2Body": "Ask questions across your entire codebase with inline file references.",
+        "f3Title": "One-click AI Refactor",
+        "f3Body": "Transform legacy patterns to modern syntax without breaking TypeScript types.",
+        "iconSlug2": "nextdotjs",
+        "iconSlug3": "vercel",
+        "iconSlug4": "supabase",
+        "iconSlug5": "n8n",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "06 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "AUTOMATE",
+        "stepMeta": "07 / 08",
+        "iconSlug1": "n8n",
+        "toolRole": "RUNS WORKFLOWS",
+        "toolTagline": "CONNECTOR",
+        "tagline": "Fair-code automation that wires your SaaS together with visual workflows and custom webhooks.",
+        "f1Title": "Visual Workflow Builder",
+        "f1Body": "Drag nodes to connect APIs without writing brittle glue code.",
+        "f2Title": "Event Webhook Triggers",
+        "f2Body": "Start flows from Stripe events or database changes in real time.",
+        "f3Title": "Self-hosted Cloud Option",
+        "f3Body": "Keep execution data inside your VPC for strict security requirements.",
+        "iconSlug2": "nextdotjs",
+        "iconSlug3": "supabase",
+        "iconSlug4": "stripe",
+        "iconSlug5": "vercel",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "07 / 08"
+      }
+    },
+    {
+      "layoutId": "cta-tech-stack-grid",
+      "slots": {
+        "tag": "WRAP",
+        "handle": "factory.51ultron.com",
+        "eyebrow": "one weekend, one stack",
+        "ctaLine1": "Launch your SaaS",
+        "ctaLine2": "this weekend",
+        "ctaBody": "Copy this exact stack and ship your first paying customer before Monday. No boilerplate required.",
+        "iconSlug1": "nextdotjs",
+        "iconSlug2": "supabase",
+        "iconSlug3": "stripe",
+        "iconSlug4": "vercel",
+        "iconSlug5": "cursor",
+        "iconSlug6": "n8n",
+        "btnPrimary": "Start Building",
+        "btnGhost": "View Guide",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "08 / 08"
+      }
+    }
+  ]
+}

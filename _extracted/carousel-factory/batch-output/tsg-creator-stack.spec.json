@@ -1,0 +1,190 @@
+{
+  "id": "tsg-creator-stack",
+  "brand": "Creator Stack",
+  "brief": "The content creator tech stack: 6 tools that produce, schedule, and monetize automatically.",
+  "theme": "tech-stack-grid",
+  "slides": [
+    {
+      "layoutId": "cover-tech-stack-grid",
+      "slots": {
+        "tag": "MY STACK",
+        "handle": "creator.51ultron.com",
+        "eyebrow": "produce, schedule, monetize",
+        "titleLine1": "six tools that",
+        "titleAccent": "ship on autopilot",
+        "iconSlug1": "claude",
+        "iconSlug2": "loom",
+        "iconSlug3": "notion",
+        "iconSlug4": "make",
+        "iconSlug5": "calendly",
+        "iconSlug6": "stripe",
+        "role1": "WRITES SCRIPTS",
+        "role2": "RECORDS VIDEO",
+        "role3": "PLANS CONTENT",
+        "role4": "RUNS WORKFLOWS",
+        "role5": "BOOKS CALLS",
+        "role6": "COLLECTS PAYMENTS",
+        "pageOf": "01 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "PRODUCE",
+        "stepMeta": "02 / 08",
+        "iconSlug1": "claude",
+        "toolRole": "AI COPYWRITER",
+        "toolTagline": "ESSENTIAL",
+        "tagline": "Claude drafts scripts, captions, and long-form posts in your exact voice.",
+        "f1Title": "Brand voice cloning",
+        "f1Body": "Trains on your past content to match tone and vocabulary perfectly.",
+        "f2Title": "Repurpose with one click",
+        "f2Body": "Turns a single blog post into a week of social media clips.",
+        "f3Title": "Output with fact checking",
+        "f3Body": "Verifies claims against sources so you publish with confidence.",
+        "iconSlug2": "notion",
+        "iconSlug3": "loom",
+        "iconSlug4": "make",
+        "iconSlug5": "youtube",
+        "domainText": "creator.51ultron.com",
+        "pageOf": "02 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "PRODUCE",
+        "stepMeta": "03 / 08",
+        "iconSlug1": "loom",
+        "toolRole": "VIDEO ENGINE",
+        "toolTagline": "CREATOR",
+        "tagline": "Records polished tutorials and courses without editing software.",
+        "f1Title": "Instant sharing links",
+        "f1Body": "Videos upload automatically and generate a branded watch page.",
+        "f2Title": "Export video transcripts",
+        "f2Body": "Auto-creates captions and searchable text for every recording.",
+        "f3Title": "Advanced viewer analytics",
+        "f3Body": "Tracks watch time and engagement to optimize your content.",
+        "iconSlug2": "claude",
+        "iconSlug3": "notion",
+        "iconSlug4": "youtube",
+        "iconSlug5": "make",
+        "domainText": "creator.51ultron.com",
+        "pageOf": "03 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "PLAN",
+        "stepMeta": "04 / 08",
+        "iconSlug1": "notion",
+        "toolRole": "CONTENT HUB",
+        "toolTagline": "BACKBONE",
+        "tagline": "Your editorial calendar, script database, and brand wiki in one workspace.",
+        "f1Title": "Visual editorial calendar",
+        "f1Body": "Drag-and-drop content pipeline from idea to published post.",
+        "f2Title": "Central resource database",
+        "f2Body": "Tags and filters every asset so nothing gets lost again.",
+        "f3Title": "Collaborate with your team",
+        "f3Body": "Shares briefs and feedback with editors in real time.",
+        "iconSlug2": "claude",
+        "iconSlug3": "loom",
+        "iconSlug4": "make",
+        "iconSlug5": "stripe",
+        "domainText": "creator.51ultron.com",
+        "pageOf": "04 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "SCHEDULE",
+        "stepMeta": "05 / 08",
+        "iconSlug1": "make",
+        "toolRole": "AUTOMATION CORE",
+        "toolTagline": "CONNECTOR",
+        "tagline": "Wires your entire stack together so content publishes while you sleep.",
+        "f1Title": "Build visual workflows",
+        "f1Body": "Drag modules to trigger posts across every platform automatically.",
+        "f2Title": "Smart error handling",
+        "f2Body": "Retries failed actions and alerts you before followers notice.",
+        "f3Title": "Custom webhook triggers",
+        "f3Body": "Starts complex chains from a single Notion status change.",
+        "iconSlug2": "notion",
+        "iconSlug3": "youtube",
+        "iconSlug4": "tiktok",
+        "iconSlug5": "instagram",
+        "domainText": "creator.51ultron.com",
+        "pageOf": "05 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "MONETIZE",
+        "stepMeta": "06 / 08",
+        "iconSlug1": "calendly",
+        "toolRole": "SALES DOOR",
+        "toolTagline": "BOOKING",
+        "tagline": "Turns inbound interest into paid calls without the email ping-pong.",
+        "f1Title": "Offer instant scheduling",
+        "f1Body": "Shows only open slots that respect your buffer and timezone.",
+        "f2Title": "Host paid sessions",
+        "f2Body": "Collects payment before the call via native Stripe integration.",
+        "f3Title": "Automated reminder bots",
+        "f3Body": "Sends texts and emails so no-shows become a rarity.",
+        "iconSlug2": "stripe",
+        "iconSlug3": "notion",
+        "iconSlug4": "loom",
+        "iconSlug5": "make",
+        "domainText": "creator.51ultron.com",
+        "pageOf": "06 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "MONETIZE",
+        "stepMeta": "07 / 08",
+        "iconSlug1": "stripe",
+        "toolRole": "PAYMENT LAYER",
+        "toolTagline": "REVENUE",
+        "tagline": "Processes subscriptions, invoices, and digital product sales globally.",
+        "f1Title": "Manage recurring billing",
+        "f1Body": "Charges members monthly with automatic dunning and tax handling.",
+        "f2Title": "Fast checkout pages",
+        "f2Body": "Converts followers into buyers with a mobile-first payment link.",
+        "f3Title": "Instant payout routing",
+        "f3Body": "Deposits earnings to your bank in minutes, not weeks.",
+        "iconSlug2": "calendly",
+        "iconSlug3": "notion",
+        "iconSlug4": "make",
+        "iconSlug5": "youtube",
+        "domainText": "creator.51ultron.com",
+        "pageOf": "07 / 08"
+      }
+    },
+    {
+      "layoutId": "cta-tech-stack-grid",
+      "slots": {
+        "tag": "WRAP",
+        "handle": "creator.51ultron.com",
+        "eyebrow": "build your autopilot",
+        "ctaLine1": "steal this",
+        "ctaLine2": "creator stack",
+        "ctaBody": "Deploy these six tools to produce, schedule, and monetize your content without manual busywork.",
+        "iconSlug1": "claude",
+        "iconSlug2": "loom",
+        "iconSlug3": "notion",
+        "iconSlug4": "make",
+        "iconSlug5": "calendly",
+        "iconSlug6": "stripe",
+        "btnPrimary": "Get Started",
+        "btnGhost": "View Guide",
+        "domainText": "creator.51ultron.com",
+        "pageOf": "08 / 08"
+      }
+    }
+  ]
+}

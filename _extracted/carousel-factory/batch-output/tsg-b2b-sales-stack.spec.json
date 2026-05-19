@@ -1,0 +1,190 @@
+{
+  "id": "tsg-b2b-sales-stack",
+  "brand": "Revenue Stack",
+  "brief": "The B2B SaaS stack that closes enterprise deals — 6 tools for sales, contracts, and billing.",
+  "theme": "tech-stack-grid",
+  "slides": [
+    {
+      "layoutId": "cover-tech-stack-grid",
+      "slots": {
+        "tag": "MY STACK",
+        "handle": "factory.51ultron.com",
+        "eyebrow": "close enterprise deals",
+        "titleLine1": "The revenue",
+        "titleAccent": "stack that sells",
+        "iconSlug1": "calendly",
+        "iconSlug2": "loom",
+        "iconSlug3": "notion",
+        "iconSlug4": "airtable",
+        "iconSlug5": "stripe",
+        "iconSlug6": "n8n",
+        "role1": "BOOKS MEETINGS",
+        "role2": "SELLS REMOTELY",
+        "role3": "DRAFTS CONTRACTS",
+        "role4": "TRACKS PIPELINE",
+        "role5": "BILLS ENTERPRISE",
+        "role6": "AUTOMATES DEALS",
+        "pageOf": "01 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "SALES STACK",
+        "stepMeta": "02 / 08",
+        "iconSlug1": "calendly",
+        "toolRole": "BOOKS ENTERPRISE",
+        "toolTagline": "SCHEDULING",
+        "tagline": "Eliminates back-and-forth emails by letting prospects book qualified demos directly into your calendar.",
+        "f1Title": "Team round-robin routing",
+        "f1Body": "Distributes meetings evenly across your sales team automatically.",
+        "f2Title": "Custom prospect intake forms",
+        "f2Body": "Qualifies prospects before they ever reach your calendar.",
+        "f3Title": "Meeting conversion analytics",
+        "f3Body": "Tracks booking conversion rates tied directly to pipeline value.",
+        "iconSlug2": "notion",
+        "iconSlug3": "loom",
+        "iconSlug4": "stripe",
+        "iconSlug5": "n8n",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "02 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "SALES STACK",
+        "stepMeta": "03 / 08",
+        "iconSlug1": "loom",
+        "toolRole": "SELLS REMOTELY",
+        "toolTagline": "VIDEO PITCH",
+        "tagline": "Records personalized product walkthroughs that build trust faster than cold calls ever could.",
+        "f1Title": "Instant screen recording",
+        "f1Body": "Captures your voice, face, and screen in one unified message.",
+        "f2Title": "Real-time viewer insights",
+        "f2Body": "See exactly who watched your pitch and where they dropped off.",
+        "f3Title": "Embedded booking link CTAs",
+        "f3Body": "Embed booking links directly inside the video player.",
+        "iconSlug2": "calendly",
+        "iconSlug3": "airtable",
+        "iconSlug4": "stripe",
+        "iconSlug5": "n8n",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "03 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "SALES STACK",
+        "stepMeta": "04 / 08",
+        "iconSlug1": "notion",
+        "toolRole": "DRAFTS CONTRACTS",
+        "toolTagline": "WORKSPACE",
+        "tagline": "Centralizes deal rooms, mutual action plans, and contract templates in one collaborative hub.",
+        "f1Title": "Branded shared deal rooms",
+        "f1Body": "Invite buyers into branded pages with next steps and resources.",
+        "f2Title": "Relational deal databases",
+        "f2Body": "Link contacts to accounts and active opportunities automatically.",
+        "f3Title": "Contract version history",
+        "f3Body": "Track every contract edit without ever leaving the workspace.",
+        "iconSlug2": "calendly",
+        "iconSlug3": "airtable",
+        "iconSlug4": "loom",
+        "iconSlug5": "stripe",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "04 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "SALES STACK",
+        "stepMeta": "05 / 08",
+        "iconSlug1": "airtable",
+        "toolRole": "TRACKS PIPELINE",
+        "toolTagline": "LIGHT CRM",
+        "tagline": "Powers your revenue pipeline with flexible databases that adapt to complex enterprise sales cycles.",
+        "f1Title": "Visual Kanban deal stages",
+        "f1Body": "Visualize opportunities from first touch to closed-won instantly.",
+        "f2Title": "Automated lead scoring rules",
+        "f2Body": "Grade leads based on firmographic and behavioral criteria.",
+        "f3Title": "Pipeline forecast dashboards",
+        "f3Body": "Build real-time dashboards forecasted to your exact pipeline rules.",
+        "iconSlug2": "notion",
+        "iconSlug3": "calendly",
+        "iconSlug4": "stripe",
+        "iconSlug5": "n8n",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "05 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "SALES STACK",
+        "stepMeta": "06 / 08",
+        "iconSlug1": "stripe",
+        "toolRole": "BILLS ENTERPRISE",
+        "toolTagline": "PAYMENTS",
+        "tagline": "Collects recurring revenue and one-time enterprise invoices with developer-grade reliability.",
+        "f1Title": "Recurring subscription billing",
+        "f1Body": "Launch tiered plans with usage-based metering in minutes.",
+        "f2Title": "Enterprise invoice automation",
+        "f2Body": "Generate net-30 enterprise invoices synced to your CRM records.",
+        "f3Title": "Revenue recognition reports",
+        "f3Body": "Automate ASC 606 compliant revenue reporting at scale.",
+        "iconSlug2": "airtable",
+        "iconSlug3": "notion",
+        "iconSlug4": "n8n",
+        "iconSlug5": "calendly",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "06 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "SALES STACK",
+        "stepMeta": "07 / 08",
+        "iconSlug1": "n8n",
+        "toolRole": "AUTOMATES DEALS",
+        "toolTagline": "WORKFLOWS",
+        "tagline": "Connects your entire revenue stack into self-hosted automation that moves deals forward while you sleep.",
+        "f1Title": "Event-driven no-code triggers",
+        "f1Body": "Fire workflows when deals change stage or contracts get signed.",
+        "f2Title": "Native stack integrations",
+        "f2Body": "Sync data across CRM, billing, and scheduling without custom code.",
+        "f3Title": "Robust error retry logic",
+        "f3Body": "Built-in retry logic ensures no enterprise lead ever falls through cracks.",
+        "iconSlug2": "stripe",
+        "iconSlug3": "airtable",
+        "iconSlug4": "notion",
+        "iconSlug5": "calendly",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "07 / 08"
+      }
+    },
+    {
+      "layoutId": "cta-tech-stack-grid",
+      "slots": {
+        "tag": "WRAP UP",
+        "handle": "factory.51ultron.com",
+        "eyebrow": "close bigger deals",
+        "ctaLine1": "Deploy this exact",
+        "ctaLine2": "revenue stack today",
+        "ctaBody": "Replace bloated enterprise software with this lightweight, integrated toolkit designed to convert and bill faster.",
+        "iconSlug1": "calendly",
+        "iconSlug2": "loom",
+        "iconSlug3": "notion",
+        "iconSlug4": "airtable",
+        "iconSlug5": "stripe",
+        "iconSlug6": "n8n",
+        "btnPrimary": "Get the Stack",
+        "btnGhost": "View Pricing",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "08 / 08"
+      }
+    }
+  ]
+}

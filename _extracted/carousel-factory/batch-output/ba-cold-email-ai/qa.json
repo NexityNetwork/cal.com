@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/ba-cold-email-ai/slide-01.png",
-      "bytes": 119963,
+      "bytes": 111642,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -19,7 +19,7 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/ba-cold-email-ai/slide-02.png",
-      "bytes": 90361,
+      "bytes": 85950,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -35,7 +35,7 @@
     {
       "index": 2,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/ba-cold-email-ai/slide-03.png",
-      "bytes": 91916,
+      "bytes": 90201,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -51,7 +51,7 @@
     {
       "index": 3,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/ba-cold-email-ai/slide-04.png",
-      "bytes": 90692,
+      "bytes": 91913,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -67,7 +67,7 @@
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/ba-cold-email-ai/slide-05.png",
-      "bytes": 93138,
+      "bytes": 92248,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -83,7 +83,7 @@
     {
       "index": 5,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/ba-cold-email-ai/slide-06.png",
-      "bytes": 89221,
+      "bytes": 84317,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -99,7 +99,7 @@
     {
       "index": 6,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/ba-cold-email-ai/slide-07.png",
-      "bytes": 92653,
+      "bytes": 90917,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -115,7 +115,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/ba-cold-email-ai/slide-08.png",
-      "bytes": 70672,
+      "bytes": 60860,
       "qa": {
         "verdict": "pass",
         "checks": {

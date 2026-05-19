@@ -1,0 +1,190 @@
+{
+  "id": "tsg-indie-hacker-prereqs",
+  "brand": "51ultron",
+  "brief": "6 tools every indie hacker needs before writing a single line of code.",
+  "theme": "tech-stack-grid",
+  "slides": [
+    {
+      "layoutId": "cover-tech-stack-grid",
+      "slots": {
+        "tag": "MY STACK",
+        "handle": "factory.51ultron.com",
+        "eyebrow": "build faster, ship smarter",
+        "titleLine1": "the indie hacker",
+        "titleAccent": "stack that ships",
+        "iconSlug1": "notion",
+        "role1": "DOCS AND ROADMAPS",
+        "iconSlug2": "figma",
+        "role2": "PROTOTYPES EVERY INTERFACE",
+        "iconSlug3": "linear",
+        "role3": "TRACKS EVERY ISSUE",
+        "iconSlug4": "supabase",
+        "role4": "BACKEND INFRA READY",
+        "iconSlug5": "stripe",
+        "role5": "TAKES ALL PAYMENTS",
+        "iconSlug6": "vercel",
+        "role6": "DEPLOYS TO PROD",
+        "pageOf": "01 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "PLAN",
+        "stepMeta": "02 / 08",
+        "iconSlug1": "notion",
+        "toolRole": "PRODUCT BRAIN AND WIKI",
+        "toolTagline": "ESSENTIAL",
+        "tagline": "Notion turns scattered ideas into a single source of truth before you open an IDE.",
+        "f1Title": "Docs and product specs",
+        "f1Body": "Write product requirements, user stories, and scope in one living document.",
+        "f2Title": "Roadmap databases and views",
+        "f2Body": "Track roadmap, content calendar, and bugs with flexible relational tables.",
+        "f3Title": "Team wiki and sync",
+        "f3Body": "Share pages publicly or privately so everyone stays aligned from day zero.",
+        "iconSlug2": "figma",
+        "iconSlug3": "linear",
+        "iconSlug4": "github",
+        "iconSlug5": "loom",
+        "domainText": "notion.so",
+        "pageOf": "02 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "DESIGN",
+        "stepMeta": "03 / 08",
+        "iconSlug1": "figma",
+        "toolRole": "VISUAL PRODUCT SYSTEM",
+        "toolTagline": "CORE",
+        "tagline": "Figma lets you prototype the entire product so developers know exactly what to build.",
+        "f1Title": "Responsive auto-layout systems",
+        "f1Body": "Build responsive components that scale across devices without manual math.",
+        "f2Title": "Developer handoff mode",
+        "f2Body": "Hand off CSS, spacing, and assets directly from the canvas to production.",
+        "f3Title": "Clickable UX prototyping",
+        "f3Body": "Link screens into clickable flows to validate UX before writing any logic.",
+        "iconSlug2": "notion",
+        "iconSlug3": "framer",
+        "iconSlug4": "nextdotjs",
+        "iconSlug5": "github",
+        "domainText": "figma.com",
+        "pageOf": "03 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "TRACK",
+        "stepMeta": "04 / 08",
+        "iconSlug1": "linear",
+        "toolRole": "PROJECT AND TASK TRACKER",
+        "toolTagline": "AGILE",
+        "tagline": "Linear keeps your roadmap tight so you ship on schedule, not on hope.",
+        "f1Title": "Cycles and roadmaps",
+        "f1Body": "Plan weekly sprints and quarterly goals with automatic progress tracking.",
+        "f2Title": "Native Git sync",
+        "f2Body": "Branches and pull requests link to issues so status updates stay effortless.",
+        "f3Title": "Zero config setup",
+        "f3Body": "Opinionated workflows mean you start tracking bugs in seconds, not hours.",
+        "iconSlug2": "github",
+        "iconSlug3": "notion",
+        "iconSlug4": "vercel",
+        "iconSlug5": "raycast",
+        "domainText": "linear.app",
+        "pageOf": "04 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "BACKEND",
+        "stepMeta": "05 / 08",
+        "iconSlug1": "supabase",
+        "toolRole": "BACKEND AS A SERVICE",
+        "toolTagline": "INFRA",
+        "tagline": "Supabase gives you a scalable database and auth without provisioning a single server.",
+        "f1Title": "Instant REST APIs",
+        "f1Body": "Auto-generated REST and GraphQL endpoints hook into your frontend immediately.",
+        "f2Title": "Auth and RLS",
+        "f2Body": "Built-in user management and row-level security protect your data by default.",
+        "f3Title": "Serverless edge functions",
+        "f3Body": "Deploy serverless TypeScript globally to handle webhooks and business logic.",
+        "iconSlug2": "nextdotjs",
+        "iconSlug3": "vercel",
+        "iconSlug4": "postgresql",
+        "iconSlug5": "typescript",
+        "domainText": "supabase.com",
+        "pageOf": "05 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "MONETIZE",
+        "stepMeta": "06 / 08",
+        "iconSlug1": "stripe",
+        "toolRole": "REVENUE AND BILLING ENGINE",
+        "toolTagline": "REVENUE",
+        "tagline": "Stripe handles billing, subscriptions, and tax so you can focus on product-market fit.",
+        "f1Title": "No-code checkout links",
+        "f1Body": "Start accepting payments in minutes with prebuilt, conversion-optimized pages.",
+        "f2Title": "SaaS subscription billing",
+        "f2Body": "Model SaaS tiers, trials, and usage-based billing without custom invoicing code.",
+        "f3Title": "Tax and compliance",
+        "f3Body": "Automatic sales tax, VAT, and invoice generation keep you globally compliant.",
+        "iconSlug2": "vercel",
+        "iconSlug3": "supabase",
+        "iconSlug4": "notion",
+        "iconSlug5": "calendly",
+        "domainText": "stripe.com",
+        "pageOf": "06 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "DEPLOY",
+        "stepMeta": "07 / 08",
+        "iconSlug1": "vercel",
+        "toolRole": "FRONTEND CLOUD PLATFORM",
+        "toolTagline": "LAUNCH",
+        "tagline": "Vercel turns your repository into a global application with zero DevOps overhead.",
+        "f1Title": "Git push deploy",
+        "f1Body": "Every commit triggers an instant preview deployment with live shareable URLs.",
+        "f2Title": "Global edge network",
+        "f2Body": "Static and dynamic content render close to users for sub-second page loads.",
+        "f3Title": "Analytics and speed",
+        "f3Body": "Real-world Web Vitals and performance scores are tracked out of the box.",
+        "iconSlug2": "nextdotjs",
+        "iconSlug3": "github",
+        "iconSlug4": "supabase",
+        "iconSlug5": "linear",
+        "domainText": "vercel.com",
+        "pageOf": "07 / 08"
+      }
+    },
+    {
+      "layoutId": "cta-tech-stack-grid",
+      "slots": {
+        "tag": "WRAP",
+        "handle": "factory.51ultron.com",
+        "eyebrow": "stack locked, time to build",
+        "ctaLine1": "ship your indie",
+        "ctaLine2": "stack today",
+        "ctaBody": "Wire your toolkit once and move from idea to revenue faster than ever.",
+        "iconSlug1": "notion",
+        "iconSlug2": "figma",
+        "iconSlug3": "linear",
+        "iconSlug4": "supabase",
+        "iconSlug5": "stripe",
+        "iconSlug6": "vercel",
+        "btnPrimary": "Start Building",
+        "btnGhost": "View Stack",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "08 / 08"
+      }
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "id": "tsg-mlops-no-phd",
+  "brand": "51ultron",
+  "brief": "The ML ops stack for teams that don't have ML engineers — 6 tools, zero PhD required.",
+  "theme": "tech-stack-grid",
+  "slides": [
+    {
+      "layoutId": "cover-tech-stack-grid",
+      "slots": {
+        "tag": "ML STACK",
+        "handle": "factory.51ultron.com",
+        "eyebrow": "no phd required just glue",
+        "titleLine1": "six tools that",
+        "titleAccent": "run my models",
+        "iconSlug1": "openai",
+        "iconSlug2": "supabase",
+        "iconSlug3": "n8n",
+        "iconSlug4": "vercel",
+        "iconSlug5": "cursor",
+        "iconSlug6": "docker",
+        "role1": "POWERS THE MODELS",
+        "role2": "HOSTS THE VECTORS",
+        "role3": "RUNS THE PIPELINES",
+        "role4": "SHIPS TO PRODUCTION",
+        "role5": "WRITES THE CODE",
+        "role6": "CONTAINERIZES THE RUNTIME",
+        "pageOf": "01 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "ML STACK",
+        "stepMeta": "02 / 08",
+        "iconSlug1": "openai",
+        "toolRole": "POWERS THE MODELS",
+        "toolTagline": "CORE ENGINE",
+        "tagline": "Production-grade inference without managing GPUs, training loops, or tensor math.",
+        "f1Title": "API-first inference engine",
+        "f1Body": "Call frontier models with a single HTTP request and zero infrastructure overhead.",
+        "f2Title": "Structured JSON outputs",
+        "f2Body": "Return JSON schemas reliably to feed downstream automations and databases.",
+        "f3Title": "Optional custom fine-tuning",
+        "f3Body": "Few-shot prompting replaces months of model development for most use cases.",
+        "iconSlug2": "supabase",
+        "iconSlug3": "n8n",
+        "iconSlug4": "vercel",
+        "iconSlug5": "cursor",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "02 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "ML STACK",
+        "stepMeta": "03 / 08",
+        "iconSlug1": "supabase",
+        "toolRole": "HOSTS THE VECTORS",
+        "toolTagline": "DATA LAYER",
+        "tagline": "Postgres plus pgvector stores embeddings, metadata, and user data in one open platform.",
+        "f1Title": "Built-in vector search",
+        "f1Body": "Query semantic similarity with SQL instead of standing up a separate database.",
+        "f2Title": "Row-level security rules",
+        "f2Body": "Protect tenant data with policies that enforce access at the database level.",
+        "f3Title": "Edge function hooks",
+        "f3Body": "Run lightweight inference hooks close to your data without leaving the ecosystem.",
+        "iconSlug2": "openai",
+        "iconSlug3": "n8n",
+        "iconSlug4": "vercel",
+        "iconSlug5": "docker",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "03 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "ML STACK",
+        "stepMeta": "04 / 08",
+        "iconSlug1": "n8n",
+        "toolRole": "RUNS THE PIPELINES",
+        "toolTagline": "ORCHESTRATION",
+        "tagline": "Visual workflow automation that chains LLM calls, data transforms, and webhooks together.",
+        "f1Title": "Visual pipeline builder",
+        "f1Body": "Drag nodes to create RAG flows, ETL jobs, and alerting without YAML engineering.",
+        "f2Title": "Self-hosted community edition",
+        "f2Body": "Keep inference data in your VPC with the fair-code community edition.",
+        "f3Title": "Instant webhook triggers",
+        "f3Body": "Start flows from Slack, email, or API calls to close the loop on outputs.",
+        "iconSlug2": "openai",
+        "iconSlug3": "supabase",
+        "iconSlug4": "vercel",
+        "iconSlug5": "docker",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "04 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "ML STACK",
+        "stepMeta": "05 / 08",
+        "iconSlug1": "vercel",
+        "toolRole": "SHIPS TO PRODUCTION",
+        "toolTagline": "DEPLOYMENT",
+        "tagline": "Frontend and AI API routes deploy globally in seconds with zero DevOps configuration.",
+        "f1Title": "AI SDK integration",
+        "f1Body": "Stream LLM responses to React components with ready-to-use helpers and hooks.",
+        "f2Title": "Serverless API routes",
+        "f2Body": "Host inference endpoints that scale to zero so you only pay for usage.",
+        "f3Title": "Branch preview URLs",
+        "f3Body": "Every git branch gets a live URL for safe testing of new prompt versions.",
+        "iconSlug2": "openai",
+        "iconSlug3": "supabase",
+        "iconSlug4": "n8n",
+        "iconSlug5": "cursor",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "05 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "ML STACK",
+        "stepMeta": "06 / 08",
+        "iconSlug1": "cursor",
+        "toolRole": "WRITES THE CODE",
+        "toolTagline": "DEVELOPMENT",
+        "tagline": "An AI-native editor that generates boilerplate, tests, and integration logic on demand.",
+        "f1Title": "Context-aware code edits",
+        "f1Body": "Reference your entire codebase so generated scripts match existing patterns exactly.",
+        "f2Title": "Natural language commands",
+        "f2Body": "Describe the API integration you need and watch the editor scaffold the route.",
+        "f3Title": "Inline error debugging",
+        "f3Body": "Catch type errors and logic bugs before they reach CI with real-time suggestions.",
+        "iconSlug2": "openai",
+        "iconSlug3": "vercel",
+        "iconSlug4": "supabase",
+        "iconSlug5": "docker",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "06 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "ML STACK",
+        "stepMeta": "07 / 08",
+        "iconSlug1": "docker",
+        "toolRole": "CONTAINERIZES THE RUNTIME",
+        "toolTagline": "RUNTIME",
+        "tagline": "Consistent environments from local laptop to production server without dependency drift.",
+        "f1Title": "Reproducible environment builds",
+        "f1Body": "Lock Python, Node, and system libraries so models behave identically everywhere.",
+        "f2Title": "One-command compose stacks",
+        "f2Body": "Spin up Postgres, Redis, and your app with one command for local development.",
+        "f3Title": "Multi-stage image builds",
+        "f3Body": "Multi-stage builds keep production containers small and fast to deploy anywhere.",
+        "iconSlug2": "n8n",
+        "iconSlug3": "supabase",
+        "iconSlug4": "vercel",
+        "iconSlug5": "cursor",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "07 / 08"
+      }
+    },
+    {
+      "layoutId": "cta-tech-stack-grid",
+      "slots": {
+        "tag": "WRAP",
+        "handle": "factory.51ultron.com",
+        "eyebrow": "ship models not papers",
+        "ctaLine1": "build your",
+        "ctaLine2": "no phd stack",
+        "ctaBody": "Deploy ML features this week using tools your frontend team already knows. No hiring, no notebooks, no infrastructure.",
+        "iconSlug1": "openai",
+        "iconSlug2": "supabase",
+        "iconSlug3": "n8n",
+        "iconSlug4": "vercel",
+        "iconSlug5": "cursor",
+        "iconSlug6": "docker",
+        "btnPrimary": "Get the Template",
+        "btnGhost": "Read the Guide",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "08 / 08"
+      }
+    }
+  ]
+}

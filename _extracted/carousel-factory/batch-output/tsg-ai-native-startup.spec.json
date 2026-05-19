@@ -1,0 +1,190 @@
+{
+  "id": "tsg-ai-native-startup",
+  "brand": "51ultron",
+  "brief": "My complete AI-native startup stack: 6 tools that replaced an entire engineering team.",
+  "theme": "tech-stack-grid",
+  "slides": [
+    {
+      "layoutId": "cover-tech-stack-grid",
+      "slots": {
+        "tag": "MY STACK",
+        "handle": "factory.51ultron.com",
+        "eyebrow": "replace the engineering team",
+        "titleLine1": "six tools that",
+        "titleAccent": "ship products",
+        "iconSlug1": "cursor",
+        "role1": "WRITES PRODUCTION CODE",
+        "iconSlug2": "claude",
+        "role2": "POWERS AI REASONING",
+        "iconSlug3": "vercel",
+        "role3": "DEPLOYS TO EDGE",
+        "iconSlug4": "supabase",
+        "role4": "MANAGES DATA & AUTH",
+        "iconSlug5": "n8n",
+        "role5": "AUTOMATES OPERATIONS",
+        "iconSlug6": "stripe",
+        "role6": "PROCESSES PAYMENTS",
+        "pageOf": "01 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "CODE",
+        "stepMeta": "02 / 08",
+        "iconSlug1": "cursor",
+        "toolRole": "AI CODE EDITOR",
+        "toolTagline": "ESSENTIAL",
+        "tagline": "Autocomplete, refactor, and ship entire features from natural language prompts.",
+        "f1Title": "Natural language coding",
+        "f1Body": "Write and edit entire files through simple conversational instructions.",
+        "f2Title": "Deep codebase context",
+        "f2Body": "Understands your whole repo to suggest relevant cross-file changes.",
+        "f3Title": "Deploy in one click",
+        "f3Body": "Push to production without leaving the editor or losing flow state.",
+        "iconSlug2": "vercel",
+        "iconSlug3": "github",
+        "iconSlug4": "docker",
+        "iconSlug5": "typescript",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "02 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "AI",
+        "stepMeta": "03 / 08",
+        "iconSlug1": "claude",
+        "toolRole": "AI REASONING ENGINE",
+        "toolTagline": "CORE",
+        "tagline": "Handles complex analysis, copy, architecture decisions, and customer communication autonomously.",
+        "f1Title": "Long context window",
+        "f1Body": "Process hundred-page documents and maintain coherence across extended threads.",
+        "f2Title": "Agentic task execution",
+        "f2Body": "Breaks goals into steps and executes research or writing workflows end to end.",
+        "f3Title": "Safe steerable output",
+        "f3Body": "Produces reliable responses that follow your brand voice and technical constraints.",
+        "iconSlug2": "cursor",
+        "iconSlug3": "notion",
+        "iconSlug4": "n8n",
+        "iconSlug5": "perplexity",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "03 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "HOST",
+        "stepMeta": "04 / 08",
+        "iconSlug1": "vercel",
+        "toolRole": "GLOBAL EDGE PLATFORM",
+        "toolTagline": "CRITICAL",
+        "tagline": "Deploy frontend and serverless functions globally with zero configuration and instant previews.",
+        "f1Title": "Instant preview URLs",
+        "f1Body": "Every push generates a live staging link for team review and feedback.",
+        "f2Title": "Global edge network",
+        "f2Body": "Serve dynamic content from the closest node for sub-second load times.",
+        "f3Title": "Zero config backends",
+        "f3Body": "Run backend logic without managing servers, scaling, or infrastructure overhead.",
+        "iconSlug2": "nextdotjs",
+        "iconSlug3": "github",
+        "iconSlug4": "supabase",
+        "iconSlug5": "react",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "04 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "DATA",
+        "stepMeta": "05 / 08",
+        "iconSlug1": "supabase",
+        "toolRole": "OPEN SOURCE BACKEND",
+        "toolTagline": "ESSENTIAL",
+        "tagline": "Postgres database, authentication, and realtime APIs in one open-source platform.",
+        "f1Title": "Instant auth and users",
+        "f1Body": "Add secure login with social providers and row-level security in minutes.",
+        "f2Title": "Realtime Postgres updates",
+        "f2Body": "Subscribe to database changes and push live updates to connected clients instantly.",
+        "f3Title": "Auto generated APIs",
+        "f3Body": "REST and GraphQL endpoints are built automatically from your table schema.",
+        "iconSlug2": "vercel",
+        "iconSlug3": "postgresql",
+        "iconSlug4": "docker",
+        "iconSlug5": "typescript",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "05 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "AUTOMATE",
+        "stepMeta": "06 / 08",
+        "iconSlug1": "n8n",
+        "toolRole": "AUTOMATION WORKFLOW ENGINE",
+        "toolTagline": "VITAL",
+        "tagline": "Connect APIs, trigger actions, and run back-office tasks on a self-hosted canvas.",
+        "f1Title": "Visual node builder",
+        "f1Body": "Drag and drop integrations without writing brittle custom scripts or cron jobs.",
+        "f2Title": "Self hosted option",
+        "f2Body": "Keep sensitive data in your own infrastructure while scaling execution throughput.",
+        "f3Title": "Error handling paths",
+        "f3Body": "Build fallback logic and alerts so broken steps never stall the business.",
+        "iconSlug2": "stripe",
+        "iconSlug3": "airtable",
+        "iconSlug4": "zapier",
+        "iconSlug5": "github",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "06 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "MONETIZE",
+        "stepMeta": "07 / 08",
+        "iconSlug1": "stripe",
+        "toolRole": "COMPLETE PAYMENTS STACK",
+        "toolTagline": "CRITICAL",
+        "tagline": "Accept subscriptions, invoices, and global payments with developer-friendly APIs and webhooks.",
+        "f1Title": "Recurring subscription billing",
+        "f1Body": "Launch tiered plans, trials, and usage-based pricing without rebuilding your checkout.",
+        "f2Title": "Webhook powered automation",
+        "f2Body": "Trigger post-payment workflows for provisioning, emails, and ledger updates instantly.",
+        "f3Title": "Global tax support",
+        "f3Body": "Automatically calculate and collect sales tax across international markets and jurisdictions.",
+        "iconSlug2": "n8n",
+        "iconSlug3": "vercel",
+        "iconSlug4": "supabase",
+        "iconSlug5": "notion",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "07 / 08"
+      }
+    },
+    {
+      "layoutId": "cta-tech-stack-grid",
+      "slots": {
+        "tag": "WRAP",
+        "handle": "factory.51ultron.com",
+        "eyebrow": "build leaner and faster",
+        "ctaLine1": "ship like a",
+        "ctaLine2": "solo unicorn",
+        "ctaBody": "Replace overhead with intelligent tools. Start building your AI-native stack today and launch in days, not quarters.",
+        "iconSlug1": "cursor",
+        "iconSlug2": "claude",
+        "iconSlug3": "vercel",
+        "iconSlug4": "supabase",
+        "iconSlug5": "n8n",
+        "iconSlug6": "stripe",
+        "btnPrimary": "Start Building",
+        "btnGhost": "View Pricing",
+        "domainText": "factory.51ultron.com",
+        "pageOf": "08 / 08"
+      }
+    }
+  ]
+}

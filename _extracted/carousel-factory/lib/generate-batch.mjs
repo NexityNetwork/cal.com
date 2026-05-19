@@ -854,6 +854,72 @@ const BRIEFS = [
   { id: "pe-startup-ideas-2026",      family: "personal-essay", text: "10 startup ideas hiding in plain sight in 2026 — what scrappy founders should build right now." },
   { id: "pe-ai-keeping-up",           family: "personal-essay", text: "12 things about AI that keep me up at night — and three I think most founders are missing." },
   { id: "pe-design-tools-review",     family: "personal-essay", text: "I tested every new AI design tool for 30 days. Three changed my workflow. The rest were noise." },
+
+  // ── BATCH 2: tech stacks + clean design ────────────────────────────────────
+
+  // tech-stack-grid (6-tool stack posters — dark bg + orange glow + brand icons)
+  { id: "tsg-saas-starter-stack",     family: "tech-stack-grid", text: "The 6-tool SaaS starter stack in 2026 — from auth to payments to deploy in one weekend." },
+  { id: "tsg-ai-native-startup",      family: "tech-stack-grid", text: "My complete AI-native startup stack: 6 tools that replaced an entire engineering team." },
+  { id: "tsg-devops-10min-deploy",    family: "tech-stack-grid", text: "The devops stack that ships features to production in under 10 minutes — 6 tools, real config." },
+  { id: "tsg-indie-hacker-prereqs",   family: "tech-stack-grid", text: "6 tools every indie hacker needs before writing a single line of code." },
+  { id: "tsg-serverless-backend",     family: "tech-stack-grid", text: "The no-infrastructure backend stack: 6 serverless tools running $50K ARR businesses." },
+  { id: "tsg-data-eng-2026",          family: "tech-stack-grid", text: "Data engineering in 2026: 6 tools that replace the old Kafka + Spark + Airflow nightmare." },
+  { id: "tsg-b2b-sales-stack",        family: "tech-stack-grid", text: "The B2B SaaS stack that closes enterprise deals — 6 tools for sales, contracts, and billing." },
+  { id: "tsg-solo-mobile-dev",        family: "tech-stack-grid", text: "6 tools I use to ship mobile apps as a solo web developer — no native knowledge required." },
+  { id: "tsg-mlops-no-phd",           family: "tech-stack-grid", text: "The ML ops stack for teams that don't have ML engineers — 6 tools, zero PhD required." },
+  { id: "tsg-creator-stack",          family: "tech-stack-grid", text: "The content creator tech stack: 6 tools that produce, schedule, and monetize automatically." },
+
+  // stack-tour (per-tool deep dives — white bg + hero brand icon + checkmark bullets)
+  { id: "st-cursor-deep-dive",        family: "stack-tour", text: "A deep dive into Cursor IDE: the AI code editor that replaced our entire code review process." },
+  { id: "st-n8n-automation",          family: "stack-tour", text: "How we use n8n to automate 80% of our customer operations — 6 real workflows explained." },
+  { id: "st-supabase-vs-firebase",    family: "stack-tour", text: "Supabase deep dive: why it replaced Firebase, Postgres, and half our backend — 5 real reasons." },
+  { id: "st-linear-small-teams",      family: "stack-tour", text: "Linear for small teams: 5 workflows that cut sprint planning from 2 hours to 15 minutes." },
+  { id: "st-vercel-power-features",   family: "stack-tour", text: "Vercel at scale: 5 features most developers miss that 10× deployment confidence." },
+  { id: "st-claude-api-patterns",     family: "stack-tour", text: "Claude API in production: 5 patterns for building AI features that actually work at scale." },
+  { id: "st-cf-workers-replace-node", family: "stack-tour", text: "Cloudflare Workers: 5 use cases that replaced our entire Node.js server infrastructure." },
+  { id: "st-framer-vs-webflow",       family: "stack-tour", text: "Framer vs Webflow in 2026: 5 real projects that reveal exactly when to use each." },
+
+  // agent-lineup (AI agent workflows — dark bg + brand logo flow + 4-icon cluster)
+  { id: "al-support-agent",           family: "agent-lineup", text: "The customer support agent that handles 90% of tickets without a human — 5 AI tools wired together." },
+  { id: "al-content-repurpose",       family: "agent-lineup", text: "The content repurposing agent: one blog post becomes 12 social assets automatically." },
+  { id: "al-lead-scoring",            family: "agent-lineup", text: "The lead scoring agent: every inbound lead gets qualified and routed in under 60 seconds." },
+  { id: "al-competitor-monitor",      family: "agent-lineup", text: "The competitive intelligence agent that monitors 50 competitors daily and sends a Slack digest." },
+  { id: "al-outbound-sales",          family: "agent-lineup", text: "The outbound sales agent: ICP → prospect → personalized email → booked call, fully automated." },
+  { id: "al-code-review-agent",       family: "agent-lineup", text: "The code review agent that catches bugs before your CI does — 4 tools, zero setup." },
+  { id: "al-onboarding-agent",        family: "agent-lineup", text: "The onboarding agent: new user → product tour → success metric — all without a CSM." },
+  { id: "al-social-reply-agent",      family: "agent-lineup", text: "The social media agent that monitors mentions, drafts replies, and schedules responses automatically." },
+
+  // lime-accent (bold dark bg + bright lime callout box — tool listicles)
+  { id: "la-oss-replaces-saas",       family: "lime-accent", text: "9 open-source tools that replaced $800/mo in SaaS subscriptions — all free, all production-ready." },
+  { id: "la-free-ai-tools-2026",      family: "lime-accent", text: "7 free AI tools that give solo founders an unfair advantage in 2026." },
+  { id: "la-claude-code-skills",      family: "lime-accent", text: "6 Claude Code skills every developer should master before Q3 2026." },
+  { id: "la-cf-hidden-tools",         family: "lime-accent", text: "8 Cloudflare tools most developers don't know exist — all free tier, all production-grade." },
+  { id: "la-postgres-superpowers",    family: "lime-accent", text: "7 database tools that make PostgreSQL feel like a superpower — extensions, clients, and ORMs." },
+  { id: "la-monitoring-stack",        family: "lime-accent", text: "5 monitoring tools that catch production failures before your users do — free tier included." },
+
+  // terminal-glow (mint-green terminal aesthetic — CLI tricks + devops)
+  { id: "tg-git-aliases",             family: "terminal-glow", text: "5 git aliases that make senior engineers 3× faster — steal these commands today." },
+  { id: "tg-shell-ide-setup",         family: "terminal-glow", text: "The shell setup that makes terminal feel like an IDE — 5 tools, 10 minutes to configure." },
+  { id: "tg-cli-replaces-dashboard",  family: "terminal-glow", text: "6 CLI tools that replace half your DevOps dashboard — real commands, real output." },
+  { id: "tg-docker-prod-commands",    family: "terminal-glow", text: "Docker in production: 5 commands that have saved us from 3am outages — memorize these." },
+  { id: "tg-curl-advanced",           family: "terminal-glow", text: "5 curl tricks that replace 3 different API testing tools — auth, files, retries, parallelism." },
+  { id: "tg-ai-terminal-2026",        family: "terminal-glow", text: "The AI-powered terminal setup in 2026 — 5 tools that autocomplete your entire workflow." },
+
+  // cream-table (warm cream + orange + big icon rows — structured tool breakdowns)
+  { id: "ct-ai-writing-tools",        family: "cream-table", text: "5 AI writing tools that are actually worth paying for in 2026 — honest breakdown, real ROI." },
+  { id: "ct-no-code-saves-dev",       family: "cream-table", text: "6 no-code tools that replaced $2K/mo in developer costs for our startup." },
+  { id: "ct-saas-analytics-stack",    family: "cream-table", text: "The 5 analytics tools that actually matter for a SaaS under $1M ARR — everything else is noise." },
+  { id: "ct-startup-security",        family: "cream-table", text: "6 security tools every startup should run before their first enterprise deal." },
+  { id: "ct-email-revenue-stack",     family: "cream-table", text: "5 email tools that print revenue — from capture to nurture to conversion, with real metrics." },
+  { id: "ct-founder-productivity",    family: "cream-table", text: "The founder's productivity stack: 5 tools that buy back 10 hours every week." },
+
+  // before-after (before vs after comparisons — light bg + blue/green accent)
+  { id: "ba-cicd-overhaul",           family: "before-after", text: "How we went from 3-week deploys to daily shipping — before and after our CI/CD overhaul." },
+  { id: "ba-support-response-time",   family: "before-after", text: "Our customer support went from 48-hour response to 4-minute resolution — the full stack change." },
+  { id: "ba-notion-to-linear",        family: "before-after", text: "Before and after switching from Notion to Linear: what changed, what didn't, what we regret." },
+  { id: "ba-aws-cost-cut",            family: "before-after", text: "How we cut our AWS bill by 70% without losing performance — before and after the migration." },
+  { id: "ba-claude-code-adoption",    family: "before-after", text: "Before and after adopting Claude Code as our primary dev tool — 6 honest metrics, 90 days in." },
+  { id: "ba-onboarding-activation",   family: "before-after", text: "Our onboarding activation went from 14% to 67% — the 5 changes that moved the needle." },
 ];
 
 // ─── Kimi planner with retry on JSON parse failure ─────────────────────────

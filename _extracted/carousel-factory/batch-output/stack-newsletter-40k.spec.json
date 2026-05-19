@@ -1,0 +1,175 @@
+{
+  "id": "stack-newsletter-40k",
+  "brand": "Newsletter Growth",
+  "brief": "The 6 tools running my $40K/mo newsletter — writing, sending, payments, the works.",
+  "theme": "stack-tour",
+  "slides": [
+    {
+      "layoutId": "cover-stack-tour",
+      "slots": {
+        "eyebrow": "MY 6-TOOL STACK",
+        "title": "The Newsletter Engine Behind $40K Months",
+        "description": "These six tools handle writing, sending, payments, and growth—so I can focus on the content.",
+        "iconSlug1": "beehiiv",
+        "toolRole1": "Email & newsletter platform",
+        "iconSlug2": "stripe",
+        "toolRole2": "Payment processing",
+        "iconSlug3": "notion",
+        "toolRole3": "Content & ops hub",
+        "iconSlug4": "claude",
+        "toolRole4": "Drafting & editing",
+        "iconSlug5": "figma",
+        "toolRole5": "Creative & graphics",
+        "iconSlug6": "zapier",
+        "toolRole6": "Workflow automation",
+        "ctaText": "Read the breakdown",
+        "handle": "@creatorhandle"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "TOOL 01",
+        "handle": "@creatorhandle",
+        "iconSlug1": "beehiiv",
+        "toolTagline": "Newsletter sending that scales",
+        "description": "Beehiiv handles subscriber growth, email sends, and built-in monetization without the bloat.",
+        "bullet1": "One-click referral programs built-in",
+        "bullet2": "Native ad network for monetization",
+        "bullet3": "Clean analytics dashboard for growth",
+        "accentColor": "#F6C549",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "stripe",
+        "iconSlug3": "notion",
+        "iconSlug4": "claude",
+        "iconSlug5": "figma",
+        "iconSlug6": "zapier",
+        "ctaBottom": "Swipe for next tool"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "TOOL 02",
+        "handle": "@creatorhandle",
+        "iconSlug1": "stripe",
+        "toolTagline": "Payments without the friction",
+        "description": "Stripe powers subscriptions, one-off products, and invoicing with developer-grade reliability.",
+        "bullet1": "Recurring subscription billing for members",
+        "bullet2": "Instant checkout links for products",
+        "bullet3": "Automatic tax compliance globally",
+        "accentColor": "#635BFF",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "beehiiv",
+        "iconSlug3": "notion",
+        "iconSlug4": "claude",
+        "iconSlug5": "figma",
+        "iconSlug6": "zapier",
+        "ctaBottom": "Swipe for next tool"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "TOOL 03",
+        "handle": "@creatorhandle",
+        "iconSlug1": "notion",
+        "toolTagline": "Your editorial command center",
+        "description": "Notion is where ideas become drafts, calendars stay synced, and SOPs live.",
+        "bullet1": "Content calendar database for planning",
+        "bullet2": "Standardized article templates for speed",
+        "bullet3": "Team wiki for all SOPs",
+        "accentColor": "#000000",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "beehiiv",
+        "iconSlug3": "stripe",
+        "iconSlug4": "claude",
+        "iconSlug5": "figma",
+        "iconSlug6": "zapier",
+        "ctaBottom": "Swipe for next tool"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "TOOL 04",
+        "handle": "@creatorhandle",
+        "iconSlug1": "claude",
+        "toolTagline": "AI that sounds like you",
+        "description": "Claude drafts outlines, tightens copy, and brainstorms hooks in my exact voice.",
+        "bullet1": "First-draft headline generation daily",
+        "bullet2": "Tone-matching editing pass in minutes",
+        "bullet3": "Research summarization for deep dives",
+        "accentColor": "#D97757",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "beehiiv",
+        "iconSlug3": "stripe",
+        "iconSlug4": "notion",
+        "iconSlug5": "figma",
+        "iconSlug6": "zapier",
+        "ctaBottom": "Swipe for next tool"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "TOOL 05",
+        "handle": "@creatorhandle",
+        "iconSlug1": "figma",
+        "toolTagline": "Design assets in minutes",
+        "description": "Figma lets me mock lead magnets, social cards, and landing page visuals quickly.",
+        "bullet1": "Carousel graphics templates for social",
+        "bullet2": "Lead magnet mockups for growth",
+        "bullet3": "Brand kit consistency across assets",
+        "accentColor": "#F24E1E",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "beehiiv",
+        "iconSlug3": "stripe",
+        "iconSlug4": "notion",
+        "iconSlug5": "claude",
+        "iconSlug6": "zapier",
+        "ctaBottom": "Swipe for next tool"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "TOOL 06",
+        "handle": "@creatorhandle",
+        "iconSlug1": "zapier",
+        "toolTagline": "Connect everything on autopilot",
+        "description": "Zapier moves data between tools so nothing falls through the cracks.",
+        "bullet1": "New subscriber welcome flows automatically",
+        "bullet2": "Payment alert notifications to Slack",
+        "bullet3": "Content idea pushed to calendar",
+        "accentColor": "#FF4A00",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "beehiiv",
+        "iconSlug3": "stripe",
+        "iconSlug4": "notion",
+        "iconSlug5": "claude",
+        "iconSlug6": "figma",
+        "ctaBottom": "Swipe for next tool"
+      }
+    },
+    {
+      "layoutId": "cta-stack-tour",
+      "slots": {
+        "pageOf": "08 / 08",
+        "handle": "@creatorhandle",
+        "eyebrow": "YOUR TURN",
+        "headlineLine1": "Build your stack",
+        "headlineLine2": "Start today free",
+        "iconSlug1": "beehiiv",
+        "iconSlug2": "stripe",
+        "iconSlug3": "notion",
+        "iconSlug4": "claude",
+        "iconSlug5": "figma",
+        "iconSlug6": "zapier",
+        "iconSlug7": "twitter",
+        "body": "Pick one tool, master it, then layer the rest. Your $40K month starts with a single send.",
+        "ctaText": "Follow for more"
+      }
+    }
+  ]
+}

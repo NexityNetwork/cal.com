@@ -1,0 +1,175 @@
+{
+  "id": "st-cursor-deep-dive",
+  "brand": "Cursor",
+  "brief": "A deep dive into Cursor IDE: the AI code editor that replaced our entire code review process.",
+  "theme": "stack-tour",
+  "slides": [
+    {
+      "layoutId": "cover-stack-tour",
+      "slots": {
+        "eyebrow": "THE CURSOR STACK",
+        "title": "How Cursor Replaced Our Code Review",
+        "description": "The AI IDE that cut our review cycle from days to minutes across every workflow.",
+        "iconSlug1": "cursor",
+        "iconSlug2": "github",
+        "iconSlug3": "vercel",
+        "iconSlug4": "typescript",
+        "iconSlug5": "docker",
+        "iconSlug6": "slack",
+        "toolRole1": "AI code editor",
+        "toolRole2": "Git hosting and PRs",
+        "toolRole3": "Frontend preview deployments",
+        "toolRole4": "Type safe codebase",
+        "toolRole5": "App container environments",
+        "toolRole6": "Async team chat",
+        "ctaText": "Read the breakdown",
+        "handle": "@yourhandle"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "TOOL 01",
+        "handle": "@yourhandle",
+        "iconSlug1": "cursor",
+        "toolTagline": "AI-native code review inside the editor",
+        "description": "Cursor's composer agent catches bugs, suggests refactors, and explains logic before any human sees the code.",
+        "bullet1": "Auto-generates PR descriptions from commits",
+        "bullet2": "Flags anti-patterns across multi-file changes",
+        "bullet3": "Explains legacy logic in natural language",
+        "accentColor": "#000000",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "github",
+        "iconSlug3": "linear",
+        "iconSlug4": "slack",
+        "iconSlug5": "sentry",
+        "iconSlug6": "notion",
+        "ctaBottom": "Next: Full-Stack Mode"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "TOOL 02",
+        "handle": "@yourhandle",
+        "iconSlug1": "cursor",
+        "toolTagline": "Full-stack prototyping from prompt to production",
+        "description": "Generate Next.js API routes, React components, and database schemas in a single Composer session.",
+        "bullet1": "Scaffolds CRUD endpoints with TypeScript types",
+        "bullet2": "Wires frontend forms to backend mutations",
+        "bullet3": "Auto-imports utilities across file trees",
+        "accentColor": "#000000",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "nextdotjs",
+        "iconSlug3": "vercel",
+        "iconSlug4": "supabase",
+        "iconSlug5": "stripe",
+        "iconSlug6": "tailwindcss",
+        "ctaBottom": "Next: Refactor Mode"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "TOOL 03",
+        "handle": "@yourhandle",
+        "iconSlug1": "cursor",
+        "toolTagline": "Legacy refactoring with zero downtime confidence",
+        "description": "Migrate JavaScript to TypeScript and update dependencies using Cursor's codebase-wide context awareness.",
+        "bullet1": "Converts JS models to strict TS interfaces",
+        "bullet2": "Updates deprecated APIs across 50+ files",
+        "bullet3": "Generates unit tests for refactored logic",
+        "accentColor": "#000000",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "typescript",
+        "iconSlug3": "docker",
+        "iconSlug4": "amazonwebservices",
+        "iconSlug5": "jest",
+        "iconSlug6": "github",
+        "ctaBottom": "Next: Architecture Mode"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "TOOL 04",
+        "handle": "@yourhandle",
+        "iconSlug1": "cursor",
+        "toolTagline": "Multi-file architecture planning agent",
+        "description": "Design system-wide changes by referencing your entire repo context, not just the open tab.",
+        "bullet1": "Maps service dependencies before editing",
+        "bullet2": "Proposes schema migrations alongside code",
+        "bullet3": "Keeps types in sync across microservices",
+        "accentColor": "#000000",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "react",
+        "iconSlug3": "nodedotjs",
+        "iconSlug4": "postgresql",
+        "iconSlug5": "prisma",
+        "iconSlug6": "redis",
+        "ctaBottom": "Next: Collab Mode"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "TOOL 05",
+        "handle": "@yourhandle",
+        "iconSlug1": "cursor",
+        "toolTagline": "Realtime design-to-code collaboration",
+        "description": "Turn Figma frames into styled components and notify your team without leaving the IDE.",
+        "bullet1": "Converts CSS layouts to Tailwind classes",
+        "bullet2": "Shares blockers to Slack channels instantly",
+        "bullet3": "Links tickets to changed files automatically",
+        "accentColor": "#000000",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "figma",
+        "iconSlug3": "slack",
+        "iconSlug4": "linear",
+        "iconSlug5": "notion",
+        "iconSlug6": "github",
+        "ctaBottom": "Next: Ship Mode"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "TOOL 06",
+        "handle": "@yourhandle",
+        "iconSlug1": "cursor",
+        "toolTagline": "Safe deployment and CI orchestration",
+        "description": "Validate changes against staging containers and auto-generate GitHub Action workflows.",
+        "bullet1": "Builds Docker images before local commits",
+        "bullet2": "Previews Vercel deploys on every branch",
+        "bullet3": "Rolls back with one-click revert scripts",
+        "accentColor": "#000000",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "githubactions",
+        "iconSlug3": "vercel",
+        "iconSlug4": "docker",
+        "iconSlug5": "amazonwebservices",
+        "iconSlug6": "sentry",
+        "ctaBottom": "See the full stack"
+      }
+    },
+    {
+      "layoutId": "cta-stack-tour",
+      "slots": {
+        "pageOf": "08 / 08",
+        "handle": "@yourhandle",
+        "eyebrow": "YOUR TURN",
+        "headlineLine1": "Build with AI",
+        "headlineLine2": "Ship faster daily",
+        "iconSlug1": "cursor",
+        "iconSlug2": "github",
+        "iconSlug3": "vercel",
+        "iconSlug4": "typescript",
+        "iconSlug5": "docker",
+        "iconSlug6": "slack",
+        "iconSlug7": "linear",
+        "body": "Swap your old review cycle for Cursor's agentic IDE and ship code your team actually trusts.",
+        "ctaText": "Start building today"
+      }
+    }
+  ]
+}

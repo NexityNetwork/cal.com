@@ -1,0 +1,186 @@
+{
+  "id": "la-llm-eval-tools",
+  "brand": "51ULTRON",
+  "brief": "7 LLM eval tools that find bugs before your users do.",
+  "theme": "lime-accent",
+  "slides": [
+    {
+      "layoutId": "cover-lime-accent",
+      "slots": {
+        "brandTag": "EVAL STACK",
+        "handle": "factory.51ultron.com",
+        "eyebrow": "2026 PICKS",
+        "titleLine1": "6 LLM eval",
+        "titleCallout": "tools",
+        "titleLine3": "that catch bugs",
+        "iconSlug1": "promptfoo",
+        "iconSlug2": "langfuse",
+        "iconSlug3": "langchain",
+        "iconSlug4": "weightsandbiases",
+        "iconSlug5": "trulens",
+        "iconSlug6": "arize",
+        "swipeLabel": "SEE LIST",
+        "pageOf": "01 / 08"
+      }
+    },
+    {
+      "layoutId": "body-lime-accent",
+      "slots": {
+        "numLabel": "TOOL 01",
+        "handle": "factory.51ultron.com",
+        "iconSlug1": "promptfoo",
+        "toolName": "Promptfoo",
+        "toolTag": "open source",
+        "toolTagline": "Automated LLM red-teaming and regression testing suite.",
+        "bodyText": "Run <em>deterministic evals</em> locally against OpenAI, Anthropic, and local models. Catch prompt regressions and jailbreaks <em>before deploy</em>.",
+        "bullet1": "Declarative YAML test suites",
+        "bullet2": "Plug into CI/CD pipelines",
+        "bullet3": "Diff outputs side by side",
+        "metric1Label": "PRICE",
+        "metric1Value": "Free",
+        "metric2Label": "SETUP",
+        "metric2Value": "CLI / Docker",
+        "metric3Label": "LICENSE",
+        "metric3Value": "Apache 2.0",
+        "pageOf": "02 / 08",
+        "footerNote": "Open source MIT licensed"
+      }
+    },
+    {
+      "layoutId": "body-lime-accent",
+      "slots": {
+        "numLabel": "TOOL 02",
+        "handle": "factory.51ultron.com",
+        "iconSlug1": "langfuse",
+        "toolName": "Langfuse",
+        "toolTag": "essential",
+        "toolTagline": "Open-source observability with built-in evaluation pipelines.",
+        "bodyText": "Trace every LLM call and attach <em>scores, annotations, and user feedback</em> to build continuous eval loops. Perfect for <em>production monitoring</em>.",
+        "bullet1": "Prompt versioning and tracing",
+        "bullet2": "Benchmark against labeled datasets",
+        "bullet3": "Async eval scoring jobs",
+        "metric1Label": "PRICE",
+        "metric1Value": "Free tier",
+        "metric2Label": "HOSTING",
+        "metric2Value": "Cloud / OSS",
+        "metric3Label": "INTEGRATION",
+        "metric3Value": "SDK + API",
+        "pageOf": "03 / 08",
+        "footerNote": "Self hosted or cloud"
+      }
+    },
+    {
+      "layoutId": "body-lime-accent",
+      "slots": {
+        "numLabel": "TOOL 03",
+        "handle": "factory.51ultron.com",
+        "iconSlug1": "langchain",
+        "toolName": "LangSmith",
+        "toolTag": "prototyping",
+        "toolTagline": "Debug, test, and evaluate LangChain apps at scale.",
+        "bodyText": "Visualize agent traces and run <em>batch evaluations</em> over test datasets. The de-facto standard when you need <em>rapid iteration</em> on chains.",
+        "bullet1": "Visual agent trace graphs",
+        "bullet2": "Sync prompts from the Hub",
+        "bullet3": "Collaborative team test runs",
+        "metric1Label": "PRICE",
+        "metric1Value": "Usage-based",
+        "metric2Label": "USERS",
+        "metric2Value": "500K+",
+        "metric3Label": "PLATFORM",
+        "metric3Value": "Cloud",
+        "pageOf": "04 / 08",
+        "footerNote": "Official LangChain project"
+      }
+    },
+    {
+      "layoutId": "body-lime-accent",
+      "slots": {
+        "numLabel": "TOOL 04",
+        "handle": "factory.51ultron.com",
+        "iconSlug1": "weightsandbiases",
+        "toolName": "W&B Weave",
+        "toolTag": "enterprise",
+        "toolTagline": "Track experiments and evaluate LLM outputs visually.",
+        "bodyText": "Log inference calls as <em>interactive tables</em> and score them with custom Python evaluators. Bring rigorous ML ops to <em>generative pipelines</em>.",
+        "bullet1": "Log rich media per trace",
+        "bullet2": "Custom Python eval metrics",
+        "bullet3": "Shared team analytics dashboards",
+        "metric1Label": "PRICE",
+        "metric1Value": "Freemium",
+        "metric2Label": "SCALE",
+        "metric2Value": "Enterprise",
+        "metric3Label": "MODELS",
+        "metric3Value": "Any provider",
+        "pageOf": "05 / 08",
+        "footerNote": "Enterprise SOC2 ready"
+      }
+    },
+    {
+      "layoutId": "body-lime-accent",
+      "slots": {
+        "numLabel": "TOOL 05",
+        "handle": "factory.51ultron.com",
+        "iconSlug1": "trulens",
+        "toolName": "TruLens",
+        "toolTag": "RAG focus",
+        "toolTagline": "Groundedness and context relevance scoring for RAG.",
+        "bodyText": "Instrument retrieval and generation steps to measure <em>answer relevance, groundedness, and context quality</em>. Essential for <em>trustworthy RAG</em> systems.",
+        "bullet1": "Built-in feedback function library",
+        "bullet2": "RAG triad metric scoring",
+        "bullet3": "Local SQLite eval dashboard",
+        "metric1Label": "PRICE",
+        "metric1Value": "Free",
+        "metric2Label": "STACK",
+        "metric2Value": "Python",
+        "metric3Label": "FOCUS",
+        "metric3Value": "RAG eval",
+        "pageOf": "06 / 08",
+        "footerNote": "TruEra open source"
+      }
+    },
+    {
+      "layoutId": "body-lime-accent",
+      "slots": {
+        "numLabel": "TOOL 06",
+        "handle": "factory.51ultron.com",
+        "iconSlug1": "arize",
+        "toolName": "Arize Phoenix",
+        "toolTag": "observability",
+        "toolTagline": "Notebook-first LLM observability and evaluation toolkit.",
+        "bodyText": "Run evals directly inside Jupyter with <em>embeddings visualization and drift detection</em>. Debug retrieval and generation issues <em>in real-time</em>.",
+        "bullet1": "Interactive embedding projector view",
+        "bullet2": "Export traces to Parquet",
+        "bullet3": "Open inference telemetry schema",
+        "metric1Label": "PRICE",
+        "metric1Value": "Free",
+        "metric2Label": "LICENSE",
+        "metric2Value": "Apache 2.0",
+        "metric3Label": "RUNTIME",
+        "metric3Value": "Notebook",
+        "pageOf": "07 / 08",
+        "footerNote": "Runs fully local, OSS"
+      }
+    },
+    {
+      "layoutId": "cta-lime-accent",
+      "slots": {
+        "brandTag": "WRAP",
+        "handle": "factory.51ultron.com",
+        "eyebrow": "PICK YOUR STACK",
+        "ctaLine1": "Ship safer",
+        "ctaCallout": "today",
+        "ctaBody": "Pick one eval tool, wire it to CI, and stop hallucinations from reaching production.",
+        "btnPrimary": "Start free",
+        "btnGhost": "Read docs",
+        "iconSlug1": "promptfoo",
+        "iconSlug2": "langfuse",
+        "iconSlug3": "langchain",
+        "iconSlug4": "weightsandbiases",
+        "iconSlug5": "trulens",
+        "iconSlug6": "arize",
+        "pageOf": "08 / 08",
+        "footerNote": "Open source, MIT"
+      }
+    }
+  ]
+}

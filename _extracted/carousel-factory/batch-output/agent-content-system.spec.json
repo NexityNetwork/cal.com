@@ -1,6 +1,6 @@
 {
   "id": "agent-content-system",
-  "brand": "CreatorOS",
+  "brand": "Content Factory",
   "brief": "The content factory: 6 agents from idea to publish — n8n, Claude, Figma, Notion, LinkedIn, YouTube.",
   "theme": "agent-lineup",
   "slides": [
@@ -8,16 +8,16 @@
       "layoutId": "cover-agent-lineup",
       "slots": {
         "title": "Content Factory Agent System",
-        "description": "Six autonomous agents take every piece of content from raw idea to published post across LinkedIn and YouTube.",
-        "flowLabel": "WORKFLOW",
-        "iconSlug1": "perplexity",
+        "description": "Six specialized AI agents run your entire content pipeline from idea to publish automatically.",
+        "flowLabel": "CONTENT PIPELINE",
+        "iconSlug1": "n8n",
         "iconSlug2": "claude",
-        "iconSlug3": "n8n",
-        "flowCaption": "Research → write → automate publishing",
-        "iconSlug4": "notion",
-        "iconSlug5": "figma",
-        "iconSlug6": "linkedin",
-        "iconSlug7": "youtube",
+        "iconSlug3": "notion",
+        "flowCaption": "Ideate → draft → design → publish",
+        "iconSlug4": "figma",
+        "iconSlug5": "linkedin",
+        "iconSlug6": "youtube",
+        "iconSlug7": "slack",
         "ctaText": "comment 'FACTORY' for the full stack"
       }
     },
@@ -26,18 +26,18 @@
       "slots": {
         "slideLabel": "AGENT 01",
         "title": "Trend Research Agent",
-        "description": "Scans the web for trending topics and competitor content, then drafts a brief saved directly to your content database.",
+        "description": "Scans news and social feeds to surface high-intent topics your audience craves.",
         "iconSlug1": "perplexity",
         "iconSlug2": "claude",
         "iconSlug3": "notion",
-        "toolRole1": "Finds viral topics and keywords",
-        "toolRole2": "Synthesizes insights into briefs",
-        "toolRole3": "Stores ideas in content hub",
-        "iconSlug4": "youtube",
-        "iconSlug5": "linkedin",
-        "iconSlug6": "instagram",
-        "iconSlug7": "tiktok",
-        "handle": "@creatoros"
+        "toolRole1": "Discovers rising topics",
+        "toolRole2": "Analyzes search intent",
+        "toolRole3": "Logs ideas instantly",
+        "iconSlug4": "n8n",
+        "iconSlug5": "youtube",
+        "iconSlug6": "linkedin",
+        "iconSlug7": "slack",
+        "handle": "@contentfactory"
       }
     },
     {
@@ -45,18 +45,18 @@
       "slots": {
         "slideLabel": "AGENT 02",
         "title": "Script Writing Agent",
-        "description": "Turns briefs into full scripts with hooks and CTAs, then logs the final copy in Notion for the design team.",
+        "description": "Turns research briefs into platform-native scripts and hooks in seconds.",
         "iconSlug1": "claude",
         "iconSlug2": "notion",
         "iconSlug3": "loom",
-        "toolRole1": "Drafts hook and script body",
-        "toolRole2": "Builds shot list in database",
-        "toolRole3": "Records async video briefs",
-        "iconSlug4": "youtube",
-        "iconSlug5": "figma",
-        "iconSlug6": "n8n",
-        "iconSlug7": "gmail",
-        "handle": "@creatoros"
+        "toolRole1": "Drafts video scripts",
+        "toolRole2": "Stores content outlines",
+        "toolRole3": "Records voice memos",
+        "iconSlug4": "n8n",
+        "iconSlug5": "openai",
+        "iconSlug6": "figma",
+        "iconSlug7": "slack",
+        "handle": "@contentfactory"
       }
     },
     {
@@ -64,84 +64,84 @@
       "slots": {
         "slideLabel": "AGENT 03",
         "title": "Visual Design Agent",
-        "description": "Generates on-brand thumbnails, carousels, and cover art in Figma using the script and brand guidelines automatically.",
+        "description": "Auto-generates carousel frames, thumbnails, and cover art from briefs.",
         "iconSlug1": "figma",
         "iconSlug2": "claude",
-        "iconSlug3": "youtube",
-        "toolRole1": "Designs thumbnails and carousels",
-        "toolRole2": "Generates variations from brief",
-        "toolRole3": "Exports channel-ready assets",
-        "iconSlug4": "notion",
-        "iconSlug5": "n8n",
-        "iconSlug6": "instagram",
-        "iconSlug7": "airtable",
-        "handle": "@creatoros"
+        "iconSlug3": "notion",
+        "toolRole1": "Designs carousel frames",
+        "toolRole2": "Writes visual copy",
+        "toolRole3": "Manages asset library",
+        "iconSlug4": "n8n",
+        "iconSlug5": "vercel",
+        "iconSlug6": "github",
+        "iconSlug7": "youtube",
+        "handle": "@contentfactory"
       }
     },
     {
       "layoutId": "body-agent-lineup",
       "slots": {
         "slideLabel": "AGENT 04",
-        "title": "Workflow Automation Agent",
-        "description": "Connects every tool into a single pipeline that routes finished assets to the correct publishing queue without manual work.",
-        "iconSlug1": "n8n",
-        "iconSlug2": "zapier",
-        "iconSlug3": "make",
-        "toolRole1": "Connects apps into pipelines",
-        "toolRole2": "Routes assets to channels",
-        "toolRole3": "Schedules posts automatically",
+        "title": "Content Calendar Agent",
+        "description": "Schedules posts across channels and tracks pipeline status automatically.",
+        "iconSlug1": "notion",
+        "iconSlug2": "n8n",
+        "iconSlug3": "calendly",
+        "toolRole1": "Maps editorial calendar",
+        "toolRole2": "Triggers workflow automations",
+        "toolRole3": "Books review slots",
         "iconSlug4": "airtable",
-        "iconSlug5": "notion",
-        "iconSlug6": "slack",
-        "iconSlug7": "gmail",
-        "handle": "@creatoros"
+        "iconSlug5": "slack",
+        "iconSlug6": "figma",
+        "iconSlug7": "claude",
+        "handle": "@contentfactory"
       }
     },
     {
       "layoutId": "body-agent-lineup",
       "slots": {
         "slideLabel": "AGENT 05",
-        "title": "LinkedIn Publishing Agent",
-        "description": "Formats the script into a native LinkedIn post with rich formatting and publishes at peak engagement hours automatically.",
+        "title": "LinkedIn Growth Agent",
+        "description": "Publishes posts, engages with comments, and grows your personal brand daily.",
         "iconSlug1": "linkedin",
         "iconSlug2": "claude",
-        "iconSlug3": "notion",
-        "toolRole1": "Formats post from script",
-        "toolRole2": "Optimizes for engagement",
-        "toolRole3": "Queues in publishing calendar",
-        "iconSlug4": "n8n",
-        "iconSlug5": "figma",
-        "iconSlug6": "loom",
-        "iconSlug7": "youtube",
-        "handle": "@creatoros"
+        "iconSlug3": "n8n",
+        "toolRole1": "Publishes scheduled posts",
+        "toolRole2": "Replies to comments",
+        "toolRole3": "Routes engagement data",
+        "iconSlug4": "notion",
+        "iconSlug5": "hubspot",
+        "iconSlug6": "slack",
+        "iconSlug7": "loom",
+        "handle": "@contentfactory"
       }
     },
     {
       "layoutId": "body-agent-lineup",
       "slots": {
         "slideLabel": "AGENT 06",
-        "title": "YouTube Publishing Agent",
-        "description": "Uploads the final video, writes SEO-optimized titles and tags, and pushes performance data back to your content hub.",
+        "title": "YouTube Studio Agent",
+        "description": "Uploads videos, writes SEO descriptions, and syndicates shorts everywhere.",
         "iconSlug1": "youtube",
         "iconSlug2": "claude",
-        "iconSlug3": "notion",
-        "toolRole1": "Optimizes titles and tags",
-        "toolRole2": "Uploads and sets metadata",
-        "toolRole3": "Archives analytics in hub",
-        "iconSlug4": "n8n",
+        "iconSlug3": "n8n",
+        "toolRole1": "Uploads and schedules",
+        "toolRole2": "Optimizes video metadata",
+        "toolRole3": "Cross-posts short clips",
+        "iconSlug4": "notion",
         "iconSlug5": "figma",
-        "iconSlug6": "loom",
-        "iconSlug7": "linkedin",
-        "handle": "@creatoros"
+        "iconSlug6": "vercel",
+        "iconSlug7": "github",
+        "handle": "@contentfactory"
       }
     },
     {
       "layoutId": "cta-agent-lineup",
       "slots": {
         "eyebrow": "FULL STACK INSIDE",
-        "ctaHeadline1": "Build Your",
-        "ctaHeadline2": "AI Content Factory",
-        "freeBadge": "100% FREE STACK",
+        "ctaHeadline1": "Build Your Agent",
+        "ctaHeadline2": "Content Machine",
+        "freeBadge": "100% FREE GUIDE",
         "iconSlug1": "n8n",
         "iconSlug2": "claude",
         "iconSlug3": "figma",
@@ -149,8 +149,8 @@
         "iconSlug5": "linkedin",
         "iconSlug6": "youtube",
         "iconSlug7": "perplexity",
-        "iconSlug8": "loom",
-        "handle": "@creatoros"
+        "iconSlug8": "slack",
+        "handle": "@contentfactory"
       }
     }
   ]

@@ -1,0 +1,190 @@
+{
+  "id": "tsg-data-eng-2026",
+  "brand": "51ultron",
+  "brief": "Data engineering in 2026: 6 tools that replace the old Kafka + Spark + Airflow nightmare.",
+  "theme": "tech-stack-grid",
+  "slides": [
+    {
+      "layoutId": "cover-tech-stack-grid",
+      "slots": {
+        "tag": "MY STACK",
+        "handle": "data.51ultron.com",
+        "eyebrow": "Modern data pipelines",
+        "titleLine1": "Six tools replace",
+        "titleAccent": "Kafka Spark Airflow",
+        "iconSlug1": "n8n",
+        "iconSlug2": "supabase",
+        "iconSlug3": "postgresql",
+        "iconSlug4": "redis",
+        "iconSlug5": "docker",
+        "iconSlug6": "github",
+        "role1": "VISUAL WORKFLOW AUTOMATION",
+        "role2": "MANAGED DATA PLATFORM",
+        "role3": "WAREHOUSE ANALYTICS ENGINE",
+        "role4": "REALTIME STREAM CACHE",
+        "role5": "CONTAINER RUNTIME LAYER",
+        "role6": "INFRA VERSION CONTROL",
+        "pageOf": "01 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "ORCH",
+        "stepMeta": "02 / 08",
+        "iconSlug1": "n8n",
+        "toolRole": "VISUAL WORKFLOW AUTOMATION",
+        "toolTagline": "ESSENTIAL",
+        "tagline": "Replaces Airflow with visual, event-driven pipelines that deploy in minutes.",
+        "f1Title": "Visual workflow builder",
+        "f1Body": "Drag nodes to build complex ETL without writing boilerplate DAG code.",
+        "f2Title": "Native event triggers",
+        "f2Body": "React to webhooks, schedules, or database changes instantly.",
+        "f3Title": "Full self-hosted control",
+        "f3Body": "Run on your own infrastructure for full data privacy and control.",
+        "iconSlug2": "supabase",
+        "iconSlug3": "postgresql",
+        "iconSlug4": "docker",
+        "iconSlug5": "github",
+        "domainText": "data.51ultron.com",
+        "pageOf": "02 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "PLATFORM",
+        "stepMeta": "03 / 08",
+        "iconSlug1": "supabase",
+        "toolRole": "MANAGED DATA PLATFORM",
+        "toolTagline": "CORE",
+        "tagline": "Postgres with realtime extensions eliminates Kafka for most streaming workloads.",
+        "f1Title": "Realtime data subscriptions",
+        "f1Body": "Push database changes to clients without managing message brokers.",
+        "f2Title": "Serverless edge functions",
+        "f2Body": "Transform and route data close to users with serverless TypeScript.",
+        "f3Title": "Instant API generation",
+        "f3Body": "Auto-generated REST and GraphQL endpoints cut integration time.",
+        "iconSlug2": "postgresql",
+        "iconSlug3": "redis",
+        "iconSlug4": "docker",
+        "iconSlug5": "n8n",
+        "domainText": "data.51ultron.com",
+        "pageOf": "03 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "ENGINE",
+        "stepMeta": "04 / 08",
+        "iconSlug1": "postgresql",
+        "toolRole": "WAREHOUSE ANALYTICS ENGINE",
+        "toolTagline": "BACKBONE",
+        "tagline": "Modern Postgres extensions replace Spark SQL for petabyte-scale analytics.",
+        "f1Title": "Native columnar store",
+        "f1Body": "Extensions like Hydra turn Postgres into a fast OLAP warehouse.",
+        "f2Title": "Native JSON queries",
+        "f2Body": "Query semi-structured event data without complex schema registries.",
+        "f3Title": "Parallel query engine",
+        "f3Body": "Leverage multiple cores to process aggregates in seconds, not hours.",
+        "iconSlug2": "supabase",
+        "iconSlug3": "redis",
+        "iconSlug4": "docker",
+        "iconSlug5": "github",
+        "domainText": "data.51ultron.com",
+        "pageOf": "04 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "STREAM",
+        "stepMeta": "05 / 08",
+        "iconSlug1": "redis",
+        "toolRole": "REALTIME STREAM CACHE",
+        "toolTagline": "HOT PATH",
+        "tagline": "Redis Streams handles high-throughput events without Kafka's operational overhead.",
+        "f1Title": "Ultra fast in memory speed",
+        "f1Body": "Sub-millisecond latency for event ingestion and windowed aggregations.",
+        "f2Title": "Robust stream groups",
+        "f2Body": "Consumer groups provide exactly-once processing out of the box.",
+        "f3Title": "Flexible persistence options",
+        "f3Body": "Choose snapshotting or AOF to balance speed and durability.",
+        "iconSlug2": "postgresql",
+        "iconSlug3": "docker",
+        "iconSlug4": "n8n",
+        "iconSlug5": "supabase",
+        "domainText": "data.51ultron.com",
+        "pageOf": "05 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "RUNTIME",
+        "stepMeta": "06 / 08",
+        "iconSlug1": "docker",
+        "toolRole": "CONTAINER RUNTIME LAYER",
+        "toolTagline": "INFRA",
+        "tagline": "Containerize every pipeline to replace YARN and Spark cluster management.",
+        "f1Title": "Fully reproducible builds",
+        "f1Body": "Package Python, SQL, and Node jobs into immutable container images.",
+        "f2Title": "Cloud orchestrator ready",
+        "f2Body": "Deploy to any cloud Kubernetes or Docker Swarm in seconds.",
+        "f3Title": "Strict resource isolation",
+        "f3Body": "CPU and memory limits prevent one bad job from killing the cluster.",
+        "iconSlug2": "github",
+        "iconSlug3": "n8n",
+        "iconSlug4": "postgresql",
+        "iconSlug5": "redis",
+        "domainText": "data.51ultron.com",
+        "pageOf": "06 / 08"
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "OPS",
+        "stepMeta": "07 / 08",
+        "iconSlug1": "github",
+        "toolRole": "INFRA VERSION CONTROL",
+        "toolTagline": "SOURCE",
+        "tagline": "Version control your schemas, SQL, and pipeline definitions as infrastructure.",
+        "f1Title": "Automated CI/CD pipelines",
+        "f1Body": "Automate testing and deployment of dbt models and container images.",
+        "f2Title": "Peer code review",
+        "f2Body": "Peer review SQL transformations before they hit production warehouses.",
+        "f3Title": "Full audit history",
+        "f3Body": "Track every schema change and rollback bad deployments instantly.",
+        "iconSlug2": "docker",
+        "iconSlug3": "n8n",
+        "iconSlug4": "supabase",
+        "iconSlug5": "vercel",
+        "domainText": "data.51ultron.com",
+        "pageOf": "07 / 08"
+      }
+    },
+    {
+      "layoutId": "cta-tech-stack-grid",
+      "slots": {
+        "tag": "WRAP",
+        "handle": "data.51ultron.com",
+        "eyebrow": "Simpler data stacks",
+        "ctaLine1": "Build faster",
+        "ctaLine2": "ship cleaner data",
+        "ctaBody": "Drop the legacy complexity. This six-tool stack scales from prototype to production without the Kafka + Spark + Airflow headache.",
+        "iconSlug1": "n8n",
+        "iconSlug2": "supabase",
+        "iconSlug3": "postgresql",
+        "iconSlug4": "redis",
+        "iconSlug5": "docker",
+        "iconSlug6": "github",
+        "btnPrimary": "GET THE STACK",
+        "btnGhost": "READ MORE",
+        "domainText": "data.51ultron.com",
+        "pageOf": "08 / 08"
+      }
+    }
+  ]
+}
