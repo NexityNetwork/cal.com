@@ -1,0 +1,175 @@
+{
+  "id": "st-ai-automation-stack",
+  "brand": "SoloStack",
+  "brief": "AI automation stack for one-person teams in 2026 — orchestration tools, AI APIs, vector stores, scheduling, monitoring.",
+  "theme": "stack-tour",
+  "slides": [
+    {
+      "layoutId": "cover-stack-tour",
+      "slots": {
+        "eyebrow": "MY 6-TOOL STACK",
+        "title": "The Solo Automation Stack 2026",
+        "description": "One-person teams running 24/7 ops with orchestration, AI, and memory.",
+        "iconSlug1": "n8n",
+        "toolRole1": "Visual workflow orchestration",
+        "iconSlug2": "openai",
+        "toolRole2": "Large language model API",
+        "iconSlug3": "claude",
+        "toolRole3": "AI reasoning partner",
+        "iconSlug4": "pinecone",
+        "toolRole4": "Vector memory database",
+        "iconSlug5": "calendly",
+        "toolRole5": "Inbound meeting scheduler",
+        "iconSlug6": "sentry",
+        "toolRole6": "Real-time error monitoring",
+        "ctaText": "Read the breakdown",
+        "handle": ""
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "02 / 08",
+        "handle": "",
+        "iconSlug1": "n8n",
+        "toolTagline": "Visual workflow automation engine",
+        "description": "Connect APIs, trigger events, and route data across your entire stack without writing code.",
+        "bullet1": "Sync leads from forms to CRM",
+        "bullet2": "Branch logic based on AI sentiment",
+        "bullet3": "Retry failed webhooks automatically",
+        "accentColor": "#EA4B71",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "openai",
+        "iconSlug3": "claude",
+        "iconSlug4": "pinecone",
+        "iconSlug5": "calendly",
+        "iconSlug6": "sentry",
+        "ctaBottom": "Read the breakdown"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "03 / 08",
+        "handle": "",
+        "iconSlug1": "openai",
+        "toolTagline": "Generative AI API backbone",
+        "description": "Power summarization, classification, and content generation through a single API endpoint.",
+        "bullet1": "Draft personalized email sequences",
+        "bullet2": "Extract structured data from PDFs",
+        "bullet3": "Classify support tickets instantly",
+        "accentColor": "#10A37F",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "n8n",
+        "iconSlug3": "claude",
+        "iconSlug4": "pinecone",
+        "iconSlug5": "calendly",
+        "iconSlug6": "sentry",
+        "ctaBottom": "Continue the tour"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "04 / 08",
+        "handle": "",
+        "iconSlug1": "claude",
+        "toolTagline": "Long-context reasoning partner",
+        "description": "Handle complex instructions, large document analysis, and nuanced decision-making in your workflows.",
+        "bullet1": "Analyze 100-page contracts in seconds",
+        "bullet2": "Route escalations with human-like judgment",
+        "bullet3": "Maintain context across multi-step chats",
+        "accentColor": "#D97757",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "n8n",
+        "iconSlug3": "openai",
+        "iconSlug4": "pinecone",
+        "iconSlug5": "calendly",
+        "iconSlug6": "sentry",
+        "ctaBottom": "Next up below"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "05 / 08",
+        "handle": "",
+        "iconSlug1": "pinecone",
+        "toolTagline": "High-speed vector search database",
+        "description": "Store embeddings for semantic search, long-term memory, and lightning-fast retrieval in RAG pipelines.",
+        "bullet1": "Index help docs for instant answers",
+        "bullet2": "Recall past client context automatically",
+        "bullet3": "Filter metadata for secure multi-tenancy",
+        "accentColor": "#111111",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "n8n",
+        "iconSlug3": "openai",
+        "iconSlug4": "claude",
+        "iconSlug5": "calendly",
+        "iconSlug6": "sentry",
+        "ctaBottom": "Keep stacking tools"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "06 / 08",
+        "handle": "",
+        "iconSlug1": "calendly",
+        "toolTagline": "Inbound scheduling automation layer",
+        "description": "Remove back-and-forth emails by letting prospects book directly into your guarded calendar slots.",
+        "bullet1": "Qualify leads before they book",
+        "bullet2": "Trigger prep workflows pre-meeting",
+        "bullet3": "Sync buffer time across time zones",
+        "accentColor": "#006BFF",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "n8n",
+        "iconSlug3": "openai",
+        "iconSlug4": "claude",
+        "iconSlug5": "pinecone",
+        "iconSlug6": "sentry",
+        "ctaBottom": "Almost done here"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "07 / 08",
+        "handle": "",
+        "iconSlug1": "sentry",
+        "toolTagline": "Real-time error tracking platform",
+        "description": "Catch exceptions, trace failures across services, and fix issues before clients ever notice them.",
+        "bullet1": "Alert on failed automation steps",
+        "bullet2": "Trace errors from API to UI",
+        "bullet3": "Group issues by root cause fast",
+        "accentColor": "#362D59",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "n8n",
+        "iconSlug3": "openai",
+        "iconSlug4": "claude",
+        "iconSlug5": "pinecone",
+        "iconSlug6": "calendly",
+        "ctaBottom": "Finish the tour"
+      }
+    },
+    {
+      "layoutId": "cta-stack-tour",
+      "slots": {
+        "pageOf": "",
+        "handle": "",
+        "eyebrow": "YOUR TURN",
+        "headlineLine1": "Build your stack",
+        "headlineLine2": "Automate everything",
+        "iconSlug1": "n8n",
+        "iconSlug2": "openai",
+        "iconSlug3": "claude",
+        "iconSlug4": "pinecone",
+        "iconSlug5": "calendly",
+        "iconSlug6": "sentry",
+        "iconSlug7": "supabase",
+        "body": "Start with one tool, then wire the rest. Your automated solo business runs 24/7.",
+        "ctaText": "Save this post"
+      }
+    }
+  ]
+}

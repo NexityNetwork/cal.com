@@ -1,0 +1,121 @@
+{
+  "id": "lp-ai-course-biz",
+  "brand": "Alex Rivera AI Academy",
+  "brief": "The AI course business that scales. Course architecture, pricing tiers, community add-on, AI-powered support.",
+  "theme": "linkedin-pro",
+  "slides": [
+    {
+      "layoutId": "cover-linkedin-pro",
+      "slots": {
+        "author": "",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "",
+        "accentColor": "#4f3df5",
+        "headline": "Build an AI Course Business That Scales",
+        "heroSymbol": "AI",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#0a66c2",
+        "body": "Discover the blueprint for a high‑margin AI education empire. From modular architecture to tiered pricing, we’ll show you how to grow fast and stay profitable."
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "",
+        "title": "Design Modular Course Architecture",
+        "body": "Break content into bite‑size modules that can be combined into pathways. This flexibility boosts learner retention and lets you upsell advanced tracks.",
+        "heroSymbol": "AI",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#0a66c2",
+        "labelText": "Scale with structure"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "",
+        "title": "Create Tiered Pricing Plans",
+        "body": "Offer a free starter, a premium core, and an elite mastermind tier. Each adds value—more content, live labs, and exclusive AI tools—to capture every budget.",
+        "heroSymbol": "AI",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#0a66c2",
+        "labelText": "Price for growth"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "",
+        "title": "Add Community as a Paid Add‑On",
+        "body": "A private AI forum fuels peer learning and retention. Charge a monthly community fee to unlock networking, mentorship, and real‑time AI challenges.",
+        "heroSymbol": "AI",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#0a66c2",
+        "labelText": "Community = loyalty"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "",
+        "title": "Integrate AI‑Powered Support",
+        "body": "Deploy chatbots to answer FAQs, grade assignments, and suggest next modules. AI support reduces overhead while delivering instant, personalized help.",
+        "heroSymbol": "AI",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#0a66c2",
+        "labelText": "AI support wins"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "",
+        "title": "Automate Marketing & Funnels",
+        "body": "Use AI to segment leads, personalize emails, and predict churn. Automated funnels keep the pipeline full without constant manual effort.",
+        "heroSymbol": "AI",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#0a66c2",
+        "labelText": "Automate growth"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "",
+        "title": "Measure, Iterate, Scale",
+        "body": "Track enrollment, completion, and revenue per module. Iterate quickly based on data, then replicate winning pathways across new AI topics.",
+        "heroSymbol": "AI",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#0a66c2",
+        "labelText": "Data drives scale"
+      }
+    },
+    {
+      "layoutId": "cta-linkedin-pro",
+      "slots": {
+        "author": "",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "",
+        "accentColor": "#4f3df5",
+        "eyebrow": "YOUR TURN?",
+        "headline": "Start Building Your Scalable AI Course Today",
+        "body": "Apply the framework, launch your first module, and watch revenue grow. Need help? Reach out for a free strategy call.",
+        "buttonLabel": "",
+        "secondaryLabel": "Share",
+        "handle": ""
+      }
+    }
+  ]
+}

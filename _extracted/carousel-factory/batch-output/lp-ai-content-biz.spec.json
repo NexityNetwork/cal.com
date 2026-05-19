@@ -1,0 +1,127 @@
+{
+  "id": "lp-ai-content-biz",
+  "brand": "Alex Reed",
+  "brief": "The AI content business model. Audience first, then product. The exact funnel of indie content founders earning $20k/mo.",
+  "theme": "linkedin-pro",
+  "slides": [
+    {
+      "layoutId": "cover-linkedin-pro",
+      "slots": {
+        "author": "",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "",
+        "accentColor": "#0a66c2",
+        "headline": "Turn AI Content Into $20K/mo",
+        "heroSymbol": "AI",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#0a66c2",
+        "body": "Discover how indie creators turn AI‑generated content into a reliable $20k/month revenue stream by prioritizing audience before product."
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "",
+        "accentColor": "#0a66c2",
+        "title": "Step 1: Build a Niche Audience",
+        "body": "Identify a passionate micro‑niche, engage daily on LinkedIn, and grow a mailing list of 2k+ engaged followers.",
+        "heroSymbol": "AI",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#0a66c2",
+        "labelText": "Audience First"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "",
+        "accentColor": "#0a66c2",
+        "title": "Step 2: Validate With Free Value",
+        "body": "Offer free AI‑driven insights or templates, collect feedback, and refine your value proposition based on real user needs.",
+        "heroSymbol": "AI",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#0a66c2",
+        "labelText": "Audience First"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "",
+        "accentColor": "#0a66c2",
+        "title": "Step 3: Create a Paid Mini‑Course",
+        "body": "Package your top‑performing AI prompts into a low‑ticket mini‑course; price $49 and validate demand quickly.",
+        "heroSymbol": "AI",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#0a66c2",
+        "labelText": "Audience First"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "",
+        "accentColor": "#0a66c2",
+        "title": "Step 4: Launch a Subscription",
+        "body": "Turn the mini‑course into a monthly membership with fresh prompts, community Q&A, and exclusive tools for $29.",
+        "heroSymbol": "AI",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#0a66c2",
+        "labelText": "Audience First"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "",
+        "accentColor": "#0a66c2",
+        "title": "Step 5: Scale With Partnerships",
+        "body": "Partner with SaaS tools or agencies, co‑create content, and earn referral commissions while expanding reach.",
+        "heroSymbol": "AI",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#0a66c2",
+        "labelText": "Audience First"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "",
+        "accentColor": "#0a66c2",
+        "title": "Step 6: Automate & Optimize",
+        "body": "Automate prompt delivery with Zapier, track churn, and reinvest earnings into paid ads to hit $20k.",
+        "heroSymbol": "AI",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#0a66c2",
+        "labelText": "Audience First"
+      }
+    },
+    {
+      "layoutId": "cta-linkedin-pro",
+      "slots": {
+        "author": "",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "",
+        "accentColor": "#0a66c2",
+        "eyebrow": "YOUR TURN?",
+        "headline": "Start Your $20K Journey Today",
+        "body": "Ready to build your AI content empire? Grab the free blueprint and start earning today.",
+        "buttonLabel": "",
+        "secondaryLabel": "Share",
+        "handle": ""
+      }
+    }
+  ]
+}

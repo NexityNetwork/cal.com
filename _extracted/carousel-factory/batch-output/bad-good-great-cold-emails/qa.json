@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/bad-good-great-cold-emails/slide-01.png",
-      "bytes": 73756,
+      "bytes": 74857,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -19,7 +19,7 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/bad-good-great-cold-emails/slide-02.png",
-      "bytes": 102546,
+      "bytes": 103750,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -35,7 +35,7 @@
     {
       "index": 2,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/bad-good-great-cold-emails/slide-03.png",
-      "bytes": 96618,
+      "bytes": 97800,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -51,7 +51,7 @@
     {
       "index": 3,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/bad-good-great-cold-emails/slide-04.png",
-      "bytes": 102893,
+      "bytes": 104131,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -67,7 +67,7 @@
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/bad-good-great-cold-emails/slide-05.png",
-      "bytes": 107214,
+      "bytes": 108368,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -83,7 +83,7 @@
     {
       "index": 5,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/bad-good-great-cold-emails/slide-06.png",
-      "bytes": 96180,
+      "bytes": 97359,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -99,7 +99,7 @@
     {
       "index": 6,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/bad-good-great-cold-emails/slide-07.png",
-      "bytes": 89360,
+      "bytes": 90516,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -115,7 +115,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/bad-good-great-cold-emails/slide-08.png",
-      "bytes": 90008,
+      "bytes": 91167,
       "qa": {
         "verdict": "pass",
         "checks": {

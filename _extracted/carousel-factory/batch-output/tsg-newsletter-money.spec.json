@@ -1,0 +1,190 @@
+{
+  "id": "tsg-newsletter-money",
+  "brand": "Newsletter OS",
+  "brief": "The newsletter stack that prints money. ConvertKit/Beehiiv-class tools for writing, audience growth, sponsorships, paid subs.",
+  "theme": "tech-stack-grid",
+  "slides": [
+    {
+      "layoutId": "cover-tech-stack-grid",
+      "slots": {
+        "tag": "MY STACK",
+        "handle": "",
+        "eyebrow": "newsletter engine built to scale",
+        "titleLine1": "THE CREATOR",
+        "titleAccent": "STACK THAT SHIPS",
+        "iconSlug1": "notion",
+        "role1": "PLANS EDITORIAL CONTENT",
+        "iconSlug2": "claude",
+        "role2": "DRAFTS WEEKLY ISSUES",
+        "iconSlug3": "webflow",
+        "role3": "BUILDS LANDING PAGES",
+        "iconSlug4": "stripe",
+        "role4": "COLLECTS SUBSCRIPTION REVENUE",
+        "iconSlug5": "make",
+        "role5": "AUTOMATES READER JOURNEYS",
+        "iconSlug6": "tiktok",
+        "role6": "AMPLIFIES ORGANIC REACH",
+        "pageOf": ""
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "PLAN",
+        "stepMeta": "02 / 08",
+        "iconSlug1": "notion",
+        "toolRole": "EDITORIAL COMMAND CENTER",
+        "toolTagline": "CORE SYSTEM",
+        "tagline": "Your content calendar, sponsor pipeline, and issue tracker in one unified workspace.",
+        "f1Title": "Editorial Content Calendar",
+        "f1Body": "Map out quarterly themes, deadlines, and sponsor slots at a glance.",
+        "f2Title": "Sponsor CRM Tracker",
+        "f2Body": "Track outreach, contracts, and deliverables without buying extra software.",
+        "f3Title": "Draft Issue Tracker",
+        "f3Body": "Manage drafts from idea to published with custom Kanban views.",
+        "iconSlug2": "airtable",
+        "iconSlug3": "linear",
+        "iconSlug4": "figma",
+        "iconSlug5": "loom",
+        "domainText": "",
+        "pageOf": ""
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "WRITE",
+        "stepMeta": "03 / 08",
+        "iconSlug1": "claude",
+        "toolRole": "AI WRITING PARTNER",
+        "toolTagline": "FORCE MULTIPLIER",
+        "tagline": "Drafts newsletter copy, subject lines, and sponsor intros in your exact voice.",
+        "f1Title": "Voice Training Engine",
+        "f1Body": "Feed past issues so Claude mirrors your tone and cadence perfectly.",
+        "f2Title": "Subject Line Generator",
+        "f2Body": "Generate ten hook variations optimized for open rates every time.",
+        "f3Title": "Sponsor Blurb Writer",
+        "f3Body": "Write native-feeling ad copy that converts without sounding overly salesy.",
+        "iconSlug2": "notion",
+        "iconSlug3": "webflow",
+        "iconSlug4": "youtube",
+        "iconSlug5": "instagram",
+        "domainText": "",
+        "pageOf": ""
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "BUILD",
+        "stepMeta": "04 / 08",
+        "iconSlug1": "webflow",
+        "toolRole": "SITE BUILDER ENGINE",
+        "toolTagline": "CONVERSION LAYER",
+        "tagline": "Design high-converting signup and sponsor pages without writing frontend code.",
+        "f1Title": "Visual CMS Backend",
+        "f1Body": "Update past issues and sponsor logos dynamically from a clean backend.",
+        "f2Title": "Responsive Signup Forms",
+        "f2Body": "Embed custom signup flows that sync directly to your database.",
+        "f3Title": "SEO Control Panel",
+        "f3Body": "Manage meta tags, sitemaps, and redirects to own search traffic.",
+        "iconSlug2": "framer",
+        "iconSlug3": "figma",
+        "iconSlug4": "vercel",
+        "iconSlug5": "nextdotjs",
+        "domainText": "",
+        "pageOf": ""
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "MONETIZE",
+        "stepMeta": "05 / 08",
+        "iconSlug1": "stripe",
+        "toolRole": "PAID SUBSCRIPTION ENGINE",
+        "toolTagline": "REVENUE ENGINE",
+        "tagline": "Collect paid subscriptions, sponsor invoices, and tip-jar revenue globally.",
+        "f1Title": "Recurring Billing Setup",
+        "f1Body": "Charge monthly or annual subscriptions with dunning and tax handled.",
+        "f2Title": "Sponsor Invoice Links",
+        "f2Body": "Send branded sponsor payment links that close in two clicks.",
+        "f3Title": "Webhook Automation Flows",
+        "f3Body": "Trigger automations the moment a payment succeeds or fails.",
+        "iconSlug2": "supabase",
+        "iconSlug3": "postgresql",
+        "iconSlug4": "make",
+        "iconSlug5": "n8n",
+        "domainText": "",
+        "pageOf": ""
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "AUTOMATE",
+        "stepMeta": "06 / 08",
+        "iconSlug1": "make",
+        "toolRole": "STACK ORCHESTRATION LAYER",
+        "toolTagline": "AUTOMATION HUB",
+        "tagline": "Wires your entire stack together so no subscriber action is ever dropped.",
+        "f1Title": "Welcome Email Sequences",
+        "f1Body": "Trigger personalized onboarding emails when someone new subscribes.",
+        "f2Title": "Audience Tag Syncing",
+        "f2Body": "Update audience segments across tools based on behavior and clicks.",
+        "f3Title": "Sponsor Deadline Alerts",
+        "f3Body": "Notify your team when a sponsor slot deadline is approaching.",
+        "iconSlug2": "zapier",
+        "iconSlug3": "airtable",
+        "iconSlug4": "notion",
+        "iconSlug5": "github",
+        "domainText": "",
+        "pageOf": ""
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "GROW",
+        "stepMeta": "07 / 08",
+        "iconSlug1": "tiktok",
+        "toolRole": "CONTENT DISTRIBUTION HUB",
+        "toolTagline": "GROWTH ENGINE",
+        "tagline": "Repurpose newsletter highlights into short-form content that drives signups.",
+        "f1Title": "Highlight Clip Exports",
+        "f1Body": "Turn top insights into sixty-second hooks with captions and audio.",
+        "f2Title": "Bio Link Funnels",
+        "f2Body": "Link directly to landing pages optimized for mobile conversion.",
+        "f3Title": "Cross Platform Posting",
+        "f3Body": "Syndicate winning clips to Reels and Shorts without extra editing.",
+        "iconSlug2": "instagram",
+        "iconSlug3": "youtube",
+        "iconSlug4": "linkedin",
+        "iconSlug5": "loom",
+        "domainText": "",
+        "pageOf": ""
+      }
+    },
+    {
+      "layoutId": "cta-tech-stack-grid",
+      "slots": {
+        "tag": "WRAP",
+        "handle": "",
+        "eyebrow": "build once, monetize forever",
+        "ctaLine1": "STEAL THIS",
+        "ctaLine2": "NEWSLETTER STACK",
+        "ctaBody": "Deploy these six tools to write faster, automate growth, and monetize your audience on autopilot.",
+        "iconSlug1": "notion",
+        "iconSlug2": "claude",
+        "iconSlug3": "webflow",
+        "iconSlug4": "stripe",
+        "iconSlug5": "make",
+        "iconSlug6": "tiktok",
+        "btnPrimary": "",
+        "btnGhost": "",
+        "domainText": "",
+        "pageOf": ""
+      }
+    }
+  ]
+}

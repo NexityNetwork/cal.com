@@ -1,0 +1,127 @@
+{
+  "id": "lp-prompt-engineering",
+  "brand": "IndieFounders",
+  "brief": "Make money with prompt engineering. The four ways indie founders are turning prompts into recurring revenue.",
+  "theme": "linkedin-pro",
+  "slides": [
+    {
+      "layoutId": "cover-linkedin-pro",
+      "slots": {
+        "author": "",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "",
+        "accentColor": "#4f3df5",
+        "headline": "Four Ways Indie Founders Cash In on Prompts",
+        "heroSymbol": "🚀",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#10b981",
+        "body": "Prompt engineering isn’t just a skill—it’s a revenue engine. Discover how indie founders turn clever prompts into recurring cash flow."
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "",
+        "accentColor": "#4f3df5",
+        "title": "Why Prompt Engineering Pays",
+        "body": "AI models respond to well‑crafted prompts, unlocking new products and services. Indie founders tap this skill to generate steady income streams.",
+        "heroSymbol": "🚀",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#10b981",
+        "labelText": "Turn prompts into profit"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "",
+        "accentColor": "#4f3df5",
+        "title": "Build Prompt‑Powered SaaS",
+        "body": "Package a prompt‑powered SaaS, charge monthly fees, and let users solve niche problems without building their own AI models.",
+        "heroSymbol": "🚀",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#10b981",
+        "labelText": "Turn prompts into profit"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "",
+        "accentColor": "#4f3df5",
+        "title": "Sell Prompts on Marketplaces",
+        "body": "Curate high‑value prompts, list them on platforms like PromptBase, and earn royalties each time a buyer downloads your prompt.",
+        "heroSymbol": "🚀",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#10b981",
+        "labelText": "Turn prompts into profit"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "",
+        "accentColor": "#4f3df5",
+        "title": "Launch a Prompt Newsletter",
+        "body": "Deliver weekly prompt collections, tips, and use‑cases to subscribers; charge a recurring fee for exclusive access to proven prompts.",
+        "heroSymbol": "🚀",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#10b981",
+        "labelText": "Turn prompts into profit"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "",
+        "accentColor": "#4f3df5",
+        "title": "Offer Prompt Consulting",
+        "body": "Help businesses design, test, and integrate prompts into their workflows, billing clients per project or on retainer.",
+        "heroSymbol": "🚀",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#10b981",
+        "labelText": "Turn prompts into profit"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "",
+        "accentColor": "#4f3df5",
+        "title": "Automate & Scale Prompt Ops",
+        "body": "Build pipelines that auto‑generate, evaluate, and deploy prompts, turning a one‑off skill into a self‑sustaining revenue engine.",
+        "heroSymbol": "🚀",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#10b981",
+        "labelText": "Turn prompts into profit"
+      }
+    },
+    {
+      "layoutId": "cta-linkedin-pro",
+      "slots": {
+        "author": "",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "",
+        "accentColor": "#4f3df5",
+        "eyebrow": "YOUR TURN?",
+        "headline": "Start Monetizing Your Prompts Today",
+        "body": "Grab my free cheat sheet that walks you through building your first prompt‑based income stream.",
+        "buttonLabel": "",
+        "secondaryLabel": "Share",
+        "handle": ""
+      }
+    }
+  ]
+}

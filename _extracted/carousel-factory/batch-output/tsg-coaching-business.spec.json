@@ -1,0 +1,190 @@
+{
+  "id": "tsg-coaching-business",
+  "brand": "CoachStack",
+  "brief": "Coaching business stack — scheduling, video calls, intake forms, payments, client portal, notes.",
+  "theme": "tech-stack-grid",
+  "slides": [
+    {
+      "layoutId": "cover-tech-stack-grid",
+      "slots": {
+        "tag": "MY STACK",
+        "handle": "",
+        "eyebrow": "how i deliver coaching",
+        "titleLine1": "My Essential",
+        "titleAccent": "Stack That Scales",
+        "iconSlug1": "calendly",
+        "iconSlug2": "loom",
+        "iconSlug3": "airtable",
+        "iconSlug4": "stripe",
+        "iconSlug5": "nextdotjs",
+        "iconSlug6": "notion",
+        "role1": "BOOKS EVERY CALL",
+        "role2": "RECORDS HD VIDEO",
+        "role3": "MANAGES INTAKE DATA",
+        "role4": "COLLECTS CLIENT FEES",
+        "role5": "RUNS CLIENT PORTAL",
+        "role6": "TRACKS SESSION NOTES",
+        "pageOf": ""
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "SCHEDULE",
+        "stepMeta": "02 / 08",
+        "iconSlug1": "calendly",
+        "toolRole": "BOOKS EVERY CALL",
+        "toolTagline": "BOOKING ENGINE",
+        "tagline": "Eliminates back-and-forth emails by letting clients book straight into your calendar.",
+        "f1Title": "Automated email reminders",
+        "f1Body": "Sends email and SMS nudges before every session.",
+        "f2Title": "Custom buffer windows",
+        "f2Body": "Protects your energy with custom gaps between calls.",
+        "f3Title": "Embed booking anywhere",
+        "f3Body": "Drop your booking page into your portal or website.",
+        "iconSlug2": "zapier",
+        "iconSlug3": "stripe",
+        "iconSlug4": "notion",
+        "iconSlug5": "loom",
+        "domainText": "",
+        "pageOf": ""
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "VIDEO",
+        "stepMeta": "03 / 08",
+        "iconSlug1": "loom",
+        "toolRole": "RECORDS HD VIDEO",
+        "toolTagline": "VIDEO MESSAGING",
+        "tagline": "Delivers async coaching feedback and walkthroughs without live meeting fatigue.",
+        "f1Title": "Instant link sharing",
+        "f1Body": "Copy one link and send it inside your client portal.",
+        "f2Title": "Detailed viewer insights",
+        "f2Body": "See exactly who watched and where they dropped off.",
+        "f3Title": "Screen and camera",
+        "f3Body": "Record slides and your face side by side.",
+        "iconSlug2": "calendly",
+        "iconSlug3": "notion",
+        "iconSlug4": "airtable",
+        "iconSlug5": "nextdotjs",
+        "domainText": "",
+        "pageOf": ""
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "INTAKE",
+        "stepMeta": "04 / 08",
+        "iconSlug1": "airtable",
+        "toolRole": "MANAGES INTAKE DATA",
+        "toolTagline": "DATA HUB",
+        "tagline": "Turns messy spreadsheets into a beautiful relational hub for client information.",
+        "f1Title": "Branded form builder",
+        "f1Body": "Design branded intake forms that feed straight into tables.",
+        "f2Title": "Linked client records",
+        "f2Body": "Connect sessions, goals, and payments in one view.",
+        "f3Title": "Smart automation rules",
+        "f3Body": "Trigger emails and tasks when statuses change.",
+        "iconSlug2": "zapier",
+        "iconSlug3": "stripe",
+        "iconSlug4": "notion",
+        "iconSlug5": "make",
+        "domainText": "",
+        "pageOf": ""
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "PAY",
+        "stepMeta": "05 / 08",
+        "iconSlug1": "stripe",
+        "toolRole": "COLLECTS CLIENT FEES",
+        "toolTagline": "BILLING ENGINE",
+        "tagline": "Invoices and subscribes clients on autopilot while you focus on transformation.",
+        "f1Title": "Automated recurring billing",
+        "f1Body": "Charge monthly retainers without chasing invoices.",
+        "f2Title": "Instant bank payouts",
+        "f2Body": "Move revenue to your bank in under two days.",
+        "f3Title": "One-click invoice links",
+        "f3Body": "Send branded payment pages in one click.",
+        "iconSlug2": "calendly",
+        "iconSlug3": "airtable",
+        "iconSlug4": "notion",
+        "iconSlug5": "loom",
+        "domainText": "",
+        "pageOf": ""
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "PORTAL",
+        "stepMeta": "06 / 08",
+        "iconSlug1": "nextdotjs",
+        "toolRole": "RUNS CLIENT PORTAL",
+        "toolTagline": "PORTAL FRAMEWORK",
+        "tagline": "Powers a blazing-fast private dashboard where clients access everything.",
+        "f1Title": "Fast server rendering",
+        "f1Body": "Loads pages instantly for a premium user experience.",
+        "f2Title": "Secure auth ready",
+        "f2Body": "Lock content behind secure login without heavy setup.",
+        "f3Title": "Backend API routes",
+        "f3Body": "Connects backend tools through one unified codebase.",
+        "iconSlug2": "supabase",
+        "iconSlug3": "vercel",
+        "iconSlug4": "stripe",
+        "iconSlug5": "notion",
+        "domainText": "",
+        "pageOf": ""
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "NOTES",
+        "stepMeta": "07 / 08",
+        "iconSlug1": "notion",
+        "toolRole": "TRACKS SESSION NOTES",
+        "toolTagline": "WORKSPACE HUB",
+        "tagline": "Centralizes every session note, resource, and client roadmap in one place.",
+        "f1Title": "Powerful linked databases",
+        "f1Body": "Build a CRM that updates as you take notes.",
+        "f2Title": "Client shared pages",
+        "f2Body": "Give clients view-only access to their growth plans.",
+        "f3Title": "Quick capture mode",
+        "f3Body": "Jot insights during calls without switching tabs.",
+        "iconSlug2": "airtable",
+        "iconSlug3": "loom",
+        "iconSlug4": "calendly",
+        "iconSlug5": "nextdotjs",
+        "domainText": "",
+        "pageOf": ""
+      }
+    },
+    {
+      "layoutId": "cta-tech-stack-grid",
+      "slots": {
+        "tag": "WRAP",
+        "handle": "",
+        "eyebrow": "ready to streamline coaching",
+        "ctaLine1": "Build Your",
+        "ctaLine2": "Coaching Stack",
+        "ctaBody": "Swap chaos for a connected system that books, bills, and delivers your coaching on autopilot.",
+        "iconSlug1": "calendly",
+        "iconSlug2": "loom",
+        "iconSlug3": "airtable",
+        "iconSlug4": "stripe",
+        "iconSlug5": "nextdotjs",
+        "iconSlug6": "notion",
+        "btnPrimary": "",
+        "btnGhost": "",
+        "domainText": "",
+        "pageOf": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "id": "st-content-pipeline",
+  "brand": "CreatorStack",
+  "brief": "The content automation pipeline — idea capture, draft, edit, publish, repurpose, syndicate. The full tool tour.",
+  "theme": "stack-tour",
+  "slides": [
+    {
+      "layoutId": "cover-stack-tour",
+      "slots": {
+        "eyebrow": "MY 6-TOOL STACK",
+        "title": "The Content Automation Pipeline",
+        "description": "From spark to syndication: how I capture ideas, draft with AI, edit, publish, and repurpose without friction.",
+        "iconSlug1": "notion",
+        "toolRole1": "Idea & research capture",
+        "iconSlug2": "openai",
+        "toolRole2": "AI drafting assistant",
+        "iconSlug3": "grammarly",
+        "toolRole3": "Grammar & style editing",
+        "iconSlug4": "wordpress",
+        "toolRole4": "Website CMS publishing",
+        "iconSlug5": "canva",
+        "toolRole5": "Creative asset repurposing",
+        "iconSlug6": "buffer",
+        "toolRole6": "Social media syndication",
+        "ctaText": "Read the breakdown",
+        "handle": ""
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "01 / 06",
+        "handle": "",
+        "iconSlug1": "notion",
+        "toolTagline": "Capture ideas before they vanish",
+        "description": "Notion is my digital brain: quick notes, content calendars, and research databases in one collaborative workspace.",
+        "bullet1": "Web clipper saves articles instantly",
+        "bullet2": "Kanban tracks content pipeline status",
+        "bullet3": "Templates standardize briefs and outlines",
+        "accentColor": "#000000",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "openai",
+        "iconSlug3": "grammarly",
+        "iconSlug4": "wordpress",
+        "iconSlug5": "canva",
+        "iconSlug6": "buffer",
+        "ctaBottom": "Next: AI Draft"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "02 / 06",
+        "handle": "",
+        "iconSlug1": "openai",
+        "toolTagline": "Draft faster without losing voice",
+        "description": "OpenAI turns outlines into rough drafts, brainstorms headlines, and helps me beat the blank page every time.",
+        "bullet1": "Expand bullets into full paragraphs",
+        "bullet2": "Generate ten headline variants fast",
+        "bullet3": "Repurpose longform into thread hooks",
+        "accentColor": "#10A37F",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "notion",
+        "iconSlug3": "grammarly",
+        "iconSlug4": "wordpress",
+        "iconSlug5": "canva",
+        "iconSlug6": "buffer",
+        "ctaBottom": "Next: Edit"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "03 / 06",
+        "handle": "",
+        "iconSlug1": "grammarly",
+        "toolTagline": "Polish every line with confidence",
+        "description": "Grammarly catches typos, tightens wordy sentences, and ensures tone stays consistent from draft to final publish.",
+        "bullet1": "Catch grammar issues inside the doc",
+        "bullet2": "Tone detector matches brand voice",
+        "bullet3": "Plagiarism check ensures original content",
+        "accentColor": "#15C39A",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "notion",
+        "iconSlug3": "openai",
+        "iconSlug4": "wordpress",
+        "iconSlug5": "canva",
+        "iconSlug6": "buffer",
+        "ctaBottom": "Next: Publish"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "04 / 06",
+        "handle": "",
+        "iconSlug1": "wordpress",
+        "toolTagline": "Ship content to your audience",
+        "description": "WordPress powers my blog with flexible blocks, SEO plugins, and scheduling so posts go live exactly on time.",
+        "bullet1": "Block editor builds rich layouts fast",
+        "bullet2": "SEO plugins optimize before publishing",
+        "bullet3": "Schedule posts for peak traffic hours",
+        "accentColor": "#21759b",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "notion",
+        "iconSlug3": "openai",
+        "iconSlug4": "grammarly",
+        "iconSlug5": "canva",
+        "iconSlug6": "buffer",
+        "ctaBottom": "Next: Repurpose"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "05 / 06",
+        "handle": "",
+        "iconSlug1": "canva",
+        "toolTagline": "Turn text into thumb-stopping visuals",
+        "description": "Canva transforms blog posts into carousels, quote cards, and video snippets that stop the scroll on every platform.",
+        "bullet1": "Magic Resize adapts posts for every channel",
+        "bullet2": "Brand kit keeps fonts and colors locked",
+        "bullet3": "Animate static graphics into Reels clips",
+        "accentColor": "#00C4CC",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "notion",
+        "iconSlug3": "openai",
+        "iconSlug4": "grammarly",
+        "iconSlug5": "wordpress",
+        "iconSlug6": "buffer",
+        "ctaBottom": "Next: Syndicate"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "06 / 06",
+        "handle": "",
+        "iconSlug1": "buffer",
+        "toolTagline": "Distribute everywhere on autopilot",
+        "description": "Buffer queues my content across all social channels, tracks engagement, and keeps my publishing calendar full without burnout.",
+        "bullet1": "Publish automatically to five social platforms",
+        "bullet2": "Optimal timing sends when fans are active",
+        "bullet3": "Analytics reveal your best content formats",
+        "accentColor": "#168EEA",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "notion",
+        "iconSlug3": "openai",
+        "iconSlug4": "grammarly",
+        "iconSlug5": "wordpress",
+        "iconSlug6": "canva",
+        "ctaBottom": "See the stack"
+      }
+    },
+    {
+      "layoutId": "cta-stack-tour",
+      "slots": {
+        "pageOf": "",
+        "handle": "",
+        "eyebrow": "YOUR TURN",
+        "headlineLine1": "Build your pipeline",
+        "headlineLine2": "Start syndicating",
+        "iconSlug1": "notion",
+        "iconSlug2": "openai",
+        "iconSlug3": "grammarly",
+        "iconSlug4": "wordpress",
+        "iconSlug5": "canva",
+        "iconSlug6": "buffer",
+        "iconSlug7": "zapier",
+        "body": "Pick one tool for each stage, connect them with Zapier, and turn chaotic creation into a repeatable content machine.",
+        "ctaText": "Save this stack"
+      }
+    }
+  ]
+}

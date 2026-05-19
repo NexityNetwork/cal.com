@@ -1,0 +1,157 @@
+{
+  "id": "al-support-replies",
+  "brand": "Support AI",
+  "brief": "Five AI agents that handle customer support so you don't have to. Each agent's domain, handoff rules, escalation criteria.",
+  "theme": "agent-lineup",
+  "slides": [
+    {
+      "layoutId": "cover-agent-lineup",
+      "slots": {
+        "title": "Customer Support Agent",
+        "description": "AI-powered agents that resolve tickets, answer FAQs, and triage chats so you can focus on growth.",
+        "flowLabel": "WORKFLOW",
+        "iconSlug1": "gmail",
+        "iconSlug2": "slack",
+        "iconSlug3": "discord",
+        "flowCaption": "Capture → classify → resolve automatically",
+        "iconSlug4": "hubspot",
+        "iconSlug5": "zapier",
+        "iconSlug6": "make",
+        "iconSlug7": "airtable",
+        "ctaText": "Comment 'SUPPORT' for the full stack"
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "AGENT 01",
+        "title": "FAQ Bot",
+        "description": "Answers common questions from knowledge base, reduces repetitive inquiries.",
+        "iconSlug1": "gmail",
+        "iconSlug2": "slack",
+        "iconSlug3": "notion",
+        "toolRole1": "Pulls answers from Notion KB",
+        "toolRole2": "Responds via email",
+        "toolRole3": "Handles live chat",
+        "iconSlug4": "hubspot",
+        "iconSlug5": "zapier",
+        "iconSlug6": "make",
+        "iconSlug7": "airtable",
+        "handle": ""
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "AGENT 02",
+        "title": "Ticket Triage Bot",
+        "description": "Classifies incoming tickets, assigns priority and routes to correct department.",
+        "iconSlug1": "gmail",
+        "iconSlug2": "slack",
+        "iconSlug3": "zapier",
+        "toolRole1": "Detects urgency",
+        "toolRole2": "Tags tickets",
+        "toolRole3": "Routes to appropriate queue",
+        "iconSlug4": "hubspot",
+        "iconSlug5": "airtable",
+        "iconSlug6": "make",
+        "iconSlug7": "framer",
+        "handle": ""
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "AGENT 03",
+        "title": "Live Chat Handoff Bot",
+        "description": "Monitors chat sentiment, escalates to human when needed.",
+        "iconSlug1": "slack",
+        "iconSlug2": "discord",
+        "iconSlug3": "openai",
+        "toolRole1": "Analyzes sentiment",
+        "toolRole2": "Detects escalation triggers",
+        "toolRole3": "Transfers to human agent",
+        "iconSlug4": "hubspot",
+        "iconSlug5": "zapier",
+        "iconSlug6": "make",
+        "iconSlug7": "airtable",
+        "handle": ""
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "AGENT 04",
+        "title": "Sentiment Analyzer",
+        "description": "Tracks customer mood across channels, alerts team for negative spikes.",
+        "iconSlug1": "gmail",
+        "iconSlug2": "slack",
+        "iconSlug3": "perplexity",
+        "toolRole1": "Aggregates feedback",
+        "toolRole2": "Scores sentiment",
+        "toolRole3": "Triggers alerts",
+        "iconSlug4": "hubspot",
+        "iconSlug5": "zapier",
+        "iconSlug6": "make",
+        "iconSlug7": "airtable",
+        "handle": ""
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "AGENT 05",
+        "title": "Escalation Manager",
+        "description": "Escalates high‑priority issues to senior staff, ensures SLA compliance.",
+        "iconSlug1": "gmail",
+        "iconSlug2": "slack",
+        "iconSlug3": "calendly",
+        "toolRole1": "Identifies SLA breaches",
+        "toolRole2": "Notifies managers",
+        "toolRole3": "Schedules follow‑ups",
+        "iconSlug4": "hubspot",
+        "iconSlug5": "zapier",
+        "iconSlug6": "make",
+        "iconSlug7": "airtable",
+        "handle": ""
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "AGENT 06",
+        "title": "Handoff Rules",
+        "description": "Agents handoff when confidence <80% or issue flagged as urgent, ensuring seamless human takeover.",
+        "iconSlug1": "openai",
+        "iconSlug2": "claude",
+        "iconSlug3": "n8n",
+        "toolRole1": "Confidence scoring",
+        "toolRole2": "Urgency detection",
+        "toolRole3": "Automated routing",
+        "iconSlug4": "hubspot",
+        "iconSlug5": "zapier",
+        "iconSlug6": "make",
+        "iconSlug7": "airtable",
+        "handle": ""
+      }
+    },
+    {
+      "layoutId": "cta-agent-lineup",
+      "slots": {
+        "eyebrow": "FULL STACK INSIDE",
+        "ctaHeadline1": "All Support AI",
+        "ctaHeadline2": "Free Tool Bundle",
+        "freeBadge": "100% FREE",
+        "iconSlug1": "gmail",
+        "iconSlug2": "slack",
+        "iconSlug3": "discord",
+        "iconSlug4": "hubspot",
+        "iconSlug5": "zapier",
+        "iconSlug6": "make",
+        "iconSlug7": "airtable",
+        "iconSlug8": "openai",
+        "handle": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "id": "lp-ai-business-types",
+  "brand": "Alex Rivera",
+  "brief": "Six AI business types you can start in 2026 — productized service, micro-SaaS, course, newsletter, agency, info product. Pros, cons, target operator.",
+  "theme": "linkedin-pro",
+  "slides": [
+    {
+      "layoutId": "cover-linkedin-pro",
+      "slots": {
+        "author": "",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "",
+        "accentColor": "#0a66c2",
+        "headline": "6 AI Business Types to Launch in 2026",
+        "heroSymbol": "🤖",
+        "heroBg": "#0a66c2",
+        "heroBg2": "#10b981",
+        "body": "AI is reshaping every industry. Discover six proven business models you can start this year, each with clear pros, cons, and the ideal operator. Save this guide for quick reference."
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "",
+        "accentColor": "#0a66c2",
+        "title": "Productized AI Service",
+        "body": "Pros: predictable revenue, scalable delivery. Cons: limited customization, requires strong SOPs. Ideal for operators with domain expertise who love repeatable processes.",
+        "heroSymbol": "🤖",
+        "heroBg": "#0a66c2",
+        "heroBg2": "#10b981",
+        "labelText": "AI Business Insights"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "",
+        "accentColor": "#0a66c2",
+        "title": "Micro‑SaaS AI Tool",
+        "body": "Pros: low overhead, subscription cash‑flow. Cons: heavy dev maintenance, niche market risk. Best for tech‑savvy founders comfortable with coding and product iteration.",
+        "heroSymbol": "🤖",
+        "heroBg": "#0a66c2",
+        "heroBg2": "#10b981",
+        "labelText": "AI Business Insights"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "",
+        "accentColor": "#0a66c2",
+        "title": "AI Masterclass Course",
+        "body": "Pros: high margin, authority building. Cons: content upkeep, requires teaching skill. Suits educators or consultants who enjoy curriculum design and community engagement.",
+        "heroSymbol": "🤖",
+        "heroBg": "#0a66c2",
+        "heroBg2": "#10b981",
+        "labelText": "AI Business Insights"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "",
+        "accentColor": "#0a66c2",
+        "title": "AI Insights Newsletter",
+        "body": "Pros: recurring income, audience growth. Cons: constant content grind, subscriber churn. Ideal for writers who love curating trends and nurturing a niche readership.",
+        "heroSymbol": "🤖",
+        "heroBg": "#0a66c2",
+        "heroBg2": "#10b981",
+        "labelText": "AI Business Insights"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "",
+        "accentColor": "#0a66c2",
+        "title": "AI Solutions Agency",
+        "body": "Pros: high ticket projects, client relationships. Cons: scaling bottleneck, sales dependency. Perfect for experienced marketers or consultants who thrive on bespoke implementations.",
+        "heroSymbol": "🤖",
+        "heroBg": "#0a66c2",
+        "heroBg2": "#10b981",
+        "labelText": "AI Business Insights"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "",
+        "accentColor": "#0a66c2",
+        "title": "AI Info Product Pack",
+        "body": "Pros: easy to bundle, passive sales. Cons: market saturation, requires strong brand. Fits creators with a loyal following who can package expertise into ebooks or templates.",
+        "heroSymbol": "🤖",
+        "heroBg": "#0a66c2",
+        "heroBg2": "#10b981",
+        "labelText": "AI Business Insights"
+      }
+    },
+    {
+      "layoutId": "cta-linkedin-pro",
+      "slots": {
+        "author": "",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "",
+        "accentColor": "#0a66c2",
+        "eyebrow": "YOUR TURN?",
+        "headline": "Pick Your AI Venture Today",
+        "body": "Ready to launch? Choose a model that matches your strengths and start building in 2026.",
+        "buttonLabel": "",
+        "secondaryLabel": "Share",
+        "handle": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "id": "st-crm-automations",
+  "brand": "AcmeCRM",
+  "brief": "CRM automations that 3x close rates — lead scoring, sequencing, follow-up cadence, AI-drafted replies, win/loss tagging.",
+  "theme": "stack-tour",
+  "slides": [
+    {
+      "layoutId": "cover-stack-tour",
+      "slots": {
+        "eyebrow": "MY 6-TOOL STACK",
+        "title": "Boost CRM Automation & Close Rates",
+        "description": "Integrate the best tools to automate leads, nurture pipelines, and triple your close rate with AI‑driven workflows.",
+        "iconSlug1": "hubspot",
+        "iconSlug2": "salesforce",
+        "iconSlug3": "close",
+        "iconSlug4": "pipedrive",
+        "iconSlug5": "zoho",
+        "iconSlug6": "freshsales",
+        "toolRole1": "Lead scoring",
+        "toolRole2": "Sequencing",
+        "toolRole3": "Follow‑up cadence",
+        "toolRole4": "AI replies",
+        "toolRole5": "Win/loss tagging",
+        "toolRole6": "Analytics reporting",
+        "ctaText": "Read the breakdown",
+        "handle": ""
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "02 / 08",
+        "handle": "",
+        "iconSlug1": "hubspot",
+        "toolTagline": "Smart lead scoring in real time",
+        "description": "HubSpot scores leads based on behavior, ensuring sales focus on the hottest prospects.",
+        "bullet1": "Score leads instantly on website visits",
+        "bullet2": "Prioritize contacts with predictive analytics",
+        "bullet3": "Sync scores across your sales stack",
+        "accentColor": "#FF7A59",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "salesforce",
+        "iconSlug3": "zapier",
+        "iconSlug4": "slack",
+        "iconSlug5": "gmail",
+        "iconSlug6": "chatgpt",
+        "ctaBottom": "Explore integration"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "03 / 08",
+        "handle": "",
+        "iconSlug1": "salesforce",
+        "toolTagline": "Automated sales sequences",
+        "description": "Salesforce orchestrates multi‑step email and task sequences to keep deals moving.",
+        "bullet1": "Trigger follow‑ups after calls",
+        "bullet2": "Personalize steps per deal stage",
+        "bullet3": "Measure sequence performance",
+        "accentColor": "#00A1E0",
+        "stackLabel": "COMBINES WITH",
+        "iconSlug2": "hubspot",
+        "iconSlug3": "close",
+        "iconSlug4": "outlook",
+        "iconSlug5": "zapier",
+        "iconSlug6": "gpt4",
+        "ctaBottom": "See the workflow"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "04 / 08",
+        "handle": "",
+        "iconSlug1": "close",
+        "toolTagline": "Rapid follow‑up cadence",
+        "description": "Close.io automates timely follow‑ups, reducing response lag and boosting conversions.",
+        "bullet1": "Auto‑schedule reminders post‑meeting",
+        "bullet2": "Send drip emails on activity triggers",
+        "bullet3": "Log every touchpoint automatically",
+        "accentColor": "#00B3A1",
+        "stackLabel": "WORKS WITH",
+        "iconSlug2": "pipedrive",
+        "iconSlug3": "slack",
+        "iconSlug4": "gmail",
+        "iconSlug5": "zapier",
+        "iconSlug6": "claude",
+        "ctaBottom": "Try the cadence"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "05 / 08",
+        "handle": "",
+        "iconSlug1": "pipedrive",
+        "toolTagline": "AI‑crafted email replies",
+        "description": "Pipedrive’s AI drafts personalized replies, cutting response time dramatically.",
+        "bullet1": "Generate context‑aware replies",
+        "bullet2": "Edit suggestions in seconds",
+        "bullet3": "Maintain brand voice consistently",
+        "accentColor": "#E74C3C",
+        "stackLabel": "ENHANCED BY",
+        "iconSlug2": "hubspot",
+        "iconSlug3": "chatgpt",
+        "iconSlug4": "outlook",
+        "iconSlug5": "zapier",
+        "iconSlug6": "freshsales",
+        "ctaBottom": "Generate replies"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "06 / 08",
+        "handle": "",
+        "iconSlug1": "zoho",
+        "toolTagline": "Smart win/loss tagging",
+        "description": "Zoho automates win/loss classification, feeding insights back into your pipeline.",
+        "bullet1": "Auto‑tag deals on stage change",
+        "bullet2": "Analyze patterns across teams",
+        "bullet3": "Feed data to reporting dashboards",
+        "accentColor": "#0A7C64",
+        "stackLabel": "SYNCED WITH",
+        "iconSlug2": "salesforce",
+        "iconSlug3": "close",
+        "iconSlug4": "slack",
+        "iconSlug5": "gmail",
+        "iconSlug6": "claude",
+        "ctaBottom": "Start tagging"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "07 / 08",
+        "handle": "",
+        "iconSlug1": "freshsales",
+        "toolTagline": "Unified performance reporting",
+        "description": "Freshsales consolidates metrics from all tools into one actionable dashboard.",
+        "bullet1": "Track conversion funnels live",
+        "bullet2": "Compare tool‑specific KPIs",
+        "bullet3": "Export reports for stakeholders",
+        "accentColor": "#6C63FF",
+        "stackLabel": "COMBINED WITH",
+        "iconSlug2": "hubspot",
+        "iconSlug3": "pipedrive",
+        "iconSlug4": "zoho",
+        "iconSlug5": "zapier",
+        "iconSlug6": "gpt4",
+        "ctaBottom": "View the dashboard"
+      }
+    },
+    {
+      "layoutId": "cta-stack-tour",
+      "slots": {
+        "pageOf": "",
+        "handle": "",
+        "eyebrow": "YOUR TURN",
+        "headlineLine1": "Start your",
+        "headlineLine2": "automation stack",
+        "iconSlug1": "hubspot",
+        "iconSlug2": "salesforce",
+        "iconSlug3": "close",
+        "iconSlug4": "pipedrive",
+        "iconSlug5": "zoho",
+        "iconSlug6": "freshsales",
+        "iconSlug7": "zapier",
+        "body": "Pick the tools that fit your workflow and watch your close rate soar with seamless automation.",
+        "ctaText": "Build your stack"
+      }
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "id": "tsg-webinar-business",
+  "brand": "51ultron",
+  "brief": "Webinar stack for online courses — landing, registration, live tool, replay, email follow-up, payment.",
+  "theme": "tech-stack-grid",
+  "slides": [
+    {
+      "layoutId": "cover-tech-stack-grid",
+      "slots": {
+        "tag": "MY STACK",
+        "handle": "",
+        "eyebrow": "the complete webinar suite",
+        "titleLine1": "webinar stack that",
+        "titleAccent": "sells on autopilot",
+        "iconSlug1": "framer",
+        "iconSlug2": "calendly",
+        "iconSlug3": "youtube",
+        "iconSlug4": "loom",
+        "iconSlug5": "n8n",
+        "iconSlug6": "stripe",
+        "role1": "BUILDS LANDING PAGES",
+        "role2": "HANDLES REGISTRATION FLOW",
+        "role3": "HOSTS LIVE EVENTS",
+        "role4": "DELIVERS VIDEO REPLAYS",
+        "role5": "RUNS EMAIL FOLLOW-UP",
+        "role6": "COLLECTS COURSE PAYMENTS",
+        "pageOf": ""
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "LANDING",
+        "stepMeta": "02 / 08",
+        "iconSlug1": "framer",
+        "toolRole": "DESIGNS LANDING PAGES",
+        "toolTagline": "SITE BUILDER",
+        "tagline": "Framer turns ideas into high-converting landing pages without writing a single line of code.",
+        "f1Title": "Visual canvas editing",
+        "f1Body": "Drag elements onto a responsive canvas and ship pages in minutes.",
+        "f2Title": "Built-in content CMS",
+        "f2Body": "Update webinar copy, speaker bios, and agendas from one dashboard.",
+        "f3Title": "One-click global publish",
+        "f3Body": "Push your landing page live to a global CDN with one click.",
+        "iconSlug2": "figma",
+        "iconSlug3": "notion",
+        "iconSlug4": "vercel",
+        "iconSlug5": "github",
+        "domainText": "",
+        "pageOf": ""
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "REGISTER",
+        "stepMeta": "03 / 08",
+        "iconSlug1": "calendly",
+        "toolRole": "BOOKS WEBINAR ATTENDEES",
+        "toolTagline": "BOOKING ENGINE",
+        "tagline": "Calendly captures sign-ups and sends calendar invites while you focus on content.",
+        "f1Title": "Smart intake routing",
+        "f1Body": "Route free and paid guests to the correct webinar session automatically.",
+        "f2Title": "Automated reminder flow",
+        "f2Body": "Send email and SMS reminders that cut no-shows dramatically before showtime.",
+        "f3Title": "Framer embed widget",
+        "f3Body": "Embed a booking widget directly into your Framer page in seconds.",
+        "iconSlug2": "zapier",
+        "iconSlug3": "notion",
+        "iconSlug4": "loom",
+        "iconSlug5": "stripe",
+        "domainText": "",
+        "pageOf": ""
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "LIVE",
+        "stepMeta": "04 / 08",
+        "iconSlug1": "youtube",
+        "toolRole": "STREAMS LIVE EVENTS",
+        "toolTagline": "LIVE STREAM",
+        "tagline": "YouTube Live handles HD streaming, chat moderation, and unlimited audience scale for free.",
+        "f1Title": "High definition streaming",
+        "f1Body": "Stream crisp video to thousands of attendees without bandwidth worries.",
+        "f2Title": "Real-time live chat",
+        "f2Body": "Moderate questions and engage viewers using native live chat tools.",
+        "f3Title": "Auto replay archive",
+        "f3Body": "Every broadcast is saved as a replay-ready file automatically after ending.",
+        "iconSlug2": "instagram",
+        "iconSlug3": "tiktok",
+        "iconSlug4": "linkedin",
+        "iconSlug5": "loom",
+        "domainText": "",
+        "pageOf": ""
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "REPLAY",
+        "stepMeta": "05 / 08",
+        "iconSlug1": "loom",
+        "toolRole": "SHARES REPLAY VIDEO",
+        "toolTagline": "VIDEO HOST",
+        "tagline": "Loom packages your replay into a gated, trackable experience that converts lurkers into buyers.",
+        "f1Title": "Browser-based video trim",
+        "f1Body": "Trim silence, add chapter markers, and insert CTAs inside the browser.",
+        "f2Title": "Detailed viewer analytics",
+        "f2Body": "Track exactly who watched, skipped ahead, or replayed key moments.",
+        "f3Title": "Link-based access gate",
+        "f3Body": "Share password-protected links so only paying members access replays.",
+        "iconSlug2": "youtube",
+        "iconSlug3": "notion",
+        "iconSlug4": "framer",
+        "iconSlug5": "stripe",
+        "domainText": "",
+        "pageOf": ""
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "AUTOMATE",
+        "stepMeta": "06 / 08",
+        "iconSlug1": "n8n",
+        "toolRole": "RUNS AUTOMATION WORKFLOWS",
+        "toolTagline": "AUTOMATION HUB",
+        "tagline": "n8n wires your stack together so no lead falls through the cracks post-webinar.",
+        "f1Title": "Node workflow builder",
+        "f1Body": "Build complex automations by dragging nodes together without code.",
+        "f2Title": "Event-driven deep triggers",
+        "f2Body": "Trigger emails when replays are watched or payments are received.",
+        "f3Title": "Self-hosted data control",
+        "f3Body": "Host on your own server to keep all student data private.",
+        "iconSlug2": "zapier",
+        "iconSlug3": "airtable",
+        "iconSlug4": "calendly",
+        "iconSlug5": "stripe",
+        "domainText": "",
+        "pageOf": ""
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "PAYMENT",
+        "stepMeta": "07 / 08",
+        "iconSlug1": "stripe",
+        "toolRole": "PROCESSES CHECKOUT PAYMENTS",
+        "toolTagline": "PAYMENTS CORE",
+        "tagline": "Stripe collects one-time or recurring revenue and deposits it straight to your bank.",
+        "f1Title": "Multi-currency global checkout",
+        "f1Body": "Accept cards, Apple Pay, and local methods across 135 currencies.",
+        "f2Title": "Automatic branded invoicing",
+        "f2Body": "Generate tax-compliant receipts and invoices with zero manual effort.",
+        "f3Title": "Instant webhook automation",
+        "f3Body": "Unlock course access and start email sequences immediately after purchase.",
+        "iconSlug2": "n8n",
+        "iconSlug3": "zapier",
+        "iconSlug4": "airtable",
+        "iconSlug5": "webflow",
+        "domainText": "",
+        "pageOf": ""
+      }
+    },
+    {
+      "layoutId": "cta-tech-stack-grid",
+      "slots": {
+        "tag": "WRAP",
+        "handle": "",
+        "eyebrow": "ready to launch now",
+        "ctaLine1": "stack is ready",
+        "ctaLine2": "go live today",
+        "ctaBody": "Clone this exact webinar stack and start taking paid registrations in under an hour.",
+        "iconSlug1": "framer",
+        "iconSlug2": "calendly",
+        "iconSlug3": "youtube",
+        "iconSlug4": "loom",
+        "iconSlug5": "n8n",
+        "iconSlug6": "stripe",
+        "btnPrimary": "",
+        "btnGhost": "",
+        "domainText": "",
+        "pageOf": ""
+      }
+    }
+  ]
+}

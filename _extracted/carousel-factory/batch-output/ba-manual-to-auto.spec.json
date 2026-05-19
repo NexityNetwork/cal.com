@@ -1,0 +1,180 @@
+{
+  "id": "ba-manual-to-auto",
+  "brand": "AcmeCorp",
+  "brief": "Before and after automating customer onboarding end-to-end. Hours saved, error rate drop, activation lift.",
+  "theme": "before-after",
+  "slides": [
+    {
+      "layoutId": "cover-before-after",
+      "slots": {
+        "pageOf": "",
+        "handle": "",
+        "title": "Stop manual onboarding",
+        "titleAccent": "Automate Now",
+        "description": "Switch to an end‑to‑end onboarding flow that slashes work hours and eliminates mistakes.",
+        "badLabel1": "Time‑consuming paperwork",
+        "badLabel2": "High error rate",
+        "badStat1": "12 hrs/day",
+        "badStat2": "15% mistakes",
+        "goodLabel1": "Instant activation",
+        "goodLabel2": "Zero errors",
+        "goodStat1": "30% faster",
+        "goodStat2": "0% errors",
+        "iconSlug1": "brand-forms",
+        "iconSlug2": "brand-data",
+        "iconSlug3": "brand-automation",
+        "iconSlug4": "brand-analytics"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 01 / 06",
+        "handle": "",
+        "title": "Collect customer info",
+        "titleAccent": "Manually",
+        "description": "Team members type data from PDFs and emails, causing delays.",
+        "badLabel": "BEFORE",
+        "badText": "Staff copy‑paste details into the system.",
+        "badStat": "$150 per lead",
+        "iconSlug1": "brand-docs",
+        "iconSlug2": "brand-email",
+        "goodLabel": "AFTER",
+        "goodText": "Smart forms auto‑populate fields instantly.",
+        "goodStat": "$25 per lead",
+        "iconSlug3": "brand-form",
+        "iconSlug4": "brand-ai",
+        "iconSlug5": "brand-integration",
+        "ctaArrow": "See the difference →"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 02 / 06",
+        "handle": "",
+        "title": "Validate data",
+        "titleAccent": "Automatically",
+        "description": "Rules engine checks for missing or incorrect fields in real time.",
+        "badLabel": "BEFORE",
+        "badText": "Errors discovered days later during manual QA.",
+        "badStat": "15% mistake rate",
+        "iconSlug1": "brand-spreadsheet",
+        "iconSlug2": "brand-check",
+        "goodLabel": "AFTER",
+        "goodText": "Instant validation reduces rework.",
+        "goodStat": "0% errors",
+        "iconSlug3": "brand-logic",
+        "iconSlug4": "brand-api",
+        "iconSlug5": "brand-dashboard",
+        "ctaArrow": "Experience clean data →"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 03 / 06",
+        "handle": "",
+        "title": "Assign account",
+        "titleAccent": "Seamlessly",
+        "description": "Automation routes new accounts to the right team based on criteria.",
+        "badLabel": "BEFORE",
+        "badText": "Manual hand‑offs cause bottlenecks.",
+        "badStat": "8 hrs delay",
+        "iconSlug1": "brand-manual",
+        "iconSlug2": "brand-queue",
+        "goodLabel": "AFTER",
+        "goodText": "Rules‑based assignment speeds onboarding.",
+        "goodStat": "2 hrs delay",
+        "iconSlug3": "brand-automation",
+        "iconSlug4": "brand-routing",
+        "iconSlug5": "brand-team",
+        "ctaArrow": "Speed up assignments →"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 04 / 06",
+        "handle": "",
+        "title": "Send welcome",
+        "titleAccent": "Instantly",
+        "description": "Triggered emails and docs are delivered as soon as the account is set.",
+        "badLabel": "BEFORE",
+        "badText": "Welcome kits mailed weeks after sign‑up.",
+        "badStat": "5 days wait",
+        "iconSlug1": "brand-mail",
+        "iconSlug2": "brand-paper",
+        "goodLabel": "AFTER",
+        "goodText": "Digital welcome sent in seconds.",
+        "goodStat": "0 days wait",
+        "iconSlug3": "brand-email",
+        "iconSlug4": "brand-pdf",
+        "iconSlug5": "brand-notification",
+        "ctaArrow": "Deliver instantly →"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 05 / 06",
+        "handle": "",
+        "title": "Track progress",
+        "titleAccent": "Live",
+        "description": "Dashboard shows real‑time status for each new customer.",
+        "badLabel": "BEFORE",
+        "badText": "Team checks spreadsheets manually.",
+        "badStat": "3 hrs reporting",
+        "iconSlug1": "brand-spreadsheet",
+        "iconSlug2": "brand-data",
+        "goodLabel": "AFTER",
+        "goodText": "Live view cuts reporting time.",
+        "goodStat": "5 min update",
+        "iconSlug3": "brand-dashboard",
+        "iconSlug4": "brand-realtime",
+        "iconSlug5": "brand-analytics",
+        "ctaArrow": "View live data →"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 06 / 06",
+        "handle": "",
+        "title": "Activate service",
+        "titleAccent": "Automatically",
+        "description": "System provisions accounts as soon as onboarding completes.",
+        "badLabel": "BEFORE",
+        "badText": "Activation queued for manual processing.",
+        "badStat": "24 hrs lag",
+        "iconSlug1": "brand-clock",
+        "iconSlug2": "brand-manual",
+        "goodLabel": "AFTER",
+        "goodText": "Instant provisioning boosts activation.",
+        "goodStat": "30% lift",
+        "iconSlug3": "brand-provision",
+        "iconSlug4": "brand-api",
+        "iconSlug5": "brand-success",
+        "ctaArrow": "Boost activation →"
+      }
+    },
+    {
+      "layoutId": "cta-before-after",
+      "slots": {
+        "pageOf": "",
+        "handle": "",
+        "eyebrow": "MAKE THE SWITCH",
+        "headlineLine1": "Boost onboarding",
+        "headlineAccent": "Efficiency",
+        "body": "Automate the entire journey and lift activations by 30% while cutting errors to zero.",
+        "iconSlug1": "brand-automation",
+        "iconSlug2": "brand-analytics",
+        "iconSlug3": "brand-ai",
+        "iconSlug4": "brand-integration",
+        "iconSlug5": "brand-dashboard",
+        "iconSlug6": "brand-success",
+        "ctaText": "Start automating today"
+      }
+    }
+  ]
+}

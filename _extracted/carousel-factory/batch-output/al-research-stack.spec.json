@@ -1,0 +1,157 @@
+{
+  "id": "al-research-stack",
+  "brand": "AI Research",
+  "brief": "Research agents that save 10 hours per week — competitive intel, customer interviews, market research, trend monitoring, synthesis.",
+  "theme": "agent-lineup",
+  "slides": [
+    {
+      "layoutId": "cover-agent-lineup",
+      "slots": {
+        "title": "Competitive Intel Agent",
+        "description": "Automate competitor discovery, analysis, and reporting to reclaim 10 hours weekly.",
+        "flowLabel": "WORKFLOW",
+        "iconSlug1": "linkedin",
+        "iconSlug2": "apollo",
+        "iconSlug3": "openai",
+        "flowCaption": "Discover → Analyze → Export",
+        "iconSlug4": "airtable",
+        "iconSlug5": "slack",
+        "iconSlug6": "zapier",
+        "iconSlug7": "notion",
+        "ctaText": "Comment 'AGENTS' for the full stack"
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "AGENT 01",
+        "title": "Competitive Intel Agent",
+        "description": "Scans LinkedIn and company sites, extracts key moves, and logs insights for your team.",
+        "iconSlug1": "linkedin",
+        "iconSlug2": "apollo",
+        "iconSlug3": "openai",
+        "toolRole1": "Finds prospects from ICP filters",
+        "toolRole2": "Summarizes competitor activity",
+        "toolRole3": "Stores insights in database",
+        "iconSlug4": "airtable",
+        "iconSlug5": "slack",
+        "iconSlug6": "zapier",
+        "iconSlug7": "notion",
+        "handle": ""
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "AGENT 02",
+        "title": "Customer Interview Agent",
+        "description": "Generates interview scripts, schedules calls, and transcribes key feedback automatically.",
+        "iconSlug1": "gmail",
+        "iconSlug2": "calendly",
+        "iconSlug3": "openai",
+        "toolRole1": "Creates tailored interview guides",
+        "toolRole2": "Books calls with prospects",
+        "toolRole3": "Transcribes and tags responses",
+        "iconSlug4": "notion",
+        "iconSlug5": "slack",
+        "iconSlug6": "zapier",
+        "iconSlug7": "airtable",
+        "handle": ""
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "AGENT 03",
+        "title": "Market Trends Agent",
+        "description": "Monitors video and short‑form feeds, extracts emerging trends, and visualizes them for quick insight.",
+        "iconSlug1": "tiktok",
+        "iconSlug2": "youtube",
+        "iconSlug3": "openai",
+        "toolRole1": "Collects trending content",
+        "toolRole2": "Analyzes sentiment and topics",
+        "toolRole3": "Generates visual reports",
+        "iconSlug4": "figma",
+        "iconSlug5": "slack",
+        "iconSlug6": "zapier",
+        "iconSlug7": "airtable",
+        "handle": ""
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "AGENT 04",
+        "title": "Insight Synthesis Agent",
+        "description": "Aggregates data from multiple sources, creates concise briefs, and shares them with stakeholders.",
+        "iconSlug1": "notion",
+        "iconSlug2": "openai",
+        "iconSlug3": "slack",
+        "toolRole1": "Pulls data from tools",
+        "toolRole2": "Writes executive summaries",
+        "toolRole3": "Delivers via chat",
+        "iconSlug4": "github",
+        "iconSlug5": "vercel",
+        "iconSlug6": "zapier",
+        "iconSlug7": "airtable",
+        "handle": ""
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "AGENT 05",
+        "title": "Competitive Pricing Agent",
+        "description": "Tracks competitor pricing changes, alerts you instantly, and updates your pricing models.",
+        "iconSlug1": "apollo",
+        "iconSlug2": "openai",
+        "iconSlug3": "gmail",
+        "toolRole1": "Scrapes pricing pages",
+        "toolRole2": "Analyzes price shifts",
+        "toolRole3": "Notifies via email",
+        "iconSlug4": "slack",
+        "iconSlug5": "zapier",
+        "iconSlug6": "airtable",
+        "iconSlug7": "notion",
+        "handle": ""
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "AGENT 06",
+        "title": "Trend Forecast Agent",
+        "description": "Combines historical data, predicts future market directions, and suggests actionable steps.",
+        "iconSlug1": "supabase",
+        "iconSlug2": "openai",
+        "iconSlug3": "slack",
+        "toolRole1": "Fetches historical metrics",
+        "toolRole2": "Runs predictive models",
+        "toolRole3": "Shares forecasts",
+        "iconSlug4": "figma",
+        "iconSlug5": "github",
+        "iconSlug6": "zapier",
+        "iconSlug7": "airtable",
+        "handle": ""
+      }
+    },
+    {
+      "layoutId": "cta-agent-lineup",
+      "slots": {
+        "eyebrow": "FULL STACK INSIDE",
+        "ctaHeadline1": "GET THE",
+        "ctaHeadline2": "Complete AI Research Suite",
+        "freeBadge": "100% FREE",
+        "iconSlug1": "openai",
+        "iconSlug2": "claude",
+        "iconSlug3": "perplexity",
+        "iconSlug4": "zapier",
+        "iconSlug5": "n8n",
+        "iconSlug6": "airtable",
+        "iconSlug7": "notion",
+        "iconSlug8": "slack",
+        "handle": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "id": "al-sales-pipeline",
+  "brand": "YourBrand",
+  "brief": "AI sales pipeline agents — research, outreach, qualification, demo prep, follow-up, close. Roles in a one-person sales team.",
+  "theme": "agent-lineup",
+  "slides": [
+    {
+      "layoutId": "cover-agent-lineup",
+      "slots": {
+        "title": "Lead Generation Agent",
+        "description": "Automatically discover, enrich, and store high-quality leads from multiple sources.",
+        "flowLabel": "WORKFLOW",
+        "iconSlug1": "linkedin",
+        "iconSlug2": "apollo",
+        "iconSlug3": "n8n",
+        "flowCaption": "Capture → enrich → store automatically",
+        "iconSlug4": "airtable",
+        "iconSlug5": "notion",
+        "iconSlug6": "zapier",
+        "iconSlug7": "slack",
+        "ctaText": "Comment 'AGENTS' for the full stack"
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "STEP 01",
+        "title": "Research Agent",
+        "description": "Scours web and social platforms to build a list of prospects matching your ideal customer profile.",
+        "iconSlug1": "linkedin",
+        "iconSlug2": "apollo",
+        "iconSlug3": "youtube",
+        "toolRole1": "Finds prospects from ICP filters",
+        "toolRole2": "Extracts public contact data",
+        "toolRole3": "Ranks leads by engagement",
+        "iconSlug4": "gmail",
+        "iconSlug5": "slack",
+        "iconSlug6": "zapier",
+        "iconSlug7": "n8n",
+        "handle": ""
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "STEP 02",
+        "title": "Outreach Agent",
+        "description": "Crafts personalized outreach sequences and sends them via email and LinkedIn.",
+        "iconSlug1": "gmail",
+        "iconSlug2": "linkedin",
+        "iconSlug3": "zapier",
+        "toolRole1": "Generates custom email copy",
+        "toolRole2": "Schedules LinkedIn messages",
+        "toolRole3": "Tracks opens and replies",
+        "iconSlug4": "airtable",
+        "iconSlug5": "notion",
+        "iconSlug6": "hubspot",
+        "iconSlug7": "make",
+        "handle": ""
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "STEP 03",
+        "title": "Qualification Agent",
+        "description": "Analyzes responses to qualify leads and update their status automatically.",
+        "iconSlug1": "gmail",
+        "iconSlug2": "slack",
+        "iconSlug3": "zapier",
+        "toolRole1": "Classifies replies by intent",
+        "toolRole2": "Updates lead scores",
+        "toolRole3": "Triggers next-step workflows",
+        "iconSlug4": "supabase",
+        "iconSlug5": "vercel",
+        "iconSlug6": "github",
+        "iconSlug7": "figma",
+        "handle": ""
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "STEP 04",
+        "title": "Demo Prep Agent",
+        "description": "Coordinates calendar invites and prepares personalized demo decks for qualified leads.",
+        "iconSlug1": "calendly",
+        "iconSlug2": "loom",
+        "iconSlug3": "notion",
+        "toolRole1": "Books demo slots",
+        "toolRole2": "Creates demo video previews",
+        "toolRole3": "Generates deck outlines",
+        "iconSlug4": "stripe",
+        "iconSlug5": "airtable",
+        "iconSlug6": "webflow",
+        "iconSlug7": "framer",
+        "handle": ""
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "STEP 05",
+        "title": "Follow‑Up Agent",
+        "description": "Sends timely follow‑up messages and tracks engagement to keep prospects warm.",
+        "iconSlug1": "gmail",
+        "iconSlug2": "slack",
+        "iconSlug3": "zapier",
+        "toolRole1": "Schedules follow‑up emails",
+        "toolRole2": "Posts reminders in Slack",
+        "toolRole3": "Logs interaction metrics",
+        "iconSlug4": "hubspot",
+        "iconSlug5": "make",
+        "iconSlug6": "discord",
+        "iconSlug7": "linkedin",
+        "handle": ""
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "STEP 06",
+        "title": "Close Agent",
+        "description": "Generates contracts, collects signatures, and records closed deals in your CRM.",
+        "iconSlug1": "stripe",
+        "iconSlug2": "github",
+        "iconSlug3": "supabase",
+        "toolRole1": "Creates payment links",
+        "toolRole2": "Stores contract data",
+        "toolRole3": "Updates CRM records",
+        "iconSlug4": "hubspot",
+        "iconSlug5": "airtable",
+        "iconSlug6": "notion",
+        "iconSlug7": "slack",
+        "handle": ""
+      }
+    },
+    {
+      "layoutId": "cta-agent-lineup",
+      "slots": {
+        "eyebrow": "FULL STACK INSIDE",
+        "ctaHeadline1": "All AI Agents",
+        "ctaHeadline2": "All My AI Freebies",
+        "freeBadge": "100% FREE",
+        "iconSlug1": "openai",
+        "iconSlug2": "claude",
+        "iconSlug3": "perplexity",
+        "iconSlug4": "n8n",
+        "iconSlug5": "zapier",
+        "iconSlug6": "make",
+        "iconSlug7": "airtable",
+        "iconSlug8": "slack",
+        "handle": ""
+      }
+    }
+  ]
+}

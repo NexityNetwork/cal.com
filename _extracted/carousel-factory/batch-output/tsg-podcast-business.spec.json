@@ -1,0 +1,190 @@
+{
+  "id": "tsg-podcast-business",
+  "brand": "51ultron",
+  "brief": "Podcast business stack — recording, editing, hosting, transcription, distribution, sponsorship management.",
+  "theme": "tech-stack-grid",
+  "slides": [
+    {
+      "layoutId": "cover-tech-stack-grid",
+      "slots": {
+        "tag": "MY STACK",
+        "handle": "",
+        "eyebrow": "the modern podcast stack",
+        "titleLine1": "six tools that",
+        "titleAccent": "power the show",
+        "iconSlug1": "loom",
+        "iconSlug2": "figma",
+        "iconSlug3": "vercel",
+        "iconSlug4": "openai",
+        "iconSlug5": "zapier",
+        "iconSlug6": "stripe",
+        "role1": "RECORDS REMOTE EPISODES",
+        "role2": "EDITS SHOW CREATIVE",
+        "role3": "HOSTS PODCAST SITE",
+        "role4": "TRANSCRIBES SHOW AUDIO",
+        "role5": "DISTRIBUTES EVERY EPISODE",
+        "role6": "MANAGES SPONSOR DEALS",
+        "pageOf": ""
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "RECORD",
+        "stepMeta": "02 / 08",
+        "iconSlug1": "loom",
+        "toolRole": "CAPTURES REMOTE CONTENT",
+        "toolTagline": "ESSENTIAL",
+        "tagline": "Record high-fidelity video and audio for every episode and guest interview remotely.",
+        "f1Title": "Async guest invites",
+        "f1Body": "Send guests self-paced recording links that eliminate scheduling conflicts.",
+        "f2Title": "HD audio capture",
+        "f2Body": "Capture studio-quality sound directly from the browser or desktop app.",
+        "f3Title": "Instant cloud backup",
+        "f3Body": "Every take auto-saves to the cloud for immediate editing access.",
+        "iconSlug2": "notion",
+        "iconSlug3": "calendly",
+        "iconSlug4": "youtube",
+        "iconSlug5": "instagram",
+        "domainText": "",
+        "pageOf": ""
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "DESIGN",
+        "stepMeta": "03 / 08",
+        "iconSlug1": "figma",
+        "toolRole": "EDITS BRAND CREATIVE",
+        "toolTagline": "CREATIVE",
+        "tagline": "Design episode artwork, social clips, and branded show assets in one collaborative workspace.",
+        "f1Title": "Reusable component libraries",
+        "f1Body": "Build reusable cover art templates that keep every episode on brand.",
+        "f2Title": "Real-time design collab",
+        "f2Body": "Review final artwork with guests and sponsors inside shared Figma files.",
+        "f3Title": "Auto-export media assets",
+        "f3Body": "Export PNG, SVG, and MP4 variants for every distribution channel instantly.",
+        "iconSlug2": "notion",
+        "iconSlug3": "webflow",
+        "iconSlug4": "framer",
+        "iconSlug5": "tiktok",
+        "domainText": "",
+        "pageOf": ""
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "HOST",
+        "stepMeta": "04 / 08",
+        "iconSlug1": "vercel",
+        "toolRole": "HOSTS WEB PLATFORM",
+        "toolTagline": "PLATFORM",
+        "tagline": "Deploy the podcast website and RSS feed on edge infrastructure with zero latency.",
+        "f1Title": "Global edge delivery",
+        "f1Body": "Serve episodes globally in milliseconds from the nearest edge node.",
+        "f2Title": "Automated CI/CD pipeline",
+        "f2Body": "Auto-deploy new episodes the moment content updates hit the repository.",
+        "f3Title": "Dynamic serverless functions",
+        "f3Body": "Run dynamic RSS feeds and download tracking without managing servers.",
+        "iconSlug2": "nextdotjs",
+        "iconSlug3": "supabase",
+        "iconSlug4": "github",
+        "iconSlug5": "docker",
+        "domainText": "",
+        "pageOf": ""
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "TRANSCRIBE",
+        "stepMeta": "05 / 08",
+        "iconSlug1": "openai",
+        "toolRole": "TRANSCRIBES RAW AUDIO",
+        "toolTagline": "AI ENGINE",
+        "tagline": "Turn raw recordings into accurate show transcripts and searchable text automatically.",
+        "f1Title": "Whisper transcription accuracy",
+        "f1Body": "Generate precise transcripts even with multiple speakers and niche terminology.",
+        "f2Title": "Auto speaker labels",
+        "f2Body": "Auto-detect and label host and guest voices in transcript output.",
+        "f3Title": "Draft show notes",
+        "f3Body": "Instantly summarize key takeaways into draft show notes and timestamps.",
+        "iconSlug2": "notion",
+        "iconSlug3": "claude",
+        "iconSlug4": "make",
+        "iconSlug5": "airtable",
+        "domainText": "",
+        "pageOf": ""
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "DISTRIBUTE",
+        "stepMeta": "06 / 08",
+        "iconSlug1": "zapier",
+        "toolRole": "AUTOMATES SHOW REACH",
+        "toolTagline": "CONNECTOR",
+        "tagline": "Push new episodes to social platforms, email lists, and directories without manual work.",
+        "f1Title": "Multi-platform episode posts",
+        "f1Body": "Auto-publish episode links to LinkedIn, Twitter, and newsletter platforms instantly.",
+        "f2Title": "Instant RSS triggers",
+        "f2Body": "Fire workflows the moment a new episode appears in the RSS feed.",
+        "f3Title": "Directory listing sync",
+        "f3Body": "Update Apple Podcasts, Spotify, and Google Podcasts listings in one flow.",
+        "iconSlug2": "airtable",
+        "iconSlug3": "tiktok",
+        "iconSlug4": "instagram",
+        "iconSlug5": "linkedin",
+        "domainText": "",
+        "pageOf": ""
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "MONETIZE",
+        "stepMeta": "07 / 08",
+        "iconSlug1": "stripe",
+        "toolRole": "MANAGES SPONSOR REVENUE",
+        "toolTagline": "FINANCE",
+        "tagline": "Invoice sponsors, collect ad revenue, and track campaign payments in one dashboard.",
+        "f1Title": "Recurring sponsor invoices",
+        "f1Body": "Send automated monthly sponsorship invoices with custom brand styling.",
+        "f2Title": "Secure payment links",
+        "f2Body": "Generate secure checkout links for one-off ad slots or bundles.",
+        "f3Title": "Live revenue analytics",
+        "f3Body": "Track monthly recurring sponsor revenue and spot payment trends instantly.",
+        "iconSlug2": "notion",
+        "iconSlug3": "linear",
+        "iconSlug4": "calendly",
+        "iconSlug5": "airtable",
+        "domainText": "",
+        "pageOf": ""
+      }
+    },
+    {
+      "layoutId": "cta-tech-stack-grid",
+      "slots": {
+        "tag": "WRAP",
+        "handle": "",
+        "eyebrow": "ready to launch shows",
+        "ctaLine1": "start building",
+        "ctaLine2": "your show today",
+        "ctaBody": "Deploy this exact stack and ship professional episodes faster than ever.",
+        "iconSlug1": "loom",
+        "iconSlug2": "figma",
+        "iconSlug3": "vercel",
+        "iconSlug4": "openai",
+        "iconSlug5": "zapier",
+        "iconSlug6": "stripe",
+        "btnPrimary": "",
+        "btnGhost": "",
+        "domainText": "",
+        "pageOf": ""
+      }
+    }
+  ]
+}

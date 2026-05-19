@@ -1,0 +1,175 @@
+{
+  "id": "st-lead-gen-auto",
+  "brand": "TechStackCo",
+  "brief": "Lead generation that runs while you sleep — sources, enrichment, scoring, routing, follow-up, CRM sync.",
+  "theme": "stack-tour",
+  "slides": [
+    {
+      "layoutId": "cover-stack-tour",
+      "slots": {
+        "eyebrow": "MY 6-TOOL STACK",
+        "title": "Lead Generation While You Sleep",
+        "description": "Combine sourcing, enrichment, scoring, routing, follow-up, and CRM sync into an automated pipeline that works 24/7 without manual effort.",
+        "iconSlug1": "apollo",
+        "iconSlug2": "clearbit",
+        "iconSlug3": "leadfeeder",
+        "iconSlug4": "hubspot",
+        "iconSlug5": "zapier",
+        "iconSlug6": "outreach",
+        "toolRole1": "Prospecting source",
+        "toolRole2": "Data enrichment",
+        "toolRole3": "Visitor tracking",
+        "toolRole4": "CRM sync",
+        "toolRole5": "Automation routing",
+        "toolRole6": "Follow-up sequences",
+        "ctaText": "Read the breakdown",
+        "handle": ""
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "01 / 08",
+        "handle": "",
+        "iconSlug1": "apollo",
+        "toolTagline": "Find prospects wherever they live online",
+        "description": "Apollo scans social, web, and company databases to pull fresh leads into your pipeline automatically.",
+        "bullet1": "Capture new contacts from LinkedIn",
+        "bullet2": "Pull company data from Crunchbase",
+        "bullet3": "Refresh stale lists nightly",
+        "accentColor": "#3A3A3A",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "clearbit",
+        "iconSlug3": "leadfeeder",
+        "iconSlug4": "hubspot",
+        "iconSlug5": "zapier",
+        "iconSlug6": "outreach",
+        "ctaBottom": "Start sourcing now"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "02 / 08",
+        "handle": "",
+        "iconSlug1": "clearbit",
+        "toolTagline": "Enrich leads with real‑time firmographic data",
+        "description": "Clearbit adds company size, tech stack, and contact details to each prospect, boosting personalization.",
+        "bullet1": "Add employee count instantly",
+        "bullet2": "Identify tech stack per company",
+        "bullet3": "Retrieve verified email addresses",
+        "accentColor": "#FF6F61",
+        "stackLabel": "COMBINES WITH",
+        "iconSlug2": "apollo",
+        "iconSlug3": "leadfeeder",
+        "iconSlug4": "hubspot",
+        "iconSlug5": "zapier",
+        "iconSlug6": "outreach",
+        "ctaBottom": "Enrich your leads"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "03 / 08",
+        "handle": "",
+        "iconSlug1": "leadfeeder",
+        "toolTagline": "Score visitors based on engagement",
+        "description": "Leadfeeder tracks website visitors, scoring them by activity to prioritize hot prospects.",
+        "bullet1": "Score visits by page depth",
+        "bullet2": "Flag repeat visitors",
+        "bullet3": "Prioritize high‑interest companies",
+        "accentColor": "#4A90E2",
+        "stackLabel": "WORKS WITH",
+        "iconSlug2": "clearbit",
+        "iconSlug3": "apollo",
+        "iconSlug4": "hubspot",
+        "iconSlug5": "zapier",
+        "iconSlug6": "outreach",
+        "ctaBottom": "Activate scoring"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "04 / 08",
+        "handle": "",
+        "iconSlug1": "zapier",
+        "toolTagline": "Route leads to the right tools instantly",
+        "description": "Zapier connects your lead data to any app, automating handoffs without code.",
+        "bullet1": "Send new leads to Slack",
+        "bullet2": "Create tasks in Asana",
+        "bullet3": "Update Google Sheets records",
+        "accentColor": "#FF4F5A",
+        "stackLabel": "INTEGRATES WITH",
+        "iconSlug2": "clearbit",
+        "iconSlug3": "apollo",
+        "iconSlug4": "leadfeeder",
+        "iconSlug5": "hubspot",
+        "iconSlug6": "outreach",
+        "ctaBottom": "Automate routing"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "05 / 08",
+        "handle": "",
+        "iconSlug1": "outreach",
+        "toolTagline": "Automate personalized follow‑up sequences",
+        "description": "Outreach schedules multi‑channel touches, ensuring each lead gets timely engagement.",
+        "bullet1": "Trigger email drip after capture",
+        "bullet2": "Schedule calls based on score",
+        "bullet3": "Log interactions automatically",
+        "accentColor": "#00A3E0",
+        "stackLabel": "SYNCED WITH",
+        "iconSlug2": "clearbit",
+        "iconSlug3": "apollo",
+        "iconSlug4": "leadfeeder",
+        "iconSlug5": "hubspot",
+        "iconSlug6": "zapier",
+        "ctaBottom": "Boost follow‑ups"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "06 / 08",
+        "handle": "",
+        "iconSlug1": "hubspot",
+        "toolTagline": "Sync all data into your CRM hub",
+        "description": "HubSpot consolidates enriched, scored, and routed leads into a single view for sales teams.",
+        "bullet1": "Auto‑create contacts",
+        "bullet2": "Update deal stages",
+        "bullet3": "Track activity history",
+        "accentColor": "#FF7A59",
+        "stackLabel": "CENTRALIZED IN",
+        "iconSlug2": "clearbit",
+        "iconSlug3": "apollo",
+        "iconSlug4": "leadfeeder",
+        "iconSlug5": "zapier",
+        "iconSlug6": "outreach",
+        "ctaBottom": "Unify your pipeline"
+      }
+    },
+    {
+      "layoutId": "cta-stack-tour",
+      "slots": {
+        "pageOf": "",
+        "handle": "",
+        "eyebrow": "YOUR TURN",
+        "headlineLine1": "Start Automating",
+        "headlineLine2": "Lead Generation",
+        "iconSlug1": "apollo",
+        "iconSlug2": "clearbit",
+        "iconSlug3": "leadfeeder",
+        "iconSlug4": "hubspot",
+        "iconSlug5": "zapier",
+        "iconSlug6": "outreach",
+        "iconSlug7": "mailchimp",
+        "body": "Ready to let your lead pipeline run while you sleep? Connect these tools and watch your sales funnel fill itself.",
+        "ctaText": "Build your stack now"
+      }
+    }
+  ]
+}

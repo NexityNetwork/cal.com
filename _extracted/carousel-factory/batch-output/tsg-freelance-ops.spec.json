@@ -1,0 +1,190 @@
+{
+  "id": "tsg-freelance-ops",
+  "brand": "Freelance Ops",
+  "brief": "Freelancer operations stack — proposals, contracts, invoices, time tracking, project mgmt, client comms.",
+  "theme": "tech-stack-grid",
+  "slides": [
+    {
+      "layoutId": "cover-tech-stack-grid",
+      "slots": {
+        "tag": "MY STACK",
+        "handle": "",
+        "eyebrow": "the modern freelance machine",
+        "titleLine1": "Freelance ops",
+        "titleAccent": "stack that bills",
+        "iconSlug1": "notion",
+        "iconSlug2": "make",
+        "iconSlug3": "stripe",
+        "iconSlug4": "linear",
+        "iconSlug5": "calendly",
+        "iconSlug6": "loom",
+        "role1": "DRAFT PROPOSALS & DOCS",
+        "role2": "RUNS CONTRACT WORKFLOWS",
+        "role3": "HANDLES INVOICE PAYMENTS",
+        "role4": "TRACKS TIME AND TASKS",
+        "role5": "BOOKS CLIENT MEETINGS",
+        "role6": "RECORDS ASYNC UPDATES",
+        "pageOf": ""
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "PROPOSALS",
+        "stepMeta": "02 / 08",
+        "iconSlug1": "notion",
+        "toolRole": "DRAFT PROPOSALS & DOCS",
+        "toolTagline": "ESSENTIAL",
+        "tagline": "The operating system for proposals, docs, and client wikis.",
+        "f1Title": "Shared client portals",
+        "f1Body": "Invite-only pages keep briefs, revisions, and approvals transparent.",
+        "f2Title": "Reusable proposal blocks",
+        "f2Body": "Pre-structured sections cut draft time from hours to minutes.",
+        "f3Title": "Living project wiki",
+        "f3Body": "One source of truth that evolves with every engagement.",
+        "iconSlug2": "figma",
+        "iconSlug3": "claude",
+        "iconSlug4": "github",
+        "iconSlug5": "zapier",
+        "domainText": "",
+        "pageOf": ""
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "CONTRACTS",
+        "stepMeta": "03 / 08",
+        "iconSlug1": "make",
+        "toolRole": "RUNS CONTRACT WORKFLOWS",
+        "toolTagline": "AUTOMATION",
+        "tagline": "Connects apps to auto-generate contracts, tasks, and handoff alerts.",
+        "f1Title": "Auto contract drafting",
+        "f1Body": "Pulls client data into templated agreements without manual copy-paste.",
+        "f2Title": "Instant handoff alerts",
+        "f2Body": "Fires notifications when proposals convert to active projects instantly.",
+        "f3Title": "Smart data routing",
+        "f3Body": "Moves signed docs into storage and finance apps behind the scenes.",
+        "iconSlug2": "notion",
+        "iconSlug3": "airtable",
+        "iconSlug4": "zapier",
+        "iconSlug5": "github",
+        "domainText": "",
+        "pageOf": ""
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "INVOICES",
+        "stepMeta": "04 / 08",
+        "iconSlug1": "stripe",
+        "toolRole": "HANDLES INVOICE PAYMENTS",
+        "toolTagline": "FINANCE",
+        "tagline": "Invoices, subscriptions, and global payouts handled in one pipeline.",
+        "f1Title": "Automated recurring billing",
+        "f1Body": "Charges clients monthly without chasing reminders or overdue balances.",
+        "f2Title": "Global currency payouts",
+        "f2Body": "Accepts cards, ACH, and wire transfers in 135+ currencies.",
+        "f3Title": "Tax compliance built-in",
+        "f3Body": "Calculates VAT and sales tax on every invoice automatically.",
+        "iconSlug2": "notion",
+        "iconSlug3": "make",
+        "iconSlug4": "airtable",
+        "iconSlug5": "loom",
+        "domainText": "",
+        "pageOf": ""
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "PROJECT MGMT",
+        "stepMeta": "05 / 08",
+        "iconSlug1": "linear",
+        "toolRole": "TRACKS TIME AND TASKS",
+        "toolTagline": "BACKLOG",
+        "tagline": "Kanban sprints and issue tracking that keep scope creep impossible.",
+        "f1Title": "Weekly sprint cycles",
+        "f1Body": "Time-boxed iterations surface blockers before deadlines become emergencies.",
+        "f2Title": "Two-way Git sync",
+        "f2Body": "Branches and pull requests linked to tickets for full traceability.",
+        "f3Title": "Public roadmap view",
+        "f3Body": "Share live timelines with clients so expectations stay aligned always.",
+        "iconSlug2": "github",
+        "iconSlug3": "vercel",
+        "iconSlug4": "notion",
+        "iconSlug5": "figma",
+        "domainText": "",
+        "pageOf": ""
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "CLIENT COMMS",
+        "stepMeta": "06 / 08",
+        "iconSlug1": "calendly",
+        "toolRole": "BOOKS CLIENT MEETINGS",
+        "toolTagline": "SCHEDULING",
+        "tagline": "Removes email ping-pong by letting clients book straight into your calendar.",
+        "f1Title": "Smart buffer rules",
+        "f1Body": "Auto-adds prep time between calls so days never feel back-to-back.",
+        "f2Title": "Auto reminder flow",
+        "f2Body": "Sends confirmation and follow-up emails to reduce no-shows drastically.",
+        "f3Title": "Paid booking walls",
+        "f3Body": "Requires deposits upfront before discovery calls unlock on your calendar.",
+        "iconSlug2": "stripe",
+        "iconSlug3": "loom",
+        "iconSlug4": "make",
+        "iconSlug5": "airtable",
+        "domainText": "",
+        "pageOf": ""
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "UPDATES",
+        "stepMeta": "07 / 08",
+        "iconSlug1": "loom",
+        "toolRole": "RECORDS ASYNC UPDATES",
+        "toolTagline": "DELIVERABLES",
+        "tagline": "Async video updates replace standups and compress feedback loops to minutes.",
+        "f1Title": "Screen and camera",
+        "f1Body": "Records walkthroughs with your face in corner for personal context.",
+        "f2Title": "Threaded timestamp replies",
+        "f2Body": "Clients drop feedback at exact moments instead of vague email bullets.",
+        "f3Title": "Embedded CTA links",
+        "f3Body": "End every video with a direct link to approve, pay, or sign.",
+        "iconSlug2": "notion",
+        "iconSlug3": "calendly",
+        "iconSlug4": "figma",
+        "iconSlug5": "claude",
+        "domainText": "",
+        "pageOf": ""
+      }
+    },
+    {
+      "layoutId": "cta-tech-stack-grid",
+      "slots": {
+        "tag": "WRAP",
+        "handle": "",
+        "eyebrow": "the full freelance stack",
+        "ctaLine1": "Build your",
+        "ctaLine2": "ops that scale",
+        "ctaBody": "Swap chaos for a connected workflow that writes proposals, tracks time, and invoices in sync.",
+        "iconSlug1": "notion",
+        "iconSlug2": "make",
+        "iconSlug3": "stripe",
+        "iconSlug4": "linear",
+        "iconSlug5": "calendly",
+        "iconSlug6": "loom",
+        "btnPrimary": "",
+        "btnGhost": "",
+        "domainText": "",
+        "pageOf": ""
+      }
+    }
+  ]
+}

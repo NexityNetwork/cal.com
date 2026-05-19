@@ -1,0 +1,180 @@
+{
+  "id": "ba-slack-automations",
+  "brand": "SlackOps",
+  "brief": "Before and after layering Slack automations onto our ops. Response time, missed alerts, async coordination.",
+  "theme": "before-after",
+  "slides": [
+    {
+      "layoutId": "cover-before-after",
+      "slots": {
+        "pageOf": "",
+        "handle": "",
+        "title": "Stop Slow Ops",
+        "titleAccent": "with Slack",
+        "description": "Manual alerts and endless threads slow your team. Automate to cut response time and never miss a critical signal.",
+        "badLabel1": "Delayed Responses",
+        "badLabel2": "Missed Alerts",
+        "badStat1": "45 min avg response",
+        "badStat2": "12% missed alerts",
+        "goodLabel1": "Instant Replies",
+        "goodLabel2": "Zero Misses",
+        "goodStat1": "5 min avg response",
+        "goodStat2": "0% missed alerts",
+        "iconSlug1": "icon-slack",
+        "iconSlug2": "icon-zapier",
+        "iconSlug3": "icon-trello",
+        "iconSlug4": "icon-github"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 01 / 06",
+        "handle": "",
+        "title": "Automate Triage",
+        "titleAccent": "in Slack",
+        "description": "Route incoming alerts to the right channel instantly, eliminating manual sorting.",
+        "badLabel": "BEFORE",
+        "badText": "Alerts land in a shared inbox, causing confusion and delay.",
+        "badStat": "30 min avg sorting",
+        "iconSlug1": "icon-email",
+        "iconSlug2": "icon-inbox",
+        "goodLabel": "AFTER",
+        "goodText": "Bots post alerts to dedicated channels, assigning owners instantly.",
+        "goodStat": "2 min avg sorting",
+        "iconSlug3": "icon-bot",
+        "iconSlug4": "icon-channel",
+        "iconSlug5": "icon-assign",
+        "ctaArrow": "See the flow →"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 02 / 06",
+        "handle": "",
+        "title": "Cut Response",
+        "titleAccent": "Time",
+        "description": "Set up auto‑reminders so no ticket sits idle beyond SLA.",
+        "badLabel": "BEFORE",
+        "badText": "Team members forget to reply, leading to long waits.",
+        "badStat": "45 min avg reply",
+        "iconSlug1": "icon-clock",
+        "iconSlug2": "icon-manual",
+        "goodLabel": "AFTER",
+        "goodText": "Slack reminders ping owners, enforcing SLA compliance.",
+        "goodStat": "5 min avg reply",
+        "iconSlug3": "icon-reminder",
+        "iconSlug4": "icon-check",
+        "iconSlug5": "icon-sla",
+        "ctaArrow": "Speed it up →"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 03 / 06",
+        "handle": "",
+        "title": "Stop Missed",
+        "titleAccent": "Alerts",
+        "description": "Use escalation paths that auto‑escalate if no acknowledgment.",
+        "badLabel": "BEFORE",
+        "badText": "Unacknowledged alerts fade in busy channels.",
+        "badStat": "12% missed",
+        "iconSlug1": "icon-bell",
+        "iconSlug2": "icon-muted",
+        "goodLabel": "AFTER",
+        "goodText": "Escalation bots repost alerts until someone acknowledges.",
+        "goodStat": "0% missed",
+        "iconSlug3": "icon-escalate",
+        "iconSlug4": "icon-ack",
+        "iconSlug5": "icon-verified",
+        "ctaArrow": "Never miss →"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 04 / 06",
+        "handle": "",
+        "title": "Streamline Async",
+        "titleAccent": "Work",
+        "description": "Create threaded summaries that capture decisions for later reference.",
+        "badLabel": "BEFORE",
+        "badText": "Disjointed messages make it hard to track progress.",
+        "badStat": "3+ follow‑ups",
+        "iconSlug1": "icon-chat",
+        "iconSlug2": "icon-scatter",
+        "goodLabel": "AFTER",
+        "goodText": "Bots generate concise recap posts after each incident.",
+        "goodStat": "1 recap only",
+        "iconSlug3": "icon-recap",
+        "iconSlug4": "icon-brief",
+        "iconSlug5": "icon-doc",
+        "ctaArrow": "Stay aligned →"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 05 / 06",
+        "handle": "",
+        "title": "Link Your",
+        "titleAccent": "Tools",
+        "description": "Connect Jira, GitHub, and monitoring services directly into Slack.",
+        "badLabel": "BEFORE",
+        "badText": "Switching apps wastes time and causes context loss.",
+        "badStat": "5 app switches",
+        "iconSlug1": "icon-jira",
+        "iconSlug2": "icon-github",
+        "goodLabel": "AFTER",
+        "goodText": "Unified bots surface updates where work happens.",
+        "goodStat": "0 switches",
+        "iconSlug3": "icon-unify",
+        "iconSlug4": "icon-sync",
+        "iconSlug5": "icon-hub",
+        "ctaArrow": "Unify now →"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 06 / 06",
+        "handle": "",
+        "title": "Track Impact",
+        "titleAccent": "Metrics",
+        "description": "Dashboards pull Slack automation data for real‑time KPI monitoring.",
+        "badLabel": "BEFORE",
+        "badText": "Manual reports delay insights and actions.",
+        "badStat": "Weekly reports",
+        "iconSlug1": "icon-report",
+        "iconSlug2": "icon-manual",
+        "goodLabel": "AFTER",
+        "goodText": "Live charts show response time drops instantly.",
+        "goodStat": "Real‑time",
+        "iconSlug3": "icon-chart",
+        "iconSlug4": "icon-live",
+        "iconSlug5": "icon-insight",
+        "ctaArrow": "See results →"
+      }
+    },
+    {
+      "layoutId": "cta-before-after",
+      "slots": {
+        "pageOf": "",
+        "handle": "",
+        "eyebrow": "MAKE THE SWITCH",
+        "headlineLine1": "Boost Ops",
+        "headlineAccent": "with Slack",
+        "body": "Deploy automation bots today and slash response times, eliminate missed alerts, and keep your team in sync—effortlessly.",
+        "iconSlug1": "icon-automation",
+        "iconSlug2": "icon-speed",
+        "iconSlug3": "icon-reliability",
+        "iconSlug4": "icon-collaboration",
+        "iconSlug5": "icon-insight",
+        "iconSlug6": "icon-growth",
+        "ctaText": "Start Automating Now"
+      }
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "id": "al-content-agent",
+  "brand": "YourBrand",
+  "brief": "Content agents that work while you sleep — ideation, draft, edit, schedule, repurpose, analytics. Each agent's role in the team.",
+  "theme": "agent-lineup",
+  "slides": [
+    {
+      "layoutId": "cover-agent-lineup",
+      "slots": {
+        "title": "Content Creation Agent",
+        "description": "Automates ideation, drafting, editing, scheduling, repurposing, and analytics while you sleep.",
+        "flowLabel": "WORKFLOW",
+        "iconSlug1": "openai",
+        "iconSlug2": "notion",
+        "iconSlug3": "slack",
+        "flowCaption": "Brainstorm → write → polish automatically",
+        "iconSlug4": "zapier",
+        "iconSlug5": "make",
+        "iconSlug6": "airtable",
+        "iconSlug7": "github",
+        "ctaText": "Comment 'AGENTS' for full stack"
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "AGENT 01",
+        "title": "Ideation Agent",
+        "description": "Scours trends and audience data to generate fresh content ideas in seconds.",
+        "iconSlug1": "perplexity",
+        "iconSlug2": "tiktok",
+        "iconSlug3": "linkedin",
+        "toolRole1": "Finds trends from social",
+        "toolRole2": "Analyzes audience signals",
+        "toolRole3": "Generates topic list",
+        "iconSlug4": "notion",
+        "iconSlug5": "slack",
+        "iconSlug6": "zapier",
+        "iconSlug7": "make",
+        "handle": ""
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "AGENT 02",
+        "title": "Drafting Agent",
+        "description": "Transforms outlines into polished drafts using AI language models.",
+        "iconSlug1": "openai",
+        "iconSlug2": "claude",
+        "iconSlug3": "gmail",
+        "toolRole1": "Writes first draft",
+        "toolRole2": "Incorporates brand voice",
+        "toolRole3": "Formats for platforms",
+        "iconSlug4": "notion",
+        "iconSlug5": "airtable",
+        "iconSlug6": "slack",
+        "iconSlug7": "zapier",
+        "handle": ""
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "AGENT 03",
+        "title": "Editing Agent",
+        "description": "Proofreads, optimizes SEO, and adapts tone to match target audience.",
+        "iconSlug1": "openai",
+        "iconSlug2": "perplexity",
+        "iconSlug3": "slack",
+        "toolRole1": "Checks grammar",
+        "toolRole2": "Improves readability",
+        "toolRole3": "Adds SEO keywords",
+        "iconSlug4": "github",
+        "iconSlug5": "zapier",
+        "iconSlug6": "make",
+        "iconSlug7": "airtable",
+        "handle": ""
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "AGENT 04",
+        "title": "Scheduling Agent",
+        "description": "Queues content across channels at optimal times, syncing calendars automatically.",
+        "iconSlug1": "calendly",
+        "iconSlug2": "hubspot",
+        "iconSlug3": "zapier",
+        "toolRole1": "Selects best posting time",
+        "toolRole2": "Publishes to platforms",
+        "toolRole3": "Updates content calendar",
+        "iconSlug4": "slack",
+        "iconSlug5": "gmail",
+        "iconSlug6": "airtable",
+        "iconSlug7": "github",
+        "handle": ""
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "AGENT 05",
+        "title": "Repurposing Agent",
+        "description": "Converts long-form posts into reels, threads, and newsletters for multi-channel reach.",
+        "iconSlug1": "tiktok",
+        "iconSlug2": "youtube",
+        "iconSlug3": "instagram",
+        "toolRole1": "Creates short video clips",
+        "toolRole2": "Generates thread drafts",
+        "toolRole3": "Builds email newsletters",
+        "iconSlug4": "notion",
+        "iconSlug5": "slack",
+        "iconSlug6": "zapier",
+        "iconSlug7": "make",
+        "handle": ""
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "AGENT 06",
+        "title": "Analytics Agent",
+        "description": "Tracks performance metrics, visualizes data, and suggests improvements for future content.",
+        "iconSlug1": "hubspot",
+        "iconSlug2": "apollo",
+        "iconSlug3": "figma",
+        "toolRole1": "Collects engagement data",
+        "toolRole2": "Creates dashboards",
+        "toolRole3": "Recommends next topics",
+        "iconSlug4": "slack",
+        "iconSlug5": "gmail",
+        "iconSlug6": "airtable",
+        "iconSlug7": "zapier",
+        "handle": ""
+      }
+    },
+    {
+      "layoutId": "cta-agent-lineup",
+      "slots": {
+        "eyebrow": "FULL STACK INSIDE",
+        "ctaHeadline1": "Get All Agents",
+        "ctaHeadline2": "Free Content Suite",
+        "freeBadge": "100% FREE",
+        "iconSlug1": "openai",
+        "iconSlug2": "claude",
+        "iconSlug3": "notion",
+        "iconSlug4": "airtable",
+        "iconSlug5": "zapier",
+        "iconSlug6": "make",
+        "iconSlug7": "slack",
+        "iconSlug8": "github",
+        "handle": ""
+      }
+    }
+  ]
+}

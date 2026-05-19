@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/la-claude-code-skills/slide-01.png",
-      "bytes": 64535,
+      "bytes": 63532,
       "qa": {
         "verdict": "pass",
         "checks": {

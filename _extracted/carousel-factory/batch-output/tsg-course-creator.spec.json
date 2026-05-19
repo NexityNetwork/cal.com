@@ -1,0 +1,190 @@
+{
+  "id": "tsg-course-creator",
+  "brand": "51ultron",
+  "brief": "Course creator complete stack 2026 — course platform, community, payments, email, video hosting, support.",
+  "theme": "tech-stack-grid",
+  "slides": [
+    {
+      "layoutId": "cover-tech-stack-grid",
+      "slots": {
+        "tag": "MY STACK",
+        "handle": "",
+        "eyebrow": "modern creator stack",
+        "titleLine1": "the complete",
+        "titleAccent": "tools that ship",
+        "iconSlug1": "nextdotjs",
+        "iconSlug2": "notion",
+        "iconSlug3": "stripe",
+        "iconSlug4": "loom",
+        "iconSlug5": "n8n",
+        "iconSlug6": "github",
+        "role1": "HOSTS COURSE PLATFORM",
+        "role2": "CURATES CURRICULUM CONTENT",
+        "role3": "PROCESSES ALL PAYMENTS",
+        "role4": "HOSTS VIDEO CONTENT",
+        "role5": "RUNS EMAIL AUTOMATION",
+        "role6": "BUILDS COMMUNITY HUB",
+        "pageOf": ""
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "PLATFORM",
+        "stepMeta": "02 / 08",
+        "iconSlug1": "nextdotjs",
+        "toolRole": "FULLSTACK COURSE PLATFORM",
+        "toolTagline": "CORE PLATFORM",
+        "tagline": "Server-rendered course portal with auth, progress tracking, and dynamic lesson routing.",
+        "f1Title": "App Router Architecture",
+        "f1Body": "File-based routing scales to hundreds of lessons without performance degradation.",
+        "f2Title": "Edge Delivery Network",
+        "f2Body": "Vercel's global CDN serves video and markup from the nearest node instantly.",
+        "f3Title": "React Server Components",
+        "f3Body": "Stream interactive quizzes and comments while keeping bundles lightweight.",
+        "iconSlug2": "vercel",
+        "iconSlug3": "react",
+        "iconSlug4": "typescript",
+        "iconSlug5": "supabase",
+        "domainText": "",
+        "pageOf": ""
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "COMMUNITY",
+        "stepMeta": "03 / 08",
+        "iconSlug1": "github",
+        "toolRole": "OPEN CREATOR COMMUNITY",
+        "toolTagline": "COMMUNITY HUB",
+        "tagline": "Discussions, issues and wikis keep students collaborating in the open.",
+        "f1Title": "Threaded Discussions Board",
+        "f1Body": "Q&A lives next to your codebase for searchable context forever.",
+        "f2Title": "Wiki Knowledge Base",
+        "f2Body": "Markdown docs auto-sync with every curriculum update you publish.",
+        "f3Title": "GitHub Actions Automation",
+        "f3Body": "CI triggers onboarding emails and repo invitations on enrollment.",
+        "iconSlug2": "notion",
+        "iconSlug3": "linear",
+        "iconSlug4": "loom",
+        "iconSlug5": "calendly",
+        "domainText": "",
+        "pageOf": ""
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "PAYMENTS",
+        "stepMeta": "04 / 08",
+        "iconSlug1": "stripe",
+        "toolRole": "PAYMENTS & BILLING",
+        "toolTagline": "REVENUE STACK",
+        "tagline": "Subscriptions, one-time purchases and invoicing with webhook-driven access control.",
+        "f1Title": "Hosted Checkout Pages",
+        "f1Body": "Payment pages convert at industry-leading rates across every currency.",
+        "f2Title": "Instant Webhook Automation",
+        "f2Body": "Provision course access the moment any payment clears successfully.",
+        "f3Title": "Automatic Tax Collection",
+        "f3Body": "Sales-tax calculation removes liability from your monthly ledger.",
+        "iconSlug2": "n8n",
+        "iconSlug3": "supabase",
+        "iconSlug4": "vercel",
+        "iconSlug5": "notion",
+        "domainText": "",
+        "pageOf": ""
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "EMAIL",
+        "stepMeta": "05 / 08",
+        "iconSlug1": "n8n",
+        "toolRole": "MARKETING EMAIL AUTOMATION",
+        "toolTagline": "OUTREACH ENGINE",
+        "tagline": "Visual workflow builder triggers drip sequences, alerts and student re-engagement campaigns.",
+        "f1Title": "Visual Workflow Builder",
+        "f1Body": "Drag-and-drop nodes replace brittle scripts for complex campaign logic.",
+        "f2Title": "Webhook Event Triggers",
+        "f2Body": "React to Stripe events, form fills or course milestones instantly.",
+        "f3Title": "Conditional Branching Logic",
+        "f3Body": "Branch journeys based on tags, progress or purchase history.",
+        "iconSlug2": "stripe",
+        "iconSlug3": "notion",
+        "iconSlug4": "loom",
+        "iconSlug5": "calendly",
+        "domainText": "",
+        "pageOf": ""
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "VIDEO",
+        "stepMeta": "06 / 08",
+        "iconSlug1": "loom",
+        "toolRole": "COURSE VIDEO HOSTING",
+        "toolTagline": "MEDIA CORE",
+        "tagline": "Async video lessons with transcriptions, chapters and built-in viewer analytics.",
+        "f1Title": "Instant Screen Recording",
+        "f1Body": "Capture screen and camera without exporting or upload delays.",
+        "f2Title": "AI Transcription Search",
+        "f2Body": "Searchable captions improve accessibility and lesson discoverability.",
+        "f3Title": "Seamless Lesson Embeds",
+        "f3Body": "Private links drop into Next.js lessons and Notion hubs.",
+        "iconSlug2": "nextdotjs",
+        "iconSlug3": "notion",
+        "iconSlug4": "youtube",
+        "iconSlug5": "calendly",
+        "domainText": "",
+        "pageOf": ""
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "SUPPORT",
+        "stepMeta": "07 / 08",
+        "iconSlug1": "notion",
+        "toolRole": "SUPPORT DOCUMENTATION HUB",
+        "toolTagline": "HELP CENTER",
+        "tagline": "Living documentation, FAQ databases and student portals in one unified workspace.",
+        "f1Title": "Organized Knowledge Base",
+        "f1Body": "Nested pages organize troubleshooting guides and curriculum changelogs.",
+        "f2Title": "Unified Student Portal",
+        "f2Body": "Databases track tickets, feedback and feature requests from enrollment.",
+        "f3Title": "Intelligent AI Search",
+        "f3Body": "Notion Q&A surfaces answers across thousands of support docs.",
+        "iconSlug2": "github",
+        "iconSlug3": "linear",
+        "iconSlug4": "loom",
+        "iconSlug5": "calendly",
+        "domainText": "",
+        "pageOf": ""
+      }
+    },
+    {
+      "layoutId": "cta-tech-stack-grid",
+      "slots": {
+        "tag": "WRAP",
+        "handle": "",
+        "eyebrow": "deploy your stack",
+        "ctaLine1": "start building",
+        "ctaLine2": "your empire",
+        "ctaBody": "Ship your course platform in days, not months. Clone the template and go live.",
+        "iconSlug1": "nextdotjs",
+        "iconSlug2": "notion",
+        "iconSlug3": "stripe",
+        "iconSlug4": "loom",
+        "iconSlug5": "n8n",
+        "iconSlug6": "github",
+        "btnPrimary": "",
+        "btnGhost": "",
+        "domainText": "",
+        "pageOf": ""
+      }
+    }
+  ]
+}

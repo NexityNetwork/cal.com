@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/la-llm-eval-tools/slide-01.png",
-      "bytes": 57896,
+      "bytes": 56899,
       "qa": {
         "verdict": "pass",
         "checks": {

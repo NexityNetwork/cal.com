@@ -1,0 +1,127 @@
+{
+  "id": "lp-newsletter-rev",
+  "brand": "FuturePulse",
+  "brief": "Newsletter revenue with AI in 2026. Six monetization layers — sponsors, classifieds, paid tier, product, affiliate, services.",
+  "theme": "linkedin-pro",
+  "slides": [
+    {
+      "layoutId": "cover-linkedin-pro",
+      "slots": {
+        "author": "",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "",
+        "accentColor": "#0a66c2",
+        "headline": "AI Transforms Newsletter Monetization in 2026",
+        "heroSymbol": "AI",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#e85d04",
+        "body": "Artificial intelligence unlocks new revenue streams for newsletters. Learn the six layers that can turn your content into a profit engine."
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "",
+        "accentColor": "#0a66c2",
+        "title": "Premium Sponsors Boost Income",
+        "body": "AI matches your audience with high‑value sponsors, delivering targeted ads that resonate. Brands pay premium rates for data‑driven placements.",
+        "heroSymbol": "AI",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#e85d04",
+        "labelText": "Sponsor Smartly"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "",
+        "accentColor": "#0a66c2",
+        "title": "AI‑Powered Classifieds",
+        "body": "Leverage AI to curate relevant classifieds, turning reader needs into marketplace opportunities. Transaction fees add a steady income slice.",
+        "heroSymbol": "AI",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#e85d04",
+        "labelText": "Classifieds That Convert"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "",
+        "accentColor": "#0a66c2",
+        "title": "Exclusive Paid Tier",
+        "body": "Offer AI‑personalized premium content behind a subscription wall. Tiered pricing maximizes willingness to pay across segments.",
+        "heroSymbol": "AI",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#e85d04",
+        "labelText": "Upgrade for More"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "",
+        "accentColor": "#0a66c2",
+        "title": "AI‑Driven Product Launches",
+        "body": "Turn insights into products—tools, templates, or data packs—sold directly to your readers. AI ensures market fit and pricing.",
+        "heroSymbol": "AI",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#e85d04",
+        "labelText": "Sell Your Expertise"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "",
+        "accentColor": "#0a66c2",
+        "title": "Affiliate Partnerships Amplified",
+        "body": "AI recommends affiliate offers aligned with reader interests, boosting click‑through rates and commissions without compromising trust.",
+        "heroSymbol": "AI",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#e85d04",
+        "labelText": "Earn With Relevance"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "",
+        "accentColor": "#0a66c2",
+        "title": "Consulting & Services",
+        "body": "Monetize your AI know‑how by offering strategy sessions, custom models, and implementation services to newsletter brands.",
+        "heroSymbol": "AI",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#e85d04",
+        "labelText": "Service Your Audience"
+      }
+    },
+    {
+      "layoutId": "cta-linkedin-pro",
+      "slots": {
+        "author": "",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "",
+        "accentColor": "#0a66c2",
+        "eyebrow": "YOUR TURN?",
+        "headline": "Start Scaling Your Newsletter Revenue",
+        "body": "Deploy AI across these six layers and watch your earnings soar. Ready to transform?",
+        "buttonLabel": "",
+        "secondaryLabel": "Share",
+        "handle": ""
+      }
+    }
+  ]
+}

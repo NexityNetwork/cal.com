@@ -1,0 +1,175 @@
+{
+  "id": "st-zapier-vs-make",
+  "brand": "Automation Stack",
+  "brief": "Zapier vs Make.com. When to use which. Side-by-side on pricing, complexity, AI integration, ops cost at scale.",
+  "theme": "stack-tour",
+  "slides": [
+    {
+      "layoutId": "cover-stack-tour",
+      "slots": {
+        "eyebrow": "AUTOMATION SHOWDOWN",
+        "title": "Zapier vs Make.com: Choose Wisely",
+        "description": "Side-by-side comparison of the two leading automation platforms for pricing, complexity, and scale.",
+        "iconSlug1": "zapier",
+        "toolRole1": "No-code workflow automation",
+        "iconSlug2": "make",
+        "toolRole2": "Visual integration builder",
+        "iconSlug3": "airtable",
+        "toolRole3": "Smart database backend",
+        "iconSlug4": "slack",
+        "toolRole4": "Team messaging hub",
+        "iconSlug5": "openai",
+        "toolRole5": "AI content enrichment",
+        "iconSlug6": "google-sheets",
+        "toolRole6": "Data staging layer",
+        "ctaText": "See the breakdown",
+        "handle": ""
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "02 / 08",
+        "handle": "",
+        "iconSlug1": "zapier",
+        "toolTagline": "Premium pricing for simplicity",
+        "description": "Zapier charges by task volume, making light automation cheap but scaling expensive quickly.",
+        "bullet1": "Free tier includes 100 tasks",
+        "bullet2": "Starter plans cap at 750 tasks",
+        "bullet3": "Enterprise requires custom pricing quotes",
+        "accentColor": "#FF4A00",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "gmail",
+        "iconSlug3": "google-sheets",
+        "iconSlug4": "slack",
+        "iconSlug5": "hubspot",
+        "iconSlug6": "mailchimp",
+        "ctaBottom": "Compare to Make"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "03 / 08",
+        "handle": "",
+        "iconSlug1": "make",
+        "toolTagline": "Operations-first pricing saves money",
+        "description": "Make bills by operations, not individual steps, often cutting costs by half at scale.",
+        "bullet1": "Free tier allows 1,000 ops",
+        "bullet2": "Core plans start much lower",
+        "bullet3": "Complex flows cost less here",
+        "accentColor": "#652BFC",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "airtable",
+        "iconSlug3": "notion",
+        "iconSlug4": "slack",
+        "iconSlug5": "google-sheets",
+        "iconSlug6": "github",
+        "ctaBottom": "Check complexity next"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "04 / 08",
+        "handle": "",
+        "iconSlug1": "zapier",
+        "toolTagline": "Simplest path to automation",
+        "description": "Zapier hides complexity behind linear zaps, ideal for marketers and non-technical founders.",
+        "bullet1": "Linear trigger-action logic only",
+        "bullet2": "Thousands of pre-built templates",
+        "bullet3": "Zero code setup required",
+        "accentColor": "#FF4A00",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "calendly",
+        "iconSlug3": "typeform",
+        "iconSlug4": "mailchimp",
+        "iconSlug5": "gmail",
+        "iconSlug6": "trello",
+        "ctaBottom": "Explore Make power"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "05 / 08",
+        "handle": "",
+        "iconSlug1": "make",
+        "toolTagline": "Advanced visual logic builder",
+        "description": "Make exposes iterators, filters, and routers in a canvas that rewards technical thinkers.",
+        "bullet1": "Visual drag-and-drop canvas builder",
+        "bullet2": "Branching routers with error handlers",
+        "bullet3": "Granular error handling paths",
+        "accentColor": "#652BFC",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "postgresql",
+        "iconSlug3": "github",
+        "iconSlug4": "notion",
+        "iconSlug5": "airtable",
+        "iconSlug6": "slack",
+        "ctaBottom": "Review AI features"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "06 / 08",
+        "handle": "",
+        "iconSlug1": "zapier",
+        "toolTagline": "Native AI zap builder",
+        "description": "Zapier Central and co-pilot let you describe automations in plain English to start fast.",
+        "bullet1": "Describe zaps in natural language",
+        "bullet2": "Built-in OpenAI chatbot blocks",
+        "bullet3": "Central autonomous agent platform",
+        "accentColor": "#FF4A00",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "openai",
+        "iconSlug3": "slack",
+        "iconSlug4": "gmail",
+        "iconSlug5": "notion",
+        "iconSlug6": "hubspot",
+        "ctaBottom": "Scale your stack"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "07 / 08",
+        "handle": "",
+        "iconSlug1": "make",
+        "toolTagline": "Cheaper at high volume",
+        "description": "Make's operation-based billing and visual debugging reduce hidden engineering hours as you grow.",
+        "bullet1": "One operation covers many steps",
+        "bullet2": "Real-time execution log viewer",
+        "bullet3": "Lower per-run cost curve",
+        "accentColor": "#652BFC",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "postgresql",
+        "iconSlug3": "airtable",
+        "iconSlug4": "slack",
+        "iconSlug5": "google-sheets",
+        "iconSlug6": "hubspot",
+        "ctaBottom": "Pick your winner"
+      }
+    },
+    {
+      "layoutId": "cta-stack-tour",
+      "slots": {
+        "pageOf": "",
+        "handle": "",
+        "eyebrow": "YOUR TURN",
+        "headlineLine1": "Pick your stack",
+        "headlineLine2": "Start building now",
+        "iconSlug1": "zapier",
+        "iconSlug2": "make",
+        "iconSlug3": "openai",
+        "iconSlug4": "slack",
+        "iconSlug5": "airtable",
+        "iconSlug6": "google-sheets",
+        "iconSlug7": "notion",
+        "body": "Choose Zapier for speed and Make for power. Both integrate with the modern stack.",
+        "ctaText": "Save this guide"
+      }
+    }
+  ]
+}

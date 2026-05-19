@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/tg-shell-ide-setup/slide-01.png",
-      "bytes": 165592,
+      "bytes": 162731,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -19,7 +19,7 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/tg-shell-ide-setup/slide-02.png",
-      "bytes": 132918,
+      "bytes": 149758,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -35,7 +35,7 @@
     {
       "index": 2,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/tg-shell-ide-setup/slide-03.png",
-      "bytes": 144557,
+      "bytes": 161194,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -51,7 +51,7 @@
     {
       "index": 3,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/tg-shell-ide-setup/slide-04.png",
-      "bytes": 137950,
+      "bytes": 153379,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -67,7 +67,7 @@
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/tg-shell-ide-setup/slide-05.png",
-      "bytes": 132906,
+      "bytes": 149158,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -83,7 +83,7 @@
     {
       "index": 5,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/tg-shell-ide-setup/slide-06.png",
-      "bytes": 137018,
+      "bytes": 152258,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -99,7 +99,7 @@
     {
       "index": 6,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/tg-shell-ide-setup/slide-07.png",
-      "bytes": 126727,
+      "bytes": 143633,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -115,7 +115,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/tg-shell-ide-setup/slide-08.png",
-      "bytes": 262020,
+      "bytes": 261359,
       "qa": {
         "verdict": "pass",
         "checks": {

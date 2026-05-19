@@ -1,0 +1,190 @@
+{
+  "id": "tsg-cold-outreach",
+  "brand": "51ultron",
+  "brief": "Cold outreach tech stack — lead source, enrichment, sending tool, warmup, reply detection, CRM sync.",
+  "theme": "tech-stack-grid",
+  "slides": [
+    {
+      "layoutId": "cover-tech-stack-grid",
+      "slots": {
+        "tag": "COLD STACK",
+        "handle": "",
+        "eyebrow": "prospect to profit",
+        "titleLine1": "Modern outreach",
+        "titleAccent": "tools that convert",
+        "iconSlug1": "linkedin",
+        "iconSlug2": "perplexity",
+        "iconSlug3": "loom",
+        "iconSlug4": "n8n",
+        "iconSlug5": "airtable",
+        "iconSlug6": "zapier",
+        "role1": "SOURCES IDEAL LEADS",
+        "role2": "ENRICHES PROSPECT DATA",
+        "role3": "SENDS VIDEO PITCHES",
+        "role4": "RUNS WARMUP FLOWS",
+        "role5": "TRACKS EVERY REPLY",
+        "role6": "CONNECTS YOUR CRM",
+        "pageOf": ""
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "LEADS",
+        "stepMeta": "02 / 08",
+        "iconSlug1": "linkedin",
+        "toolRole": "SOURCES IDEAL LEADS",
+        "toolTagline": "LEAD SOURCE",
+        "tagline": "The modern prospecting engine that surfaces decision-makers ready to buy.",
+        "f1Title": "Advanced search filters",
+        "f1Body": "Target by title, industry, and company size with precision.",
+        "f2Title": "Social signal tracking",
+        "f2Body": "Track job changes and engagement to time your outreach perfectly.",
+        "f3Title": "Direct outreach mode",
+        "f3Body": "Connect and message prospects without leaving the platform.",
+        "iconSlug2": "perplexity",
+        "iconSlug3": "loom",
+        "iconSlug4": "n8n",
+        "iconSlug5": "zapier",
+        "domainText": "",
+        "pageOf": ""
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "ENRICH",
+        "stepMeta": "03 / 08",
+        "iconSlug1": "perplexity",
+        "toolRole": "ENRICHES PROSPECT DATA",
+        "toolTagline": "RESEARCH",
+        "tagline": "An AI research layer that builds detailed dossiers on every target contact.",
+        "f1Title": "Instant research answers",
+        "f1Body": "Query recent news, funding rounds, and tech stacks instantly.",
+        "f2Title": "Verified source citations",
+        "f2Body": "Every insight links to a credible source for verification.",
+        "f3Title": "Deep context engine",
+        "f3Body": "Understand pain points and priorities before writing copy.",
+        "iconSlug2": "linkedin",
+        "iconSlug3": "openai",
+        "iconSlug4": "notion",
+        "iconSlug5": "airtable",
+        "domainText": "",
+        "pageOf": ""
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "SEND",
+        "stepMeta": "04 / 08",
+        "iconSlug1": "loom",
+        "toolRole": "SENDS VIDEO PITCHES",
+        "toolTagline": "OUTREACH",
+        "tagline": "Async video messaging that humanizes cold outreach and doubles reply rates.",
+        "f1Title": "Instant screen recording",
+        "f1Body": "Capture your screen and webcam in one click from any tab.",
+        "f2Title": "Detailed viewer analytics",
+        "f2Body": "See exactly who watched, skipped, or rewatched your pitch.",
+        "f3Title": "Embedded CTA buttons",
+        "f3Body": "Embed calendar or form buttons directly inside the video.",
+        "iconSlug2": "calendly",
+        "iconSlug3": "notion",
+        "iconSlug4": "zapier",
+        "iconSlug5": "airtable",
+        "domainText": "",
+        "pageOf": ""
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "WARMUP",
+        "stepMeta": "05 / 08",
+        "iconSlug1": "n8n",
+        "toolRole": "RUNS WARMUP FLOWS",
+        "toolTagline": "AUTOMATION",
+        "tagline": "Open-source workflow automation that warms inboxes and sequences follow-ups.",
+        "f1Title": "Visual workflow builder",
+        "f1Body": "Drag nodes to build branching outreach logic without code.",
+        "f2Title": "Conditional delay logic",
+        "f2Body": "Space sends across days to mimic natural human behavior.",
+        "f3Title": "Webhook trigger system",
+        "f3Body": "Launch sequences from form fills, replies, or CRM updates.",
+        "iconSlug2": "zapier",
+        "iconSlug3": "make",
+        "iconSlug4": "airtable",
+        "iconSlug5": "notion",
+        "domainText": "",
+        "pageOf": ""
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "TRACK",
+        "stepMeta": "06 / 08",
+        "iconSlug1": "airtable",
+        "toolRole": "TRACKS EVERY REPLY",
+        "toolTagline": "DATABASE",
+        "tagline": "A flexible database that ingests replies and scores lead temperature in real time.",
+        "f1Title": "Smart filtered views",
+        "f1Body": "Filter conversations by sentiment, stage, or last reply date.",
+        "f2Title": "Automated lead scoring",
+        "f2Body": "Formula fields flag hot leads based on reply keywords.",
+        "f3Title": "Pipeline sync engine",
+        "f3Body": "Push qualified replies downstream to your CRM instantly.",
+        "iconSlug2": "zapier",
+        "iconSlug3": "notion",
+        "iconSlug4": "n8n",
+        "iconSlug5": "make",
+        "domainText": "",
+        "pageOf": ""
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "SYNC",
+        "stepMeta": "07 / 08",
+        "iconSlug1": "zapier",
+        "toolRole": "CONNECTS YOUR CRM",
+        "toolTagline": "CONNECTOR",
+        "tagline": "The glue between your stack and CRM that keeps deal data flowing flawlessly.",
+        "f1Title": "Multi step automations",
+        "f1Body": "Route replies, meetings, and notes to the right CRM records.",
+        "f2Title": "Error replay handling",
+        "f2Body": "Built-in replay ensures no lead update ever gets lost.",
+        "f3Title": "Universal app bridge",
+        "f3Body": "Connect to Salesforce, HubSpot, or Pipedrive in minutes.",
+        "iconSlug2": "airtable",
+        "iconSlug3": "n8n",
+        "iconSlug4": "make",
+        "iconSlug5": "notion",
+        "domainText": "",
+        "pageOf": ""
+      }
+    },
+    {
+      "layoutId": "cta-tech-stack-grid",
+      "slots": {
+        "tag": "WRAP",
+        "handle": "",
+        "eyebrow": "ready to build yours",
+        "ctaLine1": "Start closing",
+        "ctaLine2": "more deals",
+        "ctaBody": "Steal this exact cold outreach stack and start booking meetings this week.",
+        "iconSlug1": "linkedin",
+        "iconSlug2": "perplexity",
+        "iconSlug3": "loom",
+        "iconSlug4": "n8n",
+        "iconSlug5": "airtable",
+        "iconSlug6": "zapier",
+        "btnPrimary": "",
+        "btnGhost": "",
+        "domainText": "",
+        "pageOf": ""
+      }
+    }
+  ]
+}

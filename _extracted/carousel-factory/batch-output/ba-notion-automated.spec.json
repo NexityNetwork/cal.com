@@ -1,0 +1,158 @@
+{
+  "id": "ba-notion-automated",
+  "brand": "AcmeCorp",
+  "brief": "Before and after automating Notion as the company OS. Manual updates dropped, single source of truth.",
+  "theme": "before-after",
+  "slides": [
+    {
+      "layoutId": "cover-before-after",
+      "slots": {
+        "pageOf": "",
+        "handle": "",
+        "title": "Stop Manual",
+        "titleAccent": "Updates",
+        "description": "Your team spends hours updating scattered docs. Automate Notion as the single source of truth and reclaim that time.",
+        "badLabel1": "Out‑of‑date data everywhere",
+        "badLabel2": "Time‑wasting manual edits",
+        "badStat1": "30 min/day per employee",
+        "badStat2": "15% error rate",
+        "goodLabel1": "Real‑time unified knowledge",
+        "goodLabel2": "Instantly up‑to‑date dashboards",
+        "goodStat1": "90% faster onboarding",
+        "goodStat2": "80% reduction in errors",
+        "iconSlug1": "logo-slack",
+        "iconSlug2": "logo-github",
+        "iconSlug3": "logo-zoom",
+        "iconSlug4": "logo-figma"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 02 / 06",
+        "handle": "",
+        "title": "Fragmented Docs",
+        "titleAccent": "No Sync",
+        "description": "Teams kept separate spreadsheets, causing duplicated effort and stale information.",
+        "badLabel": "BEFORE",
+        "badText": "Each department edited its own file, so nobody trusted the data.",
+        "badStat": "$300 per lead due to delays",
+        "iconSlug1": "icon-spreadsheet",
+        "iconSlug2": "icon-email",
+        "goodLabel": "AFTER",
+        "goodText": "All records live in Notion, auto‑synced for every user.",
+        "goodStat": "$25 per lead",
+        "iconSlug3": "icon-notion",
+        "iconSlug4": "icon-api",
+        "iconSlug5": "icon-dashboard",
+        "ctaArrow": "See the Flow →"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 03 / 06",
+        "handle": "",
+        "title": "Version Chaos",
+        "titleAccent": "Conflicts",
+        "description": "Multiple versions of the same page caused confusion and rework.",
+        "badLabel": "BEFORE",
+        "badText": "People saved over each other's updates, leading to lost changes.",
+        "badStat": "20 % rework rate",
+        "iconSlug1": "icon-docs",
+        "iconSlug2": "icon-revision",
+        "goodLabel": "AFTER",
+        "goodText": "Notion’s single source guarantees one live version for all.",
+        "goodStat": "5 % rework rate",
+        "iconSlug3": "icon-notion",
+        "iconSlug4": "icon-history",
+        "iconSlug5": "icon-collab",
+        "ctaArrow": "Explore Sync →"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 04 / 06",
+        "handle": "",
+        "title": "Reporting Lag",
+        "titleAccent": "Delayed",
+        "description": "Reports were compiled manually each week, slowing decisions.",
+        "badLabel": "BEFORE",
+        "badText": "Data had to be exported and cleaned before any insight.",
+        "badStat": "48‑hour report turnaround",
+        "iconSlug1": "icon-excel",
+        "iconSlug2": "icon-manual",
+        "goodLabel": "AFTER",
+        "goodText": "Live dashboards in Notion update instantly as data changes.",
+        "goodStat": "5‑minute report refresh",
+        "iconSlug3": "icon-notion",
+        "iconSlug4": "icon-dashboard",
+        "iconSlug5": "icon-automate",
+        "ctaArrow": "View Dashboard →"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 05 / 06",
+        "handle": "",
+        "title": "Onboarding Overhead",
+        "titleAccent": "Time‑Intensive",
+        "description": "New hires spent days learning where information lived.",
+        "badLabel": "BEFORE",
+        "badText": "They navigated multiple tools before finding the right docs.",
+        "badStat": "3 days ramp‑up time",
+        "iconSlug1": "icon-welcome",
+        "iconSlug2": "icon-search",
+        "goodLabel": "AFTER",
+        "goodText": "A unified Notion OS gives instant access to every process.",
+        "goodStat": "1 day ramp‑up time",
+        "iconSlug3": "icon-notion",
+        "iconSlug4": "icon-guided",
+        "iconSlug5": "icon-speed",
+        "ctaArrow": "Start Faster →"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 06 / 06",
+        "handle": "",
+        "title": "Decision Delays",
+        "titleAccent": "Stalled",
+        "description": "Leadership lacked real‑time metrics, slowing strategy.",
+        "badLabel": "BEFORE",
+        "badText": "Decisions waited for compiled spreadsheets sent by email.",
+        "badStat": "72‑hour decision lag",
+        "iconSlug1": "icon-email",
+        "iconSlug2": "icon-spreadsheet",
+        "goodLabel": "AFTER",
+        "goodText": "Live KPI pages in Notion empower instant, data‑driven choices.",
+        "goodStat": "5‑minute decision lag",
+        "iconSlug3": "icon-notion",
+        "iconSlug4": "icon-kpi",
+        "iconSlug5": "icon-insight",
+        "ctaArrow": "Make Decisions →"
+      }
+    },
+    {
+      "layoutId": "cta-before-after",
+      "slots": {
+        "pageOf": "",
+        "handle": "",
+        "eyebrow": "MAKE THE SWITCH",
+        "headlineLine1": "Automate Notion",
+        "headlineAccent": "Now",
+        "body": "Turn chaos into clarity with a single source of truth. Join thousands who have cut manual work and boosted productivity.",
+        "iconSlug1": "logo-notion",
+        "iconSlug2": "logo-zapier",
+        "iconSlug3": "logo-slack",
+        "iconSlug4": "logo-github",
+        "iconSlug5": "logo-aws",
+        "iconSlug6": "logo-analytics",
+        "ctaText": "Start Free Trial"
+      }
+    }
+  ]
+}

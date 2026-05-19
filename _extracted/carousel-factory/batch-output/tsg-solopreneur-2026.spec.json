@@ -1,0 +1,190 @@
+{
+  "id": "tsg-solopreneur-2026",
+  "brand": "Solopreneur Stack",
+  "brief": "The complete solopreneur stack in 2026. Six tools to run a one-person business from anywhere — landing pages, payments, email, automation, content, support.",
+  "theme": "tech-stack-grid",
+  "slides": [
+    {
+      "layoutId": "cover-tech-stack-grid",
+      "slots": {
+        "tag": "MY STACK",
+        "handle": "",
+        "eyebrow": "One person, infinite leverage",
+        "titleLine1": "Six tools",
+        "titleAccent": "that ship",
+        "iconSlug1": "nextdotjs",
+        "role1": "BUILDS THE FRONTEND",
+        "iconSlug2": "stripe",
+        "role2": "COLLECTS YOUR REVENUE",
+        "iconSlug3": "airtable",
+        "role3": "MANAGES YOUR LEADS",
+        "iconSlug4": "make",
+        "role4": "RUNS ALL WORKFLOWS",
+        "iconSlug5": "notion",
+        "role5": "PUBLISHES ALL CONTENT",
+        "iconSlug6": "loom",
+        "role6": "ANSWERS EVERY CUSTOMER",
+        "pageOf": ""
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "LANDING PAGE",
+        "stepMeta": "02 / 08",
+        "iconSlug1": "nextdotjs",
+        "toolRole": "BUILDS THE FRONTEND",
+        "toolTagline": "ESSENTIAL",
+        "tagline": "Next.js deploys blazing-fast landing pages that rank and convert visitors into customers.",
+        "f1Title": "Blazing fast server rendering",
+        "f1Body": "Static and dynamic pages load instantly to improve Core Web Vitals and search rankings.",
+        "f2Title": "Reusable React components",
+        "f2Body": "Component-driven architecture lets you iterate on design without rebuilding from scratch.",
+        "f3Title": "Zero config API routes",
+        "f3Body": "Built-in API endpoints handle form submissions and webhooks without extra infrastructure.",
+        "iconSlug2": "vercel",
+        "iconSlug3": "typescript",
+        "iconSlug4": "react",
+        "iconSlug5": "supabase",
+        "domainText": "",
+        "pageOf": ""
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "PAYMENTS",
+        "stepMeta": "03 / 08",
+        "iconSlug1": "stripe",
+        "toolRole": "COLLECTS YOUR REVENUE",
+        "toolTagline": "ESSENTIAL",
+        "tagline": "Stripe processes payments, subscriptions, and invoices so you get paid while you sleep.",
+        "f1Title": "Frictionless one-click checkout",
+        "f1Body": "Hosted payment pages reduce friction and increase conversion rates immediately.",
+        "f2Title": "Automated subscription billing",
+        "f2Body": "Recurring revenue automates itself with flexible plan management and smart retries.",
+        "f3Title": "Global tax compliance engine",
+        "f3Body": "Automatic tax calculation keeps you compliant across borders without manual work.",
+        "iconSlug2": "supabase",
+        "iconSlug3": "notion",
+        "iconSlug4": "vercel",
+        "iconSlug5": "loom",
+        "domainText": "",
+        "pageOf": ""
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "EMAIL CRM",
+        "stepMeta": "04 / 08",
+        "iconSlug1": "airtable",
+        "toolRole": "MANAGES YOUR LEADS",
+        "toolTagline": "ESSENTIAL",
+        "tagline": "Airtable organizes contacts, segments audiences, and triggers campaigns like a lightweight CRM.",
+        "f1Title": "Relational contact databases",
+        "f1Body": "Link tables for leads, campaigns, and content without writing a single query.",
+        "f2Title": "Custom list segmentation",
+        "f2Body": "Filter and group subscribers dynamically to deliver hyper-relevant messaging at scale.",
+        "f3Title": "No-code automation rules",
+        "f3Body": "Trigger email sequences and status alerts when records hit specific stages.",
+        "iconSlug2": "make",
+        "iconSlug3": "zapier",
+        "iconSlug4": "notion",
+        "iconSlug5": "stripe",
+        "domainText": "",
+        "pageOf": ""
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "AUTOMATION",
+        "stepMeta": "05 / 08",
+        "iconSlug1": "make",
+        "toolRole": "RUNS ALL WORKFLOWS",
+        "toolTagline": "ESSENTIAL",
+        "tagline": "Make connects your entire stack and moves data between apps while you focus on growth.",
+        "f1Title": "Visual scenario builder",
+        "f1Body": "Drag-and-drop logic maps complex workflows across APIs without any code.",
+        "f2Title": "Branching conditional logic",
+        "f2Body": "Route data down different paths based on triggers, errors, or custom filters.",
+        "f3Title": "Thousands of native integrations",
+        "f3Body": "Sync leads, payments, and content across every tool in your stack.",
+        "iconSlug2": "airtable",
+        "iconSlug3": "notion",
+        "iconSlug4": "stripe",
+        "iconSlug5": "loom",
+        "domainText": "",
+        "pageOf": ""
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "CONTENT",
+        "stepMeta": "06 / 08",
+        "iconSlug1": "notion",
+        "toolRole": "PUBLISHES ALL CONTENT",
+        "toolTagline": "ESSENTIAL",
+        "tagline": "Notion doubles as a CMS, blog engine, and wiki to house every piece of content.",
+        "f1Title": "Database-driven content publishing",
+        "f1Body": "Turn Notion pages into a public blog or roadmap with simple sharing rules.",
+        "f2Title": "Collaborative writing workspace",
+        "f2Body": "Draft, edit, and comment in real time without leaving your content workspace.",
+        "f3Title": "Linked knowledge wiki",
+        "f3Body": "Connect docs, projects, and notes into an internal wiki that scales forever.",
+        "iconSlug2": "figma",
+        "iconSlug3": "loom",
+        "iconSlug4": "github",
+        "iconSlug5": "linear",
+        "domainText": "",
+        "pageOf": ""
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "SUPPORT",
+        "stepMeta": "07 / 08",
+        "iconSlug1": "loom",
+        "toolRole": "ANSWERS EVERY CUSTOMER",
+        "toolTagline": "ESSENTIAL",
+        "tagline": "Loom replaces live calls with async video so you can support customers in minutes.",
+        "f1Title": "Instant screen recording",
+        "f1Body": "Capture bugs, demos, and tutorials with your face and voice in one click.",
+        "f2Title": "Auto-generated video transcripts",
+        "f2Body": "Searchable captions and summaries make every video accessible and easy to reference.",
+        "f3Title": "Embedded share links",
+        "f3Body": "Drop videos into Notion, email, or chat to resolve tickets without typing essays.",
+        "iconSlug2": "notion",
+        "iconSlug3": "calendly",
+        "iconSlug4": "linear",
+        "iconSlug5": "figma",
+        "domainText": "",
+        "pageOf": ""
+      }
+    },
+    {
+      "layoutId": "cta-tech-stack-grid",
+      "slots": {
+        "tag": "WRAP",
+        "handle": "",
+        "eyebrow": "Ready to ship",
+        "ctaLine1": "Steal this",
+        "ctaLine2": "solopreneur stack",
+        "ctaBody": "One person, six tools, zero bloat. Build your own stack and start shipping today.",
+        "iconSlug1": "nextdotjs",
+        "iconSlug2": "stripe",
+        "iconSlug3": "airtable",
+        "iconSlug4": "make",
+        "iconSlug5": "notion",
+        "iconSlug6": "loom",
+        "btnPrimary": "",
+        "btnGhost": "",
+        "domainText": "",
+        "pageOf": ""
+      }
+    }
+  ]
+}

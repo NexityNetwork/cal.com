@@ -1,0 +1,175 @@
+{
+  "id": "st-n8n-money-flows",
+  "brand": "SoloStack",
+  "brief": "Six n8n automations that consistently make money for solopreneurs — lead routing, content publishing, customer onboarding, invoicing.",
+  "theme": "stack-tour",
+  "slides": [
+    {
+      "layoutId": "cover-stack-tour",
+      "slots": {
+        "eyebrow": "6 N8N AUTOMATIONS",
+        "title": "Revenue Engines for Solopreneurs",
+        "description": "Six no-code workflows that capture leads, publish content, onboard clients, and send invoices while you sleep.",
+        "iconSlug1": "n8n",
+        "iconSlug2": "airtable",
+        "iconSlug3": "twitter",
+        "iconSlug4": "stripe",
+        "iconSlug5": "calendly",
+        "iconSlug6": "notion",
+        "toolRole1": "Core workflow engine",
+        "toolRole2": "Smart lead database",
+        "toolRole3": "Social content distribution",
+        "toolRole4": "Client payment processor",
+        "toolRole5": "Meeting booking scheduler",
+        "toolRole6": "Shared client workspace",
+        "ctaText": "See the breakdown",
+        "handle": ""
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "02 / 08",
+        "handle": "",
+        "iconSlug1": "airtable",
+        "toolTagline": "Capture and route leads instantly",
+        "description": "New form submissions trigger n8n to qualify leads, update records, and ping your Slack in under ten seconds.",
+        "bullet1": "Auto-qualify via form score",
+        "bullet2": "Route hot leads to Slack",
+        "bullet3": "Enrich CRM on every entry",
+        "accentColor": "#FCB400",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "n8n",
+        "iconSlug3": "slack",
+        "iconSlug4": "gmail",
+        "iconSlug5": "calendly",
+        "iconSlug6": "hubspot",
+        "ctaBottom": "Copy this stack"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "03 / 08",
+        "handle": "",
+        "iconSlug1": "twitter",
+        "toolTagline": "Repurpose and post on autopilot",
+        "description": "Draft once in Notion; n8n reformats and publishes to Twitter, LinkedIn, and Instagram without manual copying.",
+        "bullet1": "Queue posts from Notion",
+        "bullet2": "Auto-format per platform",
+        "bullet3": "Recycle top-performing content hooks",
+        "accentColor": "#000000",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "n8n",
+        "iconSlug3": "notion",
+        "iconSlug4": "linkedin",
+        "iconSlug5": "instagram",
+        "iconSlug6": "buffer",
+        "ctaBottom": "Copy this stack"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "04 / 08",
+        "handle": "",
+        "iconSlug1": "notion",
+        "toolTagline": "Deliver white-glove client onboarding",
+        "description": "Stripe payments trigger n8n to create client portals, send welcome kits, and invite users to your Notion hub.",
+        "bullet1": "Spin up client portals",
+        "bullet2": "Send branded welcome kits",
+        "bullet3": "Track client progress automatically",
+        "accentColor": "#000000",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "n8n",
+        "iconSlug3": "stripe",
+        "iconSlug4": "typeform",
+        "iconSlug5": "slack",
+        "iconSlug6": "gmail",
+        "ctaBottom": "Copy this stack"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "05 / 08",
+        "handle": "",
+        "iconSlug1": "stripe",
+        "toolTagline": "Get paid faster with less work",
+        "description": "n8n watches Stripe for project milestones, generates branded PDF invoices, and chases late payments via email.",
+        "bullet1": "Auto-generate branded PDF invoices",
+        "bullet2": "Send friendly payment nudges",
+        "bullet3": "Reconcile payments in one click",
+        "accentColor": "#635BFF",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "n8n",
+        "iconSlug3": "gmail",
+        "iconSlug4": "paypal",
+        "iconSlug5": "airtable",
+        "iconSlug6": "slack",
+        "ctaBottom": "Copy this stack"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "06 / 08",
+        "handle": "",
+        "iconSlug1": "calendly",
+        "toolTagline": "Fill your calendar while you sleep",
+        "description": "Calendly bookings trigger n8n to create Zoom links, block focus time, and send prep questions via email.",
+        "bullet1": "Create unique Zoom links",
+        "bullet2": "Block prep time on calendar",
+        "bullet3": "Email pre-call prep questions",
+        "accentColor": "#006BFF",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "n8n",
+        "iconSlug3": "zoom",
+        "iconSlug4": "gmail",
+        "iconSlug5": "slack",
+        "iconSlug6": "notion",
+        "ctaBottom": "Copy this stack"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "07 / 08",
+        "handle": "",
+        "iconSlug1": "typeform",
+        "toolTagline": "Collect social proof on cruise control",
+        "description": "Seven days after delivery, n8n sends a Typeform link, saves responses to Airtable, and alerts you in Slack.",
+        "bullet1": "Time testimonial follow-ups perfectly",
+        "bullet2": "Store proof in Airtable",
+        "bullet3": "Get pinged on every win",
+        "accentColor": "#FF3B30",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "n8n",
+        "iconSlug3": "slack",
+        "iconSlug4": "airtable",
+        "iconSlug5": "twitter",
+        "iconSlug6": "gmail",
+        "ctaBottom": "Copy this stack"
+      }
+    },
+    {
+      "layoutId": "cta-stack-tour",
+      "slots": {
+        "pageOf": "",
+        "handle": "",
+        "eyebrow": "YOUR TURN",
+        "headlineLine1": "Build Your Stack",
+        "headlineLine2": "Start With n8n",
+        "iconSlug1": "n8n",
+        "iconSlug2": "airtable",
+        "iconSlug3": "stripe",
+        "iconSlug4": "notion",
+        "iconSlug5": "calendly",
+        "iconSlug6": "slack",
+        "iconSlug7": "gmail",
+        "body": "Pick one automation, connect these tools in n8n, and reclaim ten hours every week.",
+        "ctaText": "Start building today"
+      }
+    }
+  ]
+}

@@ -125,35 +125,90 @@ export async function renderAndQa(htmls, outDir, opts = {}) {
 // Multi-pass inside-out so nested empties cascade up.
 /* eslint-disable */
 function stripEmptyDecorativesDom() {
-  const CLASSES = [
+  const LEAF_CLASSES = [
     // identity
     "handle", "handle-text", "brand", "brand-pill", "brand-tag", "tag",
     // buttons
-    "btn", "btn-ghost", "btn-primary", "btn-row", "button", "button-label", "cta-btn",
+    "btn", "btn-ghost", "btn-primary", "button", "button-label", "cta-btn",
     // pagination / swipe
     "page-num", "pg", "pagination", "page-of", "page-label", "page-badge",
     "swipe", "swipe-label",
     // author
-    "byline", "author", "author-bar", "author-card", "author-info",
-    "author-sticky-row", "author-name", "author-role",
-    "avatar", "avatar-letter",
+    "byline", "author-name", "author-role", "avatar", "avatar-letter",
     // arrows that may sit standalone
     "arr",
   ];
+  // Row containers — collapse only when no remaining children. This avoids
+  // leaving 22px+ flex gaps where the .top-row / .bottom-row used to sit.
+  const ROW_CLASSES = [
+    "top-row", "bottom-row", "bottom-bar", "header-bar", "footer-bar",
+    "btn-row", "author-bar", "author-sticky-row", "author-info", "author-card",
+  ];
   const SEPARATOR_RE = /[→←↑↓•·|\/\s]/g;
+
+  function textEmpty(el) {
+    return (el.textContent || "").replace(SEPARATOR_RE, "") === "";
+  }
+
   let removed = true;
-  let safety = 12;
+  let safety = 16;
   while (removed && safety-- > 0) {
     removed = false;
-    for (const cls of CLASSES) {
+    for (const cls of LEAF_CLASSES) {
       document.querySelectorAll("." + cls).forEach((el) => {
-        const text = (el.textContent || "").replace(SEPARATOR_RE, "");
-        if (text === "") {
-          el.remove();
-          removed = true;
-        }
+        if (textEmpty(el)) { el.remove(); removed = true; }
       });
     }
+    // Row containers: collapse if all element children gone (text-empty AND
+    // no image/svg content left). This keeps rows with icon chips around.
+    for (const cls of ROW_CLASSES) {
+      document.querySelectorAll("." + cls).forEach((el) => {
+        const hasMedia = el.querySelector("svg,img,picture,canvas");
+        if (!hasMedia && textEmpty(el)) { el.remove(); removed = true; }
+      });
+    }
+  }
+
+  // ── Layout rebalance ────────────────────────────────────────────────────
+  // After stripping top/bottom rows + buttons, the remaining content often
+  // sits in a flex:1 column container with justify-content:center, which
+  // makes it float in the middle of an otherwise empty slide. Pull the
+  // content into a natural-height group and re-center on the frame so the
+  // slide looks balanced instead of half-empty.
+  const root = document.querySelector(".frame, .slide, .container") || document.body;
+  const rootStyle = window.getComputedStyle(root);
+  const isFlexCol = rootStyle.display.includes("flex") && rootStyle.flexDirection.includes("column");
+  if (isFlexCol) {
+    // Collapse any descendant that grows to fill remaining space.
+    root.querySelectorAll("*").forEach((el) => {
+      const cs = window.getComputedStyle(el);
+      if (cs.display.includes("flex") && cs.flexDirection.includes("column") && parseFloat(cs.flexGrow) > 0) {
+        el.style.flex = "0 0 auto";
+        if (cs.justifyContent === "center") el.style.justifyContent = "flex-start";
+      }
+    });
+    // Drop margin-top:auto pushes (commonly applied to footer rows). They
+    // force content to the bottom regardless of justify-content and create
+    // big mid-slide gaps when the column has been reduced. getComputedStyle
+    // resolves "auto" to a pixel value, so we can't detect it directly — but
+    // the pattern is always on bottom-ish footer rows, so we reset margin on
+    // any direct child of root whose computed top position is past the
+    // halfway mark of the slide and whose offset from the previous sibling
+    // looks like a forced gap.
+    const rootRect = root.getBoundingClientRect();
+    const halfway = rootRect.top + rootRect.height / 2;
+    let prevBottom = rootRect.top;
+    [...root.children].forEach((child) => {
+      const r = child.getBoundingClientRect();
+      // A child anchored below halfway and separated from its previous sibling
+      // by more than 120px is almost certainly margin-top:auto. Pull it up.
+      if (r.top > halfway && r.top - prevBottom > 120) {
+        child.style.marginTop = "0";
+      }
+      prevBottom = r.bottom;
+    });
+    // Re-center the entire content group on the frame.
+    root.style.justifyContent = "center";
   }
 }
 

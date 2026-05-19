@@ -1,0 +1,175 @@
+{
+  "id": "st-sales-auto-stack",
+  "brand": "TechStack",
+  "brief": "Sales automation stack 2026 — prospecting, outreach, scheduling, proposal, e-sign, payment. End-to-end tour.",
+  "theme": "stack-tour",
+  "slides": [
+    {
+      "layoutId": "cover-stack-tour",
+      "slots": {
+        "eyebrow": "MY 6-TOOL STACK",
+        "title": "End‑to‑End Sales Automation 2026",
+        "description": "From prospecting to payment, the tools that keep your pipeline moving smoothly.",
+        "iconSlug1": "apollo",
+        "iconSlug2": "outreach",
+        "iconSlug3": "calendly",
+        "iconSlug4": "pandadoc",
+        "iconSlug5": "docusign",
+        "iconSlug6": "stripe",
+        "toolRole1": "Prospecting",
+        "toolRole2": "Outreach",
+        "toolRole3": "Scheduling",
+        "toolRole4": "Proposal",
+        "toolRole5": "E‑Sign",
+        "toolRole6": "Payment",
+        "ctaText": "Explore the full breakdown",
+        "handle": ""
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "01 / 08",
+        "handle": "",
+        "iconSlug1": "apollo",
+        "toolTagline": "Find the right leads, fast",
+        "description": "Apollo mines verified contacts and enriches data to fuel your outreach.",
+        "bullet1": "Targeted list building in minutes",
+        "bullet2": "Real‑time email verification",
+        "bullet3": "Integrated enrichment workflows",
+        "accentColor": "#1A73E8",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "outreach",
+        "iconSlug3": "calendly",
+        "iconSlug4": "pandadoc",
+        "iconSlug5": "docusign",
+        "iconSlug6": "stripe",
+        "ctaBottom": "See it in action"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "02 / 08",
+        "handle": "",
+        "iconSlug1": "outreach",
+        "toolTagline": "Scale personalized sequences",
+        "description": "Outreach automates multi‑channel cadences while keeping each touch human.",
+        "bullet1": "AI‑drafted email snippets",
+        "bullet2": "Phone, LinkedIn, and SMS integration",
+        "bullet3": "Performance analytics dashboard",
+        "accentColor": "#FF6F61",
+        "stackLabel": "COMBINES WITH",
+        "iconSlug2": "apollo",
+        "iconSlug3": "calendly",
+        "iconSlug4": "pandadoc",
+        "iconSlug5": "docusign",
+        "iconSlug6": "stripe",
+        "ctaBottom": "Start a free trial"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "03 / 08",
+        "handle": "",
+        "iconSlug1": "calendly",
+        "toolTagline": "Book meetings without back‑and‑forth",
+        "description": "Calendly syncs calendars and lets prospects pick slots instantly.",
+        "bullet1": "Auto‑timezone detection",
+        "bullet2": "Embedded booking pages",
+        "bullet3": "Follow‑up reminder emails",
+        "accentColor": "#00A2FF",
+        "stackLabel": "WORKS WITH",
+        "iconSlug2": "apollo",
+        "iconSlug3": "outreach",
+        "iconSlug4": "pandadoc",
+        "iconSlug5": "docusign",
+        "iconSlug6": "stripe",
+        "ctaBottom": "Add to your workflow"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "04 / 08",
+        "handle": "",
+        "iconSlug1": "pandadoc",
+        "toolTagline": "Create proposals that close",
+        "description": "PandaDoc lets you design, send, and track contracts in one place.",
+        "bullet1": "Drag‑and‑drop proposal builder",
+        "bullet2": "Interactive pricing tables",
+        "bullet3": "Real‑time viewer analytics",
+        "accentColor": "#FFB400",
+        "stackLabel": "SEAMLESS WITH",
+        "iconSlug2": "apollo",
+        "iconSlug3": "outreach",
+        "iconSlug4": "calendly",
+        "iconSlug5": "docusign",
+        "iconSlug6": "stripe",
+        "ctaBottom": "Generate a template"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "05 / 08",
+        "handle": "",
+        "iconSlug1": "docusign",
+        "toolTagline": "Secure signatures, instantly",
+        "description": "DocuSign captures legally binding e‑signatures and automates document flow.",
+        "bullet1": "Compliance with global regulations",
+        "bullet2": "Embedded signing in emails",
+        "bullet3": "Automatic archiving",
+        "accentColor": "#0061A8",
+        "stackLabel": "INTEGRATES WITH",
+        "iconSlug2": "apollo",
+        "iconSlug3": "outreach",
+        "iconSlug4": "calendly",
+        "iconSlug5": "pandadoc",
+        "iconSlug6": "stripe",
+        "ctaBottom": "Send a test document"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "06 / 08",
+        "handle": "",
+        "iconSlug1": "stripe",
+        "toolTagline": "Turn invoices into revenue",
+        "description": "Stripe processes payments, handles taxes, and reconciles receipts automatically.",
+        "bullet1": "One‑click checkout links",
+        "bullet2": "Recurring subscription billing",
+        "bullet3": "Instant payouts to bank",
+        "accentColor": "#635BFF",
+        "stackLabel": "COMPLETES",
+        "iconSlug2": "apollo",
+        "iconSlug3": "outreach",
+        "iconSlug4": "calendly",
+        "iconSlug5": "pandadoc",
+        "iconSlug6": "docusign",
+        "ctaBottom": "Connect your account"
+      }
+    },
+    {
+      "layoutId": "cta-stack-tour",
+      "slots": {
+        "pageOf": "",
+        "handle": "",
+        "eyebrow": "YOUR TURN",
+        "headlineLine1": "BUILD",
+        "headlineLine2": "your own sales engine",
+        "iconSlug1": "apollo",
+        "iconSlug2": "outreach",
+        "iconSlug3": "calendly",
+        "iconSlug4": "pandadoc",
+        "iconSlug5": "docusign",
+        "iconSlug6": "stripe",
+        "iconSlug7": "hubspot",
+        "body": "Pick the tools that fit your process, integrate them, and watch your pipeline accelerate.",
+        "ctaText": "Start building now"
+      }
+    }
+  ]
+}

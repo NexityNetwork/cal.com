@@ -1,0 +1,190 @@
+{
+  "id": "tsg-content-marketing",
+  "brand": "51ultron",
+  "brief": "Content marketing stack 2026 — research, drafting, scheduling, repurposing, analytics. Tools indie founders actually use.",
+  "theme": "tech-stack-grid",
+  "slides": [
+    {
+      "layoutId": "cover-tech-stack-grid",
+      "slots": {
+        "tag": "MY STACK",
+        "handle": "",
+        "eyebrow": "content marketing 2026",
+        "titleLine1": "Indie founder",
+        "titleAccent": "tools that ship",
+        "iconSlug1": "notion",
+        "iconSlug2": "perplexity",
+        "iconSlug3": "claude",
+        "iconSlug4": "figma",
+        "iconSlug5": "make",
+        "iconSlug6": "youtube",
+        "role1": "CONTENT HUB",
+        "role2": "RESEARCH ENGINE",
+        "role3": "AI DRAFTER",
+        "role4": "DESIGN STUDIO",
+        "role5": "AUTO WORKFLOWS",
+        "role6": "VIDEO PLATFORM",
+        "pageOf": ""
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "HUB",
+        "stepMeta": "02 / 08",
+        "iconSlug1": "notion",
+        "toolRole": "CONTENT OPERATING SYSTEM",
+        "toolTagline": "ESSENTIAL",
+        "tagline": "The central hub where every brief, draft, and calendar lives before anything ships.",
+        "f1Title": "Central content database",
+        "f1Body": "Kanban and calendar views track every post from idea to published.",
+        "f2Title": "Shared team wiki",
+        "f2Body": "Brand voice docs, SOPs, and research live in one searchable home.",
+        "f3Title": "Native AI sync blocks",
+        "f3Body": "Native AI blocks draft summaries and fill tables automatically.",
+        "iconSlug2": "linear",
+        "iconSlug3": "loom",
+        "iconSlug4": "calendly",
+        "iconSlug5": "webflow",
+        "domainText": "",
+        "pageOf": ""
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "RESEARCH",
+        "stepMeta": "03 / 08",
+        "iconSlug1": "perplexity",
+        "toolRole": "DEEP RESEARCH ENGINE",
+        "toolTagline": "DISCOVERY",
+        "tagline": "Cites live sources so your content is accurate, deep, and actually trustworthy.",
+        "f1Title": "Real-time source citations",
+        "f1Body": "Every answer includes verified links you can quote with confidence.",
+        "f2Title": "Multi-step deep research",
+        "f2Body": "Run multi-step investigations that compile into exportable briefs.",
+        "f3Title": "Advanced pro search modes",
+        "f3Body": "Switch between academic, web, and social sources for any topic.",
+        "iconSlug2": "notion",
+        "iconSlug3": "claude",
+        "iconSlug4": "youtube",
+        "iconSlug5": "github",
+        "domainText": "",
+        "pageOf": ""
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "WRITE",
+        "stepMeta": "04 / 08",
+        "iconSlug1": "claude",
+        "toolRole": "AI FIRST DRAFTER",
+        "toolTagline": "WRITING",
+        "tagline": "Turns scattered research notes into polished scripts, carousels, and newsletters fast.",
+        "f1Title": "Massive long context window",
+        "f1Body": "Drop in research and maintain narrative consistency across long drafts.",
+        "f2Title": "Custom tone match training",
+        "f2Body": "Train on your best posts so output matches your brand voice.",
+        "f3Title": "Side-by-side artifact mode",
+        "f3Body": "Side-by-side editing for headlines, hooks, and CTA variations.",
+        "iconSlug2": "notion",
+        "iconSlug3": "perplexity",
+        "iconSlug4": "figma",
+        "iconSlug5": "make",
+        "domainText": "",
+        "pageOf": ""
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "DESIGN",
+        "stepMeta": "05 / 08",
+        "iconSlug1": "figma",
+        "toolRole": "VISUAL DESIGN STUDIO",
+        "toolTagline": "CREATIVE",
+        "tagline": "Designs carousels, thumbnails, and web graphics that stop the scroll every time.",
+        "f1Title": "Responsive auto layout frames",
+        "f1Body": "Resize carousels for every platform without rebuilding frames from scratch.",
+        "f2Title": "Reusable component kit system",
+        "f2Body": "Reuse brand colors, type, and logos across every content format.",
+        "f3Title": "One-click dev handoff export",
+        "f3Body": "Export assets for your site or embed without extra design tools.",
+        "iconSlug2": "notion",
+        "iconSlug3": "youtube",
+        "iconSlug4": "webflow",
+        "iconSlug5": "loom",
+        "domainText": "",
+        "pageOf": ""
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "AUTOMATE",
+        "stepMeta": "06 / 08",
+        "iconSlug1": "make",
+        "toolRole": "WORKFLOW AUTOMATION ENGINE",
+        "toolTagline": "AUTOMATION",
+        "tagline": "Connects your entire stack to auto-publish, repurpose, and distribute without code.",
+        "f1Title": "Drag-and-drop visual builder",
+        "f1Body": "Drag-and-drop scenarios replace coding for any content pipeline you need.",
+        "f2Title": "Multi-path content routing",
+        "f2Body": "Route video to short clips, blog posts, and email automatically.",
+        "f3Title": "Built-in error handling logic",
+        "f3Body": "Built-in retries and logs keep your publishing calendar on time.",
+        "iconSlug2": "notion",
+        "iconSlug3": "youtube",
+        "iconSlug4": "loom",
+        "iconSlug5": "calendly",
+        "domainText": "",
+        "pageOf": ""
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "DISTRIBUTE",
+        "stepMeta": "07 / 08",
+        "iconSlug1": "youtube",
+        "toolRole": "VIDEO DISTRIBUTION PLATFORM",
+        "toolTagline": "DISTRIBUTION",
+        "tagline": "Publishes long-form video and feeds clips, SEO, and community growth forever.",
+        "f1Title": "World-class search engine",
+        "f1Body": "Second-largest search surface sends evergreen traffic for years to come.",
+        "f2Title": "Built-in native analytics",
+        "f2Body": "Retention graphs and CTR data sharpen every future thumbnail hook.",
+        "f3Title": "Central repurpose hub",
+        "f3Body": "One long video spawns Shorts, embeds, and newsletter snippets fast.",
+        "iconSlug2": "notion",
+        "iconSlug3": "figma",
+        "iconSlug4": "make",
+        "iconSlug5": "loom",
+        "domainText": "",
+        "pageOf": ""
+      }
+    },
+    {
+      "layoutId": "cta-tech-stack-grid",
+      "slots": {
+        "tag": "WRAP",
+        "handle": "",
+        "eyebrow": "start building today",
+        "ctaLine1": "Ship content",
+        "ctaLine2": "without the chaos",
+        "ctaBody": "Steal this indie marketing stack and start publishing consistently in 2026.",
+        "iconSlug1": "notion",
+        "iconSlug2": "perplexity",
+        "iconSlug3": "claude",
+        "iconSlug4": "figma",
+        "iconSlug5": "make",
+        "iconSlug6": "youtube",
+        "btnPrimary": "",
+        "btnGhost": "",
+        "domainText": "",
+        "pageOf": ""
+      }
+    }
+  ]
+}

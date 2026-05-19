@@ -1,0 +1,158 @@
+{
+  "id": "ba-data-sync",
+  "brand": "Syncify",
+  "brief": "Before and after cross-tool data sync without code. Manual exports killed, real-time dashboards live.",
+  "theme": "before-after",
+  "slides": [
+    {
+      "layoutId": "cover-before-after",
+      "slots": {
+        "pageOf": "",
+        "handle": "",
+        "title": "Stop doing",
+        "titleAccent": "manual exports",
+        "description": "Eliminate tedious data pulls and get live insights across all your tools without writing code.",
+        "badLabel1": "Manual Export",
+        "badLabel2": "Stale Data",
+        "badStat1": "2% reply rate",
+        "badStat2": "$300/lead",
+        "goodLabel1": "Real‑time Sync",
+        "goodLabel2": "Live Dashboards",
+        "goodStat1": "95% data freshness",
+        "goodStat2": "$25/lead",
+        "iconSlug1": "iconSlug1",
+        "iconSlug2": "iconSlug2",
+        "iconSlug3": "iconSlug3",
+        "iconSlug4": "iconSlug4"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 02 / 06",
+        "handle": "",
+        "title": "Export data",
+        "titleAccent": "manually",
+        "description": "Pull reports from each platform one‑by‑one and stitch them together.",
+        "badLabel": "BEFORE",
+        "badText": "Team spends hours exporting CSVs and cleaning data.",
+        "badStat": "$300/lead",
+        "iconSlug1": "iconCsv",
+        "iconSlug2": "iconSpreadsheet",
+        "goodLabel": "AFTER",
+        "goodText": "One‑click sync pushes data to a central warehouse.",
+        "goodStat": "$25/lead",
+        "iconSlug3": "iconApi",
+        "iconSlug4": "iconWarehouse",
+        "iconSlug5": "iconOneClick",
+        "ctaArrow": "Learn how"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 03 / 06",
+        "handle": "",
+        "title": "Schedule reports",
+        "titleAccent": "automatically",
+        "description": "Set up recurring exports that run on a fixed schedule.",
+        "badLabel": "BEFORE",
+        "badText": "Missed deadlines because reports ran late or failed.",
+        "badStat": "3‑hour lag",
+        "iconSlug1": "iconClock",
+        "iconSlug2": "iconAlert",
+        "goodLabel": "AFTER",
+        "goodText": "Triggers fire instantly when new data arrives.",
+        "goodStat": "0‑second lag",
+        "iconSlug3": "iconTrigger",
+        "iconSlug4": "iconRealtime",
+        "iconSlug5": "iconZap",
+        "ctaArrow": "See the flow"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 04 / 06",
+        "handle": "",
+        "title": "Data consistency",
+        "titleAccent": "guaranteed",
+        "description": "Ensure every system sees the same version of truth.",
+        "badLabel": "BEFORE",
+        "badText": "Metrics differed between sales and marketing dashboards.",
+        "badStat": "12% variance",
+        "iconSlug1": "iconMismatch",
+        "iconSlug2": "iconError",
+        "goodLabel": "AFTER",
+        "goodText": "Single source of truth updates all tools simultaneously.",
+        "goodStat": "0% variance",
+        "iconSlug3": "iconSync",
+        "iconSlug4": "iconUnified",
+        "iconSlug5": "iconLock",
+        "ctaArrow": "Validate now"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 05 / 06",
+        "handle": "",
+        "title": "Dashboard refresh",
+        "titleAccent": "live",
+        "description": "Visualise data the moment it lands in your warehouse.",
+        "badLabel": "BEFORE",
+        "badText": "Reports refreshed only once a day, leaving decisions stale.",
+        "badStat": "24‑hour delay",
+        "iconSlug1": "iconCalendar",
+        "iconSlug2": "iconSleep",
+        "goodLabel": "AFTER",
+        "goodText": "Charts update in seconds as new events stream in.",
+        "goodStat": "≤5‑second delay",
+        "iconSlug3": "iconChart",
+        "iconSlug4": "iconRefresh",
+        "iconSlug5": "iconSpeed",
+        "ctaArrow": "Watch live"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 06 / 06",
+        "handle": "",
+        "title": "Cost efficiency",
+        "titleAccent": "optimized",
+        "description": "Reduce overhead by eliminating manual labor and redundant pipelines.",
+        "badLabel": "BEFORE",
+        "badText": "Team spent 20 hrs/week on data wrangling.",
+        "badStat": "$2,000/mo",
+        "iconSlug1": "iconPeople",
+        "iconSlug2": "iconMoney",
+        "goodLabel": "AFTER",
+        "goodText": "Automation saves time and cuts spend per lead dramatically.",
+        "goodStat": "$25/lead",
+        "iconSlug3": "iconSavings",
+        "iconSlug4": "iconAutomation",
+        "iconSlug5": "iconGrowth",
+        "ctaArrow": "Start saving"
+      }
+    },
+    {
+      "layoutId": "cta-before-after",
+      "slots": {
+        "pageOf": "",
+        "handle": "",
+        "eyebrow": "MAKE THE SWITCH",
+        "headlineLine1": "Live Data",
+        "headlineAccent": "without code",
+        "body": "Connect all your tools instantly and watch your dashboards update in real time. No developers needed.",
+        "iconSlug1": "iconConnect",
+        "iconSlug2": "iconNoCode",
+        "iconSlug3": "iconDashboard",
+        "iconSlug4": "iconInstant",
+        "iconSlug5": "iconScale",
+        "iconSlug6": "iconSuccess",
+        "ctaText": "Start syncing today"
+      }
+    }
+  ]
+}

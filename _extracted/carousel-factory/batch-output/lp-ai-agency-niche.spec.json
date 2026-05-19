@@ -1,0 +1,127 @@
+{
+  "id": "lp-ai-agency-niche",
+  "brand": "AI Agency Insights",
+  "brief": "AI agency niche selection guide. The six niches with the highest willingness to pay in 2026.",
+  "theme": "linkedin-pro",
+  "slides": [
+    {
+      "layoutId": "cover-linkedin-pro",
+      "slots": {
+        "author": "",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "",
+        "accentColor": "#0a66c2",
+        "headline": "6 High‑Paying AI Agency Niches 2026",
+        "heroSymbol": "🚀",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#0a66c2",
+        "body": "AI agencies are booming, but not every niche pays equally. Discover the six sectors where clients are willing to invest the most in 2026."
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "",
+        "accentColor": "#0a66c2",
+        "title": "Enterprise AI Automation",
+        "body": "Large corporations allocate multi‑million budgets to streamline operations with AI, seeking measurable ROI and scalability, making them top spenders.",
+        "heroSymbol": "🚀",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#0a66c2",
+        "labelText": "High‑Paying Niche"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "",
+        "accentColor": "#0a66c2",
+        "title": "Healthcare Diagnostics AI",
+        "body": "Hospitals and biotech firms pay premium for AI that accelerates diagnosis, reduces errors, and improves patient outcomes, driving rapid adoption.",
+        "heroSymbol": "🚀",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#0a66c2",
+        "labelText": "High‑Paying Niche"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "",
+        "accentColor": "#0a66c2",
+        "title": "FinTech Risk Modeling",
+        "body": "Banks and lenders invest heavily in AI‑powered risk assessment to cut defaults, comply with regulations, and gain competitive edge.",
+        "heroSymbol": "🚀",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#0a66c2",
+        "labelText": "High‑Paying Niche"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "",
+        "accentColor": "#0a66c2",
+        "title": "Legal Tech Document AI",
+        "body": "Law firms and corporate legal departments spend big on AI that automates contract review, discovery, and compliance, saving time and legal fees.",
+        "heroSymbol": "🚀",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#0a66c2",
+        "labelText": "High‑Paying Niche"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "",
+        "accentColor": "#0a66c2",
+        "title": "E‑commerce Personalization",
+        "body": "Online retailers pour resources into AI that tailors product recommendations, boosting conversion rates and average order value, resulting in high revenue impact.",
+        "heroSymbol": "🚀",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#0a66c2",
+        "labelText": "High‑Paying Niche"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "",
+        "accentColor": "#0a66c2",
+        "title": "Climate Tech Data Solutions",
+        "body": "Energy firms and NGOs pay top dollar for AI that analyzes climate data, optimizes resource use, and supports sustainability reporting.",
+        "heroSymbol": "🚀",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#0a66c2",
+        "labelText": "High‑Paying Niche"
+      }
+    },
+    {
+      "layoutId": "cta-linkedin-pro",
+      "slots": {
+        "author": "",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "",
+        "accentColor": "#0a66c2",
+        "eyebrow": "YOUR TURN?",
+        "headline": "Pick Your High‑Value AI Niche",
+        "body": "Identify which of these six sectors aligns with your expertise and start targeting clients ready to invest heavily.",
+        "buttonLabel": "",
+        "secondaryLabel": "Share",
+        "handle": ""
+      }
+    }
+  ]
+}

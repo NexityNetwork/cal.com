@@ -1,0 +1,190 @@
+{
+  "id": "tsg-community-platform",
+  "brand": "51ultron",
+  "brief": "Community platform stack — Circle/Skool-class, payments, automation, content, member directory.",
+  "theme": "tech-stack-grid",
+  "slides": [
+    {
+      "layoutId": "cover-tech-stack-grid",
+      "slots": {
+        "tag": "MY STACK",
+        "handle": "",
+        "eyebrow": "community platform architecture",
+        "titleLine1": "The modern",
+        "titleAccent": "community stack",
+        "iconSlug1": "nextdotjs",
+        "iconSlug2": "supabase",
+        "iconSlug3": "stripe",
+        "iconSlug4": "n8n",
+        "iconSlug5": "notion",
+        "iconSlug6": "vercel",
+        "role1": "BUILDS THE INTERFACE",
+        "role2": "BACKEND AND AUTH",
+        "role3": "PAYMENTS AND BILLING",
+        "role4": "RUNS PLATFORM AUTOMATION",
+        "role5": "CONTENT AND DOCS",
+        "role6": "SHIPS TO THE EDGE",
+        "pageOf": ""
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "PLATFORM",
+        "stepMeta": "02 / 08",
+        "iconSlug1": "nextdotjs",
+        "toolRole": "REACT APP FRAMEWORK",
+        "toolTagline": "APP CORE",
+        "tagline": "Server-rendered community pages with dynamic member routes and auth-gated content.",
+        "f1Title": "App directory routing",
+        "f1Body": "Every cohort and lesson gets its own fast, cached URL automatically.",
+        "f2Title": "React server components",
+        "f2Body": "Fetch member data directly from Supabase without client-side bloat.",
+        "f3Title": "Built-in API handlers",
+        "f3Body": "Build webhooks for Stripe and n8n right inside the same codebase.",
+        "iconSlug2": "supabase",
+        "iconSlug3": "react",
+        "iconSlug4": "typescript",
+        "iconSlug5": "vercel",
+        "domainText": "",
+        "pageOf": ""
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "DATABASE",
+        "stepMeta": "03 / 08",
+        "iconSlug1": "supabase",
+        "toolRole": "BACKEND AND DATABASE",
+        "toolTagline": "DATA CORE",
+        "tagline": "Postgres database, realtime subscriptions, and row-level security for member access.",
+        "f1Title": "Database security rules",
+        "f1Body": "Members see only their own billing history and profile records.",
+        "f2Title": "Live presence sockets",
+        "f2Body": "Live member presence and activity feed updates without polling.",
+        "f3Title": "Passwordless member auth",
+        "f3Body": "Magic-link signup that drops users straight into the community dashboard.",
+        "iconSlug2": "postgresql",
+        "iconSlug3": "nextdotjs",
+        "iconSlug4": "redis",
+        "iconSlug5": "docker",
+        "domainText": "",
+        "pageOf": ""
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "PAYMENTS",
+        "stepMeta": "04 / 08",
+        "iconSlug1": "stripe",
+        "toolRole": "SUBSCRIPTION BILLING ENGINE",
+        "toolTagline": "BILLING CORE",
+        "tagline": "Subscription tiers, invoicing, and webhook-driven access provisioning for members.",
+        "f1Title": "Flexible plan tiers",
+        "f1Body": "Free, Pro, and Elite plans with automatic gating via Supabase hooks.",
+        "f2Title": "Customer billing portal",
+        "f2Body": "Self-service billing management reduces support tickets by half.",
+        "f3Title": "Webhook event triggers",
+        "f3Body": "Instantly unlock courses when payment clears through n8n automation.",
+        "iconSlug2": "supabase",
+        "iconSlug3": "n8n",
+        "iconSlug4": "nextdotjs",
+        "iconSlug5": "vercel",
+        "domainText": "",
+        "pageOf": ""
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "AUTOMATION",
+        "stepMeta": "05 / 08",
+        "iconSlug1": "n8n",
+        "toolRole": "AUTOMATION ORCHESTRATION LAYER",
+        "toolTagline": "FLOW ENGINE",
+        "tagline": "Visual automation that enrolls members, sends alerts, and syncs data across tools.",
+        "f1Title": "Visual workflow builder",
+        "f1Body": "Drag-and-drop nodes connect Stripe webhooks to Notion databases.",
+        "f2Title": "Conditional path routing",
+        "f2Body": "Route new signups to onboarding or upsell sequences based on tier.",
+        "f3Title": "Built-in error retries",
+        "f3Body": "Retry failed invites automatically and log every step for debugging.",
+        "iconSlug2": "stripe",
+        "iconSlug3": "notion",
+        "iconSlug4": "airtable",
+        "iconSlug5": "make",
+        "domainText": "",
+        "pageOf": ""
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "CONTENT",
+        "stepMeta": "06 / 08",
+        "iconSlug1": "notion",
+        "toolRole": "CONTENT MANAGEMENT SYSTEM",
+        "toolTagline": "KNOWLEDGE BASE",
+        "tagline": "Centralized curriculum, SOPs, and member resources synced to the platform.",
+        "f1Title": "Nested page databases",
+        "f1Body": "Curriculum modules link to lessons, tasks, and member progress views.",
+        "f2Title": "Public knowledge sharing",
+        "f2Body": "Publish gated content that mirrors inside the Next.js community app.",
+        "f3Title": "API content syncing",
+        "f3Body": "Pull latest docs into the member dashboard every hour via n8n.",
+        "iconSlug2": "n8n",
+        "iconSlug3": "nextdotjs",
+        "iconSlug4": "airtable",
+        "iconSlug5": "webflow",
+        "domainText": "",
+        "pageOf": ""
+      }
+    },
+    {
+      "layoutId": "body-tech-stack-grid",
+      "slots": {
+        "tag": "HOSTING",
+        "stepMeta": "07 / 08",
+        "iconSlug1": "vercel",
+        "toolRole": "FRONTEND CLOUD PLATFORM",
+        "toolTagline": "EDGE HOST",
+        "tagline": "Zero-config CI/CD, preview deployments, and edge functions for global speed.",
+        "f1Title": "Git push deployments",
+        "f1Body": "Every push to main ships the platform in under sixty seconds.",
+        "f2Title": "Edge function runtime",
+        "f2Body": "Run auth checks and geolocation at the closest node to the member.",
+        "f3Title": "Branch preview URLs",
+        "f3Body": "Test new community features on live URLs before merging to production.",
+        "iconSlug2": "nextdotjs",
+        "iconSlug3": "github",
+        "iconSlug4": "docker",
+        "iconSlug5": "supabase",
+        "domainText": "",
+        "pageOf": ""
+      }
+    },
+    {
+      "layoutId": "cta-tech-stack-grid",
+      "slots": {
+        "tag": "WRAP",
+        "handle": "",
+        "eyebrow": "ship faster together",
+        "ctaLine1": "Build your",
+        "ctaLine2": "community stack",
+        "ctaBody": "This exact architecture powers cohort-based platforms with thousands of paying members. Deploy yours this week.",
+        "iconSlug1": "nextdotjs",
+        "iconSlug2": "supabase",
+        "iconSlug3": "stripe",
+        "iconSlug4": "n8n",
+        "iconSlug5": "notion",
+        "iconSlug6": "vercel",
+        "btnPrimary": "",
+        "btnGhost": "",
+        "domainText": "",
+        "pageOf": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "id": "bp-customer-research",
+  "brand": "AIInsights",
+  "brief": "Customer research with AI. The five-question framework, the tools, the synthesis ritual that creates winning offers.",
+  "theme": "beige-paper",
+  "slides": [
+    {
+      "layoutId": "cover-beige-serif",
+      "slots": {
+        "brand": "",
+        "headline": "Unlock Winning Offers with AI-Powered Customer Research",
+        "slideCountHero": "6"
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "",
+        "number": "01",
+        "title": "The Five‑Question Framework",
+        "body": "Start with five core questions that reveal customer motivations, pain points, desires, decision triggers, and ideal outcomes. Answering them creates a clear map of what your market truly values.",
+        "handle": "",
+        "domain": ""
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "",
+        "number": "02",
+        "title": "Ask What Drives Them",
+        "body": "Question one probes the underlying why behind purchases. Understanding the emotional and rational drivers helps you craft messages that resonate on a deeper level.",
+        "handle": "",
+        "domain": ""
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "",
+        "number": "03",
+        "title": "Identify Their Pain",
+        "body": "The second question uncovers the biggest challenges your audience faces. Pinpointing pain points lets you position your solution as the exact remedy they need.",
+        "handle": "",
+        "domain": ""
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "",
+        "number": "04",
+        "title": "Define Desired Outcomes",
+        "body": "Question three focuses on the results customers aspire to achieve. Aligning your offer with these outcomes increases perceived value and relevance.",
+        "handle": "",
+        "domain": ""
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "",
+        "number": "05",
+        "title": "Map Decision Triggers",
+        "body": "The fourth and fifth questions reveal the cues that push prospects to act and the timeline they follow. Knowing these triggers lets you time your outreach for maximum impact.",
+        "handle": "",
+        "domain": ""
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "",
+        "number": "06",
+        "title": "Synthesis Ritual & Tools",
+        "body": "Leverage AI tools like GPT, Claude, and specialized market‑research platforms for data mining, sentiment analysis, and trend spotting. Then run a synthesis ritual: aggregate insights, identify patterns, and craft a compelling offer narrative.",
+        "handle": "",
+        "domain": ""
+      }
+    },
+    {
+      "layoutId": "cta-beige-serif",
+      "slots": {
+        "brand": "",
+        "eyebrow": "GET STARTED",
+        "headline": "Transform Research Into Winning Offers",
+        "body": "Join our AI‑driven workshop and master the research ritual that fuels high‑converting offers. Seats are limited—secure yours today.",
+        "buttonLabel": "",
+        "handle": ""
+      }
+    }
+  ]
+}

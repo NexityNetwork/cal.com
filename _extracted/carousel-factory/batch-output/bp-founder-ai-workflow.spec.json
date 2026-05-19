@@ -1,0 +1,93 @@
+{
+  "id": "bp-founder-ai-workflow",
+  "brand": "AIFlow",
+  "brief": "A founder's daily AI workflow. Morning, work blocks, communication, end of day. The simple loop that prints.",
+  "theme": "beige-paper",
+  "slides": [
+    {
+      "layoutId": "cover-beige-serif",
+      "slots": {
+        "brand": "",
+        "headline": "Streamline Your Day: AI-Powered Workflow for Founders",
+        "slideCountHero": "6"
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "",
+        "number": "01",
+        "title": "Morning AI Brief",
+        "body": "Start with a quick AI‑generated briefing of key metrics, market news, and priority tasks. The assistant curates insights so you can set a focused agenda for the day.",
+        "handle": "",
+        "domain": ""
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "",
+        "number": "02",
+        "title": "Focused Work Block",
+        "body": "Enter a deep‑work session while AI handles background research and data gathering. Real‑time suggestions keep you on track without breaking concentration.",
+        "handle": "",
+        "domain": ""
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "",
+        "number": "03",
+        "title": "AI‑Assisted Research",
+        "body": "When new questions arise, prompt the AI to fetch relevant studies, competitor analysis, and trend reports. Summaries are delivered in concise bullet points for quick decisions.",
+        "handle": "",
+        "domain": ""
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "",
+        "number": "04",
+        "title": "Automated Emails",
+        "body": "Draft and schedule outreach, follow‑ups, and internal updates with AI‑crafted templates. The system personalizes each message and tracks engagement metrics automatically.",
+        "handle": "",
+        "domain": ""
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "",
+        "number": "05",
+        "title": "Real‑time Analytics",
+        "body": "Monitor product performance, sales funnels, and user behavior through an AI dashboard. Alerts surface anomalies, allowing you to pivot instantly without manual data crunching.",
+        "handle": "",
+        "domain": ""
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "",
+        "number": "06",
+        "title": "Evening Review",
+        "body": "Conclude the day with an AI‑generated recap of achievements, pending tasks, and tomorrow’s priorities. This reflection reinforces momentum and ensures a smooth handoff to the next morning.",
+        "handle": "",
+        "domain": ""
+      }
+    },
+    {
+      "layoutId": "cta-beige-serif",
+      "slots": {
+        "brand": "",
+        "eyebrow": "GET STARTED",
+        "headline": "Boost Your Founder Journey with AI",
+        "body": "Integrate AI tools into your daily routine and watch productivity soar. Join thousands of founders optimizing their workflow today.",
+        "buttonLabel": "",
+        "handle": ""
+      }
+    }
+  ]
+}

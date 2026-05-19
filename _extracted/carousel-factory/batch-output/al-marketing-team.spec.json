@@ -1,0 +1,157 @@
+{
+  "id": "al-marketing-team",
+  "brand": "Your AI Marketing Team",
+  "brief": "Your AI marketing team — SEO agent, social agent, email agent, design agent, analyst agent. How they cooperate.",
+  "theme": "agent-lineup",
+  "slides": [
+    {
+      "layoutId": "cover-agent-lineup",
+      "slots": {
+        "title": "AI Marketing Suite",
+        "description": "A coordinated crew of AI agents that handles SEO, social, email, design, and analytics to grow your brand effortlessly.",
+        "flowLabel": "WORKFLOW",
+        "iconSlug1": "openai",
+        "iconSlug2": "claude",
+        "iconSlug3": "perplexity",
+        "flowCaption": "Capture → Enrich → Store → Analyze",
+        "iconSlug4": "zapier",
+        "iconSlug5": "airtable",
+        "iconSlug6": "notion",
+        "iconSlug7": "slack",
+        "ctaText": "comment 'AGENTS' for the full stack"
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "AGENT 01",
+        "title": "SEO Optimization Agent",
+        "description": "Scans keywords, audits site health, and recommends on‑page tweaks to boost organic traffic.",
+        "iconSlug1": "openai",
+        "iconSlug2": "airtable",
+        "iconSlug3": "zapier",
+        "toolRole1": "Generates SEO‑focused copy",
+        "toolRole2": "Stores keyword data",
+        "toolRole3": "Automates task flow",
+        "iconSlug4": "slack",
+        "iconSlug5": "discord",
+        "iconSlug6": "github",
+        "iconSlug7": "figma",
+        "handle": ""
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "AGENT 02",
+        "title": "Social Media Agent",
+        "description": "Creates platform‑specific posts, schedules publishing, and monitors engagement metrics across channels.",
+        "iconSlug1": "openai",
+        "iconSlug2": "tiktok",
+        "iconSlug3": "instagram",
+        "toolRole1": "Writes catchy captions",
+        "toolRole2": "Formats visual assets",
+        "toolRole3": "Tracks post performance",
+        "iconSlug4": "slack",
+        "iconSlug5": "discord",
+        "iconSlug6": "hubspot",
+        "iconSlug7": "zapier",
+        "handle": ""
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "AGENT 03",
+        "title": "Email Outreach Agent",
+        "description": "Drafts personalized email sequences, manages lists, and logs replies for follow‑up actions.",
+        "iconSlug1": "openai",
+        "iconSlug2": "gmail",
+        "iconSlug3": "zapier",
+        "toolRole1": "Generates tailored copy",
+        "toolRole2": "Sends via Gmail",
+        "toolRole3": "Triggers follow‑up automation",
+        "iconSlug4": "slack",
+        "iconSlug5": "notion",
+        "iconSlug6": "airtable",
+        "iconSlug7": "hubspot",
+        "handle": ""
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "AGENT 04",
+        "title": "Design Creation Agent",
+        "description": "Produces brand‑consistent graphics, selects templates, and exports assets ready for publishing.",
+        "iconSlug1": "openai",
+        "iconSlug2": "figma",
+        "iconSlug3": "framer",
+        "toolRole1": "Ideas visual concepts",
+        "toolRole2": "Builds UI mockups",
+        "toolRole3": "Polishes final designs",
+        "iconSlug4": "slack",
+        "iconSlug5": "discord",
+        "iconSlug6": "zapier",
+        "iconSlug7": "webflow",
+        "handle": ""
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "AGENT 05",
+        "title": "Analytics Insight Agent",
+        "description": "Aggregates data, runs AI‑driven analysis, and delivers actionable reports to the team.",
+        "iconSlug1": "openai",
+        "iconSlug2": "supabase",
+        "iconSlug3": "vercel",
+        "toolRole1": "Collects performance metrics",
+        "toolRole2": "Runs predictive models",
+        "toolRole3": "Generates visual dashboards",
+        "iconSlug4": "slack",
+        "iconSlug5": "github",
+        "iconSlug6": "notion",
+        "iconSlug7": "zapier",
+        "handle": ""
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "STEP 06",
+        "title": "Unified Marketing Workflow",
+        "description": "All agents sync via automation, sharing data in real‑time to keep strategies aligned.",
+        "iconSlug1": "openai",
+        "iconSlug2": "zapier",
+        "iconSlug3": "airtable",
+        "toolRole1": "Coordinates AI tasks",
+        "toolRole2": "Centralizes data store",
+        "toolRole3": "Triggers cross‑agent actions",
+        "iconSlug4": "slack",
+        "iconSlug5": "discord",
+        "iconSlug6": "github",
+        "iconSlug7": "notion",
+        "handle": ""
+      }
+    },
+    {
+      "layoutId": "cta-agent-lineup",
+      "slots": {
+        "eyebrow": "GET STARTED",
+        "ctaHeadline1": "Launch Your AI",
+        "ctaHeadline2": "Full Marketing Stack",
+        "freeBadge": "Completely Free Access",
+        "iconSlug1": "openai",
+        "iconSlug2": "claude",
+        "iconSlug3": "perplexity",
+        "iconSlug4": "zapier",
+        "iconSlug5": "airtable",
+        "iconSlug6": "notion",
+        "iconSlug7": "slack",
+        "iconSlug8": "github",
+        "handle": ""
+      }
+    }
+  ]
+}

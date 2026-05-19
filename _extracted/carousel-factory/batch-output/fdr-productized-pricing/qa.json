@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/fdr-productized-pricing/slide-01.png",
-      "bytes": 293180,
+      "bytes": 293226,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -19,7 +19,7 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/fdr-productized-pricing/slide-02.png",
-      "bytes": 249319,
+      "bytes": 249391,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -45,7 +45,7 @@
     {
       "index": 2,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/fdr-productized-pricing/slide-03.png",
-      "bytes": 258278,
+      "bytes": 258347,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -71,7 +71,7 @@
     {
       "index": 3,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/fdr-productized-pricing/slide-04.png",
-      "bytes": 253154,
+      "bytes": 253228,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -97,7 +97,7 @@
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/fdr-productized-pricing/slide-05.png",
-      "bytes": 254400,
+      "bytes": 254459,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -123,7 +123,7 @@
     {
       "index": 5,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/fdr-productized-pricing/slide-06.png",
-      "bytes": 258084,
+      "bytes": 258157,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -149,7 +149,7 @@
     {
       "index": 6,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/fdr-productized-pricing/slide-07.png",
-      "bytes": 256224,
+      "bytes": 256287,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -175,7 +175,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/fdr-productized-pricing/slide-08.png",
-      "bytes": 59871,
+      "bytes": 59790,
       "qa": {
         "verdict": "pass",
         "checks": {

@@ -1,0 +1,127 @@
+{
+  "id": "lp-ai-saas-bootstrap",
+  "brand": "GrowthLab",
+  "brief": "Bootstrap an AI SaaS to $10k MRR. The lean path — niche, MVP, distribution, pricing, retention.",
+  "theme": "linkedin-pro",
+  "slides": [
+    {
+      "layoutId": "cover-linkedin-pro",
+      "slots": {
+        "author": "",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "",
+        "accentColor": "#0a66c2",
+        "headline": "Bootstrapping AI SaaS to $10k MRR",
+        "heroSymbol": "AI",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#10b981",
+        "body": "Identify a high‑impact problem where AI can automate a costly task. Focus on a tight market segment to validate quickly and build momentum."
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "",
+        "accentColor": "#0a66c2",
+        "title": "Find a Profitable Niche",
+        "body": "Research underserved markets where AI adds clear value. Target professionals willing to pay for automation, and validate demand before building.",
+        "heroSymbol": "AI",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#10b981",
+        "labelText": "Niche first"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "",
+        "accentColor": "#0a66c2",
+        "title": "Build a Lean MVP",
+        "body": "Create a minimal product with one core AI feature. Focus on speed, collect feedback, and iterate quickly to meet real user needs.",
+        "heroSymbol": "AI",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#10b981",
+        "labelText": "MVP matters"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "",
+        "accentColor": "#0a66c2",
+        "title": "Validate with Early Users",
+        "body": "Leverage your network, forums, and LinkedIn groups to find early adopters. Offer free trials in exchange for honest feedback.",
+        "heroSymbol": "AI",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#10b981",
+        "labelText": "Validate fast"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "",
+        "accentColor": "#0a66c2",
+        "title": "Set Pricing for Growth",
+        "body": "Start with a simple subscription tier and test price points. Use value‑based pricing to align cost with the ROI your AI delivers.",
+        "heroSymbol": "AI",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#10b981",
+        "labelText": "Price right"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "",
+        "accentColor": "#0a66c2",
+        "title": "Drive Retention & Upsell",
+        "body": "Implement onboarding emails, in‑app tips, and regular check‑ins. Encourage upgrades by showcasing new features and success stories.",
+        "heroSymbol": "AI",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#10b981",
+        "labelText": "Retain customers"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "",
+        "accentColor": "#0a66c2",
+        "title": "Scale with Automation",
+        "body": "Automate onboarding, billing, and support with AI chatbots. Reinvest revenue into marketing channels that scale efficiently.",
+        "heroSymbol": "AI",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#10b981",
+        "labelText": "Scale smart"
+      }
+    },
+    {
+      "layoutId": "cta-linkedin-pro",
+      "slots": {
+        "author": "",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "",
+        "accentColor": "#0a66c2",
+        "eyebrow": "YOUR TURN?",
+        "headline": "Start Your AI SaaS Journey",
+        "body": "Apply these steps, launch your MVP, and hit $10k MRR faster. Need help? Reach out.",
+        "buttonLabel": "",
+        "secondaryLabel": "Share",
+        "handle": ""
+      }
+    }
+  ]
+}

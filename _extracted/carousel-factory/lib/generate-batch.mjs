@@ -24,6 +24,7 @@ const AUTH = {
   "Content-Type": "application/json",
 };
 const KIMI_URL = `https://api.cloudflare.com/client/v4/accounts/${ACCT}/ai/run/@cf/moonshotai/kimi-k2.6`;
+const FALLBACK_URL = `https://api.cloudflare.com/client/v4/accounts/${ACCT}/ai/run/@cf/openai/gpt-oss-120b`;
 
 const FACTORY = resolve(import.meta.dirname, "..");
 const LAYOUTS = resolve(FACTORY, "layouts");
@@ -987,31 +988,126 @@ const BRIEFS = [
   // coral-mag (2) — magazine-style features
   { id: "fdr-creator-money",      family: "coral-mag", text: "The creator-founder economy in 2026. How writers, podcasters, and educators are using AI to compound income without losing their voice." },
   { id: "fdr-lifestyle-business", family: "coral-mag", text: "The lifestyle business renaissance. Profitable, calm, owner-friendly. The new ambition for founders who watched the unicorn dream die." },
+
+  // ─── Batch 4: tech stacks + automations + AI money (50) ────────────────
+  // tech-stack-grid (10) — non-dev tool stacks for founders
+  { id: "tsg-solopreneur-2026",   family: "tech-stack-grid", text: "The complete solopreneur stack in 2026. Six tools to run a one-person business from anywhere — landing pages, payments, email, automation, content, support." },
+  { id: "tsg-newsletter-money",   family: "tech-stack-grid", text: "The newsletter stack that prints money. ConvertKit/Beehiiv-class tools for writing, audience growth, sponsorships, paid subs." },
+  { id: "tsg-content-marketing",  family: "tech-stack-grid", text: "Content marketing stack 2026 — research, drafting, scheduling, repurposing, analytics. Tools indie founders actually use." },
+  { id: "tsg-cold-outreach",      family: "tech-stack-grid", text: "Cold outreach tech stack — lead source, enrichment, sending tool, warmup, reply detection, CRM sync." },
+  { id: "tsg-webinar-business",   family: "tech-stack-grid", text: "Webinar stack for online courses — landing, registration, live tool, replay, email follow-up, payment." },
+  { id: "tsg-podcast-business",   family: "tech-stack-grid", text: "Podcast business stack — recording, editing, hosting, transcription, distribution, sponsorship management." },
+  { id: "tsg-course-creator",     family: "tech-stack-grid", text: "Course creator complete stack 2026 — course platform, community, payments, email, video hosting, support." },
+  { id: "tsg-coaching-business",  family: "tech-stack-grid", text: "Coaching business stack — scheduling, video calls, intake forms, payments, client portal, notes." },
+  { id: "tsg-freelance-ops",      family: "tech-stack-grid", text: "Freelancer operations stack — proposals, contracts, invoices, time tracking, project mgmt, client comms." },
+  { id: "tsg-community-platform", family: "tech-stack-grid", text: "Community platform stack — Circle/Skool-class, payments, automation, content, member directory." },
+
+  // stack-tour (8) — automation and AI tool deep-dives
+  { id: "st-n8n-money-flows",     family: "stack-tour", text: "Six n8n automations that consistently make money for solopreneurs — lead routing, content publishing, customer onboarding, invoicing." },
+  { id: "st-zapier-vs-make",      family: "stack-tour", text: "Zapier vs Make.com. When to use which. Side-by-side on pricing, complexity, AI integration, ops cost at scale." },
+  { id: "st-make-flows",          family: "stack-tour", text: "Six Make.com flows for solopreneurs — content repurposing, lead capture, sales reminders, support tagging." },
+  { id: "st-ai-automation-stack", family: "stack-tour", text: "AI automation stack for one-person teams in 2026 — orchestration tools, AI APIs, vector stores, scheduling, monitoring." },
+  { id: "st-content-pipeline",    family: "stack-tour", text: "The content automation pipeline — idea capture, draft, edit, publish, repurpose, syndicate. The full tool tour." },
+  { id: "st-lead-gen-auto",       family: "stack-tour", text: "Lead generation that runs while you sleep — sources, enrichment, scoring, routing, follow-up, CRM sync." },
+  { id: "st-crm-automations",     family: "stack-tour", text: "CRM automations that 3x close rates — lead scoring, sequencing, follow-up cadence, AI-drafted replies, win/loss tagging." },
+  { id: "st-sales-auto-stack",    family: "stack-tour", text: "Sales automation stack 2026 — prospecting, outreach, scheduling, proposal, e-sign, payment. End-to-end tour." },
+
+  // agent-lineup (5) — AI roles in the business
+  { id: "al-content-agent",       family: "agent-lineup", text: "Content agents that work while you sleep — ideation, draft, edit, schedule, repurpose, analytics. Each agent's role in the team." },
+  { id: "al-support-replies",     family: "agent-lineup", text: "Five AI agents that handle customer support so you don't have to. Each agent's domain, handoff rules, escalation criteria." },
+  { id: "al-sales-pipeline",      family: "agent-lineup", text: "AI sales pipeline agents — research, outreach, qualification, demo prep, follow-up, close. Roles in a one-person sales team." },
+  { id: "al-marketing-team",      family: "agent-lineup", text: "Your AI marketing team — SEO agent, social agent, email agent, design agent, analyst agent. How they cooperate." },
+  { id: "al-research-stack",      family: "agent-lineup", text: "Research agents that save 10 hours per week — competitive intel, customer interviews, market research, trend monitoring, synthesis." },
+
+  // cream-table (8) — clean comparison tables
+  { id: "ct-ai-tools-money",      family: "cream-table", text: "Eight AI tools founders use to make money. Tool, pricing, primary use case, revenue impact." },
+  { id: "ct-side-hustles",        family: "cream-table", text: "Six AI side hustles you can start this weekend. Hustle, time to first dollar, monthly ceiling, target customer." },
+  { id: "ct-info-products",       family: "cream-table", text: "Six AI info product types to sell in 2026. Type, price range, target audience, time to build, distribution." },
+  { id: "ct-affiliate-niches",    family: "cream-table", text: "Six AI affiliate niches with the best payouts. Niche, top program, commission rate, traffic source." },
+  { id: "ct-prompt-products",     family: "cream-table", text: "Six prompt-pack products selling on Gumroad/LemonSqueezy. Pack name, audience, price, monthly revenue range." },
+  { id: "ct-no-code-ai",          family: "cream-table", text: "Six no-code AI builders compared. Tool, best for, monthly cost, learning curve, integration depth." },
+  { id: "ct-ai-writers",          family: "cream-table", text: "Six AI writers compared for content businesses. Tool, voice quality, pricing, best-fit format." },
+  { id: "ct-ai-research",         family: "cream-table", text: "Six AI research tools for founders. Tool, what it digs into, output quality, ideal use." },
+
+  // linkedin-pro (8) — founder-style money posts
+  { id: "lp-ai-business-types",   family: "linkedin-pro", text: "Six AI business types you can start in 2026 — productized service, micro-SaaS, course, newsletter, agency, info product. Pros, cons, target operator." },
+  { id: "lp-prompt-engineering",  family: "linkedin-pro", text: "Make money with prompt engineering. The four ways indie founders are turning prompts into recurring revenue." },
+  { id: "lp-ai-content-biz",      family: "linkedin-pro", text: "The AI content business model. Audience first, then product. The exact funnel of indie content founders earning $20k/mo." },
+  { id: "lp-ai-consulting",       family: "linkedin-pro", text: "AI consulting services that print money. Six service offerings clients pay $5k+ for. Positioning, scope, deliverables." },
+  { id: "lp-newsletter-rev",      family: "linkedin-pro", text: "Newsletter revenue with AI in 2026. Six monetization layers — sponsors, classifieds, paid tier, product, affiliate, services." },
+  { id: "lp-ai-saas-bootstrap",   family: "linkedin-pro", text: "Bootstrap an AI SaaS to $10k MRR. The lean path — niche, MVP, distribution, pricing, retention." },
+  { id: "lp-ai-course-biz",       family: "linkedin-pro", text: "The AI course business that scales. Course architecture, pricing tiers, community add-on, AI-powered support." },
+  { id: "lp-ai-agency-niche",     family: "linkedin-pro", text: "AI agency niche selection guide. The six niches with the highest willingness to pay in 2026." },
+
+  // before-after (6) — automation transformation stories
+  { id: "ba-manual-to-auto",      family: "before-after", text: "Before and after automating customer onboarding end-to-end. Hours saved, error rate drop, activation lift." },
+  { id: "ba-slack-automations",   family: "before-after", text: "Before and after layering Slack automations onto our ops. Response time, missed alerts, async coordination." },
+  { id: "ba-notion-automated",    family: "before-after", text: "Before and after automating Notion as the company OS. Manual updates dropped, single source of truth." },
+  { id: "ba-invoice-auto",        family: "before-after", text: "Before and after invoice and payment automations. Days-to-pay, accounting hours, churn from billing errors." },
+  { id: "ba-social-media-auto",   family: "before-after", text: "Before and after AI-powered social media automation. Posts per week, engagement, time spent." },
+  { id: "ba-data-sync",           family: "before-after", text: "Before and after cross-tool data sync without code. Manual exports killed, real-time dashboards live." },
+
+  // mag-editorial (3) — premium AI money editorial
+  { id: "me-claude-skills",       family: "mag-editorial", text: "Sell Claude skills as products. The new prompt economy, who's making real money, where the moats are." },
+  { id: "me-templates-store",     family: "mag-editorial", text: "Selling AI templates as products in 2026. The Gumroad-class playbook. Pricing, packaging, distribution." },
+  { id: "me-research-workflow",   family: "mag-editorial", text: "The AI research workflow that saves 10 hours per week. The exact tools, prompts, and rituals." },
+
+  // beige-paper (2) — quiet editorial
+  { id: "bp-founder-ai-workflow", family: "beige-paper", text: "A founder's daily AI workflow. Morning, work blocks, communication, end of day. The simple loop that prints." },
+  { id: "bp-customer-research",   family: "beige-paper", text: "Customer research with AI. The five-question framework, the tools, the synthesis ritual that creates winning offers." },
 ];
 
 // ─── Kimi planner with retry on JSON parse failure ─────────────────────────
 
+async function callModel(url, brief, family, maxTokens) {
+  const res = await fetch(url, {
+    method: "POST",
+    headers: AUTH,
+    body: JSON.stringify({
+      messages: [{ role: "user", content: PROMPT_TEMPLATE(brief, family) }],
+      max_tokens: maxTokens,
+      temperature: 0.7,
+    }),
+  });
+  return res.json();
+}
+
 async function plan(brief, family) {
+  // Up to 2 Kimi attempts, then up to 2 gpt-oss-120b fallback attempts.
+  // Kimi is preferred for quality; gpt-oss is the lifeline when CF capacity caps Kimi.
   for (let attempt = 1; attempt <= 2; attempt++) {
-    const res = await fetch(KIMI_URL, {
-      method: "POST",
-      headers: AUTH,
-      body: JSON.stringify({
-        messages: [{ role: "user", content: PROMPT_TEMPLATE(brief, family) }],
-        max_tokens: 32000,
-        temperature: 0.7,
-      }),
-    });
-    const data = await res.json();
-    if (!data.success) throw new Error(`Kimi err: ${JSON.stringify(data.errors).slice(0, 300)}`);
+    const data = await callModel(KIMI_URL, brief, family, 32000);
+    if (!data.success) {
+      const errStr = JSON.stringify(data.errors).slice(0, 300);
+      // Capacity / unknown internal error → break and try fallback.
+      if (/Capacity|3040|3044|Unknown internal/i.test(errStr)) break;
+      throw new Error(`Kimi err: ${errStr}`);
+    }
     let content = data.result?.choices?.[0]?.message?.content ?? data.result?.response ?? "";
     if (!content) {
-      if (attempt === 2) throw new Error(`Empty Kimi response after retry (finish=${data.result?.choices?.[0]?.finish_reason})`);
+      if (attempt === 2) break;
+      continue;
+    }
+    content = content.replace(/^```json\s*/i, "").replace(/^```\s*/i, "").replace(/```\s*$/i, "").trim();
+    try { return JSON.parse(content); } catch {
+      if (attempt === 2) break;
+    }
+  }
+  // Fallback: gpt-oss-120b
+  for (let attempt = 1; attempt <= 2; attempt++) {
+    const data = await callModel(FALLBACK_URL, brief, family, 16000);
+    if (!data.success) {
+      if (attempt === 2) throw new Error(`Fallback err: ${JSON.stringify(data.errors).slice(0, 300)}`);
+      continue;
+    }
+    let content = data.result?.choices?.[0]?.message?.content ?? data.result?.response ?? "";
+    if (!content) {
+      if (attempt === 2) throw new Error(`Empty fallback response`);
       continue;
     }
     content = content.replace(/^```json\s*/i, "").replace(/^```\s*/i, "").replace(/```\s*$/i, "").trim();
     try { return JSON.parse(content); } catch (e) {
-      if (attempt === 2) throw new Error(`JSON parse failed: ${e.message}`);
+      if (attempt === 2) throw new Error(`Fallback JSON parse failed: ${e.message}`);
     }
   }
 }

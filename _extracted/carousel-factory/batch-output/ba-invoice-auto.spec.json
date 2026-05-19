@@ -1,0 +1,180 @@
+{
+  "id": "ba-invoice-auto",
+  "brand": "FinFlow",
+  "brief": "Before and after invoice and payment automations. Days-to-pay, accounting hours, churn from billing errors.",
+  "theme": "before-after",
+  "slides": [
+    {
+      "layoutId": "cover-before-after",
+      "slots": {
+        "pageOf": "",
+        "handle": "",
+        "title": "Stop manual invoicing",
+        "titleAccent": "automate payments",
+        "description": "Turn hours of billing into instant, error‑free transactions. Reduce days‑to‑pay and eliminate costly mistakes.",
+        "badLabel1": "Slow processing",
+        "badLabel2": "Frequent errors",
+        "badStat1": "45 days to pay",
+        "badStat2": "120 hrs/month",
+        "goodLabel1": "Instant payments",
+        "goodLabel2": "Zero errors",
+        "goodStat1": "5 days to pay",
+        "goodStat2": "0 hrs/month",
+        "iconSlug1": "icon-invoice",
+        "iconSlug2": "icon-clock",
+        "iconSlug3": "icon-automation",
+        "iconSlug4": "icon-check"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 02 / 07",
+        "handle": "",
+        "title": "Reduce payment lag",
+        "titleAccent": "speed up cash",
+        "description": "Accelerate the time it takes for clients to settle invoices.",
+        "badLabel": "BEFORE",
+        "badText": "Invoices sit unpaid for weeks, tying up cash flow.",
+        "badStat": "45 days to pay",
+        "iconSlug1": "icon-invoice",
+        "iconSlug2": "icon-slow",
+        "goodLabel": "AFTER",
+        "goodText": "Automated reminders cut payment time dramatically.",
+        "goodStat": "5 days to pay",
+        "iconSlug3": "icon-automation",
+        "iconSlug4": "icon-reminder",
+        "iconSlug5": "icon-speed",
+        "ctaArrow": "See the speed"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 03 / 07",
+        "handle": "",
+        "title": "Cut accounting work",
+        "titleAccent": "save time",
+        "description": "Free your team from repetitive data entry.",
+        "badLabel": "BEFORE",
+        "badText": "Finance staff spend hours reconciling each invoice.",
+        "badStat": "120 hrs/month",
+        "iconSlug1": "icon-people",
+        "iconSlug2": "icon-manual",
+        "goodLabel": "AFTER",
+        "goodText": "Automation records payments instantly.",
+        "goodStat": "0 hrs/month",
+        "iconSlug3": "icon-automation",
+        "iconSlug4": "icon-sync",
+        "iconSlug5": "icon-time",
+        "ctaArrow": "Learn how"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 04 / 07",
+        "handle": "",
+        "title": "Eliminate billing errors",
+        "titleAccent": "retain customers",
+        "description": "Accurate invoices keep clients happy.",
+        "badLabel": "BEFORE",
+        "badText": "Mistakes cause disputes and lost customers.",
+        "badStat": "8 % churn",
+        "iconSlug1": "icon-error",
+        "iconSlug2": "icon-dispute",
+        "goodLabel": "AFTER",
+        "goodText": "Precision billing reduces churn.",
+        "goodStat": "2 % churn",
+        "iconSlug3": "icon-precision",
+        "iconSlug4": "icon-happy",
+        "iconSlug5": "icon-retain",
+        "ctaArrow": "Reduce churn"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 05 / 07",
+        "handle": "",
+        "title": "Lower processing cost",
+        "titleAccent": "save money",
+        "description": "Spend less on labor and paper.",
+        "badLabel": "BEFORE",
+        "badText": "Each invoice costs $15 in labor and supplies.",
+        "badStat": "$15/invoice",
+        "iconSlug1": "icon-paper",
+        "iconSlug2": "icon-dollar",
+        "goodLabel": "AFTER",
+        "goodText": "Digital workflow cuts cost per invoice.",
+        "goodStat": "$3/invoice",
+        "iconSlug3": "icon-digital",
+        "iconSlug4": "icon-savings",
+        "iconSlug5": "icon-report",
+        "ctaArrow": "Cut costs"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 06 / 07",
+        "handle": "",
+        "title": "Boost cash flow insight",
+        "titleAccent": "real‑time data",
+        "description": "Know exactly what's owed at any moment.",
+        "badLabel": "BEFORE",
+        "badText": "Late reports hide outstanding balances.",
+        "badStat": "30 % unknown",
+        "iconSlug1": "icon-report",
+        "iconSlug2": "icon-blind",
+        "goodLabel": "AFTER",
+        "goodText": "Live dashboards show every pending payment.",
+        "goodStat": "95 % visibility",
+        "iconSlug3": "icon-dashboard",
+        "iconSlug4": "icon-live",
+        "iconSlug5": "icon-clear",
+        "ctaArrow": "Get visibility"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 07 / 07",
+        "handle": "",
+        "title": "Enhance client experience",
+        "titleAccent": "easy payments",
+        "description": "Provide seamless payment options.",
+        "badLabel": "BEFORE",
+        "badText": "Clients struggle with outdated invoicing.",
+        "badStat": "4 /5 frustration",
+        "iconSlug1": "icon-frustrated",
+        "iconSlug2": "icon-old",
+        "goodLabel": "AFTER",
+        "goodText": "Self‑service portal simplifies checkout.",
+        "goodStat": "5 /5 satisfaction",
+        "iconSlug3": "icon-portal",
+        "iconSlug4": "icon-smile",
+        "iconSlug5": "icon-success",
+        "ctaArrow": "Upgrade now"
+      }
+    },
+    {
+      "layoutId": "cta-before-after",
+      "slots": {
+        "pageOf": "",
+        "handle": "",
+        "eyebrow": "MAKE THE SWITCH",
+        "headlineLine1": "From manual",
+        "headlineAccent": "to automated",
+        "body": "Join thousands who have streamlined billing, cut costs, and improved cash flow with FinFlow’s smart automation.",
+        "iconSlug1": "icon-automation",
+        "iconSlug2": "icon-save",
+        "iconSlug3": "icon-growth",
+        "iconSlug4": "icon-secure",
+        "iconSlug5": "icon-support",
+        "iconSlug6": "icon-start",
+        "ctaText": "Start automating today"
+      }
+    }
+  ]
+}

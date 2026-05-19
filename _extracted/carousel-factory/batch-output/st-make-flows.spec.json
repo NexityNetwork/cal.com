@@ -1,0 +1,175 @@
+{
+  "id": "st-make-flows",
+  "brand": "Solopreneur Stack",
+  "brief": "Six Make.com flows for solopreneurs — content repurposing, lead capture, sales reminders, support tagging.",
+  "theme": "stack-tour",
+  "slides": [
+    {
+      "layoutId": "cover-stack-tour",
+      "slots": {
+        "eyebrow": "MY 6-FLOW STACK",
+        "title": "Six Make.com Automations for Solopreneurs",
+        "description": "Connect lead capture, content repurposing, sales follow-ups, and support in one visual builder.",
+        "iconSlug1": "youtube",
+        "iconSlug2": "typeform",
+        "iconSlug3": "airtable",
+        "iconSlug4": "slack",
+        "iconSlug5": "notion",
+        "iconSlug6": "stripe",
+        "toolRole1": "Video content engine",
+        "toolRole2": "Lead capture forms",
+        "toolRole3": "Deal tracking CRM",
+        "toolRole4": "Support command center",
+        "toolRole5": "Client workspace hub",
+        "toolRole6": "Invoice and payments",
+        "ctaText": "See the breakdown",
+        "handle": ""
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "02 / 08",
+        "handle": "",
+        "iconSlug1": "youtube",
+        "toolTagline": "Turn one video into ten posts",
+        "description": "Pull new uploads automatically, transcribe highlights, then draft social clips for every channel.",
+        "bullet1": "Auto-detect new video uploads",
+        "bullet2": "Generate timestamped clip outlines",
+        "bullet3": "Queue posts across channels",
+        "accentColor": "#FF0000",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "make",
+        "iconSlug3": "notion",
+        "iconSlug4": "openai",
+        "iconSlug5": "instagram",
+        "iconSlug6": "linkedin",
+        "ctaBottom": "Swipe to explore"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "03 / 08",
+        "handle": "",
+        "iconSlug1": "typeform",
+        "toolTagline": "Capture and route inbound leads",
+        "description": "Turn form submissions into qualified leads, notify Slack, and enrich records in your CRM.",
+        "bullet1": "Qualify leads with logic jumps",
+        "bullet2": "Send instant alerts to Slack",
+        "bullet3": "Enrich contact data automatically",
+        "accentColor": "#FF3B9A",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "make",
+        "iconSlug3": "gmail",
+        "iconSlug4": "airtable",
+        "iconSlug5": "slack",
+        "iconSlug6": "notion",
+        "ctaBottom": "Next flow ahead"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "04 / 08",
+        "handle": "",
+        "iconSlug1": "airtable",
+        "toolTagline": "Never let a deal go cold",
+        "description": "Watch deal stages in your CRM and trigger timed nudges when prospects stall too long.",
+        "bullet1": "Track deal stage changes",
+        "bullet2": "Send timed email follow-ups",
+        "bullet3": "Alert when deals stall",
+        "accentColor": "#FCB400",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "make",
+        "iconSlug3": "gmail",
+        "iconSlug4": "slack",
+        "iconSlug5": "stripe",
+        "iconSlug6": "calendly",
+        "ctaBottom": "Keep on swiping"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "05 / 08",
+        "handle": "",
+        "iconSlug1": "slack",
+        "toolTagline": "Route tickets to the right channel",
+        "description": "Auto-categorize incoming support emails and mentions, then tag priority issues for faster resolution.",
+        "bullet1": "Categorize by keyword intent",
+        "bullet2": "Tag urgent requests instantly",
+        "bullet3": "Log threads in knowledge base",
+        "accentColor": "#4A154B",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "make",
+        "iconSlug3": "gmail",
+        "iconSlug4": "notion",
+        "iconSlug5": "openai",
+        "iconSlug6": "airtable",
+        "ctaBottom": "Swipe for more"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "06 / 08",
+        "handle": "",
+        "iconSlug1": "notion",
+        "toolTagline": "Deliver a seamless welcome experience",
+        "description": "Generate client portals, task checklists, and welcome packets automatically when a project is won.",
+        "bullet1": "Spin up client portals",
+        "bullet2": "Assign onboarding task lists",
+        "bullet3": "Share welcome packets fast",
+        "accentColor": "#000000",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "make",
+        "iconSlug3": "gmail",
+        "iconSlug4": "slack",
+        "iconSlug5": "calendly",
+        "iconSlug6": "typeform",
+        "ctaBottom": "Almost finished"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "07 / 08",
+        "handle": "",
+        "iconSlug1": "stripe",
+        "toolTagline": "Get paid without chasing clients",
+        "description": "Generate invoices from completed milestones and send polite payment reminders before due dates.",
+        "bullet1": "Create invoices on completion",
+        "bullet2": "Send polite pre-due reminders",
+        "bullet3": "Reconcile payments in Notion",
+        "accentColor": "#635BFF",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "make",
+        "iconSlug3": "gmail",
+        "iconSlug4": "notion",
+        "iconSlug5": "slack",
+        "iconSlug6": "typeform",
+        "ctaBottom": "Final slide next"
+      }
+    },
+    {
+      "layoutId": "cta-stack-tour",
+      "slots": {
+        "pageOf": "",
+        "handle": "",
+        "eyebrow": "YOUR TURN",
+        "headlineLine1": "BUILD YOUR STACK",
+        "headlineLine2": "IN MAKE TODAY",
+        "iconSlug1": "make",
+        "iconSlug2": "notion",
+        "iconSlug3": "airtable",
+        "iconSlug4": "slack",
+        "iconSlug5": "stripe",
+        "iconSlug6": "openai",
+        "iconSlug7": "gmail",
+        "body": "Connect your favorite tools in one afternoon and reclaim hours every week.",
+        "ctaText": "Start building now"
+      }
+    }
+  ]
+}

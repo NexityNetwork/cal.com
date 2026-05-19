@@ -1,0 +1,180 @@
+{
+  "id": "ba-social-media-auto",
+  "brand": "SocialBoost",
+  "brief": "Before and after AI-powered social media automation. Posts per week, engagement, time spent.",
+  "theme": "before-after",
+  "slides": [
+    {
+      "layoutId": "cover-before-after",
+      "slots": {
+        "pageOf": "",
+        "handle": "",
+        "title": "Stop Wasting Time",
+        "titleAccent": "With AI",
+        "description": "Automate your posts and boost engagement using AI.",
+        "badLabel1": "Manual scheduling pain",
+        "badLabel2": "Low engagement rates",
+        "badStat1": "3 hrs/week",
+        "badStat2": "15% reach",
+        "goodLabel1": "Smart content scaling",
+        "goodLabel2": "Higher audience interaction",
+        "goodStat1": "5 posts/day",
+        "goodStat2": "45% engagement",
+        "iconSlug1": "icon-automation",
+        "iconSlug2": "icon-analytics",
+        "iconSlug3": "icon-scheduling",
+        "iconSlug4": "icon-growth"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 02 / 06",
+        "handle": "",
+        "title": "Posts per week",
+        "titleAccent": "Scaled",
+        "description": "AI schedules optimal posting cadence.",
+        "badLabel": "BEFORE",
+        "badText": "Manual planning limited output.",
+        "badStat": "3 posts/week",
+        "iconSlug1": "icon-manual",
+        "iconSlug2": "icon-limit",
+        "goodLabel": "AFTER",
+        "goodText": "Automation drives volume.",
+        "goodStat": "15 posts/week",
+        "iconSlug3": "icon-automation",
+        "iconSlug4": "icon-scale",
+        "iconSlug5": "icon-growth",
+        "ctaArrow": "Learn More"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 03 / 06",
+        "handle": "",
+        "title": "Engagement rate",
+        "titleAccent": "Boosted",
+        "description": "AI optimizes content timing.",
+        "badLabel": "BEFORE",
+        "badText": "Inconsistent posting lowered interaction.",
+        "badStat": "5% avg",
+        "iconSlug1": "icon-low",
+        "iconSlug2": "icon-inconsistent",
+        "goodLabel": "AFTER",
+        "goodText": "Smart scheduling lifts engagement.",
+        "goodStat": "30% avg",
+        "iconSlug3": "icon-smart",
+        "iconSlug4": "icon-lift",
+        "iconSlug5": "icon-engage",
+        "ctaArrow": "See How"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 04 / 06",
+        "handle": "",
+        "title": "Time spent",
+        "titleAccent": "Reduced",
+        "description": "Automation cuts manual effort.",
+        "badLabel": "BEFORE",
+        "badText": "Team spent hours on planning.",
+        "badStat": "4 hrs/week",
+        "iconSlug1": "icon-hours",
+        "iconSlug2": "icon-planning",
+        "goodLabel": "AFTER",
+        "goodText": "AI handles scheduling instantly.",
+        "goodStat": "1 hr/week",
+        "iconSlug3": "icon-instant",
+        "iconSlug4": "icon-saving",
+        "iconSlug5": "icon-efficiency",
+        "ctaArrow": "Find Out"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 05 / 06",
+        "handle": "",
+        "title": "Reach per post",
+        "titleAccent": "Expanded",
+        "description": "Targeted AI boosts audience reach.",
+        "badLabel": "BEFORE",
+        "badText": "Limited targeting reduced reach.",
+        "badStat": "500 users",
+        "iconSlug1": "icon-limited",
+        "iconSlug2": "icon-target",
+        "goodLabel": "AFTER",
+        "goodText": "AI expands audience insights.",
+        "goodStat": "1500 users",
+        "iconSlug3": "icon-insight",
+        "iconSlug4": "icon-expand",
+        "iconSlug5": "icon-audience",
+        "ctaArrow": "Explore"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 06 / 06",
+        "handle": "",
+        "title": "Cost per lead",
+        "titleAccent": "Lowered",
+        "description": "AI reduces acquisition expenses.",
+        "badLabel": "BEFORE",
+        "badText": "High ad spend per lead.",
+        "badStat": "$300/lead",
+        "iconSlug1": "icon-highcost",
+        "iconSlug2": "icon-spend",
+        "goodLabel": "AFTER",
+        "goodText": "Automation cuts cost dramatically.",
+        "goodStat": "$25/lead",
+        "iconSlug3": "icon-lowcost",
+        "iconSlug4": "icon-savings",
+        "iconSlug5": "icon-value",
+        "ctaArrow": "Start Saving"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 07 / 06",
+        "handle": "",
+        "title": "Conversion rate",
+        "titleAccent": "Improved",
+        "description": "AI nurtures leads to convert.",
+        "badLabel": "BEFORE",
+        "badText": "Low conversion from manual posts.",
+        "badStat": "2% conv",
+        "iconSlug1": "icon-lowconv",
+        "iconSlug2": "icon-manual",
+        "goodLabel": "AFTER",
+        "goodText": "Smart content drives actions.",
+        "goodStat": "12% conv",
+        "iconSlug3": "icon-highconv",
+        "iconSlug4": "icon-action",
+        "iconSlug5": "icon-success",
+        "ctaArrow": "Boost Now"
+      }
+    },
+    {
+      "layoutId": "cta-before-after",
+      "slots": {
+        "pageOf": "",
+        "handle": "",
+        "eyebrow": "MAKE THE SWITCH",
+        "headlineLine1": "From Manual To AI",
+        "headlineAccent": "Effortless",
+        "body": "Transform your social media workflow with AI-driven automation and see measurable gains.",
+        "iconSlug1": "icon-automation",
+        "iconSlug2": "icon-analytics",
+        "iconSlug3": "icon-scheduling",
+        "iconSlug4": "icon-growth",
+        "iconSlug5": "icon-engagement",
+        "iconSlug6": "icon-efficiency",
+        "ctaText": "Start Automating Today"
+      }
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "id": "lp-ai-consulting",
+  "brand": "AI Money Consulting",
+  "brief": "AI consulting services that print money. Six service offerings clients pay $5k+ for. Positioning, scope, deliverables.",
+  "theme": "linkedin-pro",
+  "slides": [
+    {
+      "layoutId": "cover-linkedin-pro",
+      "slots": {
+        "author": "",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "",
+        "accentColor": "#0a66c2",
+        "headline": "Turn AI Into Revenue Engine",
+        "heroSymbol": "$$",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#e85d04",
+        "body": "Unlock AI strategies that generate profit. Our proven framework turns data into cash flow, giving you a competitive edge."
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "",
+        "title": "AI Strategy & Roadmap",
+        "body": "We craft a bespoke AI vision, outline milestones, and define KPI‑driven deliverables that align with your growth targets.",
+        "heroSymbol": "$$",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#e85d04",
+        "labelText": "Scale with AI"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "",
+        "title": "Custom Model Development",
+        "body": "Our engineers build, train, and validate proprietary models that solve your toughest business problems, delivering measurable ROI.",
+        "heroSymbol": "$$",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#e85d04",
+        "labelText": "Scale with AI"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "",
+        "title": "Data Pipeline Engineering",
+        "body": "We design end‑to‑end data pipelines that ensure clean, real‑time inputs for AI, boosting accuracy and speed of insights.",
+        "heroSymbol": "$$",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#e85d04",
+        "labelText": "Scale with AI"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "",
+        "title": "AI‑Driven Marketing Automation",
+        "body": "Deploy intelligent campaigns that personalize at scale, increasing conversion rates while reducing acquisition cost.",
+        "heroSymbol": "$$",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#e85d04",
+        "labelText": "Scale with AI"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "",
+        "title": "Predictive Analytics Dashboard",
+        "body": "Interactive dashboards surface forecasts and actionable insights, empowering leadership to make data‑first decisions instantly.",
+        "heroSymbol": "$$",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#e85d04",
+        "labelText": "Scale with AI"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "",
+        "title": "Continuous Optimization & Support",
+        "body": "Ongoing monitoring, A/B testing, and model retraining keep your AI solutions performing at peak profitability.",
+        "heroSymbol": "$$",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#e85d04",
+        "labelText": "Scale with AI"
+      }
+    },
+    {
+      "layoutId": "cta-linkedin-pro",
+      "slots": {
+        "author": "",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "",
+        "accentColor": "#0a66c2",
+        "eyebrow": "YOUR TURN?",
+        "headline": "Ready to Monetize Your AI?",
+        "body": "Book a free strategy session and see how our AI solutions can start printing money for your business.",
+        "buttonLabel": "",
+        "secondaryLabel": "Share",
+        "handle": ""
+      }
+    }
+  ]
+}
