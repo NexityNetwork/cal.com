@@ -1,0 +1,157 @@
+{
+  "id": "al-competitor-monitor",
+  "brand": "IntelFlow",
+  "brief": "The competitive intelligence agent that monitors 50 competitors daily and sends a Slack digest.",
+  "theme": "agent-lineup",
+  "slides": [
+    {
+      "layoutId": "cover-agent-lineup",
+      "slots": {
+        "title": "Competitor Intel Digest Agent",
+        "description": "Monitors 50 competitors daily, scrapes pricing and product updates, then delivers a Slack digest every morning.",
+        "flowLabel": "WORKFLOW",
+        "iconSlug1": "apollo",
+        "iconSlug2": "perplexity",
+        "iconSlug3": "slack",
+        "flowCaption": "Track → analyze → alert automatically",
+        "iconSlug4": "claude",
+        "iconSlug5": "n8n",
+        "iconSlug6": "notion",
+        "iconSlug7": "airtable",
+        "ctaText": "Comment 'AGENTS' for the full stack"
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "STEP 01",
+        "title": "Competitor Discovery Engine",
+        "description": "Scans LinkedIn and Apollo to identify your top 50 competitors and map their digital footprint automatically.",
+        "iconSlug1": "apollo",
+        "iconSlug2": "linkedin",
+        "iconSlug3": "perplexity",
+        "toolRole1": "Finds competitor lists from ICP",
+        "toolRole2": "Maps company pages and hires",
+        "toolRole3": "Researches news and positioning",
+        "iconSlug4": "slack",
+        "iconSlug5": "notion",
+        "iconSlug6": "n8n",
+        "iconSlug7": "openai",
+        "handle": "@intelflow"
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "STEP 02",
+        "title": "Content Change Tracker",
+        "description": "Watches competitor blogs, pricing pages, and social channels to catch every update the moment it goes live.",
+        "iconSlug1": "youtube",
+        "iconSlug2": "instagram",
+        "iconSlug3": "linkedin",
+        "toolRole1": "Monitors video and channel updates",
+        "toolRole2": "Tracks posts and stories daily",
+        "toolRole3": "Captures page changes and jobs",
+        "iconSlug4": "zapier",
+        "iconSlug5": "make",
+        "iconSlug6": "airtable",
+        "iconSlug7": "discord",
+        "handle": "@intelflow"
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "STEP 03",
+        "title": "Signal Analysis Engine",
+        "description": "Feeds raw updates into Claude and OpenAI to extract pricing shifts, feature launches, and strategic moves instantly.",
+        "iconSlug1": "claude",
+        "iconSlug2": "openai",
+        "iconSlug3": "perplexity",
+        "toolRole1": "Classifies updates by urgency",
+        "toolRole2": "Extracts pricing and feature shifts",
+        "toolRole3": "Cross-references market sentiment data",
+        "iconSlug4": "supabase",
+        "iconSlug5": "vercel",
+        "iconSlug6": "github",
+        "iconSlug7": "figma",
+        "handle": "@intelflow"
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "STEP 04",
+        "title": "Intel Database Agent",
+        "description": "Structures competitor insights into Airtable and Notion databases for searchable, filterable intelligence records on demand.",
+        "iconSlug1": "airtable",
+        "iconSlug2": "notion",
+        "iconSlug3": "supabase",
+        "toolRole1": "Stores structured competitor records",
+        "toolRole2": "Builds wiki pages and docs",
+        "toolRole3": "Syncs data to production backend",
+        "iconSlug4": "loom",
+        "iconSlug5": "calendly",
+        "iconSlug6": "hubspot",
+        "iconSlug7": "stripe",
+        "handle": "@intelflow"
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "STEP 05",
+        "title": "Slack Digest Agent",
+        "description": "Formats the daily brief into a clean Slack digest with highlights, links, and action items every morning.",
+        "iconSlug1": "slack",
+        "iconSlug2": "discord",
+        "iconSlug3": "gmail",
+        "toolRole1": "Posts daily digest to channels",
+        "toolRole2": "Mirrors alerts to team servers",
+        "toolRole3": "Emails executives key summaries",
+        "iconSlug4": "webflow",
+        "iconSlug5": "framer",
+        "iconSlug6": "tiktok",
+        "iconSlug7": "youtube",
+        "handle": "@intelflow"
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "STEP 06",
+        "title": "Stakeholder Report Agent",
+        "description": "Auto-generates Loom summaries and HubSpot notes so leadership stays informed without reading raw data feeds.",
+        "iconSlug1": "loom",
+        "iconSlug2": "hubspot",
+        "iconSlug3": "gmail",
+        "toolRole1": "Records video briefs for teams",
+        "toolRole2": "Logs activity to CRM records",
+        "toolRole3": "Distributes PDF summaries daily",
+        "iconSlug4": "apollo",
+        "iconSlug5": "perplexity",
+        "iconSlug6": "n8n",
+        "iconSlug7": "openai",
+        "handle": "@intelflow"
+      }
+    },
+    {
+      "layoutId": "cta-agent-lineup",
+      "slots": {
+        "eyebrow": "FULL STACK INSIDE",
+        "ctaHeadline1": "Build Your AI",
+        "ctaHeadline2": "Competitive Intel Stack",
+        "freeBadge": "100% FREE BLUEPRINT",
+        "iconSlug1": "slack",
+        "iconSlug2": "claude",
+        "iconSlug3": "openai",
+        "iconSlug4": "n8n",
+        "iconSlug5": "notion",
+        "iconSlug6": "airtable",
+        "iconSlug7": "apollo",
+        "iconSlug8": "perplexity",
+        "handle": "@intelflow"
+      }
+    }
+  ]
+}

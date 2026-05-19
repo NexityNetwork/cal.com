@@ -1,0 +1,180 @@
+{
+  "id": "la-cf-hidden-tools",
+  "brand": "Stack Pick",
+  "brief": "8 Cloudflare tools most developers don't know exist — all free tier, all production-grade.",
+  "theme": "lime-accent",
+  "slides": [
+    {
+      "layoutId": "cover-lime-accent",
+      "slots": {
+        "brandTag": "STACK PICK",
+        "handle": "stack.51ultron.com",
+        "eyebrow": "FREE TIER",
+        "titleLine1": "6 hidden",
+        "titleCallout": "Cloudflare",
+        "titleLine3": "dev tools",
+        "iconSlug1": "cloudflare-d1",
+        "iconSlug2": "cloudflare-r2",
+        "iconSlug3": "cloudflare-queues",
+        "iconSlug4": "cloudflare-ai-gateway",
+        "iconSlug5": "cloudflare-vectorize",
+        "iconSlug6": "cloudflare-hyperdrive",
+        "swipeLabel": "SEE LIST",
+        "pageOf": "01 / 08"
+      }
+    },
+    {
+      "layoutId": "body-lime-accent",
+      "slots": {
+        "numLabel": "TOOL 01",
+        "handle": "stack.51ultron.com",
+        "iconSlug1": "cloudflare-d1",
+        "toolTag": "free tier",
+        "toolTagline": "Serverless SQLite database at the edge.",
+        "bodyText": "D1 gives you a relational database <em>zero-config</em> across Cloudflare's global network. Perfect for structured data that KV can't handle.",
+        "bullet1": "SQLite-compatible schema",
+        "bullet2": "Automatic global replication",
+        "bullet3": "Workers-native bindings",
+        "metric1Label": "PRICE",
+        "metric1Value": "Free",
+        "metric2Label": "ROWS/DAY",
+        "metric2Value": "500K",
+        "metric3Label": "OSS",
+        "metric3Value": "No",
+        "pageOf": "02 / 08",
+        "footerNote": "serverless SQL edge"
+      }
+    },
+    {
+      "layoutId": "body-lime-accent",
+      "slots": {
+        "numLabel": "TOOL 02",
+        "handle": "stack.51ultron.com",
+        "iconSlug1": "cloudflare-r2",
+        "toolTag": "zero egress",
+        "toolTagline": "S3-compatible object storage without egress fees.",
+        "bodyText": "R2 stores anything from images to backups <em>with zero egress costs</em>. Migrate from S3 seamlessly using existing SDKs.",
+        "bullet1": "S3-compatible API",
+        "bullet2": "No egress fees ever",
+        "bullet3": "Integrates with Workers",
+        "metric1Label": "PRICE",
+        "metric1Value": "Free",
+        "metric2Label": "STORAGE",
+        "metric2Value": "10 GB",
+        "metric3Label": "REQUESTS",
+        "metric3Value": "1M/mo",
+        "pageOf": "03 / 08",
+        "footerNote": "S3-compatible storage"
+      }
+    },
+    {
+      "layoutId": "body-lime-accent",
+      "slots": {
+        "numLabel": "TOOL 03",
+        "handle": "stack.51ultron.com",
+        "iconSlug1": "cloudflare-queues",
+        "toolTag": "async",
+        "toolTagline": "Global message queue for background jobs.",
+        "bodyText": "Queues offload heavy work from requests into <em>reliable background workers</em>. Fan-out, retries, and durability built-in.",
+        "bullet1": "At-least-once delivery",
+        "bullet2": "Automatic retries",
+        "bullet3": "TypeScript SDK support",
+        "metric1Label": "PRICE",
+        "metric1Value": "Free",
+        "metric2Label": "OPS/DAY",
+        "metric2Value": "1M",
+        "metric3Label": "OSS",
+        "metric3Value": "No",
+        "pageOf": "04 / 08",
+        "footerNote": "edge message queue"
+      }
+    },
+    {
+      "layoutId": "body-lime-accent",
+      "slots": {
+        "numLabel": "TOOL 04",
+        "handle": "stack.51ultron.com",
+        "iconSlug1": "cloudflare-ai-gateway",
+        "toolTag": "AI ops",
+        "toolTagline": "Unified proxy for LLM APIs with caching.",
+        "bodyText": "AI Gateway sits between your app and providers to <em>cache responses and rate-limit</em> spend across OpenAI, Groq, and more.",
+        "bullet1": "Provider-agnostic proxy",
+        "bullet2": "Built-in caching layer",
+        "bullet3": "Real-time cost tracking",
+        "metric1Label": "PRICE",
+        "metric1Value": "Free",
+        "metric2Label": "REQ/DAY",
+        "metric2Value": "100K",
+        "metric3Label": "PROVIDERS",
+        "metric3Value": "10+",
+        "pageOf": "05 / 08",
+        "footerNote": "LLM proxy cache"
+      }
+    },
+    {
+      "layoutId": "body-lime-accent",
+      "slots": {
+        "numLabel": "TOOL 05",
+        "handle": "stack.51ultron.com",
+        "iconSlug1": "cloudflare-vectorize",
+        "toolTag": "vector DB",
+        "toolTagline": "Edge-native vector database for AI search.",
+        "bodyText": "Vectorize stores embeddings alongside your Workers for <em>low-latency semantic search</em> without managing infrastructure.",
+        "bullet1": "Embedding storage",
+        "bullet2": "Metadata filtering",
+        "bullet3": "Workers bindings",
+        "metric1Label": "PRICE",
+        "metric1Value": "Free",
+        "metric2Label": "DIMS/DAY",
+        "metric2Value": "1M",
+        "metric3Label": "INDEXES",
+        "metric3Value": "1",
+        "pageOf": "06 / 08",
+        "footerNote": "AI vector search"
+      }
+    },
+    {
+      "layoutId": "body-lime-accent",
+      "slots": {
+        "numLabel": "TOOL 06",
+        "handle": "stack.51ultron.com",
+        "iconSlug1": "cloudflare-hyperdrive",
+        "toolTag": "db cache",
+        "toolTagline": "Database accelerator and connection pooler.",
+        "bodyText": "Hyperdrive makes your existing Postgres database <em>feel serverless</em> by pooling connections and caching queries at the edge.",
+        "bullet1": "Postgres connection pool",
+        "bullet2": "Query result caching",
+        "bullet3": "No code changes needed",
+        "metric1Label": "PRICE",
+        "metric1Value": "Free",
+        "metric2Label": "QUERIES",
+        "metric2Value": "Unlimited",
+        "metric3Label": "SETUP",
+        "metric3Value": "1-click",
+        "pageOf": "07 / 08",
+        "footerNote": "Postgres accelerator"
+      }
+    },
+    {
+      "layoutId": "cta-lime-accent",
+      "slots": {
+        "brandTag": "WRAP",
+        "handle": "stack.51ultron.com",
+        "eyebrow": "PICK YOUR STACK",
+        "ctaLine1": "Deploy to the",
+        "ctaCallout": "edge",
+        "ctaBody": "Start building with Cloudflare's free tier today. Global scale without the infrastructure bill.",
+        "btnPrimary": "Get Started",
+        "btnGhost": "Read Docs",
+        "iconSlug1": "cloudflare-d1",
+        "iconSlug2": "cloudflare-r2",
+        "iconSlug3": "cloudflare-queues",
+        "iconSlug4": "cloudflare-ai-gateway",
+        "iconSlug5": "cloudflare-vectorize",
+        "iconSlug6": "cloudflare-hyperdrive",
+        "pageOf": "08 / 08",
+        "footerNote": "free tier forever"
+      }
+    }
+  ]
+}

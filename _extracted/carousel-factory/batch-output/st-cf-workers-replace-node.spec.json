@@ -1,0 +1,175 @@
+{
+  "id": "st-cf-workers-replace-node",
+  "brand": "Cloudflare Workers",
+  "brief": "Cloudflare Workers: 5 use cases that replaced our entire Node.js server infrastructure.",
+  "theme": "stack-tour",
+  "slides": [
+    {
+      "layoutId": "cover-stack-tour",
+      "slots": {
+        "eyebrow": "EDGE-FIRST STACK",
+        "title": "How Workers Replaced Our Node.js Servers",
+        "description": "We migrated our entire backend infrastructure to Cloudflare Workers. Here are the six tools that power our new edge stack.",
+        "iconSlug1": "cloudflare",
+        "toolRole1": "Edge compute platform",
+        "iconSlug2": "nextjs",
+        "toolRole2": "SSR rendering framework",
+        "iconSlug3": "react",
+        "toolRole3": "Frontend UI library",
+        "iconSlug4": "typescript",
+        "toolRole4": "Type safety layer",
+        "iconSlug5": "tailwindcss",
+        "toolRole5": "CSS styling engine",
+        "iconSlug6": "postgresql",
+        "toolRole6": "SQL database store",
+        "ctaText": "Read the breakdown",
+        "handle": "@edgeteam"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "02 / 08",
+        "handle": "@edgeteam",
+        "iconSlug1": "cloudflare",
+        "toolTagline": "Global low-latency API gateway",
+        "description": "Replaced Express.js routers with lightweight Workers deployed across 300 cities.",
+        "bullet1": "Sub-50ms cold starts worldwide",
+        "bullet2": "Zero server maintenance overhead",
+        "bullet3": "Auto-scaling without load balancers",
+        "accentColor": "#F38020",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "nextjs",
+        "iconSlug3": "react",
+        "iconSlug4": "typescript",
+        "iconSlug5": "tailwindcss",
+        "iconSlug6": "postgresql",
+        "ctaBottom": "Read the next case"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "03 / 08",
+        "handle": "@edgeteam",
+        "iconSlug1": "cloudflare",
+        "toolTagline": "Edge server-side rendering engine",
+        "description": "Moved Next.js rendering from Node.js VMs to Cloudflare edge nodes.",
+        "bullet1": "Render HTML before origin request",
+        "bullet2": "Cut time-to-first-byte by 60%",
+        "bullet3": "Stream responses to slow clients",
+        "accentColor": "#F38020",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "nextjs",
+        "iconSlug3": "react",
+        "iconSlug4": "typescript",
+        "iconSlug5": "tailwindcss",
+        "iconSlug6": "postgresql",
+        "ctaBottom": "Next infrastructure use case"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "04 / 08",
+        "handle": "@edgeteam",
+        "iconSlug1": "cloudflare",
+        "toolTagline": "Zero-trust authentication middleware layer",
+        "description": "Replaced Node.js Passport middleware with fast edge authentication checks.",
+        "bullet1": "Validate JWTs before hitting origin",
+        "bullet2": "Block bad actors at the edge",
+        "bullet3": "No dedicated auth server needed",
+        "accentColor": "#F38020",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "nextjs",
+        "iconSlug3": "react",
+        "iconSlug4": "typescript",
+        "iconSlug5": "tailwindcss",
+        "iconSlug6": "postgresql",
+        "ctaBottom": "Keep reading the series"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "05 / 08",
+        "handle": "@edgeteam",
+        "iconSlug1": "cloudflare",
+        "toolTagline": "Real-time image optimization pipeline",
+        "description": "Eliminated Node.js image microservices using Workers for on-the-fly transforms.",
+        "bullet1": "Resize images via URL params",
+        "bullet2": "Auto-convert to modern formats",
+        "bullet3": "Cache optimized assets globally",
+        "accentColor": "#F38020",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "nextjs",
+        "iconSlug3": "react",
+        "iconSlug4": "typescript",
+        "iconSlug5": "tailwindcss",
+        "iconSlug6": "postgresql",
+        "ctaBottom": "Next optimization example"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "06 / 08",
+        "handle": "@edgeteam",
+        "iconSlug1": "cloudflare",
+        "toolTagline": "Feature flag routing and splitting",
+        "description": "Replaced Node.js experimentation services with instant edge-level traffic splitting.",
+        "bullet1": "Split traffic without added latency",
+        "bullet2": "Personalize per geographic region",
+        "bullet3": "Deploy flags in milliseconds",
+        "accentColor": "#F38020",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "nextjs",
+        "iconSlug3": "react",
+        "iconSlug4": "typescript",
+        "iconSlug5": "tailwindcss",
+        "iconSlug6": "postgresql",
+        "ctaBottom": "Next deployment pattern"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "07 / 08",
+        "handle": "@edgeteam",
+        "iconSlug1": "cloudflare",
+        "toolTagline": "Stateful WebSocket session coordination hub",
+        "description": "Replaced persistent Node.js socket servers with Durable Objects coordination.",
+        "bullet1": "Coordinate real-time user sessions",
+        "bullet2": "Sync state across continents",
+        "bullet3": "No persistent servers required",
+        "accentColor": "#F38020",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "nextjs",
+        "iconSlug3": "react",
+        "iconSlug4": "typescript",
+        "iconSlug5": "tailwindcss",
+        "iconSlug6": "postgresql",
+        "ctaBottom": "See the final slide"
+      }
+    },
+    {
+      "layoutId": "cta-stack-tour",
+      "slots": {
+        "pageOf": "08 / 08",
+        "handle": "@edgeteam",
+        "eyebrow": "YOUR TURN",
+        "headlineLine1": "Ditch the server.",
+        "headlineLine2": "Deploy at edge.",
+        "iconSlug1": "cloudflare",
+        "iconSlug2": "nextjs",
+        "iconSlug3": "react",
+        "iconSlug4": "typescript",
+        "iconSlug5": "tailwindcss",
+        "iconSlug6": "postgresql",
+        "iconSlug7": "github",
+        "body": "Build faster, cheaper, and globally available apps with Cloudflare Workers today.",
+        "ctaText": "Deploy your first Worker"
+      }
+    }
+  ]
+}

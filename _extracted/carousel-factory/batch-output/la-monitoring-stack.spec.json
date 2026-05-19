@@ -1,0 +1,180 @@
+{
+  "id": "la-monitoring-stack",
+  "brand": "51ultron",
+  "brief": "5 monitoring tools that catch production failures before your users do — free tier included.",
+  "theme": "lime-accent",
+  "slides": [
+    {
+      "layoutId": "cover-lime-accent",
+      "slots": {
+        "brandTag": "DEV STACK",
+        "handle": "factory.51ultron.com",
+        "eyebrow": "SRE PICKS",
+        "titleLine1": "6 free",
+        "titleCallout": "monitoring",
+        "titleLine3": "tools to know",
+        "iconSlug1": "sentry",
+        "iconSlug2": "grafana",
+        "iconSlug3": "uptimerobot",
+        "iconSlug4": "betterstack",
+        "iconSlug5": "datadog",
+        "iconSlug6": "newrelic",
+        "swipeLabel": "SEE LIST",
+        "pageOf": "01 / 08"
+      }
+    },
+    {
+      "layoutId": "body-lime-accent",
+      "slots": {
+        "numLabel": "TOOL 01",
+        "handle": "factory.51ultron.com",
+        "iconSlug1": "sentry",
+        "toolTag": "ERROR TRACKING",
+        "toolTagline": "Catch exceptions in real-time across every stack.",
+        "bodyText": "Sentry tracks crashes, performance bottlenecks, and replays sessions so you <em>fix before users tweet</em>. <em>Free tier covers 5k errors</em> monthly for small teams.",
+        "bullet1": "Real-time crash alerts",
+        "bullet2": "Session replay included",
+        "bullet3": "SDK for every framework",
+        "metric1Label": "PRICE",
+        "metric1Value": "FREE",
+        "metric2Label": "ERRORS",
+        "metric2Value": "5K/MO",
+        "metric3Label": "OSS",
+        "metric3Value": "YES",
+        "pageOf": "02 / 08",
+        "footerNote": "open source, SDK"
+      }
+    },
+    {
+      "layoutId": "body-lime-accent",
+      "slots": {
+        "numLabel": "TOOL 02",
+        "handle": "factory.51ultron.com",
+        "iconSlug1": "grafana",
+        "toolTag": "OBSERVABILITY",
+        "toolTagline": "Unified metrics, logs, and traces in one dashboard.",
+        "bodyText": "Grafana Cloud ingests Prometheus metrics and Loki logs so you <em>correlate failures instantly</em>. The <em>generous free tier</em> handles 10k metrics for hobby projects.",
+        "bullet1": "Works with Prometheus metrics",
+        "bullet2": "Hundreds of pre-built dashboards",
+        "bullet3": "Flexible alert routing rules",
+        "metric1Label": "PRICE",
+        "metric1Value": "FREE",
+        "metric2Label": "METRICS",
+        "metric2Value": "10K",
+        "metric3Label": "OSS",
+        "metric3Value": "YES",
+        "pageOf": "03 / 08",
+        "footerNote": "hosted, open core"
+      }
+    },
+    {
+      "layoutId": "body-lime-accent",
+      "slots": {
+        "numLabel": "TOOL 03",
+        "handle": "factory.51ultron.com",
+        "iconSlug1": "uptimerobot",
+        "toolTag": "UPTIME MONITOR",
+        "toolTagline": "Ping your endpoints every 60 seconds for free.",
+        "bodyText": "UptimeRobot watches websites, APIs, and ports from global nodes so you <em>catch downtime first</em>. <em>Free tier monitors 50 targets</em> with email alerts.",
+        "bullet1": "Monitor up to 50 targets",
+        "bullet2": "Alerts via email and webhook",
+        "bullet3": "Global probe server network",
+        "metric1Label": "PRICE",
+        "metric1Value": "FREE",
+        "metric2Label": "MONITORS",
+        "metric2Value": "50",
+        "metric3Label": "FREQ",
+        "metric3Value": "60S",
+        "pageOf": "04 / 08",
+        "footerNote": "no card required"
+      }
+    },
+    {
+      "layoutId": "body-lime-accent",
+      "slots": {
+        "numLabel": "TOOL 04",
+        "handle": "factory.51ultron.com",
+        "iconSlug1": "betterstack",
+        "toolTag": "INCIDENT MGMT",
+        "toolTagline": "On-call alerts with beautiful status pages included.",
+        "bodyText": "Better Stack combines uptime checks, log streams, and on-call rotations so you <em>resolve incidents faster</em>. <em>Free tier includes 10 monitors</em> and team alerts.",
+        "bullet1": "Team on-call scheduling built-in",
+        "bullet2": "Beautiful public status page",
+        "bullet3": "Centralized log aggregation stream",
+        "metric1Label": "PRICE",
+        "metric1Value": "FREE",
+        "metric2Label": "MONITORS",
+        "metric2Value": "10",
+        "metric3Label": "TEAM",
+        "metric3Value": "UNLIM",
+        "pageOf": "05 / 08",
+        "footerNote": "status page free"
+      }
+    },
+    {
+      "layoutId": "body-lime-accent",
+      "slots": {
+        "numLabel": "TOOL 05",
+        "handle": "factory.51ultron.com",
+        "iconSlug1": "datadog",
+        "toolTag": "FULL STACK",
+        "toolTagline": "Infrastructure and APM monitoring for cloud apps.",
+        "bodyText": "Datadog auto-discovers hosts, containers, and services so you <em>map dependencies automatically</em>. The <em>free tier spans 5 hosts</em> with core metrics and logs.",
+        "bullet1": "Automatic service discovery mapping",
+        "bullet2": "Built-in APM distributed tracing",
+        "bullet3": "Over 500 cloud integrations",
+        "metric1Label": "PRICE",
+        "metric1Value": "FREE",
+        "metric2Label": "HOSTS",
+        "metric2Value": "5",
+        "metric3Label": "LOGS",
+        "metric3Value": "1GB",
+        "pageOf": "06 / 08",
+        "footerNote": "cloud native, pro"
+      }
+    },
+    {
+      "layoutId": "body-lime-accent",
+      "slots": {
+        "numLabel": "TOOL 06",
+        "handle": "factory.51ultron.com",
+        "iconSlug1": "newrelic",
+        "toolTag": "APM + MORE",
+        "toolTagline": "Full observability with 100GB free data monthly.",
+        "bodyText": "New Relic delivers distributed tracing, errors inbox, and ML alerts so you <em>find root cause fast</em>. <em>100GB free monthly</em> beats most starter plans.",
+        "bullet1": "100GB monthly free ingest",
+        "bullet2": "Unified errors inbox view",
+        "bullet3": "Native Kubernetes cluster monitoring",
+        "metric1Label": "PRICE",
+        "metric1Value": "FREE",
+        "metric2Label": "DATA",
+        "metric2Value": "100GB",
+        "metric3Label": "USERS",
+        "metric3Value": "UNLIM",
+        "pageOf": "07 / 08",
+        "footerNote": "generous free tier"
+      }
+    },
+    {
+      "layoutId": "cta-lime-accent",
+      "slots": {
+        "brandTag": "WRAP",
+        "handle": "factory.51ultron.com",
+        "eyebrow": "PICK YOUR STACK",
+        "ctaLine1": "Monitor your",
+        "ctaCallout": "stack free",
+        "ctaBody": "Deploy one tool today and stop guessing why production breaks. Your users will thank you.",
+        "btnPrimary": "Start Free",
+        "btnGhost": "Read Docs",
+        "iconSlug1": "sentry",
+        "iconSlug2": "grafana",
+        "iconSlug3": "uptimerobot",
+        "iconSlug4": "betterstack",
+        "iconSlug5": "datadog",
+        "iconSlug6": "newrelic",
+        "pageOf": "08 / 08",
+        "footerNote": "free tiers only"
+      }
+    }
+  ]
+}

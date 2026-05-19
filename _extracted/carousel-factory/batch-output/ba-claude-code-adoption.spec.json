@@ -1,0 +1,180 @@
+{
+  "id": "ba-claude-code-adoption",
+  "brand": "Claude Code",
+  "brief": "Before and after adopting Claude Code as our primary dev tool — 6 honest metrics, 90 days in.",
+  "theme": "before-after",
+  "slides": [
+    {
+      "layoutId": "cover-before-after",
+      "slots": {
+        "pageOf": "01 / 08",
+        "handle": "@engineering",
+        "title": "Stop writing",
+        "titleAccent": "boilerplate",
+        "description": "We switched to Claude Code for 90 days. Here are six honest metrics that changed how we build software.",
+        "badLabel1": "Manual local environment setup",
+        "badLabel2": "Slow peer code reviews",
+        "badStat1": "4 hr setup",
+        "badStat2": "3 day review",
+        "goodLabel1": "Instant project context loaded",
+        "goodLabel2": "Automated pull request summaries",
+        "goodStat1": "10 min boot",
+        "goodStat2": "4 hr ship",
+        "iconSlug1": "github",
+        "iconSlug2": "vscode",
+        "iconSlug3": "slack",
+        "iconSlug4": "notion"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 01 / 06",
+        "handle": "@engineering",
+        "title": "End setup",
+        "titleAccent": "hell",
+        "description": "Environment drift and dependency issues killed our momentum before a single line of code.",
+        "badLabel": "BEFORE",
+        "badText": "Engineers lost half a day configuring local containers and chasing version conflicts.",
+        "badStat": "4.5 hrs",
+        "iconSlug1": "docker",
+        "iconSlug2": "aws",
+        "goodLabel": "AFTER",
+        "goodText": "One command loads context and dependencies automatically across every machine.",
+        "goodStat": "9 min",
+        "iconSlug3": "github",
+        "iconSlug4": "vercel",
+        "iconSlug5": "slack",
+        "ctaArrow": "See the next metric"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 02 / 06",
+        "handle": "@engineering",
+        "title": "Ship reviews",
+        "titleAccent": "same day",
+        "description": "Pull requests used to sit idle waiting for senior devs to find context.",
+        "badLabel": "BEFORE",
+        "badText": "Reviews sat in queues for days while context was hunted down manually.",
+        "badStat": "52 hrs",
+        "iconSlug1": "github",
+        "iconSlug2": "bitbucket",
+        "goodLabel": "AFTER",
+        "goodText": "Claude summarizes diffs and suggests fixes before humans even open the tab.",
+        "goodStat": "4 hrs",
+        "iconSlug3": "linear",
+        "iconSlug4": "vercel",
+        "iconSlug5": "notion",
+        "ctaArrow": "Read the next metric"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 03 / 06",
+        "handle": "@engineering",
+        "title": "Stop shipping",
+        "titleAccent": "silent bugs",
+        "description": "Production incidents peaked every sprint because edge cases were missed in manual checks.",
+        "badLabel": "BEFORE",
+        "badText": "Late-night pages woke the team after untested paths hit production servers.",
+        "badStat": "12 / mo",
+        "iconSlug1": "sentry",
+        "iconSlug2": "datadog",
+        "goodLabel": "AFTER",
+        "goodText": "Proactive tests and inline reasoning catch edge cases before merge.",
+        "goodStat": "1 / mo",
+        "iconSlug3": "github",
+        "iconSlug4": "vercel",
+        "iconSlug5": "slack",
+        "ctaArrow": "On to number four"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 04 / 06",
+        "handle": "@engineering",
+        "title": "Docs write",
+        "titleAccent": "themselves",
+        "description": "Our wiki was a graveyard of stale screenshots and broken API references.",
+        "badLabel": "BEFORE",
+        "badText": "No one updated the readme, so new hires onboarded by word of mouth.",
+        "badStat": "23% coverage",
+        "iconSlug1": "confluence",
+        "iconSlug2": "notion",
+        "goodLabel": "AFTER",
+        "goodText": "Every PR now ships with auto-generated context and updated architecture notes.",
+        "goodStat": "94% coverage",
+        "iconSlug3": "github",
+        "iconSlug4": "linear",
+        "iconSlug5": "slack",
+        "ctaArrow": "Keep scrolling down"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 05 / 06",
+        "handle": "@engineering",
+        "title": "Onboard devs",
+        "titleAccent": "in days",
+        "description": "New engineers used to need two weeks to push their first meaningful commit.",
+        "badLabel": "BEFORE",
+        "badText": "Mentors repeated the same monologue about codebase history and tribal knowledge.",
+        "badStat": "11 days",
+        "iconSlug1": "jira",
+        "iconSlug2": "confluence",
+        "goodLabel": "AFTER",
+        "goodText": "Interactive codebase chat replaces hand-holding and surfaces patterns instantly.",
+        "goodStat": "2 days",
+        "iconSlug3": "github",
+        "iconSlug4": "linear",
+        "iconSlug5": "figma",
+        "ctaArrow": "View the final metric"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 06 / 06",
+        "handle": "@engineering",
+        "title": "Reclaim deep work",
+        "titleAccent": "hours",
+        "description": "Context switching between Stack Overflow and terminal shattered our flow state daily.",
+        "badLabel": "BEFORE",
+        "badText": "Developers toggled between browsers, docs, and IDEs just to write one function.",
+        "badStat": "3 hrs",
+        "iconSlug1": "stackoverflow",
+        "iconSlug2": "google",
+        "goodLabel": "AFTER",
+        "goodText": "Everything happens in the IDE with instant answers and generated snippets.",
+        "goodStat": "6.5 hrs",
+        "iconSlug3": "github",
+        "iconSlug4": "vscode",
+        "iconSlug5": "slack",
+        "ctaArrow": "See the full results"
+      }
+    },
+    {
+      "layoutId": "cta-before-after",
+      "slots": {
+        "pageOf": "08 / 08",
+        "handle": "@engineering",
+        "eyebrow": "MAKE THE SWITCH",
+        "headlineLine1": "Start shipping",
+        "headlineAccent": "faster today",
+        "body": "Join teams that replaced friction with flow. Try Claude Code free for 90 days and measure the difference.",
+        "iconSlug1": "github",
+        "iconSlug2": "vscode",
+        "iconSlug3": "slack",
+        "iconSlug4": "notion",
+        "iconSlug5": "vercel",
+        "iconSlug6": "linear",
+        "ctaText": "Try Claude Code"
+      }
+    }
+  ]
+}

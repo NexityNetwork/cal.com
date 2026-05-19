@@ -1,0 +1,157 @@
+{
+  "id": "al-support-agent",
+  "brand": "AgentStack",
+  "brief": "The customer support agent that handles 90% of tickets without a human — 5 AI tools wired together.",
+  "theme": "agent-lineup",
+  "slides": [
+    {
+      "layoutId": "cover-agent-lineup",
+      "slots": {
+        "title": "Auto-Resolve Support Agent",
+        "description": "Handles 90% of customer tickets end-to-end without human intervention using five integrated AI tools.",
+        "flowLabel": "AI WORKFLOW",
+        "iconSlug1": "gmail",
+        "iconSlug2": "claude",
+        "iconSlug3": "slack",
+        "flowCaption": "Ingest → reason → resolve automatically",
+        "iconSlug4": "n8n",
+        "iconSlug5": "zapier",
+        "iconSlug6": "notion",
+        "iconSlug7": "hubspot",
+        "ctaText": "comment 'AGENTS' for the full stack"
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "STEP 01",
+        "title": "Ticket Ingestion Engine",
+        "description": "Captures incoming support requests from email and chat channels instantly.",
+        "iconSlug1": "gmail",
+        "iconSlug2": "slack",
+        "iconSlug3": "discord",
+        "toolRole1": "Collects email tickets",
+        "toolRole2": "Routes chat alerts",
+        "toolRole3": "Aggregates Discord DMs",
+        "iconSlug4": "n8n",
+        "iconSlug5": "zapier",
+        "iconSlug6": "notion",
+        "iconSlug7": "hubspot",
+        "handle": "@agentstack"
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "STEP 02",
+        "title": "Smart Intent Classifier",
+        "description": "Analyzes tone and topic to tag and prioritize every ticket automatically.",
+        "iconSlug1": "openai",
+        "iconSlug2": "claude",
+        "iconSlug3": "perplexity",
+        "toolRole1": "Tags ticket topic",
+        "toolRole2": "Scores urgency level",
+        "toolRole3": "Drafts context brief",
+        "iconSlug4": "n8n",
+        "iconSlug5": "zapier",
+        "iconSlug6": "notion",
+        "iconSlug7": "hubspot",
+        "handle": "@agentstack"
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "STEP 03",
+        "title": "Context Knowledge Retriever",
+        "description": "Searches your internal docs and past replies to find accurate answers fast.",
+        "iconSlug1": "notion",
+        "iconSlug2": "airtable",
+        "iconSlug3": "github",
+        "toolRole1": "Queries help docs",
+        "toolRole2": "Scans FAQ tables",
+        "toolRole3": "Pulls SOP files",
+        "iconSlug4": "n8n",
+        "iconSlug5": "zapier",
+        "iconSlug6": "notion",
+        "iconSlug7": "hubspot",
+        "handle": "@agentstack"
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "STEP 04",
+        "title": "Draft Reply Generator",
+        "description": "Writes personalized, on-brand responses using retrieved context and brand voice.",
+        "iconSlug1": "claude",
+        "iconSlug2": "openai",
+        "iconSlug3": "gmail",
+        "toolRole1": "Drafts human replies",
+        "toolRole2": "Matches brand tone",
+        "toolRole3": "Formats final email",
+        "iconSlug4": "n8n",
+        "iconSlug5": "zapier",
+        "iconSlug6": "notion",
+        "iconSlug7": "hubspot",
+        "handle": "@agentstack"
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "STEP 05",
+        "title": "Smart Escalation Router",
+        "description": "Detects complex issues and routes them to the right human expert instantly.",
+        "iconSlug1": "slack",
+        "iconSlug2": "hubspot",
+        "iconSlug3": "calendly",
+        "toolRole1": "Alerts support lead",
+        "toolRole2": "Logs escalation data",
+        "toolRole3": "Books expert call",
+        "iconSlug4": "n8n",
+        "iconSlug5": "zapier",
+        "iconSlug6": "notion",
+        "iconSlug7": "hubspot",
+        "handle": "@agentstack"
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "STEP 06",
+        "title": "Resolution Feedback Loop",
+        "description": "Logs outcomes and retriggers training to improve accuracy every single day.",
+        "iconSlug1": "n8n",
+        "iconSlug2": "make",
+        "iconSlug3": "zapier",
+        "toolRole1": "Tracks resolution rate",
+        "toolRole2": "Triggers retraining flow",
+        "toolRole3": "Syncs performance metrics",
+        "iconSlug4": "n8n",
+        "iconSlug5": "zapier",
+        "iconSlug6": "notion",
+        "iconSlug7": "hubspot",
+        "handle": "@agentstack"
+      }
+    },
+    {
+      "layoutId": "cta-agent-lineup",
+      "slots": {
+        "eyebrow": "FULL STACK INSIDE",
+        "ctaHeadline1": "Get The Blueprint",
+        "ctaHeadline2": "Free Support Stack",
+        "freeBadge": "100% Free Blueprint",
+        "iconSlug1": "gmail",
+        "iconSlug2": "slack",
+        "iconSlug3": "claude",
+        "iconSlug4": "openai",
+        "iconSlug5": "notion",
+        "iconSlug6": "n8n",
+        "iconSlug7": "hubspot",
+        "iconSlug8": "zapier",
+        "handle": "@agentstack"
+      }
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "id": "st-n8n-automation",
+  "brand": "n8n",
+  "brief": "How we use n8n to automate 80% of our customer operations — 6 real workflows explained.",
+  "theme": "stack-tour",
+  "slides": [
+    {
+      "layoutId": "cover-stack-tour",
+      "slots": {
+        "eyebrow": "OUR AUTOMATION STACK",
+        "title": "Automating 80% of Customer Ops With n8n",
+        "description": "Six real workflows that cut response times and eliminate manual data entry across our entire support stack.",
+        "iconSlug1": "n8n",
+        "toolRole1": "Workflow automation engine",
+        "iconSlug2": "airtable",
+        "toolRole2": "Central customer database",
+        "iconSlug3": "slack",
+        "toolRole3": "Team notification hub",
+        "iconSlug4": "zendesk",
+        "toolRole4": "Support ticket system",
+        "iconSlug5": "openai",
+        "toolRole5": "AI intent routing",
+        "iconSlug6": "stripe",
+        "toolRole6": "Subscription billing events",
+        "ctaText": "See the breakdown",
+        "handle": "@yourbrand"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "02 / 08",
+        "handle": "@yourbrand",
+        "iconSlug1": "n8n",
+        "toolTagline": "Orchestrate every customer operation",
+        "description": "n8n triggers workflows across our stack, handling errors and retries so no ticket or payment slips through.",
+        "bullet1": "Schedule daily sync jobs",
+        "bullet2": "Branch logic per channel",
+        "bullet3": "Auto-retry all failed webhooks",
+        "accentColor": "#FF6D5A",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "airtable",
+        "iconSlug3": "slack",
+        "iconSlug4": "zendesk",
+        "iconSlug5": "openai",
+        "iconSlug6": "stripe",
+        "ctaBottom": "Explore the workflow"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "03 / 08",
+        "handle": "@yourbrand",
+        "iconSlug1": "airtable",
+        "toolTagline": "Single source of truth",
+        "description": "Customer records update in real time as n8n pushes chat, billing, and ticket data into structured bases.",
+        "bullet1": "Merge Zendesk and Stripe data",
+        "bullet2": "Tag all high-value accounts",
+        "bullet3": "Trigger Slack alerts on changes",
+        "accentColor": "#FCB400",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "n8n",
+        "iconSlug3": "slack",
+        "iconSlug4": "zendesk",
+        "iconSlug5": "openai",
+        "iconSlug6": "stripe",
+        "ctaBottom": "See next workflow"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "04 / 08",
+        "handle": "@yourbrand",
+        "iconSlug1": "slack",
+        "toolTagline": "Instant team channel alerts",
+        "description": "Critical events ping the right channel instantly, cutting response lag from minutes to seconds without extra overhead.",
+        "bullet1": "Route VIP tickets to #support",
+        "bullet2": "Daily ops digest at 9am",
+        "bullet3": "Escalate failed payments instantly",
+        "accentColor": "#4A154B",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "n8n",
+        "iconSlug3": "airtable",
+        "iconSlug4": "zendesk",
+        "iconSlug5": "openai",
+        "iconSlug6": "stripe",
+        "ctaBottom": "See what comes next"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "05 / 08",
+        "handle": "@yourbrand",
+        "iconSlug1": "zendesk",
+        "toolTagline": "Automated support ticket routing",
+        "description": "n8n reads incoming emails and chats, then tags, prioritizes, and assigns tickets before an agent ever clicks.",
+        "bullet1": "Auto-tag by sentiment score",
+        "bullet2": "Route refunds to billing team",
+        "bullet3": "Close duplicate tickets fast",
+        "accentColor": "#03363D",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "n8n",
+        "iconSlug3": "airtable",
+        "iconSlug4": "slack",
+        "iconSlug5": "openai",
+        "iconSlug6": "stripe",
+        "ctaBottom": "Keep scrolling down"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "06 / 08",
+        "handle": "@yourbrand",
+        "iconSlug1": "openai",
+        "toolTagline": "Smart classification and replies",
+        "description": "GPT classifies intent, drafts replies, and escalates complex issues so our team focuses on relationships, not routing.",
+        "bullet1": "Classify urgency in seconds",
+        "bullet2": "Draft contextual AI responses",
+        "bullet3": "Escalate complex issues only",
+        "accentColor": "#10A37F",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "n8n",
+        "iconSlug3": "airtable",
+        "iconSlug4": "slack",
+        "iconSlug5": "zendesk",
+        "iconSlug6": "stripe",
+        "ctaBottom": "Two slides remain"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "07 / 08",
+        "handle": "@yourbrand",
+        "iconSlug1": "stripe",
+        "toolTagline": "Automated subscription billing ops",
+        "description": "Failed payments, renewals, and refunds trigger n8n workflows that update CRM records and notify customers instantly.",
+        "bullet1": "Retry failed cards via email",
+        "bullet2": "Pause service on chargeback",
+        "bullet3": "Sync invoices to Airtable",
+        "accentColor": "#635BFF",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "n8n",
+        "iconSlug3": "airtable",
+        "iconSlug4": "slack",
+        "iconSlug5": "zendesk",
+        "iconSlug6": "openai",
+        "ctaBottom": "Final slide next"
+      }
+    },
+    {
+      "layoutId": "cta-stack-tour",
+      "slots": {
+        "pageOf": "08 / 08",
+        "handle": "@yourbrand",
+        "eyebrow": "YOUR TURN",
+        "headlineLine1": "Build your stack",
+        "headlineLine2": "Automate the rest",
+        "iconSlug1": "n8n",
+        "iconSlug2": "airtable",
+        "iconSlug3": "slack",
+        "iconSlug4": "zendesk",
+        "iconSlug5": "openai",
+        "iconSlug6": "stripe",
+        "iconSlug7": "notion",
+        "body": "Start automating your customer operations today and reclaim hours every week with smart, scalable workflows.",
+        "ctaText": "Get the guide"
+      }
+    }
+  ]
+}

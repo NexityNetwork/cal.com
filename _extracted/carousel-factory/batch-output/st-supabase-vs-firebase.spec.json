@@ -1,0 +1,175 @@
+{
+  "id": "st-supabase-vs-firebase",
+  "brand": "Supabase Deep Dive",
+  "brief": "Supabase deep dive: why it replaced Firebase, Postgres, and half our backend — 5 real reasons.",
+  "theme": "stack-tour",
+  "slides": [
+    {
+      "layoutId": "cover-stack-tour",
+      "slots": {
+        "eyebrow": "SUPABASE DEEP DIVE",
+        "title": "Why Supabase Replaced Our Entire Backend",
+        "description": "How one open-source platform replaced Firebase, Postgres, and half our backend.",
+        "iconSlug1": "supabase",
+        "iconSlug2": "postgresql",
+        "iconSlug3": "nextjs",
+        "iconSlug4": "vercel",
+        "iconSlug5": "prisma",
+        "iconSlug6": "stripe",
+        "toolRole1": "Full backend platform",
+        "toolRole2": "Primary database engine",
+        "toolRole3": "React frontend framework",
+        "toolRole4": "App deployment host",
+        "toolRole5": "Database ORM layer",
+        "toolRole6": "Stripe payments API",
+        "ctaText": "Read the breakdown",
+        "handle": "@growthstack"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "01 / 06",
+        "handle": "@growthstack",
+        "iconSlug1": "supabase",
+        "toolTagline": "The open-source Firebase alternative",
+        "description": "Supabase delivers a complete backend platform using real Postgres instead of proprietary document databases.",
+        "bullet1": "Full Postgres database access",
+        "bullet2": "Instant auto-generated REST APIs",
+        "bullet3": "Zero vendor lock-in risk",
+        "accentColor": "#3ECF8E",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "postgresql",
+        "iconSlug3": "nextjs",
+        "iconSlug4": "vercel",
+        "iconSlug5": "prisma",
+        "iconSlug6": "typescript",
+        "ctaBottom": "Next reason"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "02 / 06",
+        "handle": "@growthstack",
+        "iconSlug1": "postgresql",
+        "toolTagline": "Battle-tested relational database core",
+        "description": "You get unmodified Postgres with extensions like pgvector, not a limited database abstraction layer.",
+        "bullet1": "Native SQL query support",
+        "bullet2": "Advanced indexing tools included",
+        "bullet3": "Rich extension ecosystem built-in",
+        "accentColor": "#336791",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "supabase",
+        "iconSlug3": "prisma",
+        "iconSlug4": "docker",
+        "iconSlug5": "nextjs",
+        "iconSlug6": "vercel",
+        "ctaBottom": "Keep reading"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "03 / 06",
+        "handle": "@growthstack",
+        "iconSlug1": "supabase",
+        "toolTagline": "Auth with row-level security",
+        "description": "Built-in authentication integrates directly with Postgres row-level security for true data protection.",
+        "bullet1": "Email and OAuth login",
+        "bullet2": "Granular row-level security rules",
+        "bullet3": "Secure JWT token handling",
+        "accentColor": "#3ECF8E",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "nextjs",
+        "iconSlug3": "vercel",
+        "iconSlug4": "typescript",
+        "iconSlug5": "stripe",
+        "iconSlug6": "react",
+        "ctaBottom": "Read on"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "04 / 06",
+        "handle": "@growthstack",
+        "iconSlug1": "supabase",
+        "toolTagline": "Built-in realtime websocket subscriptions",
+        "description": "Subscribe to database changes live without managing separate infrastructure like Pusher or Socket.io.",
+        "bullet1": "Live database change listeners",
+        "bullet2": "No WebSocket server setup",
+        "bullet3": "Instant frontend UI updates",
+        "accentColor": "#3ECF8E",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "react",
+        "iconSlug3": "nextjs",
+        "iconSlug4": "vercel",
+        "iconSlug5": "typescript",
+        "iconSlug6": "postgresql",
+        "ctaBottom": "Next slide"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "05 / 06",
+        "handle": "@growthstack",
+        "iconSlug1": "supabase",
+        "toolTagline": "Global serverless edge functions",
+        "description": "Deploy TypeScript functions globally at the edge using Deno with minimal cold start latency.",
+        "bullet1": "Global edge network nodes",
+        "bullet2": "Native TypeScript runtime support",
+        "bullet3": "Minimal cold-start latency guaranteed",
+        "accentColor": "#3ECF8E",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "docker",
+        "iconSlug3": "vercel",
+        "iconSlug4": "nextjs",
+        "iconSlug5": "typescript",
+        "iconSlug6": "postgresql",
+        "ctaBottom": "One more"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "06 / 06",
+        "handle": "@growthstack",
+        "iconSlug1": "supabase",
+        "toolTagline": "Storage and AI vector support",
+        "description": "S3-compatible storage and built-in pgvector support replace dedicated file and vector databases.",
+        "bullet1": "S3-compatible file storage buckets",
+        "bullet2": "Built-in vector search support",
+        "bullet3": "Single unified platform billing",
+        "accentColor": "#3ECF8E",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "postgresql",
+        "iconSlug3": "nextjs",
+        "iconSlug4": "vercel",
+        "iconSlug5": "typescript",
+        "iconSlug6": "docker",
+        "ctaBottom": "Wrap it up"
+      }
+    },
+    {
+      "layoutId": "cta-stack-tour",
+      "slots": {
+        "pageOf": "08 / 08",
+        "handle": "@growthstack",
+        "eyebrow": "YOUR TURN",
+        "headlineLine1": "Build your stack",
+        "headlineLine2": "With Supabase today",
+        "iconSlug1": "supabase",
+        "iconSlug2": "postgresql",
+        "iconSlug3": "nextjs",
+        "iconSlug4": "vercel",
+        "iconSlug5": "prisma",
+        "iconSlug6": "typescript",
+        "iconSlug7": "docker",
+        "body": "Start your migration with an open-source backend that scales with your product.",
+        "ctaText": "Get started free"
+      }
+    }
+  ]
+}

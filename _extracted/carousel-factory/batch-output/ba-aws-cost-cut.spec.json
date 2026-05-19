@@ -1,0 +1,180 @@
+{
+  "id": "ba-aws-cost-cut",
+  "brand": "StackWise",
+  "brief": "How we cut our AWS bill by 70% without losing performance — before and after the migration.",
+  "theme": "before-after",
+  "slides": [
+    {
+      "layoutId": "cover-before-after",
+      "slots": {
+        "pageOf": "1 / 8",
+        "handle": "@stackwise",
+        "title": "Stop burning cash",
+        "titleAccent": "on AWS waste",
+        "description": "We cut our cloud bill by 70% without dropping a single request. Here is the exact before-and-after playbook.",
+        "badLabel1": "Over-provisioned instances running daily",
+        "badLabel2": "Unused storage piling up fast",
+        "badStat1": "$14K/mo bill",
+        "badStat2": "3% CPU usage",
+        "goodLabel1": "Right-sized compute fleet now",
+        "goodLabel2": "Smart storage lifecycle rules",
+        "goodStat1": "$4.2K/mo bill",
+        "goodStat2": "70% cost down",
+        "iconSlug1": "aws",
+        "iconSlug2": "kubernetes",
+        "iconSlug3": "docker",
+        "iconSlug4": "terraform"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 01 / 06",
+        "handle": "@stackwise",
+        "title": "Find the waste",
+        "titleAccent": "first",
+        "description": "We mapped every instance and found 80% of our fleet was sleeping on the job. Visibility is the prerequisite to savings.",
+        "badLabel": "BEFORE",
+        "badText": "We guessed instance sizes and left everything running around the clock.",
+        "badStat": "$14K/mo",
+        "iconSlug1": "aws",
+        "iconSlug2": "nginx",
+        "goodLabel": "AFTER",
+        "goodText": "Rightsizing with auto-scaling cut idle compute by 60% instantly.",
+        "goodStat": "$5.6K/mo",
+        "iconSlug3": "kubernetes",
+        "iconSlug4": "docker",
+        "iconSlug5": "terraform",
+        "ctaArrow": "See the next step"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 02 / 06",
+        "handle": "@stackwise",
+        "title": "Fix storage bloat",
+        "titleAccent": "permanently",
+        "description": "Old snapshots and unattached volumes were silently eating 30% of the budget. A lifecycle policy fixed it overnight.",
+        "badLabel": "BEFORE",
+        "badText": "Hundreds of orphaned EBS volumes and endless S3 buckets with no rules.",
+        "badStat": "$4.2K/mo",
+        "iconSlug1": "aws",
+        "iconSlug2": "mongodb",
+        "goodLabel": "AFTER",
+        "goodText": "Automated tiering and volume cleanup dropped storage spend by 80%.",
+        "goodStat": "$840/mo",
+        "iconSlug3": "terraform",
+        "iconSlug4": "docker",
+        "iconSlug5": "kubernetes",
+        "ctaArrow": "Keep on reading"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 03 / 06",
+        "handle": "@stackwise",
+        "title": "Commit to save",
+        "titleAccent": "big",
+        "description": "On-demand pricing punished our predictable workloads. Switching to Savings Plans locked in a 40% compute discount immediately.",
+        "badLabel": "BEFORE",
+        "badText": "We paid on-demand rates for steady 24/7 production workloads.",
+        "badStat": "$8.4K/mo",
+        "iconSlug1": "aws",
+        "iconSlug2": "nginx",
+        "goodLabel": "AFTER",
+        "goodText": "A one-year Savings Plan cut compute costs with zero engineering work.",
+        "goodStat": "$5K/mo",
+        "iconSlug3": "terraform",
+        "iconSlug4": "grafana",
+        "iconSlug5": "prometheus",
+        "ctaArrow": "Slide for more"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 04 / 06",
+        "handle": "@stackwise",
+        "title": "Embrace spot fleets",
+        "titleAccent": "safely",
+        "description": "Stateless workloads tolerated interruptions. We moved them to Spot and slashed that slice of the bill by another 60%.",
+        "badLabel": "BEFORE",
+        "badText": "Every job ran on expensive on-demand instances with no interruption handling.",
+        "badStat": "$3.2K/mo",
+        "iconSlug1": "aws",
+        "iconSlug2": "docker",
+        "goodLabel": "AFTER",
+        "goodText": "Spot fleets with fallback saved thousands and never dropped a task.",
+        "goodStat": "$1.3K/mo",
+        "iconSlug3": "kubernetes",
+        "iconSlug4": "terraform",
+        "iconSlug5": "linux",
+        "ctaArrow": "See next optimization"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 05 / 06",
+        "handle": "@stackwise",
+        "title": "Stop data leaks",
+        "titleAccent": "for good",
+        "description": "Cross-AZ traffic and unoptimized CloudFront configs were hiding a $2K monthly surprise. We fixed routing and caching headers.",
+        "badLabel": "BEFORE",
+        "badText": "We ignored data-transfer lines on the bill until they ballooned.",
+        "badStat": "$2.1K/mo",
+        "iconSlug1": "aws",
+        "iconSlug2": "redis",
+        "goodLabel": "AFTER",
+        "goodText": "Single-AZ placement and compression cut egress by 75% this quarter.",
+        "goodStat": "$525/mo",
+        "iconSlug3": "nginx",
+        "iconSlug4": "docker",
+        "iconSlug5": "terraform",
+        "ctaArrow": "You are almost there"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 06 / 06",
+        "handle": "@stackwise",
+        "title": "Lock in gains",
+        "titleAccent": "forever",
+        "description": "Tagging policies and budget alerts now stop waste before it starts. Cost awareness became part of our engineering culture.",
+        "badLabel": "BEFORE",
+        "badText": "No tags, no owners, and surprise bills every month end.",
+        "badStat": "Unpredictable",
+        "iconSlug1": "aws",
+        "iconSlug2": "github",
+        "goodLabel": "AFTER",
+        "goodText": "Real-time dashboards and automated shutdowns keep spend flat and visible.",
+        "goodStat": "$4.2K/mo",
+        "iconSlug3": "grafana",
+        "iconSlug4": "prometheus",
+        "iconSlug5": "terraform",
+        "ctaArrow": "See the results"
+      }
+    },
+    {
+      "layoutId": "cta-before-after",
+      "slots": {
+        "pageOf": "8 / 8",
+        "handle": "@stackwise",
+        "eyebrow": "MAKE THE SWITCH",
+        "headlineLine1": "Cut cloud costs",
+        "headlineAccent": "by 70%",
+        "body": "Replicate our migration playbook and stop paying for idle compute, storage, and data transfer you do not need.",
+        "iconSlug1": "aws",
+        "iconSlug2": "kubernetes",
+        "iconSlug3": "docker",
+        "iconSlug4": "terraform",
+        "iconSlug5": "grafana",
+        "iconSlug6": "prometheus",
+        "ctaText": "Get the playbook"
+      }
+    }
+  ]
+}

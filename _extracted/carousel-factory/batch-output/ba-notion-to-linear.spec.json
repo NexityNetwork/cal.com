@@ -1,0 +1,180 @@
+{
+  "id": "ba-notion-to-linear",
+  "brand": "Linear",
+  "brief": "Before and after switching from Notion to Linear: what changed, what didn't, what we regret.",
+  "theme": "before-after",
+  "slides": [
+    {
+      "layoutId": "cover-before-after",
+      "slots": {
+        "pageOf": "01 / 08",
+        "handle": "@linear",
+        "title": "Stop managing",
+        "titleAccent": "work in docs",
+        "description": "We ditched Notion for Linear. Here's what improved, what stayed the same, and what we actually regret.",
+        "badLabel1": "Scattered wiki pages and chaos",
+        "badLabel2": "No clear task ownership",
+        "badStat1": "3 hrs lost daily",
+        "badStat2": "Sprints slipped weekly",
+        "goodLabel1": "Streamlined cycles and clear owners",
+        "goodLabel2": "Fast async decisions daily",
+        "goodStat1": "10x velocity",
+        "goodStat2": "Zero drift",
+        "iconSlug1": "notion",
+        "iconSlug2": "slack",
+        "iconSlug3": "linear",
+        "iconSlug4": "github"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 01 / 06",
+        "handle": "@linear",
+        "title": "Projects got",
+        "titleAccent": "a real timeline",
+        "description": "Notion flexed for everything but broke under speed. Linear gave us structure without the bloat.",
+        "badLabel": "BEFORE",
+        "badText": "Roadmaps lived in tables that someone forgot to update every Monday.",
+        "badStat": "3 days lag",
+        "iconSlug1": "notion",
+        "iconSlug2": "calendar",
+        "goodLabel": "AFTER",
+        "goodText": "Cycles auto-populate and everyone sees blockers in real time.",
+        "goodStat": "Same-day clarity",
+        "iconSlug3": "linear",
+        "iconSlug4": "github",
+        "iconSlug5": "figma",
+        "ctaArrow": "See the workflow"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 02 / 06",
+        "handle": "@linear",
+        "title": "Ownership turned",
+        "titleAccent": "crystal clear",
+        "description": "In Notion, anyone could edit. In Linear, someone is always assigned. No more ghost tasks.",
+        "badLabel": "BEFORE",
+        "badText": "Tasks floated in docs with no assignee and zero urgency.",
+        "badStat": "40% dropped",
+        "iconSlug1": "notion",
+        "iconSlug2": "slack",
+        "goodLabel": "AFTER",
+        "goodText": "Every issue has an owner, a cycle, and a clear priority.",
+        "goodStat": "100% assigned",
+        "iconSlug3": "linear",
+        "iconSlug4": "github",
+        "iconSlug5": "zapier",
+        "ctaArrow": "Assign with ease"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 03 / 06",
+        "handle": "@linear",
+        "title": "Speed won",
+        "titleAccent": "over flexibility",
+        "description": "Keyboard shortcuts and cmd+k made Linear feel like a dev tool. Notion felt like a CMS.",
+        "badLabel": "BEFORE",
+        "badText": "Clicking through nested pages just to mark a task done.",
+        "badStat": "12 clicks avg",
+        "iconSlug1": "notion",
+        "iconSlug2": "chrome",
+        "goodLabel": "AFTER",
+        "goodText": "One shortcut creates, assigns, and moves an issue to in-progress.",
+        "goodStat": "2 seconds flat",
+        "iconSlug3": "linear",
+        "iconSlug4": "github",
+        "iconSlug5": "vscode",
+        "ctaArrow": "Move faster now"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 04 / 06",
+        "handle": "@linear",
+        "title": "Docs still",
+        "titleAccent": "live in Notion",
+        "description": "Linear replaced our roadmap, not our wiki. We regret trying to move everything.",
+        "badLabel": "BEFORE",
+        "badText": "We tried to write long-form specs inside Linear issues.",
+        "badStat": "Zero structure",
+        "iconSlug1": "linear",
+        "iconSlug2": "pen",
+        "goodLabel": "AFTER",
+        "goodText": "We admitted Notion wins for docs and kept it alongside.",
+        "goodStat": "Honest split",
+        "iconSlug3": "linear",
+        "iconSlug4": "notion",
+        "iconSlug5": "check",
+        "ctaArrow": "Use both tools"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 05 / 06",
+        "handle": "@linear",
+        "title": "Adoption still",
+        "titleAccent": "takes patience",
+        "description": "Linear is opinionated. The team resisted for two weeks. Change is never instant.",
+        "badLabel": "BEFORE",
+        "badText": "Notion was messy but the whole team already knew where to click.",
+        "badStat": "100% adopted",
+        "iconSlug1": "notion",
+        "iconSlug2": "users",
+        "goodLabel": "AFTER",
+        "goodText": "Linear forced new habits and managers had to retrain everyone.",
+        "goodStat": "2 week ramp",
+        "iconSlug3": "linear",
+        "iconSlug4": "github",
+        "iconSlug5": "users",
+        "ctaArrow": "Plan the rollout"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 06 / 06",
+        "handle": "@linear",
+        "title": "Insights finally",
+        "titleAccent": "tell the truth",
+        "description": "Notion had no analytics. Linear shows cycle velocity, backlog growth, and real capacity.",
+        "badLabel": "BEFORE",
+        "badText": "We guessed progress based on who updated a checkbox last.",
+        "badStat": "No source",
+        "iconSlug1": "notion",
+        "iconSlug2": "sheets",
+        "goodLabel": "AFTER",
+        "goodText": "Dashboards reveal exactly where work stalls and who is blocked.",
+        "goodStat": "Real-time data",
+        "iconSlug3": "linear",
+        "iconSlug4": "github",
+        "iconSlug5": "analytics",
+        "ctaArrow": "Track real data"
+      }
+    },
+    {
+      "layoutId": "cta-before-after",
+      "slots": {
+        "pageOf": "08 / 08",
+        "handle": "@linear",
+        "eyebrow": "MAKE THE SWITCH",
+        "headlineLine1": "Ditch the docs",
+        "headlineAccent": "get shipping",
+        "body": "Start your free trial and see why fast teams choose Linear over wiki bloat.",
+        "iconSlug1": "linear",
+        "iconSlug2": "github",
+        "iconSlug3": "figma",
+        "iconSlug4": "slack",
+        "iconSlug5": "notion",
+        "iconSlug6": "zapier",
+        "ctaText": "Start free trial"
+      }
+    }
+  ]
+}

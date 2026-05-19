@@ -1,0 +1,157 @@
+{
+  "id": "al-onboarding-agent",
+  "brand": "AutoOnboard",
+  "brief": "The onboarding agent: new user → product tour → success metric — all without a CSM.",
+  "theme": "agent-lineup",
+  "slides": [
+    {
+      "layoutId": "cover-agent-lineup",
+      "slots": {
+        "title": "New User Onboarding Agent",
+        "description": "Automates every touchpoint from signup to activation without a single CSM intervention.",
+        "flowLabel": "WORKFLOW",
+        "iconSlug1": "supabase",
+        "iconSlug2": "loom",
+        "iconSlug3": "hubspot",
+        "flowCaption": "Signup → tour → track automatically",
+        "iconSlug4": "n8n",
+        "iconSlug5": "slack",
+        "iconSlug6": "gmail",
+        "iconSlug7": "openai",
+        "ctaText": "comment 'ONBOARD' for the stack"
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "STEP 01",
+        "title": "Signup Capture Trigger",
+        "description": "Detects new registrations from your landing page and creates a user record instantly.",
+        "iconSlug1": "webflow",
+        "iconSlug2": "stripe",
+        "iconSlug3": "supabase",
+        "toolRole1": "Converts traffic to signups",
+        "toolRole2": "Handles payment verification",
+        "toolRole3": "Stores user identity data",
+        "iconSlug4": "n8n",
+        "iconSlug5": "zapier",
+        "iconSlug6": "slack",
+        "iconSlug7": "gmail",
+        "handle": "@yourhandle"
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "STEP 02",
+        "title": "User Data Enrichment",
+        "description": "Enriches profiles with firmographic data to personalize the entire onboarding journey.",
+        "iconSlug1": "apollo",
+        "iconSlug2": "hubspot",
+        "iconSlug3": "openai",
+        "toolRole1": "Finds company context fast",
+        "toolRole2": "Syncs contact to CRM",
+        "toolRole3": "Drafts personalized welcome copy",
+        "iconSlug4": "notion",
+        "iconSlug5": "airtable",
+        "iconSlug6": "make",
+        "iconSlug7": "vercel",
+        "handle": "@yourhandle"
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "STEP 03",
+        "title": "Automated Welcome Flow",
+        "description": "Sends a hyper-personalized email and Slack alert the moment a user activates.",
+        "iconSlug1": "gmail",
+        "iconSlug2": "slack",
+        "iconSlug3": "loom",
+        "toolRole1": "Delivers personalized welcome",
+        "toolRole2": "Alerts team of high-value signups",
+        "toolRole3": "Embeds video product tour",
+        "iconSlug4": "n8n",
+        "iconSlug5": "zapier",
+        "iconSlug6": "calendly",
+        "iconSlug7": "discord",
+        "handle": "@yourhandle"
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "STEP 04",
+        "title": "Self-Serve Product Tour",
+        "description": "Guides users through core features using interactive videos and milestone checklists.",
+        "iconSlug1": "loom",
+        "iconSlug2": "notion",
+        "iconSlug3": "framer",
+        "toolRole1": "Records step-by-step tutorials",
+        "toolRole2": "Hosts onboarding checklists",
+        "toolRole3": "Renders interactive UI guides",
+        "iconSlug4": "youtube",
+        "iconSlug5": "figma",
+        "iconSlug6": "webflow",
+        "iconSlug7": "supabase",
+        "handle": "@yourhandle"
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "STEP 05",
+        "title": "Proactive Health Check",
+        "description": "Monitors engagement and sends timely nudges before users hit friction points.",
+        "iconSlug1": "hubspot",
+        "iconSlug2": "gmail",
+        "iconSlug3": "openai",
+        "toolRole1": "Tracks engagement signals",
+        "toolRole2": "Sends re-engagement emails",
+        "toolRole3": "Generates support suggestions",
+        "iconSlug4": "slack",
+        "iconSlug5": "zapier",
+        "iconSlug6": "airtable",
+        "iconSlug7": "make",
+        "handle": "@yourhandle"
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "STEP 06",
+        "title": "Success Metric Tracker",
+        "description": "Logs activation events and reports KPIs to a live dashboard without manual input.",
+        "iconSlug1": "airtable",
+        "iconSlug2": "notion",
+        "iconSlug3": "supabase",
+        "toolRole1": "Calculates activation rates",
+        "toolRole2": "Builds live metric reports",
+        "toolRole3": "Archives historical user data",
+        "iconSlug4": "vercel",
+        "iconSlug5": "github",
+        "iconSlug6": "n8n",
+        "iconSlug7": "perplexity",
+        "handle": "@yourhandle"
+      }
+    },
+    {
+      "layoutId": "cta-agent-lineup",
+      "slots": {
+        "eyebrow": "FULL STACK INSIDE",
+        "ctaHeadline1": "Automate Onboarding",
+        "ctaHeadline2": "Get My Free Stack",
+        "freeBadge": "100% FREE GUIDE",
+        "iconSlug1": "n8n",
+        "iconSlug2": "supabase",
+        "iconSlug3": "loom",
+        "iconSlug4": "gmail",
+        "iconSlug5": "slack",
+        "iconSlug6": "hubspot",
+        "iconSlug7": "notion",
+        "iconSlug8": "openai",
+        "handle": "@yourhandle"
+      }
+    }
+  ]
+}

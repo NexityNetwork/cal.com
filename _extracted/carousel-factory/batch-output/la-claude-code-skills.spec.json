@@ -1,0 +1,186 @@
+{
+  "id": "la-claude-code-skills",
+  "brand": "51ultron",
+  "brief": "6 Claude Code skills every developer should master before Q3 2026.",
+  "theme": "lime-accent",
+  "slides": [
+    {
+      "layoutId": "cover-lime-accent",
+      "slots": {
+        "brandTag": "SKILL STACK",
+        "handle": "factory.51ultron.com",
+        "eyebrow": "2026 PICKS",
+        "titleLine1": "6 Claude",
+        "titleCallout": "Code skills",
+        "titleLine3": "to master now",
+        "iconSlug1": "anthropic",
+        "iconSlug2": "github",
+        "iconSlug3": "visualstudiocode",
+        "iconSlug4": "vitest",
+        "iconSlug5": "gitlab",
+        "iconSlug6": "docker",
+        "swipeLabel": "SEE LIST",
+        "pageOf": "01 / 08"
+      }
+    },
+    {
+      "layoutId": "body-lime-accent",
+      "slots": {
+        "numLabel": "SKILL 01",
+        "handle": "factory.51ultron.com",
+        "iconSlug1": "anthropic",
+        "toolName": "Context Engineering",
+        "toolTag": "core",
+        "toolTagline": "Master the full context window for massive codebase reasoning.",
+        "bodyText": "Learn to structure prompts that leverage Claude’s 200K+ tokens effectively. <em>Context is king</em> when navigating monorepos without losing coherence.",
+        "bullet1": "Slash wasted context tokens",
+        "bullet2": "Faster deep file discovery",
+        "bullet3": "Unlock deeper architecture reasoning",
+        "metric1Label": "FOCUS",
+        "metric1Value": "200K+",
+        "metric2Label": "SPEED",
+        "metric2Value": "3x",
+        "metric3Label": "COST",
+        "metric3Value": "-40%",
+        "pageOf": "02 / 08",
+        "footerNote": "master context engineering"
+      }
+    },
+    {
+      "layoutId": "body-lime-accent",
+      "slots": {
+        "numLabel": "SKILL 02",
+        "handle": "factory.51ultron.com",
+        "iconSlug1": "github",
+        "toolName": "Agentic GitOps",
+        "toolTag": "agent",
+        "toolTagline": "Let Claude commit, branch, and PR with semantic confidence.",
+        "bodyText": "Grant Claude scoped repo access to automate branching and commits. <em>Trust but verify</em> every diff before merging upstream.",
+        "bullet1": "Write auto-generated commit messages",
+        "bullet2": "Semantic branch naming rules",
+        "bullet3": "Faster code review cycles",
+        "metric1Label": "PRS",
+        "metric1Value": "10/wk",
+        "metric2Label": "TIME",
+        "metric2Value": "-5h",
+        "metric3Label": "RISK",
+        "metric3Value": "low",
+        "pageOf": "03 / 08",
+        "footerNote": "git automation flow"
+      }
+    },
+    {
+      "layoutId": "body-lime-accent",
+      "slots": {
+        "numLabel": "SKILL 03",
+        "handle": "factory.51ultron.com",
+        "iconSlug1": "visualstudiocode",
+        "toolName": "MCP Tooling",
+        "toolTag": "protocol",
+        "toolTagline": "Wire external APIs and databases into Claude’s tool loop.",
+        "bodyText": "Build Model Context Protocol servers to extend Claude beyond the editor. <em>Custom tools</em> turn the agent into a platform-native engineer.",
+        "bullet1": "Native IDE tool hooks",
+        "bullet2": "Secure database API access",
+        "bullet3": "Build reusable integrations fast",
+        "metric1Label": "APIS",
+        "metric1Value": "∞",
+        "metric2Label": "SETUP",
+        "metric2Value": "5 min",
+        "metric3Label": "STD",
+        "metric3Value": "open",
+        "pageOf": "04 / 08",
+        "footerNote": "model context protocol"
+      }
+    },
+    {
+      "layoutId": "body-lime-accent",
+      "slots": {
+        "numLabel": "SKILL 04",
+        "handle": "factory.51ultron.com",
+        "iconSlug1": "vitest",
+        "toolName": "Test Generation",
+        "toolTag": "quality",
+        "toolTagline": "Generate edge-case suites from implementation, not just happy paths.",
+        "bodyText": "Prompt Claude to write failing tests first, then implement the fix. <em>Red-green-refactor</em> loops become autonomous with clear coverage targets.",
+        "bullet1": "Catch regressions before shipping",
+        "bullet2": "Hit higher branch coverage",
+        "bullet3": "Write self-documenting test specs",
+        "metric1Label": "COVER",
+        "metric1Value": "90%",
+        "metric2Label": "BUGS",
+        "metric2Value": "-60%",
+        "metric3Label": "SPEED",
+        "metric3Value": "2x",
+        "pageOf": "05 / 08",
+        "footerNote": "test driven quality"
+      }
+    },
+    {
+      "layoutId": "body-lime-accent",
+      "slots": {
+        "numLabel": "SKILL 05",
+        "handle": "factory.51ultron.com",
+        "iconSlug1": "gitlab",
+        "toolName": "Refactor Pipelines",
+        "toolTag": "clean",
+        "toolTagline": "Run multi-file rewrites with dependency-aware migration plans.",
+        "bodyText": "Orchestrate large-scale refactors across services using Claude’s codebase awareness. <em>Atomic migrations</em> prevent broken builds during structural overhauls.",
+        "bullet1": "Run cross-file safe rewrites",
+        "bullet2": "Enforce fully type-safe migrations",
+        "bullet3": "Keep builds rollback ready",
+        "metric1Label": "FILES",
+        "metric1Value": "50+",
+        "metric2Label": "RISK",
+        "metric2Value": "zero",
+        "metric3Label": "TIME",
+        "metric3Value": "-8h",
+        "pageOf": "06 / 08",
+        "footerNote": "safe refactoring moves"
+      }
+    },
+    {
+      "layoutId": "body-lime-accent",
+      "slots": {
+        "numLabel": "SKILL 06",
+        "handle": "factory.51ultron.com",
+        "iconSlug1": "docker",
+        "toolName": "Deploy Agents",
+        "toolTag": "ship",
+        "toolTagline": "Automate container builds and cloud deploys from chat context.",
+        "bodyText": "Connect Claude to CI/CD so it can patch and ship autonomously. <em>Infrastructure as chat</em> closes the loop from prompt to production.",
+        "bullet1": "Trigger true one-shot deploys",
+        "bullet2": "Maintain container parity always",
+        "bullet3": "Enable instant production rollbacks",
+        "metric1Label": "SHIP",
+        "metric1Value": "1 cmd",
+        "metric2Label": "ENV",
+        "metric2Value": "Docker",
+        "metric3Label": "UPTIME",
+        "metric3Value": "99.9%",
+        "pageOf": "07 / 08",
+        "footerNote": "continuous deploy mode"
+      }
+    },
+    {
+      "layoutId": "cta-lime-accent",
+      "slots": {
+        "brandTag": "WRAP",
+        "handle": "factory.51ultron.com",
+        "eyebrow": "PICK YOURS",
+        "ctaLine1": "Master Claude",
+        "ctaCallout": "today",
+        "ctaBody": "Start with one skill this week and compound gains before Q3. Your future self will thank you.",
+        "btnPrimary": "Get Started",
+        "btnGhost": "Read Docs",
+        "iconSlug1": "anthropic",
+        "iconSlug2": "github",
+        "iconSlug3": "visualstudiocode",
+        "iconSlug4": "vitest",
+        "iconSlug5": "gitlab",
+        "iconSlug6": "docker",
+        "pageOf": "08 / 08",
+        "footerNote": "level up now"
+      }
+    }
+  ]
+}

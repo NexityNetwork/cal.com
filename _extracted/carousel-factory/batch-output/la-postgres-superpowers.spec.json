@@ -1,0 +1,180 @@
+{
+  "id": "la-postgres-superpowers",
+  "brand": "51ultron",
+  "brief": "7 database tools that make PostgreSQL feel like a superpower — extensions, clients, and ORMs.",
+  "theme": "lime-accent",
+  "slides": [
+    {
+      "layoutId": "cover-lime-accent",
+      "slots": {
+        "brandTag": "STACK PICK",
+        "handle": "db.51ultron.com",
+        "eyebrow": "POSTGRES POWER",
+        "titleLine1": "6 free",
+        "titleCallout": "postgres",
+        "titleLine3": "tools to know",
+        "iconSlug1": "pgvector",
+        "iconSlug2": "prisma",
+        "iconSlug3": "supabase",
+        "iconSlug4": "postgrest",
+        "iconSlug5": "dbeaver",
+        "iconSlug6": "timescaledb",
+        "swipeLabel": "SEE LIST",
+        "pageOf": "01 / 08"
+      }
+    },
+    {
+      "layoutId": "body-lime-accent",
+      "slots": {
+        "numLabel": "TOOL 01",
+        "handle": "db.51ultron.com",
+        "iconSlug1": "pgvector",
+        "toolTag": "extension",
+        "toolTagline": "Store and query vector embeddings at scale.",
+        "bodyText": "pgvector brings <em>nearest-neighbor search</em> straight into PostgreSQL, turning your existing database into an <em>AI-ready vector store</em> without external services.",
+        "bullet1": "HNSW & ivfflat indexes",
+        "bullet2": "Compatible with OpenAI embeddings",
+        "bullet3": "ACID-compliant vector ops",
+        "metric1Label": "PRICE",
+        "metric1Value": "Free",
+        "metric2Label": "LICENSE",
+        "metric2Value": "PostgreSQL",
+        "metric3Label": "STARS",
+        "metric3Value": "15k+",
+        "pageOf": "02 / 08",
+        "footerNote": "open source extension"
+      }
+    },
+    {
+      "layoutId": "body-lime-accent",
+      "slots": {
+        "numLabel": "TOOL 02",
+        "handle": "db.51ultron.com",
+        "iconSlug1": "prisma",
+        "toolTag": "ORM",
+        "toolTagline": "Next-gen type-safe database toolkit.",
+        "bodyText": "Prisma auto-generates <em>type-safe queries</em> from your schema and delivers <em>migrations, models, and autocomplete</em> that keep your Node stack tightly coupled to Postgres.",
+        "bullet1": "Declarative schema syntax",
+        "bullet2": "Connection pooling built-in",
+        "bullet3": "TypeScript autocomplete",
+        "metric1Label": "PRICE",
+        "metric1Value": "Free",
+        "metric2Label": "RUNTIME",
+        "metric2Value": "Node / TS",
+        "metric3Label": "ADOPTERS",
+        "metric3Value": "100k+",
+        "pageOf": "03 / 08",
+        "footerNote": "Apache 2.0 licensed"
+      }
+    },
+    {
+      "layoutId": "body-lime-accent",
+      "slots": {
+        "numLabel": "TOOL 03",
+        "handle": "db.51ultron.com",
+        "iconSlug1": "supabase",
+        "toolTag": "platform",
+        "toolTagline": "Firebase alternative built on Postgres.",
+        "bodyText": "Supabase layers <em>realtime subscriptions, auth, and auto-generated APIs</em> over PostgreSQL so you can ship full-stack apps without touching backend boilerplate.",
+        "bullet1": "Realtime row-level listeners",
+        "bullet2": "Built-in auth & storage",
+        "bullet3": "Instant REST & GraphQL",
+        "metric1Label": "PRICE",
+        "metric1Value": "Freemium",
+        "metric2Label": "HOSTED",
+        "metric2Value": "Yes",
+        "metric3Label": "OSS",
+        "metric3Value": "Fully",
+        "pageOf": "04 / 08",
+        "footerNote": "MIT & Apache 2.0"
+      }
+    },
+    {
+      "layoutId": "body-lime-accent",
+      "slots": {
+        "numLabel": "TOOL 04",
+        "handle": "db.51ultron.com",
+        "iconSlug1": "postgrest",
+        "toolTag": "REST API",
+        "toolTagline": "Turn your database into a secure RESTful API.",
+        "bodyText": "PostgREST reads your schema and serves a <em>high-performance REST API</em> directly from Postgres, using database roles and <em>row-level security</em> for access control.",
+        "bullet1": "Zero-code CRUD endpoints",
+        "bullet2": "JWT auth via Postgres roles",
+        "bullet3": "Horizontal scaling ready",
+        "metric1Label": "PRICE",
+        "metric1Value": "Free",
+        "metric2Label": "STACK",
+        "metric2Value": "Haskell",
+        "metric3Label": "LATENCY",
+        "metric3Value": "< 10ms",
+        "pageOf": "05 / 08",
+        "footerNote": "open source, MIT"
+      }
+    },
+    {
+      "layoutId": "body-lime-accent",
+      "slots": {
+        "numLabel": "TOOL 05",
+        "handle": "db.51ultron.com",
+        "iconSlug1": "dbeaver",
+        "toolTag": "client",
+        "toolTagline": "Universal database GUI for power users.",
+        "bodyText": "DBeaver gives you an <em>ER diagram designer, SQL autocomplete, and data editor</em> that talks to any Postgres flavor from local Docker to cloud warehouses.",
+        "bullet1": "Visual ER diagrams",
+        "bullet2": "Multi-database support",
+        "bullet3": "Plugin ecosystem",
+        "metric1Label": "PRICE",
+        "metric1Value": "Free CE",
+        "metric2Label": "PLATFORMS",
+        "metric2Value": "All OS",
+        "metric3Label": "USERS",
+        "metric3Value": "10M+",
+        "pageOf": "06 / 08",
+        "footerNote": "Apache 2.0 licensed"
+      }
+    },
+    {
+      "layoutId": "body-lime-accent",
+      "slots": {
+        "numLabel": "TOOL 06",
+        "handle": "db.51ultron.com",
+        "iconSlug1": "timescaledb",
+        "toolTag": "extension",
+        "toolTagline": "Time-series superpowers inside PostgreSQL.",
+        "bodyText": "TimescaleDB transforms Postgres into a <em>high-speed time-series database</em> with automatic partitioning, continuous aggregation, and <em>SQL-native analytics</em>.",
+        "bullet1": "Hypertable auto-chunking",
+        "bullet2": "Continuous aggregates",
+        "bullet3": "Columnar compression",
+        "metric1Label": "PRICE",
+        "metric1Value": "Freemium",
+        "metric2Label": "THROUGHPUT",
+        "metric2Value": "1M+ / sec",
+        "metric3Label": "COMPAT",
+        "metric3Value": "PG 14+",
+        "pageOf": "07 / 08",
+        "footerNote": "Apache 2.0 edition"
+      }
+    },
+    {
+      "layoutId": "cta-lime-accent",
+      "slots": {
+        "brandTag": "WRAP",
+        "handle": "db.51ultron.com",
+        "eyebrow": "PICK YOUR STACK",
+        "ctaLine1": "Level up your",
+        "ctaCallout": "postgres",
+        "ctaBody": "Deploy these tools to cut boilerplate, boost performance, and keep your data layer future-proof.",
+        "btnPrimary": "Get Started",
+        "btnGhost": "Learn More",
+        "iconSlug1": "pgvector",
+        "iconSlug2": "prisma",
+        "iconSlug3": "supabase",
+        "iconSlug4": "postgrest",
+        "iconSlug5": "dbeaver",
+        "iconSlug6": "timescaledb",
+        "pageOf": "08 / 08",
+        "footerNote": "share this stack"
+      }
+    }
+  ]
+}

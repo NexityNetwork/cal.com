@@ -1,0 +1,180 @@
+{
+  "id": "ba-cicd-overhaul",
+  "brand": "ShipStack",
+  "brief": "How we went from 3-week deploys to daily shipping — before and after our CI/CD overhaul.",
+  "theme": "before-after",
+  "slides": [
+    {
+      "layoutId": "cover-before-after",
+      "slots": {
+        "pageOf": "01 / 08",
+        "handle": "@shipstack",
+        "title": "Stop doing",
+        "titleAccent": "3-week deploys",
+        "description": "How we overhauled our CI/CD pipeline to ship daily instead of monthly.",
+        "badLabel1": "Manual QA blocks every release",
+        "badLabel2": "Midnight deploy windows with stress",
+        "badStat1": "1 ship / month",
+        "badStat2": "47-step runbook",
+        "goodLabel1": "Automated daily shipping now live",
+        "goodLabel2": "One-click releases to production",
+        "goodStat1": "10+ deploys / day",
+        "goodStat2": "3 min to prod",
+        "iconSlug1": "github",
+        "iconSlug2": "gitlab",
+        "iconSlug3": "docker",
+        "iconSlug4": "kubernetes"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 01 / 06",
+        "handle": "@shipstack",
+        "title": "Merge Hell",
+        "titleAccent": "Gone Forever",
+        "description": "We ditched long-lived branches for trunk-based development with automated checks.",
+        "badLabel": "BEFORE",
+        "badText": "Developers merged weeks of work into main on deploy day.",
+        "badStat": "3-week branches",
+        "iconSlug1": "bitbucket",
+        "iconSlug2": "github",
+        "goodLabel": "AFTER",
+        "goodText": "Every commit integrates into main within minutes automatically.",
+        "goodStat": "10 min merges",
+        "iconSlug3": "github",
+        "iconSlug4": "gitlab",
+        "iconSlug5": "docker",
+        "ctaArrow": "Next: automated tests"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 02 / 06",
+        "handle": "@shipstack",
+        "title": "Test in Minutes",
+        "titleAccent": "Not Days",
+        "description": "Automated suites run on every pull request before production.",
+        "badLabel": "BEFORE",
+        "badText": "Manual QA cycles delayed releases by several business days.",
+        "badStat": "5-day QA wait",
+        "iconSlug1": "npm",
+        "iconSlug2": "node",
+        "goodLabel": "AFTER",
+        "goodText": "Parallelized tests catch regressions instantly on every push.",
+        "goodStat": "8 min suite",
+        "iconSlug3": "github",
+        "iconSlug4": "docker",
+        "iconSlug5": "aws",
+        "ctaArrow": "Next: container builds"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 03 / 06",
+        "handle": "@shipstack",
+        "title": "Consistent Builds",
+        "titleAccent": "Every Time",
+        "description": "Containerized pipelines eliminated environment drift and local failures.",
+        "badLabel": "BEFORE",
+        "badText": "Local builds failed on staging from dependency drift.",
+        "badStat": "Works on my machine",
+        "iconSlug1": "vscode",
+        "iconSlug2": "node",
+        "goodLabel": "AFTER",
+        "goodText": "Immutable Docker images build once and deploy anywhere.",
+        "goodStat": "Zero drift",
+        "iconSlug3": "docker",
+        "iconSlug4": "kubernetes",
+        "iconSlug5": "aws",
+        "ctaArrow": "Next: one-click deploys"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 04 / 06",
+        "handle": "@shipstack",
+        "title": "Ship Without",
+        "titleAccent": "The Stress",
+        "description": "Automated deployments replaced manual runbooks and late-night release windows.",
+        "badLabel": "BEFORE",
+        "badText": "Engineers ran 47-step runbooks over SSH at midnight.",
+        "badStat": "3-hour deploys",
+        "iconSlug1": "aws",
+        "iconSlug2": "jenkins",
+        "goodLabel": "AFTER",
+        "goodText": "One-click blue-green deployments roll out in seconds.",
+        "goodStat": "3 min deploys",
+        "iconSlug3": "gitlab",
+        "iconSlug4": "kubernetes",
+        "iconSlug5": "aws",
+        "ctaArrow": "Next: instant rollback"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 05 / 06",
+        "handle": "@shipstack",
+        "title": "Know First",
+        "titleAccent": "Fix Fast",
+        "description": "Real-time observability catches issues before users ever notice them.",
+        "badLabel": "BEFORE",
+        "badText": "We learned about outages from angry customer support tickets.",
+        "badStat": "Hours to detect",
+        "iconSlug1": "slack",
+        "iconSlug2": "gcp",
+        "goodLabel": "AFTER",
+        "goodText": "Alerts trigger automated rollbacks within thirty seconds flat.",
+        "goodStat": "30-sec recovery",
+        "iconSlug3": "aws",
+        "iconSlug4": "docker",
+        "iconSlug5": "slack",
+        "ctaArrow": "Next: daily releases"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 06 / 06",
+        "handle": "@shipstack",
+        "title": "Daily Shipping",
+        "titleAccent": "Is Normal",
+        "description": "Continuous delivery transformed monthly launches into multiple daily releases.",
+        "badLabel": "BEFORE",
+        "badText": "Releases were frozen for two weeks around deploy windows.",
+        "badStat": "1 deploy / 3 wks",
+        "iconSlug1": "github",
+        "iconSlug2": "jenkins",
+        "goodLabel": "AFTER",
+        "goodText": "The team safely ships to production several times daily.",
+        "goodStat": "10+ daily ships",
+        "iconSlug3": "github",
+        "iconSlug4": "gitlab",
+        "iconSlug5": "docker",
+        "ctaArrow": "Get the free guide"
+      }
+    },
+    {
+      "layoutId": "cta-before-after",
+      "slots": {
+        "pageOf": "08 / 08",
+        "handle": "@shipstack",
+        "eyebrow": "MAKE THE SWITCH",
+        "headlineLine1": "Ship faster",
+        "headlineAccent": "with zero stress",
+        "body": "Download our free CI/CD playbook and start deploying daily this week.",
+        "iconSlug1": "github",
+        "iconSlug2": "gitlab",
+        "iconSlug3": "docker",
+        "iconSlug4": "kubernetes",
+        "iconSlug5": "aws",
+        "iconSlug6": "slack",
+        "ctaText": "Get the playbook"
+      }
+    }
+  ]
+}

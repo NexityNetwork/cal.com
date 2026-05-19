@@ -1,0 +1,180 @@
+{
+  "id": "ba-support-response-time",
+  "brand": "Resolve",
+  "brief": "Our customer support went from 48-hour response to 4-minute resolution — the full stack change.",
+  "theme": "before-after",
+  "slides": [
+    {
+      "layoutId": "cover-before-after",
+      "slots": {
+        "pageOf": "01 / 08",
+        "handle": "@resolvehq",
+        "title": "Stop answering",
+        "titleAccent": "the hard way",
+        "description": "Our support went from 48-hour chaos to 4-minute resolution with one stack swap.",
+        "badLabel1": "Tickets rot for two days",
+        "badLabel2": "Agents drown in ten tabs",
+        "badStat1": "48-hr reply",
+        "badStat2": "2% CSAT",
+        "goodLabel1": "Issues resolve in minutes",
+        "goodLabel2": "One integrated stack works",
+        "goodStat1": "4-min fix",
+        "goodStat2": "97% CSAT",
+        "iconSlug1": "zendesk",
+        "iconSlug2": "intercom",
+        "iconSlug3": "slack",
+        "iconSlug4": "salesforce"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 01 / 06",
+        "handle": "@resolvehq",
+        "title": "Tickets pile up",
+        "titleAccent": "routing fails",
+        "description": "Manual triage buries urgent requests behind a wall of generic forms and endless queues.",
+        "badLabel": "BEFORE",
+        "badText": "Agents manually sort every ticket into the wrong queues.",
+        "badStat": "48-hr wait",
+        "iconSlug1": "gmail",
+        "iconSlug2": "excel",
+        "goodLabel": "AFTER",
+        "goodText": "AI instantly routes issues to the right expert.",
+        "goodStat": "4-min resolve",
+        "iconSlug3": "zendesk",
+        "iconSlug4": "intercom",
+        "iconSlug5": "slack",
+        "ctaArrow": "See the stack"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 02 / 06",
+        "handle": "@resolvehq",
+        "title": "Chatbots annoy",
+        "titleAccent": "customers leave",
+        "description": "Rigid decision trees frustrate users with loops instead of real answers.",
+        "badLabel": "BEFORE",
+        "badText": "Static bots repeat useless scripts all day.",
+        "badStat": "12% containment",
+        "iconSlug1": "drift",
+        "iconSlug2": "zapier",
+        "goodLabel": "AFTER",
+        "goodText": "Generative AI resolves issues on first contact.",
+        "goodStat": "89% containment",
+        "iconSlug3": "openai",
+        "iconSlug4": "intercom",
+        "iconSlug5": "notion",
+        "ctaArrow": "Upgrade your stack"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 03 / 06",
+        "handle": "@resolvehq",
+        "title": "Docs are stale",
+        "titleAccent": "search breaks",
+        "description": "Outdated articles send customers back to support instead of solving problems.",
+        "badLabel": "BEFORE",
+        "badText": "Static wikis hide answers behind fifty clicks.",
+        "badStat": "3% deflection",
+        "iconSlug1": "confluence",
+        "iconSlug2": "wordpress",
+        "goodLabel": "AFTER",
+        "goodText": "Living docs update automatically from every ticket.",
+        "goodStat": "40% deflection",
+        "iconSlug3": "notion",
+        "iconSlug4": "algolia",
+        "iconSlug5": "zendesk",
+        "ctaArrow": "Fix search now"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 04 / 06",
+        "handle": "@resolvehq",
+        "title": "Agents guess",
+        "titleAccent": "burnout spikes",
+        "description": "Reps switch between six tabs to find one answer, killing speed and morale.",
+        "badLabel": "BEFORE",
+        "badText": "Context lives scattered across disjointed tools.",
+        "badStat": "62% churn",
+        "iconSlug1": "salesforce",
+        "iconSlug2": "hubspot",
+        "goodLabel": "AFTER",
+        "goodText": "One pane of glass surfaces answers in real time.",
+        "goodStat": "24% churn",
+        "iconSlug3": "slack",
+        "iconSlug4": "asana",
+        "iconSlug5": "intercom",
+        "ctaArrow": "Unify every tool"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 05 / 06",
+        "handle": "@resolvehq",
+        "title": "Channels collide",
+        "titleAccent": "context dies",
+        "description": "Email, chat and social tickets live in separate silos with zero shared history.",
+        "badLabel": "BEFORE",
+        "badText": "Conversations restart every time a channel switches.",
+        "badStat": "2.3x touches",
+        "iconSlug1": "gmail",
+        "iconSlug2": "facebook",
+        "goodLabel": "AFTER",
+        "goodText": "Unified threads carry history across every channel.",
+        "goodStat": "1.1x touches",
+        "iconSlug3": "zendesk",
+        "iconSlug4": "twilio",
+        "iconSlug5": "slack",
+        "ctaArrow": "Merge channels now"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 06 / 06",
+        "handle": "@resolvehq",
+        "title": "Blind decisions",
+        "titleAccent": "slow fixes",
+        "description": "Leaders wait weeks for reports while CSAT crashes and trends go unseen.",
+        "badLabel": "BEFORE",
+        "badText": "Spreadsheet exports lag reality by two weeks.",
+        "badStat": "No visibility",
+        "iconSlug1": "excel",
+        "iconSlug2": "tableau",
+        "goodLabel": "AFTER",
+        "goodText": "Live dashboards spot friction the moment it appears.",
+        "goodStat": "Real-time",
+        "iconSlug3": "looker",
+        "iconSlug4": "segment",
+        "iconSlug5": "zendesk",
+        "ctaArrow": "Get live visibility"
+      }
+    },
+    {
+      "layoutId": "cta-before-after",
+      "slots": {
+        "pageOf": "08 / 08",
+        "handle": "@resolvehq",
+        "eyebrow": "MAKE THE SWITCH",
+        "headlineLine1": "Resolve in",
+        "headlineAccent": "four minutes",
+        "body": "Join teams that replaced 48-hour chaos with calm, instant support.",
+        "iconSlug1": "zendesk",
+        "iconSlug2": "intercom",
+        "iconSlug3": "slack",
+        "iconSlug4": "salesforce",
+        "iconSlug5": "notion",
+        "iconSlug6": "openai",
+        "ctaText": "Book a demo"
+      }
+    }
+  ]
+}

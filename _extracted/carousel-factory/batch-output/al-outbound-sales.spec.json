@@ -1,0 +1,157 @@
+{
+  "id": "al-outbound-sales",
+  "brand": "OutboundLab",
+  "brief": "The outbound sales agent: ICP → prospect → personalized email → booked call, fully automated.",
+  "theme": "agent-lineup",
+  "slides": [
+    {
+      "layoutId": "cover-agent-lineup",
+      "slots": {
+        "title": "Automated Outbound Sales Agent",
+        "description": "Fully automates ICP targeting, prospecting, personalized emails, and calendar booking without manual effort.",
+        "flowLabel": "WORKFLOW",
+        "iconSlug1": "apollo",
+        "iconSlug2": "openai",
+        "iconSlug3": "calendly",
+        "flowCaption": "Prospect → personalize → book automatically",
+        "iconSlug4": "hubspot",
+        "iconSlug5": "gmail",
+        "iconSlug6": "slack",
+        "iconSlug7": "zapier",
+        "ctaText": "Comment 'OUTBOUND' for the full stack"
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "STEP 01",
+        "title": "ICP Targeting Agent",
+        "description": "Defines your ideal customer profile using firmographic and intent filters to build a hyper-targeted account list.",
+        "iconSlug1": "hubspot",
+        "iconSlug2": "linkedin",
+        "iconSlug3": "apollo",
+        "toolRole1": "Stores ICP criteria and account lists",
+        "toolRole2": "Maps ideal buyer personas and titles",
+        "toolRole3": "Filters verified contacts by intent",
+        "iconSlug4": "notion",
+        "iconSlug5": "slack",
+        "iconSlug6": "loom",
+        "iconSlug7": "figma",
+        "handle": "@outboundlab"
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "STEP 02",
+        "title": "Prospect Sourcing Agent",
+        "description": "Scans LinkedIn and Apollo to find verified decision-makers matching your ICP criteria at scale.",
+        "iconSlug1": "apollo",
+        "iconSlug2": "n8n",
+        "iconSlug3": "hubspot",
+        "toolRole1": "Finds verified emails and phone numbers",
+        "toolRole2": "Automates list building and enrichment flow",
+        "toolRole3": "Stages new prospects for outreach",
+        "iconSlug4": "notion",
+        "iconSlug5": "slack",
+        "iconSlug6": "gmail",
+        "iconSlug7": "zapier",
+        "handle": "@outboundlab"
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "STEP 03",
+        "title": "Data Enrichment Agent",
+        "description": "Enriches every contact with emails, phone numbers, and recent activity so messaging lands with context.",
+        "iconSlug1": "apollo",
+        "iconSlug2": "openai",
+        "iconSlug3": "perplexity",
+        "toolRole1": "Appends firmographic and contact data",
+        "toolRole2": "Analyzes signals and pain points",
+        "toolRole3": "Researches recent news and triggers",
+        "iconSlug4": "notion",
+        "iconSlug5": "slack",
+        "iconSlug6": "hubspot",
+        "iconSlug7": "gmail",
+        "handle": "@outboundlab"
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "STEP 04",
+        "title": "Email Writing Agent",
+        "description": "Uses AI to draft hyper-personalized outreach emails based on prospect data, pain points, and triggers.",
+        "iconSlug1": "openai",
+        "iconSlug2": "claude",
+        "iconSlug3": "gmail",
+        "toolRole1": "Drafts personalized subject and body",
+        "toolRole2": "Refines tone and value proposition",
+        "toolRole3": "Queues email for delivery",
+        "iconSlug4": "gmail",
+        "iconSlug5": "slack",
+        "iconSlug6": "zapier",
+        "iconSlug7": "hubspot",
+        "handle": "@outboundlab"
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "STEP 05",
+        "title": "Outreach Delivery Agent",
+        "description": "Automatically sends tailored sequences, handles replies, and warms up inboxes to maximize deliverability.",
+        "iconSlug1": "gmail",
+        "iconSlug2": "zapier",
+        "iconSlug3": "slack",
+        "toolRole1": "Sends sequences and warms inbox",
+        "toolRole2": "Routes replies to correct owner",
+        "toolRole3": "Alerts team of positive replies",
+        "iconSlug4": "zapier",
+        "iconSlug5": "slack",
+        "iconSlug6": "hubspot",
+        "iconSlug7": "calendly",
+        "handle": "@outboundlab"
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "STEP 06",
+        "title": "Calendar Booking Agent",
+        "description": "Detects positive intent and shares a Calendly link to book qualified calls directly on your calendar.",
+        "iconSlug1": "calendly",
+        "iconSlug2": "hubspot",
+        "iconSlug3": "slack",
+        "toolRole1": "Shares booking link when interested",
+        "toolRole2": "Logs meeting to CRM record",
+        "toolRole3": "Alerts AE of new meeting",
+        "iconSlug4": "hubspot",
+        "iconSlug5": "slack",
+        "iconSlug6": "gmail",
+        "iconSlug7": "zapier",
+        "handle": "@outboundlab"
+      }
+    },
+    {
+      "layoutId": "cta-agent-lineup",
+      "slots": {
+        "eyebrow": "FULL STACK INSIDE",
+        "ctaHeadline1": "Build Your",
+        "ctaHeadline2": "Outbound Agent Stack",
+        "freeBadge": "100% FREE GUIDE",
+        "iconSlug1": "apollo",
+        "iconSlug2": "openai",
+        "iconSlug3": "hubspot",
+        "iconSlug4": "calendly",
+        "iconSlug5": "gmail",
+        "iconSlug6": "zapier",
+        "iconSlug7": "slack",
+        "iconSlug8": "n8n",
+        "handle": "@outboundlab"
+      }
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "id": "st-vercel-power-features",
+  "brand": "Vercel",
+  "brief": "Vercel at scale: 5 features most developers miss that 10× deployment confidence.",
+  "theme": "stack-tour",
+  "slides": [
+    {
+      "layoutId": "cover-stack-tour",
+      "slots": {
+        "eyebrow": "MY 6-TOOL STACK",
+        "title": "Vercel at Scale: Hidden Power Moves",
+        "description": "Stop treating deploys like lottery tickets. These six stack layers eliminate rollback anxiety and 10× shipping confidence.",
+        "iconSlug1": "vercel",
+        "iconSlug2": "nextjs",
+        "iconSlug3": "turborepo",
+        "iconSlug4": "sentry",
+        "iconSlug5": "github",
+        "iconSlug6": "datadog",
+        "toolRole1": "Edge deployment",
+        "toolRole2": "React framework",
+        "toolRole3": "Monorepo CI",
+        "toolRole4": "Error tracking",
+        "toolRole5": "Git workflow",
+        "toolRole6": "Observability",
+        "ctaText": "Read the breakdown",
+        "handle": "@devtips"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "01 / 06",
+        "handle": "@devtips",
+        "iconSlug1": "vercel",
+        "toolTagline": "Deploy without the dread",
+        "description": "Vercel’s Skew Protection and Deployment Protection stop broken rollouts before users ever see them.",
+        "bullet1": "Auto-abort on build failure",
+        "bullet2": "Preview every pull request",
+        "bullet3": "Instant rollback to last known good",
+        "accentColor": "#111111",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "nextjs",
+        "iconSlug3": "turborepo",
+        "iconSlug4": "sentry",
+        "iconSlug5": "github",
+        "iconSlug6": "datadog",
+        "ctaBottom": "Keep reading"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "02 / 06",
+        "handle": "@devtips",
+        "iconSlug1": "nextjs",
+        "toolTagline": "Static where possible, dynamic when needed",
+        "description": "Incremental Static Regeneration and Partial Prerendering let you update content globally in seconds, not minutes.",
+        "bullet1": "ISR rebuilds pages on demand",
+        "bullet2": "PPR streams dynamic shells instantly",
+        "bullet3": "Edge runtime cuts latency to zero",
+        "accentColor": "#111111",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "vercel",
+        "iconSlug3": "react",
+        "iconSlug4": "typescript",
+        "iconSlug5": "tailwindcss",
+        "iconSlug6": "nodejs",
+        "ctaBottom": "Next feature"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "03 / 06",
+        "handle": "@devtips",
+        "iconSlug1": "turborepo",
+        "toolTagline": "Monorepo builds in seconds, not coffee breaks",
+        "description": "Remote caching shares build artifacts across your team so CI never repeats work it already finished.",
+        "bullet1": "Cache hits skip redundant builds",
+        "bullet2": "Parallel task execution by default",
+        "bullet3": "Vercel integration syncs artifacts instantly",
+        "accentColor": "#EF4444",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "vercel",
+        "iconSlug3": "github",
+        "iconSlug4": "typescript",
+        "iconSlug5": "eslint",
+        "iconSlug6": "docker",
+        "ctaBottom": "Next feature"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "04 / 06",
+        "handle": "@devtips",
+        "iconSlug1": "sentry",
+        "toolTagline": "Know it broke before your user tweets",
+        "description": "Release health tracking and source-mapped stack traces turn noisy alerts into actionable deploy signals.",
+        "bullet1": "Auto-capture exceptions per release",
+        "bullet2": "Trace errors from frontend to API",
+        "bullet3": "Alert only on new regressions",
+        "accentColor": "#362D59",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "vercel",
+        "iconSlug3": "nextjs",
+        "iconSlug4": "github",
+        "iconSlug5": "postgresql",
+        "iconSlug6": "docker",
+        "ctaBottom": "Next feature"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "05 / 06",
+        "handle": "@devtips",
+        "iconSlug1": "github",
+        "toolTagline": "Ship only what passed the gauntlet",
+        "description": "Required status checks and branch protection rules mean your Vercel deploys only promote green commits.",
+        "bullet1": "Block merge on failed preview deploy",
+        "bullet2": "Require two reviewers for production",
+        "bullet3": "Auto-deploy trunk to production edge",
+        "accentColor": "#181717",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "vercel",
+        "iconSlug3": "nextjs",
+        "iconSlug4": "turborepo",
+        "iconSlug5": "sentry",
+        "iconSlug6": "datadog",
+        "ctaBottom": "Next feature"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "06 / 06",
+        "handle": "@devtips",
+        "iconSlug1": "datadog",
+        "toolTagline": "See every millisecond in production",
+        "description": "Real-time APM and synthetic monitoring validate that your Vercel edge functions perform under actual load.",
+        "bullet1": "Trace serverless cold starts",
+        "bullet2": "Synthetic tests from 20+ regions",
+        "bullet3": "Correlate metrics to deploy tags",
+        "accentColor": "#632CA6",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "vercel",
+        "iconSlug3": "nextjs",
+        "iconSlug4": "aws",
+        "iconSlug5": "docker",
+        "iconSlug6": "terraform",
+        "ctaBottom": "Wrap it up"
+      }
+    },
+    {
+      "layoutId": "cta-stack-tour",
+      "slots": {
+        "pageOf": "08 / 08",
+        "handle": "@devtips",
+        "eyebrow": "YOUR TURN",
+        "headlineLine1": "Deploy with",
+        "headlineLine2": "total confidence",
+        "iconSlug1": "vercel",
+        "iconSlug2": "nextjs",
+        "iconSlug3": "turborepo",
+        "iconSlug4": "sentry",
+        "iconSlug5": "github",
+        "iconSlug6": "datadog",
+        "iconSlug7": "aws",
+        "body": "Build a stack that turns every push into a safe, measurable release. Start with Vercel and layer in observability.",
+        "ctaText": "Start building now"
+      }
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "id": "al-lead-scoring",
+  "brand": "QualifyAI",
+  "brief": "The lead scoring agent: every inbound lead gets qualified and routed in under 60 seconds.",
+  "theme": "agent-lineup",
+  "slides": [
+    {
+      "layoutId": "cover-agent-lineup",
+      "slots": {
+        "title": "Instant Lead Scoring Agent",
+        "description": "Qualifies every inbound lead and routes hot prospects to your sales team in under one minute.",
+        "flowLabel": "CORE WORKFLOW",
+        "iconSlug1": "hubspot",
+        "iconSlug2": "openai",
+        "iconSlug3": "slack",
+        "flowCaption": "Capture → score → route instantly",
+        "iconSlug4": "apollo",
+        "iconSlug5": "make",
+        "iconSlug6": "notion",
+        "iconSlug7": "calendly",
+        "ctaText": "Comment 'AGENTS' for the stack"
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "STEP 01",
+        "title": "Lead Capture Agent",
+        "description": "Ingests leads from forms, ads, and social channels into a central pipeline within seconds.",
+        "iconSlug1": "webflow",
+        "iconSlug2": "linkedin",
+        "iconSlug3": "hubspot",
+        "toolRole1": "Ingests website form fills",
+        "toolRole2": "Collects social ad leads",
+        "toolRole3": "Creates CRM record instantly",
+        "iconSlug4": "zapier",
+        "iconSlug5": "make",
+        "iconSlug6": "airtable",
+        "iconSlug7": "gmail",
+        "handle": "@automateiq"
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "STEP 02",
+        "title": "Data Enrich Agent",
+        "description": "Appends firmographic data and verified contact details to every incoming lead record.",
+        "iconSlug1": "apollo",
+        "iconSlug2": "linkedin",
+        "iconSlug3": "perplexity",
+        "toolRole1": "Finds verified contact data",
+        "toolRole2": "Maps company org charts",
+        "toolRole3": "Researches recent company news",
+        "iconSlug4": "hubspot",
+        "iconSlug5": "n8n",
+        "iconSlug6": "notion",
+        "iconSlug7": "airtable",
+        "handle": "@automateiq"
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "STEP 03",
+        "title": "AI Score Agent",
+        "description": "Evaluates ICP fit, buying intent, and budget signals using large language models.",
+        "iconSlug1": "openai",
+        "iconSlug2": "claude",
+        "iconSlug3": "perplexity",
+        "toolRole1": "Grades lead against ICP",
+        "toolRole2": "Analyzes email intent signals",
+        "toolRole3": "Surfaces contextual research",
+        "iconSlug4": "hubspot",
+        "iconSlug5": "make",
+        "iconSlug6": "slack",
+        "iconSlug7": "calendly",
+        "handle": "@automateiq"
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "STEP 04",
+        "title": "Smart Route Agent",
+        "description": "Routes hot leads to the right rep based on territory, capacity, and response time.",
+        "iconSlug1": "slack",
+        "iconSlug2": "hubspot",
+        "iconSlug3": "calendly",
+        "toolRole1": "Pings rep in Slack thread",
+        "toolRole2": "Assigns owner and deal stage",
+        "toolRole3": "Drops booking link instantly",
+        "iconSlug4": "gmail",
+        "iconSlug5": "loom",
+        "iconSlug6": "zapier",
+        "iconSlug7": "n8n",
+        "handle": "@automateiq"
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "STEP 05",
+        "title": "Sales Alert Agent",
+        "description": "Notifies sales teams with rich context so they can follow up while intent is hot.",
+        "iconSlug1": "slack",
+        "iconSlug2": "gmail",
+        "iconSlug3": "loom",
+        "toolRole1": "Blasts channel with lead card",
+        "toolRole2": "Sends briefing email to rep",
+        "toolRole3": "Pre-records intro video",
+        "iconSlug4": "discord",
+        "iconSlug5": "hubspot",
+        "iconSlug6": "make",
+        "iconSlug7": "calendly",
+        "handle": "@automateiq"
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "STEP 06",
+        "title": "CRM Sync Agent",
+        "description": "Logs every score, action, and touchpoint back to your database for full visibility.",
+        "iconSlug1": "hubspot",
+        "iconSlug2": "airtable",
+        "iconSlug3": "notion",
+        "toolRole1": "Writes score and history",
+        "toolRole2": "Updates dashboard metrics",
+        "toolRole3": "Archives playbook templates",
+        "iconSlug4": "supabase",
+        "iconSlug5": "vercel",
+        "iconSlug6": "github",
+        "iconSlug7": "zapier",
+        "handle": "@automateiq"
+      }
+    },
+    {
+      "layoutId": "cta-agent-lineup",
+      "slots": {
+        "eyebrow": "FULL STACK INSIDE",
+        "ctaHeadline1": "Build This Agent",
+        "ctaHeadline2": "Free AI Blueprints",
+        "freeBadge": "100% FREE ACCESS",
+        "iconSlug1": "openai",
+        "iconSlug2": "claude",
+        "iconSlug3": "n8n",
+        "iconSlug4": "make",
+        "iconSlug5": "hubspot",
+        "iconSlug6": "slack",
+        "iconSlug7": "apollo",
+        "iconSlug8": "zapier",
+        "handle": "@automateiq"
+      }
+    }
+  ]
+}

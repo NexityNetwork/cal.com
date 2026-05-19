@@ -1,0 +1,157 @@
+{
+  "id": "al-code-review-agent",
+  "brand": "CodeShield",
+  "brief": "The code review agent that catches bugs before your CI does — 4 tools, zero setup.",
+  "theme": "agent-lineup",
+  "slides": [
+    {
+      "layoutId": "cover-agent-lineup",
+      "slots": {
+        "title": "Smart Code Review Agent",
+        "description": "Catches bugs and security flaws before your CI pipeline runs. Zero config needed.",
+        "flowLabel": "REVIEW PIPELINE",
+        "iconSlug1": "github",
+        "iconSlug2": "claude",
+        "iconSlug3": "vercel",
+        "flowCaption": "Scan → analyze → flag instantly",
+        "iconSlug4": "slack",
+        "iconSlug5": "notion",
+        "iconSlug6": "openai",
+        "iconSlug7": "supabase",
+        "ctaText": "Comment 'AGENTS' for the stack"
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "AGENT 01",
+        "title": "PR Monitor Agent",
+        "description": "Watches every pull request for file changes and triggers instant analysis when developers push code.",
+        "iconSlug1": "github",
+        "iconSlug2": "zapier",
+        "iconSlug3": "slack",
+        "toolRole1": "Detects new pull requests",
+        "toolRole2": "Triggers review workflow",
+        "toolRole3": "Alerts team channel",
+        "iconSlug4": "openai",
+        "iconSlug5": "claude",
+        "iconSlug6": "vercel",
+        "iconSlug7": "notion",
+        "handle": "@yourhandle"
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "AGENT 02",
+        "title": "Bug Catch Agent",
+        "description": "Surfaces logic errors and edge cases using AI paired with your repository history and context.",
+        "iconSlug1": "github",
+        "iconSlug2": "openai",
+        "iconSlug3": "slack",
+        "toolRole1": "Reads repo history",
+        "toolRole2": "Finds hidden logic flaws",
+        "toolRole3": "Posts findings instantly",
+        "iconSlug4": "claude",
+        "iconSlug5": "vercel",
+        "iconSlug6": "notion",
+        "iconSlug7": "supabase",
+        "handle": "@yourhandle"
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "AGENT 03",
+        "title": "Security Scan Agent",
+        "description": "Scans commits for leaked secrets, vulnerable dependencies, and injection risks before any merge happens.",
+        "iconSlug1": "github",
+        "iconSlug2": "claude",
+        "iconSlug3": "discord",
+        "toolRole1": "Scans diffs for secrets",
+        "toolRole2": "Checks CVE databases",
+        "toolRole3": "Sends security alerts",
+        "iconSlug4": "openai",
+        "iconSlug5": "slack",
+        "iconSlug6": "notion",
+        "iconSlug7": "vercel",
+        "handle": "@yourhandle"
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "AGENT 04",
+        "title": "Style Guard Agent",
+        "description": "Enforces linting rules and formatting standards across the codebase without blocking developer velocity.",
+        "iconSlug1": "github",
+        "iconSlug2": "vercel",
+        "iconSlug3": "notion",
+        "toolRole1": "Reads style configs",
+        "toolRole2": "Suggests inline fixes",
+        "toolRole3": "Updates team wiki",
+        "iconSlug4": "openai",
+        "iconSlug5": "claude",
+        "iconSlug6": "slack",
+        "iconSlug7": "zapier",
+        "handle": "@yourhandle"
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "AGENT 05",
+        "title": "Report Build Agent",
+        "description": "Compiles human-readable review summaries and publishes them to your knowledge base automatically.",
+        "iconSlug1": "github",
+        "iconSlug2": "notion",
+        "iconSlug3": "slack",
+        "toolRole1": "Aggregates all findings",
+        "toolRole2": "Builds structured pages",
+        "toolRole3": "Notifies reviewers instantly",
+        "iconSlug4": "openai",
+        "iconSlug5": "claude",
+        "iconSlug6": "vercel",
+        "iconSlug7": "supabase",
+        "handle": "@yourhandle"
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "AGENT 06",
+        "title": "Smart Fix Suggestion Agent",
+        "description": "Proposes precise code patches and refactors that developers can apply with one click inside GitHub.",
+        "iconSlug1": "github",
+        "iconSlug2": "openai",
+        "iconSlug3": "vercel",
+        "toolRole1": "Analyzes failing blocks",
+        "toolRole2": "Generates clean snippets",
+        "toolRole3": "Opens ready-to-merge PRs",
+        "iconSlug4": "claude",
+        "iconSlug5": "slack",
+        "iconSlug6": "notion",
+        "iconSlug7": "zapier",
+        "handle": "@yourhandle"
+      }
+    },
+    {
+      "layoutId": "cta-agent-lineup",
+      "slots": {
+        "eyebrow": "ZERO SETUP",
+        "ctaHeadline1": "Ship Clean Code",
+        "ctaHeadline2": "Get My AI Stack",
+        "freeBadge": "100% FREE ACCESS",
+        "iconSlug1": "github",
+        "iconSlug2": "claude",
+        "iconSlug3": "openai",
+        "iconSlug4": "vercel",
+        "iconSlug5": "slack",
+        "iconSlug6": "notion",
+        "iconSlug7": "supabase",
+        "iconSlug8": "zapier",
+        "handle": "@yourhandle"
+      }
+    }
+  ]
+}

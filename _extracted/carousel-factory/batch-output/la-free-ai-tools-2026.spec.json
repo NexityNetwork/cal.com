@@ -1,0 +1,180 @@
+{
+  "id": "la-free-ai-tools-2026",
+  "brand": "51ultron",
+  "brief": "7 free AI tools that give solo founders an unfair advantage in 2026.",
+  "theme": "lime-accent",
+  "slides": [
+    {
+      "layoutId": "cover-lime-accent",
+      "slots": {
+        "brandTag": "STACK PICK",
+        "handle": "factory.51ultron.com",
+        "eyebrow": "2026 PICKS",
+        "titleLine1": "7 free",
+        "titleCallout": "AI tools",
+        "titleLine3": "solo founders",
+        "iconSlug1": "cursor",
+        "iconSlug2": "anthropic",
+        "iconSlug3": "vercel",
+        "iconSlug4": "replicate",
+        "iconSlug5": "ollama",
+        "iconSlug6": "perplexity",
+        "swipeLabel": "SEE LIST",
+        "pageOf": "01 / 08"
+      }
+    },
+    {
+      "layoutId": "body-lime-accent",
+      "slots": {
+        "numLabel": "TOOL 01",
+        "handle": "factory.51ultron.com",
+        "iconSlug1": "cursor",
+        "toolTag": "free tier",
+        "toolTagline": "The AI-native code editor that writes and refactors for you.",
+        "bodyText": "Cursor turns natural language into production-grade code, <em>cutting development time by half</em> for solo builders shipping fast.",
+        "bullet1": "Autocomplete entire code functions",
+        "bullet2": "Chat inside your codebase",
+        "bullet3": "Run one-click code refactors",
+        "metric1Label": "PRICE",
+        "metric1Value": "Free tier",
+        "metric2Label": "MODEL",
+        "metric2Value": "GPT-4o / Claude",
+        "metric3Label": "IDE",
+        "metric3Value": "VS Code fork",
+        "pageOf": "02 / 08",
+        "footerNote": "Pro plan available"
+      }
+    },
+    {
+      "layoutId": "body-lime-accent",
+      "slots": {
+        "numLabel": "TOOL 02",
+        "handle": "factory.51ultron.com",
+        "iconSlug1": "anthropic",
+        "toolTag": "essential",
+        "toolTagline": "Deep reasoning and long-context conversations for complex strategy.",
+        "bodyText": "Claude handles <em>200K+ token context windows</em>, making it perfect for analyzing docs, code, and business plans in one shot.",
+        "bullet1": "Massive long-form context memory",
+        "bullet2": "Highly nuanced reasoning output",
+        "bullet3": "Built-in artifact generation mode",
+        "metric1Label": "PRICE",
+        "metric1Value": "Free tier",
+        "metric2Label": "CONTEXT",
+        "metric2Value": "200K tokens",
+        "metric3Label": "API",
+        "metric3Value": "Available",
+        "pageOf": "03 / 08",
+        "footerNote": "Sonnet 3.5 powered"
+      }
+    },
+    {
+      "layoutId": "body-lime-accent",
+      "slots": {
+        "numLabel": "TOOL 03",
+        "handle": "factory.51ultron.com",
+        "iconSlug1": "vercel",
+        "toolTag": "free",
+        "toolTagline": "Generate React UI components from a simple text prompt.",
+        "bodyText": "v0 lets you <em>ship beautiful interfaces</em> without touching Figma, exporting clean Tailwind code ready for Next.js.",
+        "bullet1": "Instant text-to-UI component generation",
+        "bullet2": "Copy-paste clean React code",
+        "bullet3": "Exports Tailwind and shadcn",
+        "metric1Label": "PRICE",
+        "metric1Value": "Free",
+        "metric2Label": "OUTPUT",
+        "metric2Value": "React / Next.js",
+        "metric3Label": "DEPLOY",
+        "metric3Value": "Vercel ready",
+        "pageOf": "04 / 08",
+        "footerNote": "Generous free tier"
+      }
+    },
+    {
+      "layoutId": "body-lime-accent",
+      "slots": {
+        "numLabel": "TOOL 04",
+        "handle": "factory.51ultron.com",
+        "iconSlug1": "replicate",
+        "toolTag": "credits",
+        "toolTagline": "Run open-source AI models in the cloud with one API call.",
+        "bodyText": "From image generation to voice cloning, Replicate gives founders <em>GPU power on demand</em> without managing infrastructure.",
+        "bullet1": "Access thousands of open models",
+        "bullet2": "Simple pay-per-use GPU scaling",
+        "bullet3": "Simple REST API interface",
+        "metric1Label": "PRICE",
+        "metric1Value": "Free credits",
+        "metric2Label": "MODELS",
+        "metric2Value": "10,000+",
+        "metric3Label": "HOSTING",
+        "metric3Value": "Serverless",
+        "pageOf": "05 / 08",
+        "footerNote": "Startup credits available"
+      }
+    },
+    {
+      "layoutId": "body-lime-accent",
+      "slots": {
+        "numLabel": "TOOL 05",
+        "handle": "factory.51ultron.com",
+        "iconSlug1": "ollama",
+        "toolTag": "open source",
+        "toolTagline": "Run Llama, Mistral, and Gemma locally on your own machine.",
+        "bodyText": "Ollama keeps your data private and your API costs at zero, <em>ideal for prototyping</em> before you scale to the cloud.",
+        "bullet1": "Run fully local model inference",
+        "bullet2": "Import custom fine-tuned models",
+        "bullet3": "Full Docker container support",
+        "metric1Label": "PRICE",
+        "metric1Value": "Free",
+        "metric2Label": "LICENSE",
+        "metric2Value": "MIT",
+        "metric3Label": "PLATFORM",
+        "metric3Value": "Mac / Linux / Win",
+        "pageOf": "06 / 08",
+        "footerNote": "Open source community driven"
+      }
+    },
+    {
+      "layoutId": "body-lime-accent",
+      "slots": {
+        "numLabel": "TOOL 06",
+        "handle": "factory.51ultron.com",
+        "iconSlug1": "perplexity",
+        "toolTag": "research",
+        "toolTagline": "AI search engine that cites sources and reasons in real time.",
+        "bodyText": "Perplexity cuts through SEO noise to deliver <em>cited, actionable answers</em>, replacing hours of manual market research.",
+        "bullet1": "Real-time indexed web search",
+        "bullet2": "Every answer shows cited sources",
+        "bullet3": "Built-in pro reasoning mode",
+        "metric1Label": "PRICE",
+        "metric1Value": "Free tier",
+        "metric2Label": "FOCUS",
+        "metric2Value": "Academic / Web",
+        "metric3Label": "SPEED",
+        "metric3Value": "Real-time",
+        "pageOf": "07 / 08",
+        "footerNote": "No login required"
+      }
+    },
+    {
+      "layoutId": "cta-lime-accent",
+      "slots": {
+        "brandTag": "WRAP",
+        "handle": "factory.51ultron.com",
+        "eyebrow": "PICK YOUR STACK",
+        "ctaLine1": "Start building",
+        "ctaCallout": "today",
+        "ctaBody": "Combine these free AI tools to ship faster, spend less, and compete with teams ten times your size.",
+        "btnPrimary": "Get the stack",
+        "btnGhost": "Share list",
+        "iconSlug1": "cursor",
+        "iconSlug2": "anthropic",
+        "iconSlug3": "vercel",
+        "iconSlug4": "replicate",
+        "iconSlug5": "ollama",
+        "iconSlug6": "perplexity",
+        "pageOf": "08 / 08",
+        "footerNote": "Updated for 2026"
+      }
+    }
+  ]
+}

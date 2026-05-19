@@ -1,0 +1,175 @@
+{
+  "id": "st-framer-vs-webflow",
+  "brand": "DesignStack",
+  "brief": "Framer vs Webflow in 2026: 5 real projects that reveal exactly when to use each.",
+  "theme": "stack-tour",
+  "slides": [
+    {
+      "layoutId": "cover-stack-tour",
+      "slots": {
+        "eyebrow": "FRAMER VS WEBFLOW",
+        "title": "6 Projects That Reveal the Winner",
+        "description": "See exactly which platform wins in 2026 based on real project needs, speed, and scale.",
+        "iconSlug1": "framer",
+        "iconSlug2": "webflow",
+        "iconSlug3": "figma",
+        "iconSlug4": "vercel",
+        "iconSlug5": "stripe",
+        "iconSlug6": "notion",
+        "toolRole1": "React site builder",
+        "toolRole2": "Visual CMS platform",
+        "toolRole3": "UI design tool",
+        "toolRole4": "Edge hosting platform",
+        "toolRole5": "Payment processing infra",
+        "toolRole6": "Team documentation hub",
+        "ctaText": "See the breakdown",
+        "handle": "@designstack"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "01 / 06",
+        "handle": "@designstack",
+        "iconSlug1": "framer",
+        "toolTagline": "Ship startup landing pages in hours",
+        "description": "Framer’s AI layout engine and React export make it the 2026 pick for high-growth startup launches.",
+        "bullet1": "AI-generated first draft layouts",
+        "bullet2": "Built-in A/B split testing",
+        "bullet3": "React export for scale",
+        "accentColor": "#0055FF",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "figma",
+        "iconSlug3": "vercel",
+        "iconSlug4": "stripe",
+        "iconSlug5": "linear",
+        "iconSlug6": "slack",
+        "ctaBottom": "Next project"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "02 / 06",
+        "handle": "@designstack",
+        "iconSlug1": "webflow",
+        "toolTagline": "Scale marketing sites without engineers",
+        "description": "Webflow’s granular permissions and robust CMS make it unbeatable for enterprise content teams.",
+        "bullet1": "Role-based editor access controls",
+        "bullet2": "Enterprise-grade secure fast hosting",
+        "bullet3": "Native multi-language CMS support",
+        "accentColor": "#4353FF",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "figma",
+        "iconSlug3": "zapier",
+        "iconSlug4": "airtable",
+        "iconSlug5": "slack",
+        "iconSlug6": "notion",
+        "ctaBottom": "Next project"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "03 / 06",
+        "handle": "@designstack",
+        "iconSlug1": "framer",
+        "toolTagline": "Create immersive scroll experiences",
+        "description": "Framer’s native scroll and 3D support make it the 2026 choice for high-end brand storytelling.",
+        "bullet1": "Native scroll-driven page animations",
+        "bullet2": "Import 3D components natively",
+        "bullet3": "Code overrides for logic",
+        "accentColor": "#0055FF",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "figma",
+        "iconSlug3": "github",
+        "iconSlug4": "vercel",
+        "iconSlug5": "tailwindcss",
+        "iconSlug6": "slack",
+        "ctaBottom": "Next project"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "04 / 06",
+        "handle": "@designstack",
+        "iconSlug1": "webflow",
+        "toolTagline": "Run complex DTC storefronts visually",
+        "description": "Webflow Commerce handles variant logic, custom carts, and SEO for scaling direct-to-consumer brands.",
+        "bullet1": "Build custom checkout flows",
+        "bullet2": "Advanced dynamic CMS filtering",
+        "bullet3": "Native SEO controls included",
+        "accentColor": "#4353FF",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "stripe",
+        "iconSlug3": "zapier",
+        "iconSlug4": "airtable",
+        "iconSlug5": "slack",
+        "iconSlug6": "figma",
+        "ctaBottom": "Next project"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "05 / 06",
+        "handle": "@designstack",
+        "iconSlug1": "framer",
+        "toolTagline": "Launch mobile apps with motion",
+        "description": "Framer’s device frames and gesture previews make it ideal for app store marketing pages in 2026.",
+        "bullet1": "Built-in device mockup components",
+        "bullet2": "App store preview mode",
+        "bullet3": "Super lightweight mobile output",
+        "accentColor": "#0055FF",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "figma",
+        "iconSlug3": "vercel",
+        "iconSlug4": "github",
+        "iconSlug5": "linear",
+        "iconSlug6": "notion",
+        "ctaBottom": "Next project"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "06 / 06",
+        "handle": "@designstack",
+        "iconSlug1": "webflow",
+        "toolTagline": "Gate content and monetize communities",
+        "description": "Webflow Memberships and Logic let creators build gated portals without writing backend code.",
+        "bullet1": "Create gated content tiers",
+        "bullet2": "Custom user account dashboards",
+        "bullet3": "Visual no-code logic flows",
+        "accentColor": "#4353FF",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "stripe",
+        "iconSlug3": "airtable",
+        "iconSlug4": "zapier",
+        "iconSlug5": "figma",
+        "iconSlug6": "slack",
+        "ctaBottom": "Read the verdict"
+      }
+    },
+    {
+      "layoutId": "cta-stack-tour",
+      "slots": {
+        "pageOf": "08 / 08",
+        "handle": "@designstack",
+        "eyebrow": "YOUR TURN",
+        "headlineLine1": "Pick Your 2026",
+        "headlineLine2": "Design Stack",
+        "iconSlug1": "framer",
+        "iconSlug2": "webflow",
+        "iconSlug3": "figma",
+        "iconSlug4": "vercel",
+        "iconSlug5": "stripe",
+        "iconSlug6": "notion",
+        "iconSlug7": "slack",
+        "body": "Follow for weekly tool breakdowns and no-code tutorials that save you hours.",
+        "ctaText": "Follow @designstack"
+      }
+    }
+  ]
+}

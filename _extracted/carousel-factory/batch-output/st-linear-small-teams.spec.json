@@ -1,0 +1,175 @@
+{
+  "id": "st-linear-small-teams",
+  "brand": "Linear",
+  "brief": "Linear for small teams: 5 workflows that cut sprint planning from 2 hours to 15 minutes.",
+  "theme": "stack-tour",
+  "slides": [
+    {
+      "layoutId": "cover-stack-tour",
+      "slots": {
+        "eyebrow": "MY 6-TOOL STACK",
+        "title": "Cut Sprint Planning From Hours to Minutes",
+        "description": "Five automated workflows that help small product teams plan sprints in Linear without the meeting overhead.",
+        "iconSlug1": "linear",
+        "iconSlug2": "github",
+        "iconSlug3": "slack",
+        "iconSlug4": "figma",
+        "iconSlug5": "notion",
+        "iconSlug6": "zapier",
+        "toolRole1": "Project & sprint planning",
+        "toolRole2": "Version control & CI",
+        "toolRole3": "Async team updates",
+        "toolRole4": "Design handoff & review",
+        "toolRole5": "Documentation & wiki",
+        "toolRole6": "Workflow automation hub",
+        "ctaText": "Read the breakdown",
+        "handle": "@productstack"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "TOOL 01",
+        "handle": "@productstack",
+        "iconSlug1": "linear",
+        "toolTagline": "Streamline sprint planning for small teams",
+        "description": "Linear replaces spreadsheets and status meetings with fast, keyboard-first issue tracking that keeps roadmaps automatically updated.",
+        "bullet1": "Triage incoming bugs in seconds",
+        "bullet2": "Auto-assign issues by label",
+        "bullet3": "Generate cycles from backlog instantly",
+        "accentColor": "#5E6AD2",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "github",
+        "iconSlug3": "slack",
+        "iconSlug4": "figma",
+        "iconSlug5": "notion",
+        "iconSlug6": "zapier",
+        "ctaBottom": "See next tool"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "TOOL 02",
+        "handle": "@productstack",
+        "iconSlug1": "github",
+        "toolTagline": "Connect code progress to issues",
+        "description": "GitHub syncs pull requests and commits directly to Linear so sprint status stays current without manual updates.",
+        "bullet1": "Auto-close issues on merge",
+        "bullet2": "Link branches to Linear tickets",
+        "bullet3": "Track deploys inside cycles",
+        "accentColor": "#181717",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "linear",
+        "iconSlug3": "slack",
+        "iconSlug4": "figma",
+        "iconSlug5": "notion",
+        "iconSlug6": "zapier",
+        "ctaBottom": "See next tool"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "TOOL 03",
+        "handle": "@productstack",
+        "iconSlug1": "slack",
+        "toolTagline": "Notify teams only when it matters",
+        "description": "Slack alerts cut through noise by routing Linear updates to the right channels based on issue priority and project.",
+        "bullet1": "Alert channel on high-priority bugs",
+        "bullet2": "Daily sprint digest every morning",
+        "bullet3": "Create tickets from Slack threads",
+        "accentColor": "#4A154B",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "linear",
+        "iconSlug3": "github",
+        "iconSlug4": "figma",
+        "iconSlug5": "notion",
+        "iconSlug6": "zapier",
+        "ctaBottom": "See next tool"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "TOOL 04",
+        "handle": "@productstack",
+        "iconSlug1": "figma",
+        "toolTagline": "Bridge design and engineering handoff",
+        "description": "Figma embeds live design files into Linear issues so developers review specs without leaving sprint planning or guessing assets.",
+        "bullet1": "Embed Figma frames in issues",
+        "bullet2": "Track design reviews in cycles",
+        "bullet3": "Comment on specs before coding",
+        "accentColor": "#F24E1E",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "linear",
+        "iconSlug3": "github",
+        "iconSlug4": "slack",
+        "iconSlug5": "notion",
+        "iconSlug6": "zapier",
+        "ctaBottom": "See next tool"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "TOOL 05",
+        "handle": "@productstack",
+        "iconSlug1": "notion",
+        "toolTagline": "Centralize sprint docs and retros",
+        "description": "Notion houses meeting notes, retros, and specs that sync with Linear projects so context never lives in ten tabs.",
+        "bullet1": "Link sprint retros to cycles",
+        "bullet2": "Embed Linear views in wiki pages",
+        "bullet3": "Auto-publish sprint summaries weekly",
+        "accentColor": "#000000",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "linear",
+        "iconSlug3": "github",
+        "iconSlug4": "slack",
+        "iconSlug5": "figma",
+        "iconSlug6": "zapier",
+        "ctaBottom": "See next tool"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "TOOL 06",
+        "handle": "@productstack",
+        "iconSlug1": "zapier",
+        "toolTagline": "Automate busywork between your apps",
+        "description": "Zapier connects Linear to your calendar, forms, and CRM so sprint planning prep happens automatically before you open the app.",
+        "bullet1": "Auto-create tickets from Typeform",
+        "bullet2": "Sync calendar block for planning",
+        "bullet3": "Alert leads on overdue issues",
+        "accentColor": "#FF4A00",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "linear",
+        "iconSlug3": "github",
+        "iconSlug4": "slack",
+        "iconSlug5": "figma",
+        "iconSlug6": "notion",
+        "ctaBottom": "See the stack"
+      }
+    },
+    {
+      "layoutId": "cta-stack-tour",
+      "slots": {
+        "pageOf": "08 / 08",
+        "handle": "@productstack",
+        "eyebrow": "YOUR TURN",
+        "headlineLine1": "Build your stack",
+        "headlineLine2": "Ship faster today",
+        "iconSlug1": "linear",
+        "iconSlug2": "github",
+        "iconSlug3": "slack",
+        "iconSlug4": "figma",
+        "iconSlug5": "notion",
+        "iconSlug6": "zapier",
+        "iconSlug7": "vercel",
+        "body": "Start with Linear and these six integrations to cut sprint planning from two hours down to fifteen minutes.",
+        "ctaText": "Build your stack"
+      }
+    }
+  ]
+}

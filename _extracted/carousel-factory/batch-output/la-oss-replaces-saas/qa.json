@@ -1,0 +1,253 @@
+{
+  "slides": [
+    {
+      "index": 0,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/la-oss-replaces-saas/slide-01.png",
+      "bytes": 80163,
+      "qa": {
+        "verdict": "pass",
+        "checks": {
+          "no_unfilled_slots": true
+        },
+        "issues": []
+      },
+      "fingerprint": {
+        "layout": "unknown",
+        "elements": {}
+      }
+    },
+    {
+      "index": 1,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/la-oss-replaces-saas/slide-02.png",
+      "bytes": 79176,
+      "qa": {
+        "verdict": "pass",
+        "checks": {
+          "no_unfilled_slots": true,
+          "body_text_present": true,
+          "body_text_in_bounds": true,
+          "body_text_no_overflow": true
+        },
+        "issues": []
+      },
+      "fingerprint": {
+        "layout": "unknown",
+        "elements": {
+          ".body-text": {
+            "x": 80,
+            "y": 430,
+            "w": 920,
+            "h": 72
+          }
+        }
+      }
+    },
+    {
+      "index": 2,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/la-oss-replaces-saas/slide-03.png",
+      "bytes": 73907,
+      "qa": {
+        "verdict": "pass",
+        "checks": {
+          "no_unfilled_slots": true,
+          "body_text_present": true,
+          "body_text_in_bounds": true,
+          "body_text_no_overflow": true
+        },
+        "issues": []
+      },
+      "fingerprint": {
+        "layout": "unknown",
+        "elements": {
+          ".body-text": {
+            "x": 80,
+            "y": 430,
+            "w": 920,
+            "h": 36
+          }
+        }
+      }
+    },
+    {
+      "index": 3,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/la-oss-replaces-saas/slide-04.png",
+      "bytes": 76466,
+      "qa": {
+        "verdict": "pass",
+        "checks": {
+          "no_unfilled_slots": true,
+          "body_text_present": true,
+          "body_text_in_bounds": true,
+          "body_text_no_overflow": true
+        },
+        "issues": []
+      },
+      "fingerprint": {
+        "layout": "unknown",
+        "elements": {
+          ".body-text": {
+            "x": 80,
+            "y": 430,
+            "w": 920,
+            "h": 36
+          }
+        }
+      }
+    },
+    {
+      "index": 4,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/la-oss-replaces-saas/slide-05.png",
+      "bytes": 74421,
+      "qa": {
+        "verdict": "pass",
+        "checks": {
+          "no_unfilled_slots": true,
+          "body_text_present": true,
+          "body_text_in_bounds": true,
+          "body_text_no_overflow": true
+        },
+        "issues": []
+      },
+      "fingerprint": {
+        "layout": "unknown",
+        "elements": {
+          ".body-text": {
+            "x": 80,
+            "y": 430,
+            "w": 920,
+            "h": 36
+          }
+        }
+      }
+    },
+    {
+      "index": 5,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/la-oss-replaces-saas/slide-06.png",
+      "bytes": 74153,
+      "qa": {
+        "verdict": "pass",
+        "checks": {
+          "no_unfilled_slots": true,
+          "body_text_present": true,
+          "body_text_in_bounds": true,
+          "body_text_no_overflow": true
+        },
+        "issues": []
+      },
+      "fingerprint": {
+        "layout": "unknown",
+        "elements": {
+          ".body-text": {
+            "x": 80,
+            "y": 430,
+            "w": 920,
+            "h": 72
+          }
+        }
+      }
+    },
+    {
+      "index": 6,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/la-oss-replaces-saas/slide-07.png",
+      "bytes": 75451,
+      "qa": {
+        "verdict": "pass",
+        "checks": {
+          "no_unfilled_slots": true,
+          "body_text_present": true,
+          "body_text_in_bounds": true,
+          "body_text_no_overflow": true
+        },
+        "issues": []
+      },
+      "fingerprint": {
+        "layout": "unknown",
+        "elements": {
+          ".body-text": {
+            "x": 80,
+            "y": 430,
+            "w": 920,
+            "h": 36
+          }
+        }
+      }
+    },
+    {
+      "index": 7,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/la-oss-replaces-saas/slide-08.png",
+      "bytes": 212843,
+      "qa": {
+        "verdict": "pass",
+        "checks": {
+          "no_unfilled_slots": true
+        },
+        "issues": []
+      },
+      "fingerprint": {
+        "layout": "unknown",
+        "elements": {}
+      }
+    }
+  ],
+  "carouselQa": {
+    "verdict": "needs-review",
+    "issues": [
+      "slides 2 and 3 have nearly identical composition (sim=0.97)",
+      "slides 3 and 4 have nearly identical composition (sim=1.00)",
+      "slides 4 and 5 have nearly identical composition (sim=1.00)",
+      "slides 5 and 6 have nearly identical composition (sim=0.97)",
+      "slides 6 and 7 have nearly identical composition (sim=0.97)"
+    ],
+    "adjacencyChecks": [
+      {
+        "between": [
+          1,
+          2
+        ],
+        "similarity": 0
+      },
+      {
+        "between": [
+          2,
+          3
+        ],
+        "similarity": 0.9703703703703703
+      },
+      {
+        "between": [
+          3,
+          4
+        ],
+        "similarity": 1
+      },
+      {
+        "between": [
+          4,
+          5
+        ],
+        "similarity": 1
+      },
+      {
+        "between": [
+          5,
+          6
+        ],
+        "similarity": 0.9703703703703703
+      },
+      {
+        "between": [
+          6,
+          7
+        ],
+        "similarity": 0.9703703703703703
+      },
+      {
+        "between": [
+          7,
+          8
+        ],
+        "similarity": 0
+      }
+    ]
+  }
+}

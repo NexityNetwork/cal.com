@@ -1,0 +1,175 @@
+{
+  "id": "st-claude-api-patterns",
+  "brand": "Claude API",
+  "brief": "Claude API in production: 5 patterns for building AI features that actually work at scale.",
+  "theme": "stack-tour",
+  "slides": [
+    {
+      "layoutId": "cover-stack-tour",
+      "slots": {
+        "eyebrow": "CLAUDE PRODUCTION STACK",
+        "title": "5 Patterns for Scaling AI Features",
+        "description": "The modern tool stack and architecture patterns that separate demo AI from production-grade systems.",
+        "iconSlug1": "claude",
+        "iconSlug2": "pinecone",
+        "iconSlug3": "vercel",
+        "iconSlug4": "langchain",
+        "iconSlug5": "datadog",
+        "iconSlug6": "aws",
+        "toolRole1": "Primary LLM reasoning layer",
+        "toolRole2": "Vector memory and search",
+        "toolRole3": "Frontend hosting platform",
+        "toolRole4": "AI workflow orchestration",
+        "toolRole5": "Performance observability suite",
+        "toolRole6": "Serverless cloud infrastructure",
+        "ctaText": "Read the breakdown",
+        "handle": "@yourhandle"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "02 / 08",
+        "handle": "@yourhandle",
+        "iconSlug1": "claude",
+        "toolTagline": "The reasoning engine behind production AI",
+        "description": "Claude handles complex reasoning, long context windows, and safe outputs for user-facing features.",
+        "bullet1": "Generate structured JSON schemas",
+        "bullet2": "Process 100K+ token contexts",
+        "bullet3": "Enforce safety guardrails at runtime",
+        "accentColor": "#D97757",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "vercel",
+        "iconSlug3": "pinecone",
+        "iconSlug4": "langchain",
+        "iconSlug5": "datadog",
+        "iconSlug6": "aws",
+        "ctaBottom": "Next: Vector layer"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "03 / 08",
+        "handle": "@yourhandle",
+        "iconSlug1": "pinecone",
+        "toolTagline": "Low-latency semantic search for RAG",
+        "description": "Vector databases turn Claude into a domain expert by retrieving relevant context at query time.",
+        "bullet1": "Hybrid search with metadata filters",
+        "bullet2": "Real-time index updates on ingest",
+        "bullet3": "Sub-100ms retrieval latency targets",
+        "accentColor": "#111111",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "claude",
+        "iconSlug3": "vercel",
+        "iconSlug4": "langchain",
+        "iconSlug5": "python",
+        "iconSlug6": "aws",
+        "ctaBottom": "Next: Orchestration layer"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "04 / 08",
+        "handle": "@yourhandle",
+        "iconSlug1": "langchain",
+        "toolTagline": "Chain logic, tools, and memory flows",
+        "description": "LangChain abstracts prompt templates, tool calling, and state management into reusable components.",
+        "bullet1": "Standardize tool-use patterns across apps",
+        "bullet2": "Route queries to specialized chains",
+        "bullet3": "Cache LLM calls to cut costs",
+        "accentColor": "#065F46",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "claude",
+        "iconSlug3": "pinecone",
+        "iconSlug4": "vercel",
+        "iconSlug5": "python",
+        "iconSlug6": "datadog",
+        "ctaBottom": "Next: Serving layer"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "05 / 08",
+        "handle": "@yourhandle",
+        "iconSlug1": "vercel",
+        "toolTagline": "Edge-deployed AI endpoints and UI",
+        "description": "Serverless functions and streaming UI components deliver Claude responses to users in milliseconds.",
+        "bullet1": "Stream SSE responses to React frontends",
+        "bullet2": "Deploy globally on Edge network",
+        "bullet3": "Auto-scale API routes on demand",
+        "accentColor": "#000000",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "claude",
+        "iconSlug3": "nextjs",
+        "iconSlug4": "nodejs",
+        "iconSlug5": "redis",
+        "iconSlug6": "sentry",
+        "ctaBottom": "Next: Caching layer"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "06 / 08",
+        "handle": "@yourhandle",
+        "iconSlug1": "redis",
+        "toolTagline": "In-memory caching and rate limits",
+        "description": "Redis prevents redundant LLM calls and enforces token-rate limits without adding server overhead.",
+        "bullet1": "Cache embeddings to skip re-computation",
+        "bullet2": "Throttle requests per user tier",
+        "bullet3": "Persist session state at the edge",
+        "accentColor": "#DC382D",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "claude",
+        "iconSlug3": "vercel",
+        "iconSlug4": "nodejs",
+        "iconSlug5": "datadog",
+        "iconSlug6": "aws",
+        "ctaBottom": "Next: Observability stack"
+      }
+    },
+    {
+      "layoutId": "body-stack-tour",
+      "slots": {
+        "slideLabel": "07 / 08",
+        "handle": "@yourhandle",
+        "iconSlug1": "datadog",
+        "toolTagline": "Trace, monitor, and evaluate LLM ops",
+        "description": "Datadog watches latency, token spend, and error rates across your Claude-powered microservices.",
+        "bullet1": "Alert on P95 latency spikes",
+        "bullet2": "Track per-request token burn",
+        "bullet3": "Correlate traces across services",
+        "accentColor": "#632CA6",
+        "stackLabel": "PAIRS WELL WITH",
+        "iconSlug2": "claude",
+        "iconSlug3": "vercel",
+        "iconSlug4": "langchain",
+        "iconSlug5": "aws",
+        "iconSlug6": "sentry",
+        "ctaBottom": "See the full stack"
+      }
+    },
+    {
+      "layoutId": "cta-stack-tour",
+      "slots": {
+        "pageOf": "08 / 08",
+        "handle": "@yourhandle",
+        "eyebrow": "YOUR TURN",
+        "headlineLine1": "Ship Claude Apps",
+        "headlineLine2": "That Scale",
+        "iconSlug1": "claude",
+        "iconSlug2": "pinecone",
+        "iconSlug3": "langchain",
+        "iconSlug4": "vercel",
+        "iconSlug5": "redis",
+        "iconSlug6": "datadog",
+        "iconSlug7": "aws",
+        "body": "Pick one pattern this week and move your Claude demo into production.",
+        "ctaText": "Save this stack"
+      }
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "id": "al-content-repurpose",
+  "brand": "FlowState",
+  "brief": "The content repurposing agent: one blog post becomes 12 social assets automatically.",
+  "theme": "agent-lineup",
+  "slides": [
+    {
+      "layoutId": "cover-agent-lineup",
+      "slots": {
+        "title": "Content Repurposing Agent",
+        "description": "One blog post becomes 12 platform-native social assets on autopilot. Zero manual copy-paste.",
+        "flowLabel": "WORKFLOW",
+        "iconSlug1": "webflow",
+        "iconSlug2": "openai",
+        "iconSlug3": "instagram",
+        "flowCaption": "Ingest → atomize → publish automatically",
+        "iconSlug4": "youtube",
+        "iconSlug5": "tiktok",
+        "iconSlug6": "linkedin",
+        "iconSlug7": "notion",
+        "ctaText": "comment 'REPURPOSE' for the stack"
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "STEP 01",
+        "title": "Blog Ingestion Agent",
+        "description": "Pulls your published post from CMS and strips it into raw modular components instantly.",
+        "iconSlug1": "webflow",
+        "iconSlug2": "notion",
+        "iconSlug3": "n8n",
+        "toolRole1": "Pulls blog from Webflow CMS",
+        "toolRole2": "Chunks text into atomic ideas",
+        "toolRole3": "Triggers workflow on publish",
+        "iconSlug4": "openai",
+        "iconSlug5": "slack",
+        "iconSlug6": "airtable",
+        "iconSlug7": "github",
+        "handle": "@flowstate"
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "STEP 02",
+        "title": "Content Atomizer Agent",
+        "description": "Breaks articles into hooks, quotes, carousels, and captions using AI analysis.",
+        "iconSlug1": "claude",
+        "iconSlug2": "openai",
+        "iconSlug3": "perplexity",
+        "toolRole1": "Reads full blog context",
+        "toolRole2": "Generates 12 asset angles",
+        "toolRole3": "Fact-checks key claims",
+        "iconSlug4": "figma",
+        "iconSlug5": "loom",
+        "iconSlug6": "zapier",
+        "iconSlug7": "notion",
+        "handle": "@flowstate"
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "STEP 03",
+        "title": "Visual Design Agent",
+        "description": "Auto-generates carousel slides and image templates matched to each platform's format.",
+        "iconSlug1": "figma",
+        "iconSlug2": "framer",
+        "iconSlug3": "vercel",
+        "toolRole1": "Builds reusable templates",
+        "toolRole2": "Renders interactive assets",
+        "toolRole3": "Hosts dynamic image API",
+        "iconSlug4": "openai",
+        "iconSlug5": "github",
+        "iconSlug6": "supabase",
+        "iconSlug7": "slack",
+        "handle": "@flowstate"
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "STEP 04",
+        "title": "Platform Format Agent",
+        "description": "Resizes copy and cadence for LinkedIn, TikTok, Instagram, and YouTube automatically.",
+        "iconSlug1": "linkedin",
+        "iconSlug2": "tiktok",
+        "iconSlug3": "instagram",
+        "toolRole1": "Formats thought leadership",
+        "toolRole2": "Scripts short video hooks",
+        "toolRole3": "Builds carousel captions",
+        "iconSlug4": "youtube",
+        "iconSlug5": "notion",
+        "iconSlug6": "zapier",
+        "iconSlug7": "hubspot",
+        "handle": "@flowstate"
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "STEP 05",
+        "title": "Distribution Queue Agent",
+        "description": "Lines up all 12 assets in your content calendar with optimal posting times.",
+        "iconSlug1": "airtable",
+        "iconSlug2": "n8n",
+        "iconSlug3": "zapier",
+        "toolRole1": "Manages content calendar",
+        "toolRole2": "Schedules API publishing",
+        "toolRole3": "Cross-posts to channels",
+        "iconSlug4": "hubspot",
+        "iconSlug5": "slack",
+        "iconSlug6": "gmail",
+        "iconSlug7": "loom",
+        "handle": "@flowstate"
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "STEP 06",
+        "title": "Performance Loop Agent",
+        "description": "Tracks engagement across every channel and feeds winners back into the next cycle.",
+        "iconSlug1": "hubspot",
+        "iconSlug2": "youtube",
+        "iconSlug3": "slack",
+        "toolRole1": "Tracks lead engagement",
+        "toolRole2": "Measures view retention",
+        "toolRole3": "Alerts on viral signals",
+        "iconSlug4": "supabase",
+        "iconSlug5": "loom",
+        "iconSlug6": "github",
+        "iconSlug7": "perplexity",
+        "handle": "@flowstate"
+      }
+    },
+    {
+      "layoutId": "cta-agent-lineup",
+      "slots": {
+        "eyebrow": "FULL STACK INSIDE",
+        "ctaHeadline1": "Steal This Agent",
+        "ctaHeadline2": "All My AI Freebies",
+        "freeBadge": "100% FREE ACCESS",
+        "iconSlug1": "openai",
+        "iconSlug2": "n8n",
+        "iconSlug3": "zapier",
+        "iconSlug4": "notion",
+        "iconSlug5": "airtable",
+        "iconSlug6": "figma",
+        "iconSlug7": "vercel",
+        "iconSlug8": "slack",
+        "handle": "@flowstate"
+      }
+    }
+  ]
+}

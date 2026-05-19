@@ -1,0 +1,157 @@
+{
+  "id": "al-social-reply-agent",
+  "brand": "Agent Stack",
+  "brief": "The social media agent that monitors mentions, drafts replies, and schedules responses automatically.",
+  "theme": "agent-lineup",
+  "slides": [
+    {
+      "layoutId": "cover-agent-lineup",
+      "slots": {
+        "title": "Social Mention Response Agent",
+        "description": "Monitors brand mentions across platforms, drafts AI replies, and schedules responses automatically without manual effort.",
+        "flowLabel": "WORKFLOW",
+        "iconSlug1": "instagram",
+        "iconSlug2": "claude",
+        "iconSlug3": "n8n",
+        "flowCaption": "Monitor mentions → draft replies → publish automatically",
+        "iconSlug4": "youtube",
+        "iconSlug5": "slack",
+        "iconSlug6": "make",
+        "iconSlug7": "hubspot",
+        "ctaText": "Comment 'SOCIAL' for the full stack"
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "STEP 01",
+        "title": "Mention Monitor Agent",
+        "description": "Scans Instagram, LinkedIn, and TikTok for brand tags, keywords, and direct mentions in real time.",
+        "iconSlug1": "instagram",
+        "iconSlug2": "linkedin",
+        "iconSlug3": "tiktok",
+        "toolRole1": "Scans Instagram for brand tags",
+        "toolRole2": "Tracks LinkedIn comment threads",
+        "toolRole3": "Watches TikTok mentions daily",
+        "iconSlug4": "youtube",
+        "iconSlug5": "slack",
+        "iconSlug6": "notion",
+        "iconSlug7": "n8n",
+        "handle": "@yourhandle"
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "STEP 02",
+        "title": "Intent Analysis Agent",
+        "description": "Uses AI to classify mention sentiment and identify urgent questions, complaints, or high-value engagement opportunities fast.",
+        "iconSlug1": "claude",
+        "iconSlug2": "openai",
+        "iconSlug3": "perplexity",
+        "toolRole1": "Classifies sentiment with AI",
+        "toolRole2": "Identifies urgent complaints fast",
+        "toolRole3": "Scores engagement opportunity value",
+        "iconSlug4": "hubspot",
+        "iconSlug5": "apollo",
+        "iconSlug6": "airtable",
+        "iconSlug7": "zapier",
+        "handle": "@yourhandle"
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "STEP 03",
+        "title": "Reply Drafter Agent",
+        "description": "Generates on-brand response drafts using your voice guidelines, then routes them for quick review or auto-approval.",
+        "iconSlug1": "claude",
+        "iconSlug2": "openai",
+        "iconSlug3": "slack",
+        "toolRole1": "Writes replies in brand voice",
+        "toolRole2": "Matches tone to audience",
+        "toolRole3": "Routes drafts to Slack",
+        "iconSlug4": "instagram",
+        "iconSlug5": "linkedin",
+        "iconSlug6": "tiktok",
+        "iconSlug7": "youtube",
+        "handle": "@yourhandle"
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "STEP 04",
+        "title": "Approval Routing Agent",
+        "description": "Sends high-risk replies to Slack for human approval and auto-publishes low-risk responses based on trust rules.",
+        "iconSlug1": "slack",
+        "iconSlug2": "n8n",
+        "iconSlug3": "make",
+        "toolRole1": "Flags high-risk replies instantly",
+        "toolRole2": "Automates approval routing paths",
+        "toolRole3": "Publishes safe replies fast",
+        "iconSlug4": "claude",
+        "iconSlug5": "notion",
+        "iconSlug6": "hubspot",
+        "iconSlug7": "airtable",
+        "handle": "@yourhandle"
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "STEP 05",
+        "title": "Content Scheduler Agent",
+        "description": "Queues approved responses into Notion calendars and auto-posts them at peak engagement times across all channels.",
+        "iconSlug1": "notion",
+        "iconSlug2": "n8n",
+        "iconSlug3": "zapier",
+        "toolRole1": "Builds content calendar queues",
+        "toolRole2": "Triggers posting via API",
+        "toolRole3": "Hits peak engagement windows",
+        "iconSlug4": "slack",
+        "iconSlug5": "gmail",
+        "iconSlug6": "hubspot",
+        "iconSlug7": "loom",
+        "handle": "@yourhandle"
+      }
+    },
+    {
+      "layoutId": "body-agent-lineup",
+      "slots": {
+        "slideLabel": "STEP 06",
+        "title": "Analytics Logger Agent",
+        "description": "Stores every interaction in Airtable, tracks response metrics, and builds weekly performance reports for your team.",
+        "iconSlug1": "airtable",
+        "iconSlug2": "hubspot",
+        "iconSlug3": "notion",
+        "toolRole1": "Logs all replies centrally",
+        "toolRole2": "Tracks response time metrics",
+        "toolRole3": "Builds weekly performance reports",
+        "iconSlug4": "claude",
+        "iconSlug5": "slack",
+        "iconSlug6": "openai",
+        "iconSlug7": "perplexity",
+        "handle": "@yourhandle"
+      }
+    },
+    {
+      "layoutId": "cta-agent-lineup",
+      "slots": {
+        "eyebrow": "FULL STACK INSIDE",
+        "ctaHeadline1": "Build This Agent",
+        "ctaHeadline2": "Get My Free Guide",
+        "freeBadge": "100% Free Blueprint",
+        "iconSlug1": "instagram",
+        "iconSlug2": "linkedin",
+        "iconSlug3": "tiktok",
+        "iconSlug4": "claude",
+        "iconSlug5": "openai",
+        "iconSlug6": "n8n",
+        "iconSlug7": "notion",
+        "iconSlug8": "slack",
+        "handle": "@yourhandle"
+      }
+    }
+  ]
+}

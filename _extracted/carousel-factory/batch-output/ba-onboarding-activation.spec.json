@@ -1,0 +1,180 @@
+{
+  "id": "ba-onboarding-activation",
+  "brand": "Onboardly",
+  "brief": "Our onboarding activation went from 14% to 67% — the 5 changes that moved the needle.",
+  "theme": "before-after",
+  "slides": [
+    {
+      "layoutId": "cover-before-after",
+      "slots": {
+        "pageOf": "01 / 08",
+        "handle": "@onboardly",
+        "title": "Stop losing",
+        "titleAccent": "new users",
+        "description": "Our onboarding activation went from 14% to 67% with five tactical changes. Here's the exact before-and-after breakdown.",
+        "badLabel1": "Confusing multi-step signup flow",
+        "badLabel2": "No automated email follow-ups",
+        "badStat1": "14% activation rate",
+        "badStat2": "42-day time-to-value",
+        "goodLabel1": "Guided first-mile user journey",
+        "goodLabel2": "Triggered success milestone emails",
+        "goodStat1": "67% activation rate",
+        "goodStat2": "2-day time-to-value",
+        "iconSlug1": "slack",
+        "iconSlug2": "notion",
+        "iconSlug3": "stripe",
+        "iconSlug4": "intercom"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 01 / 06",
+        "handle": "@onboardly",
+        "title": "Fix the",
+        "titleAccent": "first mile",
+        "description": "We replaced our bloated onboarding with a focused activation flow. The impact was immediate and measurable.",
+        "badLabel": "BEFORE",
+        "badText": "Users hit a seven-field form and a blank dashboard with no clear next step.",
+        "badStat": "14% activation",
+        "iconSlug1": "mailchimp",
+        "iconSlug2": "salesforce",
+        "goodLabel": "AFTER",
+        "goodText": "A three-field signup leads into a personalized checklist with one clear action.",
+        "goodStat": "67% activation",
+        "iconSlug3": "linear",
+        "iconSlug4": "figma",
+        "iconSlug5": "vercel",
+        "ctaArrow": "See the changes"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 02 / 06",
+        "handle": "@onboardly",
+        "title": "Cut form",
+        "titleAccent": "friction",
+        "description": "Long forms killed momentum. We cut fields by 70% and moved questions later in the journey.",
+        "badLabel": "BEFORE",
+        "badText": "Seven required fields including company size and phone number blocked every signup.",
+        "badStat": "12% completion",
+        "iconSlug1": "wordpress",
+        "iconSlug2": "wix",
+        "goodLabel": "AFTER",
+        "goodText": "Three fields and progressive profiling raised completions without hurting data quality.",
+        "goodStat": "68% completion",
+        "iconSlug3": "stripe",
+        "iconSlug4": "shopify",
+        "iconSlug5": "notion",
+        "ctaArrow": "Next change below"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 03 / 06",
+        "handle": "@onboardly",
+        "title": "Add guided",
+        "titleAccent": "checklists",
+        "description": "Blank dashboards overwhelm new users. We added a simple checklist to show clear progress.",
+        "badLabel": "BEFORE",
+        "badText": "Users landed on an empty project page and had no idea what to do first.",
+        "badStat": "18% day-1 return",
+        "iconSlug1": "dropbox",
+        "iconSlug2": "box",
+        "goodLabel": "AFTER",
+        "goodText": "A three-task checklist with a progress bar drove users to their first aha moment.",
+        "goodStat": "61% day-1 return",
+        "iconSlug3": "asana",
+        "iconSlug4": "trello",
+        "iconSlug5": "monday",
+        "ctaArrow": "Keep scrolling down"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 04 / 06",
+        "handle": "@onboardly",
+        "title": "Send smart",
+        "titleAccent": "nudges",
+        "description": "Generic drip campaigns failed. We switched to behavior-based emails triggered by real user actions.",
+        "badLabel": "BEFORE",
+        "badText": "A one-size-fits-all weekly newsletter had no connection to actual user progress.",
+        "badStat": "2% email CTR",
+        "iconSlug1": "hubspot",
+        "iconSlug2": "salesforce",
+        "goodLabel": "AFTER",
+        "goodText": "Targeted nudges fired when users stalled at a specific step in the funnel.",
+        "goodStat": "19% email CTR",
+        "iconSlug3": "intercom",
+        "iconSlug4": "slack",
+        "iconSlug5": "mailchimp",
+        "ctaArrow": "See next tactic"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 05 / 06",
+        "handle": "@onboardly",
+        "title": "Offer live",
+        "titleAccent": "support",
+        "description": "Support tickets took 48 hours. We added in-app chat to answer questions during setup.",
+        "badLabel": "BEFORE",
+        "badText": "Users sent emails and waited days for help with basic setup blockers.",
+        "badStat": "48h reply time",
+        "iconSlug1": "gmail",
+        "iconSlug2": "outlook",
+        "goodLabel": "AFTER",
+        "goodText": "In-app chat and canned responses cut support time to under five minutes.",
+        "goodStat": "4min reply time",
+        "iconSlug3": "zendesk",
+        "iconSlug4": "intercom",
+        "iconSlug5": "telegram",
+        "ctaArrow": "Read the finale"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 06 / 06",
+        "handle": "@onboardly",
+        "title": "Celebrate quick",
+        "titleAccent": "wins",
+        "description": "Users never felt progress. We added micro-confetti and success messages at key milestones.",
+        "badLabel": "BEFORE",
+        "badText": "Reaching a milestone felt silent and users had no emotional reason to return.",
+        "badStat": "9% week-2 active",
+        "iconSlug1": "jira",
+        "iconSlug2": "confluence",
+        "goodLabel": "AFTER",
+        "goodText": "Small celebrations after the first export created a habit loop and dopamine hit.",
+        "goodStat": "54% week-2 active",
+        "iconSlug3": "figma",
+        "iconSlug4": "framer",
+        "iconSlug5": "webflow",
+        "ctaArrow": "Get the guide"
+      }
+    },
+    {
+      "layoutId": "cta-before-after",
+      "slots": {
+        "pageOf": "08 / 08",
+        "handle": "@onboardly",
+        "eyebrow": "MAKE THE SWITCH",
+        "headlineLine1": "Boost your",
+        "headlineAccent": "activation rate",
+        "body": "Steal our 5-step onboarding framework and turn signups into power users this quarter.",
+        "iconSlug1": "slack",
+        "iconSlug2": "notion",
+        "iconSlug3": "stripe",
+        "iconSlug4": "intercom",
+        "iconSlug5": "figma",
+        "iconSlug6": "linear",
+        "ctaText": "Get the playbook"
+      }
+    }
+  ]
+}
