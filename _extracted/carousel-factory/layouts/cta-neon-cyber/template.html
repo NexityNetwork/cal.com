@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;700;800&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1080px;height:1350px;overflow:hidden;background:#04040c;font-family:"Space Grotesk",sans-serif;color:#e8e0ff;-webkit-font-smoothing:antialiased}
+.bg-grid{position:absolute;inset:0;background-image:linear-gradient(rgba(124,77,255,0.05) 1px,transparent 1px),linear-gradient(90deg,rgba(124,77,255,0.05) 1px,transparent 1px);background-size:40px 40px}
+.glow-center{position:absolute;top:40%;left:50%;transform:translate(-50%,-50%);width:80%;height:60%;border-radius:50%;background:radial-gradient(circle,rgba(124,77,255,0.14) 0%,transparent 65%);pointer-events:none}
+.frame{position:absolute;inset:20px;border:1px solid rgba(124,77,255,0.28);border-radius:16px;padding:40px 52px 44px;display:flex;flex-direction:column;gap:0;text-align:center;background:rgba(4,4,12,0.8)}
+.top-bar{display:flex;justify-content:space-between;align-items:center;text-align:left;margin-bottom:24px}
+.brand-tag{display:inline-flex;align-items:center;gap:8px;padding:9px 18px;background:rgba(124,77,255,0.12);border:1px solid rgba(124,77,255,0.4);border-radius:6px;font-family:"JetBrains Mono",monospace;font-size:13px;font-weight:700;color:#a78bfa;letter-spacing:0.14em;text-transform:uppercase}
+.brand-tag::before{content:"◈";font-size:10px}
+.handle{font-family:"JetBrains Mono",monospace;font-size:14px;color:#444}
+.center{flex:1;display:flex;flex-direction:column;justify-content:center;align-items:center;gap:24px}
+.eyebrow{font-family:"JetBrains Mono",monospace;font-size:15px;font-weight:700;letter-spacing:0.2em;color:#a78bfa;text-transform:uppercase}
+.cta-title{font-size:116px;font-weight:800;line-height:0.88;letter-spacing:-3.5px;color:#f0e8ff}
+.cta-title .accent{color:#00e5ff;text-shadow:0 0 60px rgba(0,229,255,0.6)}
+.cta-title .orange{color:#ff6d00;text-shadow:0 0 40px rgba(255,109,0,0.5)}
+.recap-pill{display:inline-flex;align-items:center;gap:14px;padding:18px 28px;background:rgba(124,77,255,0.1);border:1px solid rgba(124,77,255,0.4);border-radius:12px}
+.recap-lbl{font-family:"JetBrains Mono",monospace;font-size:12px;font-weight:700;color:#a78bfa;letter-spacing:0.18em;text-transform:uppercase}
+.recap-chips{display:flex;gap:8px}
+.recap-chips .chip{width:42px;height:42px;border-radius:8px;background:rgba(255,255,255,0.05);border:1px solid rgba(124,77,255,0.3);display:flex;align-items:center;justify-content:center;padding:7px}
+.recap-chips .chip svg{width:100%;height:100%}
+.cta-body{font-size:20px;color:#8080b0;line-height:1.55;max-width:740px}
+.cta-body em{color:#00e5ff;font-style:normal;font-weight:700}
+.btn-row{display:flex;justify-content:center;gap:16px}
+.btn-primary{display:inline-flex;align-items:center;gap:12px;padding:20px 44px;background:linear-gradient(135deg,#7c4dff,#00e5ff);color:#04040c;border-radius:10px;font-size:20px;font-weight:800;letter-spacing:-0.3px}
+.btn-primary::after{content:"→"}
+.btn-ghost{padding:20px 32px;background:rgba(255,255,255,0.04);border:1.5px solid rgba(124,77,255,0.5);color:#a78bfa;border-radius:10px;font-size:20px;font-weight:700;letter-spacing:0.02em}
+.bottom-bar{display:flex;justify-content:space-between;align-items:center;text-align:left;padding-top:20px;border-top:1px solid rgba(124,77,255,0.2)}
+.chips-strip{display:flex;gap:8px}
+.bottom-chip{width:36px;height:36px;border-radius:7px;background:rgba(255,255,255,0.04);border:1px solid rgba(124,77,255,0.2);display:flex;align-items:center;justify-content:center;padding:5px}
+.bottom-chip svg{width:100%;height:100%}
+.pg{font-family:"JetBrains Mono",monospace;font-size:15px;font-weight:700;color:#444;letter-spacing:0.1em}
+</style></head>
+<body>
+<div class="bg-grid"></div>
+<div class="glow-center"></div>
+<div class="frame">
+  <div class="top-bar">
+    <div class="brand-tag">{{brandTag}}</div>
+    <div class="handle">{{handle}}</div>
+  </div>
+  <div class="center">
+    <div class="eyebrow">{{eyebrow}}</div>
+    <div class="cta-title">{{ctaLine1}}<br><span class="accent">{{ctaAccent}}</span> <span class="orange">{{ctaOrange}}</span></div>
+    <div class="recap-pill">
+      <div class="recap-lbl">{{recapLabel}}</div>
+      <div class="recap-chips">
+        <div class="chip">{{iconSvg1}}</div>
+        <div class="chip">{{iconSvg2}}</div>
+        <div class="chip">{{iconSvg3}}</div>
+        <div class="chip">{{iconSvg4}}</div>
+        <div class="chip">{{iconSvg5}}</div>
+        <div class="chip">{{iconSvg6}}</div>
+      </div>
+    </div>
+    <div class="cta-body">{{ctaBody}}</div>
+    <div class="btn-row">
+      <div class="btn-primary">{{btnPrimary}}</div>
+      <div class="btn-ghost">{{btnGhost}}</div>
+    </div>
+  </div>
+  <div class="bottom-bar">
+    <div class="chips-strip">
+      <div class="bottom-chip">{{iconSvg7}}</div>
+      <div class="bottom-chip">{{iconSvg8}}</div>
+    </div>
+    <div class="pg">{{pageOf}}</div>
+  </div>
+</div>
+</body></html>
