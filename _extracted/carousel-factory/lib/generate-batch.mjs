@@ -969,7 +969,13 @@ async function pmap(items, limit, fn) {
 await mkdir(OUT, { recursive: true });
 // FAMILIES env var (comma-separated) optionally filters BRIEFS down to those families only.
 const FAMILY_FILTER = process.env.FAMILIES ? new Set(process.env.FAMILIES.split(",").map((s) => s.trim())) : null;
-const RUN_BRIEFS = FAMILY_FILTER ? BRIEFS.filter((b) => FAMILY_FILTER.has(b.family)) : BRIEFS;
+// BRIEF_IDS env var (comma-separated) optionally filters BRIEFS down to specific IDs only.
+const BRIEF_ID_FILTER = process.env.BRIEF_IDS ? new Set(process.env.BRIEF_IDS.split(",").map((s) => s.trim())) : null;
+const RUN_BRIEFS = BRIEFS.filter((b) => {
+  if (FAMILY_FILTER && !FAMILY_FILTER.has(b.family)) return false;
+  if (BRIEF_ID_FILTER && !BRIEF_ID_FILTER.has(b.id)) return false;
+  return true;
+});
 console.log(`→ Generating ${RUN_BRIEFS.length} carousels with concurrency=${CONCURRENCY}${FAMILY_FILTER ? ` (families: ${[...FAMILY_FILTER].join(",")})` : ""}`);
 const startedAt = Date.now();
 
