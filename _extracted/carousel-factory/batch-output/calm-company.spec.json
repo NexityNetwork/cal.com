@@ -7,7 +7,7 @@
     {
       "layoutId": "cover-beige-serif",
       "slots": {
-        "brand": "Stillmark",
+        "brand": "",
         "headline": "The Quiet Art of Building a Calm Company Today",
         "slideCountHero": "6"
       }
@@ -15,78 +15,78 @@
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "Stillmark",
+        "brand": "",
         "number": "01",
         "title": "Reject the Grind",
         "body": "Calm companies measure output by clarity, not hours logged. They know sustainable growth beats burnout every time. Success is a marathon, not a weekly sprint.",
-        "handle": "@stillmark",
-        "domain": "stillmark.com"
+        "handle": "",
+        "domain": ""
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "Stillmark",
+        "brand": "",
         "number": "02",
         "title": "Protect Deep Work",
         "body": "Meetings are the enemy of focus. A calm culture blocks time for thinking and creating. When attention is sacred, quality becomes the default.",
-        "handle": "@stillmark",
-        "domain": "stillmark.com"
+        "handle": "",
+        "domain": ""
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "Stillmark",
+        "brand": "",
         "number": "03",
         "title": "Choose Async First",
         "body": "Not every question needs an instant answer. Asynchronous communication lets people respond on their own terms. It reduces noise and preserves mental space.",
-        "handle": "@stillmark",
-        "domain": "stillmark.com"
+        "handle": "",
+        "domain": ""
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "Stillmark",
+        "brand": "",
         "number": "04",
         "title": "Hire for Autonomy",
         "body": "Micromanagement breeds anxiety. Calm teams hire adults and trust them to deliver. Clear goals replace constant check-ins and foster real ownership.",
-        "handle": "@stillmark",
-        "domain": "stillmark.com"
+        "handle": "",
+        "domain": ""
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "Stillmark",
+        "brand": "",
         "number": "05",
         "title": "Choose Slow Growth",
         "body": "Growth at all costs is not a strategy. Calm companies expand deliberately, keeping culture intact. Profit and peace can coexist beautifully.",
-        "handle": "@stillmark",
-        "domain": "stillmark.com"
+        "handle": "",
+        "domain": ""
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "Stillmark",
+        "brand": "",
         "number": "06",
         "title": "Rest Is Productive",
         "body": "Downtime is not laziness; it is fuel. A calm company treats rest as a feature, not a bug. Renewed minds solve bigger problems.",
-        "handle": "@stillmark",
-        "domain": "stillmark.com"
+        "handle": "",
+        "domain": ""
       }
     },
     {
       "layoutId": "cta-beige-serif",
       "slots": {
-        "brand": "Stillmark",
+        "brand": "",
         "eyebrow": "LEAD WITH STILLNESS",
         "headline": "Choose the Calm Path Forward",
         "body": "You do not need to burn out to win. Start building a company that honors both ambition and peace.",
         "buttonLabel": "DOWNLOAD THE PLAYBOOK",
-        "handle": "@stillmark"
+        "handle": ""
       }
     }
   ]

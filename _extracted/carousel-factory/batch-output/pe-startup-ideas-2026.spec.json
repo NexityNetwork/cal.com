@@ -7,8 +7,8 @@
     {
       "layoutId": "cover-personal-essay",
       "slots": {
-        "brandTag": "ESSAY",
-        "handle": "@mayachen",
+        "brandTag": "",
+        "handle": "",
         "eyebrow": "the best opportunities aren't",
         "titleLine1": "10 startups",
         "titleUnderline": "hiding in",
@@ -35,7 +35,7 @@
       "layoutId": "body-personal-essay",
       "slots": {
         "numLabel": "STORY 02",
-        "handle": "@mayachen",
+        "handle": "",
         "sectionLabel": "the boring billions",
         "title": "Sell shovels",
         "titleUnderline": "to scared",
@@ -69,7 +69,7 @@
       "layoutId": "body-personal-essay",
       "slots": {
         "numLabel": "STORY 03",
-        "handle": "@mayachen",
+        "handle": "",
         "sectionLabel": "demographics don't lie",
         "title": "Aging and",
         "titleUnderline": "buying",
@@ -103,7 +103,7 @@
       "layoutId": "body-personal-essay",
       "slots": {
         "numLabel": "STORY 04",
-        "handle": "@mayachen",
+        "handle": "",
         "sectionLabel": "the real cost",
         "title": "Care and",
         "titleUnderline": "cash",
@@ -137,7 +137,7 @@
       "layoutId": "body-personal-essay",
       "slots": {
         "numLabel": "STORY 05",
-        "handle": "@mayachen",
+        "handle": "",
         "sectionLabel": "atoms over bits",
         "title": "Touch the",
         "titleUnderline": "real",
@@ -171,7 +171,7 @@
       "layoutId": "body-personal-essay",
       "slots": {
         "numLabel": "STORY 06",
-        "handle": "@mayachen",
+        "handle": "",
         "sectionLabel": "the final pair",
         "title": "Commerce and",
         "titleUnderline": "company",
@@ -205,7 +205,7 @@
       "layoutId": "body-personal-essay",
       "slots": {
         "numLabel": "STORY 07",
-        "handle": "@mayachen",
+        "handle": "",
         "sectionLabel": "how to start",
         "title": "Validate first",
         "titleUnderline": "then",
@@ -238,8 +238,8 @@
     {
       "layoutId": "cta-personal-essay",
       "slots": {
-        "brandTag": "OUTRO",
-        "handle": "@mayachen",
+        "brandTag": "",
+        "handle": "",
         "eyebrow": "if this sparked something",
         "ctaLine1": "save this",
         "ctaAccent": "for later",

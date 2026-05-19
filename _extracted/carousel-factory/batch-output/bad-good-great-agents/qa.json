@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/bad-good-great-agents/slide-01.png",
-      "bytes": 80790,
+      "bytes": 77877,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -115,7 +115,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/bad-good-great-agents/slide-08.png",
-      "bytes": 112681,
+      "bytes": 109927,
       "qa": {
         "verdict": "pass",
         "checks": {

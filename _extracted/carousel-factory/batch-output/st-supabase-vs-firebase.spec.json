@@ -23,14 +23,14 @@
         "toolRole5": "Database ORM layer",
         "toolRole6": "Stripe payments API",
         "ctaText": "Read the breakdown",
-        "handle": "@growthstack"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-stack-tour",
       "slots": {
         "slideLabel": "01 / 06",
-        "handle": "@growthstack",
+        "handle": "",
         "iconSlug1": "supabase",
         "toolTagline": "The open-source Firebase alternative",
         "description": "Supabase delivers a complete backend platform using real Postgres instead of proprietary document databases.",
@@ -51,7 +51,7 @@
       "layoutId": "body-stack-tour",
       "slots": {
         "slideLabel": "02 / 06",
-        "handle": "@growthstack",
+        "handle": "",
         "iconSlug1": "postgresql",
         "toolTagline": "Battle-tested relational database core",
         "description": "You get unmodified Postgres with extensions like pgvector, not a limited database abstraction layer.",
@@ -72,7 +72,7 @@
       "layoutId": "body-stack-tour",
       "slots": {
         "slideLabel": "03 / 06",
-        "handle": "@growthstack",
+        "handle": "",
         "iconSlug1": "supabase",
         "toolTagline": "Auth with row-level security",
         "description": "Built-in authentication integrates directly with Postgres row-level security for true data protection.",
@@ -93,7 +93,7 @@
       "layoutId": "body-stack-tour",
       "slots": {
         "slideLabel": "04 / 06",
-        "handle": "@growthstack",
+        "handle": "",
         "iconSlug1": "supabase",
         "toolTagline": "Built-in realtime websocket subscriptions",
         "description": "Subscribe to database changes live without managing separate infrastructure like Pusher or Socket.io.",
@@ -114,7 +114,7 @@
       "layoutId": "body-stack-tour",
       "slots": {
         "slideLabel": "05 / 06",
-        "handle": "@growthstack",
+        "handle": "",
         "iconSlug1": "supabase",
         "toolTagline": "Global serverless edge functions",
         "description": "Deploy TypeScript functions globally at the edge using Deno with minimal cold start latency.",
@@ -135,7 +135,7 @@
       "layoutId": "body-stack-tour",
       "slots": {
         "slideLabel": "06 / 06",
-        "handle": "@growthstack",
+        "handle": "",
         "iconSlug1": "supabase",
         "toolTagline": "Storage and AI vector support",
         "description": "S3-compatible storage and built-in pgvector support replace dedicated file and vector databases.",
@@ -156,7 +156,7 @@
       "layoutId": "cta-stack-tour",
       "slots": {
         "pageOf": "08 / 08",
-        "handle": "@growthstack",
+        "handle": "",
         "eyebrow": "YOUR TURN",
         "headlineLine1": "Build your stack",
         "headlineLine2": "With Supabase today",

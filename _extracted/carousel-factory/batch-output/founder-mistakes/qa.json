@@ -7,9 +7,7 @@
       "qa": {
         "verdict": "pass",
         "checks": {
-          "has_frame": true,
           "no_unfilled_slots": true,
-          "has_page_badge": true,
           "page_badge_in_bounds": true,
           "cover_title_present": true,
           "cover_title_in_bounds": true,
@@ -48,9 +46,7 @@
       "qa": {
         "verdict": "pass",
         "checks": {
-          "has_frame": true,
           "no_unfilled_slots": true,
-          "has_page_badge": true,
           "page_badge_in_bounds": true,
           "body_title_present": true,
           "body_title_in_bounds": true,
@@ -101,9 +97,7 @@
       "qa": {
         "verdict": "pass",
         "checks": {
-          "has_frame": true,
           "no_unfilled_slots": true,
-          "has_page_badge": true,
           "page_badge_in_bounds": true,
           "body_title_present": true,
           "body_title_in_bounds": true,
@@ -154,9 +148,7 @@
       "qa": {
         "verdict": "pass",
         "checks": {
-          "has_frame": true,
           "no_unfilled_slots": true,
-          "has_page_badge": true,
           "page_badge_in_bounds": true,
           "body_title_present": true,
           "body_title_in_bounds": true,
@@ -207,9 +199,7 @@
       "qa": {
         "verdict": "pass",
         "checks": {
-          "has_frame": true,
           "no_unfilled_slots": true,
-          "has_page_badge": true,
           "page_badge_in_bounds": true,
           "body_title_present": true,
           "body_title_in_bounds": true,
@@ -260,9 +250,7 @@
       "qa": {
         "verdict": "pass",
         "checks": {
-          "has_frame": true,
           "no_unfilled_slots": true,
-          "has_page_badge": true,
           "page_badge_in_bounds": true,
           "body_title_present": true,
           "body_title_in_bounds": true,
@@ -313,9 +301,7 @@
       "qa": {
         "verdict": "pass",
         "checks": {
-          "has_frame": true,
           "no_unfilled_slots": true,
-          "has_page_badge": true,
           "page_badge_in_bounds": true,
           "body_title_present": true,
           "body_title_in_bounds": true,
@@ -362,13 +348,11 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/founder-mistakes/slide-08.png",
-      "bytes": 48815,
+      "bytes": 45332,
       "qa": {
         "verdict": "pass",
         "checks": {
-          "has_frame": true,
           "no_unfilled_slots": true,
-          "has_page_badge": true,
           "page_badge_in_bounds": true
         },
         "issues": []

@@ -7,7 +7,7 @@
     {
       "layoutId": "cover-dark-navy",
       "slots": {
-        "brand": "tracebound",
+        "brand": "",
         "versionLabel": "v2026.1",
         "prompt": "npm run observe -- --target=prod --cut-latency",
         "headLine1": "The",
@@ -27,7 +27,7 @@
     {
       "layoutId": "body-dark-navy",
       "slots": {
-        "brand": "tracebound",
+        "brand": "",
         "pageOf": "02/08",
         "stepLabel": "# instrument every service with otel",
         "number": "1",
@@ -35,13 +35,13 @@
         "titleOrange": "Telemetry",
         "body": "OpenTelemetry collectors ingest traces, metrics, and logs with zero code changes via sidecars. We attached it to every service mesh proxy.",
         "codePill": "otelcol --config=config.yaml",
-        "handle": "@tracebound"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-dark-navy",
       "slots": {
-        "brand": "tracebound",
+        "brand": "",
         "pageOf": "03/08",
         "stepLabel": "# scrape red metrics from every pod",
         "number": "2",
@@ -49,13 +49,13 @@
         "titleOrange": "Metrics",
         "body": "Prometheus pulls RED metrics from every pod every 15s. We alert on rate, errors, and duration before users notice.",
         "codePill": "rate(http_req_duration[5m])",
-        "handle": "@tracebound"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-dark-navy",
       "slots": {
-        "brand": "tracebound",
+        "brand": "",
         "pageOf": "04/08",
         "stepLabel": "# visualize golden signals in dashboards",
         "number": "3",
@@ -63,13 +63,13 @@
         "titleOrange": "Dashboards",
         "body": "Grafana renders live latency heatmaps and error budgets in one pane. We pinned P99 panels to the NOC wall.",
         "codePill": "grafana-cli plugins install",
-        "handle": "@tracebound"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-dark-navy",
       "slots": {
-        "brand": "tracebound",
+        "brand": "",
         "pageOf": "05/08",
         "stepLabel": "# trace requests end to end",
         "number": "4",
@@ -77,13 +77,13 @@
         "titleOrange": "Traces",
         "body": "Jaeger maps distributed traces across 14 microservices. We found the 40% bottleneck in a single N+1 query span.",
         "codePill": "jaeger-query --query.base-path=/",
-        "handle": "@tracebound"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-dark-navy",
       "slots": {
-        "brand": "tracebound",
+        "brand": "",
         "pageOf": "06/08",
         "stepLabel": "# correlate logs and traces by id",
         "number": "5",
@@ -91,13 +91,13 @@
         "titleOrange": "Context",
         "body": "Loki indexes logs by trace ID without full-text overhead. We jump from a slow span to the exact error line instantly.",
         "codePill": "{app=\\\"api\\\"} |= \\\"trace_id\\\"",
-        "handle": "@tracebound"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-dark-navy",
       "slots": {
-        "brand": "tracebound",
+        "brand": "",
         "pageOf": "07/08",
         "stepLabel": "# alert on symptoms and not noise",
         "number": "6",
@@ -105,13 +105,13 @@
         "titleOrange": "Alerts",
         "body": "Alertmanager routes high-cardinality alerts to Slack and PagerDuty with zero flapping. We page only on SLO burn rate.",
         "codePill": "amtool check-config alert.yml",
-        "handle": "@tracebound"
+        "handle": ""
       }
     },
     {
       "layoutId": "cta-dark-navy",
       "slots": {
-        "brand": "tracebound",
+        "brand": "",
         "pageOf": "08/08",
         "terminalTag": "curl stack.sh | bash --mode=observe",
         "headLine1": "Cut",
@@ -119,7 +119,7 @@
         "body": "Deploy this six-tool observability stack and start measuring what matters.",
         "buttonLabel": "Clone Stack",
         "secondaryNote": "follow for more threads",
-        "handle": "@tracebound"
+        "handle": ""
       }
     }
   ]

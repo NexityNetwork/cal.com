@@ -23,14 +23,14 @@
         "toolRole5": "Documentation & wiki",
         "toolRole6": "Workflow automation hub",
         "ctaText": "Read the breakdown",
-        "handle": "@productstack"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-stack-tour",
       "slots": {
         "slideLabel": "TOOL 01",
-        "handle": "@productstack",
+        "handle": "",
         "iconSlug1": "linear",
         "toolTagline": "Streamline sprint planning for small teams",
         "description": "Linear replaces spreadsheets and status meetings with fast, keyboard-first issue tracking that keeps roadmaps automatically updated.",
@@ -51,7 +51,7 @@
       "layoutId": "body-stack-tour",
       "slots": {
         "slideLabel": "TOOL 02",
-        "handle": "@productstack",
+        "handle": "",
         "iconSlug1": "github",
         "toolTagline": "Connect code progress to issues",
         "description": "GitHub syncs pull requests and commits directly to Linear so sprint status stays current without manual updates.",
@@ -72,7 +72,7 @@
       "layoutId": "body-stack-tour",
       "slots": {
         "slideLabel": "TOOL 03",
-        "handle": "@productstack",
+        "handle": "",
         "iconSlug1": "slack",
         "toolTagline": "Notify teams only when it matters",
         "description": "Slack alerts cut through noise by routing Linear updates to the right channels based on issue priority and project.",
@@ -93,7 +93,7 @@
       "layoutId": "body-stack-tour",
       "slots": {
         "slideLabel": "TOOL 04",
-        "handle": "@productstack",
+        "handle": "",
         "iconSlug1": "figma",
         "toolTagline": "Bridge design and engineering handoff",
         "description": "Figma embeds live design files into Linear issues so developers review specs without leaving sprint planning or guessing assets.",
@@ -114,7 +114,7 @@
       "layoutId": "body-stack-tour",
       "slots": {
         "slideLabel": "TOOL 05",
-        "handle": "@productstack",
+        "handle": "",
         "iconSlug1": "notion",
         "toolTagline": "Centralize sprint docs and retros",
         "description": "Notion houses meeting notes, retros, and specs that sync with Linear projects so context never lives in ten tabs.",
@@ -135,7 +135,7 @@
       "layoutId": "body-stack-tour",
       "slots": {
         "slideLabel": "TOOL 06",
-        "handle": "@productstack",
+        "handle": "",
         "iconSlug1": "zapier",
         "toolTagline": "Automate busywork between your apps",
         "description": "Zapier connects Linear to your calendar, forms, and CRM so sprint planning prep happens automatically before you open the app.",
@@ -156,7 +156,7 @@
       "layoutId": "cta-stack-tour",
       "slots": {
         "pageOf": "08 / 08",
-        "handle": "@productstack",
+        "handle": "",
         "eyebrow": "YOUR TURN",
         "headlineLine1": "Build your stack",
         "headlineLine2": "Ship faster today",

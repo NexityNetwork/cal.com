@@ -7,8 +7,8 @@
     {
       "layoutId": "cover-lime-accent",
       "slots": {
-        "brandTag": "SKILL STACK",
-        "handle": "factory.51ultron.com",
+        "brandTag": "",
+        "handle": "",
         "eyebrow": "2026 PICKS",
         "titleLine1": "6 Claude",
         "titleCallout": "Code skills",
@@ -27,7 +27,7 @@
       "layoutId": "body-lime-accent",
       "slots": {
         "numLabel": "SKILL 01",
-        "handle": "factory.51ultron.com",
+        "handle": "",
         "iconSlug1": "anthropic",
         "toolName": "Context Engineering",
         "toolTag": "core",
@@ -50,7 +50,7 @@
       "layoutId": "body-lime-accent",
       "slots": {
         "numLabel": "SKILL 02",
-        "handle": "factory.51ultron.com",
+        "handle": "",
         "iconSlug1": "github",
         "toolName": "Agentic GitOps",
         "toolTag": "agent",
@@ -73,7 +73,7 @@
       "layoutId": "body-lime-accent",
       "slots": {
         "numLabel": "SKILL 03",
-        "handle": "factory.51ultron.com",
+        "handle": "",
         "iconSlug1": "visualstudiocode",
         "toolName": "MCP Tooling",
         "toolTag": "protocol",
@@ -96,7 +96,7 @@
       "layoutId": "body-lime-accent",
       "slots": {
         "numLabel": "SKILL 04",
-        "handle": "factory.51ultron.com",
+        "handle": "",
         "iconSlug1": "vitest",
         "toolName": "Test Generation",
         "toolTag": "quality",
@@ -119,7 +119,7 @@
       "layoutId": "body-lime-accent",
       "slots": {
         "numLabel": "SKILL 05",
-        "handle": "factory.51ultron.com",
+        "handle": "",
         "iconSlug1": "gitlab",
         "toolName": "Refactor Pipelines",
         "toolTag": "clean",
@@ -142,7 +142,7 @@
       "layoutId": "body-lime-accent",
       "slots": {
         "numLabel": "SKILL 06",
-        "handle": "factory.51ultron.com",
+        "handle": "",
         "iconSlug1": "docker",
         "toolName": "Deploy Agents",
         "toolTag": "ship",
@@ -164,8 +164,8 @@
     {
       "layoutId": "cta-lime-accent",
       "slots": {
-        "brandTag": "WRAP",
-        "handle": "factory.51ultron.com",
+        "brandTag": "",
+        "handle": "",
         "eyebrow": "PICK YOURS",
         "ctaLine1": "Master Claude",
         "ctaCallout": "today",

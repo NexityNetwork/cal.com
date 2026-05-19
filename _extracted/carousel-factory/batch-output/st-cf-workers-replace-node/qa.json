@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/st-cf-workers-replace-node/slide-01.png",
-      "bytes": 116909,
+      "bytes": 114013,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -19,7 +19,7 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/st-cf-workers-replace-node/slide-02.png",
-      "bytes": 86579,
+      "bytes": 83614,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -35,7 +35,7 @@
     {
       "index": 2,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/st-cf-workers-replace-node/slide-03.png",
-      "bytes": 79960,
+      "bytes": 76900,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -51,7 +51,7 @@
     {
       "index": 3,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/st-cf-workers-replace-node/slide-04.png",
-      "bytes": 82032,
+      "bytes": 79094,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -67,7 +67,7 @@
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/st-cf-workers-replace-node/slide-05.png",
-      "bytes": 81784,
+      "bytes": 78818,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -83,7 +83,7 @@
     {
       "index": 5,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/st-cf-workers-replace-node/slide-06.png",
-      "bytes": 82954,
+      "bytes": 80008,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -99,7 +99,7 @@
     {
       "index": 6,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/st-cf-workers-replace-node/slide-07.png",
-      "bytes": 82382,
+      "bytes": 79462,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -115,7 +115,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/st-cf-workers-replace-node/slide-08.png",
-      "bytes": 79246,
+      "bytes": 76016,
       "qa": {
         "verdict": "pass",
         "checks": {

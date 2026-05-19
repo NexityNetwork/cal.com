@@ -7,8 +7,8 @@
     {
       "layoutId": "cover-pixel-block",
       "slots": {
-        "brandTag": "HIDDEN REPOS",
-        "handle": "@codex",
+        "brandTag": "",
+        "handle": "",
         "preLine": "the only repos for",
         "pixelLine1": "VIBE CODE",
         "pixelLine2": "TOOLS",
@@ -28,7 +28,7 @@
       "layoutId": "body-pixel-block",
       "slots": {
         "numLabel": "TOOL 01",
-        "handle": "@codex",
+        "handle": "",
         "iconSlug1": "githubactions",
         "toolName": "ACT",
         "categoryLabel": "DEVTOOL",
@@ -52,7 +52,7 @@
       "layoutId": "body-pixel-block",
       "slots": {
         "numLabel": "TOOL 02",
-        "handle": "@codex",
+        "handle": "",
         "iconSlug1": "gnubash",
         "toolName": "DIRENV",
         "categoryLabel": "SHELL",
@@ -76,7 +76,7 @@
       "layoutId": "body-pixel-block",
       "slots": {
         "numLabel": "TOOL 03",
-        "handle": "@codex",
+        "handle": "",
         "iconSlug1": "git",
         "toolName": "DELTA",
         "categoryLabel": "GIT",
@@ -100,7 +100,7 @@
       "layoutId": "body-pixel-block",
       "slots": {
         "numLabel": "TOOL 04",
-        "handle": "@codex",
+        "handle": "",
         "iconSlug1": "rust",
         "toolName": "HYPERFINE",
         "categoryLabel": "CLI",
@@ -124,7 +124,7 @@
       "layoutId": "body-pixel-block",
       "slots": {
         "numLabel": "TOOL 05",
-        "handle": "@codex",
+        "handle": "",
         "iconSlug1": "gitea",
         "toolName": "GITEA",
         "categoryLabel": "GIT HOST",
@@ -148,7 +148,7 @@
       "layoutId": "body-pixel-block",
       "slots": {
         "numLabel": "TOOL 06",
-        "handle": "@codex",
+        "handle": "",
         "iconSlug1": "syncthing",
         "toolName": "SYNCTHING",
         "categoryLabel": "SYNC",
@@ -171,8 +171,8 @@
     {
       "layoutId": "cta-pixel-block",
       "slots": {
-        "brandTag": "WRAP UP",
-        "handle": "@codex",
+        "brandTag": "",
+        "handle": "",
         "eyebrow": "the hidden stack for",
         "ctaLine1": "STAR NOW",
         "ctaLine2": "BUILD",

@@ -7,7 +7,7 @@
     {
       "layoutId": "cover-condensed-pill",
       "slots": {
-        "brand": "The Fiscalist",
+        "brand": "",
         "preLine": "How I",
         "pillText": "SAVED 50K",
         "postLine": "while earning $70K with boring habits",
@@ -17,7 +17,7 @@
     {
       "layoutId": "body-condensed-pill",
       "slots": {
-        "brand": "The Fiscalist",
+        "brand": "",
         "number": "01",
         "numberLabel": "Habit No.",
         "title": "AUTO-SAVE",
@@ -28,7 +28,7 @@
     {
       "layoutId": "body-condensed-pill",
       "slots": {
-        "brand": "The Fiscalist",
+        "brand": "",
         "number": "02",
         "numberLabel": "Habit No.",
         "title": "MEAL PREP",
@@ -39,7 +39,7 @@
     {
       "layoutId": "body-condensed-pill",
       "slots": {
-        "brand": "The Fiscalist",
+        "brand": "",
         "number": "03",
         "numberLabel": "Habit No.",
         "title": "48-HOUR RULE",
@@ -50,7 +50,7 @@
     {
       "layoutId": "body-condensed-pill",
       "slots": {
-        "brand": "The Fiscalist",
+        "brand": "",
         "number": "04",
         "numberLabel": "Habit No.",
         "title": "AUDIT BILLS",
@@ -61,7 +61,7 @@
     {
       "layoutId": "body-condensed-pill",
       "slots": {
-        "brand": "The Fiscalist",
+        "brand": "",
         "number": "05",
         "numberLabel": "Habit No.",
         "title": "BUY USED",
@@ -72,7 +72,7 @@
     {
       "layoutId": "body-condensed-pill",
       "slots": {
-        "brand": "The Fiscalist",
+        "brand": "",
         "number": "06",
         "numberLabel": "Habit No.",
         "title": "WEEKLY CHECK-IN",
@@ -83,7 +83,7 @@
     {
       "layoutId": "cta-condensed-pill",
       "slots": {
-        "brand": "The Fiscalist",
+        "brand": "",
         "eyebrow": "YOUR TURN",
         "headline": "START SAVING",
         "body": "Pick one habit this week and automate it. Small, boring moves compound into life-changing piles of cash faster than you think.",

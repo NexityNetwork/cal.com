@@ -7,8 +7,8 @@
     {
       "layoutId": "cover-lime-accent",
       "slots": {
-        "brandTag": "DEV STACK",
-        "handle": "factory.51ultron.com",
+        "brandTag": "",
+        "handle": "",
         "eyebrow": "SRE PICKS",
         "titleLine1": "6 free",
         "titleCallout": "monitoring",
@@ -27,7 +27,7 @@
       "layoutId": "body-lime-accent",
       "slots": {
         "numLabel": "TOOL 01",
-        "handle": "factory.51ultron.com",
+        "handle": "",
         "iconSlug1": "sentry",
         "toolTag": "ERROR TRACKING",
         "toolTagline": "Catch exceptions in real-time across every stack.",
@@ -49,7 +49,7 @@
       "layoutId": "body-lime-accent",
       "slots": {
         "numLabel": "TOOL 02",
-        "handle": "factory.51ultron.com",
+        "handle": "",
         "iconSlug1": "grafana",
         "toolTag": "OBSERVABILITY",
         "toolTagline": "Unified metrics, logs, and traces in one dashboard.",
@@ -71,7 +71,7 @@
       "layoutId": "body-lime-accent",
       "slots": {
         "numLabel": "TOOL 03",
-        "handle": "factory.51ultron.com",
+        "handle": "",
         "iconSlug1": "uptimerobot",
         "toolTag": "UPTIME MONITOR",
         "toolTagline": "Ping your endpoints every 60 seconds for free.",
@@ -93,7 +93,7 @@
       "layoutId": "body-lime-accent",
       "slots": {
         "numLabel": "TOOL 04",
-        "handle": "factory.51ultron.com",
+        "handle": "",
         "iconSlug1": "betterstack",
         "toolTag": "INCIDENT MGMT",
         "toolTagline": "On-call alerts with beautiful status pages included.",
@@ -115,7 +115,7 @@
       "layoutId": "body-lime-accent",
       "slots": {
         "numLabel": "TOOL 05",
-        "handle": "factory.51ultron.com",
+        "handle": "",
         "iconSlug1": "datadog",
         "toolTag": "FULL STACK",
         "toolTagline": "Infrastructure and APM monitoring for cloud apps.",
@@ -137,7 +137,7 @@
       "layoutId": "body-lime-accent",
       "slots": {
         "numLabel": "TOOL 06",
-        "handle": "factory.51ultron.com",
+        "handle": "",
         "iconSlug1": "newrelic",
         "toolTag": "APM + MORE",
         "toolTagline": "Full observability with 100GB free data monthly.",
@@ -158,8 +158,8 @@
     {
       "layoutId": "cta-lime-accent",
       "slots": {
-        "brandTag": "WRAP",
-        "handle": "factory.51ultron.com",
+        "brandTag": "",
+        "handle": "",
         "eyebrow": "PICK YOUR STACK",
         "ctaLine1": "Monitor your",
         "ctaCallout": "stack free",

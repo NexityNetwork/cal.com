@@ -8,7 +8,7 @@
       "layoutId": "cover-flowchart",
       "slots": {
         "number": "01",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "Viral Launch System",
         "subtitle": "Our proven four-stage framework that consistently ranks number one.",
         "check1": "Positions you as a trusted expert, not just another seller.",
@@ -32,7 +32,7 @@
       "layoutId": "body-flowchart",
       "slots": {
         "number": "02",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "The Four Stages",
         "subtitle": "Every number-one launch follows this exact same repeatable sequence.",
         "check1": "Removes guesswork from your entire product release timeline.",
@@ -46,7 +46,7 @@
       "layoutId": "body-flowchart",
       "slots": {
         "number": "03",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "Build The Hype",
         "subtitle": "Start sixty days out by growing a qualified waitlist daily.",
         "check1": "Share valuable teardowns that prove your deep expertise.",
@@ -60,7 +60,7 @@
       "layoutId": "body-flowchart",
       "slots": {
         "number": "04",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "Test With Insiders",
         "subtitle": "Invite a small group to buy early and share feedback.",
         "check1": "Limit the beta cohort to create urgency and exclusivity.",
@@ -74,7 +74,7 @@
       "layoutId": "body-flowchart",
       "slots": {
         "number": "05",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "Maximize Day One",
         "subtitle": "Open the cart publicly with a structured three-day email sprint.",
         "check1": "Send emails that educate, then ask for the sale.",
@@ -88,7 +88,7 @@
       "layoutId": "body-flowchart",
       "slots": {
         "number": "06",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "Automate The Growth",
         "subtitle": "Convert the launch funnel into an automated evergreen sales machine.",
         "check1": "Repurpose top-performing posts into ads that run year-round.",
@@ -102,7 +102,7 @@
       "layoutId": "body-flowchart",
       "slots": {
         "number": "07",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "Why It Works",
         "subtitle": "This system stacks every advantage in your favor before launch.",
         "check1": "Audience priming creates demand instead of chasing cold traffic.",
@@ -116,7 +116,7 @@
       "layoutId": "cta-flowchart",
       "slots": {
         "number": "08",
-        "handle": "@usevisuals",
+        "handle": "",
         "eyebrow": "YOUR MOVE",
         "headlineLine1": "Steal This System",
         "headlineLine2": "For Your Launch",

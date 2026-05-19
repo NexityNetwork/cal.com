@@ -7,8 +7,8 @@
     {
       "layoutId": "cover-highlight-box",
       "slots": {
-        "brandTag": "DATA POST",
-        "handle": "@webperf",
+        "brandTag": "",
+        "handle": "",
         "accentColor": "#3457d5",
         "eyebrow": "what nobody talks about",
         "titleLine1": "5 real",
@@ -35,7 +35,7 @@
       "layoutId": "body-highlight-box",
       "slots": {
         "numLabel": "THE 5",
-        "handle": "@webperf",
+        "handle": "",
         "accentColor": "#3457d5",
         "iconSlug1": "chrome",
         "categoryLabel": "OVERVIEW",
@@ -69,7 +69,7 @@
       "layoutId": "body-highlight-box",
       "slots": {
         "numLabel": "METRIC 01",
-        "handle": "@webperf",
+        "handle": "",
         "accentColor": "#3457d5",
         "iconSlug1": "chrome",
         "categoryLabel": "SPEED",
@@ -103,7 +103,7 @@
       "layoutId": "body-highlight-box",
       "slots": {
         "numLabel": "METRIC 02",
-        "handle": "@webperf",
+        "handle": "",
         "accentColor": "#3457d5",
         "iconSlug1": "chrome",
         "categoryLabel": "INTERACTION",
@@ -137,7 +137,7 @@
       "layoutId": "body-highlight-box",
       "slots": {
         "numLabel": "METRIC 03",
-        "handle": "@webperf",
+        "handle": "",
         "accentColor": "#3457d5",
         "iconSlug1": "chrome",
         "categoryLabel": "STABILITY",
@@ -171,7 +171,7 @@
       "layoutId": "body-highlight-box",
       "slots": {
         "numLabel": "METRIC 04",
-        "handle": "@webperf",
+        "handle": "",
         "accentColor": "#3457d5",
         "iconSlug1": "cloudflare",
         "categoryLabel": "SERVER",
@@ -205,7 +205,7 @@
       "layoutId": "body-highlight-box",
       "slots": {
         "numLabel": "METRIC 05",
-        "handle": "@webperf",
+        "handle": "",
         "accentColor": "#3457d5",
         "iconSlug1": "chrome",
         "categoryLabel": "PERCEIVED",
@@ -238,8 +238,8 @@
     {
       "layoutId": "cta-highlight-box",
       "slots": {
-        "brandTag": "WRAP",
-        "handle": "@webperf",
+        "brandTag": "",
+        "handle": "",
         "accentColor": "#3457d5",
         "eyebrow": "start measuring today",
         "ctaLine1": "Audit your",

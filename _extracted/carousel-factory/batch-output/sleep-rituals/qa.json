@@ -3,17 +3,13 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/sleep-rituals/slide-01.png",
-      "bytes": 169912,
+      "bytes": 164932,
       "qa": {
-        "verdict": "fail",
+        "verdict": "pass",
         "checks": {
-          "has_frame": false,
-          "no_unfilled_slots": true,
-          "has_page_badge": false
+          "no_unfilled_slots": true
         },
-        "issues": [
-          "missing .frame container"
-        ]
+        "issues": []
       },
       "fingerprint": {
         "layout": "unknown",
@@ -23,20 +19,16 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/sleep-rituals/slide-02.png",
-      "bytes": 82997,
+      "bytes": 79074,
       "qa": {
-        "verdict": "fail",
+        "verdict": "pass",
         "checks": {
-          "has_frame": false,
           "no_unfilled_slots": true,
-          "has_page_badge": false,
           "body_text_present": true,
           "body_text_in_bounds": true,
           "body_text_no_overflow": true
         },
-        "issues": [
-          "missing .frame container"
-        ]
+        "issues": []
       },
       "fingerprint": {
         "layout": "unknown",
@@ -53,20 +45,16 @@
     {
       "index": 2,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/sleep-rituals/slide-03.png",
-      "bytes": 76940,
+      "bytes": 73052,
       "qa": {
-        "verdict": "fail",
+        "verdict": "pass",
         "checks": {
-          "has_frame": false,
           "no_unfilled_slots": true,
-          "has_page_badge": false,
           "body_text_present": true,
           "body_text_in_bounds": true,
           "body_text_no_overflow": true
         },
-        "issues": [
-          "missing .frame container"
-        ]
+        "issues": []
       },
       "fingerprint": {
         "layout": "unknown",
@@ -83,20 +71,16 @@
     {
       "index": 3,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/sleep-rituals/slide-04.png",
-      "bytes": 83798,
+      "bytes": 80032,
       "qa": {
-        "verdict": "fail",
+        "verdict": "pass",
         "checks": {
-          "has_frame": false,
           "no_unfilled_slots": true,
-          "has_page_badge": false,
           "body_text_present": true,
           "body_text_in_bounds": true,
           "body_text_no_overflow": true
         },
-        "issues": [
-          "missing .frame container"
-        ]
+        "issues": []
       },
       "fingerprint": {
         "layout": "unknown",
@@ -113,20 +97,16 @@
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/sleep-rituals/slide-05.png",
-      "bytes": 86472,
+      "bytes": 82327,
       "qa": {
-        "verdict": "fail",
+        "verdict": "pass",
         "checks": {
-          "has_frame": false,
           "no_unfilled_slots": true,
-          "has_page_badge": false,
           "body_text_present": true,
           "body_text_in_bounds": true,
           "body_text_no_overflow": true
         },
-        "issues": [
-          "missing .frame container"
-        ]
+        "issues": []
       },
       "fingerprint": {
         "layout": "unknown",
@@ -143,20 +123,16 @@
     {
       "index": 5,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/sleep-rituals/slide-06.png",
-      "bytes": 76663,
+      "bytes": 72782,
       "qa": {
-        "verdict": "fail",
+        "verdict": "pass",
         "checks": {
-          "has_frame": false,
           "no_unfilled_slots": true,
-          "has_page_badge": false,
           "body_text_present": true,
           "body_text_in_bounds": true,
           "body_text_no_overflow": true
         },
-        "issues": [
-          "missing .frame container"
-        ]
+        "issues": []
       },
       "fingerprint": {
         "layout": "unknown",
@@ -173,20 +149,16 @@
     {
       "index": 6,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/sleep-rituals/slide-07.png",
-      "bytes": 77695,
+      "bytes": 73631,
       "qa": {
-        "verdict": "fail",
+        "verdict": "pass",
         "checks": {
-          "has_frame": false,
           "no_unfilled_slots": true,
-          "has_page_badge": false,
           "body_text_present": true,
           "body_text_in_bounds": true,
           "body_text_no_overflow": true
         },
-        "issues": [
-          "missing .frame container"
-        ]
+        "issues": []
       },
       "fingerprint": {
         "layout": "unknown",
@@ -203,17 +175,13 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/sleep-rituals/slide-08.png",
-      "bytes": 79366,
+      "bytes": 75549,
       "qa": {
-        "verdict": "fail",
+        "verdict": "pass",
         "checks": {
-          "has_frame": false,
-          "no_unfilled_slots": true,
-          "has_page_badge": false
+          "no_unfilled_slots": true
         },
-        "issues": [
-          "missing .frame container"
-        ]
+        "issues": []
       },
       "fingerprint": {
         "layout": "unknown",

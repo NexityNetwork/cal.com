@@ -8,7 +8,7 @@
       "layoutId": "cover-tech-stack-grid",
       "slots": {
         "tag": "MY STACK",
-        "handle": "factory.51ultron.com",
+        "handle": "",
         "eyebrow": "from zero to shipped",
         "titleLine1": "The indie",
         "titleAccent": "stack that ships",
@@ -46,7 +46,7 @@
         "iconSlug3": "cursor",
         "iconSlug4": "github",
         "iconSlug5": "vercel",
-        "domainText": "factory.51ultron.com",
+        "domainText": "",
         "pageOf": "02 / 08"
       }
     },
@@ -69,7 +69,7 @@
         "iconSlug3": "cursor",
         "iconSlug4": "nextdotjs",
         "iconSlug5": "vercel",
-        "domainText": "factory.51ultron.com",
+        "domainText": "",
         "pageOf": "03 / 08"
       }
     },
@@ -92,7 +92,7 @@
         "iconSlug3": "typescript",
         "iconSlug4": "vercel",
         "iconSlug5": "supabase",
-        "domainText": "factory.51ultron.com",
+        "domainText": "",
         "pageOf": "04 / 08"
       }
     },
@@ -115,7 +115,7 @@
         "iconSlug3": "vercel",
         "iconSlug4": "docker",
         "iconSlug5": "redis",
-        "domainText": "factory.51ultron.com",
+        "domainText": "",
         "pageOf": "05 / 08"
       }
     },
@@ -138,7 +138,7 @@
         "iconSlug3": "github",
         "iconSlug4": "supabase",
         "iconSlug5": "stripe",
-        "domainText": "factory.51ultron.com",
+        "domainText": "",
         "pageOf": "06 / 08"
       }
     },
@@ -161,7 +161,7 @@
         "iconSlug3": "vercel",
         "iconSlug4": "notion",
         "iconSlug5": "github",
-        "domainText": "factory.51ultron.com",
+        "domainText": "",
         "pageOf": "07 / 08"
       }
     },
@@ -169,7 +169,7 @@
       "layoutId": "cta-tech-stack-grid",
       "slots": {
         "tag": "WRAP",
-        "handle": "factory.51ultron.com",
+        "handle": "",
         "eyebrow": "ship your next idea",
         "ctaLine1": "Start shipping",
         "ctaLine2": "this weekend",
@@ -182,7 +182,7 @@
         "iconSlug6": "stripe",
         "btnPrimary": "Get started",
         "btnGhost": "View docs",
-        "domainText": "factory.51ultron.com",
+        "domainText": "",
         "pageOf": "08 / 08"
       }
     }

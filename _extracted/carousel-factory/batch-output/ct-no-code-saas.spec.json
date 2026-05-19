@@ -7,8 +7,8 @@
     {
       "layoutId": "cover-cream-table",
       "slots": {
-        "brandTag": "NO-CODE STACK",
-        "handle": "@shipfast",
+        "brandTag": "",
+        "handle": "",
         "eyebrow": "the only stack you need",
         "titleLine1": "6 no-code",
         "titleAccent": "SaaS tools",
@@ -42,7 +42,7 @@
       "layoutId": "body-cream-table",
       "slots": {
         "numLabel": "TOOL 01",
-        "handle": "@shipfast",
+        "handle": "",
         "iconSlug1": "webflow",
         "toolName": "Webflow",
         "toolTagline": "The visual builder that turns marketing sites into production-grade frontends.",
@@ -70,7 +70,7 @@
       "layoutId": "body-cream-table",
       "slots": {
         "numLabel": "TOOL 02",
-        "handle": "@shipfast",
+        "handle": "",
         "iconSlug1": "memberstack",
         "toolName": "Memberstack",
         "toolTagline": "User authentication and membership logic that drops into any modern website.",
@@ -98,7 +98,7 @@
       "layoutId": "body-cream-table",
       "slots": {
         "numLabel": "TOOL 03",
-        "handle": "@shipfast",
+        "handle": "",
         "iconSlug1": "airtable",
         "toolName": "Airtable",
         "toolTagline": "The relational database that acts as your SaaS backend and ops brain.",
@@ -126,7 +126,7 @@
       "layoutId": "body-cream-table",
       "slots": {
         "numLabel": "TOOL 04",
-        "handle": "@shipfast",
+        "handle": "",
         "iconSlug1": "make",
         "toolName": "Make",
         "toolTagline": "Visual workflow automation that moves data between your stack while you sleep.",
@@ -154,7 +154,7 @@
       "layoutId": "body-cream-table",
       "slots": {
         "numLabel": "TOOL 05",
-        "handle": "@shipfast",
+        "handle": "",
         "iconSlug1": "stripe",
         "toolName": "Stripe",
         "toolTagline": "The financial infrastructure that handles billing, taxes, and global revenue compliance.",
@@ -182,7 +182,7 @@
       "layoutId": "body-cream-table",
       "slots": {
         "numLabel": "TOOL 06",
-        "handle": "@shipfast",
+        "handle": "",
         "iconSlug1": "crisp",
         "toolName": "Crisp",
         "toolTagline": "Customer messaging platform that unifies chat, email, and CRM for retention.",
@@ -209,8 +209,8 @@
     {
       "layoutId": "cta-cream-table",
       "slots": {
-        "brandTag": "WRAP",
-        "handle": "@shipfast",
+        "brandTag": "",
+        "handle": "",
         "eyebrow": "stack it, ship it",
         "titleLine1": "Build your",
         "titleAccent": "no-code SaaS",

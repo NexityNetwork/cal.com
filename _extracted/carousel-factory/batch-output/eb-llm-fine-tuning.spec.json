@@ -7,8 +7,8 @@
     {
       "layoutId": "cover-edu-bright",
       "slots": {
-        "brandTag": "ML GUIDE",
-        "handle": "@mlinsight",
+        "brandTag": "",
+        "handle": "",
         "eyebrow": "Fine tuning beats prompting every time",
         "titleLine1": "Top 5",
         "titleAccent": "fine-tuning methods",
@@ -36,7 +36,7 @@
       "layoutId": "body-edu-bright-chart",
       "slots": {
         "numLabel": "TIP 01",
-        "handle": "@mlinsight",
+        "handle": "",
         "sectionLabel": "BENCHMARK 01",
         "title": "Accuracy gains",
         "titleItalic": "across methods",
@@ -68,7 +68,7 @@
       "layoutId": "body-edu-bright-flow",
       "slots": {
         "numLabel": "TIP 02",
-        "handle": "@mlinsight",
+        "handle": "",
         "sectionLabel": "PIPELINE 01",
         "title": "LoRA training",
         "titleItalic": "at scale",
@@ -101,7 +101,7 @@
       "layoutId": "body-edu-bright-table",
       "slots": {
         "numLabel": "TIP 03",
-        "handle": "@mlinsight",
+        "handle": "",
         "sectionLabel": "COMPARISON",
         "title": "Cost and speed",
         "titleItalic": "by method",
@@ -143,7 +143,7 @@
       "layoutId": "body-edu-bright-chart",
       "slots": {
         "numLabel": "TIP 04",
-        "handle": "@mlinsight",
+        "handle": "",
         "sectionLabel": "BENCHMARK 02",
         "title": "Convergence speed",
         "titleItalic": "in hours",
@@ -175,7 +175,7 @@
       "layoutId": "body-edu-bright-flow",
       "slots": {
         "numLabel": "TIP 05",
-        "handle": "@mlinsight",
+        "handle": "",
         "sectionLabel": "PIPELINE 02",
         "title": "RLHF alignment",
         "titleItalic": "workflow",
@@ -208,7 +208,7 @@
       "layoutId": "body-edu-bright-table",
       "slots": {
         "numLabel": "TIP 06",
-        "handle": "@mlinsight",
+        "handle": "",
         "sectionLabel": "WHEN TO USE",
         "title": "Pick the right",
         "titleItalic": "technique",
@@ -249,8 +249,8 @@
     {
       "layoutId": "cta-edu-bright",
       "slots": {
-        "brandTag": "RECAP",
-        "handle": "@mlinsight",
+        "brandTag": "",
+        "handle": "",
         "eyebrow": "Master these five methods",
         "ctaLine1": "Start fine-tuning",
         "ctaAccent": "like pros",

@@ -3,17 +3,13 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/quiet-confidence/slide-01.png",
-      "bytes": 167007,
+      "bytes": 160946,
       "qa": {
-        "verdict": "fail",
+        "verdict": "pass",
         "checks": {
-          "has_frame": false,
-          "no_unfilled_slots": true,
-          "has_page_badge": false
+          "no_unfilled_slots": true
         },
-        "issues": [
-          "missing .frame container"
-        ]
+        "issues": []
       },
       "fingerprint": {
         "layout": "unknown",
@@ -23,17 +19,13 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/quiet-confidence/slide-02.png",
-      "bytes": 252107,
+      "bytes": 246203,
       "qa": {
-        "verdict": "fail",
+        "verdict": "pass",
         "checks": {
-          "has_frame": false,
-          "no_unfilled_slots": true,
-          "has_page_badge": false
+          "no_unfilled_slots": true
         },
-        "issues": [
-          "missing .frame container"
-        ]
+        "issues": []
       },
       "fingerprint": {
         "layout": "unknown",
@@ -43,17 +35,13 @@
     {
       "index": 2,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/quiet-confidence/slide-03.png",
-      "bytes": 246271,
+      "bytes": 240525,
       "qa": {
-        "verdict": "fail",
+        "verdict": "pass",
         "checks": {
-          "has_frame": false,
-          "no_unfilled_slots": true,
-          "has_page_badge": false
+          "no_unfilled_slots": true
         },
-        "issues": [
-          "missing .frame container"
-        ]
+        "issues": []
       },
       "fingerprint": {
         "layout": "unknown",
@@ -63,17 +51,13 @@
     {
       "index": 3,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/quiet-confidence/slide-04.png",
-      "bytes": 244196,
+      "bytes": 238325,
       "qa": {
-        "verdict": "fail",
+        "verdict": "pass",
         "checks": {
-          "has_frame": false,
-          "no_unfilled_slots": true,
-          "has_page_badge": false
+          "no_unfilled_slots": true
         },
-        "issues": [
-          "missing .frame container"
-        ]
+        "issues": []
       },
       "fingerprint": {
         "layout": "unknown",
@@ -83,17 +67,13 @@
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/quiet-confidence/slide-05.png",
-      "bytes": 250707,
+      "bytes": 244890,
       "qa": {
-        "verdict": "fail",
+        "verdict": "pass",
         "checks": {
-          "has_frame": false,
-          "no_unfilled_slots": true,
-          "has_page_badge": false
+          "no_unfilled_slots": true
         },
-        "issues": [
-          "missing .frame container"
-        ]
+        "issues": []
       },
       "fingerprint": {
         "layout": "unknown",
@@ -103,17 +83,13 @@
     {
       "index": 5,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/quiet-confidence/slide-06.png",
-      "bytes": 247896,
+      "bytes": 242072,
       "qa": {
-        "verdict": "fail",
+        "verdict": "pass",
         "checks": {
-          "has_frame": false,
-          "no_unfilled_slots": true,
-          "has_page_badge": false
+          "no_unfilled_slots": true
         },
-        "issues": [
-          "missing .frame container"
-        ]
+        "issues": []
       },
       "fingerprint": {
         "layout": "unknown",
@@ -123,17 +99,13 @@
     {
       "index": 6,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/quiet-confidence/slide-07.png",
-      "bytes": 246144,
+      "bytes": 240402,
       "qa": {
-        "verdict": "fail",
+        "verdict": "pass",
         "checks": {
-          "has_frame": false,
-          "no_unfilled_slots": true,
-          "has_page_badge": false
+          "no_unfilled_slots": true
         },
-        "issues": [
-          "missing .frame container"
-        ]
+        "issues": []
       },
       "fingerprint": {
         "layout": "unknown",
@@ -143,17 +115,13 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/quiet-confidence/slide-08.png",
-      "bytes": 153065,
+      "bytes": 146805,
       "qa": {
-        "verdict": "fail",
+        "verdict": "pass",
         "checks": {
-          "has_frame": false,
-          "no_unfilled_slots": true,
-          "has_page_badge": false
+          "no_unfilled_slots": true
         },
-        "issues": [
-          "missing .frame container"
-        ]
+        "issues": []
       },
       "fingerprint": {
         "layout": "unknown",

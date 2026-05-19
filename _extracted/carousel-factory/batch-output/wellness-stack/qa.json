@@ -3,17 +3,13 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/wellness-stack/slide-01.png",
-      "bytes": 166896,
+      "bytes": 160494,
       "qa": {
-        "verdict": "fail",
+        "verdict": "pass",
         "checks": {
-          "has_frame": false,
-          "no_unfilled_slots": true,
-          "has_page_badge": false
+          "no_unfilled_slots": true
         },
-        "issues": [
-          "missing .frame container"
-        ]
+        "issues": []
       },
       "fingerprint": {
         "layout": "unknown",
@@ -23,20 +19,16 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/wellness-stack/slide-02.png",
-      "bytes": 73088,
+      "bytes": 67958,
       "qa": {
-        "verdict": "fail",
+        "verdict": "pass",
         "checks": {
-          "has_frame": false,
           "no_unfilled_slots": true,
-          "has_page_badge": false,
           "body_text_present": true,
           "body_text_in_bounds": true,
           "body_text_no_overflow": true
         },
-        "issues": [
-          "missing .frame container"
-        ]
+        "issues": []
       },
       "fingerprint": {
         "layout": "unknown",
@@ -53,20 +45,16 @@
     {
       "index": 2,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/wellness-stack/slide-03.png",
-      "bytes": 75191,
+      "bytes": 69921,
       "qa": {
-        "verdict": "fail",
+        "verdict": "pass",
         "checks": {
-          "has_frame": false,
           "no_unfilled_slots": true,
-          "has_page_badge": false,
           "body_text_present": true,
           "body_text_in_bounds": true,
           "body_text_no_overflow": true
         },
-        "issues": [
-          "missing .frame container"
-        ]
+        "issues": []
       },
       "fingerprint": {
         "layout": "unknown",
@@ -83,20 +71,16 @@
     {
       "index": 3,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/wellness-stack/slide-04.png",
-      "bytes": 72268,
+      "bytes": 67114,
       "qa": {
-        "verdict": "fail",
+        "verdict": "pass",
         "checks": {
-          "has_frame": false,
           "no_unfilled_slots": true,
-          "has_page_badge": false,
           "body_text_present": true,
           "body_text_in_bounds": true,
           "body_text_no_overflow": true
         },
-        "issues": [
-          "missing .frame container"
-        ]
+        "issues": []
       },
       "fingerprint": {
         "layout": "unknown",
@@ -113,20 +97,16 @@
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/wellness-stack/slide-05.png",
-      "bytes": 69103,
+      "bytes": 63939,
       "qa": {
-        "verdict": "fail",
+        "verdict": "pass",
         "checks": {
-          "has_frame": false,
           "no_unfilled_slots": true,
-          "has_page_badge": false,
           "body_text_present": true,
           "body_text_in_bounds": true,
           "body_text_no_overflow": true
         },
-        "issues": [
-          "missing .frame container"
-        ]
+        "issues": []
       },
       "fingerprint": {
         "layout": "unknown",
@@ -143,20 +123,16 @@
     {
       "index": 5,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/wellness-stack/slide-06.png",
-      "bytes": 68346,
+      "bytes": 63218,
       "qa": {
-        "verdict": "fail",
+        "verdict": "pass",
         "checks": {
-          "has_frame": false,
           "no_unfilled_slots": true,
-          "has_page_badge": false,
           "body_text_present": true,
           "body_text_in_bounds": true,
           "body_text_no_overflow": true
         },
-        "issues": [
-          "missing .frame container"
-        ]
+        "issues": []
       },
       "fingerprint": {
         "layout": "unknown",
@@ -173,20 +149,16 @@
     {
       "index": 6,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/wellness-stack/slide-07.png",
-      "bytes": 79443,
+      "bytes": 74067,
       "qa": {
-        "verdict": "fail",
+        "verdict": "pass",
         "checks": {
-          "has_frame": false,
           "no_unfilled_slots": true,
-          "has_page_badge": false,
           "body_text_present": true,
           "body_text_in_bounds": true,
           "body_text_no_overflow": true
         },
-        "issues": [
-          "missing .frame container"
-        ]
+        "issues": []
       },
       "fingerprint": {
         "layout": "unknown",
@@ -203,17 +175,13 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/wellness-stack/slide-08.png",
-      "bytes": 80325,
+      "bytes": 74945,
       "qa": {
-        "verdict": "fail",
+        "verdict": "pass",
         "checks": {
-          "has_frame": false,
-          "no_unfilled_slots": true,
-          "has_page_badge": false
+          "no_unfilled_slots": true
         },
-        "issues": [
-          "missing .frame container"
-        ]
+        "issues": []
       },
       "fingerprint": {
         "layout": "unknown",

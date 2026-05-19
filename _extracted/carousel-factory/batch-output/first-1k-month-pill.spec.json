@@ -7,7 +7,7 @@
     {
       "layoutId": "cover-condensed-pill",
       "slots": {
-        "brand": "Alex Cole",
+        "brand": "",
         "preLine": "How I",
         "pillText": "MADE 1K",
         "postLine": "online the boring unsexy way",
@@ -17,7 +17,7 @@
     {
       "layoutId": "body-condensed-pill",
       "slots": {
-        "brand": "Alex Cole",
+        "brand": "",
         "number": "01",
         "numberLabel": "Step",
         "title": "START HERE",
@@ -28,7 +28,7 @@
     {
       "layoutId": "body-condensed-pill",
       "slots": {
-        "brand": "Alex Cole",
+        "brand": "",
         "number": "02",
         "numberLabel": "Step",
         "title": "PRICED LOW",
@@ -39,7 +39,7 @@
     {
       "layoutId": "body-condensed-pill",
       "slots": {
-        "brand": "Alex Cole",
+        "brand": "",
         "number": "03",
         "numberLabel": "Step",
         "title": "STAYED SIMPLE",
@@ -50,7 +50,7 @@
     {
       "layoutId": "body-condensed-pill",
       "slots": {
-        "brand": "Alex Cole",
+        "brand": "",
         "number": "04",
         "numberLabel": "Step",
         "title": "DID OUTREACH",
@@ -61,7 +61,7 @@
     {
       "layoutId": "body-condensed-pill",
       "slots": {
-        "brand": "Alex Cole",
+        "brand": "",
         "number": "05",
         "numberLabel": "Step",
         "title": "OVER DELIVERED",
@@ -72,7 +72,7 @@
     {
       "layoutId": "body-condensed-pill",
       "slots": {
-        "brand": "Alex Cole",
+        "brand": "",
         "number": "06",
         "numberLabel": "Step",
         "title": "RAISED RATES",
@@ -83,7 +83,7 @@
     {
       "layoutId": "cta-condensed-pill",
       "slots": {
-        "brand": "Alex Cole",
+        "brand": "",
         "eyebrow": "YOUR TURN",
         "headline": "START",
         "body": "Pick the skill you already have. Price it low, reach out daily, and deliver like it's gold.",

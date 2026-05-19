@@ -7,8 +7,8 @@
     {
       "layoutId": "cover-stencil-stamp",
       "slots": {
-        "brandTag": "GUIDE",
-        "handle": "@promptcrft",
+        "brandTag": "",
+        "handle": "",
         "preLine": "the only frameworks for",
         "titleLine1": "5 SECRET",
         "titleStamp": "PROMPT",
@@ -28,7 +28,7 @@
       "layoutId": "body-stencil-stamp",
       "slots": {
         "numLabel": "THE LIST",
-        "handle": "@promptcrft",
+        "handle": "",
         "iconSlug1": "anthropic",
         "toolName": "ARSENAL",
         "categoryLabel": "OVERVIEW",
@@ -56,7 +56,7 @@
       "layoutId": "body-stencil-stamp",
       "slots": {
         "numLabel": "MODE 01",
-        "handle": "@promptcrft",
+        "handle": "",
         "iconSlug1": "anthropic",
         "toolName": "RTF",
         "categoryLabel": "STRUCTURE",
@@ -84,7 +84,7 @@
       "layoutId": "body-stencil-stamp",
       "slots": {
         "numLabel": "MODE 02",
-        "handle": "@promptcrft",
+        "handle": "",
         "iconSlug1": "openai",
         "toolName": "COT",
         "categoryLabel": "REASONING",
@@ -112,7 +112,7 @@
       "layoutId": "body-stencil-stamp",
       "slots": {
         "numLabel": "MODE 03",
-        "handle": "@promptcrft",
+        "handle": "",
         "iconSlug1": "perplexity",
         "toolName": "RAG",
         "categoryLabel": "CONTEXT",
@@ -140,7 +140,7 @@
       "layoutId": "body-stencil-stamp",
       "slots": {
         "numLabel": "MODE 04",
-        "handle": "@promptcrft",
+        "handle": "",
         "iconSlug1": "langchain",
         "toolName": "TOT",
         "categoryLabel": "AGENTS",
@@ -168,7 +168,7 @@
       "layoutId": "body-stencil-stamp",
       "slots": {
         "numLabel": "MODE 05",
-        "handle": "@promptcrft",
+        "handle": "",
         "iconSlug1": "github",
         "toolName": "META",
         "categoryLabel": "SYSTEMS",
@@ -195,8 +195,8 @@
     {
       "layoutId": "cta-stencil-stamp",
       "slots": {
-        "brandTag": "WRAP",
-        "handle": "@promptcrft",
+        "brandTag": "",
+        "handle": "",
         "eyebrow": "build smarter prompts today",
         "ctaStamp": "SAVE THIS",
         "ctaOutline": "GUIDE",

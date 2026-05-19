@@ -1,0 +1,127 @@
+{
+  "id": "fdr-selling-prompts",
+  "brand": "Maya Ortiz",
+  "brief": "Selling AI prompts and prompt packs as products. Pricing, packaging, where to sell, what actually moves units in 2026.",
+  "theme": "linkedin-pro",
+  "slides": [
+    {
+      "layoutId": "cover-linkedin-pro",
+      "slots": {
+        "author": "Maya Ortiz",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "1",
+        "accentColor": "#4f3df5",
+        "headline": "Sell AI Prompts Like Products in 2026",
+        "heroSymbol": "🚀",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#8b5cf6",
+        "body": "Prompts are the new digital products. Here's how to price, package, and sell them for real revenue in 2026."
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Maya Ortiz",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "2",
+        "accentColor": "#4f3df5",
+        "title": "Price by Outcome, Not Words",
+        "body": "Stop charging $5 for 50 prompts. Bundle by use case and charge $27-$97 for transformation, not text files.",
+        "heroSymbol": "$",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#8b5cf6",
+        "labelText": "SWIPE FOR MORE"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Maya Ortiz",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "3",
+        "accentColor": "#4f3df5",
+        "title": "Package Prompts as Systems",
+        "body": "Sell templates, SOPs, and prompt chains together. Buyers pay for workflow speed, not isolated chat inputs.",
+        "heroSymbol": "⚙",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#8b5cf6",
+        "labelText": "SWIPE FOR MORE"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Maya Ortiz",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "4",
+        "accentColor": "#4f3df5",
+        "title": "Sell Where Buyers Already Are",
+        "body": "Gumroad, Lemon Squeezy, and X DMs convert best. Avoid crowded marketplaces that bury your listings.",
+        "heroSymbol": "🛒",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#8b5cf6",
+        "labelText": "SWIPE FOR MORE"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Maya Ortiz",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "5",
+        "accentColor": "#4f3df5",
+        "title": "Lead With the Aha Moment",
+        "body": "Show the before-and-after output in your preview. Proof beats promises when selling invisible tools.",
+        "heroSymbol": "💡",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#8b5cf6",
+        "labelText": "SWIPE FOR MORE"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Maya Ortiz",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "6",
+        "accentColor": "#4f3df5",
+        "title": "Niche Down to Scale Up",
+        "body": "Generic prompt packs are commodities now. Win in 2026 by solving one painful job-to-be-done.",
+        "heroSymbol": "🎯",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#8b5cf6",
+        "labelText": "SWIPE FOR MORE"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Maya Ortiz",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "7",
+        "accentColor": "#4f3df5",
+        "title": "Own Your Audience First",
+        "body": "Collect emails before you launch. One warm list will outsell a hundred cold impressions every time.",
+        "heroSymbol": "✉",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#8b5cf6",
+        "labelText": "SWIPE FOR MORE"
+      }
+    },
+    {
+      "layoutId": "cta-linkedin-pro",
+      "slots": {
+        "author": "Maya Ortiz",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "8",
+        "accentColor": "#4f3df5",
+        "eyebrow": "YOUR TURN?",
+        "headline": "Ready to Monetize Your Prompts?",
+        "body": "Drop a 🚀 if you're building your first prompt product this month.",
+        "buttonLabel": "FOLLOW FOR MORE",
+        "secondaryLabel": "SHARE THIS POST",
+        "handle": ""
+      }
+    }
+  ]
+}

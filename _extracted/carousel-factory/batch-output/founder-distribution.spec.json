@@ -18,7 +18,7 @@
       "layoutId": "body-rounded-card",
       "slots": {
         "pageBadge": "02",
-        "handle": "@alexosborne",
+        "handle": "",
         "number": "01",
         "title": "Build the",
         "titleAccent": "master asset",
@@ -35,7 +35,7 @@
       "layoutId": "body-rounded-card",
       "slots": {
         "pageBadge": "03",
-        "handle": "@alexosborne",
+        "handle": "",
         "number": "02",
         "title": "Vertical clips for",
         "titleAccent": "short-form video",
@@ -52,7 +52,7 @@
       "layoutId": "body-rounded-card",
       "slots": {
         "pageBadge": "04",
-        "handle": "@alexosborne",
+        "handle": "",
         "number": "03",
         "title": "Square tiles for",
         "titleAccent": "the feed",
@@ -69,7 +69,7 @@
       "layoutId": "body-rounded-card",
       "slots": {
         "pageBadge": "05",
-        "handle": "@alexosborne",
+        "handle": "",
         "number": "04",
         "title": "Widescreen for",
         "titleAccent": "Twitter threads",
@@ -86,7 +86,7 @@
       "layoutId": "body-rounded-card",
       "slots": {
         "pageBadge": "06",
-        "handle": "@alexosborne",
+        "handle": "",
         "number": "05",
         "title": "Extract quote",
         "titleAccent": "cards",
@@ -103,7 +103,7 @@
       "layoutId": "body-rounded-card",
       "slots": {
         "pageBadge": "07",
-        "handle": "@alexosborne",
+        "handle": "",
         "number": "06",
         "title": "Schedule and",
         "titleAccent": "distribute",
@@ -120,7 +120,7 @@
       "layoutId": "cta-rounded-card",
       "slots": {
         "pageBadge": "08",
-        "handle": "@alexosborne",
+        "handle": "",
         "eyebrow": "YOUR MOVE",
         "headlineLine1": "Steal this",
         "headlineLine2": "distribution engine",

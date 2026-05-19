@@ -1,0 +1,127 @@
+{
+  "id": "fdr-niche-newsletter",
+  "brand": "NicheLab",
+  "brief": "The niche newsletter business plan. Topic selection, audience math, monetization stack, how to choose a niche AI can amplify.",
+  "theme": "linkedin-pro",
+  "slides": [
+    {
+      "layoutId": "cover-linkedin-pro",
+      "slots": {
+        "author": "Maya Kern",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "1",
+        "accentColor": "#0a66c2",
+        "headline": "The Niche Newsletter Business Plan",
+        "heroSymbol": "NL",
+        "heroBg": "#0a66c2",
+        "heroBg2": "#4f3df5",
+        "body": "Turn a tiny audience into a six-figure newsletter business. Here is the exact plan to pick, validate, and monetize your niche."
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Maya Kern",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "2",
+        "accentColor": "#0a66c2",
+        "title": "Pick a Painful Problem",
+        "body": "The best niches solve expensive problems for specific people. If they feel the pain daily, they will pay for answers.",
+        "heroSymbol": "01",
+        "heroBg": "#0a66c2",
+        "heroBg2": "#4f3df5",
+        "labelText": "NICHE NEWSLETTER PLAN"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Maya Kern",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "3",
+        "accentColor": "#0a66c2",
+        "title": "Size Your Audience",
+        "body": "You only need ten thousand true fans. Sell a fifty-dollar product to one percent and earn five thousand monthly.",
+        "heroSymbol": "02",
+        "heroBg": "#0a66c2",
+        "heroBg2": "#4f3df5",
+        "labelText": "NICHE NEWSLETTER PLAN"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Maya Kern",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "4",
+        "accentColor": "#0a66c2",
+        "title": "Let AI Amplify It",
+        "body": "Choose a niche where AI speeds research, writing, or personalization. Your leverage multiplies when technology does the heavy lifting.",
+        "heroSymbol": "03",
+        "heroBg": "#0a66c2",
+        "heroBg2": "#4f3df5",
+        "labelText": "NICHE NEWSLETTER PLAN"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Maya Kern",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "5",
+        "accentColor": "#0a66c2",
+        "title": "Build the Monetization Stack",
+        "body": "Combine sponsorships, premium subs, and digital products. Multiple income streams make your newsletter recession-proof and highly profitable.",
+        "heroSymbol": "04",
+        "heroBg": "#0a66c2",
+        "heroBg2": "#4f3df5",
+        "labelText": "NICHE NEWSLETTER PLAN"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Maya Kern",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "6",
+        "accentColor": "#0a66c2",
+        "title": "Design the Flywheel",
+        "body": "One idea becomes a post, thread, newsletter, and course. Repurposing creates consistency without burning out each week.",
+        "heroSymbol": "05",
+        "heroBg": "#0a66c2",
+        "heroBg2": "#4f3df5",
+        "labelText": "NICHE NEWSLETTER PLAN"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Maya Kern",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "7",
+        "accentColor": "#0a66c2",
+        "title": "Validate in One Week",
+        "body": "Publish three posts on the topic. If engagement is high, you have proof. If not, pivot fast without regret.",
+        "heroSymbol": "06",
+        "heroBg": "#0a66c2",
+        "heroBg2": "#4f3df5",
+        "labelText": "NICHE NEWSLETTER PLAN"
+      }
+    },
+    {
+      "layoutId": "cta-linkedin-pro",
+      "slots": {
+        "author": "Maya Kern",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "8",
+        "accentColor": "#0a66c2",
+        "eyebrow": "YOUR TURN?",
+        "headline": "Start Your Niche Newsletter",
+        "body": "Which niche will you dominate this year? Drop it in the comments and tag a founder who needs this plan.",
+        "buttonLabel": "Follow for More",
+        "secondaryLabel": "Repost",
+        "handle": ""
+      }
+    }
+  ]
+}

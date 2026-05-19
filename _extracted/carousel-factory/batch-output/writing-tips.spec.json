@@ -7,7 +7,7 @@
     {
       "layoutId": "cover-beige-serif",
       "slots": {
-        "brand": "FirstDraft",
+        "brand": "",
         "headline": "Six Writing Tips for Founders Who Absolutely Hate Writing",
         "slideCountHero": "6"
       }
@@ -15,78 +15,78 @@
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "FirstDraft",
+        "brand": "",
         "number": "01",
         "title": "Talk It Out",
         "body": "Record your thoughts as voice notes and let AI transcribe them. Speaking naturally beats staring at a blank page. Edit the transcript into clean copy in minutes.",
-        "handle": "@firstdraft",
-        "domain": "firstdraft.com"
+        "handle": "",
+        "domain": ""
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "FirstDraft",
+        "brand": "",
         "number": "02",
         "title": "Bullet Your Ideas",
         "body": "Start with a messy list of bullet points instead of full sentences. Each bullet is one idea. Rearrange them until they flow, then add transitions.",
-        "handle": "@firstdraft",
-        "domain": "firstdraft.com"
+        "handle": "",
+        "domain": ""
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "FirstDraft",
+        "brand": "",
         "number": "03",
         "title": "Write to One",
         "body": "Picture one specific customer or investor reading your words. Writing for a crowd creates corporate fluff. A single reader forces clarity and tone.",
-        "handle": "@firstdraft",
-        "domain": "firstdraft.com"
+        "handle": "",
+        "domain": ""
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "FirstDraft",
+        "brand": "",
         "number": "04",
         "title": "Use a Timer",
         "body": "Give yourself fifteen minutes and permission to write garbage. A deadline kills perfectionism. You can always edit bad words, but not a blank page.",
-        "handle": "@firstdraft",
-        "domain": "firstdraft.com"
+        "handle": "",
+        "domain": ""
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "FirstDraft",
+        "brand": "",
         "number": "05",
         "title": "State the Point",
         "body": "Decide your one-sentence takeaway before you begin. Knowing the destination keeps you from wandering. Build everything backward from that final line.",
-        "handle": "@firstdraft",
-        "domain": "firstdraft.com"
+        "handle": "",
+        "domain": ""
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "FirstDraft",
+        "brand": "",
         "number": "06",
         "title": "Separate Drafts",
         "body": "Never edit while you write. Turn off the red pen and dump every thought onto the page. Polish comes only after the idea exists.",
-        "handle": "@firstdraft",
-        "domain": "firstdraft.com"
+        "handle": "",
+        "domain": ""
       }
     },
     {
       "layoutId": "cta-beige-serif",
       "slots": {
-        "brand": "FirstDraft",
+        "brand": "",
         "eyebrow": "START WRITING TODAY",
         "headline": "Make Writing Your Secret Weapon",
         "body": "Writing is a muscle, not a talent. Start messy, publish anyway, and watch your clarity compound weekly.",
         "buttonLabel": "SAVE THIS POST",
-        "handle": "@firstdraft"
+        "handle": ""
       }
     }
   ]

@@ -8,7 +8,7 @@
       "layoutId": "cover-typo-sample",
       "slots": {
         "number": "02",
-        "handle": "@usevisuals",
+        "handle": "",
         "fontFamily": "Unbounded",
         "description": "A futuristic geometric sans built for bold statements. Unbounded commands attention at any scale with its confident curves and tech-forward spirit."
       }
@@ -17,7 +17,7 @@
       "layoutId": "body-typo-sample",
       "slots": {
         "number": "03",
-        "handle": "@usevisuals",
+        "handle": "",
         "fontFamily": "Playfair Display",
         "description": "A high-contrast transitional serif rooted in 18th-century engraving. Perfect for editorial headlines that demand elegance and dramatic contrast."
       }
@@ -26,7 +26,7 @@
       "layoutId": "body-typo-sample",
       "slots": {
         "number": "04",
-        "handle": "@usevisuals",
+        "handle": "",
         "fontFamily": "Montserrat",
         "description": "Inspired by Buenos Aires signage, this geometric sans brings urban confidence to large-scale typography. Highly legible yet unmistakably characterful."
       }
@@ -35,7 +35,7 @@
       "layoutId": "body-typo-sample",
       "slots": {
         "number": "05",
-        "handle": "@usevisuals",
+        "handle": "",
         "fontFamily": "Bricolage Grotesque",
         "description": "A variable grotesque that morphs from quirky to serious. Its unpredictable letterforms inject raw personality into modern display layouts."
       }
@@ -44,7 +44,7 @@
       "layoutId": "body-typo-sample",
       "slots": {
         "number": "06",
-        "handle": "@usevisuals",
+        "handle": "",
         "fontFamily": "Space Grotesk",
         "description": "Originally crafted for headlines in 1960s Poland, this geometric sans balances mathematical precision with playful, space-age proportions."
       }
@@ -53,7 +53,7 @@
       "layoutId": "body-typo-sample",
       "slots": {
         "number": "07",
-        "handle": "@usevisuals",
+        "handle": "",
         "fontFamily": "Fraunces",
         "description": "A soft, wonky serif with variable weight and optical sizing. It brings warmth and approachability to display typography without losing authority."
       }
@@ -62,7 +62,7 @@
       "layoutId": "body-typo-sample",
       "slots": {
         "number": "08",
-        "handle": "@usevisuals",
+        "handle": "",
         "fontFamily": "Instrument Serif",
         "description": "A refined high-contrast serif designed for editorial impact. Its sharp terminals and graceful curves create unforgettable headline moments."
       }
@@ -71,7 +71,7 @@
       "layoutId": "cta-typo-sample",
       "slots": {
         "number": "09",
-        "handle": "@usevisuals",
+        "handle": "",
         "fontFamily": "Geist",
         "headlineLine1": "Pick",
         "headlineLine2": "the right font",

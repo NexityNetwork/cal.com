@@ -3,17 +3,13 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/supplements/slide-01.png",
-      "bytes": 181890,
+      "bytes": 175189,
       "qa": {
-        "verdict": "fail",
+        "verdict": "pass",
         "checks": {
-          "has_frame": false,
-          "no_unfilled_slots": true,
-          "has_page_badge": false
+          "no_unfilled_slots": true
         },
-        "issues": [
-          "missing .frame container"
-        ]
+        "issues": []
       },
       "fingerprint": {
         "layout": "unknown",
@@ -23,20 +19,16 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/supplements/slide-02.png",
-      "bytes": 100391,
+      "bytes": 94665,
       "qa": {
-        "verdict": "fail",
+        "verdict": "pass",
         "checks": {
-          "has_frame": false,
           "no_unfilled_slots": true,
-          "has_page_badge": false,
           "body_text_present": true,
           "body_text_in_bounds": true,
           "body_text_no_overflow": true
         },
-        "issues": [
-          "missing .frame container"
-        ]
+        "issues": []
       },
       "fingerprint": {
         "layout": "unknown",
@@ -53,20 +45,16 @@
     {
       "index": 2,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/supplements/slide-03.png",
-      "bytes": 96089,
+      "bytes": 90367,
       "qa": {
-        "verdict": "fail",
+        "verdict": "pass",
         "checks": {
-          "has_frame": false,
           "no_unfilled_slots": true,
-          "has_page_badge": false,
           "body_text_present": true,
           "body_text_in_bounds": true,
           "body_text_no_overflow": true
         },
-        "issues": [
-          "missing .frame container"
-        ]
+        "issues": []
       },
       "fingerprint": {
         "layout": "unknown",
@@ -83,20 +71,16 @@
     {
       "index": 3,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/supplements/slide-04.png",
-      "bytes": 89055,
+      "bytes": 83576,
       "qa": {
-        "verdict": "fail",
+        "verdict": "pass",
         "checks": {
-          "has_frame": false,
           "no_unfilled_slots": true,
-          "has_page_badge": false,
           "body_text_present": true,
           "body_text_in_bounds": true,
           "body_text_no_overflow": true
         },
-        "issues": [
-          "missing .frame container"
-        ]
+        "issues": []
       },
       "fingerprint": {
         "layout": "unknown",
@@ -113,20 +97,16 @@
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/supplements/slide-05.png",
-      "bytes": 90158,
+      "bytes": 84345,
       "qa": {
-        "verdict": "fail",
+        "verdict": "pass",
         "checks": {
-          "has_frame": false,
           "no_unfilled_slots": true,
-          "has_page_badge": false,
           "body_text_present": true,
           "body_text_in_bounds": true,
           "body_text_no_overflow": true
         },
-        "issues": [
-          "missing .frame container"
-        ]
+        "issues": []
       },
       "fingerprint": {
         "layout": "unknown",
@@ -143,20 +123,16 @@
     {
       "index": 5,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/supplements/slide-06.png",
-      "bytes": 92329,
+      "bytes": 86814,
       "qa": {
-        "verdict": "fail",
+        "verdict": "pass",
         "checks": {
-          "has_frame": false,
           "no_unfilled_slots": true,
-          "has_page_badge": false,
           "body_text_present": true,
           "body_text_in_bounds": true,
           "body_text_no_overflow": true
         },
-        "issues": [
-          "missing .frame container"
-        ]
+        "issues": []
       },
       "fingerprint": {
         "layout": "unknown",
@@ -173,20 +149,16 @@
     {
       "index": 6,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/supplements/slide-07.png",
-      "bytes": 92205,
+      "bytes": 86558,
       "qa": {
-        "verdict": "fail",
+        "verdict": "pass",
         "checks": {
-          "has_frame": false,
           "no_unfilled_slots": true,
-          "has_page_badge": false,
           "body_text_present": true,
           "body_text_in_bounds": true,
           "body_text_no_overflow": true
         },
-        "issues": [
-          "missing .frame container"
-        ]
+        "issues": []
       },
       "fingerprint": {
         "layout": "unknown",
@@ -203,17 +175,13 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/supplements/slide-08.png",
-      "bytes": 96160,
+      "bytes": 90841,
       "qa": {
-        "verdict": "fail",
+        "verdict": "pass",
         "checks": {
-          "has_frame": false,
-          "no_unfilled_slots": true,
-          "has_page_badge": false
+          "no_unfilled_slots": true
         },
-        "issues": [
-          "missing .frame container"
-        ]
+        "issues": []
       },
       "fingerprint": {
         "layout": "unknown",

@@ -7,8 +7,8 @@
     {
       "layoutId": "cover-terminal-glow",
       "slots": {
-        "brandTag": "CURL",
-        "handle": "@devtoolbox",
+        "brandTag": "",
+        "handle": "",
         "termTitle": "~/curl/masterclass.sh",
         "cmdLine": "curl -s -o /dev/null -w '%{http_code}' https://api.io",
         "outLine": "HTTP 200 — connection",
@@ -38,7 +38,7 @@
       "layoutId": "body-terminal-glow",
       "slots": {
         "numLabel": "CMD 02",
-        "handle": "@devtoolbox",
+        "handle": "",
         "sectionLabel": "AUTH HEADERS",
         "title": "Send Secure",
         "titleAccent": "Bearer tokens",
@@ -73,7 +73,7 @@
       "layoutId": "body-terminal-glow",
       "slots": {
         "numLabel": "CMD 03",
-        "handle": "@devtoolbox",
+        "handle": "",
         "sectionLabel": "FILE UPLOAD",
         "title": "Upload Raw",
         "titleAccent": "Files Fast",
@@ -108,7 +108,7 @@
       "layoutId": "body-terminal-glow",
       "slots": {
         "numLabel": "CMD 04",
-        "handle": "@devtoolbox",
+        "handle": "",
         "sectionLabel": "RESILIENCE",
         "title": "Auto Retry",
         "titleAccent": "with Backoff",
@@ -143,7 +143,7 @@
       "layoutId": "body-terminal-glow",
       "slots": {
         "numLabel": "CMD 05",
-        "handle": "@devtoolbox",
+        "handle": "",
         "sectionLabel": "PARALLEL",
         "title": "Fire Parallel",
         "titleAccent": "Curl Jobs",
@@ -178,7 +178,7 @@
       "layoutId": "body-terminal-glow",
       "slots": {
         "numLabel": "CMD 06",
-        "handle": "@devtoolbox",
+        "handle": "",
         "sectionLabel": "DOWNLOAD",
         "title": "Resume Broken",
         "titleAccent": "Downloads",
@@ -213,7 +213,7 @@
       "layoutId": "body-terminal-glow",
       "slots": {
         "numLabel": "CMD 07",
-        "handle": "@devtoolbox",
+        "handle": "",
         "sectionLabel": "CONFIG",
         "title": "Lock Your",
         "titleAccent": "Default Flags",
@@ -247,8 +247,8 @@
     {
       "layoutId": "cta-terminal-glow",
       "slots": {
-        "brandTag": "WRAP",
-        "handle": "@devtoolbox",
+        "brandTag": "",
+        "handle": "",
         "intro": "now go ship faster",
         "ctaLine1": "Save this",
         "ctaAccent": "curl stack",

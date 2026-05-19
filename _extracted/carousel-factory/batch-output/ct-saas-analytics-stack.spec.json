@@ -7,8 +7,8 @@
     {
       "layoutId": "cover-cream-table",
       "slots": {
-        "brandTag": "SAAS STACK",
-        "handle": "@earlysaas",
+        "brandTag": "",
+        "handle": "",
         "eyebrow": "the only data stack you need",
         "titleLine1": "6 analytics",
         "titleAccent": "tools that",
@@ -42,7 +42,7 @@
       "layoutId": "body-cream-table",
       "slots": {
         "numLabel": "TOOL 01",
-        "handle": "@earlysaas",
+        "handle": "",
         "iconSlug1": "posthog",
         "toolName": "PostHog",
         "toolTagline": "Open-source product analytics that captures every click, funnel, and replay.",
@@ -70,7 +70,7 @@
       "layoutId": "body-cream-table",
       "slots": {
         "numLabel": "TOOL 02",
-        "handle": "@earlysaas",
+        "handle": "",
         "iconSlug1": "metabase",
         "toolName": "Metabase",
         "toolTagline": "The easiest way for teams to ask questions and share insights.",
@@ -98,7 +98,7 @@
       "layoutId": "body-cream-table",
       "slots": {
         "numLabel": "TOOL 03",
-        "handle": "@earlysaas",
+        "handle": "",
         "iconSlug1": "plausible",
         "toolName": "Plausible",
         "toolTagline": "Lightweight, privacy-first web analytics without cookie banners or tracking bloat.",
@@ -126,7 +126,7 @@
       "layoutId": "body-cream-table",
       "slots": {
         "numLabel": "TOOL 04",
-        "handle": "@earlysaas",
+        "handle": "",
         "iconSlug1": "google",
         "toolName": "Search Console",
         "toolTagline": "The only free tool that shows exactly how Google sees your site.",
@@ -154,7 +154,7 @@
       "layoutId": "body-cream-table",
       "slots": {
         "numLabel": "TOOL 05",
-        "handle": "@earlysaas",
+        "handle": "",
         "iconSlug1": "june",
         "toolName": "June",
         "toolTagline": "B2B SaaS analytics that turns product data into revenue insights automatically.",
@@ -182,7 +182,7 @@
       "layoutId": "body-cream-table",
       "slots": {
         "numLabel": "TOOL 06",
-        "handle": "@earlysaas",
+        "handle": "",
         "iconSlug1": "chartmogul",
         "toolName": "ChartMogul",
         "toolTagline": "Subscription analytics that calculate your true SaaS metrics instantly.",
@@ -209,8 +209,8 @@
     {
       "layoutId": "cta-cream-table",
       "slots": {
-        "brandTag": "WRAP",
-        "handle": "@earlysaas",
+        "brandTag": "",
+        "handle": "",
         "eyebrow": "stop guessing, start growing",
         "titleLine1": "build your",
         "titleAccent": "analytics stack",

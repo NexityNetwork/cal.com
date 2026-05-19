@@ -3,17 +3,13 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/side-hustle-groovy/slide-01.png",
-      "bytes": 65540,
+      "bytes": 61188,
       "qa": {
-        "verdict": "fail",
+        "verdict": "pass",
         "checks": {
-          "has_frame": false,
-          "no_unfilled_slots": true,
-          "has_page_badge": false
+          "no_unfilled_slots": true
         },
-        "issues": [
-          "missing .frame container"
-        ]
+        "issues": []
       },
       "fingerprint": {
         "layout": "unknown",
@@ -23,17 +19,13 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/side-hustle-groovy/slide-02.png",
-      "bytes": 76286,
+      "bytes": 72739,
       "qa": {
-        "verdict": "fail",
+        "verdict": "pass",
         "checks": {
-          "has_frame": false,
-          "no_unfilled_slots": true,
-          "has_page_badge": false
+          "no_unfilled_slots": true
         },
-        "issues": [
-          "missing .frame container"
-        ]
+        "issues": []
       },
       "fingerprint": {
         "layout": "unknown",
@@ -43,17 +35,13 @@
     {
       "index": 2,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/side-hustle-groovy/slide-03.png",
-      "bytes": 72906,
+      "bytes": 69337,
       "qa": {
-        "verdict": "fail",
+        "verdict": "pass",
         "checks": {
-          "has_frame": false,
-          "no_unfilled_slots": true,
-          "has_page_badge": false
+          "no_unfilled_slots": true
         },
-        "issues": [
-          "missing .frame container"
-        ]
+        "issues": []
       },
       "fingerprint": {
         "layout": "unknown",
@@ -63,17 +51,13 @@
     {
       "index": 3,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/side-hustle-groovy/slide-04.png",
-      "bytes": 69495,
+      "bytes": 65942,
       "qa": {
-        "verdict": "fail",
+        "verdict": "pass",
         "checks": {
-          "has_frame": false,
-          "no_unfilled_slots": true,
-          "has_page_badge": false
+          "no_unfilled_slots": true
         },
-        "issues": [
-          "missing .frame container"
-        ]
+        "issues": []
       },
       "fingerprint": {
         "layout": "unknown",
@@ -83,17 +67,13 @@
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/side-hustle-groovy/slide-05.png",
-      "bytes": 71619,
+      "bytes": 68062,
       "qa": {
-        "verdict": "fail",
+        "verdict": "pass",
         "checks": {
-          "has_frame": false,
-          "no_unfilled_slots": true,
-          "has_page_badge": false
+          "no_unfilled_slots": true
         },
-        "issues": [
-          "missing .frame container"
-        ]
+        "issues": []
       },
       "fingerprint": {
         "layout": "unknown",
@@ -103,17 +83,13 @@
     {
       "index": 5,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/side-hustle-groovy/slide-06.png",
-      "bytes": 77138,
+      "bytes": 73604,
       "qa": {
-        "verdict": "fail",
+        "verdict": "pass",
         "checks": {
-          "has_frame": false,
-          "no_unfilled_slots": true,
-          "has_page_badge": false
+          "no_unfilled_slots": true
         },
-        "issues": [
-          "missing .frame container"
-        ]
+        "issues": []
       },
       "fingerprint": {
         "layout": "unknown",
@@ -123,17 +99,13 @@
     {
       "index": 6,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/side-hustle-groovy/slide-07.png",
-      "bytes": 67629,
+      "bytes": 64064,
       "qa": {
-        "verdict": "fail",
+        "verdict": "pass",
         "checks": {
-          "has_frame": false,
-          "no_unfilled_slots": true,
-          "has_page_badge": false
+          "no_unfilled_slots": true
         },
-        "issues": [
-          "missing .frame container"
-        ]
+        "issues": []
       },
       "fingerprint": {
         "layout": "unknown",
@@ -143,17 +115,13 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/side-hustle-groovy/slide-08.png",
-      "bytes": 71132,
+      "bytes": 67354,
       "qa": {
-        "verdict": "fail",
+        "verdict": "pass",
         "checks": {
-          "has_frame": false,
-          "no_unfilled_slots": true,
-          "has_page_badge": false
+          "no_unfilled_slots": true
         },
-        "issues": [
-          "missing .frame container"
-        ]
+        "issues": []
       },
       "fingerprint": {
         "layout": "unknown",

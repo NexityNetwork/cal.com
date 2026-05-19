@@ -1,0 +1,180 @@
+{
+  "id": "fdr-service-to-product",
+  "brand": "Pivot Labs",
+  "brief": "Service business to AI product business. The 90-day pivot, the revenue dip, the unlock on the other side.",
+  "theme": "before-after",
+  "slides": [
+    {
+      "layoutId": "cover-before-after",
+      "slots": {
+        "pageOf": "01 / 08",
+        "handle": "",
+        "title": "Stop doing",
+        "titleAccent": "custom work",
+        "description": "Service businesses hit a ceiling. This is the 90-day playbook to productize with AI and escape the hourly trap.",
+        "badLabel1": "Trading time for money",
+        "badLabel2": "Stuck at revenue ceiling",
+        "badStat1": "$0 when you sleep",
+        "badStat2": "100% capacity",
+        "goodLabel1": "AI products scale around the clock",
+        "goodLabel2": "Revenue without trading your hours",
+        "goodStat1": "$50k MRR in 90 days",
+        "goodStat2": "Zero delivery time",
+        "iconSlug1": "openai",
+        "iconSlug2": "zapier",
+        "iconSlug3": "stripe",
+        "iconSlug4": "notion"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 01 / 06",
+        "handle": "",
+        "title": "Kill the hourly",
+        "titleAccent": "billing model",
+        "description": "Service businesses sell time. Product businesses sell outcomes. Switching your pricing is the first domino in the pivot.",
+        "badLabel": "BEFORE",
+        "badText": "Every project priced by the hour with scope creep destroying margins.",
+        "badStat": "$175/hour",
+        "iconSlug1": "excel",
+        "iconSlug2": "paypal",
+        "goodLabel": "AFTER",
+        "goodText": "Fixed subscription pricing delivers predictable MRR without extra hours.",
+        "goodStat": "$297/mo",
+        "iconSlug3": "stripe",
+        "iconSlug4": "openai",
+        "iconSlug5": "zapier",
+        "ctaArrow": "Flip the model"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 02 / 06",
+        "handle": "",
+        "title": "Automate the",
+        "titleAccent": "delivery stack",
+        "description": "Manual delivery is your bottleneck. AI agents handle onboarding, fulfillment, and support while you sleep.",
+        "badLabel": "BEFORE",
+        "badText": "You personally deliver every asset, revision, and report by hand.",
+        "badStat": "12 hrs/client",
+        "iconSlug1": "word",
+        "iconSlug2": "powerpoint",
+        "goodLabel": "AFTER",
+        "goodText": "AI runs onboarding, builds deliverables, and handles support tickets instantly.",
+        "goodStat": "0 mins/client",
+        "iconSlug3": "openai",
+        "iconSlug4": "make",
+        "iconSlug5": "notion",
+        "ctaArrow": "Build the machine"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 03 / 06",
+        "handle": "",
+        "title": "Replace referrals",
+        "titleAccent": "with content",
+        "description": "Waiting for word-of-mouth keeps you small. A content engine generates leads while you build the product.",
+        "badLabel": "BEFORE",
+        "badText": "New clients come only from networking events and slow referrals.",
+        "badStat": "3 leads/mo",
+        "iconSlug1": "calendar",
+        "iconSlug2": "gmail",
+        "goodLabel": "AFTER",
+        "goodText": "SEO and LinkedIn content bring qualified buyers on autopilot daily.",
+        "goodStat": "150 leads/day",
+        "iconSlug3": "linkedin",
+        "iconSlug4": "twitter",
+        "iconSlug5": "youtube",
+        "ctaArrow": "Own the funnel"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 04 / 06",
+        "handle": "",
+        "title": "Stop hiring",
+        "titleAccent": "more people",
+        "description": "More clients used to mean more hires. Now AI agents scale your output without adding headcount.",
+        "badLabel": "BEFORE",
+        "badText": "Each new client required another contractor or employee to fulfill.",
+        "badStat": "$8k/mo staff",
+        "iconSlug1": "slack",
+        "iconSlug2": "zoom",
+        "goodLabel": "AFTER",
+        "goodText": "One operator and AI agents handle fifty clients without breaking a sweat.",
+        "goodStat": "$200/mo tools",
+        "iconSlug3": "openai",
+        "iconSlug4": "make",
+        "iconSlug5": "notion",
+        "ctaArrow": "Scale without hiring"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 05 / 06",
+        "handle": "",
+        "title": "Survive the",
+        "titleAccent": "revenue dip",
+        "description": "Pivoting means saying no to service income temporarily. The dip is real, but so is the recovery.",
+        "badLabel": "BEFORE",
+        "badText": "Comfortable service revenue masks the fact that you own nothing scalable.",
+        "badStat": "$25k/mo stable",
+        "iconSlug1": "excel",
+        "iconSlug2": "paypal",
+        "goodLabel": "AFTER",
+        "goodText": "Sixty days of lower revenue explodes into product growth you cannot outwork.",
+        "goodStat": "$80k/mo by Q2",
+        "iconSlug3": "framer",
+        "iconSlug4": "stripe",
+        "iconSlug5": "openai",
+        "ctaArrow": "Trust the process"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 06 / 06",
+        "handle": "",
+        "title": "Unlock infinite",
+        "titleAccent": "product scale",
+        "description": "Service revenue is capped by your hours. Product revenue breaks the ceiling and compounds while you sleep.",
+        "badLabel": "BEFORE",
+        "badText": "You are the product, which means growth stops when you run out of time.",
+        "badStat": "160 hrs/mo max",
+        "iconSlug1": "clock",
+        "iconSlug2": "calendar",
+        "goodLabel": "AFTER",
+        "goodText": "AI products sell, deliver, and support thousands of users without your input.",
+        "goodStat": "24/7 revenue",
+        "iconSlug3": "vercel",
+        "iconSlug4": "openai",
+        "iconSlug5": "stripe",
+        "ctaArrow": "Break the ceiling"
+      }
+    },
+    {
+      "layoutId": "cta-before-after",
+      "slots": {
+        "pageOf": "08 / 08",
+        "handle": "",
+        "eyebrow": "MAKE THE SWITCH",
+        "headlineLine1": "Build your AI",
+        "headlineAccent": "product engine",
+        "body": "Join 500+ founders who made the 90-day pivot. The unlock starts with one decision.",
+        "iconSlug1": "openai",
+        "iconSlug2": "stripe",
+        "iconSlug3": "notion",
+        "iconSlug4": "zapier",
+        "iconSlug5": "make",
+        "iconSlug6": "vercel",
+        "ctaText": "Start the pivot"
+      }
+    }
+  ]
+}

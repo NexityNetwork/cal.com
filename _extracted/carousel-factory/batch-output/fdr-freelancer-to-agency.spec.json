@@ -1,0 +1,180 @@
+{
+  "id": "fdr-freelancer-to-agency",
+  "brand": "AI Growth Lab",
+  "brief": "Freelancer at $80/hr to AI agency owner clearing $30k/month. The exact pricing shift, the productization, what AI replaced for me.",
+  "theme": "before-after",
+  "slides": [
+    {
+      "layoutId": "cover-before-after",
+      "slots": {
+        "pageOf": "1 / 8",
+        "handle": "",
+        "title": "Stop trading",
+        "titleAccent": "time for money",
+        "description": "How I escaped the hourly trap and built a $30K/month AI agency using productized service models.",
+        "badLabel1": "Custom proposals for every client",
+        "badLabel2": "Capped income by hours worked",
+        "badStat1": "$80/hr ceiling",
+        "badStat2": "40 hrs/week",
+        "goodLabel1": "Productized AI systems sold monthly",
+        "goodLabel2": "Revenue decoupled from your time",
+        "goodStat1": "$30K/month",
+        "goodStat2": "10 clients",
+        "iconSlug1": "openai",
+        "iconSlug2": "make",
+        "iconSlug3": "n8n",
+        "iconSlug4": "stripe"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 01 / 06",
+        "handle": "",
+        "title": "Ditch hourly billing",
+        "titleAccent": "for flat fees",
+        "description": "I switched from variable hourly quotes to fixed monthly packages that clients could budget around.",
+        "badLabel": "BEFORE",
+        "badText": "Every project required a custom scope and unpredictable invoice totals.",
+        "badStat": "$80/hr",
+        "iconSlug1": "gmail",
+        "iconSlug2": "google",
+        "goodLabel": "AFTER",
+        "goodText": "One standardized price eliminates negotiation and guarantees recurring revenue.",
+        "goodStat": "$5K/mo packages",
+        "iconSlug3": "openai",
+        "iconSlug4": "make",
+        "iconSlug5": "stripe",
+        "ctaArrow": "See the pricing shift"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 02 / 06",
+        "handle": "",
+        "title": "Productize your delivery",
+        "titleAccent": "with AI",
+        "description": "We built repeatable AI workflows that run autonomously instead of manual delivery each time.",
+        "badLabel": "BEFORE",
+        "badText": "I personally wrote every email, report, and strategy deck from scratch.",
+        "badStat": "12 hrs/client",
+        "iconSlug1": "microsoft",
+        "iconSlug2": "excel",
+        "goodLabel": "AFTER",
+        "goodText": "Agents handle onboarding, research, and drafts while I oversee results.",
+        "goodStat": "1 hr/client",
+        "iconSlug3": "n8n",
+        "iconSlug4": "openai",
+        "iconSlug5": "airtable",
+        "ctaArrow": "Automate the work"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 03 / 06",
+        "handle": "",
+        "title": "Replace yourself first",
+        "titleAccent": "using agents",
+        "description": "I stopped being the bottleneck by delegating execution to specialized AI tools and systems.",
+        "badLabel": "BEFORE",
+        "badText": "My income froze whenever I slept, vacationed, or got sick.",
+        "badStat": "0 billable off",
+        "iconSlug1": "zoom",
+        "iconSlug2": "slack",
+        "goodLabel": "AFTER",
+        "goodText": "The agency now operates, delivers, and supports clients around the clock.",
+        "goodStat": "24/7 uptime",
+        "iconSlug3": "n8n",
+        "iconSlug4": "make",
+        "iconSlug5": "telegram",
+        "ctaArrow": "Build the system"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 04 / 06",
+        "handle": "",
+        "title": "Narrow your niche",
+        "titleAccent": "raise prices",
+        "description": "Generalist freelancers compete on rates. I chose one vertical and became the obvious premium choice.",
+        "badLabel": "BEFORE",
+        "badText": "I took any gig I could find and raced to the bottom.",
+        "badStat": "$3K months",
+        "iconSlug1": "wordpress",
+        "iconSlug2": "shopify",
+        "goodLabel": "AFTER",
+        "goodText": "A focused offer let me charge premium rates without price resistance.",
+        "goodStat": "$30K months",
+        "iconSlug3": "webflow",
+        "iconSlug4": "hubspot",
+        "iconSlug5": "stripe",
+        "ctaArrow": "Pick one vertical"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 05 / 06",
+        "handle": "",
+        "title": "Sell outcomes not hours",
+        "titleAccent": "not labor",
+        "description": "Clients pay for results and speed, not how long you sit at a desk.",
+        "badLabel": "BEFORE",
+        "badText": "Clients micromanaged timesheets and questioned every ten-minute block on invoices.",
+        "badStat": "$80/hr",
+        "iconSlug1": "excel",
+        "iconSlug2": "google",
+        "goodLabel": "AFTER",
+        "goodText": "Fixed monthly fees tied to clear deliverables and business outcomes.",
+        "goodStat": "$5K–$10K/mo",
+        "iconSlug3": "openai",
+        "iconSlug4": "make",
+        "iconSlug5": "notion",
+        "ctaArrow": "Price on value"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 06 / 06",
+        "handle": "",
+        "title": "Systemize to scale",
+        "titleAccent": "without hiring",
+        "description": "AI replaced the need for junior staff by handling repetitive tasks and client communication.",
+        "badLabel": "BEFORE",
+        "badText": "Scaling meant recruiting, training, and payroll I could not afford yet.",
+        "badStat": "$4K overhead",
+        "iconSlug1": "asana",
+        "iconSlug2": "linkedin",
+        "goodLabel": "AFTER",
+        "goodText": "One operator oversees AI agents that manage ten accounts simultaneously.",
+        "goodStat": "85% margin",
+        "iconSlug3": "n8n",
+        "iconSlug4": "openai",
+        "iconSlug5": "slack",
+        "ctaArrow": "Scale with AI"
+      }
+    },
+    {
+      "layoutId": "cta-before-after",
+      "slots": {
+        "pageOf": "8 / 8",
+        "handle": "",
+        "eyebrow": "MAKE THE SWITCH",
+        "headlineLine1": "Build your agency",
+        "headlineAccent": "with AI systems",
+        "body": "Stop selling hours. Start selling productized outcomes that scale without adding headcount.",
+        "iconSlug1": "openai",
+        "iconSlug2": "make",
+        "iconSlug3": "n8n",
+        "iconSlug4": "stripe",
+        "iconSlug5": "notion",
+        "iconSlug6": "webflow",
+        "ctaText": "Get the blueprint"
+      }
+    }
+  ]
+}

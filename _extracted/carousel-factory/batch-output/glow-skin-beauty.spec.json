@@ -7,7 +7,7 @@
     {
       "layoutId": "cover-minimal-beauty",
       "slots": {
-        "handle": "@drsarahchen",
+        "handle": "",
         "author": "Dr. Sarah Chen",
         "role": "BOARD-CERTIFIED DERMATOLOGIST",
         "titleLine1": "THE GLOW",
@@ -19,7 +19,7 @@
     {
       "layoutId": "body-minimal-beauty",
       "slots": {
-        "handle": "@drsarahchen",
+        "handle": "",
         "author": "Dr. Sarah Chen",
         "number": "STEP 01",
         "title": "GENTLE CLEANSE",
@@ -29,7 +29,7 @@
     {
       "layoutId": "body-minimal-beauty",
       "slots": {
-        "handle": "@drsarahchen",
+        "handle": "",
         "author": "Dr. Sarah Chen",
         "number": "STEP 02",
         "title": "EXFOLIATE WEEKLY",
@@ -39,7 +39,7 @@
     {
       "layoutId": "body-minimal-beauty",
       "slots": {
-        "handle": "@drsarahchen",
+        "handle": "",
         "author": "Dr. Sarah Chen",
         "number": "STEP 03",
         "title": "HYDRATE DEEPLY",
@@ -49,7 +49,7 @@
     {
       "layoutId": "body-minimal-beauty",
       "slots": {
-        "handle": "@drsarahchen",
+        "handle": "",
         "author": "Dr. Sarah Chen",
         "number": "STEP 04",
         "title": "SEAL WITH MOISTURE",
@@ -59,7 +59,7 @@
     {
       "layoutId": "body-minimal-beauty",
       "slots": {
-        "handle": "@drsarahchen",
+        "handle": "",
         "author": "Dr. Sarah Chen",
         "number": "STEP 05",
         "title": "PROTECT DAILY",
@@ -69,7 +69,7 @@
     {
       "layoutId": "body-minimal-beauty",
       "slots": {
-        "handle": "@drsarahchen",
+        "handle": "",
         "author": "Dr. Sarah Chen",
         "number": "PRO TIP",
         "title": "BE CONSISTENT",
@@ -79,7 +79,7 @@
     {
       "layoutId": "cta-minimal-beauty",
       "slots": {
-        "handle": "@drsarahchen",
+        "handle": "",
         "author": "Dr. Sarah Chen",
         "role": "BOARD-CERTIFIED DERMATOLOGIST",
         "eyebrow": "YOUR RITUAL",

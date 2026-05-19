@@ -7,103 +7,103 @@
     {
       "layoutId": "cover-noir-yellow",
       "slots": {
-        "brand": "SLOW FORTUNE",
+        "brand": "",
         "scriptPrefix": "Build",
         "displayLine1": "THE SLOW WAY",
         "displayLine2": "TO REAL MONEY",
         "displayLine3": "WITHOUT BURNOUT",
         "scriptTagline": "How to build wealth without burning out.",
-        "handle": "@slowfortune",
+        "handle": "",
         "slideId": "Slide 01"
       }
     },
     {
       "layoutId": "body-noir-yellow",
       "slots": {
-        "brand": "SLOW FORTUNE",
+        "brand": "",
         "scriptPrefix": "Stop",
         "displayLine1": "HUSTLE IS",
         "displayLine2": "A LIE",
         "displayLine3": "THAT KILLS PROFIT",
         "body": "The market rewards noise, but your nervous system pays the price. Speed creates rework, shallow work, and chronic exhaustion. Slow down before you break down.",
-        "handle": "@slowfortune",
+        "handle": "",
         "slideId": "Slide 02"
       }
     },
     {
       "layoutId": "body-noir-yellow",
       "slots": {
-        "brand": "SLOW FORTUNE",
+        "brand": "",
         "scriptPrefix": "Remember",
         "displayLine1": "SPEED EATS",
         "displayLine2": "YOUR MARGIN",
         "displayLine3": "AND YOUR MIND",
         "body": "When you rush, you discount your expertise and multiply your hours. Slowness is a filter that forces value over volume. Better work takes fewer clients.",
-        "handle": "@slowfortune",
+        "handle": "",
         "slideId": "Slide 03"
       }
     },
     {
       "layoutId": "body-noir-yellow",
       "slots": {
-        "brand": "SLOW FORTUNE",
+        "brand": "",
         "scriptPrefix": "Charge",
         "displayLine1": "RAISE RATES",
         "displayLine2": "DROP VOLUME",
         "displayLine3": "KEEP SANITY",
         "body": "You do not need a thousand customers. You need ten who trust you deeply. High prices buy you time, boundaries, and space to think.",
-        "handle": "@slowfortune",
+        "handle": "",
         "slideId": "Slide 04"
       }
     },
     {
       "layoutId": "body-noir-yellow",
       "slots": {
-        "brand": "SLOW FORTUNE",
+        "brand": "",
         "scriptPrefix": "Design",
         "displayLine1": "BUILD ONCE",
         "displayLine2": "SELL TWICE",
         "displayLine3": "REPEAT FOREVER",
         "body": "Productize what you know so delivery stops depending on your mood. Systems turn craft into income without your real-time presence. That is true leverage.",
-        "handle": "@slowfortune",
+        "handle": "",
         "slideId": "Slide 05"
       }
     },
     {
       "layoutId": "body-noir-yellow",
       "slots": {
-        "brand": "SLOW FORTUNE",
+        "brand": "",
         "scriptPrefix": "Protect",
         "displayLine1": "SAY NO",
         "displayLine2": "TO EVERYTHING",
         "displayLine3": "THAT DRAINS",
         "body": "Burnout is not a badge; it is a bookkeeping error. Every yes to bad fit work is a no to your health. Guard the calendar like cash.",
-        "handle": "@slowfortune",
+        "handle": "",
         "slideId": "Slide 06"
       }
     },
     {
       "layoutId": "body-noir-yellow",
       "slots": {
-        "brand": "SLOW FORTUNE",
+        "brand": "",
         "scriptPrefix": "Trust",
         "displayLine1": "PATIENCE IS",
         "displayLine2": "A PROFIT",
         "displayLine3": "CENTER",
         "body": "Slow businesses compound quietly while fast ones crash loudly. Reputation deepens, referrals sharpen, and margins widen with age. Play the long game from day one.",
-        "handle": "@slowfortune",
+        "handle": "",
         "slideId": "Slide 07"
       }
     },
     {
       "layoutId": "cta-noir-yellow",
       "slots": {
-        "brand": "SLOW FORTUNE",
+        "brand": "",
         "scriptPrefix": "Begin",
         "headline": "START YOUR SLOW EMPIRE",
         "scriptTagline": "Build wealth one calm step at a time.",
         "buttonLabel": "Start Building Slow",
-        "handle": "@slowfortune",
+        "handle": "",
         "slideId": "Slide 08"
       }
     }

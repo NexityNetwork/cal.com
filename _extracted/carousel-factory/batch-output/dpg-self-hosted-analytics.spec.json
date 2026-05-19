@@ -22,7 +22,7 @@
         "heroBody": "Own every click with full data ownership and zero third-party sharing.",
         "slideTitle": "Complete data sovereignty for every team",
         "slideSubtitle": "Migrate from GA without losing historical reports or custom dimensions.",
-        "domainText": "matomo.org",
+        "domainText": "",
         "pageOf": "02 / 08"
       }
     },
@@ -34,7 +34,7 @@
         "heroBody": "Track events, session replay, and experiments on your own infrastructure.",
         "slideTitle": "The all-in-one product analytics stack",
         "slideSubtitle": "Replace Mixpanel and LaunchDarkly with one self-hosted open-source platform.",
-        "domainText": "posthog.com",
+        "domainText": "",
         "pageOf": "03 / 08"
       }
     },
@@ -46,7 +46,7 @@
         "heroBody": "Two lightweight giants that deliver instant insights and zero cookie banners.",
         "slideTitle": "Lean privacy stacks for modern brands",
         "slideSubtitle": "Drop heavy scripts and still capture every metric that matters.",
-        "domainText": "plausible.io",
+        "domainText": "",
         "pageOf": "04 / 08"
       }
     },
@@ -58,7 +58,7 @@
         "heroBody": "Connect any database and let your team explore data without SQL.",
         "slideTitle": "Democratize your data warehouse today",
         "slideSubtitle": "Turn raw tables into visual answers in minutes, not engineering sprints.",
-        "domainText": "metabase.com",
+        "domainText": "",
         "pageOf": "05 / 08"
       }
     },
@@ -70,7 +70,7 @@
         "heroBody": "Design rich dashboards with SQL Lab and modern caching layers included.",
         "slideTitle": "Enterprise charts without limits",
         "slideSubtitle": "Power Airbnb-scale analytics on your own servers and terms.",
-        "domainText": "superset.io",
+        "domainText": "",
         "pageOf": "06 / 08"
       }
     },
@@ -82,7 +82,7 @@
         "heroBody": "Measure push performance, crashes, and user journeys across every platform.",
         "slideTitle": "Unified mobile intelligence for growth teams",
         "slideSubtitle": "Self-host your entire mobile growth stack with full EU compliance.",
-        "domainText": "countly.com",
+        "domainText": "",
         "pageOf": "07 / 08"
       }
     },

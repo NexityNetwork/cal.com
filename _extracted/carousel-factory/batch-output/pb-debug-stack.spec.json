@@ -7,8 +7,8 @@
     {
       "layoutId": "cover-pixel-block",
       "slots": {
-        "brandTag": "DEBUG",
-        "handle": "@devstack",
+        "brandTag": "",
+        "handle": "",
         "preLine": "the only stack for",
         "pixelLine1": "DEBUG",
         "pixelLine2": "MODE",
@@ -28,7 +28,7 @@
       "layoutId": "body-pixel-block",
       "slots": {
         "numLabel": "TOOL 01",
-        "handle": "@devstack",
+        "handle": "",
         "iconSlug1": "sentry",
         "toolName": "SENTRY",
         "categoryLabel": "FREE TIER",
@@ -52,7 +52,7 @@
       "layoutId": "body-pixel-block",
       "slots": {
         "numLabel": "TOOL 02",
-        "handle": "@devstack",
+        "handle": "",
         "iconSlug1": "datadog",
         "toolName": "DATADOG",
         "categoryLabel": "PAID",
@@ -76,7 +76,7 @@
       "layoutId": "body-pixel-block",
       "slots": {
         "numLabel": "TOOL 03",
-        "handle": "@devstack",
+        "handle": "",
         "iconSlug1": "googlechrome",
         "toolName": "DEVTOOLS",
         "categoryLabel": "FREE",
@@ -100,7 +100,7 @@
       "layoutId": "body-pixel-block",
       "slots": {
         "numLabel": "TOOL 04",
-        "handle": "@devstack",
+        "handle": "",
         "iconSlug1": "postman",
         "toolName": "POSTMAN",
         "categoryLabel": "FREE",
@@ -124,7 +124,7 @@
       "layoutId": "body-pixel-block",
       "slots": {
         "numLabel": "TOOL 05",
-        "handle": "@devstack",
+        "handle": "",
         "iconSlug1": "wireshark",
         "toolName": "WIRESHARK",
         "categoryLabel": "FREE",
@@ -148,7 +148,7 @@
       "layoutId": "body-pixel-block",
       "slots": {
         "numLabel": "TOOL 06",
-        "handle": "@devstack",
+        "handle": "",
         "iconSlug1": "git",
         "toolName": "BISECT",
         "categoryLabel": "FREE",
@@ -171,8 +171,8 @@
     {
       "layoutId": "cta-pixel-block",
       "slots": {
-        "brandTag": "WRAP UP",
-        "handle": "@devstack",
+        "brandTag": "",
+        "handle": "",
         "eyebrow": "stop guessing and start shipping",
         "ctaLine1": "SAVE",
         "ctaLine2": "HOURS",

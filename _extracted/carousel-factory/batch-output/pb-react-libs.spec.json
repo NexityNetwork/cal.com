@@ -7,8 +7,8 @@
     {
       "layoutId": "cover-pixel-block",
       "slots": {
-        "brandTag": "REACT UI",
-        "handle": "@devstack",
+        "brandTag": "",
+        "handle": "",
         "preLine": "the only libraries that",
         "pixelLine1": "REPLACE",
         "pixelLine2": "UI KITS",
@@ -28,7 +28,7 @@
       "layoutId": "body-pixel-block",
       "slots": {
         "numLabel": "TOOL 01",
-        "handle": "@devstack",
+        "handle": "",
         "iconSlug1": "shadcnui",
         "toolName": "SHADCN",
         "categoryLabel": "FREE",
@@ -52,7 +52,7 @@
       "layoutId": "body-pixel-block",
       "slots": {
         "numLabel": "TOOL 02",
-        "handle": "@devstack",
+        "handle": "",
         "iconSlug1": "radixui",
         "toolName": "RADIX",
         "categoryLabel": "FREE",
@@ -76,7 +76,7 @@
       "layoutId": "body-pixel-block",
       "slots": {
         "numLabel": "TOOL 03",
-        "handle": "@devstack",
+        "handle": "",
         "iconSlug1": "tailwindcss",
         "toolName": "TAILWIND",
         "categoryLabel": "FREE",
@@ -100,7 +100,7 @@
       "layoutId": "body-pixel-block",
       "slots": {
         "numLabel": "TOOL 04",
-        "handle": "@devstack",
+        "handle": "",
         "iconSlug1": "reacthookform",
         "toolName": "RHF",
         "categoryLabel": "FREE",
@@ -124,7 +124,7 @@
       "layoutId": "body-pixel-block",
       "slots": {
         "numLabel": "TOOL 05",
-        "handle": "@devstack",
+        "handle": "",
         "iconSlug1": "framer",
         "toolName": "FRAMER",
         "categoryLabel": "FREE",
@@ -148,7 +148,7 @@
       "layoutId": "body-pixel-block",
       "slots": {
         "numLabel": "TOOL 06",
-        "handle": "@devstack",
+        "handle": "",
         "iconSlug1": "reactquery",
         "toolName": "QUERY",
         "categoryLabel": "FREE",
@@ -171,8 +171,8 @@
     {
       "layoutId": "cta-pixel-block",
       "slots": {
-        "brandTag": "WRAP UP",
-        "handle": "@devstack",
+        "brandTag": "",
+        "handle": "",
         "eyebrow": "stop overpaying for UI kits",
         "ctaLine1": "BUILD",
         "ctaLine2": "BETTER",

@@ -8,7 +8,7 @@
       "layoutId": "cover-tech-stack-grid",
       "slots": {
         "tag": "MY STACK",
-        "handle": "factory.51ultron.com",
+        "handle": "",
         "eyebrow": "build faster, ship smarter",
         "titleLine1": "the indie hacker",
         "titleAccent": "stack that ships",
@@ -46,7 +46,7 @@
         "iconSlug3": "linear",
         "iconSlug4": "github",
         "iconSlug5": "loom",
-        "domainText": "notion.so",
+        "domainText": "",
         "pageOf": "02 / 08"
       }
     },
@@ -69,7 +69,7 @@
         "iconSlug3": "framer",
         "iconSlug4": "nextdotjs",
         "iconSlug5": "github",
-        "domainText": "figma.com",
+        "domainText": "",
         "pageOf": "03 / 08"
       }
     },
@@ -92,7 +92,7 @@
         "iconSlug3": "notion",
         "iconSlug4": "vercel",
         "iconSlug5": "raycast",
-        "domainText": "linear.app",
+        "domainText": "",
         "pageOf": "04 / 08"
       }
     },
@@ -115,7 +115,7 @@
         "iconSlug3": "vercel",
         "iconSlug4": "postgresql",
         "iconSlug5": "typescript",
-        "domainText": "supabase.com",
+        "domainText": "",
         "pageOf": "05 / 08"
       }
     },
@@ -138,7 +138,7 @@
         "iconSlug3": "supabase",
         "iconSlug4": "notion",
         "iconSlug5": "calendly",
-        "domainText": "stripe.com",
+        "domainText": "",
         "pageOf": "06 / 08"
       }
     },
@@ -161,7 +161,7 @@
         "iconSlug3": "github",
         "iconSlug4": "supabase",
         "iconSlug5": "linear",
-        "domainText": "vercel.com",
+        "domainText": "",
         "pageOf": "07 / 08"
       }
     },
@@ -169,7 +169,7 @@
       "layoutId": "cta-tech-stack-grid",
       "slots": {
         "tag": "WRAP",
-        "handle": "factory.51ultron.com",
+        "handle": "",
         "eyebrow": "stack locked, time to build",
         "ctaLine1": "ship your indie",
         "ctaLine2": "stack today",
@@ -182,7 +182,7 @@
         "iconSlug6": "vercel",
         "btnPrimary": "Start Building",
         "btnGhost": "View Stack",
-        "domainText": "factory.51ultron.com",
+        "domainText": "",
         "pageOf": "08 / 08"
       }
     }

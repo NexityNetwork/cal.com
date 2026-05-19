@@ -7,8 +7,8 @@
     {
       "layoutId": "cover-terminal-glow",
       "slots": {
-        "brandTag": "DOCKER",
-        "handle": "@containerops",
+        "brandTag": "",
+        "handle": "",
         "termTitle": "~/docker/debug-loop.sh",
         "cmdLine": "docker ps --format 'table {{.Names}} {{.Status}}'",
         "outLine": "found 7 containers across",
@@ -38,7 +38,7 @@
       "layoutId": "body-terminal-glow",
       "slots": {
         "numLabel": "CMD 01",
-        "handle": "@containerops",
+        "handle": "",
         "sectionLabel": "TRICK 01",
         "title": "Shell into",
         "titleAccent": "running",
@@ -73,7 +73,7 @@
       "layoutId": "body-terminal-glow",
       "slots": {
         "numLabel": "CMD 02",
-        "handle": "@containerops",
+        "handle": "",
         "sectionLabel": "TRICK 02",
         "title": "Tail logs",
         "titleAccent": "with grep",
@@ -108,7 +108,7 @@
       "layoutId": "body-terminal-glow",
       "slots": {
         "numLabel": "CMD 03",
-        "handle": "@containerops",
+        "handle": "",
         "sectionLabel": "TRICK 03",
         "title": "Spot drift",
         "titleAccent": "with diff",
@@ -143,7 +143,7 @@
       "layoutId": "body-terminal-glow",
       "slots": {
         "numLabel": "CMD 04",
-        "handle": "@containerops",
+        "handle": "",
         "sectionLabel": "TRICK 04",
         "title": "Inspect raw",
         "titleAccent": "json state",
@@ -178,7 +178,7 @@
       "layoutId": "body-terminal-glow",
       "slots": {
         "numLabel": "CMD 05",
-        "handle": "@containerops",
+        "handle": "",
         "sectionLabel": "TRICK 05",
         "title": "Watch live",
         "titleAccent": "resource stats",
@@ -213,7 +213,7 @@
       "layoutId": "body-terminal-glow",
       "slots": {
         "numLabel": "CMD 06",
-        "handle": "@containerops",
+        "handle": "",
         "sectionLabel": "TRICK 06",
         "title": "Copy files",
         "titleAccent": "in & out",
@@ -247,8 +247,8 @@
     {
       "layoutId": "cta-terminal-glow",
       "slots": {
-        "brandTag": "DOCKER",
-        "handle": "@containerops",
+        "brandTag": "",
+        "handle": "",
         "intro": "now go ship faster",
         "ctaLine1": "Save this",
         "ctaAccent": "debug stack",

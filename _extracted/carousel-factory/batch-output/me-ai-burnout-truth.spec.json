@@ -7,9 +7,9 @@
     {
       "layoutId": "cover-mag-editorial",
       "slots": {
-        "brandTag": "THE BRIEF",
+        "brandTag": "",
         "issueLine": "Issue 03 · 2026",
-        "handle": "@jordanmarks",
+        "handle": "",
         "eyebrow": "WHAT NOBODY TELLS YOU ABOUT",
         "headLine1": "AI didn't kill",
         "headAccent": "my job",
@@ -33,7 +33,7 @@
       "slots": {
         "numLabel": "02",
         "sectionLabel": "THE FIRST SHIFT",
-        "handle": "@jordanmarks",
+        "handle": "",
         "title": "Stop writing",
         "titleAccent": "every line",
         "subtitle": "AI generates working code in seconds, so your value is no longer syntax.",
@@ -63,7 +63,7 @@
       "slots": {
         "numLabel": "03",
         "sectionLabel": "THE MINDSET",
-        "handle": "@jordanmarks",
+        "handle": "",
         "title": "Build solutions",
         "titleAccent": "not features",
         "subtitle": "Users pay for pain relief, not your elegant stack.",
@@ -93,7 +93,7 @@
       "slots": {
         "numLabel": "04",
         "sectionLabel": "THE LEVERAGE",
-        "handle": "@jordanmarks",
+        "handle": "",
         "title": "Talk more",
         "titleAccent": "code less",
         "subtitle": "The highest-paid technical founders are translators, not typists.",
@@ -123,7 +123,7 @@
       "slots": {
         "numLabel": "05",
         "sectionLabel": "THE OPERATING MODEL",
-        "handle": "@jordanmarks",
+        "handle": "",
         "title": "Ship ugly",
         "titleAccent": "ship today",
         "subtitle": "Perfect code that ships next quarter loses to learning competitors.",
@@ -153,7 +153,7 @@
       "slots": {
         "numLabel": "06",
         "sectionLabel": "THE REALIZATION",
-        "handle": "@jordanmarks",
+        "handle": "",
         "title": "Own the upside",
         "titleAccent": "not tasks",
         "subtitle": "AI revealed the truth: you hated renting your brain by the hour.",
@@ -183,7 +183,7 @@
       "slots": {
         "numLabel": "07",
         "sectionLabel": "LAST FRAME",
-        "handle": "@jordanmarks",
+        "handle": "",
         "title": "Be the glue",
         "titleAccent": "not gears",
         "subtitle": "The founder's job is to hold product, sales, and story together.",
@@ -211,8 +211,8 @@
     {
       "layoutId": "cta-mag-editorial",
       "slots": {
-        "brandTag": "FIN",
-        "handle": "@jordanmarks",
+        "brandTag": "",
+        "handle": "",
         "eyebrow": "A final note",
         "ctaLine1": "Save",
         "ctaAccent": "this essay",

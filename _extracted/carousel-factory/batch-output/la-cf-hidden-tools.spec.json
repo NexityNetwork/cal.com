@@ -7,8 +7,8 @@
     {
       "layoutId": "cover-lime-accent",
       "slots": {
-        "brandTag": "STACK PICK",
-        "handle": "stack.51ultron.com",
+        "brandTag": "",
+        "handle": "",
         "eyebrow": "FREE TIER",
         "titleLine1": "6 hidden",
         "titleCallout": "Cloudflare",
@@ -27,7 +27,7 @@
       "layoutId": "body-lime-accent",
       "slots": {
         "numLabel": "TOOL 01",
-        "handle": "stack.51ultron.com",
+        "handle": "",
         "iconSlug1": "cloudflare-d1",
         "toolTag": "free tier",
         "toolTagline": "Serverless SQLite database at the edge.",
@@ -49,7 +49,7 @@
       "layoutId": "body-lime-accent",
       "slots": {
         "numLabel": "TOOL 02",
-        "handle": "stack.51ultron.com",
+        "handle": "",
         "iconSlug1": "cloudflare-r2",
         "toolTag": "zero egress",
         "toolTagline": "S3-compatible object storage without egress fees.",
@@ -71,7 +71,7 @@
       "layoutId": "body-lime-accent",
       "slots": {
         "numLabel": "TOOL 03",
-        "handle": "stack.51ultron.com",
+        "handle": "",
         "iconSlug1": "cloudflare-queues",
         "toolTag": "async",
         "toolTagline": "Global message queue for background jobs.",
@@ -93,7 +93,7 @@
       "layoutId": "body-lime-accent",
       "slots": {
         "numLabel": "TOOL 04",
-        "handle": "stack.51ultron.com",
+        "handle": "",
         "iconSlug1": "cloudflare-ai-gateway",
         "toolTag": "AI ops",
         "toolTagline": "Unified proxy for LLM APIs with caching.",
@@ -115,7 +115,7 @@
       "layoutId": "body-lime-accent",
       "slots": {
         "numLabel": "TOOL 05",
-        "handle": "stack.51ultron.com",
+        "handle": "",
         "iconSlug1": "cloudflare-vectorize",
         "toolTag": "vector DB",
         "toolTagline": "Edge-native vector database for AI search.",
@@ -137,7 +137,7 @@
       "layoutId": "body-lime-accent",
       "slots": {
         "numLabel": "TOOL 06",
-        "handle": "stack.51ultron.com",
+        "handle": "",
         "iconSlug1": "cloudflare-hyperdrive",
         "toolTag": "db cache",
         "toolTagline": "Database accelerator and connection pooler.",
@@ -158,8 +158,8 @@
     {
       "layoutId": "cta-lime-accent",
       "slots": {
-        "brandTag": "WRAP",
-        "handle": "stack.51ultron.com",
+        "brandTag": "",
+        "handle": "",
         "eyebrow": "PICK YOUR STACK",
         "ctaLine1": "Deploy to the",
         "ctaCallout": "edge",

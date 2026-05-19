@@ -7,7 +7,7 @@
     {
       "layoutId": "cover-dark-navy",
       "slots": {
-        "brand": "StackLog",
+        "brand": "",
         "versionLabel": "v2026.1",
         "prompt": "npx create-saas-stack --db=supabase --deploy=vercel",
         "headLine1": "The",
@@ -27,7 +27,7 @@
     {
       "layoutId": "body-dark-navy",
       "slots": {
-        "brand": "StackLog",
+        "brand": "",
         "pageOf": "02/08",
         "stepLabel": "managed postgres foundation layer",
         "number": "1",
@@ -35,13 +35,13 @@
         "titleOrange": "Backend",
         "body": "One managed Postgres instance per project. Realtime subscriptions, vector extensions, and row-level security included.",
         "codePill": "supabase-js@latest",
-        "handle": "@yourhandle"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-dark-navy",
       "slots": {
-        "brand": "StackLog",
+        "brand": "",
         "pageOf": "03/08",
         "stepLabel": "nextjs app router shell",
         "number": "2",
@@ -49,13 +49,13 @@
         "titleOrange": "Router",
         "body": "Next.js 15 Server Components stream data from Supabase at the edge. No useEffect waterfalls, no client bloat.",
         "codePill": "next build",
-        "handle": "@yourhandle"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-dark-navy",
       "slots": {
-        "brand": "StackLog",
+        "brand": "",
         "pageOf": "04/08",
         "stepLabel": "row level security policies",
         "number": "3",
@@ -63,13 +63,13 @@
         "titleOrange": "Policies",
         "body": "Enforce access control in the database, not the client. Policies prevent data leaks even if frontend code is exposed.",
         "codePill": "create policy select_own...",
-        "handle": "@yourhandle"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-dark-navy",
       "slots": {
-        "brand": "StackLog",
+        "brand": "",
         "pageOf": "05/08",
         "stepLabel": "passwordless auth session layer",
         "number": "4",
@@ -77,13 +77,13 @@
         "titleOrange": "Links",
         "body": "Supabase Auth handles OAuth, OTP, and sessions. Next.js middleware refreshes tokens automatically. Zero custom JWT code.",
         "codePill": "auth.signInWithOtp()",
-        "handle": "@yourhandle"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-dark-navy",
       "slots": {
-        "brand": "StackLog",
+        "brand": "",
         "pageOf": "06/08",
         "stepLabel": "supabase storage edge pattern",
         "number": "5",
@@ -91,13 +91,13 @@
         "titleOrange": "Objects",
         "body": "User uploads hit Supabase Storage. Next.js Route Handlers sign URLs on demand. CDN delivery keeps bandwidth costs flat.",
         "codePill": "storage.from('files').upload()",
-        "handle": "@yourhandle"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-dark-navy",
       "slots": {
-        "brand": "StackLog",
+        "brand": "",
         "pageOf": "07/08",
         "stepLabel": "vercel deploy pipeline step",
         "number": "6",
@@ -105,13 +105,13 @@
         "titleOrange": "Pipeline",
         "body": "Push to main triggers preview and production deploys. Environment variables stay in sync. Ship in minutes, not hours.",
         "codePill": "git push origin main",
-        "handle": "@yourhandle"
+        "handle": ""
       }
     },
     {
       "layoutId": "cta-dark-navy",
       "slots": {
-        "brand": "StackLog",
+        "brand": "",
         "pageOf": "08/08",
         "terminalTag": "deploy --to=your-feed",
         "headLine1": "Clone",
@@ -119,7 +119,7 @@
         "body": "Repost the first slide to bookmark this stack. I break down production SaaS architecture weekly.",
         "buttonLabel": "Follow along",
         "secondaryNote": "follow for more stack threads",
-        "handle": "@yourhandle"
+        "handle": ""
       }
     }
   ]

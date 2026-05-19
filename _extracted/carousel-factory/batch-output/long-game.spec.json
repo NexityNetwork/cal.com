@@ -7,106 +7,106 @@
     {
       "layoutId": "cover-cream-gold",
       "slots": {
-        "brand": "AURELIA",
+        "brand": "",
         "issueLabel": "No. 01",
         "eyebrow": "ON CAREER & CRAFT",
         "titleLine1": "The",
         "titleLine2": "Long",
         "titleLine3": "Game",
         "subtitle": "Six quiet disciplines that transform short ambition into a legacy of enduring influence and mastery.",
-        "handle": "@aurelia",
+        "handle": "",
         "slideCount": "6"
       }
     },
     {
       "layoutId": "body-cream-gold",
       "slots": {
-        "brand": "AURELIA",
+        "brand": "",
         "pageOf": "ii / viii",
         "number": "I",
         "numberLabel": "Habit",
         "titleMain": "The Relentless",
         "titleItalic": "Routine",
         "body": "Small actions repeated without spectacle outperform sporadic bursts of genius. The calendar favors those who treat craft as a covenant, not a mood.",
-        "handle": "@aurelia"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-cream-gold",
       "slots": {
-        "brand": "AURELIA",
+        "brand": "",
         "pageOf": "iii / viii",
         "number": "II",
         "numberLabel": "Habit",
         "titleMain": "Protect Your",
         "titleItalic": "Attention",
         "body": "In an economy of noise, the ability to do deep work is an unspoken luxury. Guard your focus as jealously as a treasury, for it compounds in silence.",
-        "handle": "@aurelia"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-cream-gold",
       "slots": {
-        "brand": "AURELIA",
+        "brand": "",
         "pageOf": "iv / viii",
         "number": "III",
         "numberLabel": "Habit",
         "titleMain": "Build True",
         "titleItalic": "Equity",
         "body": "Careers are not built on contacts collected, but on trust accumulated over years. Invest in people before you need the return; capital follows character.",
-        "handle": "@aurelia"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-cream-gold",
       "slots": {
-        "brand": "AURELIA",
+        "brand": "",
         "pageOf": "v / viii",
         "number": "IV",
         "numberLabel": "Habit",
         "titleMain": "Sacred Reputation",
         "titleItalic": "First",
         "body": "A reputation is the only asset that appreciates while you sleep and collapses in an afternoon. Treat it as your most illiquid and precious holding.",
-        "handle": "@aurelia"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-cream-gold",
       "slots": {
-        "brand": "AURELIA",
+        "brand": "",
         "pageOf": "vi / viii",
         "number": "V",
         "numberLabel": "Habit",
         "titleMain": "Master Strategic",
         "titleItalic": "Patience",
         "body": "The market rewards those who can defer gratification longer than their competitors. Time is the final arbitrage; those who wait with intent win.",
-        "handle": "@aurelia"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-cream-gold",
       "slots": {
-        "brand": "AURELIA",
+        "brand": "",
         "pageOf": "vii / viii",
         "number": "VI",
         "numberLabel": "Habit",
         "titleMain": "Never Stop",
         "titleItalic": "Learning",
         "body": "Curiosity is the hedge against obsolescence in a world that rewrites its rules overnight. Read widely, think deeply, and remain eternally teachable.",
-        "handle": "@aurelia"
+        "handle": ""
       }
     },
     {
       "layoutId": "cta-cream-gold",
       "slots": {
-        "brand": "AURELIA",
+        "brand": "",
         "pageOf": "viii / viii",
         "eyebrow": "THE LONG GAME",
         "headlineMain": "Start Your",
         "headlineItalic": "Legacy",
         "body": "Mastery is not a milestone. It is a practice. Begin today.",
         "buttonLabel": "SAVE THIS POST",
-        "handle": "@aurelia"
+        "handle": ""
       }
     }
   ]

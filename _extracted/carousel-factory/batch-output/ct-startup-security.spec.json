@@ -7,8 +7,8 @@
     {
       "layoutId": "cover-cream-table",
       "slots": {
-        "brandTag": "SECURITY",
-        "handle": "@startupsec",
+        "brandTag": "",
+        "handle": "",
         "eyebrow": "the only audit-ready stack",
         "titleLine1": "6 security",
         "titleAccent": "tools",
@@ -37,7 +37,7 @@
       "layoutId": "body-cream-table",
       "slots": {
         "numLabel": "TOOL 01",
-        "handle": "@startupsec",
+        "handle": "",
         "iconSlug1": "vanta",
         "toolTagline": "The fastest way to get audit-ready and close enterprise deals.",
         "bigStatement": "Vanta automates <em>80%</em> of your security compliance workload so you can ship <em>SOC 2</em> in weeks, not quarters.",
@@ -64,7 +64,7 @@
       "layoutId": "body-cream-table",
       "slots": {
         "numLabel": "TOOL 02",
-        "handle": "@startupsec",
+        "handle": "",
         "iconSlug1": "snyk",
         "toolTagline": "Developer-first security that scans code, dependencies, and containers.",
         "bigStatement": "Snyk finds <em>vulnerabilities</em> in your open-source dependencies before attackers do, keeping your <em>CI/CD</em> pipeline clean.",
@@ -91,7 +91,7 @@
       "layoutId": "body-cream-table",
       "slots": {
         "numLabel": "TOOL 03",
-        "handle": "@startupsec",
+        "handle": "",
         "iconSlug1": "cloudflare",
         "toolTagline": "Zero Trust networking and application firewall for modern teams.",
         "bigStatement": "Cloudflare replaces your <em>VPN</em> with a Zero Trust gateway and blocks <em>DDoS</em> attacks before they touch your origin.",
@@ -118,7 +118,7 @@
       "layoutId": "body-cream-table",
       "slots": {
         "numLabel": "TOOL 04",
-        "handle": "@startupsec",
+        "handle": "",
         "iconSlug1": "github",
         "toolTagline": "Advanced security scanning baked into every pull request.",
         "bigStatement": "GitHub Advanced Security flags <em>secrets</em> and dependency risks in <em>real time</em>, turning every repo into a hardened asset.",
@@ -145,7 +145,7 @@
       "layoutId": "body-cream-table",
       "slots": {
         "numLabel": "TOOL 05",
-        "handle": "@startupsec",
+        "handle": "",
         "iconSlug1": "1password",
         "toolTagline": "The enterprise password and secrets manager built for fast teams.",
         "bigStatement": "1Password eliminates <em>shared spreadsheets</em> and gives every developer vault-level access with <em>full audit logs</em>.",
@@ -172,7 +172,7 @@
       "layoutId": "body-cream-table",
       "slots": {
         "numLabel": "TOOL 06",
-        "handle": "@startupsec",
+        "handle": "",
         "iconSlug1": "crowdstrike",
         "toolTagline": "Lightweight endpoint detection and response for lean startups.",
         "bigStatement": "CrowdStrike stops <em>breaches</em> on laptops and servers with AI-driven threat detection and <em>instant remediation</em>.",
@@ -198,8 +198,8 @@
     {
       "layoutId": "cta-cream-table",
       "slots": {
-        "brandTag": "WRAP",
-        "handle": "@startupsec",
+        "brandTag": "",
+        "handle": "",
         "eyebrow": "audit-ready in 30 days",
         "titleLine1": "Deploy this",
         "titleAccent": "security stack",

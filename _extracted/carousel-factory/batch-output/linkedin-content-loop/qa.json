@@ -5,15 +5,11 @@
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/linkedin-content-loop/slide-01.png",
       "bytes": 249270,
       "qa": {
-        "verdict": "fail",
+        "verdict": "pass",
         "checks": {
-          "has_frame": false,
-          "no_unfilled_slots": true,
-          "has_page_badge": false
+          "no_unfilled_slots": true
         },
-        "issues": [
-          "missing .frame container"
-        ]
+        "issues": []
       },
       "fingerprint": {
         "layout": "unknown",
@@ -25,18 +21,14 @@
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/linkedin-content-loop/slide-02.png",
       "bytes": 224023,
       "qa": {
-        "verdict": "fail",
+        "verdict": "pass",
         "checks": {
-          "has_frame": false,
           "no_unfilled_slots": true,
-          "has_page_badge": false,
           "body_text_present": true,
           "body_text_in_bounds": true,
           "body_text_no_overflow": true
         },
-        "issues": [
-          "missing .frame container"
-        ]
+        "issues": []
       },
       "fingerprint": {
         "layout": "unknown",
@@ -55,18 +47,14 @@
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/linkedin-content-loop/slide-03.png",
       "bytes": 224822,
       "qa": {
-        "verdict": "fail",
+        "verdict": "pass",
         "checks": {
-          "has_frame": false,
           "no_unfilled_slots": true,
-          "has_page_badge": false,
           "body_text_present": true,
           "body_text_in_bounds": true,
           "body_text_no_overflow": true
         },
-        "issues": [
-          "missing .frame container"
-        ]
+        "issues": []
       },
       "fingerprint": {
         "layout": "unknown",
@@ -85,18 +73,14 @@
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/linkedin-content-loop/slide-04.png",
       "bytes": 228602,
       "qa": {
-        "verdict": "fail",
+        "verdict": "pass",
         "checks": {
-          "has_frame": false,
           "no_unfilled_slots": true,
-          "has_page_badge": false,
           "body_text_present": true,
           "body_text_in_bounds": true,
           "body_text_no_overflow": true
         },
-        "issues": [
-          "missing .frame container"
-        ]
+        "issues": []
       },
       "fingerprint": {
         "layout": "unknown",
@@ -115,18 +99,14 @@
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/linkedin-content-loop/slide-05.png",
       "bytes": 225891,
       "qa": {
-        "verdict": "fail",
+        "verdict": "pass",
         "checks": {
-          "has_frame": false,
           "no_unfilled_slots": true,
-          "has_page_badge": false,
           "body_text_present": true,
           "body_text_in_bounds": true,
           "body_text_no_overflow": true
         },
-        "issues": [
-          "missing .frame container"
-        ]
+        "issues": []
       },
       "fingerprint": {
         "layout": "unknown",
@@ -145,18 +125,14 @@
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/linkedin-content-loop/slide-06.png",
       "bytes": 222224,
       "qa": {
-        "verdict": "fail",
+        "verdict": "pass",
         "checks": {
-          "has_frame": false,
           "no_unfilled_slots": true,
-          "has_page_badge": false,
           "body_text_present": true,
           "body_text_in_bounds": true,
           "body_text_no_overflow": true
         },
-        "issues": [
-          "missing .frame container"
-        ]
+        "issues": []
       },
       "fingerprint": {
         "layout": "unknown",
@@ -175,18 +151,14 @@
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/linkedin-content-loop/slide-07.png",
       "bytes": 227593,
       "qa": {
-        "verdict": "fail",
+        "verdict": "pass",
         "checks": {
-          "has_frame": false,
           "no_unfilled_slots": true,
-          "has_page_badge": false,
           "body_text_present": true,
           "body_text_in_bounds": true,
           "body_text_no_overflow": true
         },
-        "issues": [
-          "missing .frame container"
-        ]
+        "issues": []
       },
       "fingerprint": {
         "layout": "unknown",
@@ -203,17 +175,13 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/linkedin-content-loop/slide-08.png",
-      "bytes": 68328,
+      "bytes": 66433,
       "qa": {
-        "verdict": "fail",
+        "verdict": "pass",
         "checks": {
-          "has_frame": false,
-          "no_unfilled_slots": true,
-          "has_page_badge": false
+          "no_unfilled_slots": true
         },
-        "issues": [
-          "missing .frame container"
-        ]
+        "issues": []
       },
       "fingerprint": {
         "layout": "unknown",

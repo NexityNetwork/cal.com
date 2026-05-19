@@ -7,8 +7,8 @@
     {
       "layoutId": "cover-personal-essay",
       "slots": {
-        "brandTag": "ESSAY",
-        "handle": "@alexvert",
+        "brandTag": "",
+        "handle": "",
         "eyebrow": "the only vertical AI that",
         "titleLine1": "we shipped",
         "titleUnderline": "five AI",
@@ -35,7 +35,7 @@
       "layoutId": "body-personal-essay",
       "slots": {
         "numLabel": "STORY 02",
-        "handle": "@alexvert",
+        "handle": "",
         "sectionLabel": "the real cost",
         "title": "Pick a niche",
         "titleUnderline": "so narrow",
@@ -69,7 +69,7 @@
       "layoutId": "body-personal-essay",
       "slots": {
         "numLabel": "STORY 03",
-        "handle": "@alexvert",
+        "handle": "",
         "sectionLabel": "build cheap",
         "title": "Ship with",
         "titleUnderline": "no-code",
@@ -103,7 +103,7 @@
       "layoutId": "body-personal-essay",
       "slots": {
         "numLabel": "STORY 04",
-        "handle": "@alexvert",
+        "handle": "",
         "sectionLabel": "price to value",
         "title": "Price by",
         "titleUnderline": "outcome",
@@ -137,7 +137,7 @@
       "layoutId": "body-personal-essay",
       "slots": {
         "numLabel": "STORY 05",
-        "handle": "@alexvert",
+        "handle": "",
         "sectionLabel": "distribution first",
         "title": "Sell before",
         "titleUnderline": "you build",
@@ -171,7 +171,7 @@
       "layoutId": "body-personal-essay",
       "slots": {
         "numLabel": "STORY 06",
-        "handle": "@alexvert",
+        "handle": "",
         "sectionLabel": "team & ops",
         "title": "Run with",
         "titleUnderline": "tiny",
@@ -205,7 +205,7 @@
       "layoutId": "body-personal-essay",
       "slots": {
         "numLabel": "STORY 07",
-        "handle": "@alexvert",
+        "handle": "",
         "sectionLabel": "what breaks",
         "title": "Watch the",
         "titleUnderline": "burn",
@@ -238,8 +238,8 @@
     {
       "layoutId": "cta-personal-essay",
       "slots": {
-        "brandTag": "WRAP",
-        "handle": "@alexvert",
+        "brandTag": "",
+        "handle": "",
         "eyebrow": "if this helped you",
         "ctaLine1": "save this",
         "ctaAccent": "for later",

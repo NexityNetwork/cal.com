@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/tile-typography-systems/slide-01.png",
-      "bytes": 58081,
+      "bytes": 52367,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -19,7 +19,7 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/tile-typography-systems/slide-02.png",
-      "bytes": 77218,
+      "bytes": 71834,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -35,7 +35,7 @@
     {
       "index": 2,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/tile-typography-systems/slide-03.png",
-      "bytes": 74984,
+      "bytes": 69530,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -51,7 +51,7 @@
     {
       "index": 3,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/tile-typography-systems/slide-04.png",
-      "bytes": 78436,
+      "bytes": 72996,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -67,7 +67,7 @@
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/tile-typography-systems/slide-05.png",
-      "bytes": 88624,
+      "bytes": 83293,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -83,7 +83,7 @@
     {
       "index": 5,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/tile-typography-systems/slide-06.png",
-      "bytes": 85621,
+      "bytes": 80333,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -99,7 +99,7 @@
     {
       "index": 6,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/tile-typography-systems/slide-07.png",
-      "bytes": 81314,
+      "bytes": 75921,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -115,7 +115,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/tile-typography-systems/slide-08.png",
-      "bytes": 77724,
+      "bytes": 72481,
       "qa": {
         "verdict": "pass",
         "checks": {

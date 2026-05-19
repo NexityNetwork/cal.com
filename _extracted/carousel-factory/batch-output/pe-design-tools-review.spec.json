@@ -7,8 +7,8 @@
     {
       "layoutId": "cover-personal-essay",
       "slots": {
-        "brandTag": "ESSAY",
-        "handle": "@saralin",
+        "brandTag": "",
+        "handle": "",
         "eyebrow": "after thirty days of testing",
         "titleLine1": "actually changed",
         "titleUnderline": "my design",
@@ -35,7 +35,7 @@
       "layoutId": "body-personal-essay",
       "slots": {
         "numLabel": "STORY 02",
-        "handle": "@saralin",
+        "handle": "",
         "sectionLabel": "the noise",
         "title": "Most tools were",
         "titleUnderline": "just GPT",
@@ -69,7 +69,7 @@
       "layoutId": "body-personal-essay",
       "slots": {
         "numLabel": "STORY 03",
-        "handle": "@saralin",
+        "handle": "",
         "sectionLabel": "winner one",
         "title": "Figma reads",
         "titleUnderline": "my mind",
@@ -103,7 +103,7 @@
       "layoutId": "body-personal-essay",
       "slots": {
         "numLabel": "STORY 04",
-        "handle": "@saralin",
+        "handle": "",
         "sectionLabel": "winner two",
         "title": "Moodboards died",
         "titleUnderline": "in four",
@@ -137,7 +137,7 @@
       "layoutId": "body-personal-essay",
       "slots": {
         "numLabel": "STORY 05",
-        "handle": "@saralin",
+        "handle": "",
         "sectionLabel": "winner three",
         "title": "Sites ship",
         "titleUnderline": "before",
@@ -171,7 +171,7 @@
       "layoutId": "body-personal-essay",
       "slots": {
         "numLabel": "STORY 06",
-        "handle": "@saralin",
+        "handle": "",
         "sectionLabel": "the pattern",
         "title": "Speed beats",
         "titleUnderline": "features",
@@ -205,7 +205,7 @@
       "layoutId": "body-personal-essay",
       "slots": {
         "numLabel": "STORY 07",
-        "handle": "@saralin",
+        "handle": "",
         "sectionLabel": "new stack",
         "title": "My toolkit",
         "titleUnderline": "shrunk to",
@@ -238,8 +238,8 @@
     {
       "layoutId": "cta-personal-essay",
       "slots": {
-        "brandTag": "OUTRO",
-        "handle": "@saralin",
+        "brandTag": "",
+        "handle": "",
         "eyebrow": "if this helped you",
         "ctaLine1": "save this",
         "ctaAccent": "for later",

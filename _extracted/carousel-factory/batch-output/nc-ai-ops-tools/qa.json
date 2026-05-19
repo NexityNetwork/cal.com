@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/nc-ai-ops-tools/slide-01.png",
-      "bytes": 216936,
+      "bytes": 214581,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -19,7 +19,7 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/nc-ai-ops-tools/slide-02.png",
-      "bytes": 103046,
+      "bytes": 101839,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -35,7 +35,7 @@
     {
       "index": 2,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/nc-ai-ops-tools/slide-03.png",
-      "bytes": 105249,
+      "bytes": 104099,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -51,7 +51,7 @@
     {
       "index": 3,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/nc-ai-ops-tools/slide-04.png",
-      "bytes": 103293,
+      "bytes": 102204,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -67,7 +67,7 @@
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/nc-ai-ops-tools/slide-05.png",
-      "bytes": 97291,
+      "bytes": 96151,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -83,7 +83,7 @@
     {
       "index": 5,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/nc-ai-ops-tools/slide-06.png",
-      "bytes": 101144,
+      "bytes": 100023,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -99,7 +99,7 @@
     {
       "index": 6,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/nc-ai-ops-tools/slide-07.png",
-      "bytes": 105590,
+      "bytes": 104494,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -115,7 +115,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/nc-ai-ops-tools/slide-08.png",
-      "bytes": 209536,
+      "bytes": 206561,
       "qa": {
         "verdict": "pass",
         "checks": {

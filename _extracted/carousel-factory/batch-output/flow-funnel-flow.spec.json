@@ -8,7 +8,7 @@
       "layoutId": "cover-flowchart",
       "slots": {
         "number": "01",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "Recurring Revenue Funnel",
         "subtitle": "The 4-step system that transforms strangers into loyal subscribers.",
         "check1": "Maps every stage from first click to monthly billing",
@@ -32,7 +32,7 @@
       "layoutId": "body-flowchart",
       "slots": {
         "number": "02",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "Funnel Blueprint",
         "subtitle": "One predictable path replaces random posting and inconsistent sales.",
         "check1": "Aligns content, offer, and follow-up into one machine",
@@ -46,7 +46,7 @@
       "layoutId": "body-flowchart",
       "slots": {
         "number": "03",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "Attract Cold Eyes",
         "subtitle": "Paid or organic traffic lands on a single, focused entry point.",
         "check1": "Targets one pain point to filter qualified visitors fast",
@@ -60,7 +60,7 @@
       "layoutId": "body-flowchart",
       "slots": {
         "number": "04",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "Capture Leads",
         "subtitle": "Trade instant value for an email address you can nurture.",
         "check1": "Lead magnet solves an urgent micro-problem in ten minutes",
@@ -74,7 +74,7 @@
       "layoutId": "body-flowchart",
       "slots": {
         "number": "05",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "Monetize Fast",
         "subtitle": "Offer a low-risk paid step that proves serious intent.",
         "check1": "Tripwire or core offer is priced to remove hesitation",
@@ -88,7 +88,7 @@
       "layoutId": "body-flowchart",
       "slots": {
         "number": "06",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "Recurring Revenue",
         "subtitle": "Convert buyers into members with a subscription or retainer.",
         "check1": "Recurring offer extends the result, not just repeats it",
@@ -102,7 +102,7 @@
       "layoutId": "body-flowchart",
       "slots": {
         "number": "07",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "Full System Map",
         "subtitle": "All four stages connect into one self-reinforcing profit loop.",
         "check1": "Data from retention feeds better front-end targeting",
@@ -116,7 +116,7 @@
       "layoutId": "cta-flowchart",
       "slots": {
         "number": "08",
-        "handle": "@usevisuals",
+        "handle": "",
         "eyebrow": "YOUR MOVE",
         "headlineLine1": "Build the",
         "headlineLine2": "Funnel Now",

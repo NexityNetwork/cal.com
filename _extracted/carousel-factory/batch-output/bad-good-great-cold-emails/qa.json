@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/bad-good-great-cold-emails/slide-01.png",
-      "bytes": 83265,
+      "bytes": 80168,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -115,7 +115,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/bad-good-great-cold-emails/slide-08.png",
-      "bytes": 102469,
+      "bytes": 99175,
       "qa": {
         "verdict": "pass",
         "checks": {

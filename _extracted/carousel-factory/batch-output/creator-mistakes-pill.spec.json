@@ -7,7 +7,7 @@
     {
       "layoutId": "cover-condensed-pill",
       "slots": {
-        "brand": "Alex Chen",
+        "brand": "",
         "preLine": "The 6",
         "pillText": "COSTLY MISTAKES",
         "postLine": "that cost 2 years & $40K",
@@ -17,7 +17,7 @@
     {
       "layoutId": "body-condensed-pill",
       "slots": {
-        "brand": "Alex Chen",
+        "brand": "",
         "number": "01",
         "numberLabel": "Mistake No.",
         "title": "PERFECTION",
@@ -28,7 +28,7 @@
     {
       "layoutId": "body-condensed-pill",
       "slots": {
-        "brand": "Alex Chen",
+        "brand": "",
         "number": "02",
         "numberLabel": "Mistake No.",
         "title": "TREND CHASING",
@@ -39,7 +39,7 @@
     {
       "layoutId": "body-condensed-pill",
       "slots": {
-        "brand": "Alex Chen",
+        "brand": "",
         "number": "03",
         "numberLabel": "Mistake No.",
         "title": "NO LIST",
@@ -50,7 +50,7 @@
     {
       "layoutId": "body-condensed-pill",
       "slots": {
-        "brand": "Alex Chen",
+        "brand": "",
         "number": "04",
         "numberLabel": "Mistake No.",
         "title": "UNDERCHARGING",
@@ -61,7 +61,7 @@
     {
       "layoutId": "body-condensed-pill",
       "slots": {
-        "brand": "Alex Chen",
+        "brand": "",
         "number": "05",
         "numberLabel": "Mistake No.",
         "title": "NO SYSTEMS",
@@ -72,7 +72,7 @@
     {
       "layoutId": "body-condensed-pill",
       "slots": {
-        "brand": "Alex Chen",
+        "brand": "",
         "number": "06",
         "numberLabel": "Mistake No.",
         "title": "IGNORING DATA",
@@ -83,7 +83,7 @@
     {
       "layoutId": "cta-condensed-pill",
       "slots": {
-        "brand": "Alex Chen",
+        "brand": "",
         "eyebrow": "YOUR TURN",
         "headline": "BUILD SMART",
         "body": "Steal my playbook and skip the expensive lessons. Your next two years can look very different.",

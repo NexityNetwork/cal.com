@@ -7,8 +7,8 @@
     {
       "layoutId": "cover-terminal-glow",
       "slots": {
-        "brandTag": "SHELL",
-        "handle": "@shellstack",
+        "brandTag": "",
+        "handle": "",
         "termTitle": "~/stack/modern-shell.yml",
         "cmdLine": "cat tricks.md | rg 'senior' | wc -l",
         "outLine": "found 5 battle-tested",
@@ -38,7 +38,7 @@
       "layoutId": "body-terminal-glow",
       "slots": {
         "numLabel": "CMD 01",
-        "handle": "@shellstack",
+        "handle": "",
         "sectionLabel": "TRICK 01",
         "title": "Fuzzy find with",
         "titleAccent": "fzf",
@@ -73,7 +73,7 @@
       "layoutId": "body-terminal-glow",
       "slots": {
         "numLabel": "CMD 02",
-        "handle": "@shellstack",
+        "handle": "",
         "sectionLabel": "TRICK 02",
         "title": "Jump directories with",
         "titleAccent": "zoxide",
@@ -108,7 +108,7 @@
       "layoutId": "body-terminal-glow",
       "slots": {
         "numLabel": "CMD 03",
-        "handle": "@shellstack",
+        "handle": "",
         "sectionLabel": "TRICK 03",
         "title": "List files with",
         "titleAccent": "eza",
@@ -143,7 +143,7 @@
       "layoutId": "body-terminal-glow",
       "slots": {
         "numLabel": "CMD 04",
-        "handle": "@shellstack",
+        "handle": "",
         "sectionLabel": "TRICK 04",
         "title": "Grep code with",
         "titleAccent": "ripgrep",
@@ -178,7 +178,7 @@
       "layoutId": "body-terminal-glow",
       "slots": {
         "numLabel": "CMD 05",
-        "handle": "@shellstack",
+        "handle": "",
         "sectionLabel": "TRICK 05",
         "title": "Cat files with",
         "titleAccent": "bat",
@@ -213,7 +213,7 @@
       "layoutId": "body-terminal-glow",
       "slots": {
         "numLabel": "CMD 06",
-        "handle": "@shellstack",
+        "handle": "",
         "sectionLabel": "BONUS TIP",
         "title": "Pipe them",
         "titleAccent": "together",
@@ -247,8 +247,8 @@
     {
       "layoutId": "cta-terminal-glow",
       "slots": {
-        "brandTag": "STACK",
-        "handle": "@shellstack",
+        "brandTag": "",
+        "handle": "",
         "intro": "now go ship faster",
         "ctaLine1": "Save this",
         "ctaAccent": "shell stack",

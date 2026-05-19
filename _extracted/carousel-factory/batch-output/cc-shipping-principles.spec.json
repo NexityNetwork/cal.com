@@ -8,14 +8,14 @@
       "layoutId": "cover-cream-claude",
       "slots": {
         "tag": "SHIPPING",
-        "handle": "ship.51ultron.com",
+        "handle": "",
         "eyebrow": "Daily deploys, zero drama",
         "titleLine1": "6 PRINCIPLES",
         "titleAccent": "I STOLE",
         "titleItalic": "from the best",
         "subEyebrow": "HOW THEY SHIP",
         "subText": "Teams that release daily don't move fast because they're reckless. They move fast because they built <em>systems that make shipping boring</em>.",
-        "domainText": "ship.51ultron.com",
+        "domainText": "",
         "swipeNote": "READ"
       }
     },
@@ -37,7 +37,7 @@
         "b1Body": "If something breaks, you know exactly which two lines caused it.",
         "b2Title": "SHORTER REVIEW CYCLES",
         "b2Body": "Peers can review fifty lines in minutes, not five hundred in days.",
-        "domainText": "ship.51ultron.com",
+        "domainText": "",
         "pageOf": "02 / 08"
       }
     },
@@ -59,7 +59,7 @@
         "b1Body": "Integrating daily means conflicts resolve while they're still small.",
         "b2Title": "KEEP MAIN SHIPPABLE",
         "b2Body": "Main is production-ready at any moment, not just at sprint end.",
-        "domainText": "ship.51ultron.com",
+        "domainText": "",
         "pageOf": "03 / 08"
       }
     },
@@ -81,7 +81,7 @@
         "b1Body": "Push code to production even when the full feature isn't user-ready yet.",
         "b2Title": "KILL WITHOUT ROLLBACK",
         "b2Body": "Turn off a flag in seconds instead of reverting an entire release.",
-        "domainText": "ship.51ultron.com",
+        "domainText": "",
         "pageOf": "04 / 08"
       }
     },
@@ -103,7 +103,7 @@
         "b1Body": "Developers learn they broke something before they context-switch away.",
         "b2Title": "NO HUMAN BOTTLENECK",
         "b2Body": "Shipping isn't gated on someone manually clicking through staging at 5 PM.",
-        "domainText": "ship.51ultron.com",
+        "domainText": "",
         "pageOf": "05 / 08"
       }
     },
@@ -125,7 +125,7 @@
         "b1Body": "Dashboards and alerts surface issues before users flood support channels.",
         "b2Title": "FIX WITHOUT REVERTING",
         "b2Body": "Forward-fix culture keeps momentum; rollbacks are the last resort.",
-        "domainText": "ship.51ultron.com",
+        "domainText": "",
         "pageOf": "06 / 08"
       }
     },
@@ -147,7 +147,7 @@
         "b1Body": "Psychological safety means people admit mistakes so systems improve.",
         "b2Title": "WRITE REPEATABLE RUNBOOKS",
         "b2Body": "Documented steps turn heroics into habits anyone can execute.",
-        "domainText": "ship.51ultron.com",
+        "domainText": "",
         "pageOf": "07 / 08"
       }
     },
@@ -163,7 +163,7 @@
         "btnPrimary": "START SMALL",
         "btnGhost": "READ MORE",
         "signoff": "Ship calm, ship often",
-        "domainText": "ship.51ultron.com",
+        "domainText": "",
         "pageOf": "08 / 08"
       }
     }

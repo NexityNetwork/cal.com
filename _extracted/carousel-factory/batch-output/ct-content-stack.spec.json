@@ -7,8 +7,8 @@
     {
       "layoutId": "cover-cream-table",
       "slots": {
-        "brandTag": "CREATOR STACK",
-        "handle": "@alexrivera",
+        "brandTag": "",
+        "handle": "",
         "eyebrow": "the only toolkit I use",
         "titleLine1": "5 free",
         "titleAccent": "content tools",
@@ -37,7 +37,7 @@
       "layoutId": "body-cream-table",
       "slots": {
         "numLabel": "TOOL 01",
-        "handle": "@alexrivera",
+        "handle": "",
         "iconSlug1": "notion",
         "toolTagline": "The command center for every piece of content you publish.",
         "bigStatement": "Replaces your <em>content calendar</em>, script bank and client wiki with <em>one database</em>.",
@@ -64,7 +64,7 @@
       "layoutId": "body-cream-table",
       "slots": {
         "numLabel": "TOOL 02",
-        "handle": "@alexrivera",
+        "handle": "",
         "iconSlug1": "canva",
         "toolTagline": "Design studio that turns non-designers into polished brand builders overnight.",
         "bigStatement": "Drop your <em>brand kit</em> in once, then resize campaigns for <em>every platform</em> instantly.",
@@ -91,7 +91,7 @@
       "layoutId": "body-cream-table",
       "slots": {
         "numLabel": "TOOL 03",
-        "handle": "@alexrivera",
+        "handle": "",
         "iconSlug1": "descript",
         "toolTagline": "A video editor that works exactly like a Google Doc.",
         "bigStatement": "Cut filler words, add captions and publish to <em>YouTube</em> without touching a <em>timeline</em>.",
@@ -118,7 +118,7 @@
       "layoutId": "body-cream-table",
       "slots": {
         "numLabel": "TOOL 04",
-        "handle": "@alexrivera",
+        "handle": "",
         "iconSlug1": "openai",
         "toolTagline": "Your 24/7 research assistant, copy editor and headline lab rolled into one.",
         "bigStatement": "Turn a <em>half-formed idea</em> into a full outline, hook and <em>SEO title</em> before lunch.",
@@ -145,7 +145,7 @@
       "layoutId": "body-cream-table",
       "slots": {
         "numLabel": "TOOL 05",
-        "handle": "@alexrivera",
+        "handle": "",
         "iconSlug1": "buffer",
         "toolTagline": "The quiet engine that publishes while you sleep or build.",
         "bigStatement": "Queue a <em>month of content</em> in one sitting, then let it <em>auto-post</em> everywhere.",
@@ -172,7 +172,7 @@
       "layoutId": "body-cream-table",
       "slots": {
         "numLabel": "TOOL 06",
-        "handle": "@alexrivera",
+        "handle": "",
         "iconSlug1": "copyai",
         "toolTagline": "Long-form sales copy and ad variants written from a single prompt.",
         "bigStatement": "Produce <em>landing pages</em>, emails and ad sets in your exact <em>brand voice</em> at scale.",
@@ -198,8 +198,8 @@
     {
       "layoutId": "cta-cream-table",
       "slots": {
-        "brandTag": "WRAP",
-        "handle": "@alexrivera",
+        "brandTag": "",
+        "handle": "",
         "eyebrow": "build your own stack",
         "titleLine1": "Replace the agency",
         "titleAccent": "today",

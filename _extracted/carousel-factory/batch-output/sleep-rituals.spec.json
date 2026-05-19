@@ -7,89 +7,89 @@
     {
       "layoutId": "cover-dark-green-serif",
       "slots": {
-        "brand": "NIGHTWELL",
+        "brand": "",
         "pageOf": "01 OF 08",
         "headline": "Could Five Steps Fix Insomnia?",
         "subtitle": "A simple nightly routine that finally put my racing mind to bed.",
         "stickerText": "5 STEPS",
-        "handle": "@nightwell"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-dark-green-serif",
       "slots": {
-        "brand": "NIGHTWELL",
+        "brand": "",
         "pageOf": "02 OF 08",
         "number": "01",
         "title": "Start The Wind-Down Hour",
         "body": "I used to scroll until 2 AM. Now I power down all screens sixty minutes before sleep. That single boundary changed everything. My brain finally got the memo that day was done.",
-        "handle": "@nightwell"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-dark-green-serif",
       "slots": {
-        "brand": "NIGHTWELL",
+        "brand": "",
         "pageOf": "03 OF 08",
         "number": "02",
         "title": "Dim The Lights Early",
         "body": "Bright bulbs trick your circadian rhythm into thinking it is still noon. I switch to lamps and candles at 9 PM sharp. The instant darkness signals melatonin to start its shift.",
-        "handle": "@nightwell"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-dark-green-serif",
       "slots": {
-        "brand": "NIGHTWELL",
+        "brand": "",
         "pageOf": "04 OF 08",
         "number": "03",
         "title": "Brain Dump On Paper",
         "body": "Anxious thoughts love to party at midnight. I spend five minutes jotting every worry and task into a cheap notebook. Once they live on paper, my mind stops rehearsing them.",
-        "handle": "@nightwell"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-dark-green-serif",
       "slots": {
-        "brand": "NIGHTWELL",
+        "brand": "",
         "pageOf": "05 OF 08",
         "number": "04",
         "title": "Take A Warm Shower",
         "body": "Heat raises your core temperature. The cool-down period afterward mimics the natural drop your body needs to fall asleep. I emerge relaxed, drowsy, and ready to collapse.",
-        "handle": "@nightwell"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-dark-green-serif",
       "slots": {
-        "brand": "NIGHTWELL",
+        "brand": "",
         "pageOf": "06 OF 08",
         "number": "05",
         "title": "Read A Paper Book",
         "body": "No tablets, no phones, no exceptions. I keep a stack of boring paperbacks on my nightstand. Ten pages of mediocre fiction and my eyelids start their descent.",
-        "handle": "@nightwell"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-dark-green-serif",
       "slots": {
-        "brand": "NIGHTWELL",
+        "brand": "",
         "pageOf": "07 OF 08",
         "number": "06",
         "title": "Box Breathing In Bed",
         "body": "I inhale for four, hold for four, exhale for four. This simple box pattern slows my heart rate and dissolves the static. Sleep arrives instead of frustration.",
-        "handle": "@nightwell"
+        "handle": ""
       }
     },
     {
       "layoutId": "cta-dark-green-serif",
       "slots": {
-        "brand": "NIGHTWELL",
+        "brand": "",
         "eyebrow": "START TONIGHT",
         "headline": "Reclaim Your Rest Tonight",
         "body": "Save this post and try the full ritual tonight. Your best sleep might be one routine away.",
         "buttonLabel": "SAVE THIS",
-        "handle": "@nightwell"
+        "handle": ""
       }
     }
   ]

@@ -1,0 +1,127 @@
+{
+  "id": "fdr-micro-saas-play",
+  "brand": "Nico Reed",
+  "brief": "The micro-SaaS with AI play. How solo founders are reaching $20k MRR with single-feature tools and tight niches — and what to avoid.",
+  "theme": "linkedin-pro",
+  "slides": [
+    {
+      "layoutId": "cover-linkedin-pro",
+      "slots": {
+        "author": "Nico Reed",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "1",
+        "accentColor": "#4f3df5",
+        "headline": "The Micro-SaaS AI Playbook",
+        "heroSymbol": "🤖",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#06b6d4",
+        "body": "Solo founders are hitting $20k MRR with tiny AI tools. Here's the blueprint and the pitfalls to avoid."
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Nico Reed",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "2",
+        "accentColor": "#4f3df5",
+        "title": "Pick a Painful Niche",
+        "body": "Don't build for everyone. The richest micro-SaaS products solve one expensive problem for one specific audience.",
+        "heroSymbol": "🎯",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#06b6d4",
+        "labelText": "Micro-SaaS Playbook"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Nico Reed",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "3",
+        "accentColor": "#4f3df5",
+        "title": "Ship One Killer Feature",
+        "body": "Users don't want dashboards. They want outcomes. Build the single AI feature that delivers instant, obvious value.",
+        "heroSymbol": "🔥",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#06b6d4",
+        "labelText": "Micro-SaaS Playbook"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Nico Reed",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "4",
+        "accentColor": "#4f3df5",
+        "title": "Price for Value, Not Cost",
+        "body": "If your AI tool saves 10 hours, charge accordingly. $49–$99/mo is the sweet spot for B2B micro-tools.",
+        "heroSymbol": "💰",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#06b6d4",
+        "labelText": "Micro-SaaS Playbook"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Nico Reed",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "5",
+        "accentColor": "#4f3df5",
+        "title": "Leverage No-Code AI APIs",
+        "body": "You don't need a PhD. Glue together GPT-4, Stripe, and a landing page. Launch in days, not months.",
+        "heroSymbol": "🔗",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#06b6d4",
+        "labelText": "Micro-SaaS Playbook"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Nico Reed",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "6",
+        "accentColor": "#4f3df5",
+        "title": "Avoid Feature Creep Early",
+        "body": "The fastest way to kill momentum is adding bloat. Say no to 90% of requests until you hit $10k MRR.",
+        "heroSymbol": "🚫",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#06b6d4",
+        "labelText": "Micro-SaaS Playbook"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Nico Reed",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "7",
+        "accentColor": "#4f3df5",
+        "title": "Distribution Beats Perfection",
+        "body": "Build in public, post daily, and DM your first 50 users. Product is useless if nobody knows it exists.",
+        "heroSymbol": "📢",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#06b6d4",
+        "labelText": "Micro-SaaS Playbook"
+      }
+    },
+    {
+      "layoutId": "cta-linkedin-pro",
+      "slots": {
+        "author": "Nico Reed",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "8",
+        "accentColor": "#4f3df5",
+        "eyebrow": "YOUR TURN?",
+        "headline": "Ready to Build Your AI Tool?",
+        "body": "Drop a comment with your niche idea. Let's discuss how to launch it this weekend.",
+        "buttonLabel": "Follow for More",
+        "secondaryLabel": "Repost",
+        "handle": ""
+      }
+    }
+  ]
+}

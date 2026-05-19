@@ -8,7 +8,7 @@
       "layoutId": "cover-before-after",
       "slots": {
         "pageOf": "01 / 08",
-        "handle": "@engineering",
+        "handle": "",
         "title": "Stop writing",
         "titleAccent": "boilerplate",
         "description": "We switched to Claude Code for 90 days. Here are six honest metrics that changed how we build software.",
@@ -30,7 +30,7 @@
       "layoutId": "body-before-after",
       "slots": {
         "slideLabel": "STEP 01 / 06",
-        "handle": "@engineering",
+        "handle": "",
         "title": "End setup",
         "titleAccent": "hell",
         "description": "Environment drift and dependency issues killed our momentum before a single line of code.",
@@ -52,7 +52,7 @@
       "layoutId": "body-before-after",
       "slots": {
         "slideLabel": "STEP 02 / 06",
-        "handle": "@engineering",
+        "handle": "",
         "title": "Ship reviews",
         "titleAccent": "same day",
         "description": "Pull requests used to sit idle waiting for senior devs to find context.",
@@ -74,7 +74,7 @@
       "layoutId": "body-before-after",
       "slots": {
         "slideLabel": "STEP 03 / 06",
-        "handle": "@engineering",
+        "handle": "",
         "title": "Stop shipping",
         "titleAccent": "silent bugs",
         "description": "Production incidents peaked every sprint because edge cases were missed in manual checks.",
@@ -96,7 +96,7 @@
       "layoutId": "body-before-after",
       "slots": {
         "slideLabel": "STEP 04 / 06",
-        "handle": "@engineering",
+        "handle": "",
         "title": "Docs write",
         "titleAccent": "themselves",
         "description": "Our wiki was a graveyard of stale screenshots and broken API references.",
@@ -118,7 +118,7 @@
       "layoutId": "body-before-after",
       "slots": {
         "slideLabel": "STEP 05 / 06",
-        "handle": "@engineering",
+        "handle": "",
         "title": "Onboard devs",
         "titleAccent": "in days",
         "description": "New engineers used to need two weeks to push their first meaningful commit.",
@@ -140,7 +140,7 @@
       "layoutId": "body-before-after",
       "slots": {
         "slideLabel": "STEP 06 / 06",
-        "handle": "@engineering",
+        "handle": "",
         "title": "Reclaim deep work",
         "titleAccent": "hours",
         "description": "Context switching between Stack Overflow and terminal shattered our flow state daily.",
@@ -162,7 +162,7 @@
       "layoutId": "cta-before-after",
       "slots": {
         "pageOf": "08 / 08",
-        "handle": "@engineering",
+        "handle": "",
         "eyebrow": "MAKE THE SWITCH",
         "headlineLine1": "Start shipping",
         "headlineAccent": "faster today",

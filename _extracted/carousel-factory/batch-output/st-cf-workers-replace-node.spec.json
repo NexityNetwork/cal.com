@@ -23,14 +23,14 @@
         "iconSlug6": "postgresql",
         "toolRole6": "SQL database store",
         "ctaText": "Read the breakdown",
-        "handle": "@edgeteam"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-stack-tour",
       "slots": {
         "slideLabel": "02 / 08",
-        "handle": "@edgeteam",
+        "handle": "",
         "iconSlug1": "cloudflare",
         "toolTagline": "Global low-latency API gateway",
         "description": "Replaced Express.js routers with lightweight Workers deployed across 300 cities.",
@@ -51,7 +51,7 @@
       "layoutId": "body-stack-tour",
       "slots": {
         "slideLabel": "03 / 08",
-        "handle": "@edgeteam",
+        "handle": "",
         "iconSlug1": "cloudflare",
         "toolTagline": "Edge server-side rendering engine",
         "description": "Moved Next.js rendering from Node.js VMs to Cloudflare edge nodes.",
@@ -72,7 +72,7 @@
       "layoutId": "body-stack-tour",
       "slots": {
         "slideLabel": "04 / 08",
-        "handle": "@edgeteam",
+        "handle": "",
         "iconSlug1": "cloudflare",
         "toolTagline": "Zero-trust authentication middleware layer",
         "description": "Replaced Node.js Passport middleware with fast edge authentication checks.",
@@ -93,7 +93,7 @@
       "layoutId": "body-stack-tour",
       "slots": {
         "slideLabel": "05 / 08",
-        "handle": "@edgeteam",
+        "handle": "",
         "iconSlug1": "cloudflare",
         "toolTagline": "Real-time image optimization pipeline",
         "description": "Eliminated Node.js image microservices using Workers for on-the-fly transforms.",
@@ -114,7 +114,7 @@
       "layoutId": "body-stack-tour",
       "slots": {
         "slideLabel": "06 / 08",
-        "handle": "@edgeteam",
+        "handle": "",
         "iconSlug1": "cloudflare",
         "toolTagline": "Feature flag routing and splitting",
         "description": "Replaced Node.js experimentation services with instant edge-level traffic splitting.",
@@ -135,7 +135,7 @@
       "layoutId": "body-stack-tour",
       "slots": {
         "slideLabel": "07 / 08",
-        "handle": "@edgeteam",
+        "handle": "",
         "iconSlug1": "cloudflare",
         "toolTagline": "Stateful WebSocket session coordination hub",
         "description": "Replaced persistent Node.js socket servers with Durable Objects coordination.",
@@ -156,7 +156,7 @@
       "layoutId": "cta-stack-tour",
       "slots": {
         "pageOf": "08 / 08",
-        "handle": "@edgeteam",
+        "handle": "",
         "eyebrow": "YOUR TURN",
         "headlineLine1": "Ditch the server.",
         "headlineLine2": "Deploy at edge.",

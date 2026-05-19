@@ -7,8 +7,8 @@
     {
       "layoutId": "cover-edu-bright",
       "slots": {
-        "brandTag": "VECTOR DB",
-        "handle": "@DataScienceTips",
+        "brandTag": "",
+        "handle": "",
         "eyebrow": "Choosing the right engine",
         "titleLine1": "Top 5",
         "titleAccent": "Vector Stores",
@@ -36,7 +36,7 @@
       "layoutId": "body-edu-bright-chart",
       "slots": {
         "numLabel": "PART 01",
-        "handle": "@DataScienceTips",
+        "handle": "",
         "sectionLabel": "BENCHMARK 01",
         "title": "Query Latency",
         "titleItalic": "at scale",
@@ -68,7 +68,7 @@
       "layoutId": "body-edu-bright-flow",
       "slots": {
         "numLabel": "PART 02",
-        "handle": "@DataScienceTips",
+        "handle": "",
         "sectionLabel": "PIPELINE 01",
         "title": "RAG Indexing",
         "titleItalic": "pipeline",
@@ -101,7 +101,7 @@
       "layoutId": "body-edu-bright-table",
       "slots": {
         "numLabel": "PART 03",
-        "handle": "@DataScienceTips",
+        "handle": "",
         "sectionLabel": "COMPARE 01",
         "title": "Cost versus",
         "titleItalic": "performance",
@@ -143,7 +143,7 @@
       "layoutId": "body-edu-bright-chart",
       "slots": {
         "numLabel": "PART 04",
-        "handle": "@DataScienceTips",
+        "handle": "",
         "sectionLabel": "BENCHMARK 02",
         "title": "Indexing Time",
         "titleItalic": "comparison",
@@ -175,7 +175,7 @@
       "layoutId": "body-edu-bright-flow",
       "slots": {
         "numLabel": "PART 05",
-        "handle": "@DataScienceTips",
+        "handle": "",
         "sectionLabel": "PIPELINE 02",
         "title": "Hybrid Search",
         "titleItalic": "workflow",
@@ -208,7 +208,7 @@
       "layoutId": "body-edu-bright-table",
       "slots": {
         "numLabel": "PART 06",
-        "handle": "@DataScienceTips",
+        "handle": "",
         "sectionLabel": "COMPARE 02",
         "title": "Feature",
         "titleItalic": "matrix",
@@ -249,8 +249,8 @@
     {
       "layoutId": "cta-edu-bright",
       "slots": {
-        "brandTag": "RECAP",
-        "handle": "@DataScienceTips",
+        "brandTag": "",
+        "handle": "",
         "eyebrow": "Choose your engine wisely",
         "ctaLine1": "Master Vector Search",
         "ctaAccent": "DB selection",

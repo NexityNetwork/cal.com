@@ -19,7 +19,7 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/dpg-keyboard-apps/slide-02.png",
-      "bytes": 120721,
+      "bytes": 118736,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -35,7 +35,7 @@
     {
       "index": 2,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/dpg-keyboard-apps/slide-03.png",
-      "bytes": 137448,
+      "bytes": 135220,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -51,7 +51,7 @@
     {
       "index": 3,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/dpg-keyboard-apps/slide-04.png",
-      "bytes": 128789,
+      "bytes": 127098,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -67,7 +67,7 @@
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/dpg-keyboard-apps/slide-05.png",
-      "bytes": 123445,
+      "bytes": 122326,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -83,7 +83,7 @@
     {
       "index": 5,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/dpg-keyboard-apps/slide-06.png",
-      "bytes": 129353,
+      "bytes": 127643,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -99,7 +99,7 @@
     {
       "index": 6,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/dpg-keyboard-apps/slide-07.png",
-      "bytes": 133639,
+      "bytes": 131743,
       "qa": {
         "verdict": "pass",
         "checks": {

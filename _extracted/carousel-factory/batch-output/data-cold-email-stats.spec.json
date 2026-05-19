@@ -8,7 +8,7 @@
       "layoutId": "cover-data-table",
       "slots": {
         "number": "01",
-        "handle": "@usevisuals",
+        "handle": "",
         "titleLine1": "Cold email open rates",
         "titleAccent": "by industry",
         "subtitle": "What is working in 2026 across six key sectors.",
@@ -25,7 +25,7 @@
       "layoutId": "body-data-table",
       "slots": {
         "number": "02",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "Healthcare opens lead every sector",
         "bigStat": "42%",
         "bigStatLabel": "Average cold open rate",
@@ -46,7 +46,7 @@
       "layoutId": "body-data-table",
       "slots": {
         "number": "03",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "Finance builds trust fast",
         "bigStat": "38%",
         "bigStatLabel": "Cold email open rate",
@@ -67,7 +67,7 @@
       "layoutId": "body-data-table",
       "slots": {
         "number": "04",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "SaaS buyers scan inboxes fast",
         "bigStat": "34%",
         "bigStatLabel": "Average open rate",
@@ -88,7 +88,7 @@
       "layoutId": "body-data-table",
       "slots": {
         "number": "05",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "Real estate relies on timing",
         "bigStat": "31%",
         "bigStatLabel": "Average open rate",
@@ -109,7 +109,7 @@
       "layoutId": "body-data-table",
       "slots": {
         "number": "06",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "Ecommerce fights inbox fatigue",
         "bigStat": "28%",
         "bigStatLabel": "Average open rate",
@@ -130,7 +130,7 @@
       "layoutId": "body-data-table",
       "slots": {
         "number": "07",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "Agencies face the steepest climb",
         "bigStat": "24%",
         "bigStatLabel": "Average open rate",
@@ -151,7 +151,7 @@
       "layoutId": "cta-data-table",
       "slots": {
         "number": "08",
-        "handle": "@usevisuals",
+        "handle": "",
         "bigStat": "10x",
         "eyebrow": "THE RESULT",
         "headline": "Better data beats more volume",

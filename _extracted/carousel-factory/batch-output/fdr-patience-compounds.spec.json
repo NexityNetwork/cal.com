@@ -1,0 +1,93 @@
+{
+  "id": "fdr-patience-compounds",
+  "brand": "Quiet Build",
+  "brief": "Patience compounds. Hype dies. A meditation on the long game for indie founders in the AI gold rush.",
+  "theme": "beige-paper",
+  "slides": [
+    {
+      "layoutId": "cover-beige-serif",
+      "slots": {
+        "brand": "",
+        "headline": "Patience Compounds While Hype Fades in the AI Gold Rush",
+        "slideCountHero": "6"
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "",
+        "number": "01",
+        "title": "Hype Is Loud",
+        "body": "AI headlines scream overnight success, but most fortunes are built in silence. The tools change; the timeline rarely does. Chasing noise distracts from the work that actually compounds.",
+        "handle": "",
+        "domain": ""
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "",
+        "number": "02",
+        "title": "Speed Masks Risk",
+        "body": "Shipping fast is celebrated, but sustainable products require deep understanding. Velocity without direction burns runway and energy. True progress often looks boring from the outside.",
+        "handle": "",
+        "domain": ""
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "",
+        "number": "03",
+        "title": "Compounding Trust",
+        "body": "Every small promise kept builds equity that no ad budget can buy. In a market flooded with launches, reliability becomes your moat. Reputation is the original network effect.",
+        "handle": "",
+        "domain": ""
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "",
+        "number": "04",
+        "title": "Ignore the Gold Rush",
+        "body": "Miners rarely strike it rich; the shovel sellers do. Building infrastructure and relationships outlasts any single model cycle. Play the long game instead of the lottery.",
+        "handle": "",
+        "domain": ""
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "",
+        "number": "05",
+        "title": "Boring Is Durable",
+        "body": "Flashy features attract copycats. Boring fundamentals retain users. When the hype cycle crashes, only useful products survive. Build what people will still need next year.",
+        "handle": "",
+        "domain": ""
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "",
+        "number": "06",
+        "title": "Stay in the Arena",
+        "body": "The founders who win are simply those who remain. Consistency beats intensity when the timeline is decades. Keep building when nobody is clapping yet.",
+        "handle": "",
+        "domain": ""
+      }
+    },
+    {
+      "layoutId": "cta-beige-serif",
+      "slots": {
+        "brand": "",
+        "eyebrow": "THINK IN DECADES",
+        "headline": "Patience Is Your Unfair Advantage",
+        "body": "Join a newsletter for indie founders who choose substance over speed. No hype, just weekly perspective on building what lasts.",
+        "buttonLabel": "JOIN THE MOVEMENT",
+        "handle": ""
+      }
+    }
+  ]
+}

@@ -7,8 +7,8 @@
     {
       "layoutId": "cover-lime-accent",
       "slots": {
-        "brandTag": "STACK PICK",
-        "handle": "db.51ultron.com",
+        "brandTag": "",
+        "handle": "",
         "eyebrow": "POSTGRES POWER",
         "titleLine1": "6 free",
         "titleCallout": "postgres",
@@ -27,7 +27,7 @@
       "layoutId": "body-lime-accent",
       "slots": {
         "numLabel": "TOOL 01",
-        "handle": "db.51ultron.com",
+        "handle": "",
         "iconSlug1": "pgvector",
         "toolTag": "extension",
         "toolTagline": "Store and query vector embeddings at scale.",
@@ -49,7 +49,7 @@
       "layoutId": "body-lime-accent",
       "slots": {
         "numLabel": "TOOL 02",
-        "handle": "db.51ultron.com",
+        "handle": "",
         "iconSlug1": "prisma",
         "toolTag": "ORM",
         "toolTagline": "Next-gen type-safe database toolkit.",
@@ -71,7 +71,7 @@
       "layoutId": "body-lime-accent",
       "slots": {
         "numLabel": "TOOL 03",
-        "handle": "db.51ultron.com",
+        "handle": "",
         "iconSlug1": "supabase",
         "toolTag": "platform",
         "toolTagline": "Firebase alternative built on Postgres.",
@@ -93,7 +93,7 @@
       "layoutId": "body-lime-accent",
       "slots": {
         "numLabel": "TOOL 04",
-        "handle": "db.51ultron.com",
+        "handle": "",
         "iconSlug1": "postgrest",
         "toolTag": "REST API",
         "toolTagline": "Turn your database into a secure RESTful API.",
@@ -115,7 +115,7 @@
       "layoutId": "body-lime-accent",
       "slots": {
         "numLabel": "TOOL 05",
-        "handle": "db.51ultron.com",
+        "handle": "",
         "iconSlug1": "dbeaver",
         "toolTag": "client",
         "toolTagline": "Universal database GUI for power users.",
@@ -137,7 +137,7 @@
       "layoutId": "body-lime-accent",
       "slots": {
         "numLabel": "TOOL 06",
-        "handle": "db.51ultron.com",
+        "handle": "",
         "iconSlug1": "timescaledb",
         "toolTag": "extension",
         "toolTagline": "Time-series superpowers inside PostgreSQL.",
@@ -158,8 +158,8 @@
     {
       "layoutId": "cta-lime-accent",
       "slots": {
-        "brandTag": "WRAP",
-        "handle": "db.51ultron.com",
+        "brandTag": "",
+        "handle": "",
         "eyebrow": "PICK YOUR STACK",
         "ctaLine1": "Level up your",
         "ctaCallout": "postgres",

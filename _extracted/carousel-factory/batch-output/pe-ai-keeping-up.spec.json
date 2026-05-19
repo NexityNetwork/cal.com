@@ -7,8 +7,8 @@
     {
       "layoutId": "cover-personal-essay",
       "slots": {
-        "brandTag": "ESSAY",
-        "handle": "@noahbuilds",
+        "brandTag": "",
+        "handle": "",
         "eyebrow": "the things about AI that",
         "titleLine1": "keep me up",
         "titleUnderline": "at night",
@@ -35,7 +35,7 @@
       "layoutId": "body-personal-essay",
       "slots": {
         "numLabel": "FEAR 01",
-        "handle": "@noahbuilds",
+        "handle": "",
         "sectionLabel": "the late-night spiral",
         "title": "Existential dread",
         "titleUnderline": "hits different",
@@ -69,7 +69,7 @@
       "layoutId": "body-personal-essay",
       "slots": {
         "numLabel": "FEAR 02",
-        "handle": "@noahbuilds",
+        "handle": "",
         "sectionLabel": "building in public",
         "title": "Product moats",
         "titleUnderline": "evaporate",
@@ -103,7 +103,7 @@
       "layoutId": "body-personal-essay",
       "slots": {
         "numLabel": "FEAR 03",
-        "handle": "@noahbuilds",
+        "handle": "",
         "sectionLabel": "the burn rate",
         "title": "Unit economics",
         "titleUnderline": "don't work",
@@ -137,7 +137,7 @@
       "layoutId": "body-personal-essay",
       "slots": {
         "numLabel": "FEAR 04",
-        "handle": "@noahbuilds",
+        "handle": "",
         "sectionLabel": "the people part",
         "title": "Teams are",
         "titleUnderline": "fracturing",
@@ -171,7 +171,7 @@
       "layoutId": "body-personal-essay",
       "slots": {
         "numLabel": "MISSING",
-        "handle": "@noahbuilds",
+        "handle": "",
         "sectionLabel": "the blind spots",
         "title": "Founders miss",
         "titleUnderline": "three things",
@@ -205,7 +205,7 @@
       "layoutId": "body-personal-essay",
       "slots": {
         "numLabel": "ANTIDOTE",
-        "handle": "@noahbuilds",
+        "handle": "",
         "sectionLabel": "how I sleep",
         "title": "Three rules",
         "titleUnderline": "I follow",
@@ -238,8 +238,8 @@
     {
       "layoutId": "cta-personal-essay",
       "slots": {
-        "brandTag": "OUTRO",
-        "handle": "@noahbuilds",
+        "brandTag": "",
+        "handle": "",
         "eyebrow": "if this helped you",
         "ctaLine1": "save this",
         "ctaAccent": "for later",

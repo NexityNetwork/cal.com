@@ -7,98 +7,98 @@
     {
       "layoutId": "cover-noir-yellow",
       "slots": {
-        "brand": "UNPOSTED",
+        "brand": "",
         "scriptPrefix": "Five",
         "displayLine1": "MARKS OF",
         "displayLine2": "QUIET",
         "displayLine3": "CONFIDENCE",
         "scriptTagline": "from people who never show up in your feed",
-        "handle": "@unpostd",
+        "handle": "",
         "slideId": "Slide 01"
       }
     },
     {
       "layoutId": "body-noir-yellow",
       "slots": {
-        "brand": "UNPOSTED",
+        "brand": "",
         "scriptPrefix": "They",
         "displayLine1": "MOVE IN",
         "displayLine2": "SILENCE",
         "displayLine3": "NOT CHAOS",
         "body": "The loudest voices rarely own the room. Quiet confidence shows up in subtle signals most scroll right past. Here are five marks of people building a life offline.",
-        "handle": "@unpostd",
+        "handle": "",
         "slideId": "Slide 02"
       }
     },
     {
       "layoutId": "body-noir-yellow",
       "slots": {
-        "brand": "UNPOSTED",
+        "brand": "",
         "scriptPrefix": "Mark",
         "displayLine1": "THEY LISTEN",
         "displayLine2": "MORE THAN",
         "displayLine3": "THEY SPEAK",
         "body": "They ask questions without performing curiosity. In a room full of noise, their silence reads as power, not absence.",
-        "handle": "@unpostd",
+        "handle": "",
         "slideId": "Slide 03"
       }
     },
     {
       "layoutId": "body-noir-yellow",
       "slots": {
-        "brand": "UNPOSTED",
+        "brand": "",
         "scriptPrefix": "Two",
         "displayLine1": "NO POST",
         "displayLine2": "NEEDED FOR",
         "displayLine3": "VALIDATION",
         "body": "They don't chase likes to feel real. Their sense of worth is internal, steady, and completely independent of applause.",
-        "handle": "@unpostd",
+        "handle": "",
         "slideId": "Slide 04"
       }
     },
     {
       "layoutId": "body-noir-yellow",
       "slots": {
-        "brand": "UNPOSTED",
+        "brand": "",
         "scriptPrefix": "Three",
         "displayLine1": "INTENTIONAL",
         "displayLine2": "MOVES OVER",
         "displayLine3": "URGENT NOISE",
         "body": "They act with purpose rather than reacting to trends. Every yes is deliberate; every no is a boundary protected.",
-        "handle": "@unpostd",
+        "handle": "",
         "slideId": "Slide 05"
       }
     },
     {
       "layoutId": "body-noir-yellow",
       "slots": {
-        "brand": "UNPOSTED",
+        "brand": "",
         "scriptPrefix": "Four",
         "displayLine1": "THEY OWN",
         "displayLine2": "WHAT THEY",
         "displayLine3": "DON'T KNOW",
         "body": "Confidence isn't knowing everything. They admit gaps without ego, which makes their expertise feel grounded and human.",
-        "handle": "@unpostd",
+        "handle": "",
         "slideId": "Slide 06"
       }
     },
     {
       "layoutId": "body-noir-yellow",
       "slots": {
-        "brand": "UNPOSTED",
+        "brand": "",
         "scriptPrefix": "Five",
         "displayLine1": "RESULTS TALK",
         "displayLine2": "THEY NEVER",
         "displayLine3": "BRAG FIRST",
         "body": "They let outcomes make the introduction. While others announce, they deliver—and let the work echo longer than words.",
-        "handle": "@unpostd",
+        "handle": "",
         "slideId": "Slide 07"
       }
     },
     {
       "layoutId": "cta-noir-yellow",
       "slots": {
-        "brand": "UNPOSTED",
+        "brand": "",
         "scriptPrefix": "Begin",
         "displayLine1": "OWN YOUR",
         "displayLine2": "QUIET",
@@ -106,7 +106,7 @@
         "headline": "OWN YOUR QUIET POWER",
         "scriptTagline": "The best proof is living it quietly.",
         "buttonLabel": "SAVE FOR LATER",
-        "handle": "@unpostd",
+        "handle": "",
         "slideId": "Slide 08"
       }
     }

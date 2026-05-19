@@ -7,7 +7,7 @@
     {
       "layoutId": "cover-condensed-pill",
       "slots": {
-        "brand": "LILY CHEN",
+        "brand": "",
         "preLine": "How I",
         "pillText": "MANAGE",
         "postLine": "3 hustles & a full-time job",
@@ -17,7 +17,7 @@
     {
       "layoutId": "body-condensed-pill",
       "slots": {
-        "brand": "LILY CHEN",
+        "brand": "",
         "number": "01",
         "numberLabel": "Tip No.",
         "title": "TIME BLOCK",
@@ -28,7 +28,7 @@
     {
       "layoutId": "body-condensed-pill",
       "slots": {
-        "brand": "LILY CHEN",
+        "brand": "",
         "number": "02",
         "numberLabel": "Tip No.",
         "title": "ONE GOAL",
@@ -39,7 +39,7 @@
     {
       "layoutId": "body-condensed-pill",
       "slots": {
-        "brand": "LILY CHEN",
+        "brand": "",
         "number": "03",
         "numberLabel": "Tip No.",
         "title": "BATCH TASKS",
@@ -50,7 +50,7 @@
     {
       "layoutId": "body-condensed-pill",
       "slots": {
-        "brand": "LILY CHEN",
+        "brand": "",
         "number": "04",
         "numberLabel": "Tip No.",
         "title": "SUNDAY RESET",
@@ -61,7 +61,7 @@
     {
       "layoutId": "body-condensed-pill",
       "slots": {
-        "brand": "LILY CHEN",
+        "brand": "",
         "number": "05",
         "numberLabel": "Tip No.",
         "title": "HARD BOUNDARIES",
@@ -72,7 +72,7 @@
     {
       "layoutId": "body-condensed-pill",
       "slots": {
-        "brand": "LILY CHEN",
+        "brand": "",
         "number": "06",
         "numberLabel": "Tip No.",
         "title": "SYSTEMS WIN",
@@ -83,7 +83,7 @@
     {
       "layoutId": "cta-condensed-pill",
       "slots": {
-        "brand": "LILY CHEN",
+        "brand": "",
         "eyebrow": "YOUR TURN",
         "headline": "GO",
         "body": "Pick one tip and test it this week. Small systems today, wild freedom tomorrow.",

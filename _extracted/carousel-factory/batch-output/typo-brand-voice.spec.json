@@ -8,7 +8,7 @@
       "layoutId": "cover-typo-sample",
       "slots": {
         "number": "01",
-        "handle": "@usevisuals",
+        "handle": "",
         "fontFamily": "Unbounded",
         "description": "A fearless variable sans for brands that refuse to whisper. Loud, geometric, and instantly memorable."
       }
@@ -17,7 +17,7 @@
       "layoutId": "body-typo-sample",
       "slots": {
         "number": "02",
-        "handle": "@usevisuals",
+        "handle": "",
         "fontFamily": "Playfair Display",
         "description": "High-contrast serifs built for fashion houses and editorial mastheads. Timeless, authoritative, unapologetically elegant."
       }
@@ -26,7 +26,7 @@
       "layoutId": "body-typo-sample",
       "slots": {
         "number": "03",
-        "handle": "@usevisuals",
+        "handle": "",
         "fontFamily": "Inter",
         "description": "Pixel-perfect clarity crafted for screens. The go-to voice for SaaS startups that need trust at first glance."
       }
@@ -35,7 +35,7 @@
       "layoutId": "body-typo-sample",
       "slots": {
         "number": "04",
-        "handle": "@usevisuals",
+        "handle": "",
         "fontFamily": "Montserrat",
         "description": "Geometric warmth with urban energy. A versatile workhorse that powers everything from coffee bags to billboards."
       }
@@ -44,7 +44,7 @@
       "layoutId": "body-typo-sample",
       "slots": {
         "number": "05",
-        "handle": "@usevisuals",
+        "handle": "",
         "fontFamily": "Space Grotesk",
         "description": "Quirky yet structured grotesque for studios and cultural brands. It feels human, digital, and unmistakably now."
       }
@@ -53,7 +53,7 @@
       "layoutId": "body-typo-sample",
       "slots": {
         "number": "06",
-        "handle": "@usevisuals",
+        "handle": "",
         "fontFamily": "Cormorant Garamond",
         "description": "Delicate serifs rooted in classic print. Ideal for wineries and ateliers selling slow craft over fast trends."
       }
@@ -62,7 +62,7 @@
       "layoutId": "body-typo-sample",
       "slots": {
         "number": "07",
-        "handle": "@usevisuals",
+        "handle": "",
         "fontFamily": "Bricolage Grotesque",
         "description": "An eclectic grotesque with ink-trap attitude. Built for brands that collage culture and reject the generic."
       }
@@ -71,7 +71,7 @@
       "layoutId": "cta-typo-sample",
       "slots": {
         "number": "08",
-        "handle": "@usevisuals",
+        "handle": "",
         "headlineLine1": "Pick your voice",
         "headlineLine2": "with intent",
         "body": "Great brands don't guess. They choose type that converts culture into instant recognition.",

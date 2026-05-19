@@ -7,8 +7,8 @@
     {
       "layoutId": "cover-lime-accent",
       "slots": {
-        "brandTag": "CURSOR RULES",
-        "handle": "rules.51ultron.com",
+        "brandTag": "",
+        "handle": "",
         "eyebrow": "SENIOR MODE",
         "titleLine1": "8 cursor",
         "titleCallout": "rules",
@@ -27,7 +27,7 @@
       "layoutId": "body-lime-accent",
       "slots": {
         "numLabel": "RULE 01",
-        "handle": "rules.51ultron.com",
+        "handle": "",
         "iconSlug1": "visualstudiocode",
         "toolTag": "mindset",
         "toolTagline": "Force the AI to architect before it implements.",
@@ -49,7 +49,7 @@
       "layoutId": "body-lime-accent",
       "slots": {
         "numLabel": "RULE 02",
-        "handle": "rules.51ultron.com",
+        "handle": "",
         "iconSlug1": "typescript",
         "toolTag": "context",
         "toolTagline": "Pin your framework versions and forbidden patterns.",
@@ -71,7 +71,7 @@
       "layoutId": "body-lime-accent",
       "slots": {
         "numLabel": "RULE 03",
-        "handle": "rules.51ultron.com",
+        "handle": "",
         "iconSlug1": "jest",
         "toolTag": "quality",
         "toolTagline": "Feed the AI tests as the single source of truth.",
@@ -93,7 +93,7 @@
       "layoutId": "body-lime-accent",
       "slots": {
         "numLabel": "RULE 04",
-        "handle": "rules.51ultron.com",
+        "handle": "",
         "iconSlug1": "git",
         "toolTag": "review",
         "toolTagline": "Never accept a change you have not read.",
@@ -115,7 +115,7 @@
       "layoutId": "body-lime-accent",
       "slots": {
         "numLabel": "RULE 05",
-        "handle": "rules.51ultron.com",
+        "handle": "",
         "iconSlug1": "nodedotjs",
         "toolTag": "workflow",
         "toolTagline": "Small prompts win over mega-requests.",
@@ -137,7 +137,7 @@
       "layoutId": "body-lime-accent",
       "slots": {
         "numLabel": "RULE 06",
-        "handle": "rules.51ultron.com",
+        "handle": "",
         "iconSlug1": "github",
         "toolTag": "memory",
         "toolTagline": "Tag context so the AI remembers project lore.",
@@ -158,8 +158,8 @@
     {
       "layoutId": "cta-lime-accent",
       "slots": {
-        "brandTag": "WRAP",
-        "handle": "rules.51ultron.com",
+        "brandTag": "",
+        "handle": "",
         "eyebrow": "PICK YOURS",
         "ctaLine1": "Deploy these",
         "ctaCallout": "rules",

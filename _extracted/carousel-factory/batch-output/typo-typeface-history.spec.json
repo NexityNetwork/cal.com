@@ -8,7 +8,7 @@
       "layoutId": "cover-typo-sample",
       "slots": {
         "number": "01",
-        "handle": "@usevisuals",
+        "handle": "",
         "fontFamily": "Fraunces",
         "description": "A wonky, soft-serve-inspired variable serif from Undercase Type. Its playful axes and retro personality make it perfect for bold headlines with vintage charm."
       }
@@ -17,7 +17,7 @@
       "layoutId": "body-typo-sample",
       "slots": {
         "number": "02",
-        "handle": "@usevisuals",
+        "handle": "",
         "fontFamily": "Playfair Display",
         "description": "Claus Eggers Sørensen’s high-contrast transitional serif draws from Scotch Roman and Baskerville, bringing editorial elegance to digital screens."
       }
@@ -26,7 +26,7 @@
       "layoutId": "body-typo-sample",
       "slots": {
         "number": "03",
-        "handle": "@usevisuals",
+        "handle": "",
         "fontFamily": "Space Grotesk",
         "description": "Florian Karsten evolved Space Mono into this proportional grotesk, channeling brutalist geometry and utilitarian clarity for modern interfaces."
       }
@@ -35,7 +35,7 @@
       "layoutId": "body-typo-sample",
       "slots": {
         "number": "04",
-        "handle": "@usevisuals",
+        "handle": "",
         "fontFamily": "Bricolage Grotesque",
         "description": "Built from 19th-century wood type, this eclectic sans collages historical cuts into one quirky, confident voice for cultural brands."
       }
@@ -44,7 +44,7 @@
       "layoutId": "body-typo-sample",
       "slots": {
         "number": "05",
-        "handle": "@usevisuals",
+        "handle": "",
         "fontFamily": "Unbounded",
         "description": "Commissioned for a European blockchain initiative, this futuristic display face merges tech aesthetics with open-source accessibility and geometric flair."
       }
@@ -53,7 +53,7 @@
       "layoutId": "body-typo-sample",
       "slots": {
         "number": "06",
-        "handle": "@usevisuals",
+        "handle": "",
         "fontFamily": "Instrument Serif",
         "description": "Designed by Instrument, this refined editorial serif pairs razor-sharp precision with warm, contemporary grace for luxury layouts."
       }
@@ -62,7 +62,7 @@
       "layoutId": "body-typo-sample",
       "slots": {
         "number": "07",
-        "handle": "@usevisuals",
+        "handle": "",
         "fontFamily": "Manrope",
         "description": "Michael Sharanda’s geometric sans bridges humanist warmth and neutral utility, becoming a go-to workhorse for product design worldwide."
       }
@@ -71,7 +71,7 @@
       "layoutId": "cta-typo-sample",
       "slots": {
         "number": "08",
-        "handle": "@usevisuals",
+        "handle": "",
         "headlineLine1": "Collect fonts",
         "headlineLine2": "that tell stories",
         "body": "These six typefaces prove that great design starts with character. Save this guide and reference it for your next project.",

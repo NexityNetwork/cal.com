@@ -7,7 +7,7 @@
     {
       "layoutId": "cover-beige-serif",
       "slots": {
-        "brand": "STUDIO COE",
+        "brand": "",
         "headline": "Six Productivity Habits That Scaled My Design Studio to Seven Figures",
         "slideCountHero": "6"
       }
@@ -15,78 +15,78 @@
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "STUDIO COE",
+        "brand": "",
         "number": "01",
         "title": "Block Deep Work",
         "body": "Protect three uninterrupted hours every morning for your most complex creative tasks. Email and Slack can wait until after lunch. This single shift doubled my output without adding hours.",
-        "handle": "@studiocoe",
-        "domain": "studiocoe.com"
+        "handle": "",
+        "domain": ""
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "STUDIO COE",
+        "brand": "",
         "number": "02",
         "title": "Batch Admin Tasks",
         "body": "Group all meetings, invoicing, and emails into two dedicated afternoons per week. Context switching kills creative momentum faster than any deadline. Batching keeps your mind in design mode longer.",
-        "handle": "@studiocoe",
-        "domain": "studiocoe.com"
+        "handle": "",
+        "domain": ""
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "STUDIO COE",
+        "brand": "",
         "number": "03",
         "title": "Template Your Workflow",
         "body": "Build reusable templates for proposals, contracts, and brand presentations. You are not being lazy; you are buying back future hours. Standardization is the secret weapon of every scalable studio.",
-        "handle": "@studiocoe",
-        "domain": "studiocoe.com"
+        "handle": "",
+        "domain": ""
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "STUDIO COE",
+        "brand": "",
         "number": "04",
         "title": "Filter Client Intake",
         "body": "Not every project deserves your calendar. Create a short qualification checklist to screen leads before the first call. Saying no to the wrong work creates space for the right revenue.",
-        "handle": "@studiocoe",
-        "domain": "studiocoe.com"
+        "handle": "",
+        "domain": ""
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "STUDIO COE",
+        "brand": "",
         "number": "05",
         "title": "Hire Before Ready",
         "body": "Bring on support the moment you can afford it, not when you are drowning. A part-time assistant or junior designer preserves your energy for high-value strategy. Growth stalls when the founder becomes the bottleneck.",
-        "handle": "@studiocoe",
-        "domain": "studiocoe.com"
+        "handle": "",
+        "domain": ""
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "STUDIO COE",
+        "brand": "",
         "number": "06",
         "title": "Manage Your Energy",
         "body": "Productivity is not about hours; it is about focused energy. Track your peak performance windows and schedule creative work accordingly. Rest is a business strategy, not a reward.",
-        "handle": "@studiocoe",
-        "domain": "studiocoe.com"
+        "handle": "",
+        "domain": ""
       }
     },
     {
       "layoutId": "cta-beige-serif",
       "slots": {
-        "brand": "STUDIO COE",
+        "brand": "",
         "eyebrow": "SCALE YOUR STUDIO",
         "headline": "Productivity Is Your Profit Engine",
         "body": "Download our free studio playbook and start reclaiming hours for the work that actually moves the needle.",
         "buttonLabel": "GET THE PLAYBOOK",
-        "handle": "@studiocoe"
+        "handle": ""
       }
     }
   ]

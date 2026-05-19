@@ -7,8 +7,8 @@
     {
       "layoutId": "cover-highlight-box",
       "slots": {
-        "brandTag": "DEV DATA",
-        "handle": "@EngTrends",
+        "brandTag": "",
+        "handle": "",
         "accentColor": "#ff5722",
         "eyebrow": "the silent retention crisis",
         "titleLine1": "Senior engineers",
@@ -35,7 +35,7 @@
       "layoutId": "body-highlight-box",
       "slots": {
         "numLabel": "THE SHIFT",
-        "handle": "@EngTrends",
+        "handle": "",
         "accentColor": "#ff5722",
         "iconSlug1": "stackoverflow",
         "toolName": "",
@@ -70,7 +70,7 @@
       "layoutId": "body-highlight-box",
       "slots": {
         "numLabel": "FACT 01",
-        "handle": "@EngTrends",
+        "handle": "",
         "accentColor": "#ff5722",
         "iconSlug1": "glassdoor",
         "toolName": "",
@@ -105,7 +105,7 @@
       "layoutId": "body-highlight-box",
       "slots": {
         "numLabel": "FACT 02",
-        "handle": "@EngTrends",
+        "handle": "",
         "accentColor": "#ff5722",
         "iconSlug1": "pagerduty",
         "toolName": "",
@@ -140,7 +140,7 @@
       "layoutId": "body-highlight-box",
       "slots": {
         "numLabel": "FACT 03",
-        "handle": "@EngTrends",
+        "handle": "",
         "accentColor": "#ff5722",
         "iconSlug1": "notion",
         "toolName": "",
@@ -175,7 +175,7 @@
       "layoutId": "body-highlight-box",
       "slots": {
         "numLabel": "FACT 04",
-        "handle": "@EngTrends",
+        "handle": "",
         "accentColor": "#ff5722",
         "iconSlug1": "linkedin",
         "toolName": "",
@@ -210,7 +210,7 @@
       "layoutId": "body-highlight-box",
       "slots": {
         "numLabel": "FACT 05",
-        "handle": "@EngTrends",
+        "handle": "",
         "accentColor": "#ff5722",
         "iconSlug1": "gallup",
         "toolName": "",
@@ -244,8 +244,8 @@
     {
       "layoutId": "cta-highlight-box",
       "slots": {
-        "brandTag": "WRAP UP",
-        "handle": "@EngTrends",
+        "brandTag": "",
+        "handle": "",
         "accentColor": "#ff5722",
         "eyebrow": "fix the bleed",
         "ctaLine1": "Protect your",

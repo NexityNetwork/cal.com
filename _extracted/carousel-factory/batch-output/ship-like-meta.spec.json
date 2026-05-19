@@ -18,7 +18,7 @@
       "layoutId": "body-rounded-card",
       "slots": {
         "pageBadge": "02",
-        "handle": "@systemssolo",
+        "handle": "",
         "number": "01",
         "title": "Centralize your",
         "titleAccent": "company brain",
@@ -35,7 +35,7 @@
       "layoutId": "body-rounded-card",
       "slots": {
         "pageBadge": "03",
-        "handle": "@systemssolo",
+        "handle": "",
         "number": "02",
         "title": "Run a tight",
         "titleAccent": "project OS",
@@ -52,7 +52,7 @@
       "layoutId": "body-rounded-card",
       "slots": {
         "pageBadge": "04",
-        "handle": "@systemssolo",
+        "handle": "",
         "number": "03",
         "title": "Build a content",
         "titleAccent": "assembly line",
@@ -69,7 +69,7 @@
       "layoutId": "body-rounded-card",
       "slots": {
         "pageBadge": "05",
-        "handle": "@systemssolo",
+        "handle": "",
         "number": "04",
         "title": "Wire an",
         "titleAccent": "auto switchboard",
@@ -86,7 +86,7 @@
       "layoutId": "body-rounded-card",
       "slots": {
         "pageBadge": "06",
-        "handle": "@systemssolo",
+        "handle": "",
         "number": "05",
         "title": "Own your",
         "titleAccent": "data command",
@@ -103,7 +103,7 @@
       "layoutId": "body-rounded-card",
       "slots": {
         "pageBadge": "07",
-        "handle": "@systemssolo",
+        "handle": "",
         "number": "06",
         "title": "Deploy an",
         "titleAccent": "AI workforce",
@@ -120,7 +120,7 @@
       "layoutId": "cta-rounded-card",
       "slots": {
         "pageBadge": "08",
-        "handle": "@systemssolo",
+        "handle": "",
         "eyebrow": "YOUR TURN",
         "headlineLine1": "Build your",
         "headlineLine2": "internal stack today",

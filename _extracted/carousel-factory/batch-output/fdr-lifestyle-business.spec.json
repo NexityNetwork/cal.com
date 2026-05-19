@@ -1,0 +1,119 @@
+{
+  "id": "fdr-lifestyle-business",
+  "brand": "THE QUIET BUILD",
+  "brief": "The lifestyle business renaissance. Profitable, calm, owner-friendly. The new ambition for founders who watched the unicorn dream die.",
+  "theme": "coral-mag",
+  "slides": [
+    {
+      "layoutId": "cover-coral-mag",
+      "slots": {
+        "brand": "",
+        "issueLabel": "ISSUE 01",
+        "issueTag": "DEEP DIVE",
+        "headWord1": "THE",
+        "headWord2": "NEW",
+        "headWord3": "DREAM",
+        "subEyebrow": "LIFESTYLE BUSINESS",
+        "subtitle": "Profitable, calm, and owner-friendly. The new ambition for burned-out founders.",
+        "handle": ""
+      }
+    },
+    {
+      "layoutId": "body-coral-mag",
+      "slots": {
+        "brand": "",
+        "pageLabel": "P.01",
+        "number": "01",
+        "eyebrow": "THE LIE",
+        "titleWord1": "GROWTH AT",
+        "titleWord2": "ALL",
+        "titleWord3": "COSTS",
+        "body": "Venture scale promised freedom but delivered a treadmill of burn rates and endless fundraising. Founders traded ownership for vanity metrics that bled them dry.",
+        "handle": ""
+      }
+    },
+    {
+      "layoutId": "body-coral-mag",
+      "slots": {
+        "brand": "",
+        "pageLabel": "P.02",
+        "number": "02",
+        "eyebrow": "THE SHIFT",
+        "titleWord1": "PROFIT IS",
+        "titleWord2": "COOL",
+        "titleWord3": "AGAIN",
+        "body": "The renaissance is here. Founders are rejecting unicorn mythology to build companies that fund their lives instead of consuming them.",
+        "handle": ""
+      }
+    },
+    {
+      "layoutId": "body-coral-mag",
+      "slots": {
+        "brand": "",
+        "pageLabel": "P.03",
+        "number": "03",
+        "eyebrow": "THE MODEL",
+        "titleWord1": "LEAN",
+        "titleWord2": "CASH",
+        "titleWord3": "MACHINES",
+        "body": "Tiny teams, remote-first operations, and recurring revenue create outsized margins without the Silicon Valley overhead or headcount bloat.",
+        "handle": ""
+      }
+    },
+    {
+      "layoutId": "body-coral-mag",
+      "slots": {
+        "brand": "",
+        "pageLabel": "P.04",
+        "number": "04",
+        "eyebrow": "THE MINDSET",
+        "titleWord1": "OWNER",
+        "titleWord2": "SANITY",
+        "titleWord3": "FIRST",
+        "body": "Calm is the new competitive advantage. When you optimize for margin and autonomy, you stop performing for investors and start living.",
+        "handle": ""
+      }
+    },
+    {
+      "layoutId": "body-coral-mag",
+      "slots": {
+        "brand": "",
+        "pageLabel": "P.05",
+        "number": "05",
+        "eyebrow": "THE PROOF",
+        "titleWord1": "SMALL",
+        "titleWord2": "WINS",
+        "titleWord3": "BIG",
+        "body": "You do not need a hundred employees to make millions. A focused offer and clear positioning beat bloated scale every single time.",
+        "handle": ""
+      }
+    },
+    {
+      "layoutId": "body-coral-mag",
+      "slots": {
+        "brand": "",
+        "pageLabel": "P.06",
+        "number": "06",
+        "eyebrow": "YOUR MOVE",
+        "titleWord1": "BUILD",
+        "titleWord2": "YOUR",
+        "titleWord3": "ESCAPE",
+        "body": "Start with what you know. Keep overhead low, price for profit, and design a business that serves your life instead of the other way around.",
+        "handle": ""
+      }
+    },
+    {
+      "layoutId": "cta-coral-mag",
+      "slots": {
+        "brand": "",
+        "pageOf": "08/08",
+        "tag": "YOUR MOVE",
+        "headWord1": "SAVE",
+        "headWord2": "THIS",
+        "body": "Build a business that pays you. Follow for more unfiltered founder strategy every week.",
+        "buttonLabel": "Follow for more",
+        "handle": ""
+      }
+    }
+  ]
+}

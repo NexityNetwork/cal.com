@@ -8,7 +8,7 @@
       "layoutId": "cover-black-warning",
       "slots": {
         "number": "01",
-        "handle": "@usevisuals",
+        "handle": "",
         "eyebrow": "FOUNDER WARNING",
         "titleLine1": "Founders Ignore These",
         "titleAccent": "Burnout Signs",
@@ -20,7 +20,7 @@
       "layoutId": "body-black-warning",
       "slots": {
         "number": "02",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "The Crash Is Silent",
         "body": "High performers ignore exhaustion until the cost becomes irreversible. Founders pride themselves on grinding through the warning signals.",
         "calloutLabel": "KEY INSIGHT",
@@ -32,7 +32,7 @@
       "layoutId": "body-black-warning",
       "slots": {
         "number": "03",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "Sleep Stops Refreshing You",
         "body": "You log eight hours but wake up foggy and drained. Rest feels like a pause, not recovery.",
         "calloutLabel": "DO THIS",
@@ -44,7 +44,7 @@
       "layoutId": "body-black-warning",
       "slots": {
         "number": "04",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "Your Mission Feels Pointless",
         "body": "Projects that once excited you now feel like meaningless chores. Cynicism replaces the passion that built your startup.",
         "calloutLabel": "DO THIS",
@@ -56,7 +56,7 @@
       "layoutId": "body-black-warning",
       "slots": {
         "number": "05",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "Simple Decisions Paralyze You",
         "body": "You stare at emails for hours unable to hit send. Cognitive fatigue masks itself as procrastination and self-doubt.",
         "calloutLabel": "DO THIS",
@@ -68,7 +68,7 @@
       "layoutId": "body-black-warning",
       "slots": {
         "number": "06",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "You Isolate Without Realizing",
         "body": "You skip investor updates and dodge cofounder dinners entirely. Withdrawal feels like focus but it is actually self-preservation gone wrong.",
         "calloutLabel": "DO THIS",
@@ -80,7 +80,7 @@
       "layoutId": "body-black-warning",
       "slots": {
         "number": "07",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "Your Body Sends Signals",
         "body": "Headaches, gut issues, and tension appear every single morning. Stress stored in the body eventually demands to be addressed.",
         "calloutLabel": "DO THIS",
@@ -92,7 +92,7 @@
       "layoutId": "cta-black-warning",
       "slots": {
         "number": "08",
-        "handle": "@usevisuals",
+        "handle": "",
         "eyebrow": "YOUR MOVE",
         "headlineLine1": "Protect Your",
         "headlineAccent": "Energy First",

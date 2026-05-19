@@ -22,7 +22,7 @@
         "heroBody": "Get actionable insights from your website traffic without collecting personal data or using cookies.",
         "slideTitle": "Analytics that respect visitors",
         "slideSubtitle": "GDPR-compliant out of the box, no cookie banner required, and fully open source.",
-        "domainText": "plausible.io",
+        "domainText": "",
         "pageOf": "02 / 08"
       }
     },
@@ -34,7 +34,7 @@
         "heroBody": "Store, share, and autofill credentials across every device with end-to-end encryption.",
         "slideTitle": "Secrets that stay fully encrypted",
         "slideSubtitle": "Zero-knowledge architecture means even Bitwarden cannot read your vault contents.",
-        "domainText": "bitwarden.com",
+        "domainText": "",
         "pageOf": "03 / 08"
       }
     },
@@ -46,7 +46,7 @@
         "heroBody": "Create unlimited email aliases to hide your real address and stop spam in its tracks.",
         "slideTitle": "Email privacy made simple",
         "slideSubtitle": "Reply anonymously through aliases and protect your identity across every signup.",
-        "domainText": "simplelogin.io",
+        "domainText": "",
         "pageOf": "04 / 08"
       }
     },
@@ -58,7 +58,7 @@
         "heroBody": "Capture ideas, tasks, and documents in a private workspace that syncs everywhere securely.",
         "slideTitle": "Thoughts belong to you",
         "slideSubtitle": "AES-256 encryption keeps your notes readable only by you, not the server or staff.",
-        "domainText": "standardnotes.com",
+        "domainText": "",
         "pageOf": "05 / 08"
       }
     },
@@ -70,7 +70,7 @@
         "heroBody": "Send and receive messages protected by PGP encryption with servers based in Switzerland.",
         "slideTitle": "An inbox free from surveillance",
         "slideSubtitle": "No ads, no tracking, and no scanning your emails to build a profile.",
-        "domainText": "proton.me",
+        "domainText": "",
         "pageOf": "06 / 08"
       }
     },
@@ -82,7 +82,7 @@
         "heroBody": "Send texts, calls, and files with end-to-end encryption trusted by journalists worldwide.",
         "slideTitle": "Private conversations without eavesdroppers",
         "slideSubtitle": "Open-source protocols and nonprofit funding mean your chats are never mined for ads.",
-        "domainText": "signal.org",
+        "domainText": "",
         "pageOf": "07 / 08"
       }
     },

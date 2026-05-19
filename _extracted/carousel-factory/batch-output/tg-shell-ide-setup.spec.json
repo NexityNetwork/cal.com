@@ -7,8 +7,8 @@
     {
       "layoutId": "cover-terminal-glow",
       "slots": {
-        "brandTag": "SHELL IDE",
-        "handle": "@termstack",
+        "brandTag": "",
+        "handle": "",
         "termTitle": "~/setup/ide-terminal.sh",
         "cmdLine": "curl -sL termstack.sh | bash",
         "outLine": "found 5 tools ready in",
@@ -38,7 +38,7 @@
       "layoutId": "body-terminal-glow",
       "slots": {
         "numLabel": "CMD 01",
-        "handle": "@termstack",
+        "handle": "",
         "sectionLabel": "TRICK 01",
         "title": "Switch to",
         "titleAccent": "zsh",
@@ -73,7 +73,7 @@
       "layoutId": "body-terminal-glow",
       "slots": {
         "numLabel": "CMD 02",
-        "handle": "@termstack",
+        "handle": "",
         "sectionLabel": "TRICK 02",
         "title": "Launch the",
         "titleAccent": "starship",
@@ -108,7 +108,7 @@
       "layoutId": "body-terminal-glow",
       "slots": {
         "numLabel": "CMD 03",
-        "handle": "@termstack",
+        "handle": "",
         "sectionLabel": "TRICK 03",
         "title": "Jump with",
         "titleAccent": "zoxide",
@@ -143,7 +143,7 @@
       "layoutId": "body-terminal-glow",
       "slots": {
         "numLabel": "CMD 04",
-        "handle": "@termstack",
+        "handle": "",
         "sectionLabel": "TRICK 04",
         "title": "Pipe to",
         "titleAccent": "fzf",
@@ -178,7 +178,7 @@
       "layoutId": "body-terminal-glow",
       "slots": {
         "numLabel": "CMD 05",
-        "handle": "@termstack",
+        "handle": "",
         "sectionLabel": "TRICK 05",
         "title": "Cat with",
         "titleAccent": "bat",
@@ -213,7 +213,7 @@
       "layoutId": "body-terminal-glow",
       "slots": {
         "numLabel": "CMD 06",
-        "handle": "@termstack",
+        "handle": "",
         "sectionLabel": "TRICK 06",
         "title": "List with",
         "titleAccent": "eza",
@@ -247,8 +247,8 @@
     {
       "layoutId": "cta-terminal-glow",
       "slots": {
-        "brandTag": "SHIP IT",
-        "handle": "@termstack",
+        "brandTag": "",
+        "handle": "",
         "intro": "now go ship faster",
         "ctaLine1": "Save this",
         "ctaAccent": "shell stack",

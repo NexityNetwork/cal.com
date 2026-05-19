@@ -23,14 +23,14 @@
         "toolRole5": "App container environments",
         "toolRole6": "Async team chat",
         "ctaText": "Read the breakdown",
-        "handle": "@yourhandle"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-stack-tour",
       "slots": {
         "slideLabel": "TOOL 01",
-        "handle": "@yourhandle",
+        "handle": "",
         "iconSlug1": "cursor",
         "toolTagline": "AI-native code review inside the editor",
         "description": "Cursor's composer agent catches bugs, suggests refactors, and explains logic before any human sees the code.",
@@ -51,7 +51,7 @@
       "layoutId": "body-stack-tour",
       "slots": {
         "slideLabel": "TOOL 02",
-        "handle": "@yourhandle",
+        "handle": "",
         "iconSlug1": "cursor",
         "toolTagline": "Full-stack prototyping from prompt to production",
         "description": "Generate Next.js API routes, React components, and database schemas in a single Composer session.",
@@ -72,7 +72,7 @@
       "layoutId": "body-stack-tour",
       "slots": {
         "slideLabel": "TOOL 03",
-        "handle": "@yourhandle",
+        "handle": "",
         "iconSlug1": "cursor",
         "toolTagline": "Legacy refactoring with zero downtime confidence",
         "description": "Migrate JavaScript to TypeScript and update dependencies using Cursor's codebase-wide context awareness.",
@@ -93,7 +93,7 @@
       "layoutId": "body-stack-tour",
       "slots": {
         "slideLabel": "TOOL 04",
-        "handle": "@yourhandle",
+        "handle": "",
         "iconSlug1": "cursor",
         "toolTagline": "Multi-file architecture planning agent",
         "description": "Design system-wide changes by referencing your entire repo context, not just the open tab.",
@@ -114,7 +114,7 @@
       "layoutId": "body-stack-tour",
       "slots": {
         "slideLabel": "TOOL 05",
-        "handle": "@yourhandle",
+        "handle": "",
         "iconSlug1": "cursor",
         "toolTagline": "Realtime design-to-code collaboration",
         "description": "Turn Figma frames into styled components and notify your team without leaving the IDE.",
@@ -135,7 +135,7 @@
       "layoutId": "body-stack-tour",
       "slots": {
         "slideLabel": "TOOL 06",
-        "handle": "@yourhandle",
+        "handle": "",
         "iconSlug1": "cursor",
         "toolTagline": "Safe deployment and CI orchestration",
         "description": "Validate changes against staging containers and auto-generate GitHub Action workflows.",
@@ -156,7 +156,7 @@
       "layoutId": "cta-stack-tour",
       "slots": {
         "pageOf": "08 / 08",
-        "handle": "@yourhandle",
+        "handle": "",
         "eyebrow": "YOUR TURN",
         "headlineLine1": "Build with AI",
         "headlineLine2": "Ship faster daily",

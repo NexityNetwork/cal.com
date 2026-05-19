@@ -7,8 +7,8 @@
     {
       "layoutId": "cover-highlight-box",
       "slots": {
-        "brandTag": "FOUNDER BRIEF",
-        "handle": "@marginwatch",
+        "brandTag": "",
+        "handle": "",
         "accentColor": "#ff5722",
         "eyebrow": "what founders ignore",
         "titleLine1": "How much of",
@@ -35,7 +35,7 @@
       "layoutId": "body-highlight-box",
       "slots": {
         "numLabel": "FACT 01",
-        "handle": "@marginwatch",
+        "handle": "",
         "accentColor": "#ff5722",
         "iconSlug1": "aws",
         "categoryLabel": "VENDOR",
@@ -69,7 +69,7 @@
       "layoutId": "body-highlight-box",
       "slots": {
         "numLabel": "FACT 02",
-        "handle": "@marginwatch",
+        "handle": "",
         "accentColor": "#ff5722",
         "iconSlug1": "salesforce",
         "categoryLabel": "TOOL",
@@ -103,7 +103,7 @@
       "layoutId": "body-highlight-box",
       "slots": {
         "numLabel": "FACT 03",
-        "handle": "@marginwatch",
+        "handle": "",
         "accentColor": "#ff5722",
         "iconSlug1": "openai",
         "categoryLabel": "VENDOR",
@@ -137,7 +137,7 @@
       "layoutId": "body-highlight-box",
       "slots": {
         "numLabel": "FACT 04",
-        "handle": "@marginwatch",
+        "handle": "",
         "accentColor": "#ff5722",
         "iconSlug1": "stripe",
         "categoryLabel": "VENDOR",
@@ -171,7 +171,7 @@
       "layoutId": "body-highlight-box",
       "slots": {
         "numLabel": "FACT 05",
-        "handle": "@marginwatch",
+        "handle": "",
         "accentColor": "#ff5722",
         "iconSlug1": "atlassian",
         "categoryLabel": "SOURCE",
@@ -205,7 +205,7 @@
       "layoutId": "body-highlight-box",
       "slots": {
         "numLabel": "TRUTH",
-        "handle": "@marginwatch",
+        "handle": "",
         "accentColor": "#ff5722",
         "iconSlug1": "bessemer",
         "categoryLabel": "SOURCE",
@@ -238,8 +238,8 @@
     {
       "layoutId": "cta-highlight-box",
       "slots": {
-        "brandTag": "WRAP",
-        "handle": "@marginwatch",
+        "brandTag": "",
+        "handle": "",
         "accentColor": "#ff5722",
         "eyebrow": "before your next raise",
         "ctaLine1": "Audit your true",

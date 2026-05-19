@@ -1,0 +1,93 @@
+{
+  "id": "fdr-quiet-money",
+  "brand": "Quiet Money",
+  "brief": "The quiet money mindset. Why loud founders go broke and quiet ones get rich. Compounding beats virality, every time.",
+  "theme": "beige-paper",
+  "slides": [
+    {
+      "layoutId": "cover-beige-serif",
+      "slots": {
+        "brand": "",
+        "headline": "Why Loud Founders Go Broke and Quiet Ones Get Rich",
+        "slideCountHero": "6"
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "",
+        "number": "01",
+        "title": "Noise Costs Focus",
+        "body": "Loud founders chase headlines and burn cash on vanity. Quiet operators ignore the circus and reinvest profits into product. Attention feels like progress, but it rarely compounds. The real leverage is focus.",
+        "handle": "",
+        "domain": ""
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "",
+        "number": "02",
+        "title": "Compounding Is Boring",
+        "body": "Wealth is built in slow, unsexy increments over years. Viral moments create spikes that fade before the quarter ends. Quiet founders choose repeatable margins over overnight fame. Boring consistency beats viral chaos every single time.",
+        "handle": "",
+        "domain": ""
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "",
+        "number": "03",
+        "title": "Silence Signals Strength",
+        "body": "The market rewards execution, not the volume of your announcements. Quiet leaders let revenue charts speak louder than press releases. When you stop performing for strangers, you start building real assets. Let results make the noise.",
+        "handle": "",
+        "domain": ""
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "",
+        "number": "04",
+        "title": "Speed Kills Capital",
+        "body": "Rapid scaling often disguises reckless spending and shallow unit economics. Quiet founders pace growth to protect cash flow and margins. Fast is fragile when the hype cycle turns. Slow and solvent wins the long game.",
+        "handle": "",
+        "domain": ""
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "",
+        "number": "05",
+        "title": "Profit Over Praise",
+        "body": "Loud brands optimize for applause and burn runway chasing validation. Quiet founders optimize for retained earnings and customer lifetime value. Praise does not pay payroll or fund expansion. Profitability is the only metric that matters.",
+        "handle": "",
+        "domain": ""
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "",
+        "number": "06",
+        "title": "Wealth Whispers Loudest",
+        "body": "The richest operators you have never heard of own the future. They skipped the speaking circuit and bought compounding assets instead. Quiet money does not seek an audience. It seeks ownership, optionality, and time.",
+        "handle": "",
+        "domain": ""
+      }
+    },
+    {
+      "layoutId": "cta-beige-serif",
+      "slots": {
+        "brand": "",
+        "eyebrow": "START TODAY",
+        "headline": "Build in Silence",
+        "body": "Stop chasing virality and start competing on margins. True wealth is built quietly, one profitable decision at a time.",
+        "buttonLabel": "START COMPOUNDING NOW",
+        "handle": ""
+      }
+    }
+  ]
+}

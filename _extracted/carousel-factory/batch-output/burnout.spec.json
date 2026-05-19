@@ -7,103 +7,103 @@
     {
       "layoutId": "cover-noir-yellow",
       "slots": {
-        "brand": "The Offprint",
+        "brand": "",
         "scriptPrefix": "Dear",
         "displayLine1": "THE PRODUCTIVITY",
         "displayLine2": "ISSUE:",
         "displayLine3": "NO BURNOUT",
         "scriptTagline": "a field guide for the weary mind",
-        "handle": "@theoffprint",
+        "handle": "",
         "slideId": "Slide 01"
       }
     },
     {
       "layoutId": "body-noir-yellow",
       "slots": {
-        "brand": "The Offprint",
+        "brand": "",
         "scriptPrefix": "First",
         "displayLine1": "THE MODERN",
         "displayLine2": "WORK ETHIC",
         "displayLine3": "IS A TRAP",
         "body": "We have mistaken motion for meaning, burning through hours as if exhaustion were a credential. The body keeps score long before the mind admits defeat.",
-        "handle": "@theoffprint",
+        "handle": "",
         "slideId": "Slide 02"
       }
     },
     {
       "layoutId": "body-noir-yellow",
       "slots": {
-        "brand": "The Offprint",
+        "brand": "",
         "scriptPrefix": "Listen",
         "displayLine1": "MULTITASKING",
         "displayLine2": "IS A",
         "displayLine3": "LIE WE TELL",
         "body": "Your attention is not a lantern; it is a beam. Split it too many ways and you illuminate nothing fully.",
-        "handle": "@theoffprint",
+        "handle": "",
         "slideId": "Slide 03"
       }
     },
     {
       "layoutId": "body-noir-yellow",
       "slots": {
-        "brand": "The Offprint",
+        "brand": "",
         "scriptPrefix": "Try",
         "displayLine1": "DEPTH",
         "displayLine2": "OVER",
         "displayLine3": "BREADTH",
         "body": "Choose one thread and follow it to the end. Two hours of focused labor outlasts a day of fractured busyness.",
-        "handle": "@theoffprint",
+        "handle": "",
         "slideId": "Slide 04"
       }
     },
     {
       "layoutId": "body-noir-yellow",
       "slots": {
-        "brand": "The Offprint",
+        "brand": "",
         "scriptPrefix": "Rest",
         "displayLine1": "IDLENESS",
         "displayLine2": "IS NOT",
         "displayLine3": "THE ENEMY",
         "body": "The blank page frightens us, yet the mind requires fallow seasons. Recovery is not the absence of work; it is its prerequisite.",
-        "handle": "@theoffprint",
+        "handle": "",
         "slideId": "Slide 05"
       }
     },
     {
       "layoutId": "body-noir-yellow",
       "slots": {
-        "brand": "The Offprint",
+        "brand": "",
         "scriptPrefix": "Learn",
         "displayLine1": "GUARD YOUR",
         "displayLine2": "TIME LIKE",
         "displayLine3": "A POEM",
         "body": "Every yes is a small death to something else. Protect the margins where thought actually happens, or produce only noise.",
-        "handle": "@theoffprint",
+        "handle": "",
         "slideId": "Slide 06"
       }
     },
     {
       "layoutId": "body-noir-yellow",
       "slots": {
-        "brand": "The Offprint",
+        "brand": "",
         "scriptPrefix": "Build",
         "displayLine1": "BUILD",
         "displayLine2": "LASTING",
         "displayLine3": "SYSTEMS",
         "body": "Productivity is a rhythm, not a reckoning. Design a practice you can sustain past noon, past thirty, past the next deadline.",
-        "handle": "@theoffprint",
+        "handle": "",
         "slideId": "Slide 07"
       }
     },
     {
       "layoutId": "cta-noir-yellow",
       "slots": {
-        "brand": "The Offprint",
+        "brand": "",
         "scriptPrefix": "Begin",
         "headline": "START YOUR SLOW WORK",
         "scriptTagline": "productivity that does not cost your soul",
         "buttonLabel": "Read The Issue",
-        "handle": "@theoffprint",
+        "handle": "",
         "slideId": "Slide 08"
       }
     }

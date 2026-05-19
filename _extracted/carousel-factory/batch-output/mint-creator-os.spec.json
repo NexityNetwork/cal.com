@@ -12,7 +12,7 @@
         "titleBold": "SYSTEMS",
         "authorInitials": "AC",
         "authorName": "Alex Carter",
-        "handle": "@alexcarter",
+        "handle": "",
         "avatarBg1": "#37474f",
         "avatarBg2": "#78909c",
         "pageOf": "01 - 08"
@@ -89,7 +89,7 @@
       "slots": {
         "authorInitials": "AC",
         "authorName": "Alex Carter",
-        "handle": "@alexcarter",
+        "handle": "",
         "avatarBg1": "#37474f",
         "avatarBg2": "#78909c",
         "pageOf": "08 - 08",

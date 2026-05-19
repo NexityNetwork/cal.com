@@ -7,8 +7,8 @@
     {
       "layoutId": "cover-lime-accent",
       "slots": {
-        "brandTag": "STACK PICK",
-        "handle": "factory.51ultron.com",
+        "brandTag": "",
+        "handle": "",
         "eyebrow": "SELF HOSTED",
         "titleLine1": "6 self-hosted",
         "titleCallout": "apps",
@@ -27,7 +27,7 @@
       "layoutId": "body-lime-accent",
       "slots": {
         "numLabel": "TOOL 01",
-        "handle": "factory.51ultron.com",
+        "handle": "",
         "iconSlug1": "nextcloud",
         "toolTag": "free",
         "toolTagline": "Dropbox alternative that keeps files on your own server.",
@@ -49,7 +49,7 @@
       "layoutId": "body-lime-accent",
       "slots": {
         "numLabel": "TOOL 02",
-        "handle": "factory.51ultron.com",
+        "handle": "",
         "iconSlug1": "bitwarden",
         "toolTag": "essential",
         "toolTagline": "Password manager that secures credentials on your own hardware.",
@@ -71,7 +71,7 @@
       "layoutId": "body-lime-accent",
       "slots": {
         "numLabel": "TOOL 03",
-        "handle": "factory.51ultron.com",
+        "handle": "",
         "iconSlug1": "matomo",
         "toolTag": "privacy",
         "toolTagline": "Google Analytics replacement that respects visitor privacy by default.",
@@ -93,7 +93,7 @@
       "layoutId": "body-lime-accent",
       "slots": {
         "numLabel": "TOOL 04",
-        "handle": "factory.51ultron.com",
+        "handle": "",
         "iconSlug1": "n8n",
         "toolTag": "automation",
         "toolTagline": "Zapier alternative that wires APIs together on your machine.",
@@ -115,7 +115,7 @@
       "layoutId": "body-lime-accent",
       "slots": {
         "numLabel": "TOOL 05",
-        "handle": "factory.51ultron.com",
+        "handle": "",
         "iconSlug1": "homeassistant",
         "toolTag": "smart home",
         "toolTagline": "Central hub for IoT devices without cloud subscriptions or limits.",
@@ -137,7 +137,7 @@
       "layoutId": "body-lime-accent",
       "slots": {
         "numLabel": "TOOL 06",
-        "handle": "factory.51ultron.com",
+        "handle": "",
         "iconSlug1": "jellyfin",
         "toolTag": "media",
         "toolTagline": "Plex replacement that streams your library without transcoding limits.",
@@ -158,8 +158,8 @@
     {
       "layoutId": "cta-lime-accent",
       "slots": {
-        "brandTag": "WRAP",
-        "handle": "factory.51ultron.com",
+        "brandTag": "",
+        "handle": "",
         "eyebrow": "PICK YOURS",
         "ctaLine1": "Deploy your",
         "ctaCallout": "stack",

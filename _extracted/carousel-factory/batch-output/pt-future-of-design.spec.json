@@ -8,7 +8,7 @@
       "layoutId": "cover-photo-tag",
       "slots": {
         "tag": "HOT TAKE",
-        "handle": "@designpulse",
+        "handle": "",
         "featGlyph": "★",
         "featLabel": "TRENDING",
         "featName": "Design AI",
@@ -34,7 +34,7 @@
       "layoutId": "body-photo-tag",
       "slots": {
         "numLabel": "TOOL 01",
-        "handle": "@designpulse",
+        "handle": "",
         "iconSlug1": "figma",
         "toolName": "Figma AI",
         "toolTagline": "Auto-layout meets generative intelligence.",
@@ -70,7 +70,7 @@
       "layoutId": "body-photo-tag",
       "slots": {
         "numLabel": "TOOL 02",
-        "handle": "@designpulse",
+        "handle": "",
         "iconSlug1": "framer",
         "toolName": "Framer",
         "toolTagline": "Ship sites from your canvas.",
@@ -106,7 +106,7 @@
       "layoutId": "body-photo-tag",
       "slots": {
         "numLabel": "TOOL 03",
-        "handle": "@designpulse",
+        "handle": "",
         "iconSlug1": "linear",
         "toolName": "Linear",
         "toolTagline": "The issue tracker that design teams actually love.",
@@ -142,7 +142,7 @@
       "layoutId": "body-photo-tag",
       "slots": {
         "numLabel": "TOOL 04",
-        "handle": "@designpulse",
+        "handle": "",
         "iconSlug1": "spline",
         "toolName": "Spline",
         "toolTagline": "3D experiences for the web, no engine required.",
@@ -178,7 +178,7 @@
       "layoutId": "body-photo-tag",
       "slots": {
         "numLabel": "TOOL 05",
-        "handle": "@designpulse",
+        "handle": "",
         "iconSlug1": "vercel",
         "toolName": "v0",
         "toolTagline": "Generative UI from simple text prompts.",
@@ -214,7 +214,7 @@
       "layoutId": "body-photo-tag",
       "slots": {
         "numLabel": "TOOL 06",
-        "handle": "@designpulse",
+        "handle": "",
         "iconSlug1": "webflow",
         "toolName": "Webflow",
         "toolTagline": "Visual development meets enterprise scale.",
@@ -250,7 +250,7 @@
       "layoutId": "cta-photo-tag",
       "slots": {
         "tag": "WRAP",
-        "handle": "@designpulse",
+        "handle": "",
         "eyebrow": "start building tomorrow",
         "ctaLine1": "Upgrade your",
         "ctaAccent": "design stack",

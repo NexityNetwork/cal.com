@@ -22,7 +22,7 @@
         "heroBody": "Scrape and store time-series data locally with a powerful query language and zero licensing fees.",
         "slideTitle": "Time-series metrics done right",
         "slideSubtitle": "Cut through dashboard noise with PromQL and alerts that trigger on real thresholds.",
-        "domainText": "prometheus.io",
+        "domainText": "",
         "pageOf": "02 / 08"
       }
     },
@@ -34,7 +34,7 @@
         "heroBody": "Unify Prometheus, Loki and cloud logs into one visual layer for faster incident response.",
         "slideTitle": "Visualize everything in one place",
         "slideSubtitle": "Stop tab-switching during outages with customizable panels that show the signal, not noise.",
-        "domainText": "grafana.com",
+        "domainText": "",
         "pageOf": "03 / 08"
       }
     },
@@ -46,7 +46,7 @@
         "heroBody": "Route alerts based on service ownership and severity so only the expert gets paged.",
         "slideTitle": "On-call that respects your sleep",
         "slideSubtitle": "Escalation policies and event intelligence reduce false positives and prevent alert fatigue daily.",
-        "domainText": "pagerduty.com",
+        "domainText": "",
         "pageOf": "04 / 08"
       }
     },
@@ -58,7 +58,7 @@
         "heroBody": "Correlate infrastructure metrics, traces and logs without wiring together a dozen separate agents.",
         "slideTitle": "One platform for every layer",
         "slideSubtitle": "Out-of-the-box integrations mean less configuration time and more shipping reliable features fast.",
-        "domainText": "datadoghq.com",
+        "domainText": "",
         "pageOf": "05 / 08"
       }
     },
@@ -70,7 +70,7 @@
         "heroBody": "High-cardinality queries let you explore unknown unknowns instead of relying on predefined dashboards.",
         "slideTitle": "Explore unknowns without blind spots",
         "slideSubtitle": "Slice real-time event data by user ID or build version to find hidden bottlenecks instantly.",
-        "domainText": "honeycomb.io",
+        "domainText": "",
         "pageOf": "06 / 08"
       }
     },
@@ -82,7 +82,7 @@
         "heroBody": "Index and analyze terabytes of operational data to pinpoint root cause during active incidents.",
         "slideTitle": "Find needles in log haystacks",
         "slideSubtitle": "Powerful SPL queries transform raw text into security and operational insights within seconds.",
-        "domainText": "splunk.com",
+        "domainText": "",
         "pageOf": "07 / 08"
       }
     },

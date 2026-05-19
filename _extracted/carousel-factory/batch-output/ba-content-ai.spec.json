@@ -8,7 +8,7 @@
       "layoutId": "cover-before-after",
       "slots": {
         "pageOf": "01 / 08",
-        "handle": "@contentflow",
+        "handle": "",
         "title": "Stop doing",
         "titleAccent": "manual work",
         "description": "One writer now ships 30 AI-assisted pieces every week without burning out.",
@@ -30,7 +30,7 @@
       "layoutId": "body-before-after",
       "slots": {
         "slideLabel": "STEP 01 / 06",
-        "handle": "@contentflow",
+        "handle": "",
         "title": "Research kills",
         "titleAccent": "momentum",
         "description": "Writers spend hours browsing sources instead of drafting actual content that converts readers.",
@@ -52,7 +52,7 @@
       "layoutId": "body-before-after",
       "slots": {
         "slideLabel": "STEP 02 / 06",
-        "handle": "@contentflow",
+        "handle": "",
         "title": "Outlines take",
         "titleAccent": "too long",
         "description": "Blank-page syndrome delays every post. AI builds structure so you start with momentum.",
@@ -74,7 +74,7 @@
       "layoutId": "body-before-after",
       "slots": {
         "slideLabel": "STEP 03 / 06",
-        "handle": "@contentflow",
+        "handle": "",
         "title": "First drafts",
         "titleAccent": "in minutes",
         "description": "Turn bullet points into publish-ready prose without sacrificing your unique voice.",
@@ -96,7 +96,7 @@
       "layoutId": "body-before-after",
       "slots": {
         "slideLabel": "STEP 04 / 06",
-        "handle": "@contentflow",
+        "handle": "",
         "title": "Edit without",
         "titleAccent": "the fatigue",
         "description": "Polish faster when AI handles grammar, tone, and formatting checks instantly.",
@@ -118,7 +118,7 @@
       "layoutId": "body-before-after",
       "slots": {
         "slideLabel": "STEP 05 / 06",
-        "handle": "@contentflow",
+        "handle": "",
         "title": "Design delays",
         "titleAccent": "are gone",
         "description": "Skip the back-and-forth with designers. Auto-generate images and layouts on demand.",
@@ -140,7 +140,7 @@
       "layoutId": "body-before-after",
       "slots": {
         "slideLabel": "STEP 06 / 06",
-        "handle": "@contentflow",
+        "handle": "",
         "title": "Ship more",
         "titleAccent": "every week",
         "description": "Schedule and distribute across channels without copying and pasting into ten tabs.",
@@ -162,7 +162,7 @@
       "layoutId": "cta-before-after",
       "slots": {
         "pageOf": "08 / 08",
-        "handle": "@contentflow",
+        "handle": "",
         "eyebrow": "MAKE THE SWITCH",
         "headlineLine1": "Join the",
         "headlineAccent": "AI writers",

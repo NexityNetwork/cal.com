@@ -37,7 +37,7 @@
         "iconSlug5": "slack",
         "iconSlug6": "airtable",
         "iconSlug7": "github",
-        "handle": "@flowstate"
+        "handle": ""
       }
     },
     {
@@ -56,7 +56,7 @@
         "iconSlug5": "loom",
         "iconSlug6": "zapier",
         "iconSlug7": "notion",
-        "handle": "@flowstate"
+        "handle": ""
       }
     },
     {
@@ -75,7 +75,7 @@
         "iconSlug5": "github",
         "iconSlug6": "supabase",
         "iconSlug7": "slack",
-        "handle": "@flowstate"
+        "handle": ""
       }
     },
     {
@@ -94,7 +94,7 @@
         "iconSlug5": "notion",
         "iconSlug6": "zapier",
         "iconSlug7": "hubspot",
-        "handle": "@flowstate"
+        "handle": ""
       }
     },
     {
@@ -113,7 +113,7 @@
         "iconSlug5": "slack",
         "iconSlug6": "gmail",
         "iconSlug7": "loom",
-        "handle": "@flowstate"
+        "handle": ""
       }
     },
     {
@@ -132,7 +132,7 @@
         "iconSlug5": "loom",
         "iconSlug6": "github",
         "iconSlug7": "perplexity",
-        "handle": "@flowstate"
+        "handle": ""
       }
     },
     {
@@ -150,7 +150,7 @@
         "iconSlug6": "figma",
         "iconSlug7": "vercel",
         "iconSlug8": "slack",
-        "handle": "@flowstate"
+        "handle": ""
       }
     }
   ]

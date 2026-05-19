@@ -8,7 +8,7 @@
       "layoutId": "cover-tech-stack-grid",
       "slots": {
         "tag": "MY STACK",
-        "handle": "data.51ultron.com",
+        "handle": "",
         "eyebrow": "Modern data pipelines",
         "titleLine1": "Six tools replace",
         "titleAccent": "Kafka Spark Airflow",
@@ -46,7 +46,7 @@
         "iconSlug3": "postgresql",
         "iconSlug4": "docker",
         "iconSlug5": "github",
-        "domainText": "data.51ultron.com",
+        "domainText": "",
         "pageOf": "02 / 08"
       }
     },
@@ -69,7 +69,7 @@
         "iconSlug3": "redis",
         "iconSlug4": "docker",
         "iconSlug5": "n8n",
-        "domainText": "data.51ultron.com",
+        "domainText": "",
         "pageOf": "03 / 08"
       }
     },
@@ -92,7 +92,7 @@
         "iconSlug3": "redis",
         "iconSlug4": "docker",
         "iconSlug5": "github",
-        "domainText": "data.51ultron.com",
+        "domainText": "",
         "pageOf": "04 / 08"
       }
     },
@@ -115,7 +115,7 @@
         "iconSlug3": "docker",
         "iconSlug4": "n8n",
         "iconSlug5": "supabase",
-        "domainText": "data.51ultron.com",
+        "domainText": "",
         "pageOf": "05 / 08"
       }
     },
@@ -138,7 +138,7 @@
         "iconSlug3": "n8n",
         "iconSlug4": "postgresql",
         "iconSlug5": "redis",
-        "domainText": "data.51ultron.com",
+        "domainText": "",
         "pageOf": "06 / 08"
       }
     },
@@ -161,7 +161,7 @@
         "iconSlug3": "n8n",
         "iconSlug4": "supabase",
         "iconSlug5": "vercel",
-        "domainText": "data.51ultron.com",
+        "domainText": "",
         "pageOf": "07 / 08"
       }
     },
@@ -169,7 +169,7 @@
       "layoutId": "cta-tech-stack-grid",
       "slots": {
         "tag": "WRAP",
-        "handle": "data.51ultron.com",
+        "handle": "",
         "eyebrow": "Simpler data stacks",
         "ctaLine1": "Build faster",
         "ctaLine2": "ship cleaner data",
@@ -182,7 +182,7 @@
         "iconSlug6": "github",
         "btnPrimary": "GET THE STACK",
         "btnGhost": "READ MORE",
-        "domainText": "data.51ultron.com",
+        "domainText": "",
         "pageOf": "08 / 08"
       }
     }

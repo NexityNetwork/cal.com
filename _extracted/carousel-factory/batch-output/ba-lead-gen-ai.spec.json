@@ -8,7 +8,7 @@
       "layoutId": "cover-before-after",
       "slots": {
         "pageOf": "01 / 08",
-        "handle": "@relaystack",
+        "handle": "",
         "title": "Stop doing lead gen",
         "titleAccent": "the hard way",
         "description": "AI agents double your pipeline and cut acquisition costs in half—without extra headcount.",
@@ -30,7 +30,7 @@
       "layoutId": "body-before-after",
       "slots": {
         "slideLabel": "STEP 01 / 06",
-        "handle": "@relaystack",
+        "handle": "",
         "title": "Find leads",
         "titleAccent": "on autopilot",
         "description": "AI agents scan the web for intent signals and build your pipeline while you sleep.",
@@ -52,7 +52,7 @@
       "layoutId": "body-before-after",
       "slots": {
         "slideLabel": "STEP 02 / 06",
-        "handle": "@relaystack",
+        "handle": "",
         "title": "Qualify faster",
         "titleAccent": "with zero bias",
         "description": "Every lead is graded against your ICP in seconds, so reps only talk to buyers.",
@@ -74,7 +74,7 @@
       "layoutId": "body-before-after",
       "slots": {
         "slideLabel": "STEP 03 / 06",
-        "handle": "@relaystack",
+        "handle": "",
         "title": "Send outreach",
         "titleAccent": "that converts",
         "description": "AI writes hyper-personalized messages that land in inboxes and start real conversations.",
@@ -96,7 +96,7 @@
       "layoutId": "body-before-after",
       "slots": {
         "slideLabel": "STEP 04 / 06",
-        "handle": "@relaystack",
+        "handle": "",
         "title": "Follow up",
         "titleAccent": "never drops",
         "description": "Stale leads get nurtured across channels until they’re ready to book a meeting.",
@@ -118,7 +118,7 @@
       "layoutId": "body-before-after",
       "slots": {
         "slideLabel": "STEP 05 / 06",
-        "handle": "@relaystack",
+        "handle": "",
         "title": "Book meetings",
         "titleAccent": "while you sleep",
         "description": "Qualified prospects schedule directly onto the right rep’s calendar without back and forth.",
@@ -140,7 +140,7 @@
       "layoutId": "body-before-after",
       "slots": {
         "slideLabel": "STEP 06 / 06",
-        "handle": "@relaystack",
+        "handle": "",
         "title": "Cut CAC",
         "titleAccent": "in half",
         "description": "Automated pipeline doubles output without doubling headcount or ad spend.",
@@ -162,7 +162,7 @@
       "layoutId": "cta-before-after",
       "slots": {
         "pageOf": "08 / 08",
-        "handle": "@relaystack",
+        "handle": "",
         "eyebrow": "MAKE THE SWITCH",
         "headlineLine1": "Pipeline doubled",
         "headlineAccent": "costs halved",

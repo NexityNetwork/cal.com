@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/mint-product-launch/slide-01.png",
-      "bytes": 61610,
+      "bytes": 59650,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -115,7 +115,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/mint-product-launch/slide-08.png",
-      "bytes": 50639,
+      "bytes": 48187,
       "qa": {
         "verdict": "pass",
         "checks": {

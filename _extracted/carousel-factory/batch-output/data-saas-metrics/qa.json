@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/data-saas-metrics/slide-01.png",
-      "bytes": 64165,
+      "bytes": 47479,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -19,7 +19,7 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/data-saas-metrics/slide-02.png",
-      "bytes": 60348,
+      "bytes": 47470,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -35,7 +35,7 @@
     {
       "index": 2,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/data-saas-metrics/slide-03.png",
-      "bytes": 68280,
+      "bytes": 57198,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -51,7 +51,7 @@
     {
       "index": 3,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/data-saas-metrics/slide-04.png",
-      "bytes": 68866,
+      "bytes": 52943,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -67,7 +67,7 @@
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/data-saas-metrics/slide-05.png",
-      "bytes": 58009,
+      "bytes": 47046,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -83,7 +83,7 @@
     {
       "index": 5,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/data-saas-metrics/slide-06.png",
-      "bytes": 61676,
+      "bytes": 46355,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -99,7 +99,7 @@
     {
       "index": 6,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/data-saas-metrics/slide-07.png",
-      "bytes": 69115,
+      "bytes": 53677,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -115,7 +115,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/data-saas-metrics/slide-08.png",
-      "bytes": 73181,
+      "bytes": 59279,
       "qa": {
         "verdict": "pass",
         "checks": {

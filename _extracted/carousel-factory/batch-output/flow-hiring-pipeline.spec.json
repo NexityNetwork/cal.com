@@ -8,7 +8,7 @@
       "layoutId": "cover-flowchart",
       "slots": {
         "number": "01",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "Rapid Hiring Pipeline",
         "subtitle": "How we filled six critical roles in just thirty days.",
         "check1": "Removes guesswork from every hiring decision instantly",
@@ -32,7 +32,7 @@
       "layoutId": "body-flowchart",
       "slots": {
         "number": "02",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "Attract Top Candidates",
         "subtitle": "Post where your ideal candidates already spend time online.",
         "check1": "Builds a steady inbound applicant flow daily",
@@ -46,7 +46,7 @@
       "layoutId": "body-flowchart",
       "slots": {
         "number": "03",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "Screen With Criteria",
         "subtitle": "Filter applications using scorecards before any interview begins.",
         "check1": "Eliminates unqualified candidates within minutes flat",
@@ -60,7 +60,7 @@
       "layoutId": "body-flowchart",
       "slots": {
         "number": "04",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "Run Fast Interviews",
         "subtitle": "Conduct brief structured calls to validate skills and culture fit.",
         "check1": "Respects candidate time and builds strong trust",
@@ -74,7 +74,7 @@
       "layoutId": "body-flowchart",
       "slots": {
         "number": "05",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "Test Real Skills",
         "subtitle": "Use paid trial tasks to see actual work quality firsthand.",
         "check1": "Predicts on the job performance with accuracy",
@@ -88,7 +88,7 @@
       "layoutId": "body-flowchart",
       "slots": {
         "number": "06",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "Align The Team",
         "subtitle": "Have finalists meet future peers to confirm collaboration and values.",
         "check1": "Prevents costly misalignment on role expectations",
@@ -102,7 +102,7 @@
       "layoutId": "body-flowchart",
       "slots": {
         "number": "07",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "Close The Offer",
         "subtitle": "Present competitive offers within 24 hours of the final conversation.",
         "check1": "Captures momentum before candidates explore elsewhere",
@@ -116,7 +116,7 @@
       "layoutId": "cta-flowchart",
       "slots": {
         "number": "08",
-        "handle": "@usevisuals",
+        "handle": "",
         "eyebrow": "YOUR MOVE",
         "headlineLine1": "Diagram Your Process",
         "headlineLine2": "Hire Faster Today",

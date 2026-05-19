@@ -22,7 +22,7 @@
         "heroBody": "Replace Spotlight with a command-line style launcher that opens apps, runs scripts, and manages windows entirely from your keyboard.",
         "slideTitle": "The launcher that killed Spotlight",
         "slideSubtitle": "A command palette for apps, scripts, and system control without ever pointing.",
-        "domainText": "raycast.com",
+        "domainText": "",
         "pageOf": "02 / 08"
       }
     },
@@ -34,7 +34,7 @@
         "heroBody": "Organize your desktop using hotkeys that resize and position windows into perfect tiles in milliseconds.",
         "slideTitle": "Window tiling without the trackpad",
         "slideSubtitle": "Ditch drag-and-drop window management for instant keyboard-driven snapping across any Mac display.",
-        "domainText": "rectangleapp.com",
+        "domainText": "",
         "pageOf": "03 / 08"
       }
     },
@@ -46,7 +46,7 @@
         "heroBody": "Navigate links, scroll pages, and manage tabs using Vim-inspired shortcuts directly inside your browser.",
         "slideTitle": "Vim motions inside your browser",
         "slideSubtitle": "Turn Chrome or Firefox into a keyboard-first experience where every link is a shortcut away.",
-        "domainText": "vimium.github.io",
+        "domainText": "",
         "pageOf": "04 / 08"
       }
     },
@@ -58,7 +58,7 @@
         "heroBody": "Fly through tasks, create issues, and triage bugs using powerful shortcuts designed for developer workflows.",
         "slideTitle": "Project management without the clicks",
         "slideSubtitle": "Linear keeps your hands on the keyboard from ticket creation to sprint completion every day.",
-        "domainText": "linear.app",
+        "domainText": "",
         "pageOf": "05 / 08"
       }
     },
@@ -70,7 +70,7 @@
         "heroBody": "Link notes, toggle panes, and search your vault using customizable shortcuts that keep you writing.",
         "slideTitle": "Note-taking for keyboard purists",
         "slideSubtitle": "Build a personal knowledge base without ever breaking flow to reach for your pointer.",
-        "domainText": "obsidian.md",
+        "domainText": "",
         "pageOf": "06 / 08"
       }
     },
@@ -82,7 +82,7 @@
         "heroBody": "Assign keyboard shortcuts to every clickable button, menu, and link so your mouse stays hidden.",
         "slideTitle": "Mouseless clicking finally done right",
         "slideSubtitle": "Homerow overlays labels onto UI elements, letting you click precisely without moving your cursor.",
-        "domainText": "homerow.app",
+        "domainText": "",
         "pageOf": "07 / 08"
       }
     },

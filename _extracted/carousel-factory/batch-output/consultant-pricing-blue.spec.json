@@ -7,7 +7,7 @@
     {
       "layoutId": "cover-blue-italic",
       "slots": {
-        "handle": "@alexlane",
+        "handle": "",
         "websiteUrl": "www.alexlane.com",
         "accentLine": "5 Frameworks",
         "sub1": "For pricing your",
@@ -21,7 +21,7 @@
     {
       "layoutId": "body-blue-italic",
       "slots": {
-        "handle": "@alexlane",
+        "handle": "",
         "websiteUrl": "www.alexlane.com",
         "number": "1",
         "numberLabel": "Framework",
@@ -36,7 +36,7 @@
     {
       "layoutId": "body-blue-italic",
       "slots": {
-        "handle": "@alexlane",
+        "handle": "",
         "websiteUrl": "www.alexlane.com",
         "number": "2",
         "numberLabel": "Framework",
@@ -51,7 +51,7 @@
     {
       "layoutId": "body-blue-italic",
       "slots": {
-        "handle": "@alexlane",
+        "handle": "",
         "websiteUrl": "www.alexlane.com",
         "number": "3",
         "numberLabel": "Framework",
@@ -66,7 +66,7 @@
     {
       "layoutId": "body-blue-italic",
       "slots": {
-        "handle": "@alexlane",
+        "handle": "",
         "websiteUrl": "www.alexlane.com",
         "number": "4",
         "numberLabel": "Framework",
@@ -81,7 +81,7 @@
     {
       "layoutId": "body-blue-italic",
       "slots": {
-        "handle": "@alexlane",
+        "handle": "",
         "websiteUrl": "www.alexlane.com",
         "number": "5",
         "numberLabel": "Framework",
@@ -96,7 +96,7 @@
     {
       "layoutId": "body-blue-italic",
       "slots": {
-        "handle": "@alexlane",
+        "handle": "",
         "websiteUrl": "www.alexlane.com",
         "number": "6",
         "numberLabel": "Bonus",
@@ -111,7 +111,7 @@
     {
       "layoutId": "cta-blue-italic",
       "slots": {
-        "handle": "@alexlane",
+        "handle": "",
         "websiteUrl": "www.alexlane.com",
         "eyebrow": "YOUR TURN",
         "headline": "Price with confidence",

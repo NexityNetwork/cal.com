@@ -7,8 +7,8 @@
     {
       "layoutId": "cover-cream-table",
       "slots": {
-        "brandTag": "EMAIL STACK",
-        "handle": "@growthlab",
+        "brandTag": "",
+        "handle": "",
         "eyebrow": "the only email tools",
         "titleLine1": "5 revenue",
         "titleAccent": "email tools",
@@ -42,7 +42,7 @@
       "layoutId": "body-cream-table",
       "slots": {
         "numLabel": "SYSTEM",
-        "handle": "@growthlab",
+        "handle": "",
         "iconSlug1": "zapier",
         "toolName": "The Revenue Loop",
         "toolTagline": "Capture once, nurture forever, and convert on autopilot.",
@@ -70,7 +70,7 @@
       "layoutId": "body-cream-table",
       "slots": {
         "numLabel": "TOOL 01",
-        "handle": "@growthlab",
+        "handle": "",
         "iconSlug1": "beehiiv",
         "toolName": "Beehiiv",
         "toolTagline": "The newsletter platform built for growth and monetization.",
@@ -98,7 +98,7 @@
       "layoutId": "body-cream-table",
       "slots": {
         "numLabel": "TOOL 02",
-        "handle": "@growthlab",
+        "handle": "",
         "iconSlug1": "klaviyo",
         "toolName": "Klaviyo",
         "toolTagline": "Ecommerce email and SMS that prints repeat revenue.",
@@ -126,7 +126,7 @@
       "layoutId": "body-cream-table",
       "slots": {
         "numLabel": "TOOL 03",
-        "handle": "@growthlab",
+        "handle": "",
         "iconSlug1": "convertkit",
         "toolName": "ConvertKit",
         "toolTagline": "Creator automation that turns subscribers into loyal fans.",
@@ -154,7 +154,7 @@
       "layoutId": "body-cream-table",
       "slots": {
         "numLabel": "TOOL 04",
-        "handle": "@growthlab",
+        "handle": "",
         "iconSlug1": "lavender",
         "toolName": "Lavender",
         "toolTagline": "AI sales email coach that doubles your reply rates.",
@@ -182,7 +182,7 @@
       "layoutId": "body-cream-table",
       "slots": {
         "numLabel": "TOOL 05",
-        "handle": "@growthlab",
+        "handle": "",
         "iconSlug1": "apollo",
         "toolName": "Apollo",
         "toolTagline": "Outbound engine for finding leads and booking meetings fast.",
@@ -209,8 +209,8 @@
     {
       "layoutId": "cta-cream-table",
       "slots": {
-        "brandTag": "WRAP",
-        "handle": "@growthlab",
+        "brandTag": "",
+        "handle": "",
         "eyebrow": "build your email empire",
         "titleLine1": "stack these",
         "titleAccent": "5 tools",

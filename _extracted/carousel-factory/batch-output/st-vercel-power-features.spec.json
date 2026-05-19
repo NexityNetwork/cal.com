@@ -23,14 +23,14 @@
         "toolRole5": "Git workflow",
         "toolRole6": "Observability",
         "ctaText": "Read the breakdown",
-        "handle": "@devtips"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-stack-tour",
       "slots": {
         "slideLabel": "01 / 06",
-        "handle": "@devtips",
+        "handle": "",
         "iconSlug1": "vercel",
         "toolTagline": "Deploy without the dread",
         "description": "Vercel’s Skew Protection and Deployment Protection stop broken rollouts before users ever see them.",
@@ -51,7 +51,7 @@
       "layoutId": "body-stack-tour",
       "slots": {
         "slideLabel": "02 / 06",
-        "handle": "@devtips",
+        "handle": "",
         "iconSlug1": "nextjs",
         "toolTagline": "Static where possible, dynamic when needed",
         "description": "Incremental Static Regeneration and Partial Prerendering let you update content globally in seconds, not minutes.",
@@ -72,7 +72,7 @@
       "layoutId": "body-stack-tour",
       "slots": {
         "slideLabel": "03 / 06",
-        "handle": "@devtips",
+        "handle": "",
         "iconSlug1": "turborepo",
         "toolTagline": "Monorepo builds in seconds, not coffee breaks",
         "description": "Remote caching shares build artifacts across your team so CI never repeats work it already finished.",
@@ -93,7 +93,7 @@
       "layoutId": "body-stack-tour",
       "slots": {
         "slideLabel": "04 / 06",
-        "handle": "@devtips",
+        "handle": "",
         "iconSlug1": "sentry",
         "toolTagline": "Know it broke before your user tweets",
         "description": "Release health tracking and source-mapped stack traces turn noisy alerts into actionable deploy signals.",
@@ -114,7 +114,7 @@
       "layoutId": "body-stack-tour",
       "slots": {
         "slideLabel": "05 / 06",
-        "handle": "@devtips",
+        "handle": "",
         "iconSlug1": "github",
         "toolTagline": "Ship only what passed the gauntlet",
         "description": "Required status checks and branch protection rules mean your Vercel deploys only promote green commits.",
@@ -135,7 +135,7 @@
       "layoutId": "body-stack-tour",
       "slots": {
         "slideLabel": "06 / 06",
-        "handle": "@devtips",
+        "handle": "",
         "iconSlug1": "datadog",
         "toolTagline": "See every millisecond in production",
         "description": "Real-time APM and synthetic monitoring validate that your Vercel edge functions perform under actual load.",
@@ -156,7 +156,7 @@
       "layoutId": "cta-stack-tour",
       "slots": {
         "pageOf": "08 / 08",
-        "handle": "@devtips",
+        "handle": "",
         "eyebrow": "YOUR TURN",
         "headlineLine1": "Deploy with",
         "headlineLine2": "total confidence",

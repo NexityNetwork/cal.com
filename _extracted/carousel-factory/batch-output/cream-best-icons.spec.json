@@ -12,7 +12,7 @@
         "topic": "ICONS",
         "authorInitials": "JD",
         "authorName": "Jane Doe",
-        "handle": "@janedoe",
+        "handle": "",
         "avatarBg1": "#1acd8a",
         "avatarBg2": "#0fa968",
         "pageOf": "01 - 08"
@@ -107,7 +107,7 @@
       "slots": {
         "authorInitials": "JD",
         "authorName": "Jane Doe",
-        "handle": "@janedoe",
+        "handle": "",
         "avatarBg1": "#1acd8a",
         "avatarBg2": "#0fa968",
         "pageOf": "08 - 08",

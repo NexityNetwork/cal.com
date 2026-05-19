@@ -7,8 +7,8 @@
     {
       "layoutId": "cover-cream-table",
       "slots": {
-        "brandTag": "AI COPY",
-        "handle": "@yourhandle",
+        "brandTag": "",
+        "handle": "",
         "eyebrow": "the only writing stack",
         "titleLine1": "6 free & paid",
         "titleAccent": "AI writers",
@@ -37,7 +37,7 @@
       "layoutId": "body-cream-table",
       "slots": {
         "numLabel": "TOOL 01",
-        "handle": "@yourhandle",
+        "handle": "",
         "iconSlug1": "chatgpt",
         "toolName": "ChatGPT",
         "toolTagline": "The conversational engine that drafts anything you describe.",
@@ -65,7 +65,7 @@
       "layoutId": "body-cream-table",
       "slots": {
         "numLabel": "TOOL 02",
-        "handle": "@yourhandle",
+        "handle": "",
         "iconSlug1": "claude",
         "toolName": "Claude",
         "toolTagline": "Thoughtful long-form drafts with nuanced tone control.",
@@ -93,7 +93,7 @@
       "layoutId": "body-cream-table",
       "slots": {
         "numLabel": "TOOL 03",
-        "handle": "@yourhandle",
+        "handle": "",
         "iconSlug1": "jasper",
         "toolName": "Jasper",
         "toolTagline": "Marketing-focused AI built for campaigns that convert.",
@@ -121,7 +121,7 @@
       "layoutId": "body-cream-table",
       "slots": {
         "numLabel": "TOOL 04",
-        "handle": "@yourhandle",
+        "handle": "",
         "iconSlug1": "copyai",
         "toolName": "Copy.ai",
         "toolTagline": "Infinite short-form hooks for social and sales.",
@@ -149,7 +149,7 @@
       "layoutId": "body-cream-table",
       "slots": {
         "numLabel": "TOOL 05",
-        "handle": "@yourhandle",
+        "handle": "",
         "iconSlug1": "writesonic",
         "toolName": "Writesonic",
         "toolTagline": "SEO-optimized long content with real-time data.",
@@ -177,7 +177,7 @@
       "layoutId": "body-cream-table",
       "slots": {
         "numLabel": "TOOL 06",
-        "handle": "@yourhandle",
+        "handle": "",
         "iconSlug1": "rytr",
         "toolName": "Rytr",
         "toolTagline": "Affordable AI writer for lean teams and founders.",
@@ -204,8 +204,8 @@
     {
       "layoutId": "cta-cream-table",
       "slots": {
-        "brandTag": "WRAP",
-        "handle": "@yourhandle",
+        "brandTag": "",
+        "handle": "",
         "eyebrow": "build your writing stack",
         "titleLine1": "Stop bleeding",
         "titleAccent": "budget",

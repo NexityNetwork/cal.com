@@ -7,7 +7,7 @@
     {
       "layoutId": "cover-coral-mag",
       "slots": {
-        "brand": "HOOK STUDIO",
+        "brand": "",
         "issueLabel": "ISSUE 01",
         "issueTag": "DEEP DIVE",
         "headWord1": "SIX",
@@ -15,13 +15,13 @@
         "headWord3": "THAT",
         "subEyebrow": "STOP THE SCROLL",
         "subtitle": "Six scroll-stopping openings and the psychology behind each one.",
-        "handle": "@hookstudio"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-coral-mag",
       "slots": {
-        "brand": "HOOK STUDIO",
+        "brand": "",
         "pageLabel": "P.01",
         "number": "01",
         "eyebrow": "PATTERN INTERRUPT",
@@ -29,13 +29,13 @@
         "titleWord2": "PATTERN",
         "titleWord3": "OF EXPECTATION",
         "body": "Our brains filter out predictable content. A visual or verbal twist forces the mind to pause and process what just happened.",
-        "handle": "@hookstudio"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-coral-mag",
       "slots": {
-        "brand": "HOOK STUDIO",
+        "brand": "",
         "pageLabel": "P.02",
         "number": "02",
         "eyebrow": "CURIOSITY GAP",
@@ -43,13 +43,13 @@
         "titleWord2": "CURIOSITY",
         "titleWord3": "VOID",
         "body": "When we know a little but not enough, the brain craves closure. Open loops trigger dopamine and demand a click to resolve tension.",
-        "handle": "@hookstudio"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-coral-mag",
       "slots": {
-        "brand": "HOOK STUDIO",
+        "brand": "",
         "pageLabel": "P.03",
         "number": "03",
         "eyebrow": "PROVOCATION HOOK",
@@ -57,13 +57,13 @@
         "titleWord2": "PROVOCATION",
         "titleWord3": "TO STIR",
         "body": "Challenging beliefs triggers emotional arousal. A bold counter-narrative sparks instant engagement because the ego must defend or adapt.",
-        "handle": "@hookstudio"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-coral-mag",
       "slots": {
-        "brand": "HOOK STUDIO",
+        "brand": "",
         "pageLabel": "P.04",
         "number": "04",
         "eyebrow": "STORY START",
@@ -71,13 +71,13 @@
         "titleWord2": "CHAOS",
         "titleWord3": "NOT CONTEXT",
         "body": "The brain is wired for narrative. Dropping us into the middle of action hijacks attention before logic can decide to scroll away.",
-        "handle": "@hookstudio"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-coral-mag",
       "slots": {
-        "brand": "HOOK STUDIO",
+        "brand": "",
         "pageLabel": "P.05",
         "number": "05",
         "eyebrow": "PAIN AGITATION",
@@ -85,13 +85,13 @@
         "titleWord2": "PAIN",
         "titleWord3": "POINT FIRST",
         "body": "People protect their attention but guard their problems fiercely. Naming a specific frustration makes the content feel personally relevant instantly.",
-        "handle": "@hookstudio"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-coral-mag",
       "slots": {
-        "brand": "HOOK STUDIO",
+        "brand": "",
         "pageLabel": "P.06",
         "number": "06",
         "eyebrow": "AUTHORITY DROP",
@@ -99,20 +99,20 @@
         "titleWord2": "CREDIBILITY",
         "titleWord3": "BOMB EARLY",
         "body": "A specific, unexpected credential signals expertise faster than fluff. The brain trusts precision and rewards it with sustained focus.",
-        "handle": "@hookstudio"
+        "handle": ""
       }
     },
     {
       "layoutId": "cta-coral-mag",
       "slots": {
-        "brand": "HOOK STUDIO",
+        "brand": "",
         "pageOf": "P.08",
         "tag": "YOUR MOVE",
         "headWord1": "SAVE",
         "headWord2": "THIS",
         "body": "Which hook will you test first? Drop a comment and tag a marketer who needs to see this.",
         "buttonLabel": "Follow for more",
-        "handle": "@hookstudio"
+        "handle": ""
       }
     }
   ]

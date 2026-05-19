@@ -18,7 +18,7 @@
         "codeFn": "deploy",
         "codeArg": "'production'",
         "codeReturn": "200",
-        "domainText": "edge.run",
+        "domainText": "",
         "swipeNote": "SCROLL"
       }
     },
@@ -39,7 +39,7 @@
         "cmdLine": "wrangler deploy",
         "outLine": "Published 3.4s (9ms p99)",
         "okLine": "✓ LIVE",
-        "domainText": "workers.dev",
+        "domainText": "",
         "pageOf": "01 / 06"
       }
     },
@@ -60,7 +60,7 @@
         "cmdLine": "deployctl deploy",
         "outLine": "Project linked to prod",
         "okLine": "✓ READY",
-        "domainText": "deno.dev",
+        "domainText": "",
         "pageOf": "02 / 06"
       }
     },
@@ -81,7 +81,7 @@
         "cmdLine": "vercel --prod",
         "outLine": "Edge config updated",
         "okLine": "✓ DONE",
-        "domainText": "vercel.app",
+        "domainText": "",
         "pageOf": "03 / 06"
       }
     },
@@ -102,7 +102,7 @@
         "cmdLine": "netlify deploy --build",
         "outLine": "Edge functions 12 uploaded",
         "okLine": "✓ LIVE",
-        "domainText": "netlify.app",
+        "domainText": "",
         "pageOf": "04 / 06"
       }
     },
@@ -123,7 +123,7 @@
         "cmdLine": "fastly compute publish",
         "outLine": "Active on 95 POPs",
         "okLine": "✓ ACTIVE",
-        "domainText": "fastly.com",
+        "domainText": "",
         "pageOf": "05 / 06"
       }
     },
@@ -144,7 +144,7 @@
         "cmdLine": "supabase functions deploy",
         "outLine": "Serverless function up",
         "okLine": "✓ OK",
-        "domainText": "supabase.co",
+        "domainText": "",
         "pageOf": "06 / 06"
       }
     },
@@ -160,7 +160,7 @@
         "btnGhost": "Read the report",
         "meta1": "open source · MIT",
         "meta2": "built in 2026",
-        "domainText": "edge.run",
+        "domainText": "",
         "pageOf": "06 / 06"
       }
     }

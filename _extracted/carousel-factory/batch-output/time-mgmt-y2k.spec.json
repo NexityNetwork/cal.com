@@ -9,7 +9,7 @@
       "slots": {
         "authorInitials": "JD",
         "authorName": "Jordan Drake",
-        "handle": "@jordandrake",
+        "handle": "",
         "number": "5",
         "firstWord": "Time",
         "secondLine": "Management",
@@ -23,7 +23,7 @@
       "slots": {
         "authorInitials": "JD",
         "authorName": "Jordan Drake",
-        "handle": "@jordandrake",
+        "handle": "",
         "number": "1",
         "title": "Prioritize Important Tasks",
         "body": "Sort tasks by urgency and importance so you focus only on what actually moves the needle. Ignore busywork that drains your day without advancing your goals.",
@@ -35,7 +35,7 @@
       "slots": {
         "authorInitials": "JD",
         "authorName": "Jordan Drake",
-        "handle": "@jordandrake",
+        "handle": "",
         "number": "2",
         "title": "Time-Block Deep Work",
         "body": "Schedule focused sprints of ninety minutes instead of filling every calendar slot. Protect these windows like non-negotiable meetings with yourself.",
@@ -47,7 +47,7 @@
       "slots": {
         "authorInitials": "JD",
         "authorName": "Jordan Drake",
-        "handle": "@jordandrake",
+        "handle": "",
         "number": "3",
         "title": "Batch Similar Tasks",
         "body": "Group emails, calls, and admin into one daily chunk to preserve mental bandwidth. Context switching kills momentum faster than any single distraction.",
@@ -59,7 +59,7 @@
       "slots": {
         "authorInitials": "JD",
         "authorName": "Jordan Drake",
-        "handle": "@jordandrake",
+        "handle": "",
         "number": "4",
         "title": "Use A To-Don't List",
         "body": "Write down commitments you will refuse so your real priorities get the attention they deserve. Boundaries are the secret weapon against overwhelm.",
@@ -71,7 +71,7 @@
       "slots": {
         "authorInitials": "JD",
         "authorName": "Jordan Drake",
-        "handle": "@jordandrake",
+        "handle": "",
         "number": "5",
         "title": "Set A Shutdown Ritual",
         "body": "End each workday with a five-minute review and a clear tomorrow plan. This lets your brain clock out without relying on a packed calendar.",
@@ -83,7 +83,7 @@
       "slots": {
         "authorInitials": "JD",
         "authorName": "Jordan Drake",
-        "handle": "@jordandrake",
+        "handle": "",
         "number": "6",
         "title": "Automate Repetitive Decisions",
         "body": "Create templates and default choices for recurring situations to save cognitive energy. Fewer decisions mean more room for creative, high-impact work.",
@@ -95,7 +95,7 @@
       "slots": {
         "authorInitials": "JD",
         "authorName": "Jordan Drake",
-        "handle": "@jordandrake",
+        "handle": "",
         "eyebrow": "YOUR TURN",
         "headlineMain": "DITCH THE",
         "accentLine": "CALENDAR CHAOS",

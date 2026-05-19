@@ -7,7 +7,7 @@
     {
       "layoutId": "cover-minimal-beauty",
       "slots": {
-        "handle": "@lumen.skin",
+        "handle": "",
         "author": "ELENA VOSS",
         "role": "SKIN SPECIALIST",
         "titleLine1": "5 PRODUCTS",
@@ -19,7 +19,7 @@
     {
       "layoutId": "body-minimal-beauty",
       "slots": {
-        "handle": "@lumen.skin",
+        "handle": "",
         "author": "ELENA VOSS",
         "number": "00 / 05",
         "title": "EDIT YOUR SHELF",
@@ -29,7 +29,7 @@
     {
       "layoutId": "body-minimal-beauty",
       "slots": {
-        "handle": "@lumen.skin",
+        "handle": "",
         "author": "ELENA VOSS",
         "number": "01 / 05",
         "title": "GENTLE CLEANSE",
@@ -39,7 +39,7 @@
     {
       "layoutId": "body-minimal-beauty",
       "slots": {
-        "handle": "@lumen.skin",
+        "handle": "",
         "author": "ELENA VOSS",
         "number": "02 / 05",
         "title": "HYDRATING TONER",
@@ -49,7 +49,7 @@
     {
       "layoutId": "body-minimal-beauty",
       "slots": {
-        "handle": "@lumen.skin",
+        "handle": "",
         "author": "ELENA VOSS",
         "number": "03 / 05",
         "title": "TARGETED SERUM",
@@ -59,7 +59,7 @@
     {
       "layoutId": "body-minimal-beauty",
       "slots": {
-        "handle": "@lumen.skin",
+        "handle": "",
         "author": "ELENA VOSS",
         "number": "04 / 05",
         "title": "BARRIER CREAM",
@@ -69,7 +69,7 @@
     {
       "layoutId": "body-minimal-beauty",
       "slots": {
-        "handle": "@lumen.skin",
+        "handle": "",
         "author": "ELENA VOSS",
         "number": "05 / 05",
         "title": "DAILY SHIELD",
@@ -79,7 +79,7 @@
     {
       "layoutId": "cta-minimal-beauty",
       "slots": {
-        "handle": "@lumen.skin",
+        "handle": "",
         "author": "ELENA VOSS",
         "role": "SKIN SPECIALIST",
         "eyebrow": "YOUR RITUAL",

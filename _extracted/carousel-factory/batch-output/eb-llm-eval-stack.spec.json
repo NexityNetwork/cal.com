@@ -7,8 +7,8 @@
     {
       "layoutId": "cover-edu-bright",
       "slots": {
-        "brandTag": "ML GUIDE",
-        "handle": "@datalead",
+        "brandTag": "",
+        "handle": "",
         "eyebrow": "Pipeline, metrics, and tools",
         "titleLine1": "Build a",
         "titleAccent": "drift-proof",
@@ -36,7 +36,7 @@
       "layoutId": "body-edu-bright-chart",
       "slots": {
         "numLabel": "STEP 01",
-        "handle": "@datalead",
+        "handle": "",
         "sectionLabel": "METRIC 01",
         "title": "Accuracy fades",
         "titleItalic": "fast",
@@ -68,7 +68,7 @@
       "layoutId": "body-edu-bright-flow",
       "slots": {
         "numLabel": "STEP 02",
-        "handle": "@datalead",
+        "handle": "",
         "sectionLabel": "EVAL PIPELINE",
         "title": "Eval pipeline",
         "titleItalic": "basics",
@@ -101,7 +101,7 @@
       "layoutId": "body-edu-bright-table",
       "slots": {
         "numLabel": "STEP 03",
-        "handle": "@datalead",
+        "handle": "",
         "sectionLabel": "JUDGE TOOLS",
         "title": "Pick the right",
         "titleItalic": "evaluator",
@@ -143,7 +143,7 @@
       "layoutId": "body-edu-bright-chart",
       "slots": {
         "numLabel": "STEP 04",
-        "handle": "@datalead",
+        "handle": "",
         "sectionLabel": "DRIFT 01",
         "title": "Detect output",
         "titleItalic": "drift",
@@ -175,7 +175,7 @@
       "layoutId": "body-edu-bright-flow",
       "slots": {
         "numLabel": "STEP 05",
-        "handle": "@datalead",
+        "handle": "",
         "sectionLabel": "EVAL PIPELINE",
         "title": "Online eval",
         "titleItalic": "loop",
@@ -208,7 +208,7 @@
       "layoutId": "body-edu-bright-table",
       "slots": {
         "numLabel": "STEP 06",
-        "handle": "@datalead",
+        "handle": "",
         "sectionLabel": "OBS STACK",
         "title": "Observability",
         "titleItalic": "matrix",
@@ -249,8 +249,8 @@
     {
       "layoutId": "cta-edu-bright",
       "slots": {
-        "brandTag": "RECAP",
-        "handle": "@datalead",
+        "brandTag": "",
+        "handle": "",
         "eyebrow": "Pipeline, metrics, and tools",
         "ctaLine1": "Build your eval",
         "ctaAccent": "stack now",

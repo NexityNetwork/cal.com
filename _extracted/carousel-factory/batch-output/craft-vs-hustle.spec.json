@@ -7,103 +7,103 @@
     {
       "layoutId": "cover-noir-yellow",
       "slots": {
-        "brand": "ATELIER",
+        "brand": "",
         "scriptPrefix": "Introducing",
         "displayLine1": "CRAFT OVER",
         "displayLine2": "HUSTLE",
         "displayLine3": "6 TRUTHS",
         "scriptTagline": "what makers know that hustlers never learn",
-        "handle": "@atelierworks",
+        "handle": "",
         "slideId": "Slide 01"
       }
     },
     {
       "layoutId": "body-noir-yellow",
       "slots": {
-        "brand": "ATELIER",
+        "brand": "",
         "scriptPrefix": "One",
         "displayLine1": "REST IS",
         "displayLine2": "PART OF",
         "displayLine3": "THE CRAFT",
         "body": "Makers step away to let ideas ferment. Hustlers grind through the wall and call it virtue. True clarity arrives in stillness, not chaos.",
-        "handle": "@atelierworks",
+        "handle": "",
         "slideId": "Slide 02"
       }
     },
     {
       "layoutId": "body-noir-yellow",
       "slots": {
-        "brand": "ATELIER",
+        "brand": "",
         "scriptPrefix": "Two",
         "displayLine1": "LIMITS",
         "displayLine2": "FUEL",
         "displayLine3": "INVENTION",
         "body": "A tight budget and a deadline force ingenuity. Hustlers add more tools. Makers strip away the noise until only signal remains.",
-        "handle": "@atelierworks",
+        "handle": "",
         "slideId": "Slide 03"
       }
     },
     {
       "layoutId": "body-noir-yellow",
       "slots": {
-        "brand": "ATELIER",
+        "brand": "",
         "scriptPrefix": "Three",
         "displayLine1": "ITERATE",
         "displayLine2": "WITH",
         "displayLine3": "INTENTION",
         "body": "Version twelve is not failure; it is conversation. Hustlers ship and forget. Makers revisit the work until the object speaks back.",
-        "handle": "@atelierworks",
+        "handle": "",
         "slideId": "Slide 04"
       }
     },
     {
       "layoutId": "body-noir-yellow",
       "slots": {
-        "brand": "ATELIER",
+        "brand": "",
         "scriptPrefix": "Four",
         "displayLine1": "THE WORK",
         "displayLine2": "IS THE",
         "displayLine3": "REWARD",
         "body": "Hustlers chase outcomes and empty metrics. Makers fall in love with the doing. When the process matters, the product takes care of itself.",
-        "handle": "@atelierworks",
+        "handle": "",
         "slideId": "Slide 05"
       }
     },
     {
       "layoutId": "body-noir-yellow",
       "slots": {
-        "brand": "ATELIER",
+        "brand": "",
         "scriptPrefix": "Five",
         "displayLine1": "SKILL BEATS",
         "displayLine2": "THE",
         "displayLine3": "TOOLKIT",
         "body": "New software will not save a weak concept. Hustlers collect plugins. Makers sharpen the hand and eye until the medium obeys instinct.",
-        "handle": "@atelierworks",
+        "handle": "",
         "slideId": "Slide 06"
       }
     },
     {
       "layoutId": "body-noir-yellow",
       "slots": {
-        "brand": "ATELIER",
+        "brand": "",
         "scriptPrefix": "Six",
         "displayLine1": "BUILD",
         "displayLine2": "FOR",
         "displayLine3": "FOREVER",
         "body": "Trends fade by Tuesday. Hustlers optimize for the feed. Makers carve work that outlasts the algorithm, trading virality for timelessness.",
-        "handle": "@atelierworks",
+        "handle": "",
         "slideId": "Slide 07"
       }
     },
     {
       "layoutId": "cta-noir-yellow",
       "slots": {
-        "brand": "ATELIER",
+        "brand": "",
         "scriptPrefix": "Begin",
         "headline": "YOUR CRAFT AWAITS",
         "scriptTagline": "trade the hustle for something timeless",
         "buttonLabel": "Start Today",
-        "handle": "@atelierworks",
+        "handle": "",
         "slideId": "Slide 08"
       }
     }

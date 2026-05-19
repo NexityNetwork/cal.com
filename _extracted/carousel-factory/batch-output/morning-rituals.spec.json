@@ -7,7 +7,7 @@
     {
       "layoutId": "cover-beige-serif",
       "slots": {
-        "brand": "Nora Ellis",
+        "brand": "",
         "headline": "The morning rituals that changed how I run my business",
         "slideCountHero": "6"
       }
@@ -15,78 +15,78 @@
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "Nora Ellis",
+        "brand": "",
         "number": "01",
         "title": "Phone-Free Mornings",
         "body": "I leave my phone in airplane mode until nine. Those first hours belong to my thoughts, not notifications. The clarity compounds faster than you expect.",
-        "handle": "@noraellis",
-        "domain": "x.com"
+        "handle": "",
+        "domain": ""
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "Nora Ellis",
+        "brand": "",
         "number": "02",
         "title": "Move Before Email",
         "body": "Twenty minutes of stretching or walking resets my nervous system. Exercise before screens prevents reactive mode all day. I make better decisions by ten.",
-        "handle": "@noraellis",
-        "domain": "x.com"
+        "handle": "",
+        "domain": ""
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "Nora Ellis",
+        "brand": "",
         "number": "03",
         "title": "Single Priority Block",
         "body": "I calendar ninety minutes for my hardest task first. Protecting deep work early means progress even if the day unravels. Everything else waits.",
-        "handle": "@noraellis",
-        "domain": "x.com"
+        "handle": "",
+        "domain": ""
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "Nora Ellis",
+        "brand": "",
         "number": "04",
         "title": "Silent Journaling",
         "body": "Three pages of unfiltered handwriting clears mental clutter. It surfaces anxieties before they become fires. The practice takes twelve minutes and saves hours.",
-        "handle": "@noraellis",
-        "domain": "x.com"
+        "handle": "",
+        "domain": ""
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "Nora Ellis",
+        "brand": "",
         "number": "05",
         "title": "Protein First",
         "body": "A savory breakfast stabilizes blood sugar and mood. I avoid the mid-morning crash that used to derail meetings. Fuel determines focus.",
-        "handle": "@noraellis",
-        "domain": "x.com"
+        "handle": "",
+        "domain": ""
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "Nora Ellis",
+        "brand": "",
         "number": "06",
         "title": "Cold Water Reset",
         "body": "I finish my shower with sixty seconds of cold water. The shock dissolves residual sleep and builds resilience. It is the fastest mindset shift available.",
-        "handle": "@noraellis",
-        "domain": "x.com"
+        "handle": "",
+        "domain": ""
       }
     },
     {
       "layoutId": "cta-beige-serif",
       "slots": {
-        "brand": "Nora Ellis",
+        "brand": "",
         "eyebrow": "YOUR TURN",
         "headline": "Build your morning system",
         "body": "Steal the exact checklist I use before nine. Small shifts create outsized results.",
         "buttonLabel": "GET THE CHECKLIST",
-        "handle": "@noraellis"
+        "handle": ""
       }
     }
   ]

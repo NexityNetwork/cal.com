@@ -7,7 +7,7 @@
     {
       "layoutId": "cover-photo-split",
       "slots": {
-        "brand": "VANTAGE",
+        "brand": "",
         "headline": "Six rebrand mistakes that kill customer loyalty",
         "swipeNote": "Swipe to see all six costly mistakes"
       }
@@ -15,7 +15,7 @@
     {
       "layoutId": "body-photo-split",
       "slots": {
-        "brand": "VANTAGE",
+        "brand": "",
         "number": "01",
         "eyebrow": "MISTAKE ONE",
         "title": "Chasing trends over truth",
@@ -25,7 +25,7 @@
     {
       "layoutId": "body-photo-split",
       "slots": {
-        "brand": "VANTAGE",
+        "brand": "",
         "number": "02",
         "eyebrow": "MISTAKE TWO",
         "title": "Ignoring your loyal fans",
@@ -35,7 +35,7 @@
     {
       "layoutId": "body-photo-split",
       "slots": {
-        "brand": "VANTAGE",
+        "brand": "",
         "number": "03",
         "eyebrow": "MISTAKE THREE",
         "title": "Overcomplicating the visual system",
@@ -45,7 +45,7 @@
     {
       "layoutId": "body-photo-split",
       "slots": {
-        "brand": "VANTAGE",
+        "brand": "",
         "number": "04",
         "eyebrow": "MISTAKE FOUR",
         "title": "Inconsistent rollout across channels",
@@ -55,7 +55,7 @@
     {
       "layoutId": "body-photo-split",
       "slots": {
-        "brand": "VANTAGE",
+        "brand": "",
         "number": "05",
         "eyebrow": "MISTAKE FIVE",
         "title": "Erasing hard-won search equity",
@@ -65,7 +65,7 @@
     {
       "layoutId": "body-photo-split",
       "slots": {
-        "brand": "VANTAGE",
+        "brand": "",
         "number": "06",
         "eyebrow": "MISTAKE SIX",
         "title": "Rebranding without internal buy-in",
@@ -75,7 +75,7 @@
     {
       "layoutId": "cta-photo-split",
       "slots": {
-        "brand": "VANTAGE",
+        "brand": "",
         "quote": "Your brand is a promise, not a paint job",
         "eyebrow": "READY?",
         "headline": "Build a rebrand that keeps customers",

@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/tsg-devops-10min-deploy/slide-01.png",
-      "bytes": 129107,
+      "bytes": 126227,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -19,7 +19,7 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/tsg-devops-10min-deploy/slide-02.png",
-      "bytes": 103681,
+      "bytes": 101531,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -35,7 +35,7 @@
     {
       "index": 2,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/tsg-devops-10min-deploy/slide-03.png",
-      "bytes": 109916,
+      "bytes": 107834,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -51,7 +51,7 @@
     {
       "index": 3,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/tsg-devops-10min-deploy/slide-04.png",
-      "bytes": 111029,
+      "bytes": 108966,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -67,7 +67,7 @@
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/tsg-devops-10min-deploy/slide-05.png",
-      "bytes": 112446,
+      "bytes": 110560,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -83,7 +83,7 @@
     {
       "index": 5,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/tsg-devops-10min-deploy/slide-06.png",
-      "bytes": 109867,
+      "bytes": 107799,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -99,7 +99,7 @@
     {
       "index": 6,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/tsg-devops-10min-deploy/slide-07.png",
-      "bytes": 103858,
+      "bytes": 101722,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -115,7 +115,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/tsg-devops-10min-deploy/slide-08.png",
-      "bytes": 304023,
+      "bytes": 298987,
       "qa": {
         "verdict": "pass",
         "checks": {

@@ -8,7 +8,7 @@
       "layoutId": "cover-black-warning",
       "slots": {
         "number": "01",
-        "handle": "@usevisuals",
+        "handle": "",
         "eyebrow": "HIRING WARNING",
         "titleLine1": "5 Red Flags in",
         "titleAccent": "Early Hires",
@@ -20,7 +20,7 @@
       "layoutId": "body-black-warning",
       "slots": {
         "number": "02",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "Hiring Mistakes Compound Fast",
         "body": "Your first ten hires set the DNA of your company. Bad fits don't quit quietly.",
         "calloutLabel": "KEY INSIGHT",
@@ -32,7 +32,7 @@
       "layoutId": "body-black-warning",
       "slots": {
         "number": "03",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "They Blame Everyone Else",
         "body": "Candidates who play the victim in interview stories become toxic teammates overnight.",
         "calloutLabel": "RED FLAG",
@@ -44,7 +44,7 @@
       "layoutId": "body-black-warning",
       "slots": {
         "number": "04",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "They Talk More Than Listen",
         "body": "Dominating the interview is a preview of dominating every meeting. Ego scales poorly.",
         "calloutLabel": "RED FLAG",
@@ -56,7 +56,7 @@
       "layoutId": "body-black-warning",
       "slots": {
         "number": "05",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "They Need Perfect Conditions",
         "body": "If they require luxury tools to start, they won't survive startup chaos.",
         "calloutLabel": "RED FLAG",
@@ -68,7 +68,7 @@
       "layoutId": "body-black-warning",
       "slots": {
         "number": "06",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "They Dismiss the Mission",
         "body": "Indifference to your 'why' becomes indifference to customers and teammates.",
         "calloutLabel": "RED FLAG",
@@ -80,7 +80,7 @@
       "layoutId": "body-black-warning",
       "slots": {
         "number": "07",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "They Gossip to Impress",
         "body": "Trash-talking former employers in interviews becomes office politics later.",
         "calloutLabel": "RED FLAG",
@@ -92,7 +92,7 @@
       "layoutId": "cta-black-warning",
       "slots": {
         "number": "08",
-        "handle": "@usevisuals",
+        "handle": "",
         "eyebrow": "YOUR MOVE",
         "headlineLine1": "Audit Your",
         "headlineAccent": "Next Hire",

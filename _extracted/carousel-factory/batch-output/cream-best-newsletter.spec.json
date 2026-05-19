@@ -12,7 +12,7 @@
         "topic": "NEWSLETTERS",
         "authorInitials": "JD",
         "authorName": "Jordan Doe",
-        "handle": "@jordandoe",
+        "handle": "",
         "avatarBg1": "#1acd8a",
         "avatarBg2": "#e2ffed",
         "pageOf": "01 - 08"
@@ -107,7 +107,7 @@
       "slots": {
         "authorInitials": "JD",
         "authorName": "Jordan Doe",
-        "handle": "@jordandoe",
+        "handle": "",
         "avatarBg1": "#1acd8a",
         "avatarBg2": "#e2ffed",
         "pageOf": "08 - 08",

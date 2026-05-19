@@ -1,0 +1,180 @@
+{
+  "id": "fdr-newsletter-zero-50k",
+  "brand": "The AI Newsletter",
+  "brief": "Newsletter from 0 to 50,000 subscribers with AI. The compounding playbook, the topic shifts, the monetization at scale.",
+  "theme": "before-after",
+  "slides": [
+    {
+      "layoutId": "cover-before-after",
+      "slots": {
+        "pageOf": "01 / 08",
+        "handle": "",
+        "title": "Stop guessing.",
+        "titleAccent": "Start scaling.",
+        "description": "Build a 50,000-subscriber newsletter using AI. The compounding playbook that turns content into a growth engine.",
+        "badLabel1": "Manual content creation",
+        "badLabel2": "Inconsistent publishing",
+        "badStat1": "0.5% weekly growth",
+        "badStat2": "20 hrs / issue",
+        "goodLabel1": "AI-assisted workflows",
+        "goodLabel2": "Compounding momentum",
+        "goodStat1": "10% weekly growth",
+        "goodStat2": "3 hrs / issue",
+        "iconSlug1": "openai",
+        "iconSlug2": "anthropic",
+        "iconSlug3": "notion",
+        "iconSlug4": "convertkit"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 01 / 06",
+        "handle": "",
+        "title": "Pick topics",
+        "titleAccent": "that convert.",
+        "description": "Most newsletters fail because they chase trends. AI finds underserved niches with high intent.",
+        "badLabel": "BEFORE",
+        "badText": "You guess topics based on gut feeling and get ignored.",
+        "badStat": "2% open rate",
+        "iconSlug1": "google-docs",
+        "iconSlug2": "twitter",
+        "goodLabel": "AFTER",
+        "goodText": "AI analyzes search intent and surfaces high-contraction ideas.",
+        "goodStat": "45% open rate",
+        "iconSlug3": "openai",
+        "iconSlug4": "perplexity",
+        "iconSlug5": "notion",
+        "ctaArrow": "Find winning topics"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 02 / 06",
+        "handle": "",
+        "title": "Write faster",
+        "titleAccent": "without fluff.",
+        "description": "Speed up creation without losing your voice. AI drafts, you refine.",
+        "badLabel": "BEFORE",
+        "badText": "You stare at a blank page for hours and publish late.",
+        "badStat": "12 hrs writing",
+        "iconSlug1": "microsoft-word",
+        "iconSlug2": "apple-notes",
+        "goodLabel": "AFTER",
+        "goodText": "AI generates structured drafts from a single prompt.",
+        "goodStat": "45 min writing",
+        "iconSlug3": "anthropic",
+        "iconSlug4": "openai",
+        "iconSlug5": "grammarly",
+        "ctaArrow": "Draft in minutes"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 03 / 06",
+        "handle": "",
+        "title": "Compound",
+        "titleAccent": "every issue.",
+        "description": "Each send builds on the last. AI repurposes content into evergreen assets.",
+        "badLabel": "BEFORE",
+        "badText": "Every issue dies after one send with zero reuse.",
+        "badStat": "1x content value",
+        "iconSlug1": "mailchimp",
+        "iconSlug2": "pdf",
+        "goodLabel": "AFTER",
+        "goodText": "One issue becomes threads, carousels, and lead magnets.",
+        "goodStat": "12x content value",
+        "iconSlug3": "openai",
+        "iconSlug4": "canva",
+        "iconSlug5": "notion",
+        "ctaArrow": "Build the flywheel"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 04 / 06",
+        "handle": "",
+        "title": "Shift topics",
+        "titleAccent": "without churn.",
+        "description": "Pivot your angle as you grow. AI tracks what resonates and maps the transition.",
+        "badLabel": "BEFORE",
+        "badText": "You pivot blindly and lose half your list overnight.",
+        "badStat": "30% unsubscribe spike",
+        "iconSlug1": "excel",
+        "iconSlug2": "mailchimp",
+        "goodLabel": "AFTER",
+        "goodText": "AI segments readers and tests new angles before full shifts.",
+        "goodStat": "4% unsubscribe rate",
+        "iconSlug3": "anthropic",
+        "iconSlug4": "perplexity",
+        "iconSlug5": "convertkit",
+        "ctaArrow": "Pivot with data"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 05 / 06",
+        "handle": "",
+        "title": "Monetize",
+        "titleAccent": "at scale.",
+        "description": "Turn attention into revenue. AI identifies sponsors and automates outreach.",
+        "badLabel": "BEFORE",
+        "badText": "You cold-pitch brands manually with no tracking.",
+        "badStat": "$200 / sponsor",
+        "iconSlug1": "gmail",
+        "iconSlug2": "sheets",
+        "goodLabel": "AFTER",
+        "goodText": "AI scores leads and writes personalized sponsor sequences.",
+        "goodStat": "$4,000 / sponsor",
+        "iconSlug3": "openai",
+        "iconSlug4": "hubspot",
+        "iconSlug5": "stripe",
+        "ctaArrow": "Close bigger deals"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 06 / 06",
+        "handle": "",
+        "title": "Automate",
+        "titleAccent": "the system.",
+        "description": "Remove yourself from the daily grind. AI runs research, writing, and scheduling.",
+        "badLabel": "BEFORE",
+        "badText": "You are the bottleneck. Growth stalls when you take a break.",
+        "badStat": "40 hrs / week",
+        "iconSlug1": "trello",
+        "iconSlug2": "calendar",
+        "goodLabel": "AFTER",
+        "goodText": "Systems run the newsletter while you focus on strategy.",
+        "goodStat": "6 hrs / week",
+        "iconSlug3": "zapier",
+        "iconSlug4": "make",
+        "iconSlug5": "notion",
+        "ctaArrow": "Run on autopilot"
+      }
+    },
+    {
+      "layoutId": "cta-before-after",
+      "slots": {
+        "pageOf": "08 / 08",
+        "handle": "",
+        "eyebrow": "MAKE THE SWITCH",
+        "headlineLine1": "Grow smarter.",
+        "headlineAccent": "Not harder.",
+        "body": "Join 10,000+ creators using AI to build newsletters that compound. Get the full playbook free.",
+        "iconSlug1": "openai",
+        "iconSlug2": "anthropic",
+        "iconSlug3": "notion",
+        "iconSlug4": "convertkit",
+        "iconSlug5": "zapier",
+        "iconSlug6": "stripe",
+        "ctaText": "Get the playbook"
+      }
+    }
+  ]
+}

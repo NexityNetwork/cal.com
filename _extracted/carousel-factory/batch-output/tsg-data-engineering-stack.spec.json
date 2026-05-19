@@ -8,7 +8,7 @@
       "layoutId": "cover-tech-stack-grid",
       "slots": {
         "tag": "MY STACK",
-        "handle": "solo.data.run",
+        "handle": "",
         "eyebrow": "data engineering for founders",
         "titleLine1": "the solo founder",
         "titleAccent": "warehouse stack",
@@ -46,7 +46,7 @@
         "iconSlug3": "postgresql",
         "iconSlug4": "docker",
         "iconSlug5": "redis",
-        "domainText": "solo.data.run",
+        "domainText": "",
         "pageOf": "02 / 08"
       }
     },
@@ -69,7 +69,7 @@
         "iconSlug3": "postgresql",
         "iconSlug4": "docker",
         "iconSlug5": "vercel",
-        "domainText": "solo.data.run",
+        "domainText": "",
         "pageOf": "03 / 08"
       }
     },
@@ -92,7 +92,7 @@
         "iconSlug3": "supabase",
         "iconSlug4": "redis",
         "iconSlug5": "vercel",
-        "domainText": "solo.data.run",
+        "domainText": "",
         "pageOf": "04 / 08"
       }
     },
@@ -115,7 +115,7 @@
         "iconSlug3": "supabase",
         "iconSlug4": "redis",
         "iconSlug5": "vercel",
-        "domainText": "solo.data.run",
+        "domainText": "",
         "pageOf": "05 / 08"
       }
     },
@@ -138,7 +138,7 @@
         "iconSlug3": "postgresql",
         "iconSlug4": "docker",
         "iconSlug5": "vercel",
-        "domainText": "solo.data.run",
+        "domainText": "",
         "pageOf": "06 / 08"
       }
     },
@@ -161,7 +161,7 @@
         "iconSlug3": "postgresql",
         "iconSlug4": "redis",
         "iconSlug5": "docker",
-        "domainText": "solo.data.run",
+        "domainText": "",
         "pageOf": "07 / 08"
       }
     },
@@ -169,7 +169,7 @@
       "layoutId": "cta-tech-stack-grid",
       "slots": {
         "tag": "WRAP",
-        "handle": "solo.data.run",
+        "handle": "",
         "eyebrow": "ship your data stack today",
         "ctaLine1": "start building now",
         "ctaLine2": "solo founder stack",
@@ -182,7 +182,7 @@
         "iconSlug6": "vercel",
         "btnPrimary": "Get the Stack",
         "btnGhost": "Read the Guide",
-        "domainText": "solo.data.run",
+        "domainText": "",
         "pageOf": "08 / 08"
       }
     }

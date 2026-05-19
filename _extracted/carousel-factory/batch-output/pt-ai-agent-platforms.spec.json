@@ -8,7 +8,7 @@
       "layoutId": "cover-photo-tag",
       "slots": {
         "tag": "HOT TAKE",
-        "handle": "@techcarousel",
+        "handle": "",
         "featGlyph": "⚡",
         "featLabel": "TRENDING",
         "featName": "AI Agents",
@@ -34,7 +34,7 @@
       "layoutId": "body-photo-tag",
       "slots": {
         "numLabel": "TOOL 01",
-        "handle": "@techcarousel",
+        "handle": "",
         "iconSlug1": "replit",
         "toolName": "Replit Agent",
         "toolTagline": "Build and deploy full-stack apps from a single prompt.",
@@ -70,7 +70,7 @@
       "layoutId": "body-photo-tag",
       "slots": {
         "numLabel": "TOOL 02",
-        "handle": "@techcarousel",
+        "handle": "",
         "iconSlug1": "zapier",
         "toolName": "Zapier AI",
         "toolTagline": "Connect 7,000+ apps with intelligent automated workflows.",
@@ -106,7 +106,7 @@
       "layoutId": "body-photo-tag",
       "slots": {
         "numLabel": "TOOL 03",
-        "handle": "@techcarousel",
+        "handle": "",
         "iconSlug1": "n8n",
         "toolName": "n8n AI",
         "toolTagline": "Fair-code workflow automation with total data control.",
@@ -142,7 +142,7 @@
       "layoutId": "body-photo-tag",
       "slots": {
         "numLabel": "TOOL 04",
-        "handle": "@techcarousel",
+        "handle": "",
         "iconSlug1": "microsoft",
         "toolName": "Copilot Studio",
         "toolTagline": "Enterprise-grade agents tuned to your data and Graph.",
@@ -178,7 +178,7 @@
       "layoutId": "body-photo-tag",
       "slots": {
         "numLabel": "TOOL 05",
-        "handle": "@techcarousel",
+        "handle": "",
         "iconSlug1": "google",
         "toolName": "Vertex AI Agent",
         "toolTagline": "Grounded generative agents built on your own documents.",
@@ -214,7 +214,7 @@
       "layoutId": "body-photo-tag",
       "slots": {
         "numLabel": "TOOL 06",
-        "handle": "@techcarousel",
+        "handle": "",
         "iconSlug1": "salesforce",
         "toolName": "Agentforce",
         "toolTagline": "Autonomous AI agents driving CRM workflows end-to-end.",
@@ -250,7 +250,7 @@
       "layoutId": "cta-photo-tag",
       "slots": {
         "tag": "WRAP",
-        "handle": "@techcarousel",
+        "handle": "",
         "eyebrow": "choose your stack wisely",
         "ctaLine1": "Build your",
         "ctaAccent": "agent fleet",

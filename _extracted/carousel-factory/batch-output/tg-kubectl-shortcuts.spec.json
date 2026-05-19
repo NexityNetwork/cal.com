@@ -7,8 +7,8 @@
     {
       "layoutId": "cover-terminal-glow",
       "slots": {
-        "brandTag": "KUBECTL",
-        "handle": "@kubehacker",
+        "brandTag": "",
+        "handle": "",
         "termTitle": "~/k8s/shortcuts.sh",
         "cmdLine": "kubectl get pods --all-namespaces",
         "outLine": "found 42 services across",
@@ -38,7 +38,7 @@
       "layoutId": "body-terminal-glow",
       "slots": {
         "numLabel": "CMD 01",
-        "handle": "@kubehacker",
+        "handle": "",
         "sectionLabel": "PLUGIN 01",
         "title": "Install with",
         "titleAccent": "krew",
@@ -73,7 +73,7 @@
       "layoutId": "body-terminal-glow",
       "slots": {
         "numLabel": "CMD 02",
-        "handle": "@kubehacker",
+        "handle": "",
         "sectionLabel": "TRICK 02",
         "title": "Switch fast",
         "titleAccent": "context",
@@ -108,7 +108,7 @@
       "layoutId": "body-terminal-glow",
       "slots": {
         "numLabel": "CMD 03",
-        "handle": "@kubehacker",
+        "handle": "",
         "sectionLabel": "ALIAS 03",
         "title": "Type short",
         "titleAccent": "aliases",
@@ -143,7 +143,7 @@
       "layoutId": "body-terminal-glow",
       "slots": {
         "numLabel": "CMD 04",
-        "handle": "@kubehacker",
+        "handle": "",
         "sectionLabel": "LOGS 04",
         "title": "Tail all",
         "titleAccent": "logs",
@@ -178,7 +178,7 @@
       "layoutId": "body-terminal-glow",
       "slots": {
         "numLabel": "CMD 05",
-        "handle": "@kubehacker",
+        "handle": "",
         "sectionLabel": "FUZZY 05",
         "title": "Pipe into",
         "titleAccent": "fzf",
@@ -213,7 +213,7 @@
       "layoutId": "body-terminal-glow",
       "slots": {
         "numLabel": "CMD 06",
-        "handle": "@kubehacker",
+        "handle": "",
         "sectionLabel": "TUI 06",
         "title": "Launch the",
         "titleAccent": "k9s",
@@ -247,8 +247,8 @@
     {
       "layoutId": "cta-terminal-glow",
       "slots": {
-        "brandTag": "KUBECTL",
-        "handle": "@kubehacker",
+        "brandTag": "",
+        "handle": "",
         "intro": "now go ship faster",
         "ctaLine1": "Save this",
         "ctaAccent": "kube stack",

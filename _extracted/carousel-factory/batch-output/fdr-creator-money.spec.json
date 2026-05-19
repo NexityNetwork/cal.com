@@ -1,0 +1,119 @@
+{
+  "id": "fdr-creator-money",
+  "brand": "CREATOR CO.",
+  "brief": "The creator-founder economy in 2026. How writers, podcasters, and educators are using AI to compound income without losing their voice.",
+  "theme": "coral-mag",
+  "slides": [
+    {
+      "layoutId": "cover-coral-mag",
+      "slots": {
+        "brand": "",
+        "issueLabel": "ISSUE 01",
+        "issueTag": "DEEP DIVE",
+        "headWord1": "THE",
+        "headWord2": "CREATOR",
+        "headWord3": "EDGE",
+        "subEyebrow": "2026 REPORT",
+        "subtitle": "How writers, podcasters, and educators compound income without losing voice.",
+        "handle": ""
+      }
+    },
+    {
+      "layoutId": "body-coral-mag",
+      "slots": {
+        "brand": "",
+        "pageLabel": "P.02",
+        "number": "01",
+        "eyebrow": "THE SHIFT",
+        "titleWord1": "WRITERS BECOME",
+        "titleWord2": "PUBLISHERS",
+        "titleWord3": "OVERNIGHT",
+        "body": "AI drafts 80% of the research, but your taste edits the final 20%. The result? Newsletters that scale into standalone media brands without hiring a masthead.",
+        "handle": ""
+      }
+    },
+    {
+      "layoutId": "body-coral-mag",
+      "slots": {
+        "brand": "",
+        "pageLabel": "P.03",
+        "number": "02",
+        "eyebrow": "THE MODEL",
+        "titleWord1": "PODCASTERS BUILD",
+        "titleWord2": "NETWORKS",
+        "titleWord3": "NOT EPISODES",
+        "body": "One voice now clones into short-form, newsletters, and courses. AI handles distribution while the host focuses on the mic.",
+        "handle": ""
+      }
+    },
+    {
+      "layoutId": "body-coral-mag",
+      "slots": {
+        "brand": "",
+        "pageLabel": "P.04",
+        "number": "03",
+        "eyebrow": "THE EDGE",
+        "titleWord1": "EDUCATORS SELL",
+        "titleWord2": "SYSTEMS",
+        "titleWord3": "NOT SECRETS",
+        "body": "Curriculum that once lived in a PDF is now an adaptive AI tutor. You monetize the methodology; the machine handles the repetition.",
+        "handle": ""
+      }
+    },
+    {
+      "layoutId": "body-coral-mag",
+      "slots": {
+        "brand": "",
+        "pageLabel": "P.05",
+        "number": "04",
+        "eyebrow": "THE STACK",
+        "titleWord1": "INCOME GETS",
+        "titleWord2": "COMPOUNDED",
+        "titleWord3": "DAILY",
+        "body": "A single insight gets atomized into seven formats. Each asset earns separately, yet all roads lead back to your owned audience.",
+        "handle": ""
+      }
+    },
+    {
+      "layoutId": "body-coral-mag",
+      "slots": {
+        "brand": "",
+        "pageLabel": "P.06",
+        "number": "05",
+        "eyebrow": "THE RISK",
+        "titleWord1": "THE REAL",
+        "titleWord2": "MOAT",
+        "titleWord3": "IS VOICE",
+        "body": "Anyone can generate content. Only you can shape the perspective that makes readers pause, listen, and pay. Guard it fiercely.",
+        "handle": ""
+      }
+    },
+    {
+      "layoutId": "body-coral-mag",
+      "slots": {
+        "brand": "",
+        "pageLabel": "P.07",
+        "number": "06",
+        "eyebrow": "THE FUTURE",
+        "titleWord1": "FOUNDERS SCALE",
+        "titleWord2": "SOLO",
+        "titleWord3": "WITH AI",
+        "body": "The creator-founder economy rewards singular vision multiplied by intelligent tools. Your voice is the product; AI is just the factory.",
+        "handle": ""
+      }
+    },
+    {
+      "layoutId": "cta-coral-mag",
+      "slots": {
+        "brand": "",
+        "pageOf": "08 / 08",
+        "tag": "YOUR MOVE",
+        "headWord1": "BUILD",
+        "headWord2": "YOURS",
+        "body": "The tools are ready. The only missing piece is your voice. Start compounding today.",
+        "buttonLabel": "FOLLOW FOR MORE",
+        "handle": ""
+      }
+    }
+  ]
+}

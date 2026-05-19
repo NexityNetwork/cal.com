@@ -8,7 +8,7 @@
       "layoutId": "cover-mono-pattern",
       "slots": {
         "pageOf": "01 / 08",
-        "handle": "@agentops",
+        "handle": "",
         "patternLabel": "INTRO",
         "word1": "THE",
         "word2": "AGENT FAILURE",
@@ -24,7 +24,7 @@
       "layoutId": "body-mono-pattern",
       "slots": {
         "pageOf": "02 / 08",
-        "handle": "@agentops",
+        "handle": "",
         "patternLabel": "FAILURE 01",
         "titleWord1": "THE",
         "titleWord2": "HALLUCINATION SPIRAL",
@@ -44,7 +44,7 @@
       "layoutId": "body-mono-pattern",
       "slots": {
         "pageOf": "03 / 08",
-        "handle": "@agentops",
+        "handle": "",
         "patternLabel": "FAILURE 02",
         "titleWord1": "THE",
         "titleWord2": "TOOL BREAK",
@@ -64,7 +64,7 @@
       "layoutId": "body-mono-pattern",
       "slots": {
         "pageOf": "04 / 08",
-        "handle": "@agentops",
+        "handle": "",
         "patternLabel": "FAILURE 03",
         "titleWord1": "THE",
         "titleWord2": "LOOP TRAP",
@@ -84,7 +84,7 @@
       "layoutId": "body-mono-pattern",
       "slots": {
         "pageOf": "05 / 08",
-        "handle": "@agentops",
+        "handle": "",
         "patternLabel": "FAILURE 04",
         "titleWord1": "THE",
         "titleWord2": "CONTEXT FADE",
@@ -104,7 +104,7 @@
       "layoutId": "body-mono-pattern",
       "slots": {
         "pageOf": "06 / 08",
-        "handle": "@agentops",
+        "handle": "",
         "patternLabel": "FAILURE 05",
         "titleWord1": "THE",
         "titleWord2": "GUARDRAIL CRACK",
@@ -124,7 +124,7 @@
       "layoutId": "body-mono-pattern",
       "slots": {
         "pageOf": "07 / 08",
-        "handle": "@agentops",
+        "handle": "",
         "patternLabel": "FAILURE 06",
         "titleWord1": "THE",
         "titleWord2": "PERFORMANCE DROP",
@@ -144,7 +144,7 @@
       "layoutId": "cta-mono-pattern",
       "slots": {
         "pageOf": "08 / 08",
-        "handle": "@agentops",
+        "handle": "",
         "patternLabel": "WRAP",
         "word1": "DEPLOY",
         "word2": "WITH CONFIDENCE",

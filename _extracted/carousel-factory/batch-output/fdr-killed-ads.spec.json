@@ -1,0 +1,180 @@
+{
+  "id": "fdr-killed-ads",
+  "brand": "Contur",
+  "brief": "I killed my $50k/month ad spend and grew faster. How AI content compounding replaced paid acquisition.",
+  "theme": "before-after",
+  "slides": [
+    {
+      "layoutId": "cover-before-after",
+      "slots": {
+        "pageOf": "01 / 08",
+        "handle": "",
+        "title": "Stop Burning",
+        "titleAccent": "Ad Budget",
+        "description": "I replaced $50k/month in paid acquisition with AI content compounding. Here's the exact playbook.",
+        "badLabel1": "Paying for every click",
+        "badLabel2": "Traffic that never converts",
+        "badStat1": "$50k/mo ad spend",
+        "badStat2": "2% conversion rate",
+        "goodLabel1": "Content that keeps scaling",
+        "goodLabel2": "Leads who already trust you",
+        "goodStat1": "$0 ad spend",
+        "goodStat2": "12x pipeline growth",
+        "iconSlug1": "openai",
+        "iconSlug2": "hubspot",
+        "iconSlug3": "wordpress",
+        "iconSlug4": "slack"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 01 / 06",
+        "handle": "",
+        "title": "The Ad Trap",
+        "titleAccent": "Is Real",
+        "description": "Monthly spend scales linearly while results plateau. You rent attention instead of owning it.",
+        "badLabel": "BEFORE",
+        "badText": "Spend $50k on ads for cold traffic that ignores your brand.",
+        "badStat": "$600 CPA",
+        "iconSlug1": "google-ads",
+        "iconSlug2": "meta",
+        "goodLabel": "AFTER",
+        "goodText": "AI creates evergreen assets that attract buyers while you sleep.",
+        "goodStat": "$0 CPA",
+        "iconSlug3": "openai",
+        "iconSlug4": "wordpress",
+        "iconSlug5": "webflow",
+        "ctaArrow": "Break the cycle"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 02 / 06",
+        "handle": "",
+        "title": "Build The Engine",
+        "titleAccent": "One Time",
+        "description": "Set up AI workflows that research, draft, and distribute content across every channel automatically.",
+        "badLabel": "BEFORE",
+        "badText": "Hire writers, editors, and agencies that drain budget and miss deadlines.",
+        "badStat": "$15k/mo",
+        "iconSlug1": "notion",
+        "iconSlug2": "upwork",
+        "goodLabel": "AFTER",
+        "goodText": "AI agents publish optimized articles and social posts daily.",
+        "goodStat": "$1k/mo",
+        "iconSlug3": "openai",
+        "iconSlug4": "make",
+        "iconSlug5": "zapier",
+        "ctaArrow": "See the stack"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 03 / 06",
+        "handle": "",
+        "title": "Distribute Everywhere",
+        "titleAccent": "On Autopilot",
+        "description": "Repurpose one core idea into LinkedIn posts, blogs, emails, and video scripts instantly.",
+        "badLabel": "BEFORE",
+        "badText": "Post sporadically with zero strategy and watch reach flatline weekly.",
+        "badStat": "300 views",
+        "iconSlug1": "linkedin",
+        "iconSlug2": "twitter",
+        "goodLabel": "AFTER",
+        "goodText": "Content syndicates to every channel the moment it goes live.",
+        "goodStat": "50k views",
+        "iconSlug3": "zapier",
+        "iconSlug4": "mailchimp",
+        "iconSlug5": "youtube",
+        "ctaArrow": "Own your reach"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 04 / 06",
+        "handle": "",
+        "title": "Capture Real Intent",
+        "titleAccent": "Not Clicks",
+        "description": "AI targets high-intent keywords and questions your ideal customers already search for.",
+        "badLabel": "BEFORE",
+        "badText": "Bid on expensive keywords and fight competitors for cold ad traffic.",
+        "badStat": "$25 CPC",
+        "iconSlug1": "google-ads",
+        "iconSlug2": "semrush",
+        "goodLabel": "AFTER",
+        "goodText": "Rank for long-tail searches that convert at ten times the rate.",
+        "goodStat": "$0 CPC",
+        "iconSlug3": "openai",
+        "iconSlug4": "ahrefs",
+        "iconSlug5": "wordpress",
+        "ctaArrow": "Target ready buyers"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 05 / 06",
+        "handle": "",
+        "title": "Compound Returns",
+        "titleAccent": "Every Month",
+        "description": "Paid ads stop when spend stops. AI content assets keep growing in value.",
+        "badLabel": "BEFORE",
+        "badText": "Traffic dies the second you pause your ad campaigns and budget.",
+        "badStat": "$0 value",
+        "iconSlug1": "meta",
+        "iconSlug2": "google-ads",
+        "goodLabel": "AFTER",
+        "goodText": "Your content library becomes a defensible asset that builds moats forever.",
+        "goodStat": "$2M value",
+        "iconSlug3": "notion",
+        "iconSlug4": "webflow",
+        "iconSlug5": "github",
+        "ctaArrow": "Build compounding assets"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 06 / 06",
+        "handle": "",
+        "title": "Grow Faster",
+        "titleAccent": "Without Ads",
+        "description": "We replaced $50k in monthly spend and tripled qualified pipeline in ninety days.",
+        "badLabel": "BEFORE",
+        "badText": "Scale meant spending more money on platforms you do not control.",
+        "badStat": "Flat growth",
+        "iconSlug1": "google-ads",
+        "iconSlug2": "linkedin",
+        "goodLabel": "AFTER",
+        "goodText": "Organic inbound scales exponentially with zero additional media spend required.",
+        "goodStat": "3x pipeline",
+        "iconSlug3": "openai",
+        "iconSlug4": "hubspot",
+        "iconSlug5": "slack",
+        "ctaArrow": "Start compounding now"
+      }
+    },
+    {
+      "layoutId": "cta-before-after",
+      "slots": {
+        "pageOf": "08 / 08",
+        "handle": "",
+        "eyebrow": "MAKE THE SWITCH",
+        "headlineLine1": "Kill The",
+        "headlineAccent": "Ad Spend",
+        "body": "Join founders replacing paid acquisition with AI content systems that scale forever.",
+        "iconSlug1": "openai",
+        "iconSlug2": "hubspot",
+        "iconSlug3": "wordpress",
+        "iconSlug4": "zapier",
+        "iconSlug5": "slack",
+        "iconSlug6": "notion",
+        "ctaText": "Get the playbook"
+      }
+    }
+  ]
+}

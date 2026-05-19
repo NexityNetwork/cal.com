@@ -7,7 +7,7 @@
     {
       "layoutId": "cover-neon-dark",
       "slots": {
-        "handle": "@cursordev",
+        "handle": "",
         "badgeLabel": "DEV WORKFLOW",
         "tag": "THREAD",
         "neonWord": "STOP",
@@ -21,7 +21,7 @@
     {
       "layoutId": "body-neon-dark",
       "slots": {
-        "handle": "@cursordev",
+        "handle": "",
         "pageOf": "02 / 08",
         "number": "1",
         "titleLabel": "HABIT ONE",
@@ -35,7 +35,7 @@
     {
       "layoutId": "body-neon-dark",
       "slots": {
-        "handle": "@cursordev",
+        "handle": "",
         "pageOf": "03 / 08",
         "number": "2",
         "titleLabel": "CONTEXT",
@@ -49,7 +49,7 @@
     {
       "layoutId": "body-neon-dark",
       "slots": {
-        "handle": "@cursordev",
+        "handle": "",
         "pageOf": "04 / 08",
         "number": "3",
         "titleLabel": "THE RULES",
@@ -63,7 +63,7 @@
     {
       "layoutId": "body-neon-dark",
       "slots": {
-        "handle": "@cursordev",
+        "handle": "",
         "pageOf": "05 / 08",
         "number": "4",
         "titleLabel": "AGENT MODE",
@@ -77,7 +77,7 @@
     {
       "layoutId": "body-neon-dark",
       "slots": {
-        "handle": "@cursordev",
+        "handle": "",
         "pageOf": "06 / 08",
         "number": "5",
         "titleLabel": "ITERATE",
@@ -91,7 +91,7 @@
     {
       "layoutId": "body-neon-dark",
       "slots": {
-        "handle": "@cursordev",
+        "handle": "",
         "pageOf": "07 / 08",
         "number": "6",
         "titleLabel": "COMPOSER",
@@ -105,7 +105,7 @@
     {
       "layoutId": "cta-neon-dark",
       "slots": {
-        "handle": "@cursordev",
+        "handle": "",
         "pageOf": "08 / 08",
         "eyebrow": "YOUR MOVE",
         "headlineNeon": "SAVE",

@@ -7,106 +7,106 @@
     {
       "layoutId": "cover-cream-gold",
       "slots": {
-        "brand": "THE QUIET FORTUNE",
+        "brand": "",
         "issueLabel": "No. 01",
         "eyebrow": "ON WEALTH & SILENCE",
         "titleLine1": "The",
         "titleLine2": "Quiet",
         "titleLine3": "Code",
         "subtitle": "Six timeless principles for building a fortune that endures without ever demanding the spotlight.",
-        "handle": "@thequietfortune",
+        "handle": "",
         "slideCount": "8"
       }
     },
     {
       "layoutId": "body-cream-gold",
       "slots": {
-        "brand": "THE QUIET FORTUNE",
+        "brand": "",
         "pageOf": "ii / viii",
         "number": "I",
         "numberLabel": "Principle",
         "titleMain": "Wealth Whispers",
         "titleItalic": "Never Shouts",
         "body": "The most enduring fortunes are invisible to the public eye. Their holders own assets that cash-flow, not headlines that feed the ego. Visibility is a tax on attention; invisibility compounds in peace.",
-        "handle": "@thequietfortune"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-cream-gold",
       "slots": {
-        "brand": "THE QUIET FORTUNE",
+        "brand": "",
         "pageOf": "iii / viii",
         "number": "II",
         "numberLabel": "Principle",
         "titleMain": "Time Is",
         "titleItalic": "The Margin",
         "body": "Quiet wealth is built during decades that others spend chasing quarters. Patience is not passive waiting; it is the deliberate refusal to interrupt compounding. The calendar is your silent partner.",
-        "handle": "@thequietfortune"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-cream-gold",
       "slots": {
-        "brand": "THE QUIET FORTUNE",
+        "brand": "",
         "pageOf": "iv / viii",
         "number": "III",
         "numberLabel": "Principle",
         "titleMain": "Live Below",
         "titleItalic": "The Line",
         "body": "Spending is the loudest advertisement of insecurity. Those who keep what they build consume in private and let their balance sheets grow thick. Underconsumption is the first dividend of self-mastery.",
-        "handle": "@thequietfortune"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-cream-gold",
       "slots": {
-        "brand": "THE QUIET FORTUNE",
+        "brand": "",
         "pageOf": "v / viii",
         "number": "IV",
         "numberLabel": "Principle",
         "titleMain": "Cash Flow",
         "titleItalic": "Over Clout",
         "body": "Status symbols depreciate the moment they are seen. The quietly wealthy prioritize private income streams over public validation. Liquidity and optionality speak a language louder than any brand.",
-        "handle": "@thequietfortune"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-cream-gold",
       "slots": {
-        "brand": "THE QUIET FORTUNE",
+        "brand": "",
         "pageOf": "vi / viii",
         "number": "V",
         "numberLabel": "Principle",
         "titleMain": "Trust Is",
         "titleItalic": "True Capital",
         "body": "Reputation travels faster than any portfolio statement. A single trusted relationship can unlock deals that capital alone cannot buy. Guard your name as your most illiquid and precious asset.",
-        "handle": "@thequietfortune"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-cream-gold",
       "slots": {
-        "brand": "THE QUIET FORTUNE",
+        "brand": "",
         "pageOf": "vii / viii",
         "number": "VI",
         "numberLabel": "Principle",
         "titleMain": "Know When",
         "titleItalic": "To Leave",
         "body": "The final power is the ability to decline, exit, and remain silent. Those who keep their wealth know that every yes has a cost and every exit preserves optionality. Walk away early.",
-        "handle": "@thequietfortune"
+        "handle": ""
       }
     },
     {
       "layoutId": "cta-cream-gold",
       "slots": {
-        "brand": "THE QUIET FORTUNE",
+        "brand": "",
         "pageOf": "viii / viii",
         "eyebrow": "A FINAL WORD",
         "headlineMain": "Keep It",
         "headlineItalic": "Quiet",
         "body": "True wealth is built in silence and protected by patience. Begin again with principle one.",
         "buttonLabel": "SAVE THIS POST",
-        "handle": "@thequietfortune"
+        "handle": ""
       }
     }
   ]

@@ -1,0 +1,127 @@
+{
+  "id": "fdr-agency-pricing",
+  "brand": "Nexus AI",
+  "brief": "AI agency pricing that actually works. Why $5k retainers beat $50/hr every time, and how to position your offer to land them.",
+  "theme": "linkedin-pro",
+  "slides": [
+    {
+      "layoutId": "cover-linkedin-pro",
+      "slots": {
+        "author": "Drew Nolan",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "1",
+        "accentColor": "#4f3df5",
+        "headline": "Stop Selling Hours. Start Selling Outcomes.",
+        "heroSymbol": "$$",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#c026d3",
+        "body": "Hourly billing caps your income and punishes efficiency. Here is how $5k retainers unlock real agency growth."
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Drew Nolan",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "2",
+        "accentColor": "#4f3df5",
+        "title": "The Hourly Trap",
+        "body": "Charging $50 per hour ties your revenue to your time. You work more to earn more, which breaks leverage.",
+        "heroSymbol": "⏱",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#c026d3",
+        "labelText": "PRICING THAT SCALES"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Drew Nolan",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "3",
+        "accentColor": "#4f3df5",
+        "title": "Retainers Reward Speed",
+        "body": "A fixed fee lets you profit from efficiency. Deliver faster results and keep the margin without raising rates.",
+        "heroSymbol": "⚡",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#c026d3",
+        "labelText": "PRICING THAT SCALES"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Drew Nolan",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "4",
+        "accentColor": "#4f3df5",
+        "title": "Price The Outcome",
+        "body": "Clients buy outcomes, not hours. Shift the conversation from time spent to business results and risk reversal.",
+        "heroSymbol": "🎯",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#c026d3",
+        "labelText": "PRICING THAT SCALES"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Drew Nolan",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "5",
+        "accentColor": "#4f3df5",
+        "title": "Package The $5K Offer",
+        "body": "Bundle strategy, implementation, and advisory into one tier. Clear scope creates confident buyers and faster sales cycles.",
+        "heroSymbol": "📦",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#c026d3",
+        "labelText": "PRICING THAT SCALES"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Drew Nolan",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "6",
+        "accentColor": "#4f3df5",
+        "title": "Position As Partner",
+        "body": "Stop presenting a menu of tasks. Present a roadmap that shows exactly how you drive revenue every month.",
+        "heroSymbol": "🤝",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#c026d3",
+        "labelText": "PRICING THAT SCALES"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Drew Nolan",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "7",
+        "accentColor": "#4f3df5",
+        "title": "Close With Confidence",
+        "body": "When you believe the retainer is a steal, the client believes it too. Confidence is your best sales asset.",
+        "heroSymbol": "🔒",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#c026d3",
+        "labelText": "PRICING THAT SCALES"
+      }
+    },
+    {
+      "layoutId": "cta-linkedin-pro",
+      "slots": {
+        "author": "Drew Nolan",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "8",
+        "accentColor": "#4f3df5",
+        "eyebrow": "YOUR TURN?",
+        "headline": "Time To Ditch Hourly?",
+        "body": "Drop a 🚀 if you are moving to retainers this quarter. Save this post for your next pricing review.",
+        "buttonLabel": "Follow For More",
+        "secondaryLabel": "Repost",
+        "handle": ""
+      }
+    }
+  ]
+}

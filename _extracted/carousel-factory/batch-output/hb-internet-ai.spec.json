@@ -7,8 +7,8 @@
     {
       "layoutId": "cover-highlight-box",
       "slots": {
-        "brandTag": "DATA POST",
-        "handle": "@aifutures",
+        "brandTag": "",
+        "handle": "",
         "accentColor": "#c6f04a",
         "eyebrow": "what nobody talks about",
         "titleLine1": "How much of",
@@ -35,7 +35,7 @@
       "layoutId": "body-highlight-box",
       "slots": {
         "numLabel": "FACT 01",
-        "handle": "@aifutures",
+        "handle": "",
         "accentColor": "#c6f04a",
         "iconSlug1": "openai",
         "toolName": "OpenAI",
@@ -70,7 +70,7 @@
       "layoutId": "body-highlight-box",
       "slots": {
         "numLabel": "FACT 02",
-        "handle": "@aifutures",
+        "handle": "",
         "accentColor": "#c6f04a",
         "iconSlug1": "google",
         "toolName": "Google",
@@ -105,7 +105,7 @@
       "layoutId": "body-highlight-box",
       "slots": {
         "numLabel": "FACT 03",
-        "handle": "@aifutures",
+        "handle": "",
         "accentColor": "#c6f04a",
         "iconSlug1": "meta",
         "toolName": "Meta",
@@ -140,7 +140,7 @@
       "layoutId": "body-highlight-box",
       "slots": {
         "numLabel": "FACT 04",
-        "handle": "@aifutures",
+        "handle": "",
         "accentColor": "#c6f04a",
         "iconSlug1": "anthropic",
         "toolName": "Anthropic",
@@ -175,7 +175,7 @@
       "layoutId": "body-highlight-box",
       "slots": {
         "numLabel": "FACT 05",
-        "handle": "@aifutures",
+        "handle": "",
         "accentColor": "#c6f04a",
         "iconSlug1": "perplexity",
         "toolName": "Perplexity",
@@ -210,7 +210,7 @@
       "layoutId": "body-highlight-box",
       "slots": {
         "numLabel": "SYNTHESIS",
-        "handle": "@aifutures",
+        "handle": "",
         "accentColor": "#c6f04a",
         "iconSlug1": "xai",
         "toolName": "xAI",
@@ -244,8 +244,8 @@
     {
       "layoutId": "cta-highlight-box",
       "slots": {
-        "brandTag": "WRAP",
-        "handle": "@aifutures",
+        "brandTag": "",
+        "handle": "",
         "accentColor": "#c6f04a",
         "eyebrow": "what happens next",
         "ctaLine1": "Follow for",

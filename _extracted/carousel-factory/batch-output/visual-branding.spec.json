@@ -7,7 +7,7 @@
     {
       "layoutId": "cover-coral-mag",
       "slots": {
-        "brand": "BOLDHOUSE",
+        "brand": "",
         "issueLabel": "CAROUSEL POST",
         "issueTag": "DEEP DIVE",
         "headWord1": "FIVE",
@@ -15,13 +15,13 @@
         "headWord3": "MISTAKES",
         "subEyebrow": "VISUAL BRANDING",
         "subtitle": "The visual errors destroying your first impression on social media.",
-        "handle": "@boldhouse"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-coral-mag",
       "slots": {
-        "brand": "BOLDHOUSE",
+        "brand": "",
         "pageLabel": "P.02",
         "number": "01",
         "eyebrow": "MISTAKE 01",
@@ -29,13 +29,13 @@
         "titleWord2": "COLORS",
         "titleWord3": "& FONTS",
         "body": "Using a different palette or typeface on every post trains your audience to scroll past. Consistency builds recognition and trust in seconds.",
-        "handle": "@boldhouse"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-coral-mag",
       "slots": {
-        "brand": "BOLDHOUSE",
+        "brand": "",
         "pageLabel": "P.03",
         "number": "02",
         "eyebrow": "MISTAKE 02",
@@ -43,13 +43,13 @@
         "titleWord2": "STOCK",
         "titleWord3": "PHOTOS",
         "body": "Blurry screenshots and overused stock models signal amateur hour. High-quality custom visuals position you as premium before a word is read.",
-        "handle": "@boldhouse"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-coral-mag",
       "slots": {
-        "brand": "BOLDHOUSE",
+        "brand": "",
         "pageLabel": "P.04",
         "number": "03",
         "eyebrow": "MISTAKE 03",
@@ -57,13 +57,13 @@
         "titleWord2": "LAYOUTS",
         "titleWord3": "EVERYWHERE",
         "body": "Cramming every inch with text and graphics overwhelms the viewer. Strategic white space directs attention and makes content digestible.",
-        "handle": "@boldhouse"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-coral-mag",
       "slots": {
-        "brand": "BOLDHOUSE",
+        "brand": "",
         "pageLabel": "P.05",
         "number": "04",
         "eyebrow": "MISTAKE 04",
@@ -71,13 +71,13 @@
         "titleWord2": "SIZE",
         "titleWord3": "& CROP",
         "body": "Posting square graphics as Reels covers or cutting off headlines looks careless. Every platform demands specific ratios for maximum impact.",
-        "handle": "@boldhouse"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-coral-mag",
       "slots": {
-        "brand": "BOLDHOUSE",
+        "brand": "",
         "pageLabel": "P.06",
         "number": "05",
         "eyebrow": "MISTAKE 05",
@@ -85,13 +85,13 @@
         "titleWord2": "FOCUS",
         "titleWord3": "POINTS",
         "body": "When everything screams, nothing is heard. A clear hierarchy guides the eye from headline to body to action without confusion.",
-        "handle": "@boldhouse"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-coral-mag",
       "slots": {
-        "brand": "BOLDHOUSE",
+        "brand": "",
         "pageLabel": "P.07",
         "number": "06",
         "eyebrow": "THE FIX",
@@ -99,20 +99,20 @@
         "titleWord2": "BOLD",
         "titleWord3": "CONSISTENT",
         "body": "Audit your last nine posts. If they don't look like a family, start over. A tight visual system turns scrollers into followers today.",
-        "handle": "@boldhouse"
+        "handle": ""
       }
     },
     {
       "layoutId": "cta-coral-mag",
       "slots": {
-        "brand": "BOLDHOUSE",
+        "brand": "",
         "pageOf": "08 / 08",
         "tag": "YOUR MOVE",
         "headWord1": "SAVE",
         "headWord2": "THIS",
         "body": "Bookmark this checklist and audit your profile before your next post goes live.",
         "buttonLabel": "FOLLOW FOR MORE",
-        "handle": "@boldhouse"
+        "handle": ""
       }
     }
   ]

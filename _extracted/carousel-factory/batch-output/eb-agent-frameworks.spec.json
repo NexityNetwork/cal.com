@@ -7,8 +7,8 @@
     {
       "layoutId": "cover-edu-bright",
       "slots": {
-        "brandTag": "AGENT GUIDE",
-        "handle": "@agentstack",
+        "brandTag": "",
+        "handle": "",
         "eyebrow": "Compare the leading frameworks",
         "titleLine1": "Top 5",
         "titleAccent": "Agent Frameworks",
@@ -36,7 +36,7 @@
       "layoutId": "body-edu-bright-chart",
       "slots": {
         "numLabel": "PART 01",
-        "handle": "@agentstack",
+        "handle": "",
         "sectionLabel": "BENCHMARK 01",
         "title": "Speed Matters Most",
         "titleItalic": "for agents",
@@ -68,7 +68,7 @@
       "layoutId": "body-edu-bright-flow",
       "slots": {
         "numLabel": "PART 02",
-        "handle": "@agentstack",
+        "handle": "",
         "sectionLabel": "PATTERN 01",
         "title": "Orchestration Flow",
         "titleItalic": "at a glance",
@@ -101,7 +101,7 @@
       "layoutId": "body-edu-bright-table",
       "slots": {
         "numLabel": "PART 03",
-        "handle": "@agentstack",
+        "handle": "",
         "sectionLabel": "COMPARE 01",
         "title": "Cost Per Run",
         "titleItalic": "breakdown",
@@ -143,7 +143,7 @@
       "layoutId": "body-edu-bright-chart",
       "slots": {
         "numLabel": "PART 04",
-        "handle": "@agentstack",
+        "handle": "",
         "sectionLabel": "BENCHMARK 02",
         "title": "Reliability Score",
         "titleItalic": "by framework",
@@ -175,7 +175,7 @@
       "layoutId": "body-edu-bright-flow",
       "slots": {
         "numLabel": "PART 05",
-        "handle": "@agentstack",
+        "handle": "",
         "sectionLabel": "PATTERN 02",
         "title": "Multi-Agent Mesh",
         "titleItalic": "architecture",
@@ -208,7 +208,7 @@
       "layoutId": "body-edu-bright-table",
       "slots": {
         "numLabel": "PART 06",
-        "handle": "@agentstack",
+        "handle": "",
         "sectionLabel": "COMPARE 02",
         "title": "Orchestration",
         "titleItalic": "patterns",
@@ -249,8 +249,8 @@
     {
       "layoutId": "cta-edu-bright",
       "slots": {
-        "brandTag": "RECAP",
-        "handle": "@agentstack",
+        "brandTag": "",
+        "handle": "",
         "eyebrow": "Master the agent stack",
         "ctaLine1": "Build faster",
         "ctaAccent": "with agents",

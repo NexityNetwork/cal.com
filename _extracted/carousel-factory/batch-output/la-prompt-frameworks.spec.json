@@ -7,8 +7,8 @@
     {
       "layoutId": "cover-lime-accent",
       "slots": {
-        "brandTag": "PROMPT STACK",
-        "handle": "promptlab.51ultron.com",
+        "brandTag": "",
+        "handle": "",
         "eyebrow": "10X OUTPUT",
         "titleLine1": "6 battle-tested",
         "titleCallout": "prompt frameworks",
@@ -27,7 +27,7 @@
       "layoutId": "body-lime-accent",
       "slots": {
         "numLabel": "FRAMEWORK 01",
-        "handle": "promptlab.51ultron.com",
+        "handle": "",
         "iconSlug1": "openai",
         "toolName": "Chain-of-Thought",
         "toolTag": "universal",
@@ -50,7 +50,7 @@
       "layoutId": "body-lime-accent",
       "slots": {
         "numLabel": "FRAMEWORK 02",
-        "handle": "promptlab.51ultron.com",
+        "handle": "",
         "iconSlug1": "anthropic",
         "toolName": "Few-Shot Prompting",
         "toolTag": "essential",
@@ -73,7 +73,7 @@
       "layoutId": "body-lime-accent",
       "slots": {
         "numLabel": "FRAMEWORK 03",
-        "handle": "promptlab.51ultron.com",
+        "handle": "",
         "iconSlug1": "google",
         "toolName": "Role Prompting",
         "toolTag": "classic",
@@ -96,7 +96,7 @@
       "layoutId": "body-lime-accent",
       "slots": {
         "numLabel": "FRAMEWORK 04",
-        "handle": "promptlab.51ultron.com",
+        "handle": "",
         "iconSlug1": "meta",
         "toolName": "CO-STAR",
         "toolTag": "structured",
@@ -119,7 +119,7 @@
       "layoutId": "body-lime-accent",
       "slots": {
         "numLabel": "FRAMEWORK 05",
-        "handle": "promptlab.51ultron.com",
+        "handle": "",
         "iconSlug1": "mistral",
         "toolName": "Tree of Thoughts",
         "toolTag": "advanced",
@@ -142,7 +142,7 @@
       "layoutId": "body-lime-accent",
       "slots": {
         "numLabel": "FRAMEWORK 06",
-        "handle": "promptlab.51ultron.com",
+        "handle": "",
         "iconSlug1": "cohere",
         "toolName": "RTF Prompting",
         "toolTag": "speed run",
@@ -164,8 +164,8 @@
     {
       "layoutId": "cta-lime-accent",
       "slots": {
-        "brandTag": "WRAP",
-        "handle": "promptlab.51ultron.com",
+        "brandTag": "",
+        "handle": "",
         "eyebrow": "START USING",
         "ctaLine1": "Prompt like a",
         "ctaCallout": "pro",

@@ -7,8 +7,8 @@
     {
       "layoutId": "cover-terminal-glow",
       "slots": {
-        "brandTag": "API CLI",
-        "handle": "@curlmaster",
+        "brandTag": "",
+        "handle": "",
         "termTitle": "~/api/curl-tricks.sh",
         "cmdLine": "curl -s https://api.kernelhq.dev/health | jq",
         "outLine": "status: healthy across",
@@ -38,7 +38,7 @@
       "layoutId": "body-terminal-glow",
       "slots": {
         "numLabel": "CMD 01",
-        "handle": "@curlmaster",
+        "handle": "",
         "sectionLabel": "TRICK 01",
         "title": "Auth with",
         "titleAccent": "-H",
@@ -73,7 +73,7 @@
       "layoutId": "body-terminal-glow",
       "slots": {
         "numLabel": "CMD 02",
-        "handle": "@curlmaster",
+        "handle": "",
         "sectionLabel": "TRICK 02",
         "title": "Post files",
         "titleAccent": "with -F",
@@ -108,7 +108,7 @@
       "layoutId": "body-terminal-glow",
       "slots": {
         "numLabel": "CMD 03",
-        "handle": "@curlmaster",
+        "handle": "",
         "sectionLabel": "TRICK 03",
         "title": "Auto retry",
         "titleAccent": "and resume",
@@ -143,7 +143,7 @@
       "layoutId": "body-terminal-glow",
       "slots": {
         "numLabel": "CMD 04",
-        "handle": "@curlmaster",
+        "handle": "",
         "sectionLabel": "TRICK 04",
         "title": "Parallel blast",
         "titleAccent": "with xargs",
@@ -178,7 +178,7 @@
       "layoutId": "body-terminal-glow",
       "slots": {
         "numLabel": "CMD 05",
-        "handle": "@curlmaster",
+        "handle": "",
         "sectionLabel": "TRICK 05",
         "title": "Group JSON",
         "titleAccent": "with jq",
@@ -213,7 +213,7 @@
       "layoutId": "body-terminal-glow",
       "slots": {
         "numLabel": "CMD 06",
-        "handle": "@curlmaster",
+        "handle": "",
         "sectionLabel": "TRICK 06",
         "title": "Inspect headers",
         "titleAccent": "with -I",
@@ -247,8 +247,8 @@
     {
       "layoutId": "cta-terminal-glow",
       "slots": {
-        "brandTag": "WRAP",
-        "handle": "@curlmaster",
+        "brandTag": "",
+        "handle": "",
         "intro": "now go ship faster",
         "ctaLine1": "Save this",
         "ctaAccent": "curl stack",

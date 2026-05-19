@@ -1,0 +1,93 @@
+{
+  "id": "fdr-stop-selling-time",
+  "brand": "LEVERAGE",
+  "brief": "Stop selling time. Start selling outcomes. The AI-leveraged shift every freelancer needs to make in 2026.",
+  "theme": "beige-paper",
+  "slides": [
+    {
+      "layoutId": "cover-beige-serif",
+      "slots": {
+        "brand": "",
+        "headline": "Stop Selling Time. Start Selling Outcomes in 2026.",
+        "slideCountHero": "6"
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "",
+        "number": "01",
+        "title": "Redefine Your Offer",
+        "body": "Your client doesn't want your hours; they want results. Package your expertise into outcome-based deliverables that solve specific business problems. When you sell the transformation, price becomes a trivial detail.",
+        "handle": "",
+        "domain": ""
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "",
+        "number": "02",
+        "title": "Productize Your Skills",
+        "body": "Turn your bespoke service into a repeatable system. AI lets you deliver faster without sacrificing quality. Clients pay for the outcome, not the labor behind it.",
+        "handle": "",
+        "domain": ""
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "",
+        "number": "03",
+        "title": "Leverage AI Tools",
+        "body": "Stop doing every task manually. Use AI to automate research, drafting, and analysis so you can focus on strategy. Your value shifts from execution to oversight.",
+        "handle": "",
+        "domain": ""
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "",
+        "number": "04",
+        "title": "Price By Value",
+        "body": "Hourly rates punish efficiency. Charge based on the business impact you create. When you deliver outcomes in half the time, your profit margin doubles.",
+        "handle": "",
+        "domain": ""
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "",
+        "number": "05",
+        "title": "Own The Strategy",
+        "body": "Execution is commoditized; strategy is scarce. Position yourself as the architect of the outcome, not just the labor. This is where true leverage lives.",
+        "handle": "",
+        "domain": ""
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "",
+        "number": "06",
+        "title": "Build Equity Now",
+        "body": "Trading time for money has no upside. Create assets, retainers, or royalty structures that pay beyond the project. Outcomes build wealth; hours build burnout.",
+        "handle": "",
+        "domain": ""
+      }
+    },
+    {
+      "layoutId": "cta-beige-serif",
+      "slots": {
+        "brand": "",
+        "eyebrow": "UPGRADE YOUR MODEL",
+        "headline": "Start Selling Outcomes Today",
+        "body": "Join the freelancers who replaced hourly rates with high-ticket outcomes. The shift starts with one decision.",
+        "buttonLabel": "MAKE THE SHIFT",
+        "handle": ""
+      }
+    }
+  ]
+}

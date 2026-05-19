@@ -7,8 +7,8 @@
     {
       "layoutId": "cover-pixel-block",
       "slots": {
-        "brandTag": "TOOLS",
-        "handle": "@devstack",
+        "brandTag": "",
+        "handle": "",
         "preLine": "the only cli stack for",
         "pixelLine1": "VIBE CODE",
         "pixelLine2": "TOOLS",
@@ -28,7 +28,7 @@
       "layoutId": "body-pixel-block",
       "slots": {
         "numLabel": "TOOL 01",
-        "handle": "@devstack",
+        "handle": "",
         "iconSlug1": "terminal",
         "toolName": "FZF",
         "categoryLabel": "FREE",
@@ -52,7 +52,7 @@
       "layoutId": "body-pixel-block",
       "slots": {
         "numLabel": "TOOL 02",
-        "handle": "@devstack",
+        "handle": "",
         "iconSlug1": "rust",
         "toolName": "RG",
         "categoryLabel": "FREE",
@@ -76,7 +76,7 @@
       "layoutId": "body-pixel-block",
       "slots": {
         "numLabel": "TOOL 03",
-        "handle": "@devstack",
+        "handle": "",
         "iconSlug1": "github",
         "toolName": "BAT",
         "categoryLabel": "FREE",
@@ -100,7 +100,7 @@
       "layoutId": "body-pixel-block",
       "slots": {
         "numLabel": "TOOL 04",
-        "handle": "@devstack",
+        "handle": "",
         "iconSlug1": "linux",
         "toolName": "EZA",
         "categoryLabel": "FREE",
@@ -124,7 +124,7 @@
       "layoutId": "body-pixel-block",
       "slots": {
         "numLabel": "TOOL 05",
-        "handle": "@devstack",
+        "handle": "",
         "iconSlug1": "gnu",
         "toolName": "ZOXIDE",
         "categoryLabel": "FREE",
@@ -148,7 +148,7 @@
       "layoutId": "body-pixel-block",
       "slots": {
         "numLabel": "TOOL 06",
-        "handle": "@devstack",
+        "handle": "",
         "iconSlug1": "apple",
         "toolName": "STARSHIP",
         "categoryLabel": "FREE",
@@ -171,8 +171,8 @@
     {
       "layoutId": "cta-pixel-block",
       "slots": {
-        "brandTag": "WRAP UP",
-        "handle": "@devstack",
+        "brandTag": "",
+        "handle": "",
         "eyebrow": "level up your terminal today",
         "ctaLine1": "RUN THESE",
         "ctaLine2": "DAILY",

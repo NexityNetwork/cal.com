@@ -8,7 +8,7 @@
       "layoutId": "cover-typo-sample",
       "slots": {
         "number": "02",
-        "handle": "@usevisuals",
+        "handle": "",
         "fontFamily": "Inter",
         "description": "Inter is the definitive neo-grotesque screen font. Engineered for maximum legibility, it is the go-to choice for interface designers obsessed with clarity."
       }
@@ -17,7 +17,7 @@
       "layoutId": "body-typo-sample",
       "slots": {
         "number": "03",
-        "handle": "@usevisuals",
+        "handle": "",
         "fontFamily": "Cormorant Garamond",
         "description": "Cormorant Garamond is a dramatic, high-contrast serif family inspired by classic Garamonds. It excels in editorial layouts where generous line length lets its forms breathe."
       }
@@ -26,7 +26,7 @@
       "layoutId": "body-typo-sample",
       "slots": {
         "number": "04",
-        "handle": "@usevisuals",
+        "handle": "",
         "fontFamily": "Space Grotesk",
         "description": "Space Grotesk is a proportional sans-serif evolved from Space Mono. Its geometric frame and open apertures keep text crisp even in low-contrast palettes."
       }
@@ -35,7 +35,7 @@
       "layoutId": "body-typo-sample",
       "slots": {
         "number": "05",
-        "handle": "@usevisuals",
+        "handle": "",
         "fontFamily": "Fraunces",
         "description": "Fraunces is a variable serif with 'wonky' axes and soft serifs. Its dramatic weight range lets you build loud hierarchy without shouting."
       }
@@ -44,7 +44,7 @@
       "layoutId": "body-typo-sample",
       "slots": {
         "number": "06",
-        "handle": "@usevisuals",
+        "handle": "",
         "fontFamily": "Montserrat",
         "description": "Montserrat is a geometric sans inspired by Buenos Aires signage. Its tall x-height demands generous leading to prevent dense, suffocating blocks."
       }
@@ -53,7 +53,7 @@
       "layoutId": "body-typo-sample",
       "slots": {
         "number": "07",
-        "handle": "@usevisuals",
+        "handle": "",
         "fontFamily": "Instrument Serif",
         "description": "Instrument Serif is a refined transitional face with sharp details. Its narrow proportions reveal rivers and gaps when forced into careless justified settings."
       }
@@ -62,7 +62,7 @@
       "layoutId": "body-typo-sample",
       "slots": {
         "number": "08",
-        "handle": "@usevisuals",
+        "handle": "",
         "fontFamily": "DM Sans",
         "description": "DM Sans is a low-contrast neo-grotesque optimized for small screens. Its robust letterforms make it the ideal workhorse for accessible UI in 2026."
       }
@@ -71,7 +71,7 @@
       "layoutId": "cta-typo-sample",
       "slots": {
         "number": "09",
-        "handle": "@usevisuals",
+        "handle": "",
         "fontFamily": "Geist",
         "headlineLine1": "Fix your",
         "headlineLine2": "type now",

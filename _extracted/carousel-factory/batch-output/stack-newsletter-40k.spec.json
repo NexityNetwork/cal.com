@@ -23,14 +23,14 @@
         "iconSlug6": "zapier",
         "toolRole6": "Workflow automation",
         "ctaText": "Read the breakdown",
-        "handle": "@creatorhandle"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-stack-tour",
       "slots": {
         "slideLabel": "TOOL 01",
-        "handle": "@creatorhandle",
+        "handle": "",
         "iconSlug1": "beehiiv",
         "toolTagline": "Newsletter sending that scales",
         "description": "Beehiiv handles subscriber growth, email sends, and built-in monetization without the bloat.",
@@ -51,7 +51,7 @@
       "layoutId": "body-stack-tour",
       "slots": {
         "slideLabel": "TOOL 02",
-        "handle": "@creatorhandle",
+        "handle": "",
         "iconSlug1": "stripe",
         "toolTagline": "Payments without the friction",
         "description": "Stripe powers subscriptions, one-off products, and invoicing with developer-grade reliability.",
@@ -72,7 +72,7 @@
       "layoutId": "body-stack-tour",
       "slots": {
         "slideLabel": "TOOL 03",
-        "handle": "@creatorhandle",
+        "handle": "",
         "iconSlug1": "notion",
         "toolTagline": "Your editorial command center",
         "description": "Notion is where ideas become drafts, calendars stay synced, and SOPs live.",
@@ -93,7 +93,7 @@
       "layoutId": "body-stack-tour",
       "slots": {
         "slideLabel": "TOOL 04",
-        "handle": "@creatorhandle",
+        "handle": "",
         "iconSlug1": "claude",
         "toolTagline": "AI that sounds like you",
         "description": "Claude drafts outlines, tightens copy, and brainstorms hooks in my exact voice.",
@@ -114,7 +114,7 @@
       "layoutId": "body-stack-tour",
       "slots": {
         "slideLabel": "TOOL 05",
-        "handle": "@creatorhandle",
+        "handle": "",
         "iconSlug1": "figma",
         "toolTagline": "Design assets in minutes",
         "description": "Figma lets me mock lead magnets, social cards, and landing page visuals quickly.",
@@ -135,7 +135,7 @@
       "layoutId": "body-stack-tour",
       "slots": {
         "slideLabel": "TOOL 06",
-        "handle": "@creatorhandle",
+        "handle": "",
         "iconSlug1": "zapier",
         "toolTagline": "Connect everything on autopilot",
         "description": "Zapier moves data between tools so nothing falls through the cracks.",
@@ -156,7 +156,7 @@
       "layoutId": "cta-stack-tour",
       "slots": {
         "pageOf": "08 / 08",
-        "handle": "@creatorhandle",
+        "handle": "",
         "eyebrow": "YOUR TURN",
         "headlineLine1": "Build your stack",
         "headlineLine2": "Start today free",

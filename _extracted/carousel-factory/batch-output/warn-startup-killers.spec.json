@@ -8,7 +8,7 @@
       "layoutId": "cover-black-warning",
       "slots": {
         "number": "01",
-        "handle": "@usevisuals",
+        "handle": "",
         "eyebrow": "STARTUP LESSON",
         "titleLine1": "Six Quiet Decisions",
         "titleAccent": "Kill Startups",
@@ -20,7 +20,7 @@
       "layoutId": "body-black-warning",
       "slots": {
         "number": "02",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "Hiring Fast to Fill Seats",
         "body": "A YC founder scaled to fifty people in weeks. The wrong hires burned cash and morale.",
         "calloutLabel": "SURVIVOR MOVE",
@@ -32,7 +32,7 @@
       "layoutId": "body-black-warning",
       "slots": {
         "number": "03",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "Chasing Growth Ignoring Economics",
         "body": "A SaaS founder spent heavily on ads. Revenue soared, but margins stayed dangerously negative.",
         "calloutLabel": "DO THIS",
@@ -44,7 +44,7 @@
       "layoutId": "body-black-warning",
       "slots": {
         "number": "04",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "Delaying Hard Founder Talks",
         "body": "Two founders avoided equity discussions for years. Resentment quietly killed their partnership and product.",
         "calloutLabel": "KEY INSIGHT",
@@ -56,7 +56,7 @@
       "layoutId": "body-black-warning",
       "slots": {
         "number": "05",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "Building in Stealth Too Long",
         "body": "A fintech founder built for eighteen months. Launch day revealed nobody wanted the product.",
         "calloutLabel": "DO THIS",
@@ -68,7 +68,7 @@
       "layoutId": "body-black-warning",
       "slots": {
         "number": "06",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "Copying Competitors Feature by Feature",
         "body": "One founder chased every rival update. Users forgot why the product existed at all.",
         "calloutLabel": "KEY INSIGHT",
@@ -80,7 +80,7 @@
       "layoutId": "body-black-warning",
       "slots": {
         "number": "07",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "Overcapitalizing Before Product Fit",
         "body": "A well-funded founder hired a massive team. Dilution and burn killed optionality within months.",
         "calloutLabel": "SURVIVOR MOVE",
@@ -92,7 +92,7 @@
       "layoutId": "cta-black-warning",
       "slots": {
         "number": "08",
-        "handle": "@usevisuals",
+        "handle": "",
         "eyebrow": "YOUR MOVE",
         "headlineLine1": "Build With",
         "headlineAccent": "Intention",

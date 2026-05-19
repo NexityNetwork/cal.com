@@ -8,7 +8,7 @@
       "layoutId": "cover-mono-pattern",
       "slots": {
         "pageOf": "01 / 08",
-        "handle": "techwith.ram",
+        "handle": "",
         "patternLabel": "PATTERN 01 / INTRO",
         "word1": "THE",
         "word2": "SIX EVAL",
@@ -24,7 +24,7 @@
       "layoutId": "body-mono-pattern",
       "slots": {
         "pageOf": "02 / 08",
-        "handle": "techwith.ram",
+        "handle": "",
         "patternLabel": "PATTERN 01",
         "titleWord1": "THE",
         "titleWord2": "GOLDEN DATASET",
@@ -44,7 +44,7 @@
       "layoutId": "body-mono-pattern",
       "slots": {
         "pageOf": "03 / 08",
-        "handle": "techwith.ram",
+        "handle": "",
         "patternLabel": "PATTERN 02",
         "titleWord1": "THE",
         "titleWord2": "CANARY QUERY",
@@ -64,7 +64,7 @@
       "layoutId": "body-mono-pattern",
       "slots": {
         "pageOf": "04 / 08",
-        "handle": "techwith.ram",
+        "handle": "",
         "patternLabel": "PATTERN 03",
         "titleWord1": "THE",
         "titleWord2": "HUMAN LOOP",
@@ -84,7 +84,7 @@
       "layoutId": "body-mono-pattern",
       "slots": {
         "pageOf": "05 / 08",
-        "handle": "techwith.ram",
+        "handle": "",
         "patternLabel": "PATTERN 04",
         "titleWord1": "THE",
         "titleWord2": "A/B GATE",
@@ -104,7 +104,7 @@
       "layoutId": "body-mono-pattern",
       "slots": {
         "pageOf": "06 / 08",
-        "handle": "techwith.ram",
+        "handle": "",
         "patternLabel": "PATTERN 05",
         "titleWord1": "THE",
         "titleWord2": "DRIFT DETECTOR",
@@ -124,7 +124,7 @@
       "layoutId": "body-mono-pattern",
       "slots": {
         "pageOf": "07 / 08",
-        "handle": "techwith.ram",
+        "handle": "",
         "patternLabel": "PATTERN 06",
         "titleWord1": "THE",
         "titleWord2": "LATENCY BUDGET",
@@ -144,7 +144,7 @@
       "layoutId": "cta-mono-pattern",
       "slots": {
         "pageOf": "08 / 08",
-        "handle": "techwith.ram",
+        "handle": "",
         "patternLabel": "WRAP / OVER TO YOU",
         "word1": "PICK",
         "word2": "ONE PATTERN",

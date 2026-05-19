@@ -23,14 +23,14 @@
         "toolRole5": "Audience growth analytics",
         "toolRole6": "Revenue & billing hub",
         "ctaText": "Read the breakdown",
-        "handle": "@creatorstack"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-stack-tour",
       "slots": {
         "slideLabel": "02 / 08",
-        "handle": "@creatorstack",
+        "handle": "",
         "iconSlug1": "obs-studio",
         "toolTagline": "Capture everything in one click",
         "description": "OBS Studio powers crisp screen and camera recordings with zero watermark and full scene control.",
@@ -51,7 +51,7 @@
       "layoutId": "body-stack-tour",
       "slots": {
         "slideLabel": "03 / 08",
-        "handle": "@creatorstack",
+        "handle": "",
         "iconSlug1": "descript",
         "toolTagline": "Edit video like a doc",
         "description": "Descript transcribes your recording so you can cut, copy, and paste scenes like text.",
@@ -72,7 +72,7 @@
       "layoutId": "body-stack-tour",
       "slots": {
         "slideLabel": "04 / 08",
-        "handle": "@creatorstack",
+        "handle": "",
         "iconSlug1": "notion",
         "toolTagline": "Your content command center",
         "description": "Notion keeps scripts, calendars, and research in one shared workspace the whole team can see.",
@@ -93,7 +93,7 @@
       "layoutId": "body-stack-tour",
       "slots": {
         "slideLabel": "05 / 08",
-        "handle": "@creatorstack",
+        "handle": "",
         "iconSlug1": "buffer",
         "toolTagline": "Queue once, post everywhere",
         "description": "Buffer schedules your content across every channel and suggests the best times to publish.",
@@ -114,7 +114,7 @@
       "layoutId": "body-stack-tour",
       "slots": {
         "slideLabel": "06 / 08",
-        "handle": "@creatorstack",
+        "handle": "",
         "iconSlug1": "google-analytics",
         "toolTagline": "Know what grows your audience",
         "description": "Google Analytics turns traffic into insight so you double down on what actually converts.",
@@ -135,7 +135,7 @@
       "layoutId": "body-stack-tour",
       "slots": {
         "slideLabel": "07 / 08",
-        "handle": "@creatorstack",
+        "handle": "",
         "iconSlug1": "stripe",
         "toolTagline": "Monetize without the friction",
         "description": "Stripe handles payments, invoicing, and tax so you can focus on creating, not billing.",
@@ -156,7 +156,7 @@
       "layoutId": "cta-stack-tour",
       "slots": {
         "pageOf": "08 / 08",
-        "handle": "@creatorstack",
+        "handle": "",
         "eyebrow": "YOUR TURN",
         "headlineLine1": "Build your stack",
         "headlineLine2": "Start creating today",

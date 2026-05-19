@@ -1,0 +1,111 @@
+{
+  "id": "fdr-funding-warnings",
+  "brand": "STARK",
+  "brief": "Warning signs you don't need funding. Profitability, growth rate, customer love, optionality — read these before you take the meeting.",
+  "theme": "noir-yellow",
+  "slides": [
+    {
+      "layoutId": "cover-noir-yellow",
+      "slots": {
+        "brand": "",
+        "scriptPrefix": "Stop",
+        "displayLine1": "YOU DON'T",
+        "displayLine2": "NEED THAT",
+        "displayLine3": "TERM SHEET",
+        "scriptTagline": "The warning signs every founder ignores too easily.",
+        "handle": "",
+        "slideId": "Slide 01"
+      }
+    },
+    {
+      "layoutId": "body-noir-yellow",
+      "slots": {
+        "brand": "",
+        "scriptPrefix": "Profitable",
+        "displayLine1": "CASH IS",
+        "displayLine2": "POSITIVE AND",
+        "displayLine3": "GROWING",
+        "body": "If your bank account climbs every month without outside capital, you already have the only fuel you need. Profitability means control. Keep it.",
+        "handle": "",
+        "slideId": "Slide 02"
+      }
+    },
+    {
+      "layoutId": "body-noir-yellow",
+      "slots": {
+        "brand": "",
+        "scriptPrefix": "Momentum",
+        "displayLine1": "GROWTH IS",
+        "displayLine2": "STRONG AND",
+        "displayLine3": "SUSTAINED",
+        "body": "Double-digit organic growth beats vanity metrics fueled by burn. If customers are arriving faster than you can serve them, a check will only dilute what is already working.",
+        "handle": "",
+        "slideId": "Slide 03"
+      }
+    },
+    {
+      "layoutId": "body-noir-yellow",
+      "slots": {
+        "brand": "",
+        "scriptPrefix": "Loved",
+        "displayLine1": "CUSTOMERS SELL",
+        "displayLine2": "THE PRODUCT",
+        "displayLine3": "FOR YOU",
+        "body": "Net Promoter scores through the roof and inbound referrals mean your moat is real. Investor money cannot buy authentic word of mouth. Protect the love.",
+        "handle": "",
+        "slideId": "Slide 04"
+      }
+    },
+    {
+      "layoutId": "body-noir-yellow",
+      "slots": {
+        "brand": "",
+        "scriptPrefix": "Options",
+        "displayLine1": "YOU HOLD",
+        "displayLine2": "ALL THE",
+        "displayLine3": "CARDS",
+        "body": "Bootstrapping keeps your cap table clean and your exit paths wide. You can sell, stay private, or pivot without asking permission. That freedom is worth more than cash.",
+        "handle": "",
+        "slideId": "Slide 05"
+      }
+    },
+    {
+      "layoutId": "body-noir-yellow",
+      "slots": {
+        "brand": "",
+        "scriptPrefix": "Pause",
+        "displayLine1": "THE MEETING",
+        "displayLine2": "CAN WAIT",
+        "displayLine3": "ONE WEEK",
+        "body": "One pitch deck often leads to six months of reporting theater. If the business is healthy, the best term sheet is the one you never sign. Think twice.",
+        "handle": "",
+        "slideId": "Slide 06"
+      }
+    },
+    {
+      "layoutId": "body-noir-yellow",
+      "slots": {
+        "brand": "",
+        "scriptPrefix": "Focus",
+        "displayLine1": "FUNDRAISING IS",
+        "displayLine2": "A FULL TIME",
+        "displayLine3": "JOB",
+        "body": "Chasing checks pulls you away from the team and the product for months. The opportunity cost is stealthy but massive. Build instead of begging.",
+        "handle": "",
+        "slideId": "Slide 07"
+      }
+    },
+    {
+      "layoutId": "cta-noir-yellow",
+      "slots": {
+        "brand": "",
+        "scriptPrefix": "Today",
+        "headline": "BUILD ON YOUR TERMS",
+        "scriptTagline": "Own every decision from day one.",
+        "buttonLabel": "Keep Building",
+        "handle": "",
+        "slideId": "Slide 08"
+      }
+    }
+  ]
+}

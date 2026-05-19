@@ -8,7 +8,7 @@
       "layoutId": "cover-tech-stack-grid",
       "slots": {
         "tag": "MY STACK",
-        "handle": "factory.51ultron.com",
+        "handle": "",
         "eyebrow": "Zero servers, infinite scale.",
         "titleLine1": "The Backend",
         "titleAccent": "That Ships",
@@ -46,7 +46,7 @@
         "iconSlug3": "vercel",
         "iconSlug4": "stripe",
         "iconSlug5": "n8n",
-        "domainText": "nextjs.org",
+        "domainText": "",
         "pageOf": "02 / 08"
       }
     },
@@ -69,7 +69,7 @@
         "iconSlug3": "vercel",
         "iconSlug4": "stripe",
         "iconSlug5": "github",
-        "domainText": "supabase.com",
+        "domainText": "",
         "pageOf": "03 / 08"
       }
     },
@@ -92,7 +92,7 @@
         "iconSlug3": "supabase",
         "iconSlug4": "stripe",
         "iconSlug5": "github",
-        "domainText": "vercel.com",
+        "domainText": "",
         "pageOf": "04 / 08"
       }
     },
@@ -115,7 +115,7 @@
         "iconSlug3": "supabase",
         "iconSlug4": "vercel",
         "iconSlug5": "n8n",
-        "domainText": "stripe.com",
+        "domainText": "",
         "pageOf": "05 / 08"
       }
     },
@@ -138,7 +138,7 @@
         "iconSlug3": "vercel",
         "iconSlug4": "stripe",
         "iconSlug5": "github",
-        "domainText": "n8n.io",
+        "domainText": "",
         "pageOf": "06 / 08"
       }
     },
@@ -161,7 +161,7 @@
         "iconSlug3": "supabase",
         "iconSlug4": "vercel",
         "iconSlug5": "n8n",
-        "domainText": "github.com",
+        "domainText": "",
         "pageOf": "07 / 08"
       }
     },
@@ -169,7 +169,7 @@
       "layoutId": "cta-tech-stack-grid",
       "slots": {
         "tag": "WRAP",
-        "handle": "factory.51ultron.com",
+        "handle": "",
         "eyebrow": "Build once, profit forever.",
         "ctaLine1": "Ship Faster",
         "ctaLine2": "Without Servers",
@@ -182,7 +182,7 @@
         "iconSlug6": "github",
         "btnPrimary": "Build Stack",
         "btnGhost": "Read Guide",
-        "domainText": "factory.51ultron.com",
+        "domainText": "",
         "pageOf": "08 / 08"
       }
     }

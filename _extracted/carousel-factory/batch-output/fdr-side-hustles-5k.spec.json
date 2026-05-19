@@ -1,0 +1,127 @@
+{
+  "id": "fdr-side-hustles-5k",
+  "brand": "Morgan Reid",
+  "brief": "5 AI side hustles consistently making $5k a month in 2026. Concrete revenue models, time commitment per week, who the target customer is.",
+  "theme": "linkedin-pro",
+  "slides": [
+    {
+      "layoutId": "cover-linkedin-pro",
+      "slots": {
+        "author": "Morgan Reid",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "1",
+        "accentColor": "#4f3df5",
+        "headline": "5 AI Side Hustles Making $5K Monthly",
+        "heroSymbol": "$5",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#8b5cf6",
+        "body": "Concrete revenue models, real weekly hours, and the exact customers to target. No fluff—just scalable income streams."
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Morgan Reid",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "2",
+        "accentColor": "#4f3df5",
+        "title": "The 2026 AI Income Map",
+        "body": "These five models need under 15 hours weekly. Each solves a painful B2B or premium B2C problem.",
+        "heroSymbol": ">>",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#8b5cf6",
+        "labelText": "SAVE THIS POST"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Morgan Reid",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "3",
+        "accentColor": "#4f3df5",
+        "title": "AI Automation Agency",
+        "body": "Build no-code AI workflows for local service businesses. Charge $2K–$5K monthly retainers. Time: 10–15 hrs/week.",
+        "heroSymbol": "01",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#8b5cf6",
+        "labelText": "SAVE THIS POST"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Morgan Reid",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "4",
+        "accentColor": "#4f3df5",
+        "title": "AI Avatar Ad Agency",
+        "body": "Create synthetic spokesperson UGC for DTC brands using AI avatars. Productized packages start at $3K per campaign.",
+        "heroSymbol": "02",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#8b5cf6",
+        "labelText": "SAVE THIS POST"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Morgan Reid",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "5",
+        "accentColor": "#4f3df5",
+        "title": "Custom AI Agent Builder",
+        "body": "Deploy customer-support and lead-qualification AI agents for SaaS and e-commerce. Build fee plus monthly maintenance.",
+        "heroSymbol": "03",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#8b5cf6",
+        "labelText": "SAVE THIS POST"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Morgan Reid",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "6",
+        "accentColor": "#4f3df5",
+        "title": "Hyper-Niche AI Newsletter",
+        "body": "Curate AI tools for one vertical. Monetize via premium subs at $20/mo and niche sponsorships once you hit 5K readers.",
+        "heroSymbol": "04",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#8b5cf6",
+        "labelText": "SAVE THIS POST"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Morgan Reid",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "7",
+        "accentColor": "#4f3df5",
+        "title": "Fractional AI Consultant",
+        "body": "Advise startups on AI stack strategy and prompt engineering. High-ticket retainers averaging $4K–$6K per month.",
+        "heroSymbol": "05",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#8b5cf6",
+        "labelText": "SAVE THIS POST"
+      }
+    },
+    {
+      "layoutId": "cta-linkedin-pro",
+      "slots": {
+        "author": "Morgan Reid",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "8",
+        "accentColor": "#4f3df5",
+        "eyebrow": "YOUR TURN?",
+        "headline": "Which Hustle Will You Start?",
+        "body": "Drop a comment below and repost this carousel to save it for later.",
+        "buttonLabel": "Follow for more",
+        "secondaryLabel": "Repost",
+        "handle": ""
+      }
+    }
+  ]
+}

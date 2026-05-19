@@ -1,0 +1,180 @@
+{
+  "id": "fdr-solopreneur-life",
+  "brand": "Solo with AI",
+  "brief": "Life before and after going solo with AI. Income, hours, stress, optionality. The honest math of choosing yourself.",
+  "theme": "before-after",
+  "slides": [
+    {
+      "layoutId": "cover-before-after",
+      "slots": {
+        "pageOf": "01 / 08",
+        "handle": "",
+        "title": "Stop trading",
+        "titleAccent": "time for money",
+        "description": "The honest math of choosing yourself with AI. Build income, freedom, and optionality on your own terms.",
+        "badLabel1": "Climbing a corporate ladder",
+        "badLabel2": "Waiting for permission to act",
+        "badStat1": "$75K capped salary",
+        "badStat2": "60-hour workweeks",
+        "goodLabel1": "Owning your income stream",
+        "goodLabel2": "Building assets that scale",
+        "goodStat1": "$15K+ monthly profit",
+        "goodStat2": "20-hour workweeks",
+        "iconSlug1": "openai",
+        "iconSlug2": "midjourney",
+        "iconSlug3": "notion",
+        "iconSlug4": "stripe"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 01 / 06",
+        "handle": "",
+        "title": "Uncap your",
+        "titleAccent": "earning potential",
+        "description": "Stop letting a salary limit what you make. AI lets one person deliver outcomes that used to require a team.",
+        "badLabel": "BEFORE",
+        "badText": "You rely on a single employer for a fixed paycheck every month.",
+        "badStat": "$5K/mo salary",
+        "iconSlug1": "briefcase",
+        "iconSlug2": "lock",
+        "goodLabel": "AFTER",
+        "goodText": "You stack multiple income streams that grow while you sleep.",
+        "goodStat": "$20K/mo revenue",
+        "iconSlug3": "openai",
+        "iconSlug4": "stripe",
+        "iconSlug5": "chart",
+        "ctaArrow": "See the income shift"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 02 / 06",
+        "handle": "",
+        "title": "Reclaim your",
+        "titleAccent": "working hours",
+        "description": "AI handles the repetitive tasks that used to eat your day. You focus on strategy and high-leverage decisions.",
+        "badLabel": "BEFORE",
+        "badText": "You spend ten hours daily on emails, meetings, and busywork.",
+        "badStat": "60 hrs/week",
+        "iconSlug1": "calendar",
+        "iconSlug2": "clock",
+        "goodLabel": "AFTER",
+        "goodText": "You finish deep work by noon and design your own schedule.",
+        "goodStat": "20 hrs/week",
+        "iconSlug3": "zap",
+        "iconSlug4": "notion",
+        "iconSlug5": "sun",
+        "ctaArrow": "Get your time back"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 03 / 06",
+        "handle": "",
+        "title": "Remove the",
+        "titleAccent": "daily burnout",
+        "description": "Solo does not mean alone when you have AI systems. Reduce anxiety by owning your workflow end to end.",
+        "badLabel": "BEFORE",
+        "badText": "You juggle office politics, deadlines, and commutes under pressure.",
+        "badStat": "High cortisol",
+        "iconSlug1": "alert",
+        "iconSlug2": "traffic",
+        "goodLabel": "AFTER",
+        "goodText": "You control the pace, the clients, and the environment you work in.",
+        "goodStat": "Clear mind",
+        "iconSlug3": "heart",
+        "iconSlug4": "leaf",
+        "iconSlug5": "home",
+        "ctaArrow": "Reduce the noise"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 04 / 06",
+        "handle": "",
+        "title": "Build real",
+        "titleAccent": "life optionality",
+        "description": "A corporate role is a single point of failure. Diversify your future with skills and assets that travel with you.",
+        "badLabel": "BEFORE",
+        "badText": "Your career path depends on one boss and one company’s mood.",
+        "badStat": "Zero options",
+        "iconSlug1": "building",
+        "iconSlug2": "chain",
+        "goodLabel": "AFTER",
+        "goodText": "You can pivot, relocate, or scale without asking for anyone’s approval.",
+        "goodStat": "Total freedom",
+        "iconSlug3": "globe",
+        "iconSlug4": "shuffle",
+        "iconSlug5": "key",
+        "ctaArrow": "Unlock optionality"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 05 / 06",
+        "handle": "",
+        "title": "Slash your",
+        "titleAccent": "startup costs",
+        "description": "You no longer need a large team or office to look professional. AI replaces the overhead that used to kill margins.",
+        "badLabel": "BEFORE",
+        "badText": "You pay for staff, rent, and software before you earn a single dollar.",
+        "badStat": "$10K/mo overhead",
+        "iconSlug1": "users",
+        "iconSlug2": "office",
+        "goodLabel": "AFTER",
+        "goodText": "One person with AI tools runs a lean operation at startup speed.",
+        "goodStat": "$200/mo stack",
+        "iconSlug3": "bot",
+        "iconSlug4": "rocket",
+        "iconSlug5": "wallet",
+        "ctaArrow": "Cut the bloat"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 06 / 06",
+        "handle": "",
+        "title": "Speed up",
+        "titleAccent": "your growth",
+        "description": "Launch, test, and iterate in days instead of quarters. AI compresses the timeline from idea to income.",
+        "badLabel": "BEFORE",
+        "badText": "You wait months for approvals, budgets, and bureaucratic green lights.",
+        "badStat": "6-month cycle",
+        "iconSlug1": "hourglass",
+        "iconSlug2": "file",
+        "goodLabel": "AFTER",
+        "goodText": "You ship a landing page, offer, and campaign before lunch today.",
+        "goodStat": "48-hour launch",
+        "iconSlug3": "zap",
+        "iconSlug4": "check",
+        "iconSlug5": "trending",
+        "ctaArrow": "Move faster now"
+      }
+    },
+    {
+      "layoutId": "cta-before-after",
+      "slots": {
+        "pageOf": "08 / 08",
+        "handle": "",
+        "eyebrow": "MAKE THE SWITCH",
+        "headlineLine1": "Choose your",
+        "headlineAccent": "own path",
+        "body": "The math is honest and the tools are ready. Start building a solo business powered by AI today.",
+        "iconSlug1": "openai",
+        "iconSlug2": "midjourney",
+        "iconSlug3": "notion",
+        "iconSlug4": "stripe",
+        "iconSlug5": "zapier",
+        "iconSlug6": "figma",
+        "ctaText": "Start building now"
+      }
+    }
+  ]
+}

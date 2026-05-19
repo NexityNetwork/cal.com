@@ -7,8 +7,8 @@
     {
       "layoutId": "cover-terminal-glow",
       "slots": {
-        "brandTag": "GIT",
-        "handle": "@kernelhq",
+        "brandTag": "",
+        "handle": "",
         "termTitle": "~/git/advanced.sh",
         "cmdLine": "git log --oneline --graph --all",
         "outLine": "found 847 commits across",
@@ -38,7 +38,7 @@
       "layoutId": "body-terminal-glow",
       "slots": {
         "numLabel": "CMD 02",
-        "handle": "@kernelhq",
+        "handle": "",
         "sectionLabel": "TRICK 02",
         "title": "Binary hunt",
         "titleAccent": "bisect",
@@ -73,7 +73,7 @@
       "layoutId": "body-terminal-glow",
       "slots": {
         "numLabel": "CMD 03",
-        "handle": "@kernelhq",
+        "handle": "",
         "sectionLabel": "TRICK 03",
         "title": "Parallel checkout",
         "titleAccent": "worktrees",
@@ -108,7 +108,7 @@
       "layoutId": "body-terminal-glow",
       "slots": {
         "numLabel": "CMD 04",
-        "handle": "@kernelhq",
+        "handle": "",
         "sectionLabel": "TRICK 04",
         "title": "Hidden audit",
         "titleAccent": "reflog",
@@ -143,7 +143,7 @@
       "layoutId": "body-terminal-glow",
       "slots": {
         "numLabel": "CMD 05",
-        "handle": "@kernelhq",
+        "handle": "",
         "sectionLabel": "TRICK 05",
         "title": "Stage hunks",
         "titleAccent": "interactively",
@@ -178,7 +178,7 @@
       "layoutId": "body-terminal-glow",
       "slots": {
         "numLabel": "CMD 06",
-        "handle": "@kernelhq",
+        "handle": "",
         "sectionLabel": "TRICK 06",
         "title": "Reuse recorded",
         "titleAccent": "rerere",
@@ -213,7 +213,7 @@
       "layoutId": "body-terminal-glow",
       "slots": {
         "numLabel": "CMD 07",
-        "handle": "@kernelhq",
+        "handle": "",
         "sectionLabel": "TRICK 07",
         "title": "Pretty history",
         "titleAccent": "graphs",
@@ -247,8 +247,8 @@
     {
       "layoutId": "cta-terminal-glow",
       "slots": {
-        "brandTag": "WRAP",
-        "handle": "@kernelhq",
+        "brandTag": "",
+        "handle": "",
         "intro": "now commit to mastery",
         "ctaLine1": "Save this",
         "ctaAccent": "git toolkit",

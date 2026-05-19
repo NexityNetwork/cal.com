@@ -9,7 +9,7 @@
       "slots": {
         "title": "Email funnel blueprint",
         "ctaText": "Build emails that sell while you sleep",
-        "handle": "@growthlab"
+        "handle": ""
       }
     },
     {
@@ -18,7 +18,7 @@
         "number": "01",
         "title": "Pick One Problem",
         "body": "Stop trying to solve everything for everyone. Choose a painful, specific problem your audience Googles at 2am. The tighter the niche, the higher the conversion.",
-        "handle": "@growthlab"
+        "handle": ""
       }
     },
     {
@@ -27,7 +27,7 @@
         "number": "02",
         "title": "Bribe The Signup",
         "body": "Your lead magnet needs to feel like a cheat code, not a chore. Make it stupidly actionable so they open your first email already trusting you.",
-        "handle": "@growthlab"
+        "handle": ""
       }
     },
     {
@@ -36,7 +36,7 @@
         "number": "03",
         "title": "Write One Welcome",
         "body": "The welcome sequence is where the magic happens. Hit them with story, value, and a soft pitch within the first three days while attention is hot.",
-        "handle": "@growthlab"
+        "handle": ""
       }
     },
     {
@@ -45,7 +45,7 @@
         "number": "04",
         "title": "Segment With Clicks",
         "body": "Stop blasting the same message to your entire list. Tag subscribers based on what they click so every offer feels like it was written just for them.",
-        "handle": "@growthlab"
+        "handle": ""
       }
     },
     {
@@ -54,7 +54,7 @@
         "number": "05",
         "title": "Sell With Stories",
         "body": "Nobody likes a pitch slap. Wrap your offer in quick relatable stories and social proof so the sale feels like a natural next step, not a hard shove.",
-        "handle": "@growthlab"
+        "handle": ""
       }
     },
     {
@@ -63,7 +63,7 @@
         "number": "06",
         "title": "Audit Monthly Data",
         "body": "A 9% funnel isn't built in a day. Check your open rates, click rates, and revenue per email once a month then tweak the weakest link first.",
-        "handle": "@growthlab"
+        "handle": ""
       }
     },
     {
@@ -73,7 +73,7 @@
         "headline": "Build Your Funnel Now",
         "body": "Steal this framework and start building today. Your 9% conversion rate is closer than you think.",
         "buttonLabel": "Start Building Now",
-        "handle": "@growthlab"
+        "handle": ""
       }
     }
   ]

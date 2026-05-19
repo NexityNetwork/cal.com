@@ -8,14 +8,14 @@
       "layoutId": "cover-cream-claude",
       "slots": {
         "tag": "TOOLS",
-        "handle": "factory.51ultron.com",
+        "handle": "",
         "eyebrow": "fast teams ship faster",
         "titleLine1": "Build these",
         "titleAccent": "six tools",
         "titleItalic": "before you raise",
         "subEyebrow": "WHY IT WORKS",
         "subText": "Internal tooling is <em>compound interest</em> for engineering velocity. Ship now, scale later.",
-        "domainText": "factory.51ultron.com",
+        "domainText": "",
         "swipeNote": "READ"
       }
     },
@@ -37,7 +37,7 @@
         "b1Body": "Instantly disable broken features without redeploying.",
         "b2Title": "Canary releases",
         "b2Body": "Test changes on 5% of traffic and monitor error rates.",
-        "domainText": "factory.51ultron.com",
+        "domainText": "",
         "pageOf": "02 / 08"
       }
     },
@@ -59,7 +59,7 @@
         "b1Body": "Impersonate, suspend, and audit accounts in seconds.",
         "b2Title": "Content ops",
         "b2Body": "Edit records directly without engineering tickets.",
-        "domainText": "factory.51ultron.com",
+        "domainText": "",
         "pageOf": "03 / 08"
       }
     },
@@ -81,7 +81,7 @@
         "b1Body": "See exactly where users drop before paying.",
         "b2Title": "Query speed",
         "b2Body": "Answer product questions in minutes, not days.",
-        "domainText": "factory.51ultron.com",
+        "domainText": "",
         "pageOf": "04 / 08"
       }
     },
@@ -103,7 +103,7 @@
         "b1Body": "View session replay and billing next to every message.",
         "b2Title": "Fast replies",
         "b2Body": "Cut response time with canned snippets and macros.",
-        "domainText": "factory.51ultron.com",
+        "domainText": "",
         "pageOf": "05 / 08"
       }
     },
@@ -125,7 +125,7 @@
         "b1Body": "Blue-green releases keep the app live during updates.",
         "b2Title": "Rollback ready",
         "b2Body": "Revert to the last stable build with one click.",
-        "domainText": "factory.51ultron.com",
+        "domainText": "",
         "pageOf": "06 / 08"
       }
     },
@@ -147,7 +147,7 @@
         "b1Body": "Reduce demo calls with step-by-step product tours.",
         "b2Title": "Viral loops",
         "b2Body": "Turn power users into growth channels with credits.",
-        "domainText": "factory.51ultron.com",
+        "domainText": "",
         "pageOf": "07 / 08"
       }
     },
@@ -163,7 +163,7 @@
         "btnPrimary": "Start Building",
         "btnGhost": "Read More",
         "signoff": "Happy shipping, stay building",
-        "domainText": "factory.51ultron.com",
+        "domainText": "",
         "pageOf": "08 / 08"
       }
     }

@@ -7,103 +7,103 @@
     {
       "layoutId": "cover-noir-yellow",
       "slots": {
-        "brand": "THE DAILY PAGE",
+        "brand": "",
         "scriptPrefix": "Discover",
         "displayLine1": "THE 5",
         "displayLine2": "QUIET RITUALS",
         "displayLine3": "OF GREAT WRITERS",
         "scriptTagline": "Small habits that lead to extraordinary pages.",
-        "handle": "@thedailypage",
+        "handle": "",
         "slideId": "Slide 01"
       }
     },
     {
       "layoutId": "body-noir-yellow",
       "slots": {
-        "brand": "THE DAILY PAGE",
+        "brand": "",
         "scriptPrefix": "Before",
         "displayLine1": "BEFORE THE",
         "displayLine2": "FIRST SENTENCE",
         "displayLine3": "COMES STILLNESS",
         "body": "Great writing rarely begins with brilliance. It begins with a quiet, repeatable act that signals the mind to create.",
-        "handle": "@thedailypage",
+        "handle": "",
         "slideId": "Slide 02"
       }
     },
     {
       "layoutId": "body-noir-yellow",
       "slots": {
-        "brand": "THE DAILY PAGE",
+        "brand": "",
         "scriptPrefix": "Ritual",
         "displayLine1": "WRITE BEFORE",
         "displayLine2": "THE WORLD",
         "displayLine3": "WAKES UP",
         "body": "The early page holds no judgment. Capture thoughts while the inner critic is still asleep.",
-        "handle": "@thedailypage",
+        "handle": "",
         "slideId": "Slide 03"
       }
     },
     {
       "layoutId": "body-noir-yellow",
       "slots": {
-        "brand": "THE DAILY PAGE",
+        "brand": "",
         "scriptPrefix": "Ritual",
         "displayLine1": "WALK IN",
         "displayLine2": "SILENCE",
         "displayLine3": "DAILY",
         "body": "Movement untangles plot knots better than staring at a cursor. Let your feet finish the sentences your fingers cannot.",
-        "handle": "@thedailypage",
+        "handle": "",
         "slideId": "Slide 04"
       }
     },
     {
       "layoutId": "body-noir-yellow",
       "slots": {
-        "brand": "THE DAILY PAGE",
+        "brand": "",
         "scriptPrefix": "Ritual",
         "displayLine1": "READ ONE",
         "displayLine2": "PERFECT",
         "displayLine3": "PARAGRAPH",
         "body": "Read a page of something beautiful before you write. It tunes your ear to rhythm and raises your standard.",
-        "handle": "@thedailypage",
+        "handle": "",
         "slideId": "Slide 05"
       }
     },
     {
       "layoutId": "body-noir-yellow",
       "slots": {
-        "brand": "THE DAILY PAGE",
+        "brand": "",
         "scriptPrefix": "Ritual",
         "displayLine1": "RETURN TO",
         "displayLine2": "THE SAME",
         "displayLine3": "EMPTY CHAIR",
         "body": "Consistency trains the brain to switch into creative mode. The ritual becomes the doorway into the work.",
-        "handle": "@thedailypage",
+        "handle": "",
         "slideId": "Slide 06"
       }
     },
     {
       "layoutId": "body-noir-yellow",
       "slots": {
-        "brand": "THE DAILY PAGE",
+        "brand": "",
         "scriptPrefix": "Ritual",
         "displayLine1": "STOP WHEN",
         "displayLine2": "YOU KNOW",
         "displayLine3": "WHAT COMES NEXT",
         "body": "Leave a little water in the well. Tomorrow's momentum depends on today's restraint.",
-        "handle": "@thedailypage",
+        "handle": "",
         "slideId": "Slide 07"
       }
     },
     {
       "layoutId": "cta-noir-yellow",
       "slots": {
-        "brand": "THE DAILY PAGE",
+        "brand": "",
         "scriptPrefix": "Begin",
         "headline": "YOUR QUIET RITUAL TODAY",
         "scriptTagline": "One quiet habit changes everything you write.",
         "buttonLabel": "BEGIN YOUR RITUAL",
-        "handle": "@thedailypage",
+        "handle": "",
         "slideId": "Slide 08"
       }
     }

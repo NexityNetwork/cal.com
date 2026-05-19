@@ -8,7 +8,7 @@
       "layoutId": "cover-flowchart",
       "slots": {
         "number": "01",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "Onboarding Blueprint",
         "subtitle": "The customer flow that reduced churn by fifty percent.",
         "check1": "Maps every critical touchpoint in the user journey",
@@ -32,7 +32,7 @@
       "layoutId": "body-flowchart",
       "slots": {
         "number": "02",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "Welcome Sequence",
         "subtitle": "The first impression that sets the tone for retention.",
         "check1": "Confirms value within sixty seconds of signup",
@@ -46,7 +46,7 @@
       "layoutId": "body-flowchart",
       "slots": {
         "number": "03",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "Setup Wizard",
         "subtitle": "Guided configuration that prevents early abandonment and confusion.",
         "check1": "Breaks complex tasks into three micro-steps",
@@ -60,7 +60,7 @@
       "layoutId": "body-flowchart",
       "slots": {
         "number": "04",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "First Value",
         "subtitle": "Engineering an early aha moment drives long-term stickiness.",
         "check1": "Surfaces pre-built template based on user role",
@@ -74,7 +74,7 @@
       "layoutId": "body-flowchart",
       "slots": {
         "number": "05",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "Team Invite",
         "subtitle": "Turning individual users into sticky collaborative accounts naturally.",
         "check1": "Prompts invite after first personal success only",
@@ -88,7 +88,7 @@
       "layoutId": "body-flowchart",
       "slots": {
         "number": "06",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "Success Milestone",
         "subtitle": "Recognizing progress reinforces habit and deepens product commitment.",
         "check1": "Triggers celebration at day seven usage streak",
@@ -102,7 +102,7 @@
       "layoutId": "body-flowchart",
       "slots": {
         "number": "07",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "Proactive Check",
         "subtitle": "Intervening before disinterest becomes cancellation saves accounts.",
         "check1": "Flags inactive accounts on day three automatically",
@@ -116,7 +116,7 @@
       "layoutId": "cta-flowchart",
       "slots": {
         "number": "08",
-        "handle": "@usevisuals",
+        "handle": "",
         "eyebrow": "YOUR MOVE",
         "headlineLine1": "Map Your Flow",
         "headlineLine2": "Cut Churn Now",

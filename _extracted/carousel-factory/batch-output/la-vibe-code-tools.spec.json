@@ -7,8 +7,8 @@
     {
       "layoutId": "cover-lime-accent",
       "slots": {
-        "brandTag": "STACK PICK",
-        "handle": "factory.51ultron.com",
+        "brandTag": "",
+        "handle": "",
         "eyebrow": "2026 PICKS",
         "titleLine1": "9 free",
         "titleCallout": "vibe coding",
@@ -27,7 +27,7 @@
       "layoutId": "body-lime-accent",
       "slots": {
         "numLabel": "TOOL 01",
-        "handle": "factory.51ultron.com",
+        "handle": "",
         "iconSlug1": "cursor",
         "toolTag": "free tier",
         "toolTagline": "The AI-native editor that predicts your next refactor.",
@@ -49,7 +49,7 @@
       "layoutId": "body-lime-accent",
       "slots": {
         "numLabel": "TOOL 02",
-        "handle": "factory.51ultron.com",
+        "handle": "",
         "iconSlug1": "vercel",
         "toolTag": "generative",
         "toolTagline": "Generate UI from a prompt, copy-paste into Next.js.",
@@ -71,7 +71,7 @@
       "layoutId": "body-lime-accent",
       "slots": {
         "numLabel": "TOOL 03",
-        "handle": "factory.51ultron.com",
+        "handle": "",
         "iconSlug1": "github",
         "toolTag": "essential",
         "toolTagline": "Autocomplete on steroids for every language.",
@@ -93,7 +93,7 @@
       "layoutId": "body-lime-accent",
       "slots": {
         "numLabel": "TOOL 04",
-        "handle": "factory.51ultron.com",
+        "handle": "",
         "iconSlug1": "ollama",
         "toolTag": "local first",
         "toolTagline": "Run Llama and Mistral on your own machine.",
@@ -115,7 +115,7 @@
       "layoutId": "body-lime-accent",
       "slots": {
         "numLabel": "TOOL 05",
-        "handle": "factory.51ultron.com",
+        "handle": "",
         "iconSlug1": "warp",
         "toolTag": "AI terminal",
         "toolTagline": "Your command line with an embedded LLM.",
@@ -137,7 +137,7 @@
       "layoutId": "body-lime-accent",
       "slots": {
         "numLabel": "TOOL 06",
-        "handle": "factory.51ultron.com",
+        "handle": "",
         "iconSlug1": "bolt",
         "toolTag": "full stack",
         "toolTagline": "Prompt, edit, and deploy from the browser.",
@@ -158,8 +158,8 @@
     {
       "layoutId": "cta-lime-accent",
       "slots": {
-        "brandTag": "WRAP",
-        "handle": "factory.51ultron.com",
+        "brandTag": "",
+        "handle": "",
         "eyebrow": "PICK YOURS",
         "ctaLine1": "Start vibe coding",
         "ctaCallout": "today",

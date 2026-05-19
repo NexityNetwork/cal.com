@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/me-distribution-before-product/slide-01.png",
-      "bytes": 100608,
+      "bytes": 98344,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -19,7 +19,7 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/me-distribution-before-product/slide-02.png",
-      "bytes": 81869,
+      "bytes": 80396,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -35,7 +35,7 @@
     {
       "index": 2,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/me-distribution-before-product/slide-03.png",
-      "bytes": 83221,
+      "bytes": 81733,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -51,7 +51,7 @@
     {
       "index": 3,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/me-distribution-before-product/slide-04.png",
-      "bytes": 82526,
+      "bytes": 81065,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -67,7 +67,7 @@
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/me-distribution-before-product/slide-05.png",
-      "bytes": 86177,
+      "bytes": 84750,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -83,7 +83,7 @@
     {
       "index": 5,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/me-distribution-before-product/slide-06.png",
-      "bytes": 83667,
+      "bytes": 82074,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -99,7 +99,7 @@
     {
       "index": 6,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/me-distribution-before-product/slide-07.png",
-      "bytes": 89720,
+      "bytes": 88282,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -115,7 +115,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/me-distribution-before-product/slide-08.png",
-      "bytes": 67826,
+      "bytes": 66094,
       "qa": {
         "verdict": "pass",
         "checks": {

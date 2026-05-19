@@ -8,14 +8,14 @@
       "layoutId": "cover-cream-claude",
       "slots": {
         "tag": "README",
-        "handle": "factory.51ultron.com",
+        "handle": "",
         "eyebrow": "Open source first impressions",
         "titleLine1": "Your README is a",
         "titleAccent": "hiring filter",
         "titleItalic": "for real",
         "subEyebrow": "WHY IT WORKS",
         "subText": "OSS maintainers use <em>six proven patterns</em> to turn skim-readers into <em>committed contributors</em>.",
-        "domainText": "factory.51ultron.com",
+        "domainText": "",
         "swipeNote": "READ"
       }
     },
@@ -37,7 +37,7 @@
         "b1Body": "Visitors bounce if the headline doesn't speak their language instantly.",
         "b2Title": "Avoid jargon overload",
         "b2Body": "Replace buzzwords with the exact pain point your tool removes.",
-        "domainText": "factory.51ultron.com",
+        "domainText": "",
         "pageOf": "01 / 06"
       }
     },
@@ -59,7 +59,7 @@
         "b1Body": "The fastest path to value beats a thousand feature paragraphs.",
         "b2Title": "Show live output",
         "b2Body": "A terminal screenshot proves your project works without configuration hell.",
-        "domainText": "factory.51ultron.com",
+        "domainText": "",
         "pageOf": "02 / 06"
       }
     },
@@ -81,7 +81,7 @@
         "b1Body": "Show the ugly status quo, then reveal your elegant escape hatch.",
         "b2Title": "Use real scenarios",
         "b2Body": "Concrete examples beat abstract claims when recruiting technical talent.",
-        "domainText": "factory.51ultron.com",
+        "domainText": "",
         "pageOf": "03 / 06"
       }
     },
@@ -103,7 +103,7 @@
         "b1Body": "A simple diagram turns strangers into architects who trust your judgment.",
         "b2Title": "Own the constraints",
         "b2Body": "Honest limits attract collaborators more than polished marketing ever could.",
-        "domainText": "factory.51ultron.com",
+        "domainText": "",
         "pageOf": "04 / 06"
       }
     },
@@ -125,7 +125,7 @@
         "b1Body": "Explicit starter tasks signal a community that mentors rather than gatekeeps.",
         "b2Title": "Automate the setup",
         "b2Body": "One script to configure dev envs removes friction that kills enthusiasm.",
-        "domainText": "factory.51ultron.com",
+        "domainText": "",
         "pageOf": "05 / 06"
       }
     },
@@ -147,7 +147,7 @@
         "b1Body": "Company logos and testimonials imply production-grade reliability and career growth.",
         "b2Title": "Share the roadmap",
         "b2Body": "A public changelog proves the project is alive and professionally maintained.",
-        "domainText": "factory.51ultron.com",
+        "domainText": "",
         "pageOf": "06 / 06"
       }
     },
@@ -163,7 +163,7 @@
         "btnPrimary": "Start writing",
         "btnGhost": "View examples",
         "signoff": "Now go ship it",
-        "domainText": "factory.51ultron.com",
+        "domainText": "",
         "pageOf": "06 / 06"
       }
     }

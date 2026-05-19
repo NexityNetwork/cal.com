@@ -8,7 +8,7 @@
       "layoutId": "cover-before-after",
       "slots": {
         "pageOf": "01 / 08",
-        "handle": "@hireflow",
+        "handle": "",
         "title": "Stop wasting",
         "titleAccent": "hiring budget",
         "description": "200 applicants, same talent quality, zero recruiter overhead. See how AI reshapes every step.",
@@ -30,7 +30,7 @@
       "layoutId": "body-before-after",
       "slots": {
         "slideLabel": "STEP 01 / 06",
-        "handle": "@hireflow",
+        "handle": "",
         "title": "Post once",
         "titleAccent": "reach all",
         "description": "AI syndicates your open role across every major job board instantly.",
@@ -52,7 +52,7 @@
       "layoutId": "body-before-after",
       "slots": {
         "slideLabel": "STEP 02 / 06",
-        "handle": "@hireflow",
+        "handle": "",
         "title": "Screen resumes",
         "titleAccent": "in seconds",
         "description": "AI reads and ranks every applicant against your scorecard instantly.",
@@ -74,7 +74,7 @@
       "layoutId": "body-before-after",
       "slots": {
         "slideLabel": "STEP 03 / 06",
-        "handle": "@hireflow",
+        "handle": "",
         "title": "Schedule interviews",
         "titleAccent": "without email",
         "description": "AI finds open slots across calendars and books candidates automatically.",
@@ -96,7 +96,7 @@
       "layoutId": "body-before-after",
       "slots": {
         "slideLabel": "STEP 04 / 06",
-        "handle": "@hireflow",
+        "handle": "",
         "title": "Run structured",
         "titleAccent": "interviews",
         "description": "AI generates role-specific questions and scores answers in real time.",
@@ -118,7 +118,7 @@
       "layoutId": "body-before-after",
       "slots": {
         "slideLabel": "STEP 05 / 06",
-        "handle": "@hireflow",
+        "handle": "",
         "title": "Score fairly",
         "titleAccent": "with data",
         "description": "AI compiles structured feedback and ranks finalists by fit score.",
@@ -140,7 +140,7 @@
       "layoutId": "body-before-after",
       "slots": {
         "slideLabel": "STEP 06 / 06",
-        "handle": "@hireflow",
+        "handle": "",
         "title": "Close faster",
         "titleAccent": "win talent",
         "description": "AI drafts offers and handles follow-up so you never lose speed.",
@@ -162,7 +162,7 @@
       "layoutId": "cta-before-after",
       "slots": {
         "pageOf": "08 / 08",
-        "handle": "@hireflow",
+        "handle": "",
         "eyebrow": "MAKE THE SWITCH",
         "headlineLine1": "Hire smarter",
         "headlineAccent": "not harder",

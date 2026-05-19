@@ -142,7 +142,7 @@
         "targetLine1": "FREE",
         "targetLine2": "SYSTEM",
         "buttonLine": "Comment 'SHIP' for access",
-        "handle": "@handle"
+        "handle": ""
       }
     }
   ]

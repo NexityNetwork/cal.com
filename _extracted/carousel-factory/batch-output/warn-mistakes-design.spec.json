@@ -8,7 +8,7 @@
       "layoutId": "cover-black-warning",
       "slots": {
         "number": "01",
-        "handle": "@usevisuals",
+        "handle": "",
         "eyebrow": "CONVERSION KILLERS",
         "titleLine1": "Stop Ignoring These",
         "titleAccent": "6 Mistakes",
@@ -20,7 +20,7 @@
       "layoutId": "body-black-warning",
       "slots": {
         "number": "02",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "Vague Value Proposition",
         "body": "Users leave when they can't instantly understand what you offer and why it matters to them.",
         "calloutLabel": "KEY INSIGHT",
@@ -32,7 +32,7 @@
       "layoutId": "body-black-warning",
       "slots": {
         "number": "03",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "Overly Complex Forms",
         "body": "Every extra field reduces completions. Long forms create friction and drive potential customers away.",
         "calloutLabel": "DO THIS",
@@ -44,7 +44,7 @@
       "layoutId": "body-black-warning",
       "slots": {
         "number": "04",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "Missing Social Proof",
         "body": "Without reviews or testimonials, visitors trust you less and hesitate to make purchase decisions.",
         "calloutLabel": "KEY INSIGHT",
@@ -56,7 +56,7 @@
       "layoutId": "body-black-warning",
       "slots": {
         "number": "05",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "Slow Page Loading",
         "body": "Each second of delay costs conversions. Impatient users abandon before your content even appears.",
         "calloutLabel": "DO THIS",
@@ -68,7 +68,7 @@
       "layoutId": "body-black-warning",
       "slots": {
         "number": "06",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "Weak Generic CTAs",
         "body": "Generic buttons like 'Submit' fail to inspire action. Your CTA must promise clear value.",
         "calloutLabel": "KEY INSIGHT",
@@ -80,7 +80,7 @@
       "layoutId": "body-black-warning",
       "slots": {
         "number": "07",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "Broken Mobile Experience",
         "body": "More than half of traffic is mobile. Clunky designs frustrate users and kill conversions fast.",
         "calloutLabel": "DO THIS",
@@ -92,7 +92,7 @@
       "layoutId": "cta-black-warning",
       "slots": {
         "number": "08",
-        "handle": "@usevisuals",
+        "handle": "",
         "eyebrow": "YOUR MOVE",
         "headlineLine1": "Fix These",
         "headlineAccent": "Conversion Killers",

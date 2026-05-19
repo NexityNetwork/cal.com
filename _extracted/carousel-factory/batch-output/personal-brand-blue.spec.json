@@ -7,7 +7,7 @@
     {
       "layoutId": "cover-blue-italic",
       "slots": {
-        "handle": "@brandcraft",
+        "handle": "",
         "websiteUrl": "www.brandcraft.com",
         "accentLine": "5 Mistakes",
         "sub1": "killing your personal",
@@ -21,7 +21,7 @@
     {
       "layoutId": "body-blue-italic",
       "slots": {
-        "handle": "@brandcraft",
+        "handle": "",
         "websiteUrl": "www.brandcraft.com",
         "number": "1",
         "numberLabel": "Mistake",
@@ -36,7 +36,7 @@
     {
       "layoutId": "body-blue-italic",
       "slots": {
-        "handle": "@brandcraft",
+        "handle": "",
         "websiteUrl": "www.brandcraft.com",
         "number": "2",
         "numberLabel": "Mistake",
@@ -51,7 +51,7 @@
     {
       "layoutId": "body-blue-italic",
       "slots": {
-        "handle": "@brandcraft",
+        "handle": "",
         "websiteUrl": "www.brandcraft.com",
         "number": "3",
         "numberLabel": "Mistake",
@@ -66,7 +66,7 @@
     {
       "layoutId": "body-blue-italic",
       "slots": {
-        "handle": "@brandcraft",
+        "handle": "",
         "websiteUrl": "www.brandcraft.com",
         "number": "4",
         "numberLabel": "Mistake",
@@ -81,7 +81,7 @@
     {
       "layoutId": "body-blue-italic",
       "slots": {
-        "handle": "@brandcraft",
+        "handle": "",
         "websiteUrl": "www.brandcraft.com",
         "number": "5",
         "numberLabel": "Mistake",
@@ -96,7 +96,7 @@
     {
       "layoutId": "body-blue-italic",
       "slots": {
-        "handle": "@brandcraft",
+        "handle": "",
         "websiteUrl": "www.brandcraft.com",
         "number": "6",
         "numberLabel": "Fix",
@@ -111,7 +111,7 @@
     {
       "layoutId": "cta-blue-italic",
       "slots": {
-        "handle": "@brandcraft",
+        "handle": "",
         "websiteUrl": "www.brandcraft.com",
         "eyebrow": "YOUR TURN",
         "headline": "Fix your brand today",

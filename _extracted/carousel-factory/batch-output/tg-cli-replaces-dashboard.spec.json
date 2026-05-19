@@ -7,8 +7,8 @@
     {
       "layoutId": "cover-terminal-glow",
       "slots": {
-        "brandTag": "DEVOPS",
-        "handle": "@srehq",
+        "brandTag": "",
+        "handle": "",
         "termTitle": "~/devops/cli-dashboard.sh",
         "cmdLine": "devops-cli --replace-dashboards --all",
         "outLine": "found 6 tools across",
@@ -38,7 +38,7 @@
       "layoutId": "body-terminal-glow",
       "slots": {
         "numLabel": "CMD 01",
-        "handle": "@srehq",
+        "handle": "",
         "sectionLabel": "TRICK 01",
         "title": "K9s for",
         "titleAccent": "Kubernetes",
@@ -73,7 +73,7 @@
       "layoutId": "body-terminal-glow",
       "slots": {
         "numLabel": "CMD 02",
-        "handle": "@srehq",
+        "handle": "",
         "sectionLabel": "TRICK 02",
         "title": "LazyDocker for",
         "titleAccent": "containers",
@@ -108,7 +108,7 @@
       "layoutId": "body-terminal-glow",
       "slots": {
         "numLabel": "CMD 03",
-        "handle": "@srehq",
+        "handle": "",
         "sectionLabel": "TRICK 03",
         "title": "Lnav log",
         "titleAccent": "navigator",
@@ -143,7 +143,7 @@
       "layoutId": "body-terminal-glow",
       "slots": {
         "numLabel": "CMD 04",
-        "handle": "@srehq",
+        "handle": "",
         "sectionLabel": "TRICK 04",
         "title": "Bottom for",
         "titleAccent": "metrics",
@@ -178,7 +178,7 @@
       "layoutId": "body-terminal-glow",
       "slots": {
         "numLabel": "CMD 05",
-        "handle": "@srehq",
+        "handle": "",
         "sectionLabel": "TRICK 05",
         "title": "Jq plus",
         "titleAccent": "fzf",
@@ -213,7 +213,7 @@
       "layoutId": "body-terminal-glow",
       "slots": {
         "numLabel": "CMD 06",
-        "handle": "@srehq",
+        "handle": "",
         "sectionLabel": "TRICK 06",
         "title": "GitHub CLI",
         "titleAccent": "workflows",
@@ -247,8 +247,8 @@
     {
       "layoutId": "cta-terminal-glow",
       "slots": {
-        "brandTag": "WRAPPED",
-        "handle": "@srehq",
+        "brandTag": "",
+        "handle": "",
         "intro": "now go ship faster",
         "ctaLine1": "Save this",
         "ctaAccent": "terminal stack",

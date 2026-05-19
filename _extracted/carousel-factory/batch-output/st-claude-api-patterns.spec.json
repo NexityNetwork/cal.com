@@ -23,14 +23,14 @@
         "toolRole5": "Performance observability suite",
         "toolRole6": "Serverless cloud infrastructure",
         "ctaText": "Read the breakdown",
-        "handle": "@yourhandle"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-stack-tour",
       "slots": {
         "slideLabel": "02 / 08",
-        "handle": "@yourhandle",
+        "handle": "",
         "iconSlug1": "claude",
         "toolTagline": "The reasoning engine behind production AI",
         "description": "Claude handles complex reasoning, long context windows, and safe outputs for user-facing features.",
@@ -51,7 +51,7 @@
       "layoutId": "body-stack-tour",
       "slots": {
         "slideLabel": "03 / 08",
-        "handle": "@yourhandle",
+        "handle": "",
         "iconSlug1": "pinecone",
         "toolTagline": "Low-latency semantic search for RAG",
         "description": "Vector databases turn Claude into a domain expert by retrieving relevant context at query time.",
@@ -72,7 +72,7 @@
       "layoutId": "body-stack-tour",
       "slots": {
         "slideLabel": "04 / 08",
-        "handle": "@yourhandle",
+        "handle": "",
         "iconSlug1": "langchain",
         "toolTagline": "Chain logic, tools, and memory flows",
         "description": "LangChain abstracts prompt templates, tool calling, and state management into reusable components.",
@@ -93,7 +93,7 @@
       "layoutId": "body-stack-tour",
       "slots": {
         "slideLabel": "05 / 08",
-        "handle": "@yourhandle",
+        "handle": "",
         "iconSlug1": "vercel",
         "toolTagline": "Edge-deployed AI endpoints and UI",
         "description": "Serverless functions and streaming UI components deliver Claude responses to users in milliseconds.",
@@ -114,7 +114,7 @@
       "layoutId": "body-stack-tour",
       "slots": {
         "slideLabel": "06 / 08",
-        "handle": "@yourhandle",
+        "handle": "",
         "iconSlug1": "redis",
         "toolTagline": "In-memory caching and rate limits",
         "description": "Redis prevents redundant LLM calls and enforces token-rate limits without adding server overhead.",
@@ -135,7 +135,7 @@
       "layoutId": "body-stack-tour",
       "slots": {
         "slideLabel": "07 / 08",
-        "handle": "@yourhandle",
+        "handle": "",
         "iconSlug1": "datadog",
         "toolTagline": "Trace, monitor, and evaluate LLM ops",
         "description": "Datadog watches latency, token spend, and error rates across your Claude-powered microservices.",
@@ -156,7 +156,7 @@
       "layoutId": "cta-stack-tour",
       "slots": {
         "pageOf": "08 / 08",
-        "handle": "@yourhandle",
+        "handle": "",
         "eyebrow": "YOUR TURN",
         "headlineLine1": "Ship Claude Apps",
         "headlineLine2": "That Scale",

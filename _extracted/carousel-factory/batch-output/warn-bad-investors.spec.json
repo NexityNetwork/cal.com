@@ -8,7 +8,7 @@
       "layoutId": "cover-black-warning",
       "slots": {
         "number": "01",
-        "handle": "@usevisuals",
+        "handle": "",
         "eyebrow": "INVESTOR RED FLAGS",
         "titleLine1": "Founders Learn The Hard",
         "titleAccent": "Red Flags",
@@ -20,7 +20,7 @@
       "layoutId": "body-black-warning",
       "slots": {
         "number": "02",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "They Pressure You To Sign",
         "body": "Any investor demanding a signature within days is hiding something. Smart founders always involve counsel before committing.",
         "calloutLabel": "KEY INSIGHT",
@@ -32,7 +32,7 @@
       "layoutId": "body-black-warning",
       "slots": {
         "number": "03",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "Founder References Are Missing",
         "body": "If they will not connect you with portfolio founders, assume the relationship ends badly. Great investors open their network proudly.",
         "calloutLabel": "DO THIS",
@@ -44,7 +44,7 @@
       "layoutId": "body-black-warning",
       "slots": {
         "number": "04",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "Dirty Terms Hide Inside Deals",
         "body": "Non-standard pro-rata, excessive liquidation preferences, or random veto rights can cripple your company. Read every clause carefully.",
         "calloutLabel": "RED FLAG",
@@ -56,7 +56,7 @@
       "layoutId": "body-black-warning",
       "slots": {
         "number": "05",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "Money Is Their Only Weapon",
         "body": "Capital without strategic introductions or operational support is expensive dead weight. The best investors actively help you hire and sell.",
         "calloutLabel": "KEY INSIGHT",
@@ -68,7 +68,7 @@
       "layoutId": "body-black-warning",
       "slots": {
         "number": "06",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "Terms Change After The Handshake",
         "body": "Verbal agreements mean nothing if they alter economics during final docs. This behavior predicts every future boardroom battle.",
         "calloutLabel": "WALK AWAY",
@@ -80,7 +80,7 @@
       "layoutId": "body-black-warning",
       "slots": {
         "number": "07",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "Other Founders Quietly Warn You",
         "body": "Whispers about micromanagement, blame-shifting, or legal threats are common in private forums. Believe patterns, not polished pitches.",
         "calloutLabel": "DO THIS",
@@ -92,7 +92,7 @@
       "layoutId": "cta-black-warning",
       "slots": {
         "number": "08",
-        "handle": "@usevisuals",
+        "handle": "",
         "eyebrow": "YOUR MOVE",
         "headlineLine1": "Protect Your Startup",
         "headlineAccent": "Today",

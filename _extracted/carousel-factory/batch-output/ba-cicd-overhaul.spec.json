@@ -8,7 +8,7 @@
       "layoutId": "cover-before-after",
       "slots": {
         "pageOf": "01 / 08",
-        "handle": "@shipstack",
+        "handle": "",
         "title": "Stop doing",
         "titleAccent": "3-week deploys",
         "description": "How we overhauled our CI/CD pipeline to ship daily instead of monthly.",
@@ -30,7 +30,7 @@
       "layoutId": "body-before-after",
       "slots": {
         "slideLabel": "STEP 01 / 06",
-        "handle": "@shipstack",
+        "handle": "",
         "title": "Merge Hell",
         "titleAccent": "Gone Forever",
         "description": "We ditched long-lived branches for trunk-based development with automated checks.",
@@ -52,7 +52,7 @@
       "layoutId": "body-before-after",
       "slots": {
         "slideLabel": "STEP 02 / 06",
-        "handle": "@shipstack",
+        "handle": "",
         "title": "Test in Minutes",
         "titleAccent": "Not Days",
         "description": "Automated suites run on every pull request before production.",
@@ -74,7 +74,7 @@
       "layoutId": "body-before-after",
       "slots": {
         "slideLabel": "STEP 03 / 06",
-        "handle": "@shipstack",
+        "handle": "",
         "title": "Consistent Builds",
         "titleAccent": "Every Time",
         "description": "Containerized pipelines eliminated environment drift and local failures.",
@@ -96,7 +96,7 @@
       "layoutId": "body-before-after",
       "slots": {
         "slideLabel": "STEP 04 / 06",
-        "handle": "@shipstack",
+        "handle": "",
         "title": "Ship Without",
         "titleAccent": "The Stress",
         "description": "Automated deployments replaced manual runbooks and late-night release windows.",
@@ -118,7 +118,7 @@
       "layoutId": "body-before-after",
       "slots": {
         "slideLabel": "STEP 05 / 06",
-        "handle": "@shipstack",
+        "handle": "",
         "title": "Know First",
         "titleAccent": "Fix Fast",
         "description": "Real-time observability catches issues before users ever notice them.",
@@ -140,7 +140,7 @@
       "layoutId": "body-before-after",
       "slots": {
         "slideLabel": "STEP 06 / 06",
-        "handle": "@shipstack",
+        "handle": "",
         "title": "Daily Shipping",
         "titleAccent": "Is Normal",
         "description": "Continuous delivery transformed monthly launches into multiple daily releases.",
@@ -162,7 +162,7 @@
       "layoutId": "cta-before-after",
       "slots": {
         "pageOf": "08 / 08",
-        "handle": "@shipstack",
+        "handle": "",
         "eyebrow": "MAKE THE SWITCH",
         "headlineLine1": "Ship faster",
         "headlineAccent": "with zero stress",

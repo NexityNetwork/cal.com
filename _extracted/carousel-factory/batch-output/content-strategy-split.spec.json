@@ -7,7 +7,7 @@
     {
       "layoutId": "cover-photo-split",
       "slots": {
-        "brand": "Verge",
+        "brand": "",
         "headline": "How we turned content into one million views",
         "swipeNote": "Swipe to see the 6 steps we used"
       }
@@ -15,7 +15,7 @@
     {
       "layoutId": "body-photo-split",
       "slots": {
-        "brand": "Verge",
+        "brand": "",
         "number": "01",
         "eyebrow": "STEP ONE",
         "title": "Audit before you create",
@@ -25,7 +25,7 @@
     {
       "layoutId": "body-photo-split",
       "slots": {
-        "brand": "Verge",
+        "brand": "",
         "number": "02",
         "eyebrow": "STEP TWO",
         "title": "Own one niche first",
@@ -35,7 +35,7 @@
     {
       "layoutId": "body-photo-split",
       "slots": {
-        "brand": "Verge",
+        "brand": "",
         "number": "03",
         "eyebrow": "STEP THREE",
         "title": "Build repeatable formats",
@@ -45,7 +45,7 @@
     {
       "layoutId": "body-photo-split",
       "slots": {
-        "brand": "Verge",
+        "brand": "",
         "number": "04",
         "eyebrow": "STEP FOUR",
         "title": "Distribute like a publisher",
@@ -55,7 +55,7 @@
     {
       "layoutId": "body-photo-split",
       "slots": {
-        "brand": "Verge",
+        "brand": "",
         "number": "05",
         "eyebrow": "STEP FIVE",
         "title": "Activate your insiders",
@@ -65,7 +65,7 @@
     {
       "layoutId": "body-photo-split",
       "slots": {
-        "brand": "Verge",
+        "brand": "",
         "number": "06",
         "eyebrow": "STEP SIX",
         "title": "Close the feedback loop",
@@ -75,7 +75,7 @@
     {
       "layoutId": "cta-photo-split",
       "slots": {
-        "brand": "Verge",
+        "brand": "",
         "quote": "Build the system, then scale the story",
         "eyebrow": "YOUR MOVE",
         "headline": "Start building your content engine",

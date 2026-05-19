@@ -18,7 +18,7 @@
       "layoutId": "body-rounded-card",
       "slots": {
         "pageBadge": "02",
-        "handle": "@SoloStack",
+        "handle": "",
         "number": "01",
         "title": "The 4 Channels",
         "titleAccent": "that drive growth",
@@ -35,7 +35,7 @@
       "layoutId": "body-rounded-card",
       "slots": {
         "pageBadge": "03",
-        "handle": "@SoloStack",
+        "handle": "",
         "number": "02",
         "title": "Writing & Editing",
         "titleAccent": "in one place",
@@ -52,7 +52,7 @@
       "layoutId": "body-rounded-card",
       "slots": {
         "pageBadge": "04",
-        "handle": "@SoloStack",
+        "handle": "",
         "number": "03",
         "title": "Visuals That",
         "titleAccent": "stop the scroll",
@@ -69,7 +69,7 @@
       "layoutId": "body-rounded-card",
       "slots": {
         "pageBadge": "05",
-        "handle": "@SoloStack",
+        "handle": "",
         "number": "04",
         "title": "Email Engine",
         "titleAccent": "on autopilot",
@@ -86,7 +86,7 @@
       "layoutId": "body-rounded-card",
       "slots": {
         "pageBadge": "06",
-        "handle": "@SoloStack",
+        "handle": "",
         "number": "05",
         "title": "Zapier Connects",
         "titleAccent": "the workflow",
@@ -103,7 +103,7 @@
       "layoutId": "body-rounded-card",
       "slots": {
         "pageBadge": "07",
-        "handle": "@SoloStack",
+        "handle": "",
         "number": "06",
         "title": "Track &",
         "titleAccent": "monetize fast",
@@ -120,7 +120,7 @@
       "layoutId": "cta-rounded-card",
       "slots": {
         "pageBadge": "08",
-        "handle": "@SoloStack",
+        "handle": "",
         "eyebrow": "YOUR TURN",
         "headlineLine1": "Build Your Stack",
         "headlineLine2": "this weekend",

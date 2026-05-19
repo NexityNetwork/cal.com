@@ -7,7 +7,7 @@
     {
       "layoutId": "cover-minimal-beauty",
       "slots": {
-        "handle": "@aurelia.skin",
+        "handle": "",
         "author": "DR. ELENA VOSS",
         "role": "AESTHETIC PHYSICIAN",
         "titleLine1": "SCIENCE BACKED",
@@ -19,7 +19,7 @@
     {
       "layoutId": "body-minimal-beauty",
       "slots": {
-        "handle": "@aurelia.skin",
+        "handle": "",
         "author": "DR. ELENA VOSS",
         "number": "STEP 01",
         "title": "DAILY SUN PROTECTION",
@@ -29,7 +29,7 @@
     {
       "layoutId": "body-minimal-beauty",
       "slots": {
-        "handle": "@aurelia.skin",
+        "handle": "",
         "author": "DR. ELENA VOSS",
         "number": "STEP 02",
         "title": "RETINOIDS AT NIGHT",
@@ -39,7 +39,7 @@
     {
       "layoutId": "body-minimal-beauty",
       "slots": {
-        "handle": "@aurelia.skin",
+        "handle": "",
         "author": "DR. ELENA VOSS",
         "number": "STEP 03",
         "title": "PRIORITIZE DEEP SLEEP",
@@ -49,7 +49,7 @@
     {
       "layoutId": "body-minimal-beauty",
       "slots": {
-        "handle": "@aurelia.skin",
+        "handle": "",
         "author": "DR. ELENA VOSS",
         "number": "STEP 04",
         "title": "STAY HYDRATED ALWAYS",
@@ -59,7 +59,7 @@
     {
       "layoutId": "body-minimal-beauty",
       "slots": {
-        "handle": "@aurelia.skin",
+        "handle": "",
         "author": "DR. ELENA VOSS",
         "number": "STEP 05",
         "title": "MOVE YOUR BODY",
@@ -69,7 +69,7 @@
     {
       "layoutId": "body-minimal-beauty",
       "slots": {
-        "handle": "@aurelia.skin",
+        "handle": "",
         "author": "DR. ELENA VOSS",
         "number": "STEP 06",
         "title": "EAT ANTIOXIDANTS DAILY",
@@ -79,7 +79,7 @@
     {
       "layoutId": "cta-minimal-beauty",
       "slots": {
-        "handle": "@aurelia.skin",
+        "handle": "",
         "author": "DR. ELENA VOSS",
         "role": "AESTHETIC PHYSICIAN",
         "eyebrow": "YOUR RITUAL",

@@ -1,0 +1,187 @@
+{
+  "slides": [
+    {
+      "index": 0,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/fdr-vc-lies/slide-01.png",
+      "bytes": 172364,
+      "qa": {
+        "verdict": "pass",
+        "checks": {
+          "no_unfilled_slots": true
+        },
+        "issues": []
+      },
+      "fingerprint": {
+        "layout": "unknown",
+        "elements": {}
+      }
+    },
+    {
+      "index": 1,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/fdr-vc-lies/slide-02.png",
+      "bytes": 244666,
+      "qa": {
+        "verdict": "pass",
+        "checks": {
+          "no_unfilled_slots": true
+        },
+        "issues": []
+      },
+      "fingerprint": {
+        "layout": "unknown",
+        "elements": {}
+      }
+    },
+    {
+      "index": 2,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/fdr-vc-lies/slide-03.png",
+      "bytes": 252548,
+      "qa": {
+        "verdict": "pass",
+        "checks": {
+          "no_unfilled_slots": true
+        },
+        "issues": []
+      },
+      "fingerprint": {
+        "layout": "unknown",
+        "elements": {}
+      }
+    },
+    {
+      "index": 3,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/fdr-vc-lies/slide-04.png",
+      "bytes": 256772,
+      "qa": {
+        "verdict": "pass",
+        "checks": {
+          "no_unfilled_slots": true
+        },
+        "issues": []
+      },
+      "fingerprint": {
+        "layout": "unknown",
+        "elements": {}
+      }
+    },
+    {
+      "index": 4,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/fdr-vc-lies/slide-05.png",
+      "bytes": 242433,
+      "qa": {
+        "verdict": "pass",
+        "checks": {
+          "no_unfilled_slots": true
+        },
+        "issues": []
+      },
+      "fingerprint": {
+        "layout": "unknown",
+        "elements": {}
+      }
+    },
+    {
+      "index": 5,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/fdr-vc-lies/slide-06.png",
+      "bytes": 251601,
+      "qa": {
+        "verdict": "pass",
+        "checks": {
+          "no_unfilled_slots": true
+        },
+        "issues": []
+      },
+      "fingerprint": {
+        "layout": "unknown",
+        "elements": {}
+      }
+    },
+    {
+      "index": 6,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/fdr-vc-lies/slide-07.png",
+      "bytes": 241472,
+      "qa": {
+        "verdict": "pass",
+        "checks": {
+          "no_unfilled_slots": true
+        },
+        "issues": []
+      },
+      "fingerprint": {
+        "layout": "unknown",
+        "elements": {}
+      }
+    },
+    {
+      "index": 7,
+      "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/fdr-vc-lies/slide-08.png",
+      "bytes": 141900,
+      "qa": {
+        "verdict": "pass",
+        "checks": {
+          "no_unfilled_slots": true
+        },
+        "issues": []
+      },
+      "fingerprint": {
+        "layout": "unknown",
+        "elements": {}
+      }
+    }
+  ],
+  "carouselQa": {
+    "verdict": "pass",
+    "issues": [],
+    "adjacencyChecks": [
+      {
+        "between": [
+          1,
+          2
+        ],
+        "similarity": 0
+      },
+      {
+        "between": [
+          2,
+          3
+        ],
+        "similarity": 0
+      },
+      {
+        "between": [
+          3,
+          4
+        ],
+        "similarity": 0
+      },
+      {
+        "between": [
+          4,
+          5
+        ],
+        "similarity": 0
+      },
+      {
+        "between": [
+          5,
+          6
+        ],
+        "similarity": 0
+      },
+      {
+        "between": [
+          6,
+          7
+        ],
+        "similarity": 0
+      },
+      {
+        "between": [
+          7,
+          8
+        ],
+        "similarity": 0
+      }
+    ]
+  }
+}

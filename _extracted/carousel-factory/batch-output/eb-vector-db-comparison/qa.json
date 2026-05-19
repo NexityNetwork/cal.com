@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/eb-vector-db-comparison/slide-01.png",
-      "bytes": 81734,
+      "bytes": 77399,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -19,7 +19,7 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/eb-vector-db-comparison/slide-02.png",
-      "bytes": 74604,
+      "bytes": 96040,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -35,7 +35,7 @@
     {
       "index": 2,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/eb-vector-db-comparison/slide-03.png",
-      "bytes": 92411,
+      "bytes": 111367,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -51,7 +51,7 @@
     {
       "index": 3,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/eb-vector-db-comparison/slide-04.png",
-      "bytes": 83844,
+      "bytes": 105678,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -67,7 +67,7 @@
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/eb-vector-db-comparison/slide-05.png",
-      "bytes": 72217,
+      "bytes": 89955,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -83,7 +83,7 @@
     {
       "index": 5,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/eb-vector-db-comparison/slide-06.png",
-      "bytes": 90214,
+      "bytes": 112097,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -99,7 +99,7 @@
     {
       "index": 6,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/eb-vector-db-comparison/slide-07.png",
-      "bytes": 78671,
+      "bytes": 97598,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -115,7 +115,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/eb-vector-db-comparison/slide-08.png",
-      "bytes": 114740,
+      "bytes": 111185,
       "qa": {
         "verdict": "pass",
         "checks": {

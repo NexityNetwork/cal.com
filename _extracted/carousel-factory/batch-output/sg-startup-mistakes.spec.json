@@ -7,9 +7,9 @@
     {
       "layoutId": "cover-swiss-grid",
       "slots": {
-        "brandTag": "THE LIST",
+        "brandTag": "",
         "issueMeta": "Issue 01 / 2026",
-        "handle": "@founderwire",
+        "handle": "",
         "heroNum": "6",
         "countLabel": "MISTAKES",
         "eyebrow": "FOR SECOND-TIME FOUNDERS",
@@ -30,7 +30,7 @@
       "slots": {
         "numLabel": "01",
         "sectionLabel": "THE PRODUCT",
-        "handle": "@founderwire",
+        "handle": "",
         "title": "BUILD FOR",
         "titleAccent": "USERS",
         "subtitle": "The first-time founder falls in love with a solution; the second falls in love with a problem.",
@@ -55,7 +55,7 @@
       "slots": {
         "numLabel": "02",
         "sectionLabel": "THE TEAM",
-        "handle": "@founderwire",
+        "handle": "",
         "title": "HIRE",
         "titleAccent": "SLOWLY",
         "subtitle": "A bad hire costs more than an empty seat; culture is not a poster on the wall.",
@@ -80,7 +80,7 @@
       "slots": {
         "numLabel": "03",
         "sectionLabel": "THE MONEY",
-        "handle": "@founderwire",
+        "handle": "",
         "title": "WATCH",
         "titleAccent": "BURN",
         "subtitle": "Second-time founders treat cash like oxygen: they know exactly how much remains and when the tank runs empty.",
@@ -105,7 +105,7 @@
       "slots": {
         "numLabel": "04",
         "sectionLabel": "THE LAUNCH",
-        "handle": "@founderwire",
+        "handle": "",
         "title": "SHIP",
         "titleAccent": "NOW",
         "subtitle": "Perfection is the enemy of learning; the best founders launch ugly and iterate with their earliest believers.",
@@ -130,7 +130,7 @@
       "slots": {
         "numLabel": "05",
         "sectionLabel": "THE OPERATOR",
-        "handle": "@founderwire",
+        "handle": "",
         "title": "OWN",
         "titleAccent": "DELEGATE",
         "subtitle": "The founder who does every job becomes the bottleneck; smart founders build systems that outlast their own calendar.",
@@ -155,7 +155,7 @@
       "slots": {
         "numLabel": "06",
         "sectionLabel": "THE METRIC",
-        "handle": "@founderwire",
+        "handle": "",
         "title": "KEEP",
         "titleAccent": "USERS",
         "subtitle": "First-time founders chase new logos; veterans obsess over the ones who stay, expand, and advocate without asking.",
@@ -178,8 +178,8 @@
     {
       "layoutId": "cta-swiss-grid",
       "slots": {
-        "brandTag": "THE LIST",
-        "handle": "@founderwire",
+        "brandTag": "",
+        "handle": "",
         "eyebrow": "YOUR TURN",
         "ctaStamp": "SAVE",
         "ctaLine1": "READ",

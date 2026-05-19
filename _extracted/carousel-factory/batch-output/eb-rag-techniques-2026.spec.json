@@ -7,8 +7,8 @@
     {
       "layoutId": "cover-edu-bright",
       "slots": {
-        "brandTag": "RAG GUIDE",
-        "handle": "@mlfrontiers",
+        "brandTag": "",
+        "handle": "",
         "eyebrow": "production systems today",
         "titleLine1": "Top 5",
         "titleAccent": "RAG techniques",
@@ -36,7 +36,7 @@
       "layoutId": "body-edu-bright-chart",
       "slots": {
         "numLabel": "TIP 01",
-        "handle": "@mlfrontiers",
+        "handle": "",
         "sectionLabel": "BENCHMARK 01",
         "title": "Retrieval accuracy",
         "titleItalic": "by technique",
@@ -68,7 +68,7 @@
       "layoutId": "body-edu-bright-flow",
       "slots": {
         "numLabel": "TIP 02",
-        "handle": "@mlfrontiers",
+        "handle": "",
         "sectionLabel": "PIPELINE 01",
         "title": "Naive RAG",
         "titleItalic": "baseline flow",
@@ -101,7 +101,7 @@
       "layoutId": "body-edu-bright-table",
       "slots": {
         "numLabel": "TIP 03",
-        "handle": "@mlfrontiers",
+        "handle": "",
         "sectionLabel": "TRADEOFFS",
         "title": "Technique",
         "titleItalic": "comparison",
@@ -143,7 +143,7 @@
       "layoutId": "body-edu-bright-chart",
       "slots": {
         "numLabel": "TIP 04",
-        "handle": "@mlfrontiers",
+        "handle": "",
         "sectionLabel": "BENCHMARK 02",
         "title": "Context adherence",
         "titleItalic": "scores",
@@ -175,7 +175,7 @@
       "layoutId": "body-edu-bright-flow",
       "slots": {
         "numLabel": "TIP 05",
-        "handle": "@mlfrontiers",
+        "handle": "",
         "sectionLabel": "PIPELINE 02",
         "title": "Agentic RAG",
         "titleItalic": "self-correcting",
@@ -208,7 +208,7 @@
       "layoutId": "body-edu-bright-table",
       "slots": {
         "numLabel": "TIP 06",
-        "handle": "@mlfrontiers",
+        "handle": "",
         "sectionLabel": "TRADEOFFS",
         "title": "Stack",
         "titleItalic": "economics",
@@ -249,8 +249,8 @@
     {
       "layoutId": "cta-edu-bright",
       "slots": {
-        "brandTag": "RECAP",
-        "handle": "@mlfrontiers",
+        "brandTag": "",
+        "handle": "",
         "eyebrow": "ship RAG that scales",
         "ctaLine1": "Build better",
         "ctaAccent": "retrieval",

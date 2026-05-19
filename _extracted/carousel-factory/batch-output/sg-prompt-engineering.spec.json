@@ -7,9 +7,9 @@
     {
       "layoutId": "cover-swiss-grid",
       "slots": {
-        "brandTag": "AI BRIEF",
+        "brandTag": "",
         "issueMeta": "Issue 01 / 2026",
-        "handle": "@PROMPTLAB",
+        "handle": "",
         "heroNum": "5",
         "countLabel": "PATTERNS",
         "eyebrow": "FOR PRODUCT TEAMS",
@@ -30,7 +30,7 @@
       "slots": {
         "numLabel": "01",
         "sectionLabel": "THE GAP",
-        "handle": "@PROMPTLAB",
+        "handle": "",
         "title": "DEMOS",
         "titleAccent": "LIE",
         "subtitle": "A flashy interface hides fragile logic. Production systems require repeatable outputs under edge cases and ambiguity.",
@@ -55,7 +55,7 @@
       "slots": {
         "numLabel": "02",
         "sectionLabel": "PATTERN 01",
-        "handle": "@PROMPTLAB",
+        "handle": "",
         "title": "FORCE",
         "titleAccent": "REASONING",
         "subtitle": "Before answering, make the model expose its logic. Explicit reasoning steps reduce hallucination and make errors inspectable.",
@@ -80,7 +80,7 @@
       "slots": {
         "numLabel": "03",
         "sectionLabel": "PATTERN 02",
-        "handle": "@PROMPTLAB",
+        "handle": "",
         "title": "EXAMPLES",
         "titleAccent": "BEAT RULES",
         "subtitle": "Precise demonstrations of desired format and tone outperform lengthy instructions every time.",
@@ -105,7 +105,7 @@
       "slots": {
         "numLabel": "04",
         "sectionLabel": "PATTERN 03",
-        "handle": "@PROMPTLAB",
+        "handle": "",
         "title": "PERSONA",
         "titleAccent": "WITH BOUNDS",
         "subtitle": "Give the model a clear identity, then chain it with non-negotiable guardrails and output schemas.",
@@ -130,7 +130,7 @@
       "slots": {
         "numLabel": "05",
         "sectionLabel": "PATTERN 04",
-        "handle": "@PROMPTLAB",
+        "handle": "",
         "title": "CALL",
         "titleAccent": "TOOLS",
         "subtitle": "Models should reason, not calculate. Offload math, search, and memory to external functions with strict interfaces.",
@@ -155,7 +155,7 @@
       "slots": {
         "numLabel": "06",
         "sectionLabel": "PATTERN 05",
-        "handle": "@PROMPTLAB",
+        "handle": "",
         "title": "VERIFY",
         "titleAccent": "TWICE",
         "subtitle": "Build reflection into the prompt itself. Ask the model to critique its output against constraints before returning it.",
@@ -178,8 +178,8 @@
     {
       "layoutId": "cta-swiss-grid",
       "slots": {
-        "brandTag": "AI BRIEF",
-        "handle": "@PROMPTLAB",
+        "brandTag": "",
+        "handle": "",
         "eyebrow": "YOUR TURN",
         "ctaStamp": "BUILD",
         "ctaLine1": "SHIP",

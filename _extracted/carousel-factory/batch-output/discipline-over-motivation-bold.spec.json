@@ -8,7 +8,7 @@
       "layoutId": "cover-bold-split",
       "slots": {
         "title": "DISCIPLINE BEATS MOTIVATION EVERY SINGLE TIME",
-        "handle": "@DISCIPLINECODE"
+        "handle": ""
       }
     },
     {
@@ -17,7 +17,7 @@
         "number": "01",
         "title": "THE WRITER WHO SHOWS UP",
         "body": "Inspiration is unpredictable. The professional sits down and writes anyway, turning blank pages into finished books through repetition alone.",
-        "handle": "@DISCIPLINECODE"
+        "handle": ""
       }
     },
     {
@@ -26,7 +26,7 @@
         "number": "02",
         "title": "THE ATHLETE WHO TRAINS DAILY",
         "body": "Champions do not wait for perfect conditions. They run in the rain and lift when energy is low because the schedule demands it.",
-        "handle": "@DISCIPLINECODE"
+        "handle": ""
       }
     },
     {
@@ -35,7 +35,7 @@
         "number": "03",
         "title": "THE LEADER WHO DECIDES TIRED",
         "body": "Motivation fades by noon. Great executives rely on systems and standards to make hard calls long after the excitement has disappeared.",
-        "handle": "@DISCIPLINECODE"
+        "handle": ""
       }
     },
     {
@@ -44,7 +44,7 @@
         "number": "04",
         "title": "THE MUSICIAN WHO PRACTICES SCALES",
         "body": "Talent means nothing without repetition. The best players play boring fundamentals for hours because mastery is built when nobody is watching.",
-        "handle": "@DISCIPLINECODE"
+        "handle": ""
       }
     },
     {
@@ -53,7 +53,7 @@
         "number": "05",
         "title": "THE STUDENT WHO STUDIES DAILY",
         "body": "Cramming relies on panic, not progress. Consistent learners absorb more in thirty focused minutes a day than in all-night motivational bursts.",
-        "handle": "@DISCIPLINECODE"
+        "handle": ""
       }
     },
     {
@@ -62,7 +62,7 @@
         "number": "06",
         "title": "THE ARTIST WHO SHIPS DAILY",
         "body": "Waiting for the perfect mood kills creativity. The prolific creator publishes work that is good enough and moves on to the next piece.",
-        "handle": "@DISCIPLINECODE"
+        "handle": ""
       }
     },
     {
@@ -72,7 +72,7 @@
         "headline": "BUILD THE SYSTEM TODAY",
         "body": "Stop waiting to feel ready. Start small, stay consistent, and let discipline carry you when motivation disappears.",
         "buttonLabel": "START TODAY",
-        "handle": "@DISCIPLINECODE"
+        "handle": ""
       }
     }
   ]

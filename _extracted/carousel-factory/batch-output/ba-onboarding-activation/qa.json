@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/ba-onboarding-activation/slide-01.png",
-      "bytes": 122405,
+      "bytes": 119463,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -19,7 +19,7 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/ba-onboarding-activation/slide-02.png",
-      "bytes": 101205,
+      "bytes": 98388,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -35,7 +35,7 @@
     {
       "index": 2,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/ba-onboarding-activation/slide-03.png",
-      "bytes": 106205,
+      "bytes": 103504,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -51,7 +51,7 @@
     {
       "index": 3,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/ba-onboarding-activation/slide-04.png",
-      "bytes": 104696,
+      "bytes": 101934,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -67,7 +67,7 @@
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/ba-onboarding-activation/slide-05.png",
-      "bytes": 105013,
+      "bytes": 102176,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -83,7 +83,7 @@
     {
       "index": 5,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/ba-onboarding-activation/slide-06.png",
-      "bytes": 96260,
+      "bytes": 93584,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -99,7 +99,7 @@
     {
       "index": 6,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/ba-onboarding-activation/slide-07.png",
-      "bytes": 104305,
+      "bytes": 101468,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -115,7 +115,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/ba-onboarding-activation/slide-08.png",
-      "bytes": 71782,
+      "bytes": 68677,
       "qa": {
         "verdict": "pass",
         "checks": {

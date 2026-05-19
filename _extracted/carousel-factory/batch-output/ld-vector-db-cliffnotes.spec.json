@@ -18,7 +18,7 @@
         "codeFn": "query",
         "codeArg": "embedding",
         "codeReturn": "200",
-        "domainText": "vectordb.dev",
+        "domainText": "",
         "swipeNote": "SCROLL"
       }
     },
@@ -39,7 +39,7 @@
         "cmdLine": "pinecone init",
         "outLine": "index live in 8s",
         "okLine": "✓ READY",
-        "domainText": "vectordb.dev",
+        "domainText": "",
         "pageOf": "01 / 06"
       }
     },
@@ -60,7 +60,7 @@
         "cmdLine": "weaviate up",
         "outLine": "modules loaded",
         "okLine": "✓ LIVE",
-        "domainText": "vectordb.dev",
+        "domainText": "",
         "pageOf": "02 / 06"
       }
     },
@@ -81,7 +81,7 @@
         "cmdLine": "CREATE INDEX idx",
         "outLine": "hnsw built 4.2s",
         "okLine": "✓ DONE",
-        "domainText": "vectordb.dev",
+        "domainText": "",
         "pageOf": "03 / 06"
       }
     },
@@ -102,7 +102,7 @@
         "cmdLine": "qdrant start",
         "outLine": "cluster node 1",
         "okLine": "✓ UP",
-        "domainText": "vectordb.dev",
+        "domainText": "",
         "pageOf": "04 / 06"
       }
     },
@@ -123,7 +123,7 @@
         "cmdLine": "milvus cluster",
         "outLine": "3 nodes ready",
         "okLine": "✓ NODES UP",
-        "domainText": "vectordb.dev",
+        "domainText": "",
         "pageOf": "05 / 06"
       }
     },
@@ -144,7 +144,7 @@
         "cmdLine": "chroma run",
         "outLine": "local db ready",
         "okLine": "✓ LOCAL",
-        "domainText": "vectordb.dev",
+        "domainText": "",
         "pageOf": "06 / 06"
       }
     },
@@ -160,7 +160,7 @@
         "btnGhost": "View on GitHub",
         "meta1": "open source · MIT",
         "meta2": "built in 2025",
-        "domainText": "vectordb.dev",
+        "domainText": "",
         "pageOf": "06 / 06"
       }
     }

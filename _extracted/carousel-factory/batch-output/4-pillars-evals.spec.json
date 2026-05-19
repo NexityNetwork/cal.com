@@ -7,7 +7,7 @@
     {
       "layoutId": "cover-black-mindmap",
       "slots": {
-        "handle": "@evals",
+        "handle": "",
         "pageLabel": "01 / 08",
         "eyebrow": "SAVE THIS",
         "headlineLine1": "The 4 Pillars of",
@@ -18,7 +18,7 @@
     {
       "layoutId": "body-black-mindmap",
       "slots": {
-        "handle": "@evals",
+        "handle": "",
         "pageLabel": "02 / 08",
         "number": "1",
         "title": "Tests",
@@ -32,7 +32,7 @@
     {
       "layoutId": "body-black-mindmap",
       "slots": {
-        "handle": "@evals",
+        "handle": "",
         "pageLabel": "03 / 08",
         "number": "2",
         "title": "Traces",
@@ -46,7 +46,7 @@
     {
       "layoutId": "body-black-mindmap",
       "slots": {
-        "handle": "@evals",
+        "handle": "",
         "pageLabel": "04 / 08",
         "number": "3",
         "title": "Scorers",
@@ -60,7 +60,7 @@
     {
       "layoutId": "body-black-mindmap",
       "slots": {
-        "handle": "@evals",
+        "handle": "",
         "pageLabel": "05 / 08",
         "number": "4",
         "title": "Drift",
@@ -74,7 +74,7 @@
     {
       "layoutId": "body-black-mindmap",
       "slots": {
-        "handle": "@evals",
+        "handle": "",
         "pageLabel": "06 / 08",
         "number": "5",
         "title": "Gate",
@@ -88,7 +88,7 @@
     {
       "layoutId": "body-black-mindmap",
       "slots": {
-        "handle": "@evals",
+        "handle": "",
         "pageLabel": "07 / 08",
         "number": "6",
         "title": "Loop",
@@ -102,7 +102,7 @@
     {
       "layoutId": "cta-black-mindmap",
       "slots": {
-        "handle": "@evals",
+        "handle": "",
         "pageLabel": "08 / 08",
         "eyebrow": "YOUR MOVE",
         "headlineLine1": "Ship AI with",

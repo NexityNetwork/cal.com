@@ -7,7 +7,7 @@
     {
       "layoutId": "cover-dark-navy",
       "slots": {
-        "brand": "HookEngine",
+        "brand": "",
         "versionLabel": "v2.0",
         "prompt": "run api-design.sh --principles=6 --target=integrations --mode=stable",
         "headLine1": "The",
@@ -27,7 +27,7 @@
     {
       "layoutId": "body-dark-navy",
       "slots": {
-        "brand": "HookEngine",
+        "brand": "",
         "pageOf": "02/08",
         "stepLabel": "#1 version inside the URL path",
         "number": "1",
@@ -35,13 +35,13 @@
         "titleOrange": "version",
         "body": "Never break existing consumers. Lock the contract to a path like /v1/ so migrations are opt-in, predictable, and easy to test in staging before production.",
         "codePill": "GET /v2/users?page=1",
-        "handle": "@hookengine"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-dark-navy",
       "slots": {
-        "brand": "HookEngine",
+        "brand": "",
         "pageOf": "03/08",
         "stepLabel": "#2 require idempotency keys on mutations",
         "number": "2",
@@ -49,13 +49,13 @@
         "titleOrange": "safely",
         "body": "Require Idempotency-Key headers on mutating operations. It prevents duplicate charges, retries become safe, and your logs stay deterministic across network blips.",
         "codePill": "Idempotency-Key: <uuid>",
-        "handle": "@hookengine"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-dark-navy",
       "slots": {
-        "brand": "HookEngine",
+        "brand": "",
         "pageOf": "04/08",
         "stepLabel": "#3 return predictable standard error shapes",
         "number": "3",
@@ -63,13 +63,13 @@
         "titleOrange": "consistent",
         "body": "Return consistent JSON error objects with type, message, and param fields. Clients parse once, alerts aggregate cleanly, and debugging stops being a guessing game.",
         "codePill": "{ \"error\": \"invalid_param\" }",
-        "handle": "@hookengine"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-dark-navy",
       "slots": {
-        "brand": "HookEngine",
+        "brand": "",
         "pageOf": "05/08",
         "stepLabel": "#4 paginate collections using opaque cursors",
         "number": "4",
@@ -77,13 +77,13 @@
         "titleOrange": "cursors",
         "body": "Avoid offset limits that drift under concurrent writes. Use opaque cursors for stable iteration, consistent throughput, and infinite-scroll UIs that never duplicate rows.",
         "codePill": "?cursor=eyJpZCI6MX0",
-        "handle": "@hookengine"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-dark-navy",
       "slots": {
-        "brand": "HookEngine",
+        "brand": "",
         "pageOf": "06/08",
         "stepLabel": "#5 sign webhooks with timestamped headers",
         "number": "5",
@@ -91,13 +91,13 @@
         "titleOrange": "payload",
         "body": "Ship every event with a timestamped signature header. Consumers verify authenticity, replay attacks fail, and your integration ecosystem trusts the pipeline.",
         "codePill": "X-Webhook-Signature: sha256=...",
-        "handle": "@hookengine"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-dark-navy",
       "slots": {
-        "brand": "HookEngine",
+        "brand": "",
         "pageOf": "07/08",
         "stepLabel": "#6 define contracts in OpenAPI first",
         "number": "6",
@@ -105,13 +105,13 @@
         "titleOrange": "code",
         "body": "Generate docs, mocks, and SDKs from an OpenAPI schema. Types stay synchronized, code review becomes declarative, and drift between server and client vanishes.",
         "codePill": "openapi: 3.1.0",
-        "handle": "@hookengine"
+        "handle": ""
       }
     },
     {
       "layoutId": "cta-dark-navy",
       "slots": {
-        "brand": "HookEngine",
+        "brand": "",
         "pageOf": "08/08",
         "terminalTag": "run deploy.sh --to=your-feed --topic=api-design",
         "headLine1": "Ship",
@@ -119,7 +119,7 @@
         "body": "Follow for more systems design threads that cut maintenance and keep your integrations stable at scale.",
         "buttonLabel": "Follow now",
         "secondaryNote": "follow for more threads",
-        "handle": "@hookengine"
+        "handle": ""
       }
     }
   ]

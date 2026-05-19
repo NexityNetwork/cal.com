@@ -7,7 +7,7 @@
     {
       "layoutId": "cover-photo-split",
       "slots": {
-        "brand": "NORTH",
+        "brand": "",
         "headline": "How we 3x'd our agency pricing without losing clients",
         "swipeNote": "Swipe through to learn our exact framework."
       }
@@ -15,7 +15,7 @@
     {
       "layoutId": "body-photo-split",
       "slots": {
-        "brand": "NORTH",
+        "brand": "",
         "number": "01",
         "eyebrow": "MINDSET SHIFT",
         "title": "Stop selling your hours",
@@ -25,7 +25,7 @@
     {
       "layoutId": "body-photo-split",
       "slots": {
-        "brand": "NORTH",
+        "brand": "",
         "number": "02",
         "eyebrow": "VALUE FIRST",
         "title": "Sell outcomes, not deliverables",
@@ -35,7 +35,7 @@
     {
       "layoutId": "body-photo-split",
       "slots": {
-        "brand": "NORTH",
+        "brand": "",
         "number": "03",
         "eyebrow": "OFFER DESIGN",
         "title": "Anchor high, then tier",
@@ -45,7 +45,7 @@
     {
       "layoutId": "body-photo-split",
       "slots": {
-        "brand": "NORTH",
+        "brand": "",
         "number": "04",
         "eyebrow": "CLIENT BRIDGE",
         "title": "Grandfather clients with care",
@@ -55,7 +55,7 @@
     {
       "layoutId": "body-photo-split",
       "slots": {
-        "brand": "NORTH",
+        "brand": "",
         "number": "05",
         "eyebrow": "PROOF POINT",
         "title": "Let case studies justify it",
@@ -65,7 +65,7 @@
     {
       "layoutId": "body-photo-split",
       "slots": {
-        "brand": "NORTH",
+        "brand": "",
         "number": "06",
         "eyebrow": "THE ASK",
         "title": "Confidence closes the pricing gap",
@@ -75,7 +75,7 @@
     {
       "layoutId": "cta-photo-split",
       "slots": {
-        "brand": "NORTH",
+        "brand": "",
         "quote": "Raise the price. Keep the client.",
         "eyebrow": "YOUR MOVE",
         "headline": "It's time to raise your rates",

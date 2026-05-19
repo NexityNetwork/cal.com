@@ -7,7 +7,7 @@
     {
       "layoutId": "cover-beige-serif",
       "slots": {
-        "brand": "Quiet Ops",
+        "brand": "",
         "headline": "Six books that quietly changed how I run a company",
         "slideCountHero": "6"
       }
@@ -15,78 +15,78 @@
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "Quiet Ops",
+        "brand": "",
         "number": "01",
         "title": "Know Your Time",
         "body": "Drucker taught me that effectiveness is a discipline, not a personality. Tracking time ruthlessly revealed where my attention actually went. It changed every hiring and meeting decision.",
-        "handle": "@quietops",
-        "domain": "quietops.com"
+        "handle": "",
+        "domain": ""
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "Quiet Ops",
+        "brand": "",
         "number": "02",
         "title": "Intent, Not Permission",
         "body": "Marquet’s leader-leader model replaced my instinct to approve every move. Pushing authority to the information created a faster, more engaged team.",
-        "handle": "@quietops",
-        "domain": "quietops.com"
+        "handle": "",
+        "domain": ""
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "Quiet Ops",
+        "brand": "",
         "number": "03",
         "title": "Measure Output",
         "body": "Grove reframed management as a production process. Focusing on output, not activity, forced me to build systems that scale without my daily presence.",
-        "handle": "@quietops",
-        "domain": "quietops.com"
+        "handle": "",
+        "domain": ""
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "Quiet Ops",
+        "brand": "",
         "number": "04",
         "title": "Embrace The Struggle",
         "body": "Horowitz made peace with the loneliness of leadership. His lens on peacetime versus wartime CEOs prepared me to adapt culture when survival is at stake.",
-        "handle": "@quietops",
-        "domain": "quietops.com"
+        "handle": "",
+        "domain": ""
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "Quiet Ops",
+        "brand": "",
         "number": "05",
         "title": "Lead With Vulnerability",
         "body": "Brown’s research on shame and courage rewired how I give feedback. Creating psychological safety turned out to be the highest-leverage investment in performance.",
-        "handle": "@quietops",
-        "domain": "quietops.com"
+        "handle": "",
+        "domain": ""
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "Quiet Ops",
+        "brand": "",
         "number": "06",
         "title": "See The System",
         "body": "Meadows shifted my focus from isolated fixes to feedback loops. Understanding delays and bottlenecks helped me stop solving the same problem twice.",
-        "handle": "@quietops",
-        "domain": "quietops.com"
+        "handle": "",
+        "domain": ""
       }
     },
     {
       "layoutId": "cta-beige-serif",
       "slots": {
-        "brand": "Quiet Ops",
+        "brand": "",
         "eyebrow": "READING ROUNDUP",
         "headline": "Build Your Leadership Library",
         "body": "Reply with the title that shaped how you lead. I am always hunting for the next quiet revolution.",
         "buttonLabel": "SAVE THIS LIST",
-        "handle": "@quietops"
+        "handle": ""
       }
     }
   ]

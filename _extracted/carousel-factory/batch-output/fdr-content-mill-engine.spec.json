@@ -1,0 +1,180 @@
+{
+  "id": "fdr-content-mill-engine",
+  "brand": "Compose",
+  "brief": "From content mill to AI content engine. The transition from one post a week to twelve a day without losing voice.",
+  "theme": "before-after",
+  "slides": [
+    {
+      "layoutId": "cover-before-after",
+      "slots": {
+        "pageOf": "01 / 08",
+        "handle": "",
+        "title": "Stop writing",
+        "titleAccent": "one by one",
+        "description": "Transform your content mill into an AI engine that publishes twelve daily posts without losing your brand voice.",
+        "badLabel1": "Writing every post from scratch",
+        "badLabel2": "One blog post per week",
+        "badStat1": "1 post/week",
+        "badStat2": "2% reply rate",
+        "goodLabel1": "AI drafts in your voice",
+        "goodLabel2": "Twelve posts published daily",
+        "goodStat1": "12 posts/day",
+        "goodStat2": "8x engagement",
+        "iconSlug1": "notion",
+        "iconSlug2": "slack",
+        "iconSlug3": "webflow",
+        "iconSlug4": "zapier"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 01 / 06",
+        "handle": "",
+        "title": "Brainstorming is",
+        "titleAccent": "a bottleneck",
+        "description": "Waiting for inspiration kills momentum. AI engines generate aligned topics in seconds instead of days.",
+        "badLabel": "BEFORE",
+        "badText": "Stare at blank docs for hours hoping the perfect angle appears.",
+        "badStat": "6 hrs/idea",
+        "iconSlug1": "google",
+        "iconSlug2": "notion",
+        "goodLabel": "AFTER",
+        "goodText": "AI generates fifty on-brand angles ranked by search intent instantly.",
+        "goodStat": "60 sec/idea",
+        "iconSlug3": "openai",
+        "iconSlug4": "zapier",
+        "iconSlug5": "airtable",
+        "ctaArrow": "See the speed"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 02 / 06",
+        "handle": "",
+        "title": "Drafts take",
+        "titleAccent": "forever alone",
+        "description": "Handwriting every post limits output. AI drafts in your voice let you scale without hiring.",
+        "badLabel": "BEFORE",
+        "badText": "One writer spends two days crafting a single long-form article.",
+        "badStat": "2 days/post",
+        "iconSlug1": "wordpress",
+        "iconSlug2": "google",
+        "goodLabel": "AFTER",
+        "goodText": "Your AI engine drafts twelve distinct posts every single morning.",
+        "goodStat": "12/day",
+        "iconSlug3": "openai",
+        "iconSlug4": "zapier",
+        "iconSlug5": "webflow",
+        "ctaArrow": "Scale the draft"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 03 / 06",
+        "handle": "",
+        "title": "Keep your",
+        "titleAccent": "unique voice",
+        "description": "Generic AI sounds robotic. Fine-tuned models mirror your tone so readers never notice the switch.",
+        "badLabel": "BEFORE",
+        "badText": "AI output sounds like everyone else and needs full rewrites.",
+        "badStat": "100% rewrite",
+        "iconSlug1": "wordpress",
+        "iconSlug2": "google",
+        "goodLabel": "AFTER",
+        "goodText": "Trained brand voice produces publication-ready copy on the first pass.",
+        "goodStat": "0% rewrite",
+        "iconSlug3": "openai",
+        "iconSlug4": "slack",
+        "iconSlug5": "notion",
+        "ctaArrow": "Own the voice"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 04 / 06",
+        "handle": "",
+        "title": "Publishing is",
+        "titleAccent": "fully automatic",
+        "description": "Copy-pasting into channels wastes hours. Automated pipelines push formatted posts to every platform instantly.",
+        "badLabel": "BEFORE",
+        "badText": "Manually copy content into LinkedIn, Twitter, and blog backends daily.",
+        "badStat": "3 hrs/day",
+        "iconSlug1": "linkedin",
+        "iconSlug2": "twitter",
+        "goodLabel": "AFTER",
+        "goodText": "One trigger publishes formatted posts across all channels simultaneously.",
+        "goodStat": "0 min/day",
+        "iconSlug3": "zapier",
+        "iconSlug4": "buffer",
+        "iconSlug5": "hubspot",
+        "ctaArrow": "Automate every post"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 05 / 06",
+        "handle": "",
+        "title": "Data drives",
+        "titleAccent": "every headline",
+        "description": "Guessing what works is expensive. Real-time analytics feed back into the engine to optimize the next batch.",
+        "badLabel": "BEFORE",
+        "badText": "Publish blindly and wait weeks to guess what might have worked.",
+        "badStat": "No data",
+        "iconSlug1": "dropbox",
+        "iconSlug2": "google",
+        "goodLabel": "AFTER",
+        "goodText": "Engagement scores auto-train the model for higher-performing content tomorrow.",
+        "goodStat": "Live loop",
+        "iconSlug3": "stripe",
+        "iconSlug4": "shopify",
+        "iconSlug5": "hubspot",
+        "ctaArrow": "Close the loop"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 06 / 06",
+        "handle": "",
+        "title": "Output scales",
+        "titleAccent": "without headcount",
+        "description": "Hiring more writers is linear growth. An AI engine compounds output while keeping costs flat.",
+        "badLabel": "BEFORE",
+        "badText": "Grow output only by hiring expensive writers and editors.",
+        "badStat": "$300/post",
+        "iconSlug1": "github",
+        "iconSlug2": "figma",
+        "goodLabel": "AFTER",
+        "goodText": "One operator orchestrates an engine producing twelve daily posts.",
+        "goodStat": "$8/post",
+        "iconSlug3": "openai",
+        "iconSlug4": "zapier",
+        "iconSlug5": "stripe",
+        "ctaArrow": "Cut costs now"
+      }
+    },
+    {
+      "layoutId": "cta-before-after",
+      "slots": {
+        "pageOf": "08 / 08",
+        "handle": "",
+        "eyebrow": "MAKE THE SWITCH",
+        "headlineLine1": "Build your",
+        "headlineAccent": "content engine",
+        "body": "Stop grinding through one post a week. Launch your AI content engine and publish twelve daily posts in your voice.",
+        "iconSlug1": "openai",
+        "iconSlug2": "slack",
+        "iconSlug3": "notion",
+        "iconSlug4": "webflow",
+        "iconSlug5": "zapier",
+        "iconSlug6": "hubspot",
+        "ctaText": "Start building now"
+      }
+    }
+  ]
+}

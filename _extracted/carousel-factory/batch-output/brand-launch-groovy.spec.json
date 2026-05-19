@@ -9,7 +9,7 @@
       "slots": {
         "title": "Launch your brand",
         "ctaText": "The no-BS playbook for busy founders",
-        "handle": "@launchlab"
+        "handle": ""
       }
     },
     {
@@ -18,7 +18,7 @@
         "number": "01",
         "title": "Lock Your Strategy",
         "body": "Pick a niche, name your vibe, and know exactly who you're talking to. No fancy deck needed—just a one-pager with your mission, audience, and edge. Done is better than perfect here.",
-        "handle": "@launchlab"
+        "handle": ""
       }
     },
     {
@@ -27,7 +27,7 @@
         "number": "02",
         "title": "Design Your Identity",
         "body": "Skip the 20-page guideline. Build a scrappy logo, pick two fonts, and lock in three brand colors. Use Canva or Figma templates so you don't get stuck in revision hell.",
-        "handle": "@launchlab"
+        "handle": ""
       }
     },
     {
@@ -36,7 +36,7 @@
         "number": "03",
         "title": "Build Your Homebase",
         "body": "You need one killer landing page, not a ten-page website. Write punchy copy, add a waitlist or buy button, and make sure it looks fire on mobile.",
-        "handle": "@launchlab"
+        "handle": ""
       }
     },
     {
@@ -45,7 +45,7 @@
         "number": "04",
         "title": "Batch Your Content",
         "body": "Film seven short videos or carousels in one afternoon. Repurpose every clip across Reels, TikTok, and LinkedIn. Consistency beats quality when you're starting from zero.",
-        "handle": "@launchlab"
+        "handle": ""
       }
     },
     {
@@ -54,7 +54,7 @@
         "number": "05",
         "title": "Soft Launch Now",
         "body": "Don't wait for perfection. Post, email your list, and tell everyone you know. Real feedback beats imaginary tweaks every single time.",
-        "handle": "@launchlab"
+        "handle": ""
       }
     },
     {
@@ -63,7 +63,7 @@
         "number": "06",
         "title": "Iterate in Public",
         "body": "Fix the logo later. Tweak the copy tonight. Launching is a loop, not a line—keep shipping while people are actually watching.",
-        "handle": "@launchlab"
+        "handle": ""
       }
     },
     {
@@ -73,7 +73,7 @@
         "headline": "Launch Before You're Ready",
         "body": "Grab the free 7-day checklist and build your brand this week. No fluff, just action.",
         "buttonLabel": "Get the Checklist",
-        "handle": "@launchlab"
+        "handle": ""
       }
     }
   ]

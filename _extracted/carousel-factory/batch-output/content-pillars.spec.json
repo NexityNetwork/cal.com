@@ -7,7 +7,7 @@
     {
       "layoutId": "cover-coral-mag",
       "slots": {
-        "brand": "THE EDIT",
+        "brand": "",
         "issueLabel": "CAROUSEL POST",
         "issueTag": "DEEP DIVE",
         "headWord1": "THE",
@@ -15,13 +15,13 @@
         "headWord3": "METHOD",
         "subEyebrow": "CONTENT STRATEGY",
         "subtitle": "Build five editorial content pillars that never run dry.",
-        "handle": "@theedit"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-coral-mag",
       "slots": {
-        "brand": "THE EDIT",
+        "brand": "",
         "pageLabel": "P.02",
         "number": "01",
         "eyebrow": "THE LIE",
@@ -29,13 +29,13 @@
         "titleWord2": "RANDOM",
         "titleWord3": "WORKS",
         "body": "Most brands burn out chasing trends instead of building a system. An editorial mindset turns scattered ideas into an endless engine.",
-        "handle": "@theedit"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-coral-mag",
       "slots": {
-        "brand": "THE EDIT",
+        "brand": "",
         "pageLabel": "P.03",
         "number": "02",
         "eyebrow": "PILLAR 01",
@@ -43,13 +43,13 @@
         "titleWord2": "EXPERTISE",
         "titleWord3": "FIRST",
         "body": "Document what you already know. Your process, frameworks, and hard-won lessons are a goldmine of repeatable content themes.",
-        "handle": "@theedit"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-coral-mag",
       "slots": {
-        "brand": "THE EDIT",
+        "brand": "",
         "pageLabel": "P.04",
         "number": "03",
         "eyebrow": "PILLAR 02",
@@ -57,13 +57,13 @@
         "titleWord2": "PAIN",
         "titleWord3": "POINTS",
         "body": "Turn customer questions into categories. Every objection, goal, and fear becomes a dedicated pillar with infinite angles.",
-        "handle": "@theedit"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-coral-mag",
       "slots": {
-        "brand": "THE EDIT",
+        "brand": "",
         "pageLabel": "P.05",
         "number": "04",
         "eyebrow": "PILLAR 03",
@@ -71,13 +71,13 @@
         "titleWord2": "CONTENT",
         "titleWord3": "BUCKETS",
         "body": "Assign formats to each pillar. Carousels, memes, case studies, and reels keep the same topic feeling fresh daily.",
-        "handle": "@theedit"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-coral-mag",
       "slots": {
-        "brand": "THE EDIT",
+        "brand": "",
         "pageLabel": "P.06",
         "number": "05",
         "eyebrow": "PILLAR 04",
@@ -85,13 +85,13 @@
         "titleWord2": "EDITORIAL",
         "titleWord3": "CALENDARS",
         "body": "Newsrooms plan by season and slot. Map your pillars to a recurring calendar so you never start from zero.",
-        "handle": "@theedit"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-coral-mag",
       "slots": {
-        "brand": "THE EDIT",
+        "brand": "",
         "pageLabel": "P.07",
         "number": "06",
         "eyebrow": "PILLAR 05",
@@ -99,20 +99,20 @@
         "titleWord2": "EVERYTHING",
         "titleWord3": "WEEKLY",
         "body": "One long-form asset becomes ten posts. Slice pillars into quotes, stories, and stat cards to multiply reach effortlessly.",
-        "handle": "@theedit"
+        "handle": ""
       }
     },
     {
       "layoutId": "cta-coral-mag",
       "slots": {
-        "brand": "THE EDIT",
+        "brand": "",
         "pageOf": "08/08",
         "tag": "YOUR MOVE",
         "headWord1": "SAVE",
         "headWord2": "THIS",
         "body": "Build your editorial system today and stop guessing what to post next week.",
         "buttonLabel": "Follow for more",
-        "handle": "@theedit"
+        "handle": ""
       }
     }
   ]

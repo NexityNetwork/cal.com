@@ -23,14 +23,14 @@
         "toolRole5": "Docs and ops wiki",
         "toolRole6": "Code and source control",
         "ctaText": "Read the breakdown",
-        "handle": "@alexbuilds"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-stack-tour",
       "slots": {
         "slideLabel": "02 / 08",
-        "handle": "@alexbuilds",
+        "handle": "",
         "iconSlug1": "vercel",
         "toolTagline": "Deploy in seconds, scale globally",
         "description": "Vercel hosts my frontend and serverless functions for $20/mo. Zero DevOps overhead.",
@@ -51,7 +51,7 @@
       "layoutId": "body-stack-tour",
       "slots": {
         "slideLabel": "03 / 08",
-        "handle": "@alexbuilds",
+        "handle": "",
         "iconSlug1": "supabase",
         "toolTagline": "The open-source Firebase alternative",
         "description": "Postgres database, auth, and storage for $25/mo. Everything lives in SQL I own.",
@@ -72,7 +72,7 @@
       "layoutId": "body-stack-tour",
       "slots": {
         "slideLabel": "04 / 08",
-        "handle": "@alexbuilds",
+        "handle": "",
         "iconSlug1": "stripe",
         "toolTagline": "Payments without the headache",
         "description": "Stripe handles subscriptions, invoicing, and tax for 2.9% + 30¢ per transaction.",
@@ -93,7 +93,7 @@
       "layoutId": "body-stack-tour",
       "slots": {
         "slideLabel": "05 / 08",
-        "handle": "@alexbuilds",
+        "handle": "",
         "iconSlug1": "resend",
         "toolTagline": "Email for developers, simplified",
         "description": "Resend delivers transactional and marketing email for $20/mo. Inbox placement is stellar.",
@@ -114,7 +114,7 @@
       "layoutId": "body-stack-tour",
       "slots": {
         "slideLabel": "06 / 08",
-        "handle": "@alexbuilds",
+        "handle": "",
         "iconSlug1": "notion",
         "toolTagline": "Docs, roadmap, and ops hub",
         "description": "Notion runs my wiki, sprint board, and content calendar for $10/mo. The whole team of one stays aligned.",
@@ -135,7 +135,7 @@
       "layoutId": "body-stack-tour",
       "slots": {
         "slideLabel": "07 / 08",
-        "handle": "@alexbuilds",
+        "handle": "",
         "iconSlug1": "github",
         "toolTagline": "Code, actions, and backlog",
         "description": "GitHub stores source code and runs CI for $4/mo. Issues double as my lightweight backlog.",
@@ -156,7 +156,7 @@
       "layoutId": "cta-stack-tour",
       "slots": {
         "pageOf": "08 / 08",
-        "handle": "@alexbuilds",
+        "handle": "",
         "eyebrow": "YOUR TURN",
         "headlineLine1": "Build lean,",
         "headlineLine2": "ship faster.",

@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/mint-hiring-first/slide-01.png",
-      "bytes": 54841,
+      "bytes": 52853,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -115,7 +115,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/mint-hiring-first/slide-08.png",
-      "bytes": 48038,
+      "bytes": 45569,
       "qa": {
         "verdict": "pass",
         "checks": {

@@ -7,8 +7,8 @@
     {
       "layoutId": "cover-cream-table",
       "slots": {
-        "brandTag": "AI STACK",
-        "handle": "@sprintcopy",
+        "brandTag": "",
+        "handle": "",
         "eyebrow": "the only writing stack",
         "titleLine1": "5 AI writing",
         "titleAccent": "tools",
@@ -37,7 +37,7 @@
       "layoutId": "body-cream-table",
       "slots": {
         "numLabel": "TOOL 01",
-        "handle": "@sprintcopy",
+        "handle": "",
         "iconSlug1": "claude",
         "toolTagline": "Anthropic's flagship writer for nuanced, human-like drafts.",
         "bigStatement": "Claude produces <em>80% publish-ready</em> first drafts with <em>zero prompt engineering</em>.",
@@ -64,7 +64,7 @@
       "layoutId": "body-cream-table",
       "slots": {
         "numLabel": "TOOL 02",
-        "handle": "@sprintcopy",
+        "handle": "",
         "iconSlug1": "openai",
         "toolTagline": "OpenAI's chat-native assistant built for speed and breadth.",
         "bigStatement": "ChatGPT turns <em>vague ideas</em> into <em>structured outlines</em> faster than any brainstorming session.",
@@ -91,7 +91,7 @@
       "layoutId": "body-cream-table",
       "slots": {
         "numLabel": "TOOL 03",
-        "handle": "@sprintcopy",
+        "handle": "",
         "iconSlug1": "notion",
         "toolTagline": "The collaborative workspace where drafts, data, and AI live together.",
         "bigStatement": "Notion AI automates <em>content calendars</em> and <em>first drafts</em> inside the same database you already use.",
@@ -118,7 +118,7 @@
       "layoutId": "body-cream-table",
       "slots": {
         "numLabel": "TOOL 04",
-        "handle": "@sprintcopy",
+        "handle": "",
         "iconSlug1": "copyai",
         "toolTagline": "The revenue writer that speaks your brand voice fluently.",
         "bigStatement": "Copy.ai delivers <em>conversion-ready</em> copy variants that <em>outperform agency averages</em> in A/B tests.",
@@ -145,7 +145,7 @@
       "layoutId": "body-cream-table",
       "slots": {
         "numLabel": "TOOL 05",
-        "handle": "@sprintcopy",
+        "handle": "",
         "iconSlug1": "grammarly",
         "toolTagline": "Your AI editor that catches everything from tone to truthfulness.",
         "bigStatement": "Grammarly's <em>enterprise suggestions</em> reduce revision cycles by <em>sixty percent</em> before you hit publish.",
@@ -172,7 +172,7 @@
       "layoutId": "body-cream-table",
       "slots": {
         "numLabel": "VERDICT",
-        "handle": "@sprintcopy",
+        "handle": "",
         "iconSlug1": "claude",
         "toolTagline": "Why these five tools earn their budget every single month.",
         "bigStatement": "If you only pay for <em>one</em>, make it Claude; if you run a team, you need <em>the full stack</em>.",
@@ -198,8 +198,8 @@
     {
       "layoutId": "cta-cream-table",
       "slots": {
-        "brandTag": "WRAP",
-        "handle": "@sprintcopy",
+        "brandTag": "",
+        "handle": "",
         "eyebrow": "ready to write faster",
         "titleLine1": "Save this",
         "titleAccent": "AI stack",

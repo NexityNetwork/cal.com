@@ -1,0 +1,93 @@
+{
+  "id": "fdr-minimalist-founder",
+  "brand": "Essential",
+  "brief": "The minimalist founder. One product, one channel, one audience. Why subtraction is the winning strategy in 2026.",
+  "theme": "beige-paper",
+  "slides": [
+    {
+      "layoutId": "cover-beige-serif",
+      "slots": {
+        "brand": "",
+        "headline": "The Minimalist Founder: Why Subtraction Is the Winning Strategy for 2026",
+        "slideCountHero": "6"
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "",
+        "number": "01",
+        "title": "Build One Product",
+        "body": "Founders dilute their energy by chasing every trending opportunity. A single exceptional product builds trust faster than a scattered catalog. Say no to distractions and let your one offer become truly undeniable.",
+        "handle": "",
+        "domain": ""
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "",
+        "number": "02",
+        "title": "Master One Channel",
+        "body": "You do not need to be everywhere to win online. Choose the platform where your ideal audience already spends their time. Dominate it completely before you even consider adding another. Depth will always beat scattered reach.",
+        "handle": "",
+        "domain": ""
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "",
+        "number": "03",
+        "title": "Serve One Audience",
+        "body": "Mass marketing is a luxury that most bootstrapped founders cannot afford. Speak directly to one person with one painful problem. When your message feels tailor-made, conversion follows naturally. Narrow focus creates raving fans instead of passive followers.",
+        "handle": "",
+        "domain": ""
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "",
+        "number": "04",
+        "title": "Subtract to Grow",
+        "body": "Every feature, post, and campaign demands energy you can never reclaim. Ruthless subtraction frees the resources that fuel genuine momentum. In 2026, the winning strategy is doing less, but better. Strip away the noise until only value remains.",
+        "handle": "",
+        "domain": ""
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "",
+        "number": "05",
+        "title": "Focus Drives Profit",
+        "body": "Complexity hides costly leaks inside your business model. A minimalist operation keeps margins healthy and decisions fast. When you serve one audience through one channel with one product, profitability becomes inevitable.",
+        "handle": "",
+        "domain": ""
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "",
+        "number": "06",
+        "title": "Own the Future",
+        "body": "The future rewards clarity in an increasingly noisy world. Founders who subtract today will own tomorrow. Commit to one product, one channel, and one audience. Let simplicity become your strongest competitive moat.",
+        "handle": "",
+        "domain": ""
+      }
+    },
+    {
+      "layoutId": "cta-beige-serif",
+      "slots": {
+        "brand": "",
+        "eyebrow": "START SUBTRACTING",
+        "headline": "Build Your Minimalist Empire",
+        "body": "The minimalist path is one decision away. Choose focus and build what truly matters.",
+        "buttonLabel": "BUILD YOUR EMPIRE",
+        "handle": ""
+      }
+    }
+  ]
+}

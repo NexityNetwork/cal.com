@@ -18,7 +18,7 @@
       "layoutId": "body-rounded-card",
       "slots": {
         "pageBadge": "02",
-        "handle": "@yourbrand",
+        "handle": "",
         "number": "01",
         "title": "Start with",
         "titleAccent": "the essay",
@@ -35,7 +35,7 @@
       "layoutId": "body-rounded-card",
       "slots": {
         "pageBadge": "03",
-        "handle": "@yourbrand",
+        "handle": "",
         "number": "02",
         "title": "Design the",
         "titleAccent": "carousel",
@@ -52,7 +52,7 @@
       "layoutId": "body-rounded-card",
       "slots": {
         "pageBadge": "04",
-        "handle": "@yourbrand",
+        "handle": "",
         "number": "03",
         "title": "Cut short",
         "titleAccent": "video clips",
@@ -69,7 +69,7 @@
       "layoutId": "body-rounded-card",
       "slots": {
         "pageBadge": "05",
-        "handle": "@yourbrand",
+        "handle": "",
         "number": "04",
         "title": "Build the",
         "titleAccent": "text thread",
@@ -86,7 +86,7 @@
       "layoutId": "body-rounded-card",
       "slots": {
         "pageBadge": "06",
-        "handle": "@yourbrand",
+        "handle": "",
         "number": "05",
         "title": "Repurpose into",
         "titleAccent": "audio clips",
@@ -103,7 +103,7 @@
       "layoutId": "body-rounded-card",
       "slots": {
         "pageBadge": "07",
-        "handle": "@yourbrand",
+        "handle": "",
         "number": "06",
         "title": "Schedule and",
         "titleAccent": "ship it",
@@ -120,7 +120,7 @@
       "layoutId": "cta-rounded-card",
       "slots": {
         "pageBadge": "08",
-        "handle": "@yourbrand",
+        "handle": "",
         "eyebrow": "YOUR TURN",
         "headlineLine1": "Steal this",
         "headlineLine2": "distribution stack",

@@ -7,8 +7,8 @@
     {
       "layoutId": "cover-terminal-glow",
       "slots": {
-        "brandTag": "GIT ALIASES",
-        "handle": "@githacks",
+        "brandTag": "",
+        "handle": "",
         "termTitle": "~/.gitconfig",
         "cmdLine": "git config --global --list | grep alias",
         "outLine": "found 5 aliases across",
@@ -38,7 +38,7 @@
       "layoutId": "body-terminal-glow",
       "slots": {
         "numLabel": "CMD 01",
-        "handle": "@githacks",
+        "handle": "",
         "sectionLabel": "CONFIG TRICK",
         "title": "Edit your",
         "titleAccent": "gitconfig",
@@ -73,7 +73,7 @@
       "layoutId": "body-terminal-glow",
       "slots": {
         "numLabel": "CMD 02",
-        "handle": "@githacks",
+        "handle": "",
         "sectionLabel": "ALIAS 01",
         "title": "Better git",
         "titleAccent": "status",
@@ -108,7 +108,7 @@
       "layoutId": "body-terminal-glow",
       "slots": {
         "numLabel": "CMD 03",
-        "handle": "@githacks",
+        "handle": "",
         "sectionLabel": "ALIAS 02",
         "title": "Jump between",
         "titleAccent": "branches",
@@ -143,7 +143,7 @@
       "layoutId": "body-terminal-glow",
       "slots": {
         "numLabel": "CMD 04",
-        "handle": "@githacks",
+        "handle": "",
         "sectionLabel": "ALIAS 03",
         "title": "Manage all",
         "titleAccent": "branches",
@@ -178,7 +178,7 @@
       "layoutId": "body-terminal-glow",
       "slots": {
         "numLabel": "CMD 05",
-        "handle": "@githacks",
+        "handle": "",
         "sectionLabel": "ALIAS 04",
         "title": "Commit your",
         "titleAccent": "changes",
@@ -213,7 +213,7 @@
       "layoutId": "body-terminal-glow",
       "slots": {
         "numLabel": "CMD 06",
-        "handle": "@githacks",
+        "handle": "",
         "sectionLabel": "ALIAS 05",
         "title": "Read repo",
         "titleAccent": "history",
@@ -247,8 +247,8 @@
     {
       "layoutId": "cta-terminal-glow",
       "slots": {
-        "brandTag": "WRAP",
-        "handle": "@githacks",
+        "brandTag": "",
+        "handle": "",
         "intro": "now go ship faster",
         "ctaLine1": "Save this",
         "ctaAccent": "git stack",

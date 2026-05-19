@@ -1,0 +1,111 @@
+{
+  "id": "fdr-truths-hard",
+  "brand": "THE EDGE",
+  "brief": "Five hard truths about making money with AI. The hype tax, the saturation problem, the moat question every solo founder must answer.",
+  "theme": "noir-yellow",
+  "slides": [
+    {
+      "layoutId": "cover-noir-yellow",
+      "slots": {
+        "brand": "",
+        "scriptPrefix": "Five",
+        "displayLine1": "HARD TRUTHS",
+        "displayLine2": "ABOUT MAKING",
+        "displayLine3": "MONEY WITH AI",
+        "scriptTagline": "The hype tax, the moat, and the saturation trap.",
+        "handle": "",
+        "slideId": "Slide 01"
+      }
+    },
+    {
+      "layoutId": "body-noir-yellow",
+      "slots": {
+        "brand": "",
+        "scriptPrefix": "Tax",
+        "displayLine1": "THE HYPE",
+        "displayLine2": "COSTS MORE",
+        "displayLine3": "THAN CASH",
+        "body": "You are bleeding money on subscriptions and tokens before you earn a single dollar. The AI stack is cheap until it isn't. Most solo founders pay a luxury tax on hope, not revenue.",
+        "handle": "",
+        "slideId": "Slide 02"
+      }
+    },
+    {
+      "layoutId": "body-noir-yellow",
+      "slots": {
+        "brand": "",
+        "scriptPrefix": "Noise",
+        "displayLine1": "EVERY NICHE",
+        "displayLine2": "IS ALREADY",
+        "displayLine3": "CROWDED",
+        "body": "AI lowered the barrier to entry for everyone, not just you. That brilliant idea you had yesterday was launched by three people last week. Saturation is the new default.",
+        "handle": "",
+        "slideId": "Slide 03"
+      }
+    },
+    {
+      "layoutId": "body-noir-yellow",
+      "slots": {
+        "brand": "",
+        "scriptPrefix": "Moat",
+        "displayLine1": "WHAT STOPS",
+        "displayLine2": "SOMEONE FROM",
+        "displayLine3": "COPYING YOU",
+        "body": "If your entire business is a ChatGPT wrapper, you own nothing. Prompts are not intellectual property. You need audience, data, or distribution to survive the clone wars.",
+        "handle": "",
+        "slideId": "Slide 04"
+      }
+    },
+    {
+      "layoutId": "body-noir-yellow",
+      "slots": {
+        "brand": "",
+        "scriptPrefix": "Gap",
+        "displayLine1": "IDEAS ARE",
+        "displayLine2": "CHEAP BUT",
+        "displayLine3": "DISTRIBUTION ISN'T",
+        "body": "Building the tool takes a weekend. Getting one thousand people to care takes a year. Most solo founders quit before the algorithm ever notices them.",
+        "handle": "",
+        "slideId": "Slide 05"
+      }
+    },
+    {
+      "layoutId": "body-noir-yellow",
+      "slots": {
+        "brand": "",
+        "scriptPrefix": "Trust",
+        "displayLine1": "AUTO PILOT",
+        "displayLine2": "BURNS",
+        "displayLine3": "YOUR BRAND",
+        "body": "Blind automation without oversight creates public mistakes at scale. One bad hallucination in front of a client destroys credibility faster than AI can write an apology.",
+        "handle": "",
+        "slideId": "Slide 06"
+      }
+    },
+    {
+      "layoutId": "body-noir-yellow",
+      "slots": {
+        "brand": "",
+        "scriptPrefix": "Ceiling",
+        "displayLine1": "YOU CANNOT",
+        "displayLine2": "OUTSCALE A",
+        "displayLine3": "TEAM ALONE",
+        "body": "Prompts multiply output but they do not multiply judgment. At some point leverage requires people, not just better models. The solo ceiling is real and unforgiving.",
+        "handle": "",
+        "slideId": "Slide 07"
+      }
+    },
+    {
+      "layoutId": "cta-noir-yellow",
+      "slots": {
+        "brand": "",
+        "scriptPrefix": "Begin",
+        "headline": "BUILD WHAT THEY CANNOT COPY",
+        "scriptTagline": "Solo founders who survive build assets, not wrappers.",
+        "buttonLabel": "Join The Stack",
+        "handle": "",
+        "slideId": "Slide 08"
+      }
+    }
+  ]
+}

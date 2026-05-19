@@ -8,7 +8,7 @@
       "layoutId": "cover-before-after",
       "slots": {
         "pageOf": "1 / 8",
-        "handle": "@stackwise",
+        "handle": "",
         "title": "Stop burning cash",
         "titleAccent": "on AWS waste",
         "description": "We cut our cloud bill by 70% without dropping a single request. Here is the exact before-and-after playbook.",
@@ -30,7 +30,7 @@
       "layoutId": "body-before-after",
       "slots": {
         "slideLabel": "STEP 01 / 06",
-        "handle": "@stackwise",
+        "handle": "",
         "title": "Find the waste",
         "titleAccent": "first",
         "description": "We mapped every instance and found 80% of our fleet was sleeping on the job. Visibility is the prerequisite to savings.",
@@ -52,7 +52,7 @@
       "layoutId": "body-before-after",
       "slots": {
         "slideLabel": "STEP 02 / 06",
-        "handle": "@stackwise",
+        "handle": "",
         "title": "Fix storage bloat",
         "titleAccent": "permanently",
         "description": "Old snapshots and unattached volumes were silently eating 30% of the budget. A lifecycle policy fixed it overnight.",
@@ -74,7 +74,7 @@
       "layoutId": "body-before-after",
       "slots": {
         "slideLabel": "STEP 03 / 06",
-        "handle": "@stackwise",
+        "handle": "",
         "title": "Commit to save",
         "titleAccent": "big",
         "description": "On-demand pricing punished our predictable workloads. Switching to Savings Plans locked in a 40% compute discount immediately.",
@@ -96,7 +96,7 @@
       "layoutId": "body-before-after",
       "slots": {
         "slideLabel": "STEP 04 / 06",
-        "handle": "@stackwise",
+        "handle": "",
         "title": "Embrace spot fleets",
         "titleAccent": "safely",
         "description": "Stateless workloads tolerated interruptions. We moved them to Spot and slashed that slice of the bill by another 60%.",
@@ -118,7 +118,7 @@
       "layoutId": "body-before-after",
       "slots": {
         "slideLabel": "STEP 05 / 06",
-        "handle": "@stackwise",
+        "handle": "",
         "title": "Stop data leaks",
         "titleAccent": "for good",
         "description": "Cross-AZ traffic and unoptimized CloudFront configs were hiding a $2K monthly surprise. We fixed routing and caching headers.",
@@ -140,7 +140,7 @@
       "layoutId": "body-before-after",
       "slots": {
         "slideLabel": "STEP 06 / 06",
-        "handle": "@stackwise",
+        "handle": "",
         "title": "Lock in gains",
         "titleAccent": "forever",
         "description": "Tagging policies and budget alerts now stop waste before it starts. Cost awareness became part of our engineering culture.",
@@ -162,7 +162,7 @@
       "layoutId": "cta-before-after",
       "slots": {
         "pageOf": "8 / 8",
-        "handle": "@stackwise",
+        "handle": "",
         "eyebrow": "MAKE THE SWITCH",
         "headlineLine1": "Cut cloud costs",
         "headlineAccent": "by 70%",

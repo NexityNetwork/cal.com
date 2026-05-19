@@ -8,7 +8,7 @@
       "layoutId": "cover-bold-split",
       "slots": {
         "title": "SELF-DOUBT IS A LIAR. SILENCE IT NOW",
-        "handle": "@forgemindset"
+        "handle": ""
       }
     },
     {
@@ -17,7 +17,7 @@
         "number": "01",
         "title": "NAME THE INNER CRITIC",
         "body": "Self-doubt thrives in anonymity. Give your negative voice a ridiculous name and watch its power dissolve into comedy.",
-        "handle": "@forgemindset"
+        "handle": ""
       }
     },
     {
@@ -26,7 +26,7 @@
         "number": "02",
         "title": "ACT BEFORE YOU FEEL READY",
         "body": "Confidence follows action, not the other way around. Take one small step today and let momentum build your courage.",
-        "handle": "@forgemindset"
+        "handle": ""
       }
     },
     {
@@ -35,7 +35,7 @@
         "number": "03",
         "title": "TRACK PROOF OF WINS",
         "body": "Your brain forgets success to focus on fear. Keep a running list of past victories to silence the noise.",
-        "handle": "@forgemindset"
+        "handle": ""
       }
     },
     {
@@ -44,7 +44,7 @@
         "number": "04",
         "title": "LIMIT COMPARISON TRAPS",
         "body": "Scrolling highlight reels feeds insecurity. Unfollow accounts that trigger doubt and reclaim your own definition of progress.",
-        "handle": "@forgemindset"
+        "handle": ""
       }
     },
     {
@@ -53,7 +53,7 @@
         "number": "05",
         "title": "TALK BACK TO FEAR",
         "body": "Challenge every doubtful thought with evidence. Speaking your counter-argument aloud disrupts the loop and rewires your mindset fast.",
-        "handle": "@forgemindset"
+        "handle": ""
       }
     },
     {
@@ -62,7 +62,7 @@
         "number": "06",
         "title": "EMBRACE DISCOMFORT DAILY",
         "body": "Growth lives outside your comfort zone. Do one thing that scares you every day and watch doubt starve.",
-        "handle": "@forgemindset"
+        "handle": ""
       }
     },
     {
@@ -72,7 +72,7 @@
         "headline": "DOUBT IS A LIAR",
         "body": "Pick one tactic and use it today. Your future self is waiting.",
         "buttonLabel": "START NOW",
-        "handle": "@forgemindset"
+        "handle": ""
       }
     }
   ]

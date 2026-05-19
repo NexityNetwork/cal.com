@@ -1,0 +1,121 @@
+{
+  "id": "fdr-ai-money-playbook",
+  "brand": "Jordan Lee",
+  "brief": "The AI money playbook for solo founders. Six plays that print revenue without scaling a team — productized services, micro-SaaS, info products, AI-augmented agency, paid newsletter, prompt sets.",
+  "theme": "linkedin-pro",
+  "slides": [
+    {
+      "layoutId": "cover-linkedin-pro",
+      "slots": {
+        "author": "Jordan Lee",
+        "badgeText": "LINKEDIN CAROUSEL POST",
+        "pageNumber": "1",
+        "accentColor": "#4f3df5",
+        "headline": "The AI Money Playbook for Solo Founders",
+        "heroSymbol": "AI",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#8b5cf6",
+        "body": "Six plays that print revenue without hiring a team. Use AI to scale your income, not your headcount. Pick one play and start this week."
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Jordan Lee",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "2",
+        "title": "Productized AI Services",
+        "body": "Package your expertise into a fixed-price deliverable. Let AI handle 80% of execution. You keep the margin without managing employees.",
+        "heroSymbol": "01",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#8b5cf6",
+        "labelText": "STACK THE PLAYS"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Jordan Lee",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "3",
+        "title": "Build a Micro-SaaS",
+        "body": "Solve one painful problem for a niche audience. AI reduces build time from months to days. Charge monthly recurring revenue.",
+        "heroSymbol": "02",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#8b5cf6",
+        "labelText": "STACK THE PLAYS"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Jordan Lee",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "4",
+        "title": "Sell AI Info Products",
+        "body": "Turn your prompts and workflows into templates or courses. AI helps you produce faster. Sell forever with zero marginal cost.",
+        "heroSymbol": "03",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#8b5cf6",
+        "labelText": "STACK THE PLAYS"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Jordan Lee",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "5",
+        "title": "Build an AI Agency",
+        "body": "Deliver client work at speed with AI copilots. One operator can replace a traditional team. Keep overhead low and profits high.",
+        "heroSymbol": "04",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#8b5cf6",
+        "labelText": "STACK THE PLAYS"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Jordan Lee",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "6",
+        "title": "Curate a Paid Newsletter",
+        "body": "Aggregate AI insights and trends for busy professionals. A small paid subscriber base beats massive ad-driven audiences. Build once, monetize forever.",
+        "heroSymbol": "05",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#8b5cf6",
+        "labelText": "STACK THE PLAYS"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Jordan Lee",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "7",
+        "title": "Sell Premium Prompt Sets",
+        "body": "Bundle your best prompts into themed packs. Founders pay for proven systems that save hours. Instant delivery, infinite scale.",
+        "heroSymbol": "06",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#8b5cf6",
+        "labelText": "STACK THE PLAYS"
+      }
+    },
+    {
+      "layoutId": "cta-linkedin-pro",
+      "slots": {
+        "author": "Jordan Lee",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "8",
+        "accentColor": "#4f3df5",
+        "eyebrow": "YOUR TURN?",
+        "headline": "Which Play Will You Run First?",
+        "body": "Comment your pick below and save this carousel. Follow for more solo founder tactics.",
+        "buttonLabel": "Save This Post",
+        "secondaryLabel": "Share",
+        "handle": ""
+      }
+    }
+  ]
+}

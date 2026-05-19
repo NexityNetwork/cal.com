@@ -8,7 +8,7 @@
       "layoutId": "cover-typo-sample",
       "slots": {
         "number": "02",
-        "handle": "@usevisuals",
+        "handle": "",
         "fontFamily": "Unbounded",
         "description": "A display variable font built for bold identities. Its confident geometry sets the tone for mastering typographic pairings."
       }
@@ -17,7 +17,7 @@
       "layoutId": "body-typo-sample",
       "slots": {
         "number": "03",
-        "handle": "@usevisuals",
+        "handle": "",
         "fontFamily": "Playfair Display",
         "description": "A high-contrast transitional serif with dramatic thick-thin strokes. Pair it with a clean sans to let its elegance command attention."
       }
@@ -26,7 +26,7 @@
       "layoutId": "body-typo-sample",
       "slots": {
         "number": "04",
-        "handle": "@usevisuals",
+        "handle": "",
         "fontFamily": "Montserrat",
         "description": "A geometric sans-serif with nine distinct weights. Stack heavy against light within the same family to build instant hierarchy."
       }
@@ -35,7 +35,7 @@
       "layoutId": "body-typo-sample",
       "slots": {
         "number": "05",
-        "handle": "@usevisuals",
+        "handle": "",
         "fontFamily": "Space Grotesk",
         "description": "A neo-grotesque with retro-futuristic personality. Its distinctive letterforms shine when contrasted with a quieter partner."
       }
@@ -44,7 +44,7 @@
       "layoutId": "body-typo-sample",
       "slots": {
         "number": "06",
-        "handle": "@usevisuals",
+        "handle": "",
         "fontFamily": "DM Sans",
         "description": "Part of the DM superfamily alongside DM Serif. Share the same DNA across sans and serif for effortless cohesion."
       }
@@ -53,7 +53,7 @@
       "layoutId": "body-typo-sample",
       "slots": {
         "number": "07",
-        "handle": "@usevisuals",
+        "handle": "",
         "fontFamily": "Inter",
         "description": "A neo-grotesque built for screens with a tall x-height. Match it with fonts of similar proportions to keep reading calm."
       }
@@ -62,7 +62,7 @@
       "layoutId": "body-typo-sample",
       "slots": {
         "number": "08",
-        "handle": "@usevisuals",
+        "handle": "",
         "fontFamily": "Manrope",
         "description": "A modern geometric sans with open, friendly shapes. It pairs so cleanly that you never need to invite a third typeface."
       }
@@ -71,7 +71,7 @@
       "layoutId": "cta-typo-sample",
       "slots": {
         "number": "09",
-        "handle": "@usevisuals",
+        "handle": "",
         "headlineLine1": "Pair Fonts",
         "headlineLine2": "like a pro",
         "body": "Stop guessing and start pairing with confidence. Save these six rules and upgrade every layout.",

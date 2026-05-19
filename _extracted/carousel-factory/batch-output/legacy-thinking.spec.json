@@ -7,106 +7,106 @@
     {
       "layoutId": "cover-cream-gold",
       "slots": {
-        "brand": "AURELIAN",
+        "brand": "",
         "issueLabel": "No. 01",
         "eyebrow": "ON LEGACY & TIME",
         "titleLine1": "The",
         "titleLine2": "Enduring",
         "titleLine3": "Myth",
         "subtitle": "Why the founders who build for decades ignore the playbook the rest of the world worships.",
-        "handle": "@aureliancap",
+        "handle": "",
         "slideCount": "8"
       }
     },
     {
       "layoutId": "body-cream-gold",
       "slots": {
-        "brand": "AURELIAN",
+        "brand": "",
         "pageOf": "2 / 8",
         "number": "I",
         "numberLabel": "Truth",
         "titleMain": "The Lie",
         "titleItalic": "of Speed",
         "body": "We have confused motion with momentum. Lasting companies are not built in sprints; they are composed in patient, deliberate movements that compound in silence.",
-        "handle": "@aureliancap"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-cream-gold",
       "slots": {
-        "brand": "AURELIAN",
+        "brand": "",
         "pageOf": "3 / 8",
         "number": "II",
         "numberLabel": "Mistake",
         "titleMain": "Chasing Noise",
         "titleItalic": "Over Craft",
         "body": "Founders mistake press coverage for product depth. A beautiful story without structural integrity collapses the moment the market stops applauding.",
-        "handle": "@aureliancap"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-cream-gold",
       "slots": {
-        "brand": "AURELIAN",
+        "brand": "",
         "pageOf": "4 / 8",
         "number": "III",
         "numberLabel": "Mistake",
         "titleMain": "The Exit",
         "titleItalic": "Obsession",
         "body": "When the term sheet becomes the trophy, the architecture suffers. The best builders design for permanence, knowing liquidity is a byproduct, not a purpose.",
-        "handle": "@aureliancap"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-cream-gold",
       "slots": {
-        "brand": "AURELIAN",
+        "brand": "",
         "pageOf": "5 / 8",
         "number": "IV",
         "numberLabel": "Mistake",
         "titleMain": "The Pedigree",
         "titleItalic": "Trap",
         "body": "Prestige hires signal status, but they rarely share the obsession. Legacy demands alignment more than it demands recognizable names or polished resumes.",
-        "handle": "@aureliancap"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-cream-gold",
       "slots": {
-        "brand": "AURELIAN",
+        "brand": "",
         "pageOf": "6 / 8",
         "number": "V",
         "numberLabel": "Mistake",
         "titleMain": "Growth Masks",
         "titleItalic": "Fragility",
         "body": "Expansion without operational depth is a debt that accrues invisibly. The founders who endure reinvest in systems long before the world demands them.",
-        "handle": "@aureliancap"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-cream-gold",
       "slots": {
-        "brand": "AURELIAN",
+        "brand": "",
         "pageOf": "7 / 8",
         "number": "VI",
         "numberLabel": "Mistake",
         "titleMain": "Founder Myth",
         "titleItalic": "as Culture",
         "body": "A personal brand is not a substitute for institutional values. When the founder steps back, only codified principle keeps the compass true.",
-        "handle": "@aureliancap"
+        "handle": ""
       }
     },
     {
       "layoutId": "cta-cream-gold",
       "slots": {
-        "brand": "AURELIAN",
+        "brand": "",
         "pageOf": "8 / 8",
         "eyebrow": "A FINAL WORD",
         "headlineMain": "Build What",
         "headlineItalic": "Outlasts You",
         "body": "Legacy is not a milestone. It is the quiet result of refusing to trade tomorrow’s relevance for today’s applause.",
         "buttonLabel": "SAVE THIS POST",
-        "handle": "@aureliancap"
+        "handle": ""
       }
     }
   ]

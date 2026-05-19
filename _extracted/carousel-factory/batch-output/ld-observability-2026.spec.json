@@ -18,7 +18,7 @@
         "codeFn": "observe",
         "codeArg": "production",
         "codeReturn": "200",
-        "domainText": "observability.dev",
+        "domainText": "",
         "swipeNote": "SCROLL"
       }
     },
@@ -39,7 +39,7 @@
         "cmdLine": "otelcol --config=config.yaml",
         "outLine": "collector ready on :4317",
         "okLine": "✓ READY",
-        "domainText": "observability.dev",
+        "domainText": "",
         "pageOf": "01 / 06"
       }
     },
@@ -60,7 +60,7 @@
         "cmdLine": "promtool check config prometheus.yml",
         "outLine": "6 rules found, 0 errors",
         "okLine": "✓ VALID",
-        "domainText": "observability.dev",
+        "domainText": "",
         "pageOf": "02 / 06"
       }
     },
@@ -81,7 +81,7 @@
         "cmdLine": "logcli query '{app=\\\"api\\\"}'",
         "outLine": "streams: 12, entries: 8.4k",
         "okLine": "✓ MATCHED",
-        "domainText": "observability.dev",
+        "domainText": "",
         "pageOf": "03 / 06"
       }
     },
@@ -102,7 +102,7 @@
         "cmdLine": "docker run grafana/tempo",
         "outLine": "12 spans, 3 services",
         "okLine": "✓ TRACED",
-        "domainText": "observability.dev",
+        "domainText": "",
         "pageOf": "04 / 06"
       }
     },
@@ -123,7 +123,7 @@
         "cmdLine": "docker run -p 3000:3000 grafana/grafana",
         "outLine": "server listening on :3000",
         "okLine": "✓ ACTIVE",
-        "domainText": "observability.dev",
+        "domainText": "",
         "pageOf": "05 / 06"
       }
     },
@@ -144,7 +144,7 @@
         "cmdLine": "amtool check-config alertmanager.yml",
         "outLine": "3 routes, 2 receivers",
         "okLine": "✓ CONFIGURED",
-        "domainText": "observability.dev",
+        "domainText": "",
         "pageOf": "06 / 06"
       }
     },
@@ -160,7 +160,7 @@
         "btnGhost": "Read the docs",
         "meta1": "open source · MIT",
         "meta2": "built in 2025",
-        "domainText": "observability.dev",
+        "domainText": "",
         "pageOf": "06 / 06"
       }
     }

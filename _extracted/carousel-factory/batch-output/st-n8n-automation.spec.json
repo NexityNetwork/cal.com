@@ -23,14 +23,14 @@
         "iconSlug6": "stripe",
         "toolRole6": "Subscription billing events",
         "ctaText": "See the breakdown",
-        "handle": "@yourbrand"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-stack-tour",
       "slots": {
         "slideLabel": "02 / 08",
-        "handle": "@yourbrand",
+        "handle": "",
         "iconSlug1": "n8n",
         "toolTagline": "Orchestrate every customer operation",
         "description": "n8n triggers workflows across our stack, handling errors and retries so no ticket or payment slips through.",
@@ -51,7 +51,7 @@
       "layoutId": "body-stack-tour",
       "slots": {
         "slideLabel": "03 / 08",
-        "handle": "@yourbrand",
+        "handle": "",
         "iconSlug1": "airtable",
         "toolTagline": "Single source of truth",
         "description": "Customer records update in real time as n8n pushes chat, billing, and ticket data into structured bases.",
@@ -72,7 +72,7 @@
       "layoutId": "body-stack-tour",
       "slots": {
         "slideLabel": "04 / 08",
-        "handle": "@yourbrand",
+        "handle": "",
         "iconSlug1": "slack",
         "toolTagline": "Instant team channel alerts",
         "description": "Critical events ping the right channel instantly, cutting response lag from minutes to seconds without extra overhead.",
@@ -93,7 +93,7 @@
       "layoutId": "body-stack-tour",
       "slots": {
         "slideLabel": "05 / 08",
-        "handle": "@yourbrand",
+        "handle": "",
         "iconSlug1": "zendesk",
         "toolTagline": "Automated support ticket routing",
         "description": "n8n reads incoming emails and chats, then tags, prioritizes, and assigns tickets before an agent ever clicks.",
@@ -114,7 +114,7 @@
       "layoutId": "body-stack-tour",
       "slots": {
         "slideLabel": "06 / 08",
-        "handle": "@yourbrand",
+        "handle": "",
         "iconSlug1": "openai",
         "toolTagline": "Smart classification and replies",
         "description": "GPT classifies intent, drafts replies, and escalates complex issues so our team focuses on relationships, not routing.",
@@ -135,7 +135,7 @@
       "layoutId": "body-stack-tour",
       "slots": {
         "slideLabel": "07 / 08",
-        "handle": "@yourbrand",
+        "handle": "",
         "iconSlug1": "stripe",
         "toolTagline": "Automated subscription billing ops",
         "description": "Failed payments, renewals, and refunds trigger n8n workflows that update CRM records and notify customers instantly.",
@@ -156,7 +156,7 @@
       "layoutId": "cta-stack-tour",
       "slots": {
         "pageOf": "08 / 08",
-        "handle": "@yourbrand",
+        "handle": "",
         "eyebrow": "YOUR TURN",
         "headlineLine1": "Build your stack",
         "headlineLine2": "Automate the rest",

@@ -7,8 +7,8 @@
     {
       "layoutId": "cover-cream-table",
       "slots": {
-        "brandTag": "DESIGN STACK",
-        "handle": "@soloship",
+        "brandTag": "",
+        "handle": "",
         "eyebrow": "the only toolkit I need",
         "titleLine1": "5 free",
         "titleAccent": "design tools",
@@ -42,7 +42,7 @@
       "layoutId": "body-cream-table",
       "slots": {
         "numLabel": "TOOL 01",
-        "handle": "@soloship",
+        "handle": "",
         "iconSlug1": "figma",
         "toolName": "Figma",
         "toolTagline": "The browser-based home for interface design and prototyping.",
@@ -70,7 +70,7 @@
       "layoutId": "body-cream-table",
       "slots": {
         "numLabel": "TOOL 02",
-        "handle": "@soloship",
+        "handle": "",
         "iconSlug1": "penpot",
         "toolName": "Penpot",
         "toolTagline": "Open-source design freedom built for cross-functional product teams.",
@@ -98,7 +98,7 @@
       "layoutId": "body-cream-table",
       "slots": {
         "numLabel": "TOOL 03",
-        "handle": "@soloship",
+        "handle": "",
         "iconSlug1": "coolors",
         "toolName": "Coolors",
         "toolTagline": "Generate, lock, and export color palettes in seconds flat.",
@@ -126,7 +126,7 @@
       "layoutId": "body-cream-table",
       "slots": {
         "numLabel": "TOOL 04",
-        "handle": "@soloship",
+        "handle": "",
         "iconSlug1": "removebg",
         "toolName": "Remove.bg",
         "toolTagline": "AI-powered background removal for product shots and marketing assets.",
@@ -154,7 +154,7 @@
       "layoutId": "body-cream-table",
       "slots": {
         "numLabel": "TOOL 05",
-        "handle": "@soloship",
+        "handle": "",
         "iconSlug1": "fontshare",
         "toolName": "Fontshare",
         "toolTagline": "Beautiful commercial-use fonts from the Indian Type Foundry, totally gratis.",
@@ -182,7 +182,7 @@
       "layoutId": "body-cream-table",
       "slots": {
         "numLabel": "TOOL 06",
-        "handle": "@soloship",
+        "handle": "",
         "iconSlug1": "photopea",
         "toolName": "Photopea",
         "toolTagline": "Advanced photo editor inside your browser that reads PSD files natively.",
@@ -209,8 +209,8 @@
     {
       "layoutId": "cta-cream-table",
       "slots": {
-        "brandTag": "WRAP",
-        "handle": "@soloship",
+        "brandTag": "",
+        "handle": "",
         "eyebrow": "ship pixel-perfect UI",
         "titleLine1": "Grab the free",
         "titleAccent": "design stack",

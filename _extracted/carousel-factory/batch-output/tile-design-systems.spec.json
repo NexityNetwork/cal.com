@@ -8,7 +8,7 @@
       "layoutId": "cover-design-tile",
       "slots": {
         "number": "01",
-        "handle": "@usevisuals",
+        "handle": "",
         "titleLine1": "Stop Using Pure",
         "titleLine2": "Black in UI",
         "badColor": "#000000",
@@ -21,7 +21,7 @@
       "layoutId": "body-design-tile",
       "slots": {
         "number": "02",
-        "handle": "@usevisuals",
+        "handle": "",
         "titleLine1": "Use an Eight",
         "titleAccent": "Point Grid",
         "attr1": "Predictable",
@@ -35,7 +35,7 @@
       "layoutId": "body-design-tile",
       "slots": {
         "number": "03",
-        "handle": "@usevisuals",
+        "handle": "",
         "titleLine1": "Hit WCAG Targets",
         "titleAccent": "Every Time",
         "attr1": "Readable",
@@ -49,7 +49,7 @@
       "layoutId": "body-design-tile",
       "slots": {
         "number": "04",
-        "handle": "@usevisuals",
+        "handle": "",
         "titleLine1": "Name Your Colors",
         "titleAccent": "As Tokens",
         "attr1": "Flexible",
@@ -63,7 +63,7 @@
       "layoutId": "body-design-tile",
       "slots": {
         "number": "05",
-        "handle": "@usevisuals",
+        "handle": "",
         "titleLine1": "Build a Type",
         "titleAccent": "Scale System",
         "attr1": "Harmonic",
@@ -77,7 +77,7 @@
       "layoutId": "body-design-tile",
       "slots": {
         "number": "06",
-        "handle": "@usevisuals",
+        "handle": "",
         "titleLine1": "Keep Figma Code",
         "titleAccent": "In Sync",
         "attr1": "Accurate",
@@ -91,7 +91,7 @@
       "layoutId": "body-design-tile",
       "slots": {
         "number": "07",
-        "handle": "@usevisuals",
+        "handle": "",
         "titleLine1": "Let Content Drive",
         "titleAccent": "The Layout",
         "attr1": "Adaptive",
@@ -105,7 +105,7 @@
       "layoutId": "cta-design-tile",
       "slots": {
         "number": "08",
-        "handle": "@usevisuals",
+        "handle": "",
         "eyebrow": "STEAL THESE",
         "headlineLine1": "System Rules",
         "headlineLine2": "That Scale",

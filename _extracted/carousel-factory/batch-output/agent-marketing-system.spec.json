@@ -37,7 +37,7 @@
         "iconSlug5": "claude",
         "iconSlug6": "notion",
         "iconSlug7": "slack",
-        "handle": "@creator"
+        "handle": ""
       }
     },
     {
@@ -56,7 +56,7 @@
         "iconSlug5": "linkedin",
         "iconSlug6": "youtube",
         "iconSlug7": "instagram",
-        "handle": "@creator"
+        "handle": ""
       }
     },
     {
@@ -75,7 +75,7 @@
         "iconSlug5": "instagram",
         "iconSlug6": "tiktok",
         "iconSlug7": "linkedin",
-        "handle": "@creator"
+        "handle": ""
       }
     },
     {
@@ -94,7 +94,7 @@
         "iconSlug5": "instagram",
         "iconSlug6": "slack",
         "iconSlug7": "calendly",
-        "handle": "@creator"
+        "handle": ""
       }
     },
     {
@@ -113,7 +113,7 @@
         "iconSlug5": "instagram",
         "iconSlug6": "discord",
         "iconSlug7": "hubspot",
-        "handle": "@creator"
+        "handle": ""
       }
     },
     {
@@ -132,7 +132,7 @@
         "iconSlug5": "calendly",
         "iconSlug6": "notion",
         "iconSlug7": "gmail",
-        "handle": "@creator"
+        "handle": ""
       }
     },
     {
@@ -150,7 +150,7 @@
         "iconSlug6": "youtube",
         "iconSlug7": "instagram",
         "iconSlug8": "openai",
-        "handle": "@creator"
+        "handle": ""
       }
     }
   ]

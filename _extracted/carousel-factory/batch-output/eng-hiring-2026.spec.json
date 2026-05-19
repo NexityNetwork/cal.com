@@ -7,7 +7,7 @@
     {
       "layoutId": "cover-dark-navy",
       "slots": {
-        "brand": "BuildLog",
+        "brand": "",
         "versionLabel": "2026 Edition",
         "prompt": "run senior-hire.sh --leetcode=false --year=2026",
         "headLine1": "Hire",
@@ -27,7 +27,7 @@
     {
       "layoutId": "body-dark-navy",
       "slots": {
-        "brand": "BuildLog",
+        "brand": "",
         "pageOf": "02/08",
         "stepLabel": "# 1 check the architecture signal",
         "number": "1",
@@ -35,13 +35,13 @@
         "titleOrange": "Design",
         "body": "We whiteboard distributed constraints, not invert binary trees. Seniors own trade-offs: latency versus cost, consistency versus availability.",
         "codePill": "draw --scale=global --optimize=cost",
-        "handle": "@buildlog"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-dark-navy",
       "slots": {
-        "brand": "BuildLog",
+        "brand": "",
         "pageOf": "03/08",
         "stepLabel": "# 2 debug production incidents live",
         "number": "2",
@@ -49,13 +49,13 @@
         "titleOrange": "Live",
         "body": "We share a real outage log and ask for root cause. You read metrics, traces, and propose a rollback strategy under pressure.",
         "codePill": "kubectl logs -f pod/api | grep ERROR",
-        "handle": "@buildlog"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-dark-navy",
       "slots": {
-        "brand": "BuildLog",
+        "brand": "",
         "pageOf": "04/08",
         "stepLabel": "# 3 measure code review impact",
         "number": "3",
@@ -63,13 +63,13 @@
         "titleOrange": "Culture",
         "body": "Seniors do not just ship; they elevate the floor. We look for pull requests that teach patterns, not just catch typos.",
         "codePill": "git diff HEAD~1 | grep -i teach",
-        "handle": "@buildlog"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-dark-navy",
       "slots": {
-        "brand": "BuildLog",
+        "brand": "",
         "pageOf": "05/08",
         "stepLabel": "# 4 read the decision records",
         "number": "4",
@@ -77,13 +77,13 @@
         "titleOrange": "RFCs",
         "body": "Ambiguity is expensive. We evaluate how you structure constraints, propose options, and drive alignment before writing production code.",
         "codePill": "cat rfc-042.md | grep Decision",
-        "handle": "@buildlog"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-dark-navy",
       "slots": {
-        "brand": "BuildLog",
+        "brand": "",
         "pageOf": "06/08",
         "stepLabel": "# 5 align across team boundaries",
         "number": "5",
@@ -91,13 +91,13 @@
         "titleOrange": "Together",
         "body": "Senior scope spans teams. We simulate a product dispute and watch you translate backend constraints into viable product trade-offs.",
         "codePill": "sync --stakeholders=product,infra",
-        "handle": "@buildlog"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-dark-navy",
       "slots": {
-        "brand": "BuildLog",
+        "brand": "",
         "pageOf": "07/08",
         "stepLabel": "# 6 own the full outcome",
         "number": "6",
@@ -105,13 +105,13 @@
         "titleOrange": "Outcomes",
         "body": "No ticket babysitting required. We hire engineers who define roadmap, manage stakeholder risk, and deliver end-to-end systems.",
         "codePill": "chmod +x feature && ./feature --unblock",
-        "handle": "@buildlog"
+        "handle": ""
       }
     },
     {
       "layoutId": "cta-dark-navy",
       "slots": {
-        "brand": "BuildLog",
+        "brand": "",
         "pageOf": "08/08",
         "terminalTag": "exec senior-hire.sh --stage=final --apply",
         "headLine1": "Hire",
@@ -119,7 +119,7 @@
         "body": "Drop the trivia. Build a senior team that ships. Follow for weekly engineering leadership playbooks.",
         "buttonLabel": "Follow BuildLog",
         "secondaryNote": "follow for more threads",
-        "handle": "@buildlog"
+        "handle": ""
       }
     }
   ]

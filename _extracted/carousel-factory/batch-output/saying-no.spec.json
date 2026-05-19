@@ -7,7 +7,7 @@
     {
       "layoutId": "cover-beige-serif",
       "slots": {
-        "brand": "The Founder Memo",
+        "brand": "",
         "headline": "Five Lessons on Saying No From a Founder Who Said Yes",
         "slideCountHero": "5"
       }
@@ -15,78 +15,78 @@
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "The Founder Memo",
+        "brand": "",
         "number": "01",
         "title": "Know Your One Thing",
         "body": "Saying yes to everything scatters your energy. The best founders protect their core priority above all else. If a request doesn't serve that mission, it is an automatic no. Clarity makes the decision effortless.",
-        "handle": "@foundermemo",
-        "domain": "foundermemo.com"
+        "handle": "",
+        "domain": ""
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "The Founder Memo",
+        "brand": "",
         "number": "02",
         "title": "Delay the Response",
         "body": "You do not owe anyone an instant yes. When a request arrives, create a buffer of twenty-four hours. Urgency is usually someone else's problem, not yours. Time reveals which opportunities actually deserve your attention.",
-        "handle": "@foundermemo",
-        "domain": "foundermemo.com"
+        "handle": "",
+        "domain": ""
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "The Founder Memo",
+        "brand": "",
         "number": "03",
         "title": "Use a Polite Buffer",
         "body": "No does not require a novel-length apology. A simple, kind decline preserves relationships and your schedule. Most people respect a clear boundary far more than a vague maybe. Say it with warmth, then stop.",
-        "handle": "@foundermemo",
-        "domain": "foundermemo.com"
+        "handle": "",
+        "domain": ""
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "The Founder Memo",
+        "brand": "",
         "number": "04",
         "title": "Track Your Yes Budget",
         "body": "Treat your commitments like a financial budget. You only have so many hours and so much creative energy to spend. Once your calendar is full, every new yes forces a no elsewhere. Guard your capacity like revenue.",
-        "handle": "@foundermemo",
-        "domain": "foundermemo.com"
+        "handle": "",
+        "domain": ""
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "The Founder Memo",
+        "brand": "",
         "number": "05",
         "title": "Let the Fear Fade",
         "body": "The anxiety of missing out is temporary, but burnout is not. Every no to a distraction is a yes to your team, health, and vision. The founders who scale fastest are not the busiest; they are the most focused. Trust the filter.",
-        "handle": "@foundermemo",
-        "domain": "foundermemo.com"
+        "handle": "",
+        "domain": ""
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "The Founder Memo",
+        "brand": "",
         "number": "06",
         "title": "Practice the Muscle",
         "body": "Saying no is a skill that strengthens with repetition. Start with small boundaries and build upward. Each polite refusal trains your team and network to value your time. Eventually, no becomes your default, not your exception.",
-        "handle": "@foundermemo",
-        "domain": "foundermemo.com"
+        "handle": "",
+        "domain": ""
       }
     },
     {
       "layoutId": "cta-beige-serif",
       "slots": {
-        "brand": "The Founder Memo",
+        "brand": "",
         "eyebrow": "PROTECT YOUR FOCUS",
         "headline": "Master the Art of No",
         "body": "Join thousands of founders learning to protect their time and scale with intention. Your calendar will thank you.",
         "buttonLabel": "GET THE MEMO",
-        "handle": "@foundermemo"
+        "handle": ""
       }
     }
   ]

@@ -7,8 +7,8 @@
     {
       "layoutId": "cover-pixel-block",
       "slots": {
-        "brandTag": "DEV STACK",
-        "handle": "@indiehack",
+        "brandTag": "",
+        "handle": "",
         "preLine": "the only free stack for",
         "pixelLine1": "ZERO COST",
         "pixelLine2": "DEV TOOLS",
@@ -28,7 +28,7 @@
       "layoutId": "body-pixel-block",
       "slots": {
         "numLabel": "TOOL 01",
-        "handle": "@indiehack",
+        "handle": "",
         "iconSlug1": "github",
         "toolName": "GITHUB",
         "categoryLabel": "FREE",
@@ -52,7 +52,7 @@
       "layoutId": "body-pixel-block",
       "slots": {
         "numLabel": "TOOL 02",
-        "handle": "@indiehack",
+        "handle": "",
         "iconSlug1": "vercel",
         "toolName": "VERCEL",
         "categoryLabel": "FREE",
@@ -76,7 +76,7 @@
       "layoutId": "body-pixel-block",
       "slots": {
         "numLabel": "TOOL 03",
-        "handle": "@indiehack",
+        "handle": "",
         "iconSlug1": "supabase",
         "toolName": "SUPABASE",
         "categoryLabel": "FREE",
@@ -100,7 +100,7 @@
       "layoutId": "body-pixel-block",
       "slots": {
         "numLabel": "TOOL 04",
-        "handle": "@indiehack",
+        "handle": "",
         "iconSlug1": "stripe",
         "toolName": "STRIPE",
         "categoryLabel": "FREE",
@@ -124,7 +124,7 @@
       "layoutId": "body-pixel-block",
       "slots": {
         "numLabel": "TOOL 05",
-        "handle": "@indiehack",
+        "handle": "",
         "iconSlug1": "posthog",
         "toolName": "POSTHOG",
         "categoryLabel": "FREE",
@@ -148,7 +148,7 @@
       "layoutId": "body-pixel-block",
       "slots": {
         "numLabel": "TOOL 06",
-        "handle": "@indiehack",
+        "handle": "",
         "iconSlug1": "figma",
         "toolName": "FIGMA",
         "categoryLabel": "FREE",
@@ -171,8 +171,8 @@
     {
       "layoutId": "cta-pixel-block",
       "slots": {
-        "brandTag": "WRAP UP",
-        "handle": "@indiehack",
+        "brandTag": "",
+        "handle": "",
         "eyebrow": "build like a solo unicorn",
         "ctaLine1": "START NOW",
         "ctaLine2": "FOR FREE",

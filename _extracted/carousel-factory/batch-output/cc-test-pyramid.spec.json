@@ -8,14 +8,14 @@
       "layoutId": "cover-cream-claude",
       "slots": {
         "tag": "TESTING",
-        "handle": "factory.51ultron.com",
+        "handle": "",
         "eyebrow": "The old model collapsed",
         "titleLine1": "The test pyramid",
         "titleAccent": "is dead",
         "titleItalic": "for good",
         "subEyebrow": "WHY IT FAILS",
         "subText": "Six modern patterns that ship faster with <em>real confidence</em> and fewer flaky suites.",
-        "domainText": "factory.51ultron.com",
+        "domainText": "",
         "swipeNote": "READ"
       }
     },
@@ -37,7 +37,7 @@
         "b1Body": "Teams agree on payloads before either side ships to production.",
         "b2Title": "Fail fast in CI pipelines",
         "b2Body": "Breaking schema changes never reach staging or production environments.",
-        "domainText": "factory.51ultron.com",
+        "domainText": "",
         "pageOf": "02 / 08"
       }
     },
@@ -59,7 +59,7 @@
         "b1Body": "Hit databases and APIs in ephemeral test environments.",
         "b2Title": "Minimize mock maintenance tax",
         "b2Body": "Fewer mocks means less maintenance and higher signal tests.",
-        "domainText": "factory.51ultron.com",
+        "domainText": "",
         "pageOf": "03 / 08"
       }
     },
@@ -81,7 +81,7 @@
         "b1Body": "Libraries simplify failing inputs to the minimal reproducer automatically.",
         "b2Title": "Check invariants at scale",
         "b2Body": "Assert properties hold across thousands of generated random cases.",
-        "domainText": "factory.51ultron.com",
+        "domainText": "",
         "pageOf": "04 / 08"
       }
     },
@@ -103,7 +103,7 @@
         "b1Body": "Start with small faults and expand as confidence steadily grows.",
         "b2Title": "Define steady state bounds",
         "b2Body": "Abort experiments when deviations exceed defined metric thresholds.",
-        "domainText": "factory.51ultron.com",
+        "domainText": "",
         "pageOf": "05 / 08"
       }
     },
@@ -125,7 +125,7 @@
         "b1Body": "Compare renders across Chrome, Safari, and mobile viewports.",
         "b2Title": "Approve visual baseline changes",
         "b2Body": "Review and approve intentional visual diffs through collaborative workflows.",
-        "domainText": "factory.51ultron.com",
+        "domainText": "",
         "pageOf": "06 / 08"
       }
     },
@@ -147,7 +147,7 @@
         "b1Body": "Continuously exercise critical paths against production deployments.",
         "b2Title": "Roll out via feature flags",
         "b2Body": "Ship to one percent of traffic and observe metrics closely.",
-        "domainText": "factory.51ultron.com",
+        "domainText": "",
         "pageOf": "07 / 08"
       }
     },
@@ -163,7 +163,7 @@
         "btnPrimary": "Start pilot",
         "btnGhost": "Read guide",
         "signoff": "Build with confidence",
-        "domainText": "factory.51ultron.com",
+        "domainText": "",
         "pageOf": "08 / 08"
       }
     }

@@ -8,7 +8,7 @@
       "layoutId": "cover-tech-stack-grid",
       "slots": {
         "tag": "MY STACK",
-        "handle": "factory.51ultron.com",
+        "handle": "",
         "eyebrow": "close enterprise deals",
         "titleLine1": "The revenue",
         "titleAccent": "stack that sells",
@@ -46,7 +46,7 @@
         "iconSlug3": "loom",
         "iconSlug4": "stripe",
         "iconSlug5": "n8n",
-        "domainText": "factory.51ultron.com",
+        "domainText": "",
         "pageOf": "02 / 08"
       }
     },
@@ -69,7 +69,7 @@
         "iconSlug3": "airtable",
         "iconSlug4": "stripe",
         "iconSlug5": "n8n",
-        "domainText": "factory.51ultron.com",
+        "domainText": "",
         "pageOf": "03 / 08"
       }
     },
@@ -92,7 +92,7 @@
         "iconSlug3": "airtable",
         "iconSlug4": "loom",
         "iconSlug5": "stripe",
-        "domainText": "factory.51ultron.com",
+        "domainText": "",
         "pageOf": "04 / 08"
       }
     },
@@ -115,7 +115,7 @@
         "iconSlug3": "calendly",
         "iconSlug4": "stripe",
         "iconSlug5": "n8n",
-        "domainText": "factory.51ultron.com",
+        "domainText": "",
         "pageOf": "05 / 08"
       }
     },
@@ -138,7 +138,7 @@
         "iconSlug3": "notion",
         "iconSlug4": "n8n",
         "iconSlug5": "calendly",
-        "domainText": "factory.51ultron.com",
+        "domainText": "",
         "pageOf": "06 / 08"
       }
     },
@@ -161,7 +161,7 @@
         "iconSlug3": "airtable",
         "iconSlug4": "notion",
         "iconSlug5": "calendly",
-        "domainText": "factory.51ultron.com",
+        "domainText": "",
         "pageOf": "07 / 08"
       }
     },
@@ -169,7 +169,7 @@
       "layoutId": "cta-tech-stack-grid",
       "slots": {
         "tag": "WRAP UP",
-        "handle": "factory.51ultron.com",
+        "handle": "",
         "eyebrow": "close bigger deals",
         "ctaLine1": "Deploy this exact",
         "ctaLine2": "revenue stack today",
@@ -182,7 +182,7 @@
         "iconSlug6": "n8n",
         "btnPrimary": "Get the Stack",
         "btnGhost": "View Pricing",
-        "domainText": "factory.51ultron.com",
+        "domainText": "",
         "pageOf": "08 / 08"
       }
     }

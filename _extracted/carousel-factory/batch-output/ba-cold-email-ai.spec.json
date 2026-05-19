@@ -8,7 +8,7 @@
       "layoutId": "cover-before-after",
       "slots": {
         "pageOf": "01 / 08",
-        "handle": "@growthstack",
+        "handle": "",
         "title": "Stop sending",
         "titleAccent": "cold spam",
         "description": "See how one AI switch cut costs and 6x'd replies without extra headcount.",
@@ -30,7 +30,7 @@
       "layoutId": "body-before-after",
       "slots": {
         "slideLabel": "STEP 01 / 06",
-        "handle": "@growthstack",
+        "handle": "",
         "title": "Lead lists",
         "titleAccent": "cost too much",
         "description": "Buying static databases drains budget and ages fast.",
@@ -52,7 +52,7 @@
       "layoutId": "body-before-after",
       "slots": {
         "slideLabel": "STEP 02 / 06",
-        "handle": "@growthstack",
+        "handle": "",
         "title": "Copy sounds",
         "titleAccent": "like a robot",
         "description": "Templates trigger spam filters and kill trust instantly.",
@@ -74,7 +74,7 @@
       "layoutId": "body-before-after",
       "slots": {
         "slideLabel": "STEP 03 / 06",
-        "handle": "@growthstack",
+        "handle": "",
         "title": "Inbox placement",
         "titleAccent": "was broken",
         "description": "Single-domain blasts land in promotions or spam.",
@@ -96,7 +96,7 @@
       "layoutId": "body-before-after",
       "slots": {
         "slideLabel": "STEP 04 / 06",
-        "handle": "@growthstack",
+        "handle": "",
         "title": "Follow-ups died",
         "titleAccent": "in days",
         "description": "Manual tracking meant leads slipped through cracks daily.",
@@ -118,7 +118,7 @@
       "layoutId": "body-before-after",
       "slots": {
         "slideLabel": "STEP 05 / 06",
-        "handle": "@growthstack",
+        "handle": "",
         "title": "Reply routing",
         "titleAccent": "took hours",
         "description": "Positive replies sat unread while reps chased duds.",
@@ -140,7 +140,7 @@
       "layoutId": "body-before-after",
       "slots": {
         "slideLabel": "STEP 06 / 06",
-        "handle": "@growthstack",
+        "handle": "",
         "title": "Cost per",
         "titleAccent": "meeting dropped",
         "description": "AI cut labor and tool spend without shrinking pipeline.",
@@ -162,7 +162,7 @@
       "layoutId": "cta-before-after",
       "slots": {
         "pageOf": "08 / 08",
-        "handle": "@growthstack",
+        "handle": "",
         "eyebrow": "MAKE THE SWITCH",
         "headlineLine1": "Clone this",
         "headlineAccent": "exact stack",

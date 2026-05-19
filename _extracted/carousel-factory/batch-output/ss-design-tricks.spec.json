@@ -7,8 +7,8 @@
     {
       "layoutId": "cover-stencil-stamp",
       "slots": {
-        "brandTag": "TIPS",
-        "handle": "@LANDERS",
+        "brandTag": "",
+        "handle": "",
         "preLine": "the only hacks for",
         "titleLine1": "5 SECRET",
         "titleStamp": "DESIGN",
@@ -28,7 +28,7 @@
       "layoutId": "body-stencil-stamp",
       "slots": {
         "numLabel": "TRICK 01",
-        "handle": "@LANDERS",
+        "handle": "",
         "iconSlug1": "figma",
         "toolName": "FIGMA",
         "categoryLabel": "FOCUS",
@@ -56,7 +56,7 @@
       "layoutId": "body-stencil-stamp",
       "slots": {
         "numLabel": "TRICK 02",
-        "handle": "@LANDERS",
+        "handle": "",
         "iconSlug1": "webflow",
         "toolName": "WEBFLOW",
         "categoryLabel": "TRUST",
@@ -84,7 +84,7 @@
       "layoutId": "body-stencil-stamp",
       "slots": {
         "numLabel": "TRICK 03",
-        "handle": "@LANDERS",
+        "handle": "",
         "iconSlug1": "framer",
         "toolName": "FRAMER",
         "categoryLabel": "LAYOUT",
@@ -112,7 +112,7 @@
       "layoutId": "body-stencil-stamp",
       "slots": {
         "numLabel": "TRICK 04",
-        "handle": "@LANDERS",
+        "handle": "",
         "iconSlug1": "notion",
         "toolName": "NOTION",
         "categoryLabel": "COPY",
@@ -140,7 +140,7 @@
       "layoutId": "body-stencil-stamp",
       "slots": {
         "numLabel": "TRICK 05",
-        "handle": "@LANDERS",
+        "handle": "",
         "iconSlug1": "sketch",
         "toolName": "SKETCH",
         "categoryLabel": "NAV",
@@ -168,7 +168,7 @@
       "layoutId": "body-stencil-stamp",
       "slots": {
         "numLabel": "BONUS",
-        "handle": "@LANDERS",
+        "handle": "",
         "iconSlug1": "shopify",
         "toolName": "SHOPIFY",
         "categoryLabel": "OFFER",
@@ -195,8 +195,8 @@
     {
       "layoutId": "cta-stencil-stamp",
       "slots": {
-        "brandTag": "WRAP",
-        "handle": "@LANDERS",
+        "brandTag": "",
+        "handle": "",
         "eyebrow": "now go build faster",
         "ctaStamp": "SAVE THIS",
         "ctaOutline": "GUIDE",

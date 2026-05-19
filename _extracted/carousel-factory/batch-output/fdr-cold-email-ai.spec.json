@@ -1,0 +1,180 @@
+{
+  "id": "fdr-cold-email-ai",
+  "brand": "Outbound AI",
+  "brief": "Cold email before and after AI. Reply rates, deal flow, time per campaign. The exact workflow that 4x'd my pipeline.",
+  "theme": "before-after",
+  "slides": [
+    {
+      "layoutId": "cover-before-after",
+      "slots": {
+        "pageOf": "01 / 08",
+        "handle": "",
+        "title": "Stop cold blasting",
+        "titleAccent": "with AI",
+        "description": "The exact workflow that quadrupled my pipeline without adding headcount.",
+        "badLabel1": "Generic spray-and-pray campaigns",
+        "badLabel2": "Manual spreadsheet list building",
+        "badStat1": "2% reply rate",
+        "badStat2": "$300 cost per lead",
+        "goodLabel1": "Hyper-personalized AI outreach",
+        "goodLabel2": "Intent-based automated sequencing",
+        "goodStat1": "14% reply rate",
+        "goodStat2": "$25 cost per lead",
+        "iconSlug1": "apollo",
+        "iconSlug2": "instantly",
+        "iconSlug3": "openai",
+        "iconSlug4": "clay"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 01 / 06",
+        "handle": "",
+        "title": "Find ideal prospects",
+        "titleAccent": "in minutes",
+        "description": "Stop wasting hours on manual prospecting and outdated spreadsheets.",
+        "badLabel": "BEFORE",
+        "badText": "I manually scraped LinkedIn and filled spreadsheets for days.",
+        "badStat": "4 hrs / list",
+        "iconSlug1": "linkedin",
+        "iconSlug2": "google-sheets",
+        "goodLabel": "AFTER",
+        "goodText": "AI agents enrich leads with intent signals and verified emails.",
+        "goodStat": "8 min / list",
+        "iconSlug3": "clay",
+        "iconSlug4": "apollo",
+        "iconSlug5": "instantly",
+        "ctaArrow": "Swipe to see how"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 02 / 06",
+        "handle": "",
+        "title": "Personalize every touch",
+        "titleAccent": "at scale",
+        "description": "Merge tags killed reply rates. AI writes unique openers per person.",
+        "badLabel": "BEFORE",
+        "badText": "Every email started with 'Hey {{First_Name}}' and zero context.",
+        "badStat": "2% reply rate",
+        "iconSlug1": "gmail",
+        "iconSlug2": "hubspot",
+        "goodLabel": "AFTER",
+        "goodText": "AI crafts icebreakers from recent posts, hires, and tech stacks.",
+        "goodStat": "12% reply rate",
+        "iconSlug3": "openai",
+        "iconSlug4": "clay",
+        "iconSlug5": "salesforce",
+        "ctaArrow": "Next: better copy"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 03 / 06",
+        "handle": "",
+        "title": "Write sharp copy",
+        "titleAccent": "with AI",
+        "description": "I test AI-generated variants instead of sending one generic template.",
+        "badLabel": "BEFORE",
+        "badText": "One static template went to thousands with no variation testing.",
+        "badStat": "0.5% meeting rate",
+        "iconSlug1": "gmail",
+        "iconSlug2": "notion",
+        "goodLabel": "AFTER",
+        "goodText": "AI spins five angles per persona and auto-picks the winner.",
+        "goodStat": "3% meeting rate",
+        "iconSlug3": "openai",
+        "iconSlug4": "instantly",
+        "iconSlug5": "make",
+        "ctaArrow": "On to sending"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 04 / 06",
+        "handle": "",
+        "title": "Send smart sequences",
+        "titleAccent": "not blasts",
+        "description": "Timed follow-ups adapt to behavior instead of annoying every prospect.",
+        "badLabel": "BEFORE",
+        "badText": "I blasted a hundred emails daily with zero follow-up logic.",
+        "badStat": "15% bounce rate",
+        "iconSlug1": "hubspot",
+        "iconSlug2": "gmail",
+        "goodLabel": "AFTER",
+        "goodText": "Smart delays, reply detection, and auto-unsubscribe protect deliverability.",
+        "goodStat": "98% inbox rate",
+        "iconSlug3": "instantly",
+        "iconSlug4": "n8n",
+        "iconSlug5": "apollo",
+        "ctaArrow": "Handle replies next"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 05 / 06",
+        "handle": "",
+        "title": "Sort reply intent",
+        "titleAccent": "with AI",
+        "description": "Hot leads drowned in notifications. Now AI tags intent instantly.",
+        "badLabel": "BEFORE",
+        "badText": "I missed warm replies inside a cluttered inbox for hours.",
+        "badStat": "6 hr response",
+        "iconSlug1": "gmail",
+        "iconSlug2": "slack",
+        "goodLabel": "AFTER",
+        "goodText": "An AI SDR labels intent, drafts replies, and books meetings.",
+        "goodStat": "12 min response",
+        "iconSlug3": "openai",
+        "iconSlug4": "slack",
+        "iconSlug5": "salesforce",
+        "ctaArrow": "See the results"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 06 / 06",
+        "handle": "",
+        "title": "4x your pipeline",
+        "titleAccent": "in 30 days",
+        "description": "Lower cost per lead, faster replies, and a calendar full of demos.",
+        "badLabel": "BEFORE",
+        "badText": "High spend, low replies, and unpredictable deal flow every month.",
+        "badStat": "$300 / lead",
+        "iconSlug1": "hubspot",
+        "iconSlug2": "gmail",
+        "goodLabel": "AFTER",
+        "goodText": "Automated outbound runs 24/7 and fills pipeline while I sleep.",
+        "goodStat": "$25 / lead",
+        "iconSlug3": "clay",
+        "iconSlug4": "instantly",
+        "iconSlug5": "openai",
+        "ctaArrow": "Start building now"
+      }
+    },
+    {
+      "layoutId": "cta-before-after",
+      "slots": {
+        "pageOf": "08 / 08",
+        "handle": "",
+        "eyebrow": "MAKE THE SWITCH",
+        "headlineLine1": "Automate your outbound",
+        "headlineAccent": "growth engine",
+        "body": "Steal the exact AI stack and workflow I used to 4x pipeline.",
+        "iconSlug1": "openai",
+        "iconSlug2": "clay",
+        "iconSlug3": "apollo",
+        "iconSlug4": "instantly",
+        "iconSlug5": "make",
+        "iconSlug6": "slack",
+        "ctaText": "Get the blueprint"
+      }
+    }
+  ]
+}

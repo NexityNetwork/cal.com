@@ -7,8 +7,8 @@
     {
       "layoutId": "cover-cream-table",
       "slots": {
-        "brandTag": "DATA STACK",
-        "handle": "@productdata",
+        "brandTag": "",
+        "handle": "",
         "eyebrow": "from raw events to shipped insights",
         "titleLine1": "event data",
         "titleAccent": "stack",
@@ -42,7 +42,7 @@
       "layoutId": "body-cream-table",
       "slots": {
         "numLabel": "TOOL 01",
-        "handle": "@productdata",
+        "handle": "",
         "iconSlug1": "segment",
         "toolName": "Segment",
         "toolTagline": "The customer data platform that collects once, syncs everywhere.",
@@ -70,7 +70,7 @@
       "layoutId": "body-cream-table",
       "slots": {
         "numLabel": "TOOL 02",
-        "handle": "@productdata",
+        "handle": "",
         "iconSlug1": "snowflake",
         "toolName": "Snowflake",
         "toolTagline": "The elastic cloud warehouse built for zero infrastructure overhead.",
@@ -98,7 +98,7 @@
       "layoutId": "body-cream-table",
       "slots": {
         "numLabel": "TOOL 03",
-        "handle": "@productdata",
+        "handle": "",
         "iconSlug1": "dbt",
         "toolName": "dbt",
         "toolTagline": "The transformation layer that brings software rigor to SQL.",
@@ -126,7 +126,7 @@
       "layoutId": "body-cream-table",
       "slots": {
         "numLabel": "TOOL 04",
-        "handle": "@productdata",
+        "handle": "",
         "iconSlug1": "amplitude",
         "toolName": "Amplitude",
         "toolTagline": "The product intelligence platform that reveals why users stay or leave.",
@@ -154,7 +154,7 @@
       "layoutId": "body-cream-table",
       "slots": {
         "numLabel": "TOOL 05",
-        "handle": "@productdata",
+        "handle": "",
         "iconSlug1": "hex",
         "toolName": "Hex",
         "toolTagline": "The collaborative notebook where SQL, Python, and charts live together.",
@@ -182,7 +182,7 @@
       "layoutId": "body-cream-table",
       "slots": {
         "numLabel": "TOOL 06",
-        "handle": "@productdata",
+        "handle": "",
         "iconSlug1": "hightouch",
         "toolName": "Hightouch",
         "toolTagline": "The reverse ETL platform that syncs warehouse data to your product.",
@@ -209,8 +209,8 @@
     {
       "layoutId": "cta-cream-table",
       "slots": {
-        "brandTag": "WRAP",
-        "handle": "@productdata",
+        "brandTag": "",
+        "handle": "",
         "eyebrow": "from events to outcomes",
         "titleLine1": "ship insights",
         "titleAccent": "faster",

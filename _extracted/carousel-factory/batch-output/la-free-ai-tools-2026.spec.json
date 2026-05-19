@@ -7,8 +7,8 @@
     {
       "layoutId": "cover-lime-accent",
       "slots": {
-        "brandTag": "STACK PICK",
-        "handle": "factory.51ultron.com",
+        "brandTag": "",
+        "handle": "",
         "eyebrow": "2026 PICKS",
         "titleLine1": "7 free",
         "titleCallout": "AI tools",
@@ -27,7 +27,7 @@
       "layoutId": "body-lime-accent",
       "slots": {
         "numLabel": "TOOL 01",
-        "handle": "factory.51ultron.com",
+        "handle": "",
         "iconSlug1": "cursor",
         "toolTag": "free tier",
         "toolTagline": "The AI-native code editor that writes and refactors for you.",
@@ -49,7 +49,7 @@
       "layoutId": "body-lime-accent",
       "slots": {
         "numLabel": "TOOL 02",
-        "handle": "factory.51ultron.com",
+        "handle": "",
         "iconSlug1": "anthropic",
         "toolTag": "essential",
         "toolTagline": "Deep reasoning and long-context conversations for complex strategy.",
@@ -71,7 +71,7 @@
       "layoutId": "body-lime-accent",
       "slots": {
         "numLabel": "TOOL 03",
-        "handle": "factory.51ultron.com",
+        "handle": "",
         "iconSlug1": "vercel",
         "toolTag": "free",
         "toolTagline": "Generate React UI components from a simple text prompt.",
@@ -93,7 +93,7 @@
       "layoutId": "body-lime-accent",
       "slots": {
         "numLabel": "TOOL 04",
-        "handle": "factory.51ultron.com",
+        "handle": "",
         "iconSlug1": "replicate",
         "toolTag": "credits",
         "toolTagline": "Run open-source AI models in the cloud with one API call.",
@@ -115,7 +115,7 @@
       "layoutId": "body-lime-accent",
       "slots": {
         "numLabel": "TOOL 05",
-        "handle": "factory.51ultron.com",
+        "handle": "",
         "iconSlug1": "ollama",
         "toolTag": "open source",
         "toolTagline": "Run Llama, Mistral, and Gemma locally on your own machine.",
@@ -137,7 +137,7 @@
       "layoutId": "body-lime-accent",
       "slots": {
         "numLabel": "TOOL 06",
-        "handle": "factory.51ultron.com",
+        "handle": "",
         "iconSlug1": "perplexity",
         "toolTag": "research",
         "toolTagline": "AI search engine that cites sources and reasons in real time.",
@@ -158,8 +158,8 @@
     {
       "layoutId": "cta-lime-accent",
       "slots": {
-        "brandTag": "WRAP",
-        "handle": "factory.51ultron.com",
+        "brandTag": "",
+        "handle": "",
         "eyebrow": "PICK YOUR STACK",
         "ctaLine1": "Start building",
         "ctaCallout": "today",

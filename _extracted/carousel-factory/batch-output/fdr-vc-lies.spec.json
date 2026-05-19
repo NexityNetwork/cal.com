@@ -1,0 +1,111 @@
+{
+  "id": "fdr-vc-lies",
+  "brand": "SOLO BRIEF",
+  "brief": "What VCs don't tell solo founders. The dilution math, the rollup risk, the optionality you give up the moment you sign.",
+  "theme": "noir-yellow",
+  "slides": [
+    {
+      "layoutId": "cover-noir-yellow",
+      "slots": {
+        "brand": "",
+        "scriptPrefix": "Founder",
+        "displayLine1": "WHAT VCS",
+        "displayLine2": "NEVER TELL",
+        "displayLine3": "SOLO FOUNDERS",
+        "scriptTagline": "The term sheet locks the door behind you.",
+        "handle": "",
+        "slideId": "Slide 01"
+      }
+    },
+    {
+      "layoutId": "body-noir-yellow",
+      "slots": {
+        "brand": "",
+        "scriptPrefix": "Dilution",
+        "displayLine1": "YOUR 20% IS",
+        "displayLine2": "REALLY 4%",
+        "displayLine3": "AT EXIT",
+        "body": "Seed rounds slice you in half. Series A and B halve you again. By the exit, you own single digits while carrying all the risk.",
+        "handle": "",
+        "slideId": "Slide 02"
+      }
+    },
+    {
+      "layoutId": "body-noir-yellow",
+      "slots": {
+        "brand": "",
+        "scriptPrefix": "Control",
+        "displayLine1": "BOARD SEATS",
+        "displayLine2": "MEAN YOU",
+        "displayLine3": "WORK FOR THEM",
+        "body": "Two independent seats sound fair until they fire you. VCs vote as a bloc. Your company becomes their asset, not your life.",
+        "handle": "",
+        "slideId": "Slide 03"
+      }
+    },
+    {
+      "layoutId": "body-noir-yellow",
+      "slots": {
+        "brand": "",
+        "scriptPrefix": "Rollups",
+        "displayLine1": "ACQUIRED FOR",
+        "displayLine2": "SPARE PARTS",
+        "displayLine3": "NOT LEGACY",
+        "body": "Most exits are acqui-hires or feature rollups. Your product dies inside a suite. You get handcuffed for three years while they strip the code.",
+        "handle": "",
+        "slideId": "Slide 04"
+      }
+    },
+    {
+      "layoutId": "body-noir-yellow",
+      "slots": {
+        "brand": "",
+        "scriptPrefix": "Options",
+        "displayLine1": "SIGN AWAY",
+        "displayLine2": "THE RIGHT",
+        "displayLine3": "TO PIVOT",
+        "body": "Preferred stock blocks side exits and small sales. You cannot sell for ten million even if it saves your sanity. The spreadsheet decides.",
+        "handle": "",
+        "slideId": "Slide 05"
+      }
+    },
+    {
+      "layoutId": "body-noir-yellow",
+      "slots": {
+        "brand": "",
+        "scriptPrefix": "Reality",
+        "displayLine1": "VC SCALE IS",
+        "displayLine2": "A HAMSTER",
+        "displayLine3": "WHEEL OF BURN",
+        "body": "You hire fast and spend faster to chase unicorn metrics. Profits become poison. You trade a calm business for a stressful valuation story.",
+        "handle": "",
+        "slideId": "Slide 06"
+      }
+    },
+    {
+      "layoutId": "body-noir-yellow",
+      "slots": {
+        "brand": "",
+        "scriptPrefix": "Escape",
+        "displayLine1": "REVENUE IS",
+        "displayLine2": "THE ONLY",
+        "displayLine3": "TERM SHEET",
+        "body": "Customers dilute nothing. Retained profit buys your freedom. You can still sell later, but on your timeline and your terms, not theirs.",
+        "handle": "",
+        "slideId": "Slide 07"
+      }
+    },
+    {
+      "layoutId": "cta-noir-yellow",
+      "slots": {
+        "brand": "",
+        "scriptPrefix": "Today",
+        "headline": "RECLAIM YOUR CAP TABLE",
+        "scriptTagline": "Profit is the only term sheet left.",
+        "buttonLabel": "Join the Briefing",
+        "handle": "",
+        "slideId": "Slide 08"
+      }
+    }
+  ]
+}

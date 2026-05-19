@@ -8,7 +8,7 @@
       "layoutId": "cover-data-table",
       "slots": {
         "number": "01",
-        "handle": "@usevisuals",
+        "handle": "",
         "titleLine1": "The data that",
         "titleAccent": "exposed our leaks",
         "subtitle": "Six conversion benchmarks every growth team must audit.",
@@ -24,7 +24,7 @@
       "layoutId": "body-data-table",
       "slots": {
         "number": "02",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "Traffic converts to leads",
         "bigStat": "2.8%",
         "bigStatLabel": "average visitor conversion",
@@ -45,7 +45,7 @@
       "layoutId": "body-data-table",
       "slots": {
         "number": "03",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "Leads become qualified",
         "bigStat": "31%",
         "bigStatLabel": "lead to MQL rate",
@@ -66,7 +66,7 @@
       "layoutId": "body-data-table",
       "slots": {
         "number": "04",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "MQLs reach sales ready",
         "bigStat": "28%",
         "bigStatLabel": "MQL to SQL pass",
@@ -87,7 +87,7 @@
       "layoutId": "body-data-table",
       "slots": {
         "number": "05",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "Meetings turn to pipeline",
         "bigStat": "45%",
         "bigStatLabel": "SQL to opp rate",
@@ -108,7 +108,7 @@
       "layoutId": "body-data-table",
       "slots": {
         "number": "06",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "Pipeline closes to revenue",
         "bigStat": "19%",
         "bigStatLabel": "opportunity win rate",
@@ -129,7 +129,7 @@
       "layoutId": "body-data-table",
       "slots": {
         "number": "07",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "Trials convert to paid",
         "bigStat": "16%",
         "bigStatLabel": "trial conversion rate",
@@ -150,7 +150,7 @@
       "layoutId": "cta-data-table",
       "slots": {
         "number": "08",
-        "handle": "@usevisuals",
+        "handle": "",
         "bigStat": "10x",
         "eyebrow": "THE RESULT",
         "headline": "Fix the leaks fast",

@@ -920,6 +920,73 @@ const BRIEFS = [
   { id: "ba-aws-cost-cut",            family: "before-after", text: "How we cut our AWS bill by 70% without losing performance — before and after the migration." },
   { id: "ba-claude-code-adoption",    family: "before-after", text: "Before and after adopting Claude Code as our primary dev tool — 6 honest metrics, 90 days in." },
   { id: "ba-onboarding-activation",   family: "before-after", text: "Our onboarding activation went from 14% to 67% — the 5 changes that moved the needle." },
+
+  // ─── Founder-focused: making money with AI, no hiring, no scale-fast (50) ─
+  // mag-editorial (10) — premium editorial, founder mindset
+  { id: "fdr-1m-solo",            family: "mag-editorial", text: "The unsexy truth about making your first $1M as a solo founder with AI. Quiet leverage, recurring revenue, business that prints money while you sleep. Lessons on pricing, niching, saying no to vanity metrics." },
+  { id: "fdr-calm-over-growth",   family: "mag-editorial", text: "Why I chose calm over growth and so should you. Capping my AI business at $30k/month MRR instead of chasing $1M. The mental, financial, and lifestyle math of a calm business in 2026." },
+  { id: "fdr-year-2-trap",        family: "mag-editorial", text: "Why most indie founders quit in year 2. The dip nobody warns you about: revenue stalls, burnout, comparison. How to push through to year 3 with AI leverage." },
+  { id: "fdr-walking-from-exit",  family: "mag-editorial", text: "I walked away from a $5M exit. The lifestyle cost, the identity loss, what most founders don't realize about post-acquisition life. A meditation on enough." },
+  { id: "fdr-money-vs-meaning",   family: "mag-editorial", text: "Money or meaning. You don't have to pick. How AI lets solo founders build things that pay AND matter without the venture capital trap." },
+  { id: "fdr-audience-first",     family: "mag-editorial", text: "Audience first, product second. The new founder playbook. Why distribution is the moat in 2026 and how AI lets one person own a niche." },
+  { id: "fdr-quiet-business",     family: "mag-editorial", text: "The quiet business that prints. No funding, no team, no fanfare. The one-person AI businesses making $500k+/yr in obscurity and how they do it." },
+  { id: "fdr-overnight-myth",     family: "mag-editorial", text: "The myth of overnight success in AI. What every viral founder won't tell you about the three years before the spotlight. Patience, compounding, the boring middle." },
+  { id: "fdr-second-act",         family: "mag-editorial", text: "Your second act with AI. For founders in their 30s and 40s feeling behind. Why AI is the great equalizer for the experienced and the patient." },
+  { id: "fdr-money-mindset",      family: "mag-editorial", text: "Money mindset shifts every founder needs. From scarcity to leverage, hustle to compounding, selling time to selling outcomes. The AI-era reframes that change everything." },
+
+  // personal-essay (8) — founder stories
+  { id: "fdr-quit-9to5",          family: "personal-essay", text: "I quit my $200k job to build with AI. Six months later — the numbers, the lessons, the moments I wanted to crawl back. The honest middle of the founder journey." },
+  { id: "fdr-one-product",        family: "personal-essay", text: "One product changed my life. Not a course, not a service — a $19 AI tool 12,000 people bought. The full breakdown of how it found its market." },
+  { id: "fdr-vc-no-thanks",       family: "personal-essay", text: "I turned down VC money twice. The freedom math, the optionality cost, why most founders are sold a story about needing funding." },
+  { id: "fdr-burnout-lesson",     family: "personal-essay", text: "What burnout taught me about money. The week I stopped working and my MRR went up. The leverage paradox every solo founder eventually meets." },
+  { id: "fdr-niche-millionaire",  family: "personal-essay", text: "How a tiny niche made me rich. The 1,200-person market I built a $40k/month business in. Why niche is the new big in the AI era." },
+  { id: "fdr-solo-not-lonely",    family: "personal-essay", text: "Solo doesn't mean lonely. Building a one-person business with AI agents as your team. The community, the freedom, the honest mental cost." },
+  { id: "fdr-failed-5-startups",  family: "personal-essay", text: "I failed 5 startups before this one worked. What changed. The mindset shift, the constraint that unlocked focus, the AI leverage that finally made it inevitable." },
+  { id: "fdr-midlife-pivot",      family: "personal-essay", text: "Pivoting to AI at 42. From corporate VP to indie founder. The lessons of starting over with everything you already know about the world." },
+
+  // before-after (8) — transformations
+  { id: "fdr-freelancer-to-agency", family: "before-after", text: "Freelancer at $80/hr to AI agency owner clearing $30k/month. The exact pricing shift, the productization, what AI replaced for me." },
+  { id: "fdr-killed-ads",           family: "before-after", text: "I killed my $50k/month ad spend and grew faster. How AI content compounding replaced paid acquisition." },
+  { id: "fdr-service-to-product",   family: "before-after", text: "Service business to AI product business. The 90-day pivot, the revenue dip, the unlock on the other side." },
+  { id: "fdr-cold-email-ai",        family: "before-after", text: "Cold email before and after AI. Reply rates, deal flow, time per campaign. The exact workflow that 4x'd my pipeline." },
+  { id: "fdr-newsletter-zero-50k",  family: "before-after", text: "Newsletter from 0 to 50,000 subscribers with AI. The compounding playbook, the topic shifts, the monetization at scale." },
+  { id: "fdr-content-mill-engine",  family: "before-after", text: "From content mill to AI content engine. The transition from one post a week to twelve a day without losing voice." },
+  { id: "fdr-sales-calls-ai",       family: "before-after", text: "Sales calls before and after AI agents. Show rates, close rates, hours per close. What automation actually does to a solo founder's funnel." },
+  { id: "fdr-solopreneur-life",     family: "before-after", text: "Life before and after going solo with AI. Income, hours, stress, optionality. The honest math of choosing yourself." },
+
+  // linkedin-pro (8) — founder-style posts
+  { id: "fdr-ai-money-playbook",  family: "linkedin-pro", text: "The AI money playbook for solo founders. Six plays that print revenue without scaling a team — productized services, micro-SaaS, info products, AI-augmented agency, paid newsletter, prompt sets." },
+  { id: "fdr-side-hustles-5k",    family: "linkedin-pro", text: "5 AI side hustles consistently making $5k a month in 2026. Concrete revenue models, time commitment per week, who the target customer is." },
+  { id: "fdr-micro-saas-play",    family: "linkedin-pro", text: "The micro-SaaS with AI play. How solo founders are reaching $20k MRR with single-feature tools and tight niches — and what to avoid." },
+  { id: "fdr-productized-pricing", family: "linkedin-pro", text: "Productized AI services pricing that converts. Why hourly is dead, what flat rates actually work, the retainer trap you should avoid." },
+  { id: "fdr-selling-prompts",    family: "linkedin-pro", text: "Selling AI prompts and prompt packs as products. Pricing, packaging, where to sell, what actually moves units in 2026." },
+  { id: "fdr-ai-affiliate",       family: "linkedin-pro", text: "AI affiliate marketing for beginners. The four affiliate programs solo founders are quietly making $5k/month from, and how they're driving traffic." },
+  { id: "fdr-niche-newsletter",   family: "linkedin-pro", text: "The niche newsletter business plan. Topic selection, audience math, monetization stack, how to choose a niche AI can amplify." },
+  { id: "fdr-agency-pricing",     family: "linkedin-pro", text: "AI agency pricing that actually works. Why $5k retainers beat $50/hr every time, and how to position your offer to land them." },
+
+  // cream-table (6) — clean tables/lists
+  { id: "fdr-tools-money",        family: "cream-table", text: "Eight AI tools founders use to print money. Each row: tool name, monthly cost, revenue use case, expected ROI window." },
+  { id: "fdr-revenue-streams",    family: "cream-table", text: "Eight AI revenue streams ranked by effort versus payout. From easiest to hardest, what actually pays in 2026." },
+  { id: "fdr-founder-os",         family: "cream-table", text: "The founder operating system. Eight daily tools for revenue, focus, and freedom — what each is for and how it pays back." },
+  { id: "fdr-money-mistakes",     family: "cream-table", text: "Eight money mistakes solo founders make in year one. Each row: the mistake, the real cost, the simple fix." },
+  { id: "fdr-content-types-sell", family: "cream-table", text: "Eight AI content formats that consistently sell. Format, time to create, conversion rate, what to charge for it." },
+  { id: "fdr-product-types",      family: "cream-table", text: "Eight AI product types you can sell tomorrow. Product type, audience, price point, build time, where to launch first." },
+
+  // beige-paper (5) — quiet editorial newsletter style
+  { id: "fdr-quiet-money",        family: "beige-paper", text: "The quiet money mindset. Why loud founders go broke and quiet ones get rich. Compounding beats virality, every time." },
+  { id: "fdr-stop-selling-time",  family: "beige-paper", text: "Stop selling time. Start selling outcomes. The AI-leveraged shift every freelancer needs to make in 2026." },
+  { id: "fdr-minimalist-founder", family: "beige-paper", text: "The minimalist founder. One product, one channel, one audience. Why subtraction is the winning strategy in 2026." },
+  { id: "fdr-patience-compounds", family: "beige-paper", text: "Patience compounds. Hype dies. A meditation on the long game for indie founders in the AI gold rush." },
+  { id: "fdr-enough-is-enough",   family: "beige-paper", text: "Enough is a number. Why setting your enough number changes everything about how you build, price, and choose what to ignore." },
+
+  // noir-yellow (3) — bold, contrarian takes
+  { id: "fdr-truths-hard",        family: "noir-yellow", text: "Five hard truths about making money with AI. The hype tax, the saturation problem, the moat question every solo founder must answer." },
+  { id: "fdr-vc-lies",            family: "noir-yellow", text: "What VCs don't tell solo founders. The dilution math, the rollup risk, the optionality you give up the moment you sign." },
+  { id: "fdr-funding-warnings",   family: "noir-yellow", text: "Warning signs you don't need funding. Profitability, growth rate, customer love, optionality — read these before you take the meeting." },
+
+  // coral-mag (2) — magazine-style features
+  { id: "fdr-creator-money",      family: "coral-mag", text: "The creator-founder economy in 2026. How writers, podcasters, and educators are using AI to compound income without losing their voice." },
+  { id: "fdr-lifestyle-business", family: "coral-mag", text: "The lifestyle business renaissance. Profitable, calm, owner-friendly. The new ambition for founders who watched the unicorn dream die." },
 ];
 
 // ─── Kimi planner with retry on JSON parse failure ─────────────────────────
@@ -979,11 +1046,24 @@ const RUN_BRIEFS = BRIEFS.filter((b) => {
 console.log(`→ Generating ${RUN_BRIEFS.length} carousels with concurrency=${CONCURRENCY}${FAMILY_FILTER ? ` (families: ${[...FAMILY_FILTER].join(",")})` : ""}`);
 const startedAt = Date.now();
 
+// Identity slots stripped from every spec before composition.
+// Templates can keep the slots; compose substitutes "" when missing.
+const KILL_SLOTS = ["handle", "brand", "brandTag", "domain", "domainText"];
+function killIdentitySlots(spec) {
+  for (const slide of spec.slides || []) {
+    if (!slide.slots) continue;
+    for (const key of KILL_SLOTS) {
+      if (key in slide.slots) slide.slots[key] = "";
+    }
+  }
+}
+
 const results = await pmap(RUN_BRIEFS, CONCURRENCY, async ({ id, family, text }, idx) => {
   const tag = `[${idx + 1}/${RUN_BRIEFS.length}] ${id} [${family}]`;
   try {
     const spec = await plan(text, family);
     spec.id = id;
+    killIdentitySlots(spec);
     await writeFile(resolve(OUT, `${id}.spec.json`), JSON.stringify(spec, null, 2));
     const htmls = await compose(spec, { layoutsDir: LAYOUTS });
     const dir = resolve(OUT, id);

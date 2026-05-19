@@ -15,7 +15,7 @@
         "authorInitials": "JD",
         "authorName": "Jordan Doe",
         "authorRole": "AI Engineer",
-        "handle": "@jordandoe"
+        "handle": ""
       }
     },
     {
@@ -118,7 +118,7 @@
         "buttonLabel": "Save this post",
         "authorInitials": "JD",
         "authorName": "Jordan Doe",
-        "handle": "@jordandoe"
+        "handle": ""
       }
     }
   ]

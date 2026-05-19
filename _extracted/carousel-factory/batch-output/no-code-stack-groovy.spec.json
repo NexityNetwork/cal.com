@@ -9,7 +9,7 @@
       "slots": {
         "title": "No-code profit stack",
         "ctaText": "The exact stack behind $30K months",
-        "handle": "@yourstack"
+        "handle": ""
       }
     },
     {
@@ -18,7 +18,7 @@
         "number": "01",
         "title": "Notion HQ",
         "body": "Everything lives here. I run SOPs, content calendars, and client portals in one workspace. It’s basically my second brain.",
-        "handle": "@yourstack"
+        "handle": ""
       }
     },
     {
@@ -27,7 +27,7 @@
         "number": "02",
         "title": "Airtable Brain",
         "body": "My entire CRM and inventory sit in Airtable. I link records so nothing falls through the cracks. It’s a spreadsheet with superpowers.",
-        "handle": "@yourstack"
+        "handle": ""
       }
     },
     {
@@ -36,7 +36,7 @@
         "number": "03",
         "title": "Webflow Store",
         "body": "I built my site without touching code. Webflow handles hosting, SEO, and design tweaks in minutes. It looks custom without the dev bill.",
-        "handle": "@yourstack"
+        "handle": ""
       }
     },
     {
@@ -45,7 +45,7 @@
         "number": "04",
         "title": "Make Automations",
         "body": "Make connects every app while I sleep. Leads flow from form to email to CRM automatically. Zero manual data entry, zero headaches.",
-        "handle": "@yourstack"
+        "handle": ""
       }
     },
     {
@@ -54,7 +54,7 @@
         "number": "05",
         "title": "Stripe Checkout",
         "body": "Payments are one-click and global. Stripe powers subscriptions, invoices, and instant payouts. I get paid before I even finish my coffee.",
-        "handle": "@yourstack"
+        "handle": ""
       }
     },
     {
@@ -63,7 +63,7 @@
         "number": "06",
         "title": "ConvertKit Emails",
         "body": "Newsletters and sequences run on autopilot. I tag subscribers based on behavior and send targeted offers. It’s my 24/7 sales rep.",
-        "handle": "@yourstack"
+        "handle": ""
       }
     },
     {
@@ -73,7 +73,7 @@
         "headline": "Build Your $30K Stack",
         "body": "Steal these six tools and start scaling. Your no-code empire is one click away.",
         "buttonLabel": "Grab The Stack",
-        "handle": "@yourstack"
+        "handle": ""
       }
     }
   ]

@@ -8,7 +8,7 @@
       "layoutId": "cover-bold-split",
       "slots": {
         "title": "SIX HARD TRUTHS FOR DAILY CONFIDENCE",
-        "handle": "@CONFIDENCEDAILY"
+        "handle": ""
       }
     },
     {
@@ -17,7 +17,7 @@
         "number": "01",
         "title": "ACTION FIRST MOTIVATION SECOND",
         "body": "Confidence is not a prerequisite for action; it is the result of it. Start before you feel ready and build evidence that you can.",
-        "handle": "@CONFIDENCEDAILY"
+        "handle": ""
       }
     },
     {
@@ -26,7 +26,7 @@
         "number": "02",
         "title": "NOBODY IS WATCHING THAT CLOSELY",
         "body": "Your inner critic is louder than any outside judgment. Most people are too busy worrying about themselves to scrutinize your every move.",
-        "handle": "@CONFIDENCEDAILY"
+        "handle": ""
       }
     },
     {
@@ -35,7 +35,7 @@
         "number": "03",
         "title": "COMFORT ZONES KILL MOMENTUM",
         "body": "Safety feels good but breeds stagnation. Real confidence is forged when you consistently step into uncertainty and come out stronger.",
-        "handle": "@CONFIDENCEDAILY"
+        "handle": ""
       }
     },
     {
@@ -44,7 +44,7 @@
         "number": "04",
         "title": "FAILURE IS FEEDBACK NOT FATE",
         "body": "One setback does not erase your capability. Treat every miss as data, adjust your approach, and move forward with sharper intent.",
-        "handle": "@CONFIDENCEDAILY"
+        "handle": ""
       }
     },
     {
@@ -53,7 +53,7 @@
         "number": "05",
         "title": "COMPARISON STEALS YOUR PROGRESS",
         "body": "Measuring your behind-the-scenes against someone else's highlight reel is a losing game. Compete only with who you were yesterday.",
-        "handle": "@CONFIDENCEDAILY"
+        "handle": ""
       }
     },
     {
@@ -62,7 +62,7 @@
         "number": "06",
         "title": "CONFIDENCE REQUIRES DAILY MAINTENANCE",
         "body": "It is not a trophy you win once. Confidence demands consistent action, honest reflection, and the courage to show up again tomorrow.",
-        "handle": "@CONFIDENCEDAILY"
+        "handle": ""
       }
     },
     {
@@ -72,7 +72,7 @@
         "headline": "START BUILDING UNSTOPPABLE CONFIDENCE TODAY",
         "body": "Pick one truth and act on it today. Small steps create unstoppable momentum.",
         "buttonLabel": "START TODAY",
-        "handle": "@CONFIDENCEDAILY"
+        "handle": ""
       }
     }
   ]

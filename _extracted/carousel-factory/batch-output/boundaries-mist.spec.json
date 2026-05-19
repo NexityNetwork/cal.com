@@ -7,8 +7,8 @@
     {
       "layoutId": "cover-purple-mist",
       "slots": {
-        "brand": "STILL POINT",
-        "handle": "@stillpoint",
+        "brand": "",
+        "handle": "",
         "pageOf": "1 / 8",
         "searchQuery": "How to set soft boundaries without losing people"
       }
@@ -16,8 +16,8 @@
     {
       "layoutId": "body-purple-mist",
       "slots": {
-        "brand": "STILL POINT",
-        "handle": "@stillpoint",
+        "brand": "",
+        "handle": "",
         "pageOf": "2 / 8",
         "stepLabel": "START HERE:",
         "body": "Soft boundaries are not walls; they are bridges that keep connection alive while honoring your limits."
@@ -26,8 +26,8 @@
     {
       "layoutId": "body-purple-mist",
       "slots": {
-        "brand": "STILL POINT",
-        "handle": "@stillpoint",
+        "brand": "",
+        "handle": "",
         "pageOf": "3 / 8",
         "stepLabel": "STEP ONE:",
         "body": "Wait before you answer any request. One breath buys you clarity and keeps resentment at bay."
@@ -36,8 +36,8 @@
     {
       "layoutId": "body-purple-mist",
       "slots": {
-        "brand": "STILL POINT",
-        "handle": "@stillpoint",
+        "brand": "",
+        "handle": "",
         "pageOf": "4 / 8",
         "stepLabel": "STEP TWO:",
         "body": "Ask yourself what you truly need right now. Honesty with yourself is the first gentle boundary."
@@ -46,8 +46,8 @@
     {
       "layoutId": "body-purple-mist",
       "slots": {
-        "brand": "STILL POINT",
-        "handle": "@stillpoint",
+        "brand": "",
+        "handle": "",
         "pageOf": "5 / 8",
         "stepLabel": "STEP THREE:",
         "body": "Offer only what you can give freely. A partial yes protects your peace better than a resentful no."
@@ -56,8 +56,8 @@
     {
       "layoutId": "body-purple-mist",
       "slots": {
-        "brand": "STILL POINT",
-        "handle": "@stillpoint",
+        "brand": "",
+        "handle": "",
         "pageOf": "6 / 8",
         "stepLabel": "STEP FOUR:",
         "body": "Guard the edges of your day like sacred ground. Availability is a gift, not an obligation."
@@ -66,8 +66,8 @@
     {
       "layoutId": "body-purple-mist",
       "slots": {
-        "brand": "STILL POINT",
-        "handle": "@stillpoint",
+        "brand": "",
+        "handle": "",
         "pageOf": "7 / 8",
         "stepLabel": "STEP FIVE:",
         "body": "Decline with warmth instead of over-explaining. A soft no preserves both your energy and the relationship."
@@ -76,8 +76,8 @@
     {
       "layoutId": "cta-purple-mist",
       "slots": {
-        "brand": "STILL POINT",
-        "handle": "@stillpoint",
+        "brand": "",
+        "handle": "",
         "eyebrow": "YOUR RITUAL",
         "headline": "Protect what restores you",
         "body": "Pick one boundary to practice this week. Small shifts create the most lasting peace.",

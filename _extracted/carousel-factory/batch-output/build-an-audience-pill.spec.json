@@ -7,7 +7,7 @@
     {
       "layoutId": "cover-condensed-pill",
       "slots": {
-        "brand": "Nora Cole",
+        "brand": "",
         "preLine": "How to",
         "pillText": "BUILD",
         "postLine": "10K fans in 90 days",
@@ -17,7 +17,7 @@
     {
       "layoutId": "body-condensed-pill",
       "slots": {
-        "brand": "Nora Cole",
+        "brand": "",
         "number": "01",
         "numberLabel": "Step",
         "title": "PICK NICHE",
@@ -28,7 +28,7 @@
     {
       "layoutId": "body-condensed-pill",
       "slots": {
-        "brand": "Nora Cole",
+        "brand": "",
         "number": "02",
         "numberLabel": "Step",
         "title": "CONTENT PILLARS",
@@ -39,7 +39,7 @@
     {
       "layoutId": "body-condensed-pill",
       "slots": {
-        "brand": "Nora Cole",
+        "brand": "",
         "number": "03",
         "numberLabel": "Step",
         "title": "POST DAILY",
@@ -50,7 +50,7 @@
     {
       "layoutId": "body-condensed-pill",
       "slots": {
-        "brand": "Nora Cole",
+        "brand": "",
         "number": "04",
         "numberLabel": "Step",
         "title": "ENGAGE BACK",
@@ -61,7 +61,7 @@
     {
       "layoutId": "body-condensed-pill",
       "slots": {
-        "brand": "Nora Cole",
+        "brand": "",
         "number": "05",
         "numberLabel": "Step",
         "title": "GIVE VALUE",
@@ -72,7 +72,7 @@
     {
       "layoutId": "body-condensed-pill",
       "slots": {
-        "brand": "Nora Cole",
+        "brand": "",
         "number": "06",
         "numberLabel": "Step",
         "title": "COLLABORATE",
@@ -83,7 +83,7 @@
     {
       "layoutId": "cta-condensed-pill",
       "slots": {
-        "brand": "Nora Cole",
+        "brand": "",
         "eyebrow": "YOUR TURN",
         "headline": "BUILD IT",
         "body": "You already have everything you need. Open your notes and plan your first thirty days today.",

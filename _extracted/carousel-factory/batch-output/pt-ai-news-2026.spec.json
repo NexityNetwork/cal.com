@@ -8,7 +8,7 @@
       "layoutId": "cover-photo-tag",
       "slots": {
         "tag": "HOT TAKE",
-        "handle": "@aisignal",
+        "handle": "",
         "featGlyph": "⚡",
         "featLabel": "TRENDING",
         "featName": "AI Workflows",
@@ -34,7 +34,7 @@
       "layoutId": "body-photo-tag",
       "slots": {
         "numLabel": "TOOL 01",
-        "handle": "@aisignal",
+        "handle": "",
         "iconSlug1": "anthropic",
         "toolName": "Claude 3.5 Sonnet",
         "toolTagline": "The smartest model for code and reasoning yet.",
@@ -70,7 +70,7 @@
       "layoutId": "body-photo-tag",
       "slots": {
         "numLabel": "TOOL 02",
-        "handle": "@aisignal",
+        "handle": "",
         "iconSlug1": "openai",
         "toolName": "GPT-4o mini",
         "toolTagline": "Intelligence at the price of GPT-3.5.",
@@ -106,7 +106,7 @@
       "layoutId": "body-photo-tag",
       "slots": {
         "numLabel": "TOOL 03",
-        "handle": "@aisignal",
+        "handle": "",
         "iconSlug1": "google",
         "toolName": "Gemini 1.5 Pro",
         "toolTagline": "One million tokens of coherent memory.",
@@ -142,7 +142,7 @@
       "layoutId": "body-photo-tag",
       "slots": {
         "numLabel": "TOOL 04",
-        "handle": "@aisignal",
+        "handle": "",
         "iconSlug1": "meta",
         "toolName": "Llama 3.1",
         "toolTagline": "Open weights that rival closed giants.",
@@ -178,7 +178,7 @@
       "layoutId": "body-photo-tag",
       "slots": {
         "numLabel": "TOOL 05",
-        "handle": "@aisignal",
+        "handle": "",
         "iconSlug1": "midjourney",
         "toolName": "Midjourney v6.1",
         "toolTagline": "Photorealism without the prompt engineering.",
@@ -214,7 +214,7 @@
       "layoutId": "body-photo-tag",
       "slots": {
         "numLabel": "TOOL 06",
-        "handle": "@aisignal",
+        "handle": "",
         "iconSlug1": "elevenlabs",
         "toolName": "ElevenLabs Turbo",
         "toolTagline": "Latency so low it feels telepathic.",
@@ -250,7 +250,7 @@
       "layoutId": "cta-photo-tag",
       "slots": {
         "tag": "WRAP",
-        "handle": "@aisignal",
+        "handle": "",
         "eyebrow": "don't miss the next drop",
         "ctaLine1": "Follow for",
         "ctaAccent": "weekly drops",

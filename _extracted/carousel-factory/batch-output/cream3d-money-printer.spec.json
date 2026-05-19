@@ -12,7 +12,7 @@
         "titleLine3": "a money printer",
         "authorInitials": "AM",
         "authorName": "Alex Marx",
-        "handle": "@alexmarx",
+        "handle": "",
         "avatarBg1": "#D4755F",
         "avatarBg2": "#F2D6B3",
         "pageOf": "01 - 08"
@@ -101,7 +101,7 @@
       "slots": {
         "tagline": "We turn sleepy websites into 24/7 sales engines using psychology, design, and automation.",
         "ctaQuestion": "Ready to build your money printer ?",
-        "handle": "@alexmarx",
+        "handle": "",
         "pageOf": "08 - 08"
       }
     }

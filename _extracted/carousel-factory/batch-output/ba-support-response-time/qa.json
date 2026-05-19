@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/ba-support-response-time/slide-01.png",
-      "bytes": 102482,
+      "bytes": 99597,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -19,7 +19,7 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/ba-support-response-time/slide-02.png",
-      "bytes": 89238,
+      "bytes": 86280,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -35,7 +35,7 @@
     {
       "index": 2,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/ba-support-response-time/slide-03.png",
-      "bytes": 92541,
+      "bytes": 89619,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -51,7 +51,7 @@
     {
       "index": 3,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/ba-support-response-time/slide-04.png",
-      "bytes": 98578,
+      "bytes": 95757,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -67,7 +67,7 @@
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/ba-support-response-time/slide-05.png",
-      "bytes": 89688,
+      "bytes": 86862,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -83,7 +83,7 @@
     {
       "index": 5,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/ba-support-response-time/slide-06.png",
-      "bytes": 92595,
+      "bytes": 89747,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -99,7 +99,7 @@
     {
       "index": 6,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/ba-support-response-time/slide-07.png",
-      "bytes": 89416,
+      "bytes": 86538,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -115,7 +115,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/ba-support-response-time/slide-08.png",
-      "bytes": 61943,
+      "bytes": 58767,
       "qa": {
         "verdict": "pass",
         "checks": {

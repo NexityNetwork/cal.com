@@ -7,8 +7,8 @@
     {
       "layoutId": "cover-neon-cyber",
       "slots": {
-        "brandTag": "AI OPS",
-        "handle": "@neondev",
+        "brandTag": "",
+        "handle": "",
         "terminalTag": "~/stack/2026",
         "termHighlight": "7 tools found",
         "eyebrow": "THE AUTONOMOUS STACK FOR",
@@ -38,7 +38,7 @@
       "slots": {
         "numLabel": "01",
         "sectionLabel": "WORKFLOW 01",
-        "handle": "@neondev",
+        "handle": "",
         "title": "Automate any",
         "titleAccent": "AI pipeline",
         "subtitle": "n8n connects APIs, models, and data sinks with <em>visual node logic</em>—no sleep required.",
@@ -66,7 +66,7 @@
       "slots": {
         "numLabel": "02",
         "sectionLabel": "EXECUTION 02",
-        "handle": "@neondev",
+        "handle": "",
         "title": "Durable code",
         "titleAccent": "that survives",
         "subtitle": "Temporal orchestrates long-running AI jobs with <em>fault-tolerant state</em> and replay.",
@@ -94,7 +94,7 @@
       "slots": {
         "numLabel": "03",
         "sectionLabel": "VECTOR DB 03",
-        "handle": "@neondev",
+        "handle": "",
         "title": "Search memory",
         "titleAccent": "at AI speed",
         "subtitle": "Qdrant serves billion-scale embeddings with <em>filtered vector search</em> in milliseconds.",
@@ -122,7 +122,7 @@
       "slots": {
         "numLabel": "04",
         "sectionLabel": "OBSERVE 04",
-        "handle": "@neondev",
+        "handle": "",
         "title": "Monitor AI",
         "titleAccent": "health live",
         "subtitle": "Grafana dashboards track GPU, latency, and error rates with <em>real-time telemetry</em>.",
@@ -150,7 +150,7 @@
       "slots": {
         "numLabel": "05",
         "sectionLabel": "INFERENCE 05",
-        "handle": "@neondev",
+        "handle": "",
         "title": "Run models",
         "titleAccent": "on bare metal",
         "subtitle": "Ollama serves quantized LLMs locally with <em>zero API dependency</em> and full privacy.",
@@ -178,7 +178,7 @@
       "slots": {
         "numLabel": "06",
         "sectionLabel": "ORCHESTRATE 06",
-        "handle": "@neondev",
+        "handle": "",
         "title": "Orchestrate &",
         "titleAccent": "persist data",
         "subtitle": "Prefect schedules AI pipelines while Supabase stores state with <em>Postgres reliability</em>.",
@@ -204,8 +204,8 @@
     {
       "layoutId": "cta-neon-cyber",
       "slots": {
-        "brandTag": "WRAP",
-        "handle": "@neondev",
+        "brandTag": "",
+        "handle": "",
         "eyebrow": "YOUR MOVE",
         "ctaLine1": "Save this",
         "ctaAccent": "cyber stack",

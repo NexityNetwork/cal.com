@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/ct-saas-analytics-stack/slide-01.png",
-      "bytes": 137642,
+      "bytes": 132847,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -19,7 +19,7 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/ct-saas-analytics-stack/slide-02.png",
-      "bytes": 111405,
+      "bytes": 109055,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -35,7 +35,7 @@
     {
       "index": 2,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/ct-saas-analytics-stack/slide-03.png",
-      "bytes": 114628,
+      "bytes": 112176,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -51,7 +51,7 @@
     {
       "index": 3,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/ct-saas-analytics-stack/slide-04.png",
-      "bytes": 112915,
+      "bytes": 110532,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -67,7 +67,7 @@
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/ct-saas-analytics-stack/slide-05.png",
-      "bytes": 115826,
+      "bytes": 113348,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -83,7 +83,7 @@
     {
       "index": 5,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/ct-saas-analytics-stack/slide-06.png",
-      "bytes": 107930,
+      "bytes": 105618,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -99,7 +99,7 @@
     {
       "index": 6,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/ct-saas-analytics-stack/slide-07.png",
-      "bytes": 112495,
+      "bytes": 110028,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -115,7 +115,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/ct-saas-analytics-stack/slide-08.png",
-      "bytes": 110612,
+      "bytes": 106959,
       "qa": {
         "verdict": "pass",
         "checks": {

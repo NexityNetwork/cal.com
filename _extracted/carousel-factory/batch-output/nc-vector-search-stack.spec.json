@@ -7,8 +7,8 @@
     {
       "layoutId": "cover-neon-cyber",
       "slots": {
-        "brandTag": "VECTOR",
-        "handle": "@searchstack",
+        "brandTag": "",
+        "handle": "",
         "terminalTag": "vector-search.sys",
         "termHighlight": "6 tools found",
         "eyebrow": "THE SEARCH STACK FOR",
@@ -38,7 +38,7 @@
       "slots": {
         "numLabel": "01",
         "sectionLabel": "VECTOR ENGINE 01",
-        "handle": "@searchstack",
+        "handle": "",
         "title": "Store vectors",
         "titleAccent": "in Qdrant",
         "subtitle": "The <em>open-source vector database</em> that handles billion-scale similarity search with sub-millisecond precision.",
@@ -66,7 +66,7 @@
       "slots": {
         "numLabel": "02",
         "sectionLabel": "METADATA LAYER 02",
-        "handle": "@searchstack",
+        "handle": "",
         "title": "Join metadata",
         "titleAccent": "with Postgres",
         "subtitle": "Keep relational filters and vector IDs in sync using <em>pgvector</em> as the source-of-truth bridge.",
@@ -94,7 +94,7 @@
       "slots": {
         "numLabel": "03",
         "sectionLabel": "API GATEWAY 03",
-        "handle": "@searchstack",
+        "handle": "",
         "title": "Route queries",
         "titleAccent": "via FastAPI",
         "subtitle": "Async Python endpoints that <em>parallelize</em> vector and metadata lookups with connection pooling.",
@@ -122,7 +122,7 @@
       "slots": {
         "numLabel": "04",
         "sectionLabel": "CACHE TIER 04",
-        "handle": "@searchstack",
+        "handle": "",
         "title": "Cache vectors",
         "titleAccent": "in Redis",
         "subtitle": "Hot embeddings stored in <em>RedisJSON</em> cut repeated queries by 94% before they hit the engine.",
@@ -150,7 +150,7 @@
       "slots": {
         "numLabel": "05",
         "sectionLabel": "OBSERVABILITY 05",
-        "handle": "@searchstack",
+        "handle": "",
         "title": "Watch every",
         "titleAccent": "millisecond",
         "subtitle": "Grafana dashboards expose <em>p99 latency</em>, recall rate, and shard health in real time.",
@@ -178,7 +178,7 @@
       "slots": {
         "numLabel": "06",
         "sectionLabel": "DEPLOYMENT 06",
-        "handle": "@searchstack",
+        "handle": "",
         "title": "Ship the",
         "titleAccent": "full stack",
         "subtitle": "One <em>docker-compose</em> file wires vector search, API, cache, and observability together.",
@@ -204,8 +204,8 @@
     {
       "layoutId": "cta-neon-cyber",
       "slots": {
-        "brandTag": "VECTOR",
-        "handle": "@searchstack",
+        "brandTag": "",
+        "handle": "",
         "eyebrow": "YOUR MOVE",
         "ctaLine1": "Save this",
         "ctaAccent": "stack",

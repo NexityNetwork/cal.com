@@ -37,7 +37,7 @@
         "iconSlug5": "slack",
         "iconSlug6": "notion",
         "iconSlug7": "n8n",
-        "handle": "@yourhandle"
+        "handle": ""
       }
     },
     {
@@ -56,7 +56,7 @@
         "iconSlug5": "apollo",
         "iconSlug6": "airtable",
         "iconSlug7": "zapier",
-        "handle": "@yourhandle"
+        "handle": ""
       }
     },
     {
@@ -75,7 +75,7 @@
         "iconSlug5": "linkedin",
         "iconSlug6": "tiktok",
         "iconSlug7": "youtube",
-        "handle": "@yourhandle"
+        "handle": ""
       }
     },
     {
@@ -94,7 +94,7 @@
         "iconSlug5": "notion",
         "iconSlug6": "hubspot",
         "iconSlug7": "airtable",
-        "handle": "@yourhandle"
+        "handle": ""
       }
     },
     {
@@ -113,7 +113,7 @@
         "iconSlug5": "gmail",
         "iconSlug6": "hubspot",
         "iconSlug7": "loom",
-        "handle": "@yourhandle"
+        "handle": ""
       }
     },
     {
@@ -132,7 +132,7 @@
         "iconSlug5": "slack",
         "iconSlug6": "openai",
         "iconSlug7": "perplexity",
-        "handle": "@yourhandle"
+        "handle": ""
       }
     },
     {
@@ -150,7 +150,7 @@
         "iconSlug6": "n8n",
         "iconSlug7": "notion",
         "iconSlug8": "slack",
-        "handle": "@yourhandle"
+        "handle": ""
       }
     }
   ]

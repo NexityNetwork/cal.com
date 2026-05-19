@@ -7,7 +7,7 @@
     {
       "layoutId": "cover-minimal-beauty",
       "slots": {
-        "handle": "@amaralin",
+        "handle": "",
         "author": "AMARA LIN",
         "role": "SKIN SPECIALIST",
         "titleLine1": "LUXURY FOR",
@@ -19,7 +19,7 @@
     {
       "layoutId": "body-minimal-beauty",
       "slots": {
-        "handle": "@amaralin",
+        "handle": "",
         "author": "AMARA LIN",
         "number": "STEP 01",
         "title": "FACIAL MASSAGE",
@@ -29,7 +29,7 @@
     {
       "layoutId": "body-minimal-beauty",
       "slots": {
-        "handle": "@amaralin",
+        "handle": "",
         "author": "AMARA LIN",
         "number": "STEP 02",
         "title": "AROMA STEAM",
@@ -39,7 +39,7 @@
     {
       "layoutId": "body-minimal-beauty",
       "slots": {
-        "handle": "@amaralin",
+        "handle": "",
         "author": "AMARA LIN",
         "number": "STEP 03",
         "title": "SCALP RITUAL",
@@ -49,7 +49,7 @@
     {
       "layoutId": "body-minimal-beauty",
       "slots": {
-        "handle": "@amaralin",
+        "handle": "",
         "author": "AMARA LIN",
         "number": "STEP 04",
         "title": "BODY POLISH",
@@ -59,7 +59,7 @@
     {
       "layoutId": "body-minimal-beauty",
       "slots": {
-        "handle": "@amaralin",
+        "handle": "",
         "author": "AMARA LIN",
         "number": "STEP 05",
         "title": "FOOT SOAK",
@@ -69,7 +69,7 @@
     {
       "layoutId": "body-minimal-beauty",
       "slots": {
-        "handle": "@amaralin",
+        "handle": "",
         "author": "AMARA LIN",
         "number": "STEP 06",
         "title": "EYE COMPRESS",
@@ -79,7 +79,7 @@
     {
       "layoutId": "cta-minimal-beauty",
       "slots": {
-        "handle": "@amaralin",
+        "handle": "",
         "author": "AMARA LIN",
         "role": "SKIN SPECIALIST",
         "eyebrow": "YOUR RITUAL",

@@ -7,9 +7,9 @@
     {
       "layoutId": "cover-swiss-grid",
       "slots": {
-        "brandTag": "THE LIST",
+        "brandTag": "",
         "issueMeta": "Issue 01 / 2026",
-        "handle": "@remotestack",
+        "handle": "",
         "heroNum": "6",
         "countLabel": "TOOLS",
         "eyebrow": "FOR REMOTE TEAMS",
@@ -30,7 +30,7 @@
       "slots": {
         "numLabel": "01",
         "sectionLabel": "THE ENGINE",
-        "handle": "@remotestack",
+        "handle": "",
         "title": "ISSUE",
         "titleAccent": "TRACKING",
         "subtitle": "A shared source of truth that replaces status meetings with clarity and momentum every single morning.",
@@ -55,7 +55,7 @@
       "slots": {
         "numLabel": "02",
         "sectionLabel": "THE LAUNCHER",
-        "handle": "@remotestack",
+        "handle": "",
         "title": "COMMAND",
         "titleAccent": "CENTER",
         "subtitle": "One keystroke to open Jira tickets, start Zoom rooms, or run scripts without leaving the keyboard.",
@@ -80,7 +80,7 @@
       "slots": {
         "numLabel": "03",
         "sectionLabel": "THE SHELL",
-        "handle": "@remotestack",
+        "handle": "",
         "title": "MODERN",
         "titleAccent": "TERMINAL",
         "subtitle": "A terminal rebuilt for collaboration, with shared sessions and AI command suggestions that actually understand context.",
@@ -105,7 +105,7 @@
       "slots": {
         "numLabel": "04",
         "sectionLabel": "THE PAIR",
-        "handle": "@remotestack",
+        "handle": "",
         "title": "REMOTE",
         "titleAccent": "PAIRING",
         "subtitle": "Screen sharing built for engineers, with multiple cursors, crystal audio, and zero friction to jump into code together.",
@@ -130,7 +130,7 @@
       "slots": {
         "numLabel": "05",
         "sectionLabel": "THE MEMO",
-        "handle": "@remotestack",
+        "handle": "",
         "title": "ASYNC",
         "titleAccent": "VIDEO",
         "subtitle": "Record, edit, and share updates by editing text instead of timelines, making video as malleable as a document.",
@@ -155,7 +155,7 @@
       "slots": {
         "numLabel": "06",
         "sectionLabel": "THE CLOCK",
-        "handle": "@remotestack",
+        "handle": "",
         "title": "FOCUSED",
         "titleAccent": "TIME",
         "subtitle": "Calendar defense that automates focus blocks across time zones, protecting deep work from the entropy of open offices.",
@@ -178,8 +178,8 @@
     {
       "layoutId": "cta-swiss-grid",
       "slots": {
-        "brandTag": "THE LIST",
-        "handle": "@remotestack",
+        "brandTag": "",
+        "handle": "",
         "eyebrow": "YOUR TURN",
         "ctaStamp": "SAVE",
         "ctaLine1": "BUILD YOUR",

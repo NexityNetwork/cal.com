@@ -8,7 +8,7 @@
       "layoutId": "cover-data-table",
       "slots": {
         "number": "01",
-        "handle": "@usevisuals",
+        "handle": "",
         "titleLine1": "The channel mix",
         "titleAccent": "to $1M ARR",
         "subtitle": "Real ROI data from every growth channel.",
@@ -24,7 +24,7 @@
       "layoutId": "body-data-table",
       "slots": {
         "number": "02",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "Meta Ads drove acquisition",
         "bigStat": "34%",
         "bigStatLabel": "Of total new MRR",
@@ -45,7 +45,7 @@
       "layoutId": "body-data-table",
       "slots": {
         "number": "03",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "Google Search converted best",
         "bigStat": "41%",
         "bigStatLabel": "Highest conversion rate",
@@ -66,7 +66,7 @@
       "layoutId": "body-data-table",
       "slots": {
         "number": "04",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "TikTok built brand awareness",
         "bigStat": "12x",
         "bigStatLabel": "Organic reach multiplier",
@@ -87,7 +87,7 @@
       "layoutId": "body-data-table",
       "slots": {
         "number": "05",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "Email nurtured every lead",
         "bigStat": "$18",
         "bigStatLabel": "Cost per acquisition",
@@ -108,7 +108,7 @@
       "layoutId": "body-data-table",
       "slots": {
         "number": "06",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "SEO became a moat",
         "bigStat": "280K",
         "bigStatLabel": "Monthly organic visits",
@@ -129,7 +129,7 @@
       "layoutId": "body-data-table",
       "slots": {
         "number": "07",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "Partners scaled revenue",
         "bigStat": "$210K",
         "bigStatLabel": "Partner sourced ARR",
@@ -150,7 +150,7 @@
       "layoutId": "cta-data-table",
       "slots": {
         "number": "08",
-        "handle": "@usevisuals",
+        "handle": "",
         "bigStat": "10x",
         "eyebrow": "THE RESULT",
         "headline": "Build your $1M channel mix",

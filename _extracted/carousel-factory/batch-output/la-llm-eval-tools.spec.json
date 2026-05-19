@@ -7,8 +7,8 @@
     {
       "layoutId": "cover-lime-accent",
       "slots": {
-        "brandTag": "EVAL STACK",
-        "handle": "factory.51ultron.com",
+        "brandTag": "",
+        "handle": "",
         "eyebrow": "2026 PICKS",
         "titleLine1": "6 LLM eval",
         "titleCallout": "tools",
@@ -27,7 +27,7 @@
       "layoutId": "body-lime-accent",
       "slots": {
         "numLabel": "TOOL 01",
-        "handle": "factory.51ultron.com",
+        "handle": "",
         "iconSlug1": "promptfoo",
         "toolName": "Promptfoo",
         "toolTag": "open source",
@@ -50,7 +50,7 @@
       "layoutId": "body-lime-accent",
       "slots": {
         "numLabel": "TOOL 02",
-        "handle": "factory.51ultron.com",
+        "handle": "",
         "iconSlug1": "langfuse",
         "toolName": "Langfuse",
         "toolTag": "essential",
@@ -73,7 +73,7 @@
       "layoutId": "body-lime-accent",
       "slots": {
         "numLabel": "TOOL 03",
-        "handle": "factory.51ultron.com",
+        "handle": "",
         "iconSlug1": "langchain",
         "toolName": "LangSmith",
         "toolTag": "prototyping",
@@ -96,7 +96,7 @@
       "layoutId": "body-lime-accent",
       "slots": {
         "numLabel": "TOOL 04",
-        "handle": "factory.51ultron.com",
+        "handle": "",
         "iconSlug1": "weightsandbiases",
         "toolName": "W&B Weave",
         "toolTag": "enterprise",
@@ -119,7 +119,7 @@
       "layoutId": "body-lime-accent",
       "slots": {
         "numLabel": "TOOL 05",
-        "handle": "factory.51ultron.com",
+        "handle": "",
         "iconSlug1": "trulens",
         "toolName": "TruLens",
         "toolTag": "RAG focus",
@@ -142,7 +142,7 @@
       "layoutId": "body-lime-accent",
       "slots": {
         "numLabel": "TOOL 06",
-        "handle": "factory.51ultron.com",
+        "handle": "",
         "iconSlug1": "arize",
         "toolName": "Arize Phoenix",
         "toolTag": "observability",
@@ -164,8 +164,8 @@
     {
       "layoutId": "cta-lime-accent",
       "slots": {
-        "brandTag": "WRAP",
-        "handle": "factory.51ultron.com",
+        "brandTag": "",
+        "handle": "",
         "eyebrow": "PICK YOUR STACK",
         "ctaLine1": "Ship safer",
         "ctaCallout": "today",

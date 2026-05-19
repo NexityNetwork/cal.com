@@ -7,103 +7,103 @@
     {
       "layoutId": "cover-noir-yellow",
       "slots": {
-        "brand": "THE AUTHOR EDIT",
+        "brand": "",
         "scriptPrefix": "Quiet",
         "displayLine1": "MORNING ROUTINES",
         "displayLine2": "OF 6 WRITERS",
         "displayLine3": "WHO SHIPPED",
         "scriptTagline": "Stealing dawn to type the final chapter.",
-        "handle": "@theauthoredit",
+        "handle": "",
         "slideId": "Slide 01"
       }
     },
     {
       "layoutId": "body-noir-yellow",
       "slots": {
-        "brand": "THE AUTHOR EDIT",
+        "brand": "",
         "scriptPrefix": "First",
         "displayLine1": "PEN AND PAPER",
         "displayLine2": "BEFORE THE SCREEN",
         "displayLine3": "AT 5:15 AM",
         "body": "She wakes in darkness and fills three pages by candlelight. Longhand clears the noise; the draft begins at seven.",
-        "handle": "@theauthoredit",
+        "handle": "",
         "slideId": "Slide 02"
       }
     },
     {
       "layoutId": "body-noir-yellow",
       "slots": {
-        "brand": "THE AUTHOR EDIT",
+        "brand": "",
         "scriptPrefix": "Stride",
         "displayLine1": "FOUR MILES",
         "displayLine2": "BEFORE SUNRISE",
         "displayLine3": "THEN THE DESK",
         "body": "He dictates notes into his phone while the city sleeps. By eight he has a scene outlined and ready.",
-        "handle": "@theauthoredit",
+        "handle": "",
         "slideId": "Slide 03"
       }
     },
     {
       "layoutId": "body-noir-yellow",
       "slots": {
-        "brand": "THE AUTHOR EDIT",
+        "brand": "",
         "scriptPrefix": "Laps",
         "displayLine1": "COLD WATER",
         "displayLine2": "THEN HOT COFFEE",
         "displayLine3": "THEN ONE THOUSAND WORDS",
         "body": "The pool opens at six; she is always first. Chlorine washes doubt away before the cursor starts blinking.",
-        "handle": "@theauthoredit",
+        "handle": "",
         "slideId": "Slide 04"
       }
     },
     {
       "layoutId": "body-noir-yellow",
       "slots": {
-        "brand": "THE AUTHOR EDIT",
+        "brand": "",
         "scriptPrefix": "Noise",
         "displayLine1": "SAME CORNER",
         "displayLine2": "SAME ESPRESSO",
         "displayLine3": "SAME WORD COUNT",
         "body": "He claims the back table by seven and buys one cup. The hum of strangers keeps his inner critic quiet.",
-        "handle": "@theauthoredit",
+        "handle": "",
         "slideId": "Slide 05"
       }
     },
     {
       "layoutId": "body-noir-yellow",
       "slots": {
-        "brand": "THE AUTHOR EDIT",
+        "brand": "",
         "scriptPrefix": "Stolen",
         "displayLine1": "4:30 ALARM",
         "displayLine2": "KITCHEN TABLE",
         "displayLine3": "CHAPTER BEFORE CHAOS",
         "body": "She writes until cereal bowls hit the counter. Ninety minutes of silence is enough to outrun a year of doubt.",
-        "handle": "@theauthoredit",
+        "handle": "",
         "slideId": "Slide 06"
       }
     },
     {
       "layoutId": "body-noir-yellow",
       "slots": {
-        "brand": "THE AUTHOR EDIT",
+        "brand": "",
         "scriptPrefix": "Still",
         "displayLine1": "GREEN TEA",
         "displayLine2": "ONE POEM",
         "displayLine3": "THEN PROSE",
         "body": "He reads Auden, then types exactly one scene. Slow mornings do not mean slow books; they mean steady ones.",
-        "handle": "@theauthoredit",
+        "handle": "",
         "slideId": "Slide 07"
       }
     },
     {
       "layoutId": "cta-noir-yellow",
       "slots": {
-        "brand": "THE AUTHOR EDIT",
+        "brand": "",
         "scriptPrefix": "Begin",
         "headline": "SHIP YOUR BOOK THIS YEAR",
         "scriptTagline": "Start tomorrow and finish before next spring.",
         "buttonLabel": "Start Today",
-        "handle": "@theauthoredit",
+        "handle": "",
         "slideId": "Slide 08"
       }
     }

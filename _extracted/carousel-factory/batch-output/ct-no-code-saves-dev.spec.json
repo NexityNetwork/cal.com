@@ -7,8 +7,8 @@
     {
       "layoutId": "cover-cream-table",
       "slots": {
-        "brandTag": "NO-CODE STACK",
-        "handle": "@startupstack",
+        "brandTag": "",
+        "handle": "",
         "eyebrow": "the only tools we use",
         "titleLine1": "6 no-code",
         "titleAccent": "replacements",
@@ -42,7 +42,7 @@
       "layoutId": "body-cream-table",
       "slots": {
         "numLabel": "TOOL 01",
-        "handle": "@startupstack",
+        "handle": "",
         "iconSlug1": "webflow",
         "toolName": "Webflow",
         "toolTagline": "The visual builder that outputs clean production-ready HTML and CSS.",
@@ -70,7 +70,7 @@
       "layoutId": "body-cream-table",
       "slots": {
         "numLabel": "TOOL 02",
-        "handle": "@startupstack",
+        "handle": "",
         "iconSlug1": "zapier",
         "toolName": "Zapier",
         "toolTagline": "Connects your favorite apps so data flows without writing custom middleware.",
@@ -98,7 +98,7 @@
       "layoutId": "body-cream-table",
       "slots": {
         "numLabel": "TOOL 03",
-        "handle": "@startupstack",
+        "handle": "",
         "iconSlug1": "airtable",
         "toolName": "Airtable",
         "toolTagline": "A flexible database that looks like a spreadsheet but scales like Postgres.",
@@ -126,7 +126,7 @@
       "layoutId": "body-cream-table",
       "slots": {
         "numLabel": "TOOL 04",
-        "handle": "@startupstack",
+        "handle": "",
         "iconSlug1": "bubble",
         "toolName": "Bubble",
         "toolTagline": "Full-stack web app development through a visual programming interface and logic builder.",
@@ -154,7 +154,7 @@
       "layoutId": "body-cream-table",
       "slots": {
         "numLabel": "TOOL 05",
-        "handle": "@startupstack",
+        "handle": "",
         "iconSlug1": "make",
         "toolName": "Make",
         "toolTagline": "Visual scenario builder for complex automations far beyond simple trigger-action logic.",
@@ -182,7 +182,7 @@
       "layoutId": "body-cream-table",
       "slots": {
         "numLabel": "TOOL 06",
-        "handle": "@startupstack",
+        "handle": "",
         "iconSlug1": "memberstack",
         "toolName": "Memberstack",
         "toolTagline": "Secure user authentication and payments gated behind beautiful no-code membership walls.",
@@ -209,8 +209,8 @@
     {
       "layoutId": "cta-cream-table",
       "slots": {
-        "brandTag": "WRAP",
-        "handle": "@startupstack",
+        "brandTag": "",
+        "handle": "",
         "eyebrow": "build like we did",
         "titleLine1": "Ship your startup",
         "titleAccent": "without code",

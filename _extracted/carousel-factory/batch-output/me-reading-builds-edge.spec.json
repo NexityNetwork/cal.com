@@ -7,9 +7,9 @@
     {
       "layoutId": "cover-mag-editorial",
       "slots": {
-        "brandTag": "DEEP DIVE",
+        "brandTag": "",
         "issueLine": "Issue 01 · 2026",
-        "handle": "@alexrivera",
+        "handle": "",
         "eyebrow": "ONE YEAR FIFTY TWO BOOKS",
         "headLine1": "Six",
         "headAccent": "essential",
@@ -33,7 +33,7 @@
       "slots": {
         "numLabel": "02",
         "sectionLabel": "THE MINDSET",
-        "handle": "@alexrivera",
+        "handle": "",
         "title": "Decisions are",
         "titleAccent": "just bets",
         "subtitle": "Annie Duke taught me to separate outcome quality from decision quality in seconds.",
@@ -63,7 +63,7 @@
       "slots": {
         "numLabel": "03",
         "sectionLabel": "THE PHILOSOPHY",
-        "handle": "@alexrivera",
+        "handle": "",
         "title": "Pursue leverage",
         "titleAccent": "not labor",
         "subtitle": "Naval’s almanack reframed how I value my time, equity, and creative output.",
@@ -93,7 +93,7 @@
       "slots": {
         "numLabel": "04",
         "sectionLabel": "THE PLAYBOOK",
-        "handle": "@alexrivera",
+        "handle": "",
         "title": "Manage for",
         "titleAccent": "high output",
         "subtitle": "Andy Grove’s factory logic applies directly to remote teams and product velocity.",
@@ -123,7 +123,7 @@
       "slots": {
         "numLabel": "05",
         "sectionLabel": "THE SYSTEM",
-        "handle": "@alexrivera",
+        "handle": "",
         "title": "Design your",
         "titleAccent": "default day",
         "subtitle": "James Clear showed me that systems beat goals when the pressure spikes.",
@@ -153,7 +153,7 @@
       "slots": {
         "numLabel": "06",
         "sectionLabel": "THE STRUGGLE",
-        "handle": "@alexrivera",
+        "handle": "",
         "title": "Embrace the",
         "titleAccent": "hard things",
         "subtitle": "Ben Horowitz taught me that founder pain is the tuition for real leadership.",
@@ -183,7 +183,7 @@
       "slots": {
         "numLabel": "07",
         "sectionLabel": "THE REALITY",
-        "handle": "@alexrivera",
+        "handle": "",
         "title": "Accept your",
         "titleAccent": "finite time",
         "subtitle": "Oliver Burkeman helped me stop optimizing and start choosing what to neglect.",
@@ -211,8 +211,8 @@
     {
       "layoutId": "cta-mag-editorial",
       "slots": {
-        "brandTag": "WRAP",
-        "handle": "@alexrivera",
+        "brandTag": "",
+        "handle": "",
         "eyebrow": "Take this with you",
         "ctaLine1": "Save",
         "ctaAccent": "this list",

@@ -7,106 +7,106 @@
     {
       "layoutId": "cover-cream-gold",
       "slots": {
-        "brand": "MORGAN ST. CLAIR",
+        "brand": "",
         "issueLabel": "A Reflection",
         "eyebrow": "ON MONEY & MEANING",
         "titleLine1": "The",
         "titleLine2": "Quiet",
         "titleLine3": "Rules",
         "subtitle": "Six uncommon lessons on wealth, purpose, and the discipline of knowing when you have enough.",
-        "handle": "@morganstclair",
+        "handle": "",
         "slideCount": "6"
       }
     },
     {
       "layoutId": "body-cream-gold",
       "slots": {
-        "brand": "MORGAN ST. CLAIR",
+        "brand": "",
         "pageOf": "ii / viii",
         "number": "I",
         "numberLabel": "Lesson",
         "titleMain": "Wealth Is",
         "titleItalic": "Quiet Optionality",
         "body": "The richest minds I know do not flaunt; they preserve choice. Money becomes power only when it buys time, silence, and the freedom to decline.",
-        "handle": "@morganstclair"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-cream-gold",
       "slots": {
-        "brand": "MORGAN ST. CLAIR",
+        "brand": "",
         "pageOf": "iii / viii",
         "number": "II",
         "numberLabel": "Lesson",
         "titleMain": "Enough Is a",
         "titleItalic": "Chosen Threshold",
         "body": "There is no algorithm that calculates satisfaction. The wealthy determine their finish line early, then defend it against the infinite appetite of more.",
-        "handle": "@morganstclair"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-cream-gold",
       "slots": {
-        "brand": "MORGAN ST. CLAIR",
+        "brand": "",
         "pageOf": "iv / viii",
         "number": "III",
         "numberLabel": "Lesson",
         "titleMain": "Safety Without",
         "titleItalic": "Purpose Decays",
         "body": "Fortress balance sheets cannot cure the ache of insignificance. The people I admire most deploy capital toward legacy, not merely toward longer comfort.",
-        "handle": "@morganstclair"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-cream-gold",
       "slots": {
-        "brand": "MORGAN ST. CLAIR",
+        "brand": "",
         "pageOf": "v / viii",
         "number": "IV",
         "numberLabel": "Lesson",
         "titleMain": "Time Is the",
         "titleItalic": "Final Currency",
         "body": "You can replenish capital, but not the decades spent chasing it. The wisest investors I know treat every hour as a line item on their ledger.",
-        "handle": "@morganstclair"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-cream-gold",
       "slots": {
-        "brand": "MORGAN ST. CLAIR",
+        "brand": "",
         "pageOf": "vi / viii",
         "number": "V",
         "numberLabel": "Lesson",
         "titleMain": "Trust Scales",
         "titleItalic": "Beyond Capital",
         "body": "Net worth is a poor proxy for network depth. True wealth compounds in rooms where your name is currency and your word is collateral.",
-        "handle": "@morganstclair"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-cream-gold",
       "slots": {
-        "brand": "MORGAN ST. CLAIR",
+        "brand": "",
         "pageOf": "vii / viii",
         "number": "VI",
         "numberLabel": "Lesson",
         "titleMain": "Wealth Is a",
         "titleItalic": "Borrowed Trust",
         "body": "Privilege without duty becomes vulgarity. Those who last understand that fortune is not owned; it is held in stewardship for the generations yet unseen.",
-        "handle": "@morganstclair"
+        "handle": ""
       }
     },
     {
       "layoutId": "cta-cream-gold",
       "slots": {
-        "brand": "MORGAN ST. CLAIR",
+        "brand": "",
         "pageOf": "viii / viii",
         "eyebrow": "A FINAL WORD",
         "headlineMain": "Define Your",
         "headlineItalic": "Own Enough",
         "body": "Wealth is a mindset long before it is a number. Choose your finish line with intention.",
         "buttonLabel": "SAVE THIS POST",
-        "handle": "@morganstclair"
+        "handle": ""
       }
     }
   ]

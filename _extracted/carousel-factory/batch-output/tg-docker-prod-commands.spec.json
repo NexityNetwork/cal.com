@@ -7,8 +7,8 @@
     {
       "layoutId": "cover-terminal-glow",
       "slots": {
-        "brandTag": "DOCKER OPS",
-        "handle": "@dockercraft",
+        "brandTag": "",
+        "handle": "",
         "termTitle": "~/prod/docker-emergency.sh",
         "cmdLine": "docker ps --filter health=unhealthy",
         "outLine": "found 3 containers with",
@@ -38,7 +38,7 @@
       "layoutId": "body-terminal-glow",
       "slots": {
         "numLabel": "CMD 01",
-        "handle": "@dockercraft",
+        "handle": "",
         "sectionLabel": "TRICK 01",
         "title": "Inspect live",
         "titleAccent": "container stats",
@@ -73,7 +73,7 @@
       "layoutId": "body-terminal-glow",
       "slots": {
         "numLabel": "CMD 02",
-        "handle": "@dockercraft",
+        "handle": "",
         "sectionLabel": "TRICK 02",
         "title": "Tail logs with",
         "titleAccent": "timestamps",
@@ -108,7 +108,7 @@
       "layoutId": "body-terminal-glow",
       "slots": {
         "numLabel": "CMD 03",
-        "handle": "@dockercraft",
+        "handle": "",
         "sectionLabel": "TRICK 03",
         "title": "Exec into",
         "titleAccent": "running pods",
@@ -143,7 +143,7 @@
       "layoutId": "body-terminal-glow",
       "slots": {
         "numLabel": "CMD 04",
-        "handle": "@dockercraft",
+        "handle": "",
         "sectionLabel": "TRICK 04",
         "title": "Prune hidden",
         "titleAccent": "disk killers",
@@ -178,7 +178,7 @@
       "layoutId": "body-terminal-glow",
       "slots": {
         "numLabel": "CMD 05",
-        "handle": "@dockercraft",
+        "handle": "",
         "sectionLabel": "TRICK 05",
         "title": "Map hidden",
         "titleAccent": "network paths",
@@ -213,7 +213,7 @@
       "layoutId": "body-terminal-glow",
       "slots": {
         "numLabel": "CMD 06",
-        "handle": "@dockercraft",
+        "handle": "",
         "sectionLabel": "TRICK 06",
         "title": "Auto-heal with",
         "titleAccent": "health checks",
@@ -247,8 +247,8 @@
     {
       "layoutId": "cta-terminal-glow",
       "slots": {
-        "brandTag": "DOCKER OPS",
-        "handle": "@dockercraft",
+        "brandTag": "",
+        "handle": "",
         "intro": "now go ship containers",
         "ctaLine1": "Save this",
         "ctaAccent": "docker stack",

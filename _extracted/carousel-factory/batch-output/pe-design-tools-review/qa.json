@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/pe-design-tools-review/slide-01.png",
-      "bytes": 131737,
+      "bytes": 126262,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -19,7 +19,7 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/pe-design-tools-review/slide-02.png",
-      "bytes": 132239,
+      "bytes": 146265,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -35,7 +35,7 @@
     {
       "index": 2,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/pe-design-tools-review/slide-03.png",
-      "bytes": 131799,
+      "bytes": 145648,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -51,7 +51,7 @@
     {
       "index": 3,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/pe-design-tools-review/slide-04.png",
-      "bytes": 138136,
+      "bytes": 152213,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -67,7 +67,7 @@
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/pe-design-tools-review/slide-05.png",
-      "bytes": 131430,
+      "bytes": 145102,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -83,7 +83,7 @@
     {
       "index": 5,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/pe-design-tools-review/slide-06.png",
-      "bytes": 132640,
+      "bytes": 147245,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -99,7 +99,7 @@
     {
       "index": 6,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/pe-design-tools-review/slide-07.png",
-      "bytes": 129031,
+      "bytes": 145011,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -115,7 +115,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/pe-design-tools-review/slide-08.png",
-      "bytes": 99974,
+      "bytes": 94615,
       "qa": {
         "verdict": "pass",
         "checks": {

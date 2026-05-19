@@ -1,0 +1,93 @@
+{
+  "id": "fdr-enough-is-enough",
+  "brand": "Enough",
+  "brief": "Enough is a number. Why setting your enough number changes everything about how you build, price, and choose what to ignore.",
+  "theme": "beige-paper",
+  "slides": [
+    {
+      "layoutId": "cover-beige-serif",
+      "slots": {
+        "brand": "",
+        "headline": "The Exact Number That Changes How You Build and Price",
+        "slideCountHero": "6"
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "",
+        "number": "01",
+        "title": "Define Your Enough",
+        "body": "Enough is not a mood. It is a specific annual number covering your baseline, margin, and growth. Write it down before you price anything. This clarity becomes the filter for every decision.",
+        "handle": "",
+        "domain": ""
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "",
+        "number": "02",
+        "title": "Build With Boundaries",
+        "body": "When you know your number, features become choices, not obligations. You stop building for everyone and start solving for profit. Constraints create better products.",
+        "handle": "",
+        "domain": ""
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "",
+        "number": "03",
+        "title": "Price For Freedom",
+        "body": "Your enough number reveals the minimum viable price for every offer. Below it, you trade time for stress. Above it, you buy back your life.",
+        "handle": "",
+        "domain": ""
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "",
+        "number": "04",
+        "title": "Choose What To Ignore",
+        "body": "Every opportunity beyond your number is a distraction in disguise. Ignoring it is not laziness; it is strategy. Saying no protects your margin.",
+        "handle": "",
+        "domain": ""
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "",
+        "number": "05",
+        "title": "Profit Is The Point",
+        "body": "Revenue without an enough target is just vanity. Profit becomes predictable when your pricing is anchored to a real number. Stop guessing. Start keeping.",
+        "handle": "",
+        "domain": ""
+      }
+    },
+    {
+      "layoutId": "body-beige-bubble",
+      "slots": {
+        "brand": "",
+        "number": "06",
+        "title": "Sustain Your Energy",
+        "body": "Burnout follows ambition without a finish line. Your enough number is that finish line. Cross it, rest, and repeat on your own terms.",
+        "handle": "",
+        "domain": ""
+      }
+    },
+    {
+      "layoutId": "cta-beige-serif",
+      "slots": {
+        "brand": "",
+        "eyebrow": "SET YOUR ENOUGH",
+        "headline": "Anchor Your Pricing To Freedom",
+        "body": "Stop guessing what success looks like. Define your enough number and build a business that finally respects your time.",
+        "buttonLabel": "DEFINE YOUR NUMBER",
+        "handle": ""
+      }
+    }
+  ]
+}

@@ -12,7 +12,7 @@
         "titleLine3": "ship this weekend",
         "authorInitials": "SF",
         "authorName": "Solo Foundr",
-        "handle": "@bootstrapsolo",
+        "handle": "",
         "avatarBg1": "#E07A5F",
         "avatarBg2": "#264653",
         "pageOf": "01 - 08"
@@ -101,7 +101,7 @@
       "slots": {
         "tagline": "Real numbers, real weekends. Solo founder revenue starts with one shipped product.",
         "ctaQuestion": "Ready to ship your first income stream ?",
-        "handle": "@bootstrapsolo",
+        "handle": "",
         "pageOf": "08 - 08"
       }
     }

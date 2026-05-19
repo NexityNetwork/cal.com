@@ -7,7 +7,7 @@
     {
       "layoutId": "cover-condensed-pill",
       "slots": {
-        "brand": "ALEX CHEN",
+        "brand": "",
         "preLine": "Why I",
         "pillText": "QUIT",
         "postLine": "my 9-to-5 job",
@@ -17,7 +17,7 @@
     {
       "layoutId": "body-condensed-pill",
       "slots": {
-        "brand": "ALEX CHEN",
+        "brand": "",
         "number": "01",
         "numberLabel": "Catalyst",
         "title": "SNAP POINT",
@@ -28,7 +28,7 @@
     {
       "layoutId": "body-condensed-pill",
       "slots": {
-        "brand": "ALEX CHEN",
+        "brand": "",
         "number": "02",
         "numberLabel": "Mistake",
         "title": "NO PLAN",
@@ -39,7 +39,7 @@
     {
       "layoutId": "body-condensed-pill",
       "slots": {
-        "brand": "ALEX CHEN",
+        "brand": "",
         "number": "03",
         "numberLabel": "Pivot",
         "title": "SKILL FIRST",
@@ -50,7 +50,7 @@
     {
       "layoutId": "body-condensed-pill",
       "slots": {
-        "brand": "ALEX CHEN",
+        "brand": "",
         "number": "04",
         "numberLabel": "Buffer",
         "title": "SAVE FIRST",
@@ -61,7 +61,7 @@
     {
       "layoutId": "body-condensed-pill",
       "slots": {
-        "brand": "ALEX CHEN",
+        "brand": "",
         "number": "05",
         "numberLabel": "Network",
         "title": "TALK EARLY",
@@ -72,7 +72,7 @@
     {
       "layoutId": "body-condensed-pill",
       "slots": {
-        "brand": "ALEX CHEN",
+        "brand": "",
         "number": "06",
         "numberLabel": "Reality",
         "title": "WORTH IT",
@@ -83,7 +83,7 @@
     {
       "layoutId": "cta-condensed-pill",
       "slots": {
-        "brand": "ALEX CHEN",
+        "brand": "",
         "eyebrow": "YOUR TURN",
         "headline": "GO",
         "body": "Quit the dream of quitting blindly; build the runway first, then leap with your eyes wide open.",

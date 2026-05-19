@@ -8,7 +8,7 @@
       "layoutId": "cover-photo-tag",
       "slots": {
         "tag": "POWER MODE",
-        "handle": "@cursorstack",
+        "handle": "",
         "featGlyph": "⚡",
         "featLabel": "TRENDING",
         "featName": "AI Workflows",
@@ -34,7 +34,7 @@
       "layoutId": "body-photo-tag",
       "slots": {
         "numLabel": "FEAT 01",
-        "handle": "@cursorstack",
+        "handle": "",
         "iconSlug1": "cursor",
         "toolName": "Inline Edit",
         "toolTagline": "Edit code without leaving your flow state.",
@@ -70,7 +70,7 @@
       "layoutId": "body-photo-tag",
       "slots": {
         "numLabel": "FEAT 02",
-        "handle": "@cursorstack",
+        "handle": "",
         "iconSlug1": "cursor",
         "toolName": "Composer",
         "toolTagline": "Ship multi-file refactors in one shot.",
@@ -106,7 +106,7 @@
       "layoutId": "body-photo-tag",
       "slots": {
         "numLabel": "FEAT 03",
-        "handle": "@cursorstack",
+        "handle": "",
         "iconSlug1": "cursor",
         "toolName": "Context",
         "toolTagline": "Pull context from docs, web, and codebase.",
@@ -142,7 +142,7 @@
       "layoutId": "body-photo-tag",
       "slots": {
         "numLabel": "FEAT 04",
-        "handle": "@cursorstack",
+        "handle": "",
         "iconSlug1": "cursor",
         "toolName": "Terminal AI",
         "toolTagline": "Natural language meets your shell.",
@@ -178,7 +178,7 @@
       "layoutId": "body-photo-tag",
       "slots": {
         "numLabel": "FEAT 05",
-        "handle": "@cursorstack",
+        "handle": "",
         "iconSlug1": "cursor",
         "toolName": "Cursor Tab",
         "toolTagline": "Finish your thoughts before you think them.",
@@ -214,7 +214,7 @@
       "layoutId": "body-photo-tag",
       "slots": {
         "numLabel": "FEAT 06",
-        "handle": "@cursorstack",
+        "handle": "",
         "iconSlug1": "cursor",
         "toolName": "AI Debug",
         "toolTagline": "Catch the bugs you would have shipped.",
@@ -250,7 +250,7 @@
       "layoutId": "cta-photo-tag",
       "slots": {
         "tag": "WRAP",
-        "handle": "@cursorstack",
+        "handle": "",
         "eyebrow": "stop coding harder",
         "ctaLine1": "Start shipping",
         "ctaAccent": "90 min",

@@ -23,14 +23,14 @@
         "toolRole5": "Billing & Payments",
         "toolRole6": "Async Delivery",
         "ctaText": "Read the breakdown",
-        "handle": "@indiestack"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-stack-tour",
       "slots": {
         "slideLabel": "TOOL 01",
-        "handle": "@indiestack",
+        "handle": "",
         "iconSlug1": "notion",
         "toolTagline": "Your agency brain and client wiki.",
         "description": "Notion houses SOPs, proposals, and project timelines in one linked workspace you control.",
@@ -51,7 +51,7 @@
       "layoutId": "body-stack-tour",
       "slots": {
         "slideLabel": "TOOL 02",
-        "handle": "@indiestack",
+        "handle": "",
         "iconSlug1": "figma",
         "toolTagline": "Design systems and client reviews.",
         "description": "Figma lets you mock, prototype, and gather comments in real time without endless email chains.",
@@ -72,7 +72,7 @@
       "layoutId": "body-stack-tour",
       "slots": {
         "slideLabel": "TOOL 03",
-        "handle": "@indiestack",
+        "handle": "",
         "iconSlug1": "webflow",
         "toolTagline": "No-code sites that scale.",
         "description": "Webflow turns your designs into production-ready sites with CMS, hosting, and client handoff built in.",
@@ -93,7 +93,7 @@
       "layoutId": "body-stack-tour",
       "slots": {
         "slideLabel": "TOOL 04",
-        "handle": "@indiestack",
+        "handle": "",
         "iconSlug1": "make",
         "toolTagline": "Automate the repetitive tasks.",
         "description": "Make links your tools so invoices, tasks, and alerts run on autopilot while you sleep.",
@@ -114,7 +114,7 @@
       "layoutId": "body-stack-tour",
       "slots": {
         "slideLabel": "TOOL 05",
-        "handle": "@indiestack",
+        "handle": "",
         "iconSlug1": "stripe",
         "toolTagline": "Invoices, subscriptions, and checkout.",
         "description": "Stripe handles billing, tax, and subscriptions so you invoice once and cash flows forever.",
@@ -135,7 +135,7 @@
       "layoutId": "body-stack-tour",
       "slots": {
         "slideLabel": "TOOL 06",
-        "handle": "@indiestack",
+        "handle": "",
         "iconSlug1": "loom",
         "toolTagline": "Async video walkthroughs that impress.",
         "description": "Loom replaces meetings with quick videos for feedback, demos, and delivery clients actually watch.",
@@ -156,7 +156,7 @@
       "layoutId": "cta-stack-tour",
       "slots": {
         "pageOf": "08 / 08",
-        "handle": "@indiestack",
+        "handle": "",
         "eyebrow": "YOUR TURN",
         "headlineLine1": "Build your stack",
         "headlineLine2": "Run it solo",

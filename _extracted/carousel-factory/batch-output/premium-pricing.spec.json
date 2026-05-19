@@ -7,106 +7,106 @@
     {
       "layoutId": "cover-cream-gold",
       "slots": {
-        "brand": "ALEXANDER REED",
+        "brand": "",
         "issueLabel": "No. 01",
         "eyebrow": "ON PRICING & POWER",
         "titleLine1": "The",
         "titleLine2": "Five",
         "titleLine3": "Shifts",
         "subtitle": "How I raised my rate to $1,200 an hour by changing five beliefs about value.",
-        "handle": "@alexanderreed",
+        "handle": "",
         "slideCount": "8"
       }
     },
     {
       "layoutId": "body-cream-gold",
       "slots": {
-        "brand": "ALEXANDER REED",
+        "brand": "",
         "pageOf": "2 / 8",
         "number": "I",
         "numberLabel": "Preface",
         "titleMain": "The Hourly",
         "titleItalic": "Trap",
         "body": "I once believed more hours meant more value. True leverage comes from solving in minutes what others take weeks to untangle.",
-        "handle": "@alexanderreed"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-cream-gold",
       "slots": {
-        "brand": "ALEXANDER REED",
+        "brand": "",
         "pageOf": "3 / 8",
         "number": "II",
         "numberLabel": "Shift",
         "titleMain": "Price the",
         "titleItalic": "Outcome",
         "body": "Clients do not pay for your time; they pay for the transformation. When I anchored fees to results, objections became irrelevant.",
-        "handle": "@alexanderreed"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-cream-gold",
       "slots": {
-        "brand": "ALEXANDER REED",
+        "brand": "",
         "pageOf": "4 / 8",
         "number": "III",
         "numberLabel": "Shift",
         "titleMain": "Rejection Is a",
         "titleItalic": "Filter",
         "body": "Every no cleared space for a yes that matched my caliber. I stopped negotiating and started curating who entered my orbit.",
-        "handle": "@alexanderreed"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-cream-gold",
       "slots": {
-        "brand": "ALEXANDER REED",
+        "brand": "",
         "pageOf": "5 / 8",
         "number": "IV",
         "numberLabel": "Shift",
         "titleMain": "Fees Shape",
         "titleItalic": "Focus",
         "body": "High fees command high attention. The moment I tripled my rate, clients implemented faster, respected boundaries, and took the work seriously.",
-        "handle": "@alexanderreed"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-cream-gold",
       "slots": {
-        "brand": "ALEXANDER REED",
+        "brand": "",
         "pageOf": "6 / 8",
         "number": "V",
         "numberLabel": "Shift",
         "titleMain": "Confidence Is",
         "titleItalic": "Priced In",
         "body": "I learned to invoice before I felt ready. Trust in your own signal is the invisible line item that justifies premium pricing.",
-        "handle": "@alexanderreed"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-cream-gold",
       "slots": {
-        "brand": "ALEXANDER REED",
+        "brand": "",
         "pageOf": "7 / 8",
         "number": "VI",
         "numberLabel": "Shift",
         "titleMain": "Scarcity Is a",
         "titleItalic": "Strategy",
         "body": "Availability is not a virtue. I built a quiet waiting list, and desire grew precisely because access was no longer guaranteed.",
-        "handle": "@alexanderreed"
+        "handle": ""
       }
     },
     {
       "layoutId": "cta-cream-gold",
       "slots": {
-        "brand": "ALEXANDER REED",
+        "brand": "",
         "pageOf": "8 / 8",
         "eyebrow": "A FINAL WORD",
         "headlineMain": "Raise the",
         "headlineItalic": "Standard",
         "body": "Your rate is a declaration of how you see yourself. Change the belief, and the number follows without resistance.",
         "buttonLabel": "SAVE THIS POST",
-        "handle": "@alexanderreed"
+        "handle": ""
       }
     }
   ]

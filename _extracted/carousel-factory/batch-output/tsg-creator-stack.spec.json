@@ -8,7 +8,7 @@
       "layoutId": "cover-tech-stack-grid",
       "slots": {
         "tag": "MY STACK",
-        "handle": "creator.51ultron.com",
+        "handle": "",
         "eyebrow": "produce, schedule, monetize",
         "titleLine1": "six tools that",
         "titleAccent": "ship on autopilot",
@@ -46,7 +46,7 @@
         "iconSlug3": "loom",
         "iconSlug4": "make",
         "iconSlug5": "youtube",
-        "domainText": "creator.51ultron.com",
+        "domainText": "",
         "pageOf": "02 / 08"
       }
     },
@@ -69,7 +69,7 @@
         "iconSlug3": "notion",
         "iconSlug4": "youtube",
         "iconSlug5": "make",
-        "domainText": "creator.51ultron.com",
+        "domainText": "",
         "pageOf": "03 / 08"
       }
     },
@@ -92,7 +92,7 @@
         "iconSlug3": "loom",
         "iconSlug4": "make",
         "iconSlug5": "stripe",
-        "domainText": "creator.51ultron.com",
+        "domainText": "",
         "pageOf": "04 / 08"
       }
     },
@@ -115,7 +115,7 @@
         "iconSlug3": "youtube",
         "iconSlug4": "tiktok",
         "iconSlug5": "instagram",
-        "domainText": "creator.51ultron.com",
+        "domainText": "",
         "pageOf": "05 / 08"
       }
     },
@@ -138,7 +138,7 @@
         "iconSlug3": "notion",
         "iconSlug4": "loom",
         "iconSlug5": "make",
-        "domainText": "creator.51ultron.com",
+        "domainText": "",
         "pageOf": "06 / 08"
       }
     },
@@ -161,7 +161,7 @@
         "iconSlug3": "notion",
         "iconSlug4": "make",
         "iconSlug5": "youtube",
-        "domainText": "creator.51ultron.com",
+        "domainText": "",
         "pageOf": "07 / 08"
       }
     },
@@ -169,7 +169,7 @@
       "layoutId": "cta-tech-stack-grid",
       "slots": {
         "tag": "WRAP",
-        "handle": "creator.51ultron.com",
+        "handle": "",
         "eyebrow": "build your autopilot",
         "ctaLine1": "steal this",
         "ctaLine2": "creator stack",
@@ -182,7 +182,7 @@
         "iconSlug6": "stripe",
         "btnPrimary": "Get Started",
         "btnGhost": "View Guide",
-        "domainText": "creator.51ultron.com",
+        "domainText": "",
         "pageOf": "08 / 08"
       }
     }

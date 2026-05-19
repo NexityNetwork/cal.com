@@ -8,7 +8,7 @@
       "layoutId": "cover-tech-stack-grid",
       "slots": {
         "tag": "MY STACK",
-        "handle": "loop.51ultron.com",
+        "handle": "",
         "eyebrow": "hear users, ship faster",
         "titleLine1": "Feedback to shipped",
         "titleAccent": "tools that ship",
@@ -46,7 +46,7 @@
         "iconSlug3": "notion",
         "iconSlug4": "loom",
         "iconSlug5": "linear",
-        "domainText": "loop.51ultron.com",
+        "domainText": "",
         "pageOf": "02 / 08"
       }
     },
@@ -69,7 +69,7 @@
         "iconSlug3": "notion",
         "iconSlug4": "linear",
         "iconSlug5": "loom",
-        "domainText": "loop.51ultron.com",
+        "domainText": "",
         "pageOf": "03 / 08"
       }
     },
@@ -92,7 +92,7 @@
         "iconSlug3": "make",
         "iconSlug4": "figma",
         "iconSlug5": "linear",
-        "domainText": "loop.51ultron.com",
+        "domainText": "",
         "pageOf": "04 / 08"
       }
     },
@@ -115,7 +115,7 @@
         "iconSlug3": "linear",
         "iconSlug4": "loom",
         "iconSlug5": "airtable",
-        "domainText": "loop.51ultron.com",
+        "domainText": "",
         "pageOf": "05 / 08"
       }
     },
@@ -138,7 +138,7 @@
         "iconSlug3": "make",
         "iconSlug4": "figma",
         "iconSlug5": "loom",
-        "domainText": "loop.51ultron.com",
+        "domainText": "",
         "pageOf": "06 / 08"
       }
     },
@@ -161,7 +161,7 @@
         "iconSlug3": "notion",
         "iconSlug4": "linear",
         "iconSlug5": "make",
-        "domainText": "loop.51ultron.com",
+        "domainText": "",
         "pageOf": "07 / 08"
       }
     },
@@ -169,7 +169,7 @@
       "layoutId": "cta-tech-stack-grid",
       "slots": {
         "tag": "WRAP",
-        "handle": "loop.51ultron.com",
+        "handle": "",
         "eyebrow": "ready to ship faster",
         "ctaLine1": "Build your loop",
         "ctaLine2": "start today",
@@ -182,7 +182,7 @@
         "iconSlug6": "loom",
         "btnPrimary": "Get the stack",
         "btnGhost": "View templates",
-        "domainText": "loop.51ultron.com",
+        "domainText": "",
         "pageOf": "08 / 08"
       }
     }

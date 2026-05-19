@@ -7,7 +7,7 @@
     {
       "layoutId": "cover-photo-split",
       "slots": {
-        "brand": "SYSTEM STUDIO",
+        "brand": "",
         "headline": "Why every brand needs a design system in 2026",
         "swipeNote": "Swipe through six steps to build yours now"
       }
@@ -15,7 +15,7 @@
     {
       "layoutId": "body-photo-split",
       "slots": {
-        "brand": "SYSTEM STUDIO",
+        "brand": "",
         "number": "01",
         "eyebrow": "CORE STEP",
         "title": "Audit your existing brand assets first",
@@ -25,7 +25,7 @@
     {
       "layoutId": "body-photo-split",
       "slots": {
-        "brand": "SYSTEM STUDIO",
+        "brand": "",
         "number": "02",
         "eyebrow": "CORE STEP",
         "title": "Define tokens for colors and type",
@@ -35,7 +35,7 @@
     {
       "layoutId": "body-photo-split",
       "slots": {
-        "brand": "SYSTEM STUDIO",
+        "brand": "",
         "number": "03",
         "eyebrow": "CORE STEP",
         "title": "Build reusable components in Figma",
@@ -45,7 +45,7 @@
     {
       "layoutId": "body-photo-split",
       "slots": {
-        "brand": "SYSTEM STUDIO",
+        "brand": "",
         "number": "04",
         "eyebrow": "CORE STEP",
         "title": "Write docs that your team will use",
@@ -55,7 +55,7 @@
     {
       "layoutId": "body-photo-split",
       "slots": {
-        "brand": "SYSTEM STUDIO",
+        "brand": "",
         "number": "05",
         "eyebrow": "CORE STEP",
         "title": "Train teams to adopt the system",
@@ -65,7 +65,7 @@
     {
       "layoutId": "body-photo-split",
       "slots": {
-        "brand": "SYSTEM STUDIO",
+        "brand": "",
         "number": "06",
         "eyebrow": "CORE STEP",
         "title": "Iterate based on real product needs",
@@ -75,7 +75,7 @@
     {
       "layoutId": "cta-photo-split",
       "slots": {
-        "brand": "SYSTEM STUDIO",
+        "brand": "",
         "quote": "Consistency is the fastest way to scale",
         "eyebrow": "YOUR MOVE",
         "headline": "Start building your design system today",

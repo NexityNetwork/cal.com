@@ -8,7 +8,7 @@
       "layoutId": "cover-before-after",
       "slots": {
         "pageOf": "01 / 08",
-        "handle": "@linear",
+        "handle": "",
         "title": "Stop managing",
         "titleAccent": "work in docs",
         "description": "We ditched Notion for Linear. Here's what improved, what stayed the same, and what we actually regret.",
@@ -30,7 +30,7 @@
       "layoutId": "body-before-after",
       "slots": {
         "slideLabel": "STEP 01 / 06",
-        "handle": "@linear",
+        "handle": "",
         "title": "Projects got",
         "titleAccent": "a real timeline",
         "description": "Notion flexed for everything but broke under speed. Linear gave us structure without the bloat.",
@@ -52,7 +52,7 @@
       "layoutId": "body-before-after",
       "slots": {
         "slideLabel": "STEP 02 / 06",
-        "handle": "@linear",
+        "handle": "",
         "title": "Ownership turned",
         "titleAccent": "crystal clear",
         "description": "In Notion, anyone could edit. In Linear, someone is always assigned. No more ghost tasks.",
@@ -74,7 +74,7 @@
       "layoutId": "body-before-after",
       "slots": {
         "slideLabel": "STEP 03 / 06",
-        "handle": "@linear",
+        "handle": "",
         "title": "Speed won",
         "titleAccent": "over flexibility",
         "description": "Keyboard shortcuts and cmd+k made Linear feel like a dev tool. Notion felt like a CMS.",
@@ -96,7 +96,7 @@
       "layoutId": "body-before-after",
       "slots": {
         "slideLabel": "STEP 04 / 06",
-        "handle": "@linear",
+        "handle": "",
         "title": "Docs still",
         "titleAccent": "live in Notion",
         "description": "Linear replaced our roadmap, not our wiki. We regret trying to move everything.",
@@ -118,7 +118,7 @@
       "layoutId": "body-before-after",
       "slots": {
         "slideLabel": "STEP 05 / 06",
-        "handle": "@linear",
+        "handle": "",
         "title": "Adoption still",
         "titleAccent": "takes patience",
         "description": "Linear is opinionated. The team resisted for two weeks. Change is never instant.",
@@ -140,7 +140,7 @@
       "layoutId": "body-before-after",
       "slots": {
         "slideLabel": "STEP 06 / 06",
-        "handle": "@linear",
+        "handle": "",
         "title": "Insights finally",
         "titleAccent": "tell the truth",
         "description": "Notion had no analytics. Linear shows cycle velocity, backlog growth, and real capacity.",
@@ -162,7 +162,7 @@
       "layoutId": "cta-before-after",
       "slots": {
         "pageOf": "08 / 08",
-        "handle": "@linear",
+        "handle": "",
         "eyebrow": "MAKE THE SWITCH",
         "headlineLine1": "Ditch the docs",
         "headlineAccent": "get shipping",

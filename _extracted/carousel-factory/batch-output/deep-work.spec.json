@@ -7,7 +7,7 @@
     {
       "layoutId": "cover-beige-serif",
       "slots": {
-        "brand": "FocusFlow",
+        "brand": "",
         "headline": "How to Protect Four Hours of Deep Work in a Meeting-Heavy Calendar",
         "slideCountHero": "6"
       }
@@ -15,78 +15,78 @@
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "FocusFlow",
+        "brand": "",
         "number": "01",
         "title": "Audit Your Calendar",
         "body": "Scan your week and flag every recurring meeting that lacks a clear owner or agenda. Cancel or delegate anything that does not require your direct input. This single step often reveals two to three hours of hidden free time.",
-        "handle": "@focusflow",
-        "domain": "focusflow.com"
+        "handle": "",
+        "domain": ""
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "FocusFlow",
+        "brand": "",
         "number": "02",
         "title": "Block Deep Work",
         "body": "Treat your focus sessions like immovable client appointments. Reserve a consistent four-hour block each morning before Slack and email hijack your attention. Protect it ruthlessly.",
-        "handle": "@focusflow",
-        "domain": "focusflow.com"
+        "handle": "",
+        "domain": ""
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "FocusFlow",
+        "brand": "",
         "number": "03",
         "title": "Defend the Buffer",
         "body": "Never schedule meetings back-to-back. Insert a fifteen-minute buffer to reset your mind and capture action items. That small gap preserves mental clarity for deep work.",
-        "handle": "@focusflow",
-        "domain": "focusflow.com"
+        "handle": "",
+        "domain": ""
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "FocusFlow",
+        "brand": "",
         "number": "04",
         "title": "Say No Politely",
         "body": "Decline invites that do not align with your core priorities. Offer a brief explanation or suggest an async update instead. Your calendar reflects what you value most.",
-        "handle": "@focusflow",
-        "domain": "focusflow.com"
+        "handle": "",
+        "domain": ""
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "FocusFlow",
+        "brand": "",
         "number": "05",
         "title": "Batch All Meetings",
         "body": "Cluster calls into one or two dedicated afternoons rather than scattering them throughout the week. Batching minimizes context switching and leaves larger uninterrupted stretches for focused work.",
-        "handle": "@focusflow",
-        "domain": "focusflow.com"
+        "handle": "",
+        "domain": ""
       }
     },
     {
       "layoutId": "body-beige-bubble",
       "slots": {
-        "brand": "FocusFlow",
+        "brand": "",
         "number": "06",
         "title": "Close the Apps",
         "body": "Silence notifications and exit email during your deep-work block. Even brief pings fracture concentration and extend task completion time. Guard your attention like a scarce resource.",
-        "handle": "@focusflow",
-        "domain": "focusflow.com"
+        "handle": "",
+        "domain": ""
       }
     },
     {
       "layoutId": "cta-beige-serif",
       "slots": {
-        "brand": "FocusFlow",
+        "brand": "",
         "eyebrow": "PROTECT YOUR FOCUS",
         "headline": "Reclaim Four Hours Daily",
         "body": "Start blocking deep work tomorrow and watch your output transform.",
         "buttonLabel": "BOOK YOUR CALL",
-        "handle": "@focusflow"
+        "handle": ""
       }
     }
   ]

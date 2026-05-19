@@ -7,8 +7,8 @@
     {
       "layoutId": "cover-neon-cyber",
       "slots": {
-        "brandTag": "DATA STACK",
-        "handle": "@neonarch",
+        "brandTag": "",
+        "handle": "",
         "terminalTag": "~/pipelines/2026",
         "termHighlight": "5 patterns found",
         "eyebrow": "THE REAL-TIME PIPELINES FOR",
@@ -38,7 +38,7 @@
       "slots": {
         "numLabel": "02",
         "sectionLabel": "BLUEPRINT 01",
-        "handle": "@neonarch",
+        "handle": "",
         "title": "Architect for",
         "titleAccent": "backpressure first",
         "subtitle": "The only way to hit <em>1M events/sec</em> is to treat scale as a first-class constraint, not an afterthought.",
@@ -66,7 +66,7 @@
       "slots": {
         "numLabel": "03",
         "sectionLabel": "PATTERN 01",
-        "handle": "@neonarch",
+        "handle": "",
         "title": "Durable event",
         "titleAccent": "log backbone",
         "subtitle": "Write once to an <em>append-only log</em> so every consumer replays at its own speed without blocking producers.",
@@ -94,7 +94,7 @@
       "slots": {
         "numLabel": "04",
         "sectionLabel": "PATTERN 02",
-        "handle": "@neonarch",
+        "handle": "",
         "title": "Stateful stream",
         "titleAccent": "processing nodes",
         "subtitle": "Flink and Kafka Streams keep <em>windowed state</em> local so aggregates never touch a remote database.",
@@ -122,7 +122,7 @@
       "slots": {
         "numLabel": "05",
         "sectionLabel": "PATTERN 03",
-        "handle": "@neonarch",
+        "handle": "",
         "title": "CQRS read",
         "titleAccent": "model offload",
         "subtitle": "Separate write and read paths so <em>analytical queries</em> never stall the hot ingestion pipeline.",
@@ -150,7 +150,7 @@
       "slots": {
         "numLabel": "06",
         "sectionLabel": "PATTERN 04",
-        "handle": "@neonarch",
+        "handle": "",
         "title": "Kill the lambda",
         "titleAccent": "go kappa",
         "subtitle": "One unified <em>streaming layer</em> replaces separate batch and speed layers, halving codebase and infrastructure.",
@@ -178,7 +178,7 @@
       "slots": {
         "numLabel": "07",
         "sectionLabel": "PATTERN 05",
-        "handle": "@neonarch",
+        "handle": "",
         "title": "Autoscale with",
         "titleAccent": "smart pressure",
         "subtitle": "Kubernetes HPA plus <em>custom lag metrics</em> scales consumers before SLIs burn, not after.",
@@ -204,8 +204,8 @@
     {
       "layoutId": "cta-neon-cyber",
       "slots": {
-        "brandTag": "WRAP",
-        "handle": "@neonarch",
+        "brandTag": "",
+        "handle": "",
         "eyebrow": "YOUR MOVE",
         "ctaLine1": "Save this",
         "ctaAccent": "pipeline",

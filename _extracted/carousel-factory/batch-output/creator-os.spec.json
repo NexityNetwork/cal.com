@@ -7,7 +7,7 @@
     {
       "layoutId": "cover-neon-dark",
       "slots": {
-        "handle": "@creator",
+        "handle": "",
         "badgeLabel": "CREATOR OS",
         "tag": "SYSTEM",
         "neonWord": "BUILD",
@@ -21,7 +21,7 @@
     {
       "layoutId": "body-neon-dark",
       "slots": {
-        "handle": "@creator",
+        "handle": "",
         "pageOf": "02 / 08",
         "number": "1",
         "titleLabel": "THE STACK",
@@ -35,7 +35,7 @@
     {
       "layoutId": "body-neon-dark",
       "slots": {
-        "handle": "@creator",
+        "handle": "",
         "pageOf": "03 / 08",
         "number": "2",
         "titleLabel": "THE FLOW",
@@ -49,7 +49,7 @@
     {
       "layoutId": "body-neon-dark",
       "slots": {
-        "handle": "@creator",
+        "handle": "",
         "pageOf": "04 / 08",
         "number": "3",
         "titleLabel": "NIGHT HABIT",
@@ -63,7 +63,7 @@
     {
       "layoutId": "body-neon-dark",
       "slots": {
-        "handle": "@creator",
+        "handle": "",
         "pageOf": "05 / 08",
         "number": "4",
         "titleLabel": "MISTAKE",
@@ -77,7 +77,7 @@
     {
       "layoutId": "body-neon-dark",
       "slots": {
-        "handle": "@creator",
+        "handle": "",
         "pageOf": "06 / 08",
         "number": "5",
         "titleLabel": "GROWTH HACK",
@@ -91,7 +91,7 @@
     {
       "layoutId": "body-neon-dark",
       "slots": {
-        "handle": "@creator",
+        "handle": "",
         "pageOf": "07 / 08",
         "number": "6",
         "titleLabel": "THE PAYOFF",
@@ -105,7 +105,7 @@
     {
       "layoutId": "cta-neon-dark",
       "slots": {
-        "handle": "@creator",
+        "handle": "",
         "pageOf": "08 / 08",
         "eyebrow": "YOUR MOVE",
         "headlineNeon": "STEAL",

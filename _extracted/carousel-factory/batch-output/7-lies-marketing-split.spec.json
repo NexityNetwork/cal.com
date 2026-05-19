@@ -7,7 +7,7 @@
     {
       "layoutId": "cover-photo-split",
       "slots": {
-        "brand": "VANTAGE",
+        "brand": "",
         "headline": "Seven lies you still believe about digital marketing",
         "swipeNote": "Swipe to see the 7 lies brands still believe"
       }
@@ -15,7 +15,7 @@
     {
       "layoutId": "body-photo-split",
       "slots": {
-        "brand": "VANTAGE",
+        "brand": "",
         "number": "01",
         "eyebrow": "LIE NUMBER",
         "title": "More followers equals more revenue",
@@ -25,7 +25,7 @@
     {
       "layoutId": "body-photo-split",
       "slots": {
-        "brand": "VANTAGE",
+        "brand": "",
         "number": "02",
         "eyebrow": "LIE NUMBER",
         "title": "SEO died because of AI search",
@@ -35,7 +35,7 @@
     {
       "layoutId": "body-photo-split",
       "slots": {
-        "brand": "VANTAGE",
+        "brand": "",
         "number": "03",
         "eyebrow": "LIE NUMBER",
         "title": "You must post content every day",
@@ -45,7 +45,7 @@
     {
       "layoutId": "body-photo-split",
       "slots": {
-        "brand": "VANTAGE",
+        "brand": "",
         "number": "04",
         "eyebrow": "LIE NUMBER",
         "title": "Only paid ads can scale brands",
@@ -55,7 +55,7 @@
     {
       "layoutId": "body-photo-split",
       "slots": {
-        "brand": "VANTAGE",
+        "brand": "",
         "number": "05",
         "eyebrow": "LIE NUMBER",
         "title": "TikTok is just for Gen Z",
@@ -65,7 +65,7 @@
     {
       "layoutId": "body-photo-split",
       "slots": {
-        "brand": "VANTAGE",
+        "brand": "",
         "number": "06",
         "eyebrow": "LIE NUMBER",
         "title": "Data alone reveals the full truth",
@@ -75,7 +75,7 @@
     {
       "layoutId": "cta-photo-split",
       "slots": {
-        "brand": "VANTAGE",
+        "brand": "",
         "quote": "The best strategy is the truth",
         "eyebrow": "YOUR MOVE",
         "headline": "Ready to rethink your marketing plan",

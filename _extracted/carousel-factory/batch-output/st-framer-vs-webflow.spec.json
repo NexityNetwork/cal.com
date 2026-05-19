@@ -23,14 +23,14 @@
         "toolRole5": "Payment processing infra",
         "toolRole6": "Team documentation hub",
         "ctaText": "See the breakdown",
-        "handle": "@designstack"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-stack-tour",
       "slots": {
         "slideLabel": "01 / 06",
-        "handle": "@designstack",
+        "handle": "",
         "iconSlug1": "framer",
         "toolTagline": "Ship startup landing pages in hours",
         "description": "Framer’s AI layout engine and React export make it the 2026 pick for high-growth startup launches.",
@@ -51,7 +51,7 @@
       "layoutId": "body-stack-tour",
       "slots": {
         "slideLabel": "02 / 06",
-        "handle": "@designstack",
+        "handle": "",
         "iconSlug1": "webflow",
         "toolTagline": "Scale marketing sites without engineers",
         "description": "Webflow’s granular permissions and robust CMS make it unbeatable for enterprise content teams.",
@@ -72,7 +72,7 @@
       "layoutId": "body-stack-tour",
       "slots": {
         "slideLabel": "03 / 06",
-        "handle": "@designstack",
+        "handle": "",
         "iconSlug1": "framer",
         "toolTagline": "Create immersive scroll experiences",
         "description": "Framer’s native scroll and 3D support make it the 2026 choice for high-end brand storytelling.",
@@ -93,7 +93,7 @@
       "layoutId": "body-stack-tour",
       "slots": {
         "slideLabel": "04 / 06",
-        "handle": "@designstack",
+        "handle": "",
         "iconSlug1": "webflow",
         "toolTagline": "Run complex DTC storefronts visually",
         "description": "Webflow Commerce handles variant logic, custom carts, and SEO for scaling direct-to-consumer brands.",
@@ -114,7 +114,7 @@
       "layoutId": "body-stack-tour",
       "slots": {
         "slideLabel": "05 / 06",
-        "handle": "@designstack",
+        "handle": "",
         "iconSlug1": "framer",
         "toolTagline": "Launch mobile apps with motion",
         "description": "Framer’s device frames and gesture previews make it ideal for app store marketing pages in 2026.",
@@ -135,7 +135,7 @@
       "layoutId": "body-stack-tour",
       "slots": {
         "slideLabel": "06 / 06",
-        "handle": "@designstack",
+        "handle": "",
         "iconSlug1": "webflow",
         "toolTagline": "Gate content and monetize communities",
         "description": "Webflow Memberships and Logic let creators build gated portals without writing backend code.",
@@ -156,7 +156,7 @@
       "layoutId": "cta-stack-tour",
       "slots": {
         "pageOf": "08 / 08",
-        "handle": "@designstack",
+        "handle": "",
         "eyebrow": "YOUR TURN",
         "headlineLine1": "Pick Your 2026",
         "headlineLine2": "Design Stack",

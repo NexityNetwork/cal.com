@@ -8,14 +8,14 @@
       "layoutId": "cover-cream-claude",
       "slots": {
         "tag": "API DESIGN",
-        "handle": "api.51ultron.com",
+        "handle": "",
         "eyebrow": "Choosing the right interface style",
         "titleLine1": "REST vs RPC vs",
         "titleAccent": "GraphQL",
         "titleItalic": "for real",
         "subEyebrow": "WHY IT WORKS",
         "subText": "Real backend engineers pick protocols based on <em>team velocity</em>, not hype. Here are the <em>six calls</em> that actually matter.",
-        "domainText": "api.51ultron.com",
+        "domainText": "",
         "swipeNote": "READ"
       }
     },
@@ -37,7 +37,7 @@
         "b1Body": "Protobuf shrinks payloads and skips HTTP verb debates entirely.",
         "b2Title": "Strict typed contracts",
         "b2Body": "Generated stubs keep server and client in lockstep on every deploy.",
-        "domainText": "api.51ultron.com",
+        "domainText": "",
         "pageOf": "02 / 08"
       }
     },
@@ -59,7 +59,7 @@
         "b1Body": "ETags and Cache-Control headers make repeated lookups essentially free.",
         "b2Title": "Clear REST intent",
         "b2Body": "HTTP verbs map cleanly to CRUD, onboarding juniors in minutes.",
-        "domainText": "api.51ultron.com",
+        "domainText": "",
         "pageOf": "03 / 08"
       }
     },
@@ -81,7 +81,7 @@
         "b1Body": "Clients request exactly what they need, reducing over-fetching waste.",
         "b2Title": "Single request graph",
         "b2Body": "No more orchestrating five REST calls just to paint a dashboard.",
-        "domainText": "api.51ultron.com",
+        "domainText": "",
         "pageOf": "04 / 08"
       }
     },
@@ -103,7 +103,7 @@
         "b1Body": "Charge, capture, and refund map to business events without URL yoga.",
         "b2Title": "Stream when needed",
         "b2Body": "Bidirectional flows handle real-time logs and push notifications easily.",
-        "domainText": "api.51ultron.com",
+        "domainText": "",
         "pageOf": "05 / 08"
       }
     },
@@ -125,7 +125,7 @@
         "b1Body": "Every filtered view is a shareable link that hits the same cache key.",
         "b2Title": "Mature middleware stack",
         "b2Body": "OAuth, rate limiting, and middleware are battle-tested over decades.",
-        "domainText": "api.51ultron.com",
+        "domainText": "",
         "pageOf": "06 / 08"
       }
     },
@@ -147,7 +147,7 @@
         "b1Body": "Mobile and web teams each consume tailored views of the same graph.",
         "b2Title": "Strong schema types",
         "b2Body": "Strong typing catches breaking changes before they reach production.",
-        "domainText": "api.51ultron.com",
+        "domainText": "",
         "pageOf": "07 / 08"
       }
     },
@@ -163,7 +163,7 @@
         "btnPrimary": "Get the guide",
         "btnGhost": "Read more",
         "signoff": "Ship faster, break less",
-        "domainText": "api.51ultron.com",
+        "domainText": "",
         "pageOf": "08 / 08"
       }
     }

@@ -1,0 +1,121 @@
+{
+  "id": "fdr-ai-affiliate",
+  "brand": "Solo Growth Lab",
+  "brief": "AI affiliate marketing for beginners. The four affiliate programs solo founders are quietly making $5k/month from, and how they're driving traffic.",
+  "theme": "linkedin-pro",
+  "slides": [
+    {
+      "layoutId": "cover-linkedin-pro",
+      "slots": {
+        "author": "Jordan Lee",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "1",
+        "accentColor": "#4f3df5",
+        "headline": "4 AI Affiliate Programs Quietly Making Founders $5K/Month",
+        "heroSymbol": "AI",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#0a66c2",
+        "body": "Solo founders are using AI tools to drive traffic and earn passive income. Here are the four programs they don't talk about."
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Jordan Lee",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "2",
+        "title": "The Quiet $5K Blueprint",
+        "body": "Solo founders stopped trading time for money. They now leverage AI tools with generous recurring commissions and automated content funnels to build passive revenue streams.",
+        "heroSymbol": "🚀",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#0a66c2",
+        "labelText": "SWIPE FOR MORE →"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Jordan Lee",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "3",
+        "title": "AI Copywriting Suites",
+        "body": "Tools like Jasper and Copy.ai offer 30% lifetime recurring commissions. Founders review templates on Twitter and LinkedIn, capturing search intent with AI-optimized comparison threads.",
+        "heroSymbol": "01",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#0a66c2",
+        "labelText": "SWIPE FOR MORE →"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Jordan Lee",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "4",
+        "title": "AI Video Repurposing",
+        "body": "Opus Clip and Pictory pay up to 50% recurring. Affiliates drive traffic by posting before-and-after clips on TikTok and YouTube Shorts, linking directly in bio.",
+        "heroSymbol": "02",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#0a66c2",
+        "labelText": "SWIPE FOR MORE →"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Jordan Lee",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "5",
+        "title": "Creator Newsletter Platforms",
+        "body": "Beehiiv and ConvertKit reward affiliates with hundreds per signup. Founders build micro-newsletters around AI tips, then monetize through embedded affiliate links and partner networks.",
+        "heroSymbol": "03",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#0a66c2",
+        "labelText": "SWIPE FOR MORE →"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Jordan Lee",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "6",
+        "title": "AI Design & Images",
+        "body": "Leonardo.ai and Canva offer high-volume bounties. Affiliates create viral prompt galleries on Pinterest and Instagram, turning aesthetic inspiration into a steady downstream commission funnel.",
+        "heroSymbol": "04",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#0a66c2",
+        "labelText": "SWIPE FOR MORE →"
+      }
+    },
+    {
+      "layoutId": "body-linkedin-pro",
+      "slots": {
+        "author": "Jordan Lee",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "7",
+        "title": "The Traffic Engine",
+        "body": "The secret isn't ads. Founders use AI SEO tools to publish fifty optimized articles monthly, then funnel readers into an email sequence that converts on autopilot.",
+        "heroSymbol": "⚡",
+        "heroBg": "#4f3df5",
+        "heroBg2": "#0a66c2",
+        "labelText": "SWIPE FOR MORE →"
+      }
+    },
+    {
+      "layoutId": "cta-linkedin-pro",
+      "slots": {
+        "author": "Jordan Lee",
+        "badgeText": "SAVE THIS POST",
+        "pageNumber": "8",
+        "accentColor": "#4f3df5",
+        "eyebrow": "YOUR TURN?",
+        "headline": "Which Program Will You Launch First?",
+        "body": "Pick one program, build a simple content system, and start earning. The best time to start was yesterday.",
+        "buttonLabel": "Follow for More",
+        "secondaryLabel": "Repost",
+        "handle": ""
+      }
+    }
+  ]
+}

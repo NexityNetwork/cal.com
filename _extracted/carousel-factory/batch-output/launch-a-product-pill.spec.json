@@ -7,7 +7,7 @@
     {
       "layoutId": "cover-condensed-pill",
       "slots": {
-        "brand": "Riley Park",
+        "brand": "",
         "preLine": "How to",
         "pillText": "LAUNCH",
         "postLine": "a product in 7 days",
@@ -17,7 +17,7 @@
     {
       "layoutId": "body-condensed-pill",
       "slots": {
-        "brand": "Riley Park",
+        "brand": "",
         "number": "01",
         "numberLabel": "Step",
         "title": "FIND PAIN",
@@ -28,7 +28,7 @@
     {
       "layoutId": "body-condensed-pill",
       "slots": {
-        "brand": "Riley Park",
+        "brand": "",
         "number": "02",
         "numberLabel": "Step",
         "title": "PRE-SELL",
@@ -39,7 +39,7 @@
     {
       "layoutId": "body-condensed-pill",
       "slots": {
-        "brand": "Riley Park",
+        "brand": "",
         "number": "03",
         "numberLabel": "Step",
         "title": "BUILD FAST",
@@ -50,7 +50,7 @@
     {
       "layoutId": "body-condensed-pill",
       "slots": {
-        "brand": "Riley Park",
+        "brand": "",
         "number": "04",
         "numberLabel": "Step",
         "title": "CONTENT",
@@ -61,7 +61,7 @@
     {
       "layoutId": "body-condensed-pill",
       "slots": {
-        "brand": "Riley Park",
+        "brand": "",
         "number": "05",
         "numberLabel": "Step",
         "title": "LAUNCH",
@@ -72,7 +72,7 @@
     {
       "layoutId": "body-condensed-pill",
       "slots": {
-        "brand": "Riley Park",
+        "brand": "",
         "number": "06",
         "numberLabel": "Step",
         "title": "OPTIMIZE",
@@ -83,7 +83,7 @@
     {
       "layoutId": "cta-condensed-pill",
       "slots": {
-        "brand": "Riley Park",
+        "brand": "",
         "eyebrow": "YOUR TURN",
         "headline": "GO",
         "body": "Launch your product this week and prove that audience size is just an excuse.",

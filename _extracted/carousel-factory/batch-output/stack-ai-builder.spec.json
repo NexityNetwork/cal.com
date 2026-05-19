@@ -23,14 +23,14 @@
         "toolRole5": "Backend database service",
         "toolRole6": "Project planning workspace",
         "ctaText": "See the breakdown",
-        "handle": "@yourhandle"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-stack-tour",
       "slots": {
         "slideLabel": "02 / 08",
-        "handle": "@yourhandle",
+        "handle": "",
         "iconSlug1": "claude",
         "toolTagline": "Natural language reasoning layer",
         "description": "Claude handles architecture decisions, debugging logic, and copy generation so I never start from blank.",
@@ -51,7 +51,7 @@
       "layoutId": "body-stack-tour",
       "slots": {
         "slideLabel": "03 / 08",
-        "handle": "@yourhandle",
+        "handle": "",
         "iconSlug1": "figma",
         "toolTagline": "Collaborative interface design system",
         "description": "I design responsive screens and component libraries once, then export assets directly to code.",
@@ -72,7 +72,7 @@
       "layoutId": "body-stack-tour",
       "slots": {
         "slideLabel": "04 / 08",
-        "handle": "@yourhandle",
+        "handle": "",
         "iconSlug1": "github",
         "toolTagline": "Source control and automation",
         "description": "Every prompt iteration lives in a branch. Pull requests trigger automated preview deploys instantly.",
@@ -93,7 +93,7 @@
       "layoutId": "body-stack-tour",
       "slots": {
         "slideLabel": "05 / 08",
-        "handle": "@yourhandle",
+        "handle": "",
         "iconSlug1": "vercel",
         "toolTagline": "Zero-config frontend deployment platform",
         "description": "Push to main and the site is live globally. Preview URLs make stakeholder feedback instant.",
@@ -114,7 +114,7 @@
       "layoutId": "body-stack-tour",
       "slots": {
         "slideLabel": "06 / 08",
-        "handle": "@yourhandle",
+        "handle": "",
         "iconSlug1": "supabase",
         "toolTagline": "Open-source Postgres backend platform",
         "description": "Auth, storage, and real-time database without managing servers. Spin up a backend in minutes.",
@@ -135,7 +135,7 @@
       "layoutId": "body-stack-tour",
       "slots": {
         "slideLabel": "07 / 08",
-        "handle": "@yourhandle",
+        "handle": "",
         "iconSlug1": "notion",
         "toolTagline": "All-in-one project workspace hub",
         "description": "Roadmaps, docs, and databases keep the weekend sprint organized from idea to shipped product.",
@@ -156,7 +156,7 @@
       "layoutId": "cta-stack-tour",
       "slots": {
         "pageOf": "08 / 08",
-        "handle": "@yourhandle",
+        "handle": "",
         "eyebrow": "YOUR TURN",
         "headlineLine1": "Ship this weekend",
         "headlineLine2": "Build with AI",

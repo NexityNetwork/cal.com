@@ -22,7 +22,7 @@
         "heroBody": "Interactive fuzzy finder that filters files, history, and processes with blazing speed.",
         "slideTitle": "Find anything with fuzzy precision",
         "slideSubtitle": "Stop memorizing paths; just type fragments and watch fzf narrow results instantly.",
-        "domainText": "fzf.io",
+        "domainText": "",
         "pageOf": "02 / 08"
       }
     },
@@ -34,7 +34,7 @@
         "heroBody": "Line-oriented search tool that recursively searches your directory for a regex pattern.",
         "slideTitle": "Grep entire repos in milliseconds",
         "slideSubtitle": "Ripgrep respects gitignore by default and outperforms classic grep across large codebases.",
-        "domainText": "ripgrep.dev",
+        "domainText": "",
         "pageOf": "03 / 08"
       }
     },
@@ -46,7 +46,7 @@
         "heroBody": "Learns your habits so you can jump to folders with a single keystroke.",
         "slideTitle": "Navigate folders without typing paths",
         "slideSubtitle": "Zoxide replaces cd with intelligent shortcuts based on frequency and recency scores.",
-        "domainText": "zoxide.dev",
+        "domainText": "",
         "pageOf": "04 / 08"
       }
     },
@@ -58,7 +58,7 @@
         "heroBody": "A modern, maintained replacement for ls with icons, git integration, and better defaults.",
         "slideTitle": "View directories with clarity and style",
         "slideSubtitle": "Eza adds color-coded metadata and hyperlinks to make file browsing actually enjoyable.",
-        "domainText": "eza.dev",
+        "domainText": "",
         "pageOf": "05 / 08"
       }
     },
@@ -70,7 +70,7 @@
         "heroBody": "Cat clone with wings that shows syntax highlighting, git changes, and automatic paging.",
         "slideTitle": "Read code with syntax highlighting",
         "slideSubtitle": "Bat turns plain file dumps into readable, colorized output with inline git annotations.",
-        "domainText": "bat.sh",
+        "domainText": "",
         "pageOf": "06 / 08"
       }
     },
@@ -82,7 +82,7 @@
         "heroBody": "Cross-shell prompt that renders lang versions, git status, and execution time instantly.",
         "slideTitle": "A prompt that tells your story",
         "slideSubtitle": "Starship gives you exactly the context you need without cluttering your terminal window.",
-        "domainText": "starship.rs",
+        "domainText": "",
         "pageOf": "07 / 08"
       }
     },

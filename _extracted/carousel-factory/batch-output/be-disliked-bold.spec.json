@@ -8,7 +8,7 @@
       "layoutId": "cover-bold-split",
       "slots": {
         "title": "WHY HALF YOUR AUDIENCE SHOULD HATE YOU",
-        "handle": "@OSBORN"
+        "handle": ""
       }
     },
     {
@@ -17,7 +17,7 @@
         "number": "01",
         "title": "PLEASING EVERYONE DESTROYS YOU",
         "body": "When you try to appeal to everyone, you dilute your message into beige nothingness. Strong brands stand for something specific, which naturally repels the wrong people. That repulsion is a feature, not a bug.",
-        "handle": "@OSBORN"
+        "handle": ""
       }
     },
     {
@@ -26,7 +26,7 @@
         "number": "02",
         "title": "ATTENTION LIVES IN TENSION",
         "body": "A lukewarm message gets scrolled past in under a second. Controversy and conviction force a reaction—love it or hate it. Neutrality is the true enemy of growth.",
-        "handle": "@OSBORN"
+        "handle": ""
       }
     },
     {
@@ -35,7 +35,7 @@
         "number": "03",
         "title": "FILTERS ATTRACT BETTER CLIENTS",
         "body": "Disliking you clears out freebie-seekers and bad-fit customers. The 50% who stay are pre-qualified believers willing to pay premium prices. Your roster gets lighter and more profitable.",
-        "handle": "@OSBORN"
+        "handle": ""
       }
     },
     {
@@ -44,7 +44,7 @@
         "number": "04",
         "title": "AUTHORITY REQUIRES A SHARP EDGE",
         "body": "Experts have enemies; novices have applause. When you stake a claim, you demonstrate the confidence that comes from deep competence. People trust leaders who pick a side.",
-        "handle": "@OSBORN"
+        "handle": ""
       }
     },
     {
@@ -53,7 +53,7 @@
         "number": "05",
         "title": "ALGORITHMS REWARD POLARIZATION",
         "body": "Social platforms push content that triggers emotion. Indifference kills reach, while debate drives shares, saves, and comments. The algorithm is biased toward boldness.",
-        "handle": "@OSBORN"
+        "handle": ""
       }
     },
     {
@@ -62,7 +62,7 @@
         "number": "06",
         "title": "LEGACY IS FOR THE BRAVE",
         "body": "History remembers the ones who took a stand, not the ones who hedged every sentence. If half the room isn't disagreeing, you're not saying anything at all.",
-        "handle": "@OSBORN"
+        "handle": ""
       }
     },
     {
@@ -72,7 +72,7 @@
         "headline": "PICK A FIGHT TODAY",
         "body": "Say the thing. Post the take. Your people are waiting on the other side.",
         "buttonLabel": "DROP THE POST",
-        "handle": "@OSBORN"
+        "handle": ""
       }
     }
   ]

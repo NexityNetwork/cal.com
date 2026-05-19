@@ -18,7 +18,7 @@
         "codeFn": "ingest",
         "codeArg": "s3://lake",
         "codeReturn": "200",
-        "domainText": "factory.dev",
+        "domainText": "",
         "swipeNote": "SCROLL"
       }
     },
@@ -39,7 +39,7 @@
         "cmdLine": "duckdb -c \"SELECT * FROM '*.parquet'\"",
         "outLine": "1.2B rows scanned in 3.4s",
         "okLine": "✓ DONE",
-        "domainText": "factory.dev",
+        "domainText": "",
         "pageOf": "01 / 06"
       }
     },
@@ -60,7 +60,7 @@
         "cmdLine": "dbt build --select tag:daily",
         "outLine": "42 models, 8.7s",
         "okLine": "✓ PASS",
-        "domainText": "factory.dev",
+        "domainText": "",
         "pageOf": "02 / 06"
       }
     },
@@ -81,7 +81,7 @@
         "cmdLine": "clickhouse-client --query \"SELECT count() FROM events\"",
         "outLine": "2.1M rows/s inserted",
         "okLine": "✓ LIVE",
-        "domainText": "factory.dev",
+        "domainText": "",
         "pageOf": "03 / 06"
       }
     },
@@ -102,7 +102,7 @@
         "cmdLine": "spark-submit --master local[*] process.py",
         "outLine": "stage 4/4 8.5B rows",
         "okLine": "✓ DONE",
-        "domainText": "factory.dev",
+        "domainText": "",
         "pageOf": "04 / 06"
       }
     },
@@ -123,7 +123,7 @@
         "cmdLine": "python -c \"pl.scan_parquet('*.pq').collect()\"",
         "outLine": "4.3B rows, 12s",
         "okLine": "✓ DONE",
-        "domainText": "factory.dev",
+        "domainText": "",
         "pageOf": "05 / 06"
       }
     },
@@ -144,7 +144,7 @@
         "cmdLine": "dagster job execute -j daily_rollup",
         "outLine": "materialized 14 assets",
         "okLine": "✓ OK",
-        "domainText": "factory.dev",
+        "domainText": "",
         "pageOf": "06 / 06"
       }
     },
@@ -160,7 +160,7 @@
         "btnGhost": "Read Docs",
         "meta1": "open source · MIT",
         "meta2": "built in 2025",
-        "domainText": "factory.dev",
+        "domainText": "",
         "pageOf": "06 / 06"
       }
     }

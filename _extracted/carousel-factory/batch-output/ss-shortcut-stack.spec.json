@@ -7,8 +7,8 @@
     {
       "layoutId": "cover-stencil-stamp",
       "slots": {
-        "brandTag": "HACKS",
-        "handle": "@SOLOSTACK",
+        "brandTag": "",
+        "handle": "",
         "preLine": "the ultimate cheat sheet for",
         "titleLine1": "100 SECRET",
         "titleStamp": "KEYBOARD",
@@ -28,7 +28,7 @@
       "layoutId": "body-stencil-stamp",
       "slots": {
         "numLabel": "SET 01",
-        "handle": "@SOLOSTACK",
+        "handle": "",
         "iconSlug1": "chrome",
         "toolName": "CHROME",
         "categoryLabel": "BROWSER",
@@ -56,7 +56,7 @@
       "layoutId": "body-stencil-stamp",
       "slots": {
         "numLabel": "SET 02",
-        "handle": "@SOLOSTACK",
+        "handle": "",
         "iconSlug1": "notion",
         "toolName": "NOTION",
         "categoryLabel": "WORKSPACE",
@@ -84,7 +84,7 @@
       "layoutId": "body-stencil-stamp",
       "slots": {
         "numLabel": "SET 03",
-        "handle": "@SOLOSTACK",
+        "handle": "",
         "iconSlug1": "vscode",
         "toolName": "CODE",
         "categoryLabel": "EDITOR",
@@ -112,7 +112,7 @@
       "layoutId": "body-stencil-stamp",
       "slots": {
         "numLabel": "SET 04",
-        "handle": "@SOLOSTACK",
+        "handle": "",
         "iconSlug1": "figma",
         "toolName": "FIGMA",
         "categoryLabel": "DESIGN",
@@ -140,7 +140,7 @@
       "layoutId": "body-stencil-stamp",
       "slots": {
         "numLabel": "SET 05",
-        "handle": "@SOLOSTACK",
+        "handle": "",
         "iconSlug1": "slack",
         "toolName": "SLACK",
         "categoryLabel": "COMMS",
@@ -168,7 +168,7 @@
       "layoutId": "body-stencil-stamp",
       "slots": {
         "numLabel": "SET 06",
-        "handle": "@SOLOSTACK",
+        "handle": "",
         "iconSlug1": "apple",
         "toolName": "MAC OS",
         "categoryLabel": "SYSTEM",
@@ -195,8 +195,8 @@
     {
       "layoutId": "cta-stencil-stamp",
       "slots": {
-        "brandTag": "WRAP",
-        "handle": "@SOLOSTACK",
+        "brandTag": "",
+        "handle": "",
         "eyebrow": "pin this cheat sheet now",
         "ctaStamp": "SAVE THIS",
         "ctaOutline": "GUIDE",

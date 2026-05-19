@@ -8,7 +8,7 @@
       "layoutId": "cover-tech-stack-grid",
       "slots": {
         "tag": "MY STACK",
-        "handle": "research.51ultron.com",
+        "handle": "",
         "eyebrow": "verify before you publish",
         "titleLine1": "six tools to",
         "titleAccent": "triangulate truth",
@@ -46,7 +46,7 @@
         "iconSlug3": "notion",
         "iconSlug4": "airtable",
         "iconSlug5": "n8n",
-        "domainText": "triangulate truth",
+        "domainText": "",
         "pageOf": "02 / 08"
       }
     },
@@ -69,7 +69,7 @@
         "iconSlug3": "notion",
         "iconSlug4": "airtable",
         "iconSlug5": "cursor",
-        "domainText": "triangulate truth",
+        "domainText": "",
         "pageOf": "03 / 08"
       }
     },
@@ -92,7 +92,7 @@
         "iconSlug3": "claude",
         "iconSlug4": "airtable",
         "iconSlug5": "n8n",
-        "domainText": "triangulate truth",
+        "domainText": "",
         "pageOf": "04 / 08"
       }
     },
@@ -115,7 +115,7 @@
         "iconSlug3": "claude",
         "iconSlug4": "notion",
         "iconSlug5": "n8n",
-        "domainText": "triangulate truth",
+        "domainText": "",
         "pageOf": "05 / 08"
       }
     },
@@ -138,7 +138,7 @@
         "iconSlug3": "claude",
         "iconSlug4": "notion",
         "iconSlug5": "airtable",
-        "domainText": "triangulate truth",
+        "domainText": "",
         "pageOf": "06 / 08"
       }
     },
@@ -161,7 +161,7 @@
         "iconSlug3": "notion",
         "iconSlug4": "github",
         "iconSlug5": "perplexity",
-        "domainText": "triangulate truth",
+        "domainText": "",
         "pageOf": "07 / 08"
       }
     },
@@ -169,7 +169,7 @@
       "layoutId": "cta-tech-stack-grid",
       "slots": {
         "tag": "WRAP",
-        "handle": "research.51ultron.com",
+        "handle": "",
         "eyebrow": "publish with confidence",
         "ctaLine1": "triangulate first",
         "ctaLine2": "then publish",
@@ -182,7 +182,7 @@
         "iconSlug6": "cursor",
         "btnPrimary": "Build Stack",
         "btnGhost": "Read More",
-        "domainText": "triangulate truth",
+        "domainText": "",
         "pageOf": "08 / 08"
       }
     }

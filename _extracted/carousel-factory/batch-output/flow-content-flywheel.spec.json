@@ -8,7 +8,7 @@
       "layoutId": "cover-flowchart",
       "slots": {
         "number": "01",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "Content Flywheel",
         "subtitle": "A four-stage system that turns one idea into endless growth.",
         "check1": "Build momentum with every post you publish.",
@@ -32,7 +32,7 @@
       "layoutId": "body-flowchart",
       "slots": {
         "number": "02",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "How It Works",
         "subtitle": "Four connected stages designed to compound your content efforts over time.",
         "check1": "Each stage feeds directly into the next one.",
@@ -46,7 +46,7 @@
       "layoutId": "body-flowchart",
       "slots": {
         "number": "03",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "Start With Core",
         "subtitle": "Begin with one high-value piece of cornerstone content every single week.",
         "check1": "Anchor assets make repurposing effortless later on.",
@@ -60,7 +60,7 @@
       "layoutId": "body-flowchart",
       "slots": {
         "number": "04",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "Distribute Wide",
         "subtitle": "Push atomized versions of your core idea across every relevant platform.",
         "check1": "Native formatting respects each platform's unique audience behavior.",
@@ -74,7 +74,7 @@
       "layoutId": "body-flowchart",
       "slots": {
         "number": "05",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "Engage Deeply",
         "subtitle": "Turn passive impressions into active conversations that build lasting trust.",
         "check1": "Reply to every meaningful comment within the first hour.",
@@ -88,7 +88,7 @@
       "layoutId": "body-flowchart",
       "slots": {
         "number": "06",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "Compound Fast",
         "subtitle": "Extract new formats from proven content to maximize lifetime value.",
         "check1": "Top-performing posts become templates you can systematize quickly.",
@@ -102,7 +102,7 @@
       "layoutId": "body-flowchart",
       "slots": {
         "number": "07",
-        "handle": "@usevisuals",
+        "handle": "",
         "title": "Fuel The Flywheel",
         "subtitle": "Feedback from engagement and data informs your next creation cycle.",
         "check1": "Analytics show exactly where to double down next.",
@@ -116,7 +116,7 @@
       "layoutId": "cta-flowchart",
       "slots": {
         "number": "08",
-        "handle": "@usevisuals",
+        "handle": "",
         "eyebrow": "YOUR MOVE",
         "headlineLine1": "Start Building",
         "headlineLine2": "Your Flywheel",

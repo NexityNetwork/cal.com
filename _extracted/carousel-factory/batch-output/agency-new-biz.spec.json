@@ -7,7 +7,7 @@
     {
       "layoutId": "cover-coral-mag",
       "slots": {
-        "brand": "RALLY",
+        "brand": "",
         "issueLabel": "ISSUE 01",
         "issueTag": "DEEP DIVE",
         "headWord1": "THE",
@@ -15,13 +15,13 @@
         "headWord3": "PLAYBOOK",
         "subEyebrow": "NEW BUSINESS",
         "subtitle": "Six modern tactics that replaced cold email for good.",
-        "handle": "@rally"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-coral-mag",
       "slots": {
-        "brand": "RALLY",
+        "brand": "",
         "pageLabel": "P.02",
         "number": "01",
         "eyebrow": "THE TACTIC",
@@ -29,13 +29,13 @@
         "titleWord2": "CONTENT",
         "titleWord3": "MACHINE",
         "body": "We turned the CEO's LinkedIn into a daily insights flywheel. Hot takes on client problems attracted inbound DMs from qualified prospects within 30 days.",
-        "handle": "@rally"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-coral-mag",
       "slots": {
-        "brand": "RALLY",
+        "brand": "",
         "pageLabel": "P.03",
         "number": "02",
         "eyebrow": "THE SYSTEM",
@@ -43,13 +43,13 @@
         "titleWord2": "PARTNERS",
         "titleWord3": "LOOP",
         "body": "We built a tiered network with non-competing agencies and freelancers. Every partner received a revenue share, creating a self-sustaining pipeline of warm introductions.",
-        "handle": "@rally"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-coral-mag",
       "slots": {
-        "brand": "RALLY",
+        "brand": "",
         "pageLabel": "P.04",
         "number": "03",
         "eyebrow": "THE FUNNEL",
@@ -57,13 +57,13 @@
         "titleWord2": "WORKSHOPS",
         "titleWord3": "",
         "body": "We hosted free, tactical sessions solving one painful problem for our ideal client. Attendees saw our expertise firsthand and converted to retainers at sixty percent.",
-        "handle": "@rally"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-coral-mag",
       "slots": {
-        "brand": "RALLY",
+        "brand": "",
         "pageLabel": "P.05",
         "number": "04",
         "eyebrow": "THE CHANNEL",
@@ -71,13 +71,13 @@
         "titleWord2": "TOURING",
         "titleWord3": "",
         "body": "We identified twenty niche shows our prospects already trusted. Each appearance positioned us as category experts and drove listeners to a dedicated landing page.",
-        "handle": "@rally"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-coral-mag",
       "slots": {
-        "brand": "RALLY",
+        "brand": "",
         "pageLabel": "P.06",
         "number": "05",
         "eyebrow": "THE ALLIANCE",
@@ -85,13 +85,13 @@
         "titleWord2": "ALLIANCES",
         "titleWord3": "",
         "body": "We co-marketed with emerging SaaS tools our audience was adopting. Their customer success teams introduced us directly to brands needing implementation support immediately.",
-        "handle": "@rally"
+        "handle": ""
       }
     },
     {
       "layoutId": "body-coral-mag",
       "slots": {
-        "brand": "RALLY",
+        "brand": "",
         "pageLabel": "P.07",
         "number": "06",
         "eyebrow": "THE ENGINE",
@@ -99,20 +99,20 @@
         "titleWord2": "COMMUNITY",
         "titleWord3": "",
         "body": "We launched an invite-only Slack group for marketing leaders. The peer-to-peer value built trust, and natural conversations converted into project briefs without pitching.",
-        "handle": "@rally"
+        "handle": ""
       }
     },
     {
       "layoutId": "cta-coral-mag",
       "slots": {
-        "brand": "RALLY",
+        "brand": "",
         "pageOf": "07 / 07",
         "tag": "YOUR MOVE",
         "headWord1": "SAVE",
         "headWord2": "THIS",
         "body": "Steal these tactics and rebuild your pipeline without cold email. Follow for weekly growth plays.",
         "buttonLabel": "Follow for more",
-        "handle": "@rally"
+        "handle": ""
       }
     }
   ]

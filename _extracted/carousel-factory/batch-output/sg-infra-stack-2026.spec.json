@@ -7,9 +7,9 @@
     {
       "layoutId": "cover-swiss-grid",
       "slots": {
-        "brandTag": "THE LIST",
+        "brandTag": "",
         "issueMeta": "Issue 01 / 2026",
-        "handle": "@soloops",
+        "handle": "",
         "heroNum": "6",
         "countLabel": "TOOLS",
         "eyebrow": "FOR SOLO FOUNDERS",
@@ -30,7 +30,7 @@
       "slots": {
         "numLabel": "01",
         "sectionLabel": "THE PLATFORM",
-        "handle": "@soloops",
+        "handle": "",
         "title": "SELF HOSTED",
         "titleAccent": "PAAS",
         "subtitle": "Deploy any repository to your own metal in minutes without the pricing surprises of managed platforms.",
@@ -55,7 +55,7 @@
       "slots": {
         "numLabel": "02",
         "sectionLabel": "THE STORE",
-        "handle": "@soloops",
+        "handle": "",
         "title": "S3 COMPATIBLE",
         "titleAccent": "STORAGE",
         "subtitle": "Keep object storage on your own cluster with the same API your applications already speak.",
@@ -80,7 +80,7 @@
       "slots": {
         "numLabel": "03",
         "sectionLabel": "THE GATE",
-        "handle": "@soloops",
+        "handle": "",
         "title": "AUTO HTTPS",
         "titleAccent": "PROXY",
         "subtitle": "Terminate TLS, route subdomains, and compress responses with a configuration file so small it fits in a tweet.",
@@ -105,7 +105,7 @@
       "slots": {
         "numLabel": "04",
         "sectionLabel": "THE MESH",
-        "handle": "@soloops",
+        "handle": "",
         "title": "PRIVATE",
         "titleAccent": "NETWORK",
         "subtitle": "Connect every node you own into a single encrypted fabric without relying on a third-party control plane.",
@@ -130,7 +130,7 @@
       "slots": {
         "numLabel": "05",
         "sectionLabel": "THE EYE",
-        "handle": "@soloops",
+        "handle": "",
         "title": "OPEN SOURCE",
         "titleAccent": "OBSERVE",
         "subtitle": "Correlate logs, metrics, and alerts in one dashboard instead of paying SaaS observability rent every month.",
@@ -155,7 +155,7 @@
       "slots": {
         "numLabel": "06",
         "sectionLabel": "THE BASE",
-        "handle": "@soloops",
+        "handle": "",
         "title": "INFRA AS",
         "titleAccent": "CODE",
         "subtitle": "Version your entire stack in plain text and rebuild from zero in any region with a single command.",
@@ -178,8 +178,8 @@
     {
       "layoutId": "cta-swiss-grid",
       "slots": {
-        "brandTag": "THE LIST",
-        "handle": "@soloops",
+        "brandTag": "",
+        "handle": "",
         "eyebrow": "YOUR TURN",
         "ctaStamp": "SAVE",
         "ctaLine1": "PICK",

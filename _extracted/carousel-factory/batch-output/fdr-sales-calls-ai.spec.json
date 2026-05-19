@@ -1,0 +1,180 @@
+{
+  "id": "fdr-sales-calls-ai",
+  "brand": "AiFunnels",
+  "brief": "Sales calls before and after AI agents. Show rates, close rates, hours per close. What automation actually does to a solo founder's funnel.",
+  "theme": "before-after",
+  "slides": [
+    {
+      "layoutId": "cover-before-after",
+      "slots": {
+        "pageOf": "01 / 08",
+        "handle": "",
+        "title": "Stop doing",
+        "titleAccent": "manual sales",
+        "description": "See how AI agents transform a solo founder's call funnel from grind to growth.",
+        "badLabel1": "Cold outreach burns founder time",
+        "badLabel2": "Wasted hours on bad leads",
+        "badStat1": "2% reply rate",
+        "badStat2": "12 hrs/close",
+        "goodLabel1": "AI qualifies and books calls",
+        "goodLabel2": "Instant pipeline without hiring",
+        "goodStat1": "35% conversion",
+        "goodStat2": "1.5 hrs/close",
+        "iconSlug1": "salesforce",
+        "iconSlug2": "hubspot",
+        "iconSlug3": "slack",
+        "iconSlug4": "openai"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 01 / 06",
+        "handle": "",
+        "title": "Stop begging for",
+        "titleAccent": "replies",
+        "description": "AI agents respond instantly, 24/7, so no lead goes cold waiting for a founder.",
+        "badLabel": "BEFORE",
+        "badText": "Solo founder sends emails and waits days for any response.",
+        "badStat": "2% reply rate",
+        "iconSlug1": "gmail",
+        "iconSlug2": "salesforce",
+        "goodLabel": "AFTER",
+        "goodText": "AI SDR follows up instantly across channels until they answer.",
+        "goodStat": "35% reply rate",
+        "iconSlug3": "openai",
+        "iconSlug4": "twilio",
+        "iconSlug5": "slack",
+        "ctaArrow": "See the next step"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 02 / 06",
+        "handle": "",
+        "title": "Qualify every",
+        "titleAccent": "lead automatically",
+        "description": "Stop wasting calls on prospects who can't buy. Let AI filter first.",
+        "badLabel": "BEFORE",
+        "badText": "Founder jumps on discovery calls with unqualified tire-kickers daily.",
+        "badStat": "15% qualified",
+        "iconSlug1": "calendly",
+        "iconSlug2": "zoom",
+        "goodLabel": "AFTER",
+        "goodText": "AI agent asks BANT questions and books only ready buyers.",
+        "goodStat": "80% qualified",
+        "iconSlug3": "n8n",
+        "iconSlug4": "airtable",
+        "iconSlug5": "make",
+        "ctaArrow": "Keep reading now"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 03 / 06",
+        "handle": "",
+        "title": "End no-shows",
+        "titleAccent": "for good",
+        "description": "AI sends reminders and reschedules so prospects actually show up prepared.",
+        "badLabel": "BEFORE",
+        "badText": "Founder preps for calls that get cancelled without any warning.",
+        "badStat": "40% show rate",
+        "iconSlug1": "notion",
+        "iconSlug2": "hubspot",
+        "goodLabel": "AFTER",
+        "goodText": "Bot confirms, reminds, and fills empty slots automatically each day.",
+        "goodStat": "85% show rate",
+        "iconSlug3": "zapier",
+        "iconSlug4": "twilio",
+        "iconSlug5": "calendly",
+        "ctaArrow": "Next slide ahead"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 04 / 06",
+        "handle": "",
+        "title": "Close deals",
+        "titleAccent": "while you sleep",
+        "description": "AI handles objections and nurtures leads until they're ready to sign.",
+        "badLabel": "BEFORE",
+        "badText": "Founder follows up manually and loses deals to slow response.",
+        "badStat": "5% close rate",
+        "iconSlug1": "stripe",
+        "iconSlug2": "gmail",
+        "goodLabel": "AFTER",
+        "goodText": "Agent nurtures, answers objections, and books the closing call fast.",
+        "goodStat": "22% close rate",
+        "iconSlug3": "openai",
+        "iconSlug4": "slack",
+        "iconSlug5": "salesforce",
+        "ctaArrow": "See hours saved"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 05 / 06",
+        "handle": "",
+        "title": "Reclaim your",
+        "titleAccent": "founder time",
+        "description": "Automation cuts the manual grind so you focus on product and vision.",
+        "badLabel": "BEFORE",
+        "badText": "Every sale costs dozens of hours the founder doesn't have spare.",
+        "badStat": "12 hrs/close",
+        "iconSlug1": "zoom",
+        "iconSlug2": "notion",
+        "goodLabel": "AFTER",
+        "goodText": "AI runs the funnel top-to-bottom with minimal oversight needed.",
+        "goodStat": "1.5 hrs/close",
+        "iconSlug3": "make",
+        "iconSlug4": "n8n",
+        "iconSlug5": "airtable",
+        "ctaArrow": "View final step"
+      }
+    },
+    {
+      "layoutId": "body-before-after",
+      "slots": {
+        "slideLabel": "STEP 06 / 06",
+        "handle": "",
+        "title": "Slash acquisition",
+        "titleAccent": "costs today",
+        "description": "Replace expensive agencies and SDRs with one intelligent system that scales.",
+        "badLabel": "BEFORE",
+        "badText": "Hiring SDRs and agencies burns cash before any revenue hits.",
+        "badStat": "$300/lead",
+        "iconSlug1": "hubspot",
+        "iconSlug2": "salesforce",
+        "goodLabel": "AFTER",
+        "goodText": "One AI agent scales infinitely without adding any headcount cost.",
+        "goodStat": "$25/lead",
+        "iconSlug3": "zapier",
+        "iconSlug4": "openai",
+        "iconSlug5": "stripe",
+        "ctaArrow": "Make the switch"
+      }
+    },
+    {
+      "layoutId": "cta-before-after",
+      "slots": {
+        "pageOf": "08 / 08",
+        "handle": "",
+        "eyebrow": "MAKE THE SWITCH",
+        "headlineLine1": "Automate your",
+        "headlineAccent": "sales funnel",
+        "body": "Join founders who replaced manual outreach with AI agents that book and close around the clock.",
+        "iconSlug1": "openai",
+        "iconSlug2": "make",
+        "iconSlug3": "zapier",
+        "iconSlug4": "slack",
+        "iconSlug5": "salesforce",
+        "iconSlug6": "calendly",
+        "ctaText": "Build your agent"
+      }
+    }
+  ]
+}

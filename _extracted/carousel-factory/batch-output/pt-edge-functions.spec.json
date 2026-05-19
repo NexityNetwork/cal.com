@@ -8,7 +8,7 @@
       "layoutId": "cover-photo-tag",
       "slots": {
         "tag": "HOT TAKE",
-        "handle": "@solofounder",
+        "handle": "",
         "featGlyph": "⚡",
         "featLabel": "TRENDING",
         "featName": "Edge Patterns",
@@ -34,7 +34,7 @@
       "layoutId": "body-photo-tag",
       "slots": {
         "numLabel": "PATTERN 01",
-        "handle": "@solofounder",
+        "handle": "",
         "iconSlug1": "vercel",
         "toolName": "Vercel Functions",
         "toolTagline": "SSR without the server headache.",
@@ -70,7 +70,7 @@
       "layoutId": "body-photo-tag",
       "slots": {
         "numLabel": "PATTERN 02",
-        "handle": "@solofounder",
+        "handle": "",
         "iconSlug1": "clerk",
         "toolName": "Clerk",
         "toolTagline": "Authentication that lives at the edge.",
@@ -106,7 +106,7 @@
       "layoutId": "body-photo-tag",
       "slots": {
         "numLabel": "PATTERN 03",
-        "handle": "@solofounder",
+        "handle": "",
         "iconSlug1": "cloudflare-workers",
         "toolName": "Cloudflare Workers",
         "toolTagline": "Your logic, milliseconds from users.",
@@ -142,7 +142,7 @@
       "layoutId": "body-photo-tag",
       "slots": {
         "numLabel": "PATTERN 04",
-        "handle": "@solofounder",
+        "handle": "",
         "iconSlug1": "neon",
         "toolName": "Neon",
         "toolTagline": "Postgres that scales to zero at the edge.",
@@ -178,7 +178,7 @@
       "layoutId": "body-photo-tag",
       "slots": {
         "numLabel": "PATTERN 05",
-        "handle": "@solofounder",
+        "handle": "",
         "iconSlug1": "openai",
         "toolName": "OpenAI",
         "toolTagline": "Inference cached at the edge.",
@@ -214,7 +214,7 @@
       "layoutId": "body-photo-tag",
       "slots": {
         "numLabel": "PATTERN 06",
-        "handle": "@solofounder",
+        "handle": "",
         "iconSlug1": "supabase",
         "toolName": "Supabase Edge",
         "toolTagline": "Postgres functions running worldwide.",
@@ -250,7 +250,7 @@
       "layoutId": "cta-photo-tag",
       "slots": {
         "tag": "WRAP",
-        "handle": "@solofounder",
+        "handle": "",
         "eyebrow": "stop waiting on servers",
         "ctaLine1": "Ship faster with",
         "ctaAccent": "the edge",

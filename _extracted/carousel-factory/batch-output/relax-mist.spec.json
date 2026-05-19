@@ -7,8 +7,8 @@
     {
       "layoutId": "cover-purple-mist",
       "slots": {
-        "brand": "STILLWATER",
-        "handle": "@stillwatertherapy",
+        "brand": "",
+        "handle": "",
         "pageOf": "1 / 8",
         "searchQuery": "How to relax when you're stressed"
       }
@@ -16,8 +16,8 @@
     {
       "layoutId": "body-purple-mist",
       "slots": {
-        "brand": "STILLWATER",
-        "handle": "@stillwatertherapy",
+        "brand": "",
+        "handle": "",
         "pageOf": "2 / 8",
         "stepLabel": "STEP ONE:",
         "body": "Pause and name the tension resting in your body without judgment. Awareness is the first gentle doorway back to calm."
@@ -26,8 +26,8 @@
     {
       "layoutId": "body-purple-mist",
       "slots": {
-        "brand": "STILLWATER",
-        "handle": "@stillwatertherapy",
+        "brand": "",
+        "handle": "",
         "pageOf": "3 / 8",
         "stepLabel": "STEP TWO:",
         "body": "Breathe slowly through your nose, letting each exhale soften your shoulders and quiet your racing thoughts."
@@ -36,8 +36,8 @@
     {
       "layoutId": "body-purple-mist",
       "slots": {
-        "brand": "STILLWATER",
-        "handle": "@stillwatertherapy",
+        "brand": "",
+        "handle": "",
         "pageOf": "4 / 8",
         "stepLabel": "STEP THREE:",
         "body": "Place one hand on your heart and feel its steady rhythm anchor you to the present moment."
@@ -46,8 +46,8 @@
     {
       "layoutId": "body-purple-mist",
       "slots": {
-        "brand": "STILLWATER",
-        "handle": "@stillwatertherapy",
+        "brand": "",
+        "handle": "",
         "pageOf": "5 / 8",
         "stepLabel": "STEP FOUR:",
         "body": "Scan your surroundings and name five soft things you can see, hear, or touch right now."
@@ -56,8 +56,8 @@
     {
       "layoutId": "body-purple-mist",
       "slots": {
-        "brand": "STILLWATER",
-        "handle": "@stillwatertherapy",
+        "brand": "",
+        "handle": "",
         "pageOf": "6 / 8",
         "stepLabel": "STEP FIVE:",
         "body": "Whisper a kind phrase to yourself, offering the same patience you would give a dear friend."
@@ -66,8 +66,8 @@
     {
       "layoutId": "body-purple-mist",
       "slots": {
-        "brand": "STILLWATER",
-        "handle": "@stillwatertherapy",
+        "brand": "",
+        "handle": "",
         "pageOf": "7 / 8",
         "stepLabel": "STEP SIX:",
         "body": "Carry this softness forward, letting one small ritual hold you through the rest of your day."
@@ -76,8 +76,8 @@
     {
       "layoutId": "cta-purple-mist",
       "slots": {
-        "brand": "STILLWATER",
-        "handle": "@stillwatertherapy",
+        "brand": "",
+        "handle": "",
         "eyebrow": "YOUR RITUAL",
         "headline": "Begin again, gently",
         "body": "You deserve rest that is slow, simple, and entirely yours. Let this be your starting place.",

@@ -7,8 +7,8 @@
     {
       "layoutId": "cover-neon-cyber",
       "slots": {
-        "brandTag": "LLM ROUTE",
-        "handle": "@neondatadev",
+        "brandTag": "",
+        "handle": "",
         "terminalTag": "~/llm-router/2026",
         "termHighlight": "strategies found",
         "eyebrow": "THE ROUTING PLAYBOOK FOR",
@@ -38,7 +38,7 @@
       "slots": {
         "numLabel": "01",
         "sectionLabel": "STRATEGY 01",
-        "handle": "@neondatadev",
+        "handle": "",
         "title": "Cascade from",
         "titleAccent": "tiered models",
         "subtitle": "Route every prompt through a <em>cascading confidence ladder</em> that only pays for frontier intelligence when necessary.",
@@ -66,7 +66,7 @@
       "slots": {
         "numLabel": "02",
         "sectionLabel": "STRATEGY 02",
-        "handle": "@neondatadev",
+        "handle": "",
         "title": "Cache answers",
         "titleAccent": "semantically",
         "subtitle": "Store embeddings of every query to serve <em>near-duplicate</em> requests without ever calling the API again.",
@@ -94,7 +94,7 @@
       "slots": {
         "numLabel": "03",
         "sectionLabel": "STRATEGY 03",
-        "handle": "@neondatadev",
+        "handle": "",
         "title": "Balance load",
         "titleAccent": "across providers",
         "subtitle": "Auto-failover between OpenAI and Anthropic to eliminate <em>rate-limit downtime</em> and optimize spend in real time.",
@@ -122,7 +122,7 @@
       "slots": {
         "numLabel": "04",
         "sectionLabel": "STRATEGY 04",
-        "handle": "@neondatadev",
+        "handle": "",
         "title": "Compress prompts",
         "titleAccent": "before sending",
         "subtitle": "Shrink retrieval chunks and chat history to slash <em>input tokens</em> without losing context or answer quality.",
@@ -150,7 +150,7 @@
       "slots": {
         "numLabel": "05",
         "sectionLabel": "STRATEGY 05",
-        "handle": "@neondatadev",
+        "handle": "",
         "title": "Draft with",
         "titleAccent": "tiny models",
         "subtitle": "Use an 8B parameter draft model to generate tokens at <em>lightning speed</em> for frontier verification.",
@@ -178,7 +178,7 @@
       "slots": {
         "numLabel": "06",
         "sectionLabel": "SYSTEM 06",
-        "handle": "@neondatadev",
+        "handle": "",
         "title": "Build your",
         "titleAccent": "router core",
         "subtitle": "Abstract every provider behind a single <em>OpenAI-compatible</em> gateway with telemetry and auto-scaling inference.",
@@ -204,8 +204,8 @@
     {
       "layoutId": "cta-neon-cyber",
       "slots": {
-        "brandTag": "LLM ROUTE",
-        "handle": "@neondatadev",
+        "brandTag": "",
+        "handle": "",
         "eyebrow": "YOUR MOVE",
         "ctaLine1": "Deploy this",
         "ctaAccent": "router stack",

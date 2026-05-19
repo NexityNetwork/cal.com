@@ -3,17 +3,13 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/skincare-truth/slide-01.png",
-      "bytes": 166956,
+      "bytes": 161105,
       "qa": {
-        "verdict": "fail",
+        "verdict": "pass",
         "checks": {
-          "has_frame": false,
-          "no_unfilled_slots": true,
-          "has_page_badge": false
+          "no_unfilled_slots": true
         },
-        "issues": [
-          "missing .frame container"
-        ]
+        "issues": []
       },
       "fingerprint": {
         "layout": "unknown",
@@ -23,20 +19,16 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/skincare-truth/slide-02.png",
-      "bytes": 81030,
+      "bytes": 76323,
       "qa": {
-        "verdict": "fail",
+        "verdict": "pass",
         "checks": {
-          "has_frame": false,
           "no_unfilled_slots": true,
-          "has_page_badge": false,
           "body_text_present": true,
           "body_text_in_bounds": true,
           "body_text_no_overflow": true
         },
-        "issues": [
-          "missing .frame container"
-        ]
+        "issues": []
       },
       "fingerprint": {
         "layout": "unknown",
@@ -53,20 +45,16 @@
     {
       "index": 2,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/skincare-truth/slide-03.png",
-      "bytes": 80902,
+      "bytes": 76279,
       "qa": {
-        "verdict": "fail",
+        "verdict": "pass",
         "checks": {
-          "has_frame": false,
           "no_unfilled_slots": true,
-          "has_page_badge": false,
           "body_text_present": true,
           "body_text_in_bounds": true,
           "body_text_no_overflow": true
         },
-        "issues": [
-          "missing .frame container"
-        ]
+        "issues": []
       },
       "fingerprint": {
         "layout": "unknown",
@@ -83,20 +71,16 @@
     {
       "index": 3,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/skincare-truth/slide-04.png",
-      "bytes": 82692,
+      "bytes": 77746,
       "qa": {
-        "verdict": "fail",
+        "verdict": "pass",
         "checks": {
-          "has_frame": false,
           "no_unfilled_slots": true,
-          "has_page_badge": false,
           "body_text_present": true,
           "body_text_in_bounds": true,
           "body_text_no_overflow": true
         },
-        "issues": [
-          "missing .frame container"
-        ]
+        "issues": []
       },
       "fingerprint": {
         "layout": "unknown",
@@ -113,20 +97,16 @@
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/skincare-truth/slide-05.png",
-      "bytes": 79935,
+      "bytes": 75256,
       "qa": {
-        "verdict": "fail",
+        "verdict": "pass",
         "checks": {
-          "has_frame": false,
           "no_unfilled_slots": true,
-          "has_page_badge": false,
           "body_text_present": true,
           "body_text_in_bounds": true,
           "body_text_no_overflow": true
         },
-        "issues": [
-          "missing .frame container"
-        ]
+        "issues": []
       },
       "fingerprint": {
         "layout": "unknown",
@@ -143,20 +123,16 @@
     {
       "index": 5,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/skincare-truth/slide-06.png",
-      "bytes": 92538,
+      "bytes": 87632,
       "qa": {
-        "verdict": "fail",
+        "verdict": "pass",
         "checks": {
-          "has_frame": false,
           "no_unfilled_slots": true,
-          "has_page_badge": false,
           "body_text_present": true,
           "body_text_in_bounds": true,
           "body_text_no_overflow": true
         },
-        "issues": [
-          "missing .frame container"
-        ]
+        "issues": []
       },
       "fingerprint": {
         "layout": "unknown",
@@ -173,20 +149,16 @@
     {
       "index": 6,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/skincare-truth/slide-07.png",
-      "bytes": 86488,
+      "bytes": 81531,
       "qa": {
-        "verdict": "fail",
+        "verdict": "pass",
         "checks": {
-          "has_frame": false,
           "no_unfilled_slots": true,
-          "has_page_badge": false,
           "body_text_present": true,
           "body_text_in_bounds": true,
           "body_text_no_overflow": true
         },
-        "issues": [
-          "missing .frame container"
-        ]
+        "issues": []
       },
       "fingerprint": {
         "layout": "unknown",
@@ -203,17 +175,13 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/skincare-truth/slide-08.png",
-      "bytes": 87967,
+      "bytes": 83408,
       "qa": {
-        "verdict": "fail",
+        "verdict": "pass",
         "checks": {
-          "has_frame": false,
-          "no_unfilled_slots": true,
-          "has_page_badge": false
+          "no_unfilled_slots": true
         },
-        "issues": [
-          "missing .frame container"
-        ]
+        "issues": []
       },
       "fingerprint": {
         "layout": "unknown",

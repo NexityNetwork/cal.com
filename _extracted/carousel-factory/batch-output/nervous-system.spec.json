@@ -9,7 +9,7 @@
       "slots": {
         "authorInitials": "SB",
         "authorName": "Sage Bloom",
-        "handle": "@sagebloom.heal",
+        "handle": "",
         "tagBlue": "Nervous System",
         "tagPink": "Self Soothe",
         "titleLine1": "How to",
@@ -30,7 +30,7 @@
         "titleMain": "Ground your",
         "titleItalic": "senses",
         "body": "Name five things you see, four you feel, three you hear. This simple anchor brings your body back to the present moment.",
-        "handle": "@sagebloom.heal"
+        "handle": ""
       }
     },
     {
@@ -43,7 +43,7 @@
         "titleMain": "Slow your",
         "titleItalic": "breath",
         "body": "Try inhaling for four counts, holding for four, exhaling for six. A longer exhale signals safety to your nervous system.",
-        "handle": "@sagebloom.heal"
+        "handle": ""
       }
     },
     {
@@ -56,7 +56,7 @@
         "titleMain": "Shake it",
         "titleItalic": "out",
         "body": "Animals release stress through movement. Let your body tremble, stretch, or sway to discharge stored tension gently.",
-        "handle": "@sagebloom.heal"
+        "handle": ""
       }
     },
     {
@@ -69,7 +69,7 @@
         "titleMain": "Offer your",
         "titleItalic": "warmth",
         "body": "Place a hand on your heart or wrap yourself in a soft blanket. Physical warmth mimics a loving embrace and calms the body.",
-        "handle": "@sagebloom.heal"
+        "handle": ""
       }
     },
     {
@@ -82,7 +82,7 @@
         "titleMain": "Hum or",
         "titleItalic": "vocalize",
         "body": "Humming, singing, or even a deep sigh stimulates the vagus nerve. Your voice becomes a tool to shift you into rest mode.",
-        "handle": "@sagebloom.heal"
+        "handle": ""
       }
     },
     {
@@ -95,7 +95,7 @@
         "titleMain": "Name the",
         "titleItalic": "feeling",
         "body": "Say to yourself, 'I am overwhelmed, and that is okay.' Naming emotions reduces amygdala activity and creates spaciousness inside.",
-        "handle": "@sagebloom.heal"
+        "handle": ""
       }
     },
     {
@@ -109,7 +109,7 @@
         "body": "Which practice will you try first? Share this with someone who needs a gentle reminder today.",
         "buttonLabel": "Save this",
         "secondaryLabel": "Share with a friend",
-        "handle": "@sagebloom.heal"
+        "handle": ""
       }
     }
   ]

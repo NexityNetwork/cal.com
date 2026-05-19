@@ -18,7 +18,7 @@
       "layoutId": "body-rounded-card",
       "slots": {
         "pageBadge": "02",
-        "handle": "@foundersystems",
+        "handle": "",
         "number": "01",
         "title": "Document every",
         "titleAccent": "workflow",
@@ -35,7 +35,7 @@
       "layoutId": "body-rounded-card",
       "slots": {
         "pageBadge": "03",
-        "handle": "@foundersystems",
+        "handle": "",
         "number": "02",
         "title": "Automate the",
         "titleAccent": "busywork",
@@ -52,7 +52,7 @@
       "layoutId": "body-rounded-card",
       "slots": {
         "pageBadge": "04",
-        "handle": "@foundersystems",
+        "handle": "",
         "number": "03",
         "title": "Batch your",
         "titleAccent": "calendar",
@@ -69,7 +69,7 @@
       "layoutId": "body-rounded-card",
       "slots": {
         "pageBadge": "05",
-        "handle": "@foundersystems",
+        "handle": "",
         "number": "04",
         "title": "Delegate with",
         "titleAccent": "clear briefs",
@@ -86,7 +86,7 @@
       "layoutId": "body-rounded-card",
       "slots": {
         "pageBadge": "06",
-        "handle": "@foundersystems",
+        "handle": "",
         "number": "05",
         "title": "Templatize your",
         "titleAccent": "content engine",
@@ -103,7 +103,7 @@
       "layoutId": "body-rounded-card",
       "slots": {
         "pageBadge": "07",
-        "handle": "@foundersystems",
+        "handle": "",
         "number": "06",
         "title": "Review weekly",
         "titleAccent": "metrics fast",
@@ -120,7 +120,7 @@
       "layoutId": "cta-rounded-card",
       "slots": {
         "pageBadge": "08",
-        "handle": "@foundersystems",
+        "handle": "",
         "eyebrow": "YOUR TURN",
         "headlineLine1": "Pick one",
         "headlineLine2": "system this week",

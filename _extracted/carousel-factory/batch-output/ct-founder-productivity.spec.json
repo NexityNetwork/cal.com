@@ -7,8 +7,8 @@
     {
       "layoutId": "cover-cream-table",
       "slots": {
-        "brandTag": "PRODUCTIVITY",
-        "handle": "@founderstack",
+        "brandTag": "",
+        "handle": "",
         "eyebrow": "the only stack you need",
         "titleLine1": "5 founder",
         "titleAccent": "productivity",
@@ -42,7 +42,7 @@
       "layoutId": "body-cream-table",
       "slots": {
         "numLabel": "TOOL 01",
-        "handle": "@founderstack",
+        "handle": "",
         "iconSlug1": "notion",
         "toolName": "Notion",
         "toolTagline": "Your company brain, from pitch deck to product wiki.",
@@ -70,7 +70,7 @@
       "layoutId": "body-cream-table",
       "slots": {
         "numLabel": "TOOL 02",
-        "handle": "@founderstack",
+        "handle": "",
         "iconSlug1": "cal",
         "toolName": "Cal.com",
         "toolTagline": "Scheduling infrastructure that puts your calendar on autopilot.",
@@ -98,7 +98,7 @@
       "layoutId": "body-cream-table",
       "slots": {
         "numLabel": "TOOL 03",
-        "handle": "@founderstack",
+        "handle": "",
         "iconSlug1": "zapier",
         "toolName": "Zapier",
         "toolTagline": "The glue that passes data between apps while you sleep.",
@@ -126,7 +126,7 @@
       "layoutId": "body-cream-table",
       "slots": {
         "numLabel": "TOOL 04",
-        "handle": "@founderstack",
+        "handle": "",
         "iconSlug1": "openai",
         "toolName": "ChatGPT",
         "toolTagline": "An intern that writes code, copy, and strategy at 3 AM.",
@@ -154,7 +154,7 @@
       "layoutId": "body-cream-table",
       "slots": {
         "numLabel": "TOOL 05",
-        "handle": "@founderstack",
+        "handle": "",
         "iconSlug1": "loom",
         "toolName": "Loom",
         "toolTagline": "Record once, share everywhere, and skip the live meeting.",
@@ -182,7 +182,7 @@
       "layoutId": "body-cream-table",
       "slots": {
         "numLabel": "BONUS",
-        "handle": "@founderstack",
+        "handle": "",
         "iconSlug1": "cursor",
         "toolName": "Cursor",
         "toolTagline": "The AI-native editor that writes and refactors code for you.",
@@ -209,8 +209,8 @@
     {
       "layoutId": "cta-cream-table",
       "slots": {
-        "brandTag": "WRAP",
-        "handle": "@founderstack",
+        "brandTag": "",
+        "handle": "",
         "eyebrow": "steal this exact stack",
         "titleLine1": "reclaim your",
         "titleAccent": "10 hours",

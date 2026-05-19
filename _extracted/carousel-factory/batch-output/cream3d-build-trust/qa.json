@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/cream3d-build-trust/slide-01.png",
-      "bytes": 140569,
+      "bytes": 138177,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -115,7 +115,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/cream3d-build-trust/slide-08.png",
-      "bytes": 88400,
+      "bytes": 85099,
       "qa": {
         "verdict": "pass",
         "checks": {

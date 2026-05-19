@@ -7,7 +7,7 @@
     {
       "layoutId": "cover-photo-split",
       "slots": {
-        "brand": "HOOK",
+        "brand": "",
         "headline": "How to position a brand nobody can ignore",
         "swipeNote": "Swipe to see the 6 lessons in positioning"
       }
@@ -15,7 +15,7 @@
     {
       "layoutId": "body-photo-split",
       "slots": {
-        "brand": "HOOK",
+        "brand": "",
         "number": "01",
         "eyebrow": "HARD TRUTH",
         "title": "Pick one hill to die on",
@@ -25,7 +25,7 @@
     {
       "layoutId": "body-photo-split",
       "slots": {
-        "brand": "HOOK",
+        "brand": "",
         "number": "02",
         "eyebrow": "HARD TRUTH",
         "title": "Niche down until it hurts",
@@ -35,7 +35,7 @@
     {
       "layoutId": "body-photo-split",
       "slots": {
-        "brand": "HOOK",
+        "brand": "",
         "number": "03",
         "eyebrow": "HARD TRUTH",
         "title": "Polarize to magnetize your people",
@@ -45,7 +45,7 @@
     {
       "layoutId": "body-photo-split",
       "slots": {
-        "brand": "HOOK",
+        "brand": "",
         "number": "04",
         "eyebrow": "HARD TRUTH",
         "title": "Show proof, not just promise",
@@ -55,7 +55,7 @@
     {
       "layoutId": "body-photo-split",
       "slots": {
-        "brand": "HOOK",
+        "brand": "",
         "number": "05",
         "eyebrow": "HARD TRUTH",
         "title": "Anchor against a common enemy",
@@ -65,7 +65,7 @@
     {
       "layoutId": "body-photo-split",
       "slots": {
-        "brand": "HOOK",
+        "brand": "",
         "number": "06",
         "eyebrow": "HARD TRUTH",
         "title": "Make the customer the hero",
@@ -75,7 +75,7 @@
     {
       "layoutId": "cta-photo-split",
       "slots": {
-        "brand": "HOOK",
+        "brand": "",
         "quote": "Be so specific they can't ignore you",
         "eyebrow": "YOUR MOVE",
         "headline": "Start building your unignorable brand today",

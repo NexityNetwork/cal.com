@@ -9,7 +9,7 @@
       "slots": {
         "authorInitials": "JL",
         "authorName": "Jordan Lee",
-        "handle": "@jordanlee",
+        "handle": "",
         "number": "5",
         "firstWord": "Deep",
         "secondLine": "Focus",
@@ -23,7 +23,7 @@
       "slots": {
         "authorInitials": "JL",
         "authorName": "Jordan Lee",
-        "handle": "@jordanlee",
+        "handle": "",
         "number": "1",
         "title": "The Context Tax",
         "body": "Every interruption steals twenty minutes of refocus time. Protect your attention like a limited budget.",
@@ -35,7 +35,7 @@
       "slots": {
         "authorInitials": "JL",
         "authorName": "Jordan Lee",
-        "handle": "@jordanlee",
+        "handle": "",
         "number": "2",
         "title": "Time Block Deep Work",
         "body": "Schedule focused sessions as calendar events with hard start and end times. Treat them like client meetings.",
@@ -47,7 +47,7 @@
       "slots": {
         "authorInitials": "JL",
         "authorName": "Jordan Lee",
-        "handle": "@jordanlee",
+        "handle": "",
         "number": "3",
         "title": "Phone Goes Far Away",
         "body": "Place your device in another room during focus blocks. Physical distance outperforms willpower every single time.",
@@ -59,7 +59,7 @@
       "slots": {
         "authorInitials": "JL",
         "authorName": "Jordan Lee",
-        "handle": "@jordanlee",
+        "handle": "",
         "number": "4",
         "title": "One Tab Only Rule",
         "body": "Commit to a single browser tab or document. Multitasking is a myth that destroys quality and speed.",
@@ -71,7 +71,7 @@
       "slots": {
         "authorInitials": "JL",
         "authorName": "Jordan Lee",
-        "handle": "@jordanlee",
+        "handle": "",
         "number": "5",
         "title": "Set A Hard Timer",
         "body": "Use a visible countdown to create urgency. Work shrinks to fit the container you give it.",
@@ -83,7 +83,7 @@
       "slots": {
         "authorInitials": "JL",
         "authorName": "Jordan Lee",
-        "handle": "@jordanlee",
+        "handle": "",
         "number": "6",
         "title": "Daily Shutdown Ritual",
         "body": "Spend five minutes reviewing wins and writing tomorrow's priority. Close the laptop with a clear mind.",
@@ -95,7 +95,7 @@
       "slots": {
         "authorInitials": "JL",
         "authorName": "Jordan Lee",
-        "handle": "@jordanlee",
+        "handle": "",
         "eyebrow": "YOUR TURN",
         "headlineMain": "SHIP MORE",
         "accentLine": "FEWER HOURS",

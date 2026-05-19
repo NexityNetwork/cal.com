@@ -8,7 +8,7 @@
       "layoutId": "cover-tech-stack-grid",
       "slots": {
         "tag": "MY STACK",
-        "handle": "factory.51ultron.com",
+        "handle": "",
         "eyebrow": "replace the engineering team",
         "titleLine1": "six tools that",
         "titleAccent": "ship products",
@@ -46,7 +46,7 @@
         "iconSlug3": "github",
         "iconSlug4": "docker",
         "iconSlug5": "typescript",
-        "domainText": "factory.51ultron.com",
+        "domainText": "",
         "pageOf": "02 / 08"
       }
     },
@@ -69,7 +69,7 @@
         "iconSlug3": "notion",
         "iconSlug4": "n8n",
         "iconSlug5": "perplexity",
-        "domainText": "factory.51ultron.com",
+        "domainText": "",
         "pageOf": "03 / 08"
       }
     },
@@ -92,7 +92,7 @@
         "iconSlug3": "github",
         "iconSlug4": "supabase",
         "iconSlug5": "react",
-        "domainText": "factory.51ultron.com",
+        "domainText": "",
         "pageOf": "04 / 08"
       }
     },
@@ -115,7 +115,7 @@
         "iconSlug3": "postgresql",
         "iconSlug4": "docker",
         "iconSlug5": "typescript",
-        "domainText": "factory.51ultron.com",
+        "domainText": "",
         "pageOf": "05 / 08"
       }
     },
@@ -138,7 +138,7 @@
         "iconSlug3": "airtable",
         "iconSlug4": "zapier",
         "iconSlug5": "github",
-        "domainText": "factory.51ultron.com",
+        "domainText": "",
         "pageOf": "06 / 08"
       }
     },
@@ -161,7 +161,7 @@
         "iconSlug3": "vercel",
         "iconSlug4": "supabase",
         "iconSlug5": "notion",
-        "domainText": "factory.51ultron.com",
+        "domainText": "",
         "pageOf": "07 / 08"
       }
     },
@@ -169,7 +169,7 @@
       "layoutId": "cta-tech-stack-grid",
       "slots": {
         "tag": "WRAP",
-        "handle": "factory.51ultron.com",
+        "handle": "",
         "eyebrow": "build leaner and faster",
         "ctaLine1": "ship like a",
         "ctaLine2": "solo unicorn",
@@ -182,7 +182,7 @@
         "iconSlug6": "stripe",
         "btnPrimary": "Start Building",
         "btnGhost": "View Pricing",
-        "domainText": "factory.51ultron.com",
+        "domainText": "",
         "pageOf": "08 / 08"
       }
     }

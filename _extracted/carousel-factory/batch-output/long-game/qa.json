@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/long-game/slide-01.png",
-      "bytes": 347259,
+      "bytes": 344897,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -19,7 +19,7 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/long-game/slide-02.png",
-      "bytes": 187638,
+      "bytes": 185534,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -35,7 +35,7 @@
     {
       "index": 2,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/long-game/slide-03.png",
-      "bytes": 189082,
+      "bytes": 187075,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -51,7 +51,7 @@
     {
       "index": 3,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/long-game/slide-04.png",
-      "bytes": 185191,
+      "bytes": 183064,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -67,7 +67,7 @@
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/long-game/slide-05.png",
-      "bytes": 192411,
+      "bytes": 190129,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -83,7 +83,7 @@
     {
       "index": 5,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/long-game/slide-06.png",
-      "bytes": 195502,
+      "bytes": 193052,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -99,7 +99,7 @@
     {
       "index": 6,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/long-game/slide-07.png",
-      "bytes": 197284,
+      "bytes": 194988,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -115,7 +115,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/long-game/slide-08.png",
-      "bytes": 424000,
+      "bytes": 422985,
       "qa": {
         "verdict": "pass",
         "checks": {

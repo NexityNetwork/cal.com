@@ -18,7 +18,7 @@
         "codeFn": "serve",
         "codeArg": "\"llama3\"",
         "codeReturn": "200",
-        "domainText": "llmops.dev",
+        "domainText": "",
         "swipeNote": "SCROLL"
       }
     },
@@ -39,7 +39,7 @@
         "cmdLine": "quantize --bits=4",
         "outLine": "model.gguf 3.8 GB",
         "okLine": "✓ DONE",
-        "domainText": "llmops.dev",
+        "domainText": "",
         "pageOf": "01 / 06"
       }
     },
@@ -60,7 +60,7 @@
         "cmdLine": "cache --mode=stream",
         "outLine": "kv_store 42 MB",
         "okLine": "✓ READY",
-        "domainText": "llmops.dev",
+        "domainText": "",
         "pageOf": "02 / 06"
       }
     },
@@ -81,7 +81,7 @@
         "cmdLine": "speculate --draft=1B",
         "outLine": "accept 82%",
         "okLine": "✓ FASTER",
-        "domainText": "llmops.dev",
+        "domainText": "",
         "pageOf": "03 / 06"
       }
     },
@@ -102,7 +102,7 @@
         "cmdLine": "offload --ratio=0.3",
         "outLine": "vram 18 GB",
         "okLine": "✓ LOADED",
-        "domainText": "llmops.dev",
+        "domainText": "",
         "pageOf": "04 / 06"
       }
     },
@@ -123,7 +123,7 @@
         "cmdLine": "vllm --max-batch=64",
         "outLine": "avg 45 tok/s",
         "okLine": "✓ SCALED",
-        "domainText": "llmops.dev",
+        "domainText": "",
         "pageOf": "05 / 06"
       }
     },
@@ -144,7 +144,7 @@
         "cmdLine": "edge --backend=onnx",
         "outLine": "inference local",
         "okLine": "✓ LIVE",
-        "domainText": "llmops.dev",
+        "domainText": "",
         "pageOf": "06 / 06"
       }
     },
@@ -160,7 +160,7 @@
         "btnGhost": "Read the docs",
         "meta1": "open source · MIT",
         "meta2": "built in 2025",
-        "domainText": "llmops.dev",
+        "domainText": "",
         "pageOf": "08 / 08"
       }
     }
