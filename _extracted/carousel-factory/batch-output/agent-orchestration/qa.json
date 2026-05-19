@@ -211,9 +211,9 @@
     {
       "index": 5,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/agent-orchestration/slide-06.png",
-      "bytes": 61849,
+      "bytes": 56910,
       "qa": {
-        "verdict": "pass",
+        "verdict": "fail",
         "checks": {
           "no_unfilled_slots": true,
           "body_title_present": true,
@@ -223,10 +223,12 @@
           "body_text_in_bounds": true,
           "body_text_no_overflow": true,
           "icon_hero_visible": true,
-          "icon_has_content": true,
-          "icon_not_placeholder": true
+          "icon_has_content": false,
+          "icon_not_placeholder": false
         },
-        "issues": []
+        "issues": [
+          "icon-hero has no <svg> child"
+        ]
       },
       "fingerprint": {
         "layout": "body",

@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/la-claude-code-skills/slide-01.png",
-      "bytes": 63532,
+      "bytes": 62819,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -71,7 +71,7 @@
     {
       "index": 3,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/la-claude-code-skills/slide-04.png",
-      "bytes": 78094,
+      "bytes": 76704,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -175,7 +175,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/la-claude-code-skills/slide-08.png",
-      "bytes": 195492,
+      "bytes": 194980,
       "qa": {
         "verdict": "pass",
         "checks": {

@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/ba-notion-automated/slide-01.png",
-      "bytes": 113196,
+      "bytes": 111032,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -19,7 +19,7 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/ba-notion-automated/slide-02.png",
-      "bytes": 92293,
+      "bytes": 89225,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -35,7 +35,7 @@
     {
       "index": 2,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/ba-notion-automated/slide-03.png",
-      "bytes": 90260,
+      "bytes": 86837,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -51,7 +51,7 @@
     {
       "index": 3,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/ba-notion-automated/slide-04.png",
-      "bytes": 90205,
+      "bytes": 86860,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -67,7 +67,7 @@
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/ba-notion-automated/slide-05.png",
-      "bytes": 90079,
+      "bytes": 86508,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -83,7 +83,7 @@
     {
       "index": 5,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/ba-notion-automated/slide-06.png",
-      "bytes": 90215,
+      "bytes": 87555,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -99,7 +99,7 @@
     {
       "index": 6,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/ba-notion-automated/slide-07.png",
-      "bytes": 62097,
+      "bytes": 57535,
       "qa": {
         "verdict": "pass",
         "checks": {

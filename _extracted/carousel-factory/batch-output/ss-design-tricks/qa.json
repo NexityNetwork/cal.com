@@ -19,7 +19,7 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/ss-design-tricks/slide-02.png",
-      "bytes": 134054,
+      "bytes": 132977,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -45,7 +45,7 @@
     {
       "index": 2,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/ss-design-tricks/slide-03.png",
-      "bytes": 138705,
+      "bytes": 137638,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -71,7 +71,7 @@
     {
       "index": 3,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/ss-design-tricks/slide-04.png",
-      "bytes": 138613,
+      "bytes": 136971,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -97,7 +97,7 @@
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/ss-design-tricks/slide-05.png",
-      "bytes": 126503,
+      "bytes": 125315,
       "qa": {
         "verdict": "pass",
         "checks": {

@@ -35,7 +35,7 @@
     {
       "index": 2,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/ba-cicd-overhaul/slide-03.png",
-      "bytes": 88322,
+      "bytes": 86753,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -51,7 +51,7 @@
     {
       "index": 3,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/ba-cicd-overhaul/slide-04.png",
-      "bytes": 91932,
+      "bytes": 89408,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -67,7 +67,7 @@
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/ba-cicd-overhaul/slide-05.png",
-      "bytes": 91958,
+      "bytes": 90239,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -83,7 +83,7 @@
     {
       "index": 5,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/ba-cicd-overhaul/slide-06.png",
-      "bytes": 87956,
+      "bytes": 84307,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -115,7 +115,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/ba-cicd-overhaul/slide-08.png",
-      "bytes": 65443,
+      "bytes": 63371,
       "qa": {
         "verdict": "pass",
         "checks": {

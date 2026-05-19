@@ -19,7 +19,7 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/fdr-quiet-business/slide-02.png",
-      "bytes": 87389,
+      "bytes": 87052,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -35,7 +35,7 @@
     {
       "index": 2,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/fdr-quiet-business/slide-03.png",
-      "bytes": 91574,
+      "bytes": 91138,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -67,7 +67,7 @@
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/fdr-quiet-business/slide-05.png",
-      "bytes": 90176,
+      "bytes": 89682,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -99,7 +99,7 @@
     {
       "index": 6,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/fdr-quiet-business/slide-07.png",
-      "bytes": 83739,
+      "bytes": 83413,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -115,7 +115,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/fdr-quiet-business/slide-08.png",
-      "bytes": 62124,
+      "bytes": 61667,
       "qa": {
         "verdict": "pass",
         "checks": {

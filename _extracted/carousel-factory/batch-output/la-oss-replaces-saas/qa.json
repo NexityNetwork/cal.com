@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/la-oss-replaces-saas/slide-01.png",
-      "bytes": 69796,
+      "bytes": 69205,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -123,7 +123,7 @@
     {
       "index": 5,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/la-oss-replaces-saas/slide-06.png",
-      "bytes": 69934,
+      "bytes": 68979,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -175,7 +175,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/la-oss-replaces-saas/slide-08.png",
-      "bytes": 202067,
+      "bytes": 202682,
       "qa": {
         "verdict": "pass",
         "checks": {

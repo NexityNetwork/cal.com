@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/la-postgres-superpowers/slide-01.png",
-      "bytes": 59105,
+      "bytes": 56684,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -19,7 +19,7 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/la-postgres-superpowers/slide-02.png",
-      "bytes": 89468,
+      "bytes": 87790,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -97,7 +97,7 @@
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/la-postgres-superpowers/slide-05.png",
-      "bytes": 85803,
+      "bytes": 84271,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -149,7 +149,7 @@
     {
       "index": 6,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/la-postgres-superpowers/slide-07.png",
-      "bytes": 86380,
+      "bytes": 85547,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -175,7 +175,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/la-postgres-superpowers/slide-08.png",
-      "bytes": 182940,
+      "bytes": 183627,
       "qa": {
         "verdict": "pass",
         "checks": {

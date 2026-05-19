@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/fdr-freelancer-to-agency/slide-01.png",
-      "bytes": 112020,
+      "bytes": 111493,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -19,7 +19,7 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/fdr-freelancer-to-agency/slide-02.png",
-      "bytes": 104355,
+      "bytes": 103786,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -35,7 +35,7 @@
     {
       "index": 2,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/fdr-freelancer-to-agency/slide-03.png",
-      "bytes": 99786,
+      "bytes": 97532,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -51,7 +51,7 @@
     {
       "index": 3,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/fdr-freelancer-to-agency/slide-04.png",
-      "bytes": 103445,
+      "bytes": 102697,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -83,7 +83,7 @@
     {
       "index": 5,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/fdr-freelancer-to-agency/slide-06.png",
-      "bytes": 97217,
+      "bytes": 96036,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -99,7 +99,7 @@
     {
       "index": 6,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/fdr-freelancer-to-agency/slide-07.png",
-      "bytes": 102535,
+      "bytes": 100773,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -115,7 +115,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/fdr-freelancer-to-agency/slide-08.png",
-      "bytes": 71288,
+      "bytes": 70409,
       "qa": {
         "verdict": "pass",
         "checks": {

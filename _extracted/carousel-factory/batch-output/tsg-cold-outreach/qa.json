@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/tsg-cold-outreach/slide-01.png",
-      "bytes": 127134,
+      "bytes": 126713,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -19,7 +19,7 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/tsg-cold-outreach/slide-02.png",
-      "bytes": 98051,
+      "bytes": 97135,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -35,7 +35,7 @@
     {
       "index": 2,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/tsg-cold-outreach/slide-03.png",
-      "bytes": 97588,
+      "bytes": 96641,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -115,7 +115,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/tsg-cold-outreach/slide-08.png",
-      "bytes": 268368,
+      "bytes": 267816,
       "qa": {
         "verdict": "pass",
         "checks": {

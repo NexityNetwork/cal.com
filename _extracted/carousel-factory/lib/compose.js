@@ -202,16 +202,8 @@ function resolveIcon(slug, svg, color) {
     if (icon) {
       return `<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="${icon.path}" fill="${color}"/></svg>`;
     }
-    // Curated fallback for known brands not in simple-icons
-    const fb = BRAND_FALLBACK[normalized];
-    if (fb) {
-      const fontSize = fb.glyph.length === 1 ? 14 : fb.glyph.length === 2 ? 11 : 9;
-      return `<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><rect width="24" height="24" rx="4" fill="${fb.color}"/><text x="12" y="${fontSize >= 12 ? 17 : 16}" text-anchor="middle" font-family="Inter,sans-serif" font-weight="800" font-size="${fontSize}" fill="#fff">${fb.glyph}</text></svg>`;
-    }
-    // Generic deterministic-color monogram fallback — never renders blank
-    const glyph = monogramFromSlug(slug);
-    const bgColor = colorFromSlug(normalized);
-    return `<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><rect width="24" height="24" rx="4" fill="${bgColor}"/><text x="12" y="17" text-anchor="middle" font-family="Inter,sans-serif" font-weight="800" font-size="12" fill="#fff">${glyph}</text></svg>`;
+    // No simple-icons match → render nothing rather than a placeholder
+    // monogram. Empty SVG lets the DOM stripper collapse the chip.
   }
-  return `<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><rect width="24" height="24" rx="4" fill="${color}" opacity="0.25"/></svg>`;
+  return "";
 }

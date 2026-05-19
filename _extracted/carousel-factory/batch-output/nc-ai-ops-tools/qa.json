@@ -19,7 +19,7 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/nc-ai-ops-tools/slide-02.png",
-      "bytes": 99751,
+      "bytes": 99071,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -51,7 +51,7 @@
     {
       "index": 3,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/nc-ai-ops-tools/slide-04.png",
-      "bytes": 100385,
+      "bytes": 99862,
       "qa": {
         "verdict": "pass",
         "checks": {

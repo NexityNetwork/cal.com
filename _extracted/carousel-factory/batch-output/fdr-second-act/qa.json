@@ -19,7 +19,7 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/fdr-second-act/slide-02.png",
-      "bytes": 83255,
+      "bytes": 82845,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -67,7 +67,7 @@
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/fdr-second-act/slide-05.png",
-      "bytes": 85278,
+      "bytes": 84803,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -83,7 +83,7 @@
     {
       "index": 5,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/fdr-second-act/slide-06.png",
-      "bytes": 78751,
+      "bytes": 78321,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -99,7 +99,7 @@
     {
       "index": 6,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/fdr-second-act/slide-07.png",
-      "bytes": 79632,
+      "bytes": 79102,
       "qa": {
         "verdict": "pass",
         "checks": {

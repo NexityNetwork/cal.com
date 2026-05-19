@@ -35,7 +35,7 @@
     {
       "index": 2,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/tg-kubectl-shortcuts/slide-03.png",
-      "bytes": 157801,
+      "bytes": 156910,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -51,7 +51,7 @@
     {
       "index": 3,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/tg-kubectl-shortcuts/slide-04.png",
-      "bytes": 144489,
+      "bytes": 143782,
       "qa": {
         "verdict": "pass",
         "checks": {

@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/fdr-midlife-pivot/slide-01.png",
-      "bytes": 93827,
+      "bytes": 93290,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -19,7 +19,7 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/fdr-midlife-pivot/slide-02.png",
-      "bytes": 140960,
+      "bytes": 140193,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -35,7 +35,7 @@
     {
       "index": 2,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/fdr-midlife-pivot/slide-03.png",
-      "bytes": 131476,
+      "bytes": 130904,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -51,7 +51,7 @@
     {
       "index": 3,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/fdr-midlife-pivot/slide-04.png",
-      "bytes": 129685,
+      "bytes": 128915,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -67,7 +67,7 @@
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/fdr-midlife-pivot/slide-05.png",
-      "bytes": 128036,
+      "bytes": 126151,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -115,7 +115,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/fdr-midlife-pivot/slide-08.png",
-      "bytes": 95184,
+      "bytes": 94521,
       "qa": {
         "verdict": "pass",
         "checks": {

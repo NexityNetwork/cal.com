@@ -35,7 +35,7 @@
     {
       "index": 2,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/fdr-calm-over-growth/slide-03.png",
-      "bytes": 84181,
+      "bytes": 83674,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -51,7 +51,7 @@
     {
       "index": 3,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/fdr-calm-over-growth/slide-04.png",
-      "bytes": 83444,
+      "bytes": 83105,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -67,7 +67,7 @@
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/fdr-calm-over-growth/slide-05.png",
-      "bytes": 76372,
+      "bytes": 75794,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -83,7 +83,7 @@
     {
       "index": 5,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/fdr-calm-over-growth/slide-06.png",
-      "bytes": 76221,
+      "bytes": 75855,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -99,7 +99,7 @@
     {
       "index": 6,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/fdr-calm-over-growth/slide-07.png",
-      "bytes": 72317,
+      "bytes": 71741,
       "qa": {
         "verdict": "pass",
         "checks": {

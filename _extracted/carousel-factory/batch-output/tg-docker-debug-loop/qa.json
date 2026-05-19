@@ -21,7 +21,7 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/tg-docker-debug-loop/slide-02.png",
-      "bytes": 161719,
+      "bytes": 160936,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -53,7 +53,7 @@
     {
       "index": 3,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/tg-docker-debug-loop/slide-04.png",
-      "bytes": 149102,
+      "bytes": 148583,
       "qa": {
         "verdict": "pass",
         "checks": {

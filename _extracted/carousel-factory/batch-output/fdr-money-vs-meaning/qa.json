@@ -19,7 +19,7 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/fdr-money-vs-meaning/slide-02.png",
-      "bytes": 71623,
+      "bytes": 71287,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -51,7 +51,7 @@
     {
       "index": 3,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/fdr-money-vs-meaning/slide-04.png",
-      "bytes": 72821,
+      "bytes": 71722,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -67,7 +67,7 @@
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/fdr-money-vs-meaning/slide-05.png",
-      "bytes": 67441,
+      "bytes": 66851,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -83,7 +83,7 @@
     {
       "index": 5,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/fdr-money-vs-meaning/slide-06.png",
-      "bytes": 77234,
+      "bytes": 76681,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -115,7 +115,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/fdr-money-vs-meaning/slide-08.png",
-      "bytes": 59604,
+      "bytes": 58534,
       "qa": {
         "verdict": "pass",
         "checks": {

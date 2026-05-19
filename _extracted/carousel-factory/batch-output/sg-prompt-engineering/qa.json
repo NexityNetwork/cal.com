@@ -19,7 +19,7 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/sg-prompt-engineering/slide-02.png",
-      "bytes": 81649,
+      "bytes": 81265,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -45,7 +45,7 @@
     {
       "index": 2,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/sg-prompt-engineering/slide-03.png",
-      "bytes": 89955,
+      "bytes": 89453,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -97,7 +97,7 @@
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/sg-prompt-engineering/slide-05.png",
-      "bytes": 82220,
+      "bytes": 81641,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -123,7 +123,7 @@
     {
       "index": 5,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/sg-prompt-engineering/slide-06.png",
-      "bytes": 77150,
+      "bytes": 75505,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -175,7 +175,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/sg-prompt-engineering/slide-08.png",
-      "bytes": 45018,
+      "bytes": 44629,
       "qa": {
         "verdict": "pass",
         "checks": {

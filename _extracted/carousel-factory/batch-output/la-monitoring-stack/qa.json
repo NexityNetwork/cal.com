@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/la-monitoring-stack/slide-01.png",
-      "bytes": 56027,
+      "bytes": 55168,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -71,7 +71,7 @@
     {
       "index": 3,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/la-monitoring-stack/slide-04.png",
-      "bytes": 83311,
+      "bytes": 81734,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -175,7 +175,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/la-monitoring-stack/slide-08.png",
-      "bytes": 182107,
+      "bytes": 182313,
       "qa": {
         "verdict": "pass",
         "checks": {

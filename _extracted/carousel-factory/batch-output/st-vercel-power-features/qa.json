@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/st-vercel-power-features/slide-01.png",
-      "bytes": 102166,
+      "bytes": 101133,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -19,7 +19,7 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/st-vercel-power-features/slide-02.png",
-      "bytes": 76618,
+      "bytes": 75925,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -35,7 +35,7 @@
     {
       "index": 2,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/st-vercel-power-features/slide-03.png",
-      "bytes": 80413,
+      "bytes": 77705,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -67,7 +67,7 @@
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/st-vercel-power-features/slide-05.png",
-      "bytes": 81298,
+      "bytes": 80565,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -83,7 +83,7 @@
     {
       "index": 5,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/st-vercel-power-features/slide-06.png",
-      "bytes": 84110,
+      "bytes": 83537,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -99,7 +99,7 @@
     {
       "index": 6,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/st-vercel-power-features/slide-07.png",
-      "bytes": 81208,
+      "bytes": 79256,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -115,7 +115,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/st-vercel-power-features/slide-08.png",
-      "bytes": 74905,
+      "bytes": 72124,
       "qa": {
         "verdict": "pass",
         "checks": {

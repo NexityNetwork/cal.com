@@ -19,7 +19,7 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/pt-future-of-design/slide-02.png",
-      "bytes": 396600,
+      "bytes": 395699,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -35,7 +35,7 @@
     {
       "index": 2,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/pt-future-of-design/slide-03.png",
-      "bytes": 415690,
+      "bytes": 414005,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -51,7 +51,7 @@
     {
       "index": 3,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/pt-future-of-design/slide-04.png",
-      "bytes": 422490,
+      "bytes": 421693,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -67,7 +67,7 @@
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/pt-future-of-design/slide-05.png",
-      "bytes": 420718,
+      "bytes": 418544,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -83,7 +83,7 @@
     {
       "index": 5,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/pt-future-of-design/slide-06.png",
-      "bytes": 384550,
+      "bytes": 382821,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -115,7 +115,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/pt-future-of-design/slide-08.png",
-      "bytes": 775186,
+      "bytes": 775199,
       "qa": {
         "verdict": "pass",
         "checks": {

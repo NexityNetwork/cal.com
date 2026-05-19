@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/la-vibe-code-tools/slide-01.png",
-      "bytes": 59037,
+      "bytes": 58188,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -149,7 +149,7 @@
     {
       "index": 6,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/la-vibe-code-tools/slide-07.png",
-      "bytes": 80566,
+      "bytes": 79009,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -175,7 +175,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/la-vibe-code-tools/slide-08.png",
-      "bytes": 202192,
+      "bytes": 201348,
       "qa": {
         "verdict": "pass",
         "checks": {

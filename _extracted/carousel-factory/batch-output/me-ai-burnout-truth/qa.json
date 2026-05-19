@@ -19,7 +19,7 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/me-ai-burnout-truth/slide-02.png",
-      "bytes": 82567,
+      "bytes": 82182,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -35,7 +35,7 @@
     {
       "index": 2,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/me-ai-burnout-truth/slide-03.png",
-      "bytes": 75983,
+      "bytes": 75423,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -51,7 +51,7 @@
     {
       "index": 3,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/me-ai-burnout-truth/slide-04.png",
-      "bytes": 75258,
+      "bytes": 74683,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -67,7 +67,7 @@
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/me-ai-burnout-truth/slide-05.png",
-      "bytes": 80949,
+      "bytes": 80444,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -83,7 +83,7 @@
     {
       "index": 5,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/me-ai-burnout-truth/slide-06.png",
-      "bytes": 78665,
+      "bytes": 77033,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -99,7 +99,7 @@
     {
       "index": 6,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/me-ai-burnout-truth/slide-07.png",
-      "bytes": 77312,
+      "bytes": 76782,
       "qa": {
         "verdict": "pass",
         "checks": {

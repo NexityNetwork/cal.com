@@ -3,7 +3,7 @@
     {
       "index": 0,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/tsg-podcast-business/slide-01.png",
-      "bytes": 121926,
+      "bytes": 121428,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -67,7 +67,7 @@
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/tsg-podcast-business/slide-05.png",
-      "bytes": 105854,
+      "bytes": 104509,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -83,7 +83,7 @@
     {
       "index": 5,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/tsg-podcast-business/slide-06.png",
-      "bytes": 105226,
+      "bytes": 104832,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -115,7 +115,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/tsg-podcast-business/slide-08.png",
-      "bytes": 282193,
+      "bytes": 281564,
       "qa": {
         "verdict": "pass",
         "checks": {

@@ -35,7 +35,7 @@
     {
       "index": 2,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/nc-realtime-pipelines/slide-03.png",
-      "bytes": 110814,
+      "bytes": 109438,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -99,7 +99,7 @@
     {
       "index": 6,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/nc-realtime-pipelines/slide-07.png",
-      "bytes": 110330,
+      "bytes": 109708,
       "qa": {
         "verdict": "pass",
         "checks": {

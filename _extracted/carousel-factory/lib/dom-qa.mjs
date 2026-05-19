@@ -144,6 +144,10 @@ function stripEmptyDecorativesDom() {
     "top-row", "bottom-row", "bottom-bar", "header-bar", "footer-bar",
     "btn-row", "author-bar", "author-sticky-row", "author-info", "author-card",
   ];
+  // Icon chip containers — collapse when their <svg> is empty/absent (the
+  // model hallucinated a slug that isn't in simple-icons). Also collapse the
+  // parent .chips row when all its chips vanished.
+  const CHIP_CLASSES = ["chip", "chips", "tile", "tile-row", "icons", "icon-row", "icon-grid"];
   const SEPARATOR_RE = /[→←↑↓•·|\/\s]/g;
 
   function textEmpty(el) {
@@ -159,11 +163,20 @@ function stripEmptyDecorativesDom() {
         if (textEmpty(el)) { el.remove(); removed = true; }
       });
     }
+    // Chip containers: collapse chips whose <svg> has no <path> (empty
+    // placeholder), then collapse parent rows once all chips are gone.
+    for (const cls of CHIP_CLASSES) {
+      document.querySelectorAll("." + cls).forEach((el) => {
+        if (textEmpty(el) && !el.querySelector("svg path, img, picture")) {
+          el.remove(); removed = true;
+        }
+      });
+    }
     // Row containers: collapse if all element children gone (text-empty AND
     // no image/svg content left). This keeps rows with icon chips around.
     for (const cls of ROW_CLASSES) {
       document.querySelectorAll("." + cls).forEach((el) => {
-        const hasMedia = el.querySelector("svg,img,picture,canvas");
+        const hasMedia = el.querySelector("svg path, img, picture, canvas");
         if (!hasMedia && textEmpty(el)) { el.remove(); removed = true; }
       });
     }

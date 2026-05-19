@@ -19,7 +19,7 @@
     {
       "index": 1,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/fdr-vc-no-thanks/slide-02.png",
-      "bytes": 130795,
+      "bytes": 130036,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -67,7 +67,7 @@
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/fdr-vc-no-thanks/slide-05.png",
-      "bytes": 129653,
+      "bytes": 129116,
       "qa": {
         "verdict": "pass",
         "checks": {

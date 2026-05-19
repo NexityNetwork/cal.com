@@ -35,7 +35,7 @@
     {
       "index": 2,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/tg-git-deep-cuts/slide-03.png",
-      "bytes": 162434,
+      "bytes": 161582,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -67,7 +67,7 @@
     {
       "index": 4,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/tg-git-deep-cuts/slide-05.png",
-      "bytes": 151757,
+      "bytes": 151100,
       "qa": {
         "verdict": "pass",
         "checks": {
@@ -115,7 +115,7 @@
     {
       "index": 7,
       "pngPath": "/home/user/cal.com/_extracted/carousel-factory/batch-output/tg-git-deep-cuts/slide-08.png",
-      "bytes": 246347,
+      "bytes": 246056,
       "qa": {
         "verdict": "pass",
         "checks": {
